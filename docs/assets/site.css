@@ -1,0 +1,58 @@
+/* Tempered: shared styles. Workshop bench grey, paper white, black ink, one orange accent. */
+:root{
+  --bg:#e9e7e1;--panel:#f7f6f2;--field:#fff;--ink:#1b1a18;--mute:#5f5c55;--line:#cfccc3;
+  --acc:#e8590c;--accInk:#b8430a;--ok:#2f7d32;--okBg:#e3f1e3;--warn:#8a5a00;--warnBg:#fbf0d4;--chip:#e1ded6;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme=light]){
+    --bg:#1b1a18;--panel:#262522;--field:#1f1e1b;--ink:#efede7;--mute:#a9a59c;--line:#3d3b36;
+    --accInk:#ff8c4a;--ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--chip:#34322d;
+    color-scheme:dark;
+  }
+}
+:root[data-theme=dark]{
+  --bg:#1b1a18;--panel:#262522;--field:#1f1e1b;--ink:#efede7;--mute:#a9a59c;--line:#3d3b36;
+  --accInk:#ff8c4a;--ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--chip:#34322d;
+  color-scheme:dark;
+}
+*{box-sizing:border-box;min-width:0}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Archivo,system-ui,-apple-system,"Segoe UI",sans-serif;overflow-x:clip}
+a{color:var(--accInk)}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.band{padding:clamp(20px,3vw,40px) max(4vw,16px)}
+.inner{max-width:1240px;margin:0 auto}
+
+/* Top bar */
+.top{border-bottom:1px solid var(--line);background:var(--panel)}
+.top .inner{display:flex;align-items:center;gap:8px 20px;flex-wrap:wrap;padding:10px max(4vw,16px)}
+.brand{font-weight:800;font-size:20px;text-decoration:none;color:var(--ink);display:flex;align-items:center;gap:8px;margin-right:auto}
+.brand i{display:inline-block;width:14px;height:20px;border:2.5px solid var(--ink);border-radius:3px;position:relative}
+.brand i::after{content:"";position:absolute;inset:3px 2px auto auto;width:4px;height:4px;background:var(--acc);border-radius:50%}
+.top nav{display:flex;gap:4px;flex-wrap:wrap}
+.top nav a{color:var(--ink);text-decoration:none;padding:8px 12px;border-radius:8px;font-weight:600;font-size:15px}
+.top nav a[aria-current=page]{background:var(--ink);color:var(--bg)}
+.top nav a:hover:not([aria-current]){background:var(--chip)}
+
+h1{font-size:clamp(28px,4vw,42px);line-height:1.08;margin:0 0 8px;font-weight:800;text-wrap:balance}
+h2{font-size:22px;line-height:1.2;margin:0 0 10px}
+.lede{margin:0;color:var(--mute);max-width:72ch}
+.note{font-size:13px;color:var(--mute);margin:0}
+
+/* Form controls */
+select,input[type=number],input[type=search],input[type=text],textarea{font:inherit;font-size:16px;color:var(--ink);background:var(--field);border:1px solid var(--line);border-radius:8px;padding:9px 10px;min-height:44px;width:100%}
+button{font:inherit;font-weight:600;font-size:15px;min-height:44px;padding:0 16px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--ink);cursor:pointer}
+button.go{background:var(--acc);border-color:var(--acc);color:#fff;font-size:17px}
+button:disabled{opacity:.5;cursor:not-allowed}
+
+/* Chips and badges */
+.chip{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--ink);white-space:nowrap}
+.badge{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.badge.ok{background:var(--okBg);color:var(--ok)}
+.badge.warn{background:var(--warnBg);color:var(--warn)}
+.code{font-family:ui-monospace,"Cascadia Mono",Consolas,monospace;font-weight:700;letter-spacing:.02em}
+
+footer.band{border-top:1px solid var(--line);color:var(--mute);font-size:14px}
+footer p{margin:0 0 6px;max-width:80ch}

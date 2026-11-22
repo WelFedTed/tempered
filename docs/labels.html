@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Label maker · Tempered</title>
+<meta name="description" content="Print divider tabs and pack stickers for screen protector fit groups, for thermal label printers or A4 sheets.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+header.band{padding-bottom:0}
+.wrap{display:grid;grid-template-columns:minmax(0,350px) minmax(0,1fr);gap:24px}
+@media(max-width:820px){.wrap{grid-template-columns:minmax(0,1fr)}.preview{order:-1}}
+.controls{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:grid;gap:16px;align-content:start}
+fieldset{border:0;margin:0;padding:0;display:grid;gap:8px}
+legend{font-weight:600;font-size:14px;margin-bottom:6px;padding:0}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg label{flex:1 1 auto;position:relative}
+.seg input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+.seg span{display:block;text-align:center;padding:10px 12px;border:1px solid var(--line);border-radius:8px;font-size:15px;min-height:44px;cursor:pointer}
+.seg input:checked+span{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.seg input:focus-visible+span{outline:3px solid var(--acc);outline-offset:2px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.row>*{flex:1 1 120px}
+.chk{display:flex;gap:8px;align-items:center;min-height:36px;font-size:15px}
+.chk input{width:20px;height:20px;accent-color:var(--acc);flex:none}
+button.go{width:100%}
+.list{max-height:320px;overflow:auto;border:1px solid var(--line);border-radius:8px;padding:4px 10px;background:var(--field)}
+.list .chk{font-size:14px;min-height:32px}
+.list b{width:72px;flex:none;font-family:ui-monospace,"Cascadia Mono",Consolas,monospace}
+.list small{color:var(--mute);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.status{font-size:14px;color:var(--accInk);min-height:1.5em;margin:0}
+.preview{display:grid;gap:12px;align-content:start}
+.count{font-weight:600;margin:0}
+.sheet{display:flex;flex-wrap:wrap;gap:14px;padding:18px;border-radius:12px;background:color-mix(in srgb,var(--ink) 12%,var(--bg));min-height:240px;align-content:flex-start}
+.sheet canvas{background:#fff;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.25),0 4px 10px rgba(0,0,0,.12);max-width:100%;height:auto}
+.selbar{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:14px}
+.selbar button{min-height:32px;font-size:13px;padding:0 10px}
+</style>
+</head>
+<body>
+<div class="top"><div class="inner">
+<a class="brand" href="./"><i aria-hidden="true"></i>Tempered</a>
+<nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html" aria-current="page">Label maker</a><a href="storage.html">Storage system</a></nav>
+</div></div>
+
+<header class="band"><div class="inner">
+<h1>Label maker</h1>
+<p class="lede">Print divider tabs and pack stickers for any fit group. Pick a size, choose the groups and glass types you carry, then download a PDF for your label printer or an A4 sheet.</p>
+</div></header>
+
+<div class="band"><div class="inner wrap">
+<form class="controls" id="f" autocomplete="off" onsubmit="return false">
+<fieldset><legend>Label</legend>
+<div class="seg"><label><input type="radio" name="kind" value="div" checked><span>Divider tab</span></label><label><input type="radio" name="kind" value="pack"><span>Pack sticker</span></label></div>
+</fieldset>
+<fieldset><legend>Size (mm)</legend>
+<select id="size" aria-label="Label size">
+<option value="50x25">50 × 25 thermal (divider default)</option>
+<option value="50x30">50 × 30 thermal</option>
+<option value="40x30">40 × 30 thermal (sticker default)</option>
+<option value="40x20">40 × 20 thermal</option>
+<option value="62x29">62 × 29 Brother DK-11209</option>
+<option value="custom">Custom…</option>
+</select>
+<div class="row" id="customRow" hidden><input type="number" id="cw" min="15" max="150" step="1" value="50" aria-label="Width mm"><input type="number" id="ch" min="10" max="100" step="1" value="25" aria-label="Height mm"></div>
+</fieldset>
+<fieldset><legend>Output</legend>
+<div class="seg"><label><input type="radio" name="layout" value="roll" checked><span>Label printer</span></label><label><input type="radio" name="layout" value="a4"><span>A4 sheet</span></label></div>
+</fieldset>
+<fieldset><legend>Glass types</legend>
+<div class="row"><label class="chk"><input type="checkbox" name="t" value="C" checked>Clear</label><label class="chk"><input type="checkbox" name="t" value="P">Privacy</label><label class="chk"><input type="checkbox" name="t" value="M">Matte</label></div>
+</fieldset>
+<fieldset><legend>Copies of each label</legend>
+<input type="number" id="copies" min="1" max="200" step="1" value="1" aria-label="Copies of each label">
+</fieldset>
+<fieldset><legend>Groups</legend>
+<div class="row"><select id="dev" aria-label="Device"><option value="">All devices</option><option value="Phone">Phones (1000s)</option><option value="Tablet">Tablets (2000s)</option><option value="Wearable">Wearables (3000s)</option><option value="Handheld">Handhelds (4000s)</option><option value="Misc">Misc (0000s)</option></select><select id="brand" aria-label="Brand"><option value="">All brands</option></select></div>
+<input type="search" id="q" placeholder="Search a model or code" aria-label="Search groups">
+<label class="chk"><input type="checkbox" id="onlySel">Show selected only</label>
+<div class="row"><button type="button" id="all">Select shown</button><button type="button" id="none">Clear shown</button></div>
+<div class="list" id="list"><p class="note">Loading the catalogue…</p></div>
+<div class="selbar"><span id="selCount">0 groups selected</span><button type="button" id="clearSel">Clear all</button></div>
+</fieldset>
+<button type="button" class="go" id="dl" disabled>Download PDF</button>
+<p class="status" id="status" role="status"></p>
+</form>
+<section class="preview" aria-live="polite">
+<p class="count" id="count"></p>
+<div class="sheet" id="sheet"></div>
+<p class="note">Clear = outlined badge · Privacy = solid black badge · Matte = double outline. All labels print black on white, so they work on thermal printers. Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1476</span>.</p>
+</section>
+</div></div>
+
+<footer class="band"><div class="inner">
+<p>Fits are a guide, not a guarantee. Found a wrong fit or a missing model? <a href="https://github.com/WelFedTed/tempered/issues">Open an issue</a>.</p>
+</div></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="assets/catalogue.js"></script>
+<script>
+{
+let groups = [], CAT = null;
+const sel = new Set();
+const $ = id => document.getElementById(id);
+const esc = Tempered.esc;
+const TYPE = {C: 'CLEAR', P: 'PRIVACY', M: 'MATTE'};
+const PT = 0.3528;
+
+function shorten(models) {
+  if (models.length < 2) return models[0] || '';
+  const w = models.map(m => m.split(' '));
+  let n = 0;
+  while (w.every(x => x.length > n + 1 && x[n] === w[0][n])) n++;
+  if (!n) return models.join(' · ');
+  return w[0].slice(0, n).join(' ') + ' ' + w.map(x => x.slice(n).join(' ')).join(' · ');
+}
+function wrap(P, text, maxW, pt) {
+  const out = []; let cur = '';
+  for (const word of text.split(' ')) {
+    const t = cur ? cur + ' ' + word : word;
+    if (P.w(t, pt, false) <= maxW || !cur) cur = t; else { out.push(cur); cur = word; }
+  }
+  if (cur) out.push(cur);
+  return out;
+}
+function drawLabel(P, L, W, H) {
+  const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
+  const code = L.id + '-' + L.type, tn = TYPE[L.type];
+  const bPt = Math.max(5, Math.min(8, H * 0.28));
+  const bh = bPt * PT * 0.72 + 1.8, bw = P.w(tn, bPt, true) + 2.4;
+  let idPt = 60;
+  while (idPt > 6 && (P.w(code, idPt, true) > W - 2 * pad - bw - 1.5 || idPt * PT * 0.72 > (H - 2 * pad) * 0.42)) idPt -= 0.5;
+  const cap = idPt * PT * 0.72;
+  P.text(code, pad, pad + cap, idPt, true, '#000');
+  const bx = W - pad - bw, by = pad + Math.max(0, (cap - bh) / 2);
+  if (L.type === 'P') { P.rect(bx, by, bw, bh, '#000', null); P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#fff'); }
+  else {
+    P.rect(bx, by, bw, bh, null, 0.3);
+    if (L.type === 'M') P.rect(bx + 0.6, by + 0.6, bw - 1.2, bh - 1.2, null, 0.25);
+    P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#000');
+  }
+  const top = pad + cap + Math.max(1, H * 0.06);
+  const bottom = H - pad;
+  const text = shorten(L.models);
+  let pt = Math.min(14, Math.max(7, H * 0.4)), lines, lh;
+  for (; pt >= 4.5; pt -= 0.5) {
+    lines = wrap(P, text, W - 2 * pad, pt); lh = pt * PT * 1.18;
+    if (lines.length * lh <= bottom - top) break;
+  }
+  if (pt < 4.5) {
+    pt = 4.5; lh = pt * PT * 1.18;
+    const max = Math.max(1, Math.floor((bottom - top) / lh));
+    if (lines.length > max) { lines = lines.slice(0, max); lines[max - 1] += ' …'; }
+  }
+  lines.forEach((ln, i) => P.text(ln, pad, top + lh * i + pt * PT * 0.8, pt, false, '#000'));
+}
+function canvasPainter(ctx) {
+  const f = (pt, b) => `${b ? 700 : 400} ${pt * PT}px Helvetica, Arial, sans-serif`;
+  return {
+    w(s, pt, b) { ctx.font = f(pt, b); return ctx.measureText(s).width; },
+    text(s, x, y, pt, b, c) { ctx.font = f(pt, b); ctx.fillStyle = c; ctx.fillText(s, x, y); },
+    rect(x, y, w, h, fill, lw) { if (fill) { ctx.fillStyle = fill; ctx.fillRect(x, y, w, h); } if (lw) { ctx.lineWidth = lw; ctx.strokeStyle = '#000'; ctx.strokeRect(x, y, w, h); } }
+  };
+}
+function pdfPainter(doc, ox, oy) {
+  const font = (pt, b) => { doc.setFont('helvetica', b ? 'bold' : 'normal'); doc.setFontSize(pt); };
+  return {
+    w(s, pt, b) { font(pt, b); return doc.getTextWidth(s); },
+    text(s, x, y, pt, b, c) { font(pt, b); doc.setTextColor(c); doc.text(s, ox + x, oy + y); },
+    rect(x, y, w, h, fill, lw) {
+      if (fill) { doc.setFillColor(fill); doc.rect(ox + x, oy + y, w, h, 'F'); }
+      if (lw) { doc.setDrawColor('#000000'); doc.setLineWidth(lw); doc.rect(ox + x, oy + y, w, h, 'S'); }
+    }
+  };
+}
+const val = n => [...document.querySelectorAll(`input[name=${n}]:checked`)].map(i => i.value);
+function size() {
+  const v = $('size').value;
+  if (v === 'custom') return [Math.min(150, Math.max(15, +$('cw').value || 50)), Math.min(100, Math.max(10, +$('ch').value || 25))];
+  return v.split('x').map(Number);
+}
+function labels() {
+  const types = val('t'), out = [];
+  const copies = Math.max(1, Math.min(200, Math.round(+$('copies').value) || 1));
+  for (const g of groups) {
+    if (!sel.has(g.id)) continue;
+    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0])});
+  }
+  return out;
+}
+function shown() {
+  if (!CAT) return [];
+  let S = Tempered.search(CAT, $('q').value, {dev: $('dev').value, brand: $('brand').value});
+  if (!Tempered.terms($('q').value).length) { const keep = new Set(S); S = groups.filter(g => keep.has(g)); }
+  if ($('onlySel').checked) S = S.filter(g => sel.has(g.id));
+  return S;
+}
+const MAXLIST = 300;
+function renderList() {
+  const S = shown(), more = S.length - MAXLIST;
+  $('list').innerHTML = S.slice(0, MAXLIST).map(g => `<label class="chk"><input type="checkbox" data-id="${g.id}" ${sel.has(g.id) ? 'checked' : ''}><b>${g.id}</b><small>${esc(g.models.map(m => m[0]).join(', '))}</small></label>`).join('') + (more > 0 ? `<p class="note">${more.toLocaleString()} more groups: pick a brand or search to narrow the list. "Select shown" still selects all ${S.length.toLocaleString()}.</p>` : '') || '<p class="note">No groups match.</p>';
+}
+function renderPreview() {
+  const L = labels(), [W, H] = size(), k = 5, dpr = window.devicePixelRatio || 1;
+  $('selCount').textContent = `${sel.size.toLocaleString()} group${sel.size === 1 ? '' : 's'} selected`;
+  $('count').textContent = L.length ? `${L.length.toLocaleString()} label${L.length > 1 ? 's' : ''} at ${W} × ${H} mm` + (L.length > 30 ? ' · showing the first 30' : '') : 'No labels selected yet. Tick a glass type and at least one group.';
+  $('dl').disabled = !L.length;
+  const sh = $('sheet'); sh.innerHTML = '';
+  for (const l of L.slice(0, 30)) {
+    const c = document.createElement('canvas');
+    c.width = W * k * dpr; c.height = H * k * dpr; c.style.width = W * k + 'px';
+    const ctx = c.getContext('2d'); ctx.scale(k * dpr, k * dpr);
+    drawLabel(canvasPainter(ctx), l, W, H);
+    sh.appendChild(c);
+  }
+  save();
+}
+function buildPdf() {
+  const {jsPDF} = window.jspdf, L = labels(), [W, H] = size();
+  if ($('f').layout.value === 'a4') {
+    const doc = new jsPDF({unit: 'mm', format: 'a4'}), m = 8, gap = 2;
+    const cols = Math.max(1, Math.floor((210 - 2 * m + gap) / (W + gap))), rows = Math.max(1, Math.floor((297 - 2 * m + gap) / (H + gap)));
+    L.forEach((l, i) => {
+      const p = i % (cols * rows);
+      if (i && !p) doc.addPage();
+      const x = m + (p % cols) * (W + gap), y = m + Math.floor(p / cols) * (H + gap);
+      doc.setDrawColor('#b4b4b4'); doc.setLineWidth(0.1); doc.rect(x, y, W, H, 'S');
+      drawLabel(pdfPainter(doc, x, y), l, W, H);
+    });
+    return doc;
+  }
+  const o = W > H ? 'landscape' : 'portrait';
+  const doc = new jsPDF({unit: 'mm', format: [W, H], orientation: o});
+  L.forEach((l, i) => { if (i) doc.addPage([W, H], o); drawLabel(pdfPainter(doc, 0, 0), l, W, H); });
+  return doc;
+}
+$('dl').addEventListener('click', () => {
+  const L = labels();
+  if (!L.length) { $('status').textContent = 'Nothing to print yet: tick a glass type and at least one group.'; return; }
+  if (!window.jspdf) { $('status').textContent = "The PDF library didn't load. Reload the page and try again."; return; }
+  const kind = $('f').kind.value === 'div' ? 'divider-tabs' : 'pack-stickers';
+  try {
+    buildPdf().save(`${kind}-${size().join('x')}mm.pdf`);
+    $('status').textContent = `Saved ${L.length.toLocaleString()} labels.`;
+  } catch (e) { $('status').textContent = "Couldn't make the PDF."; }
+});
+function selectFromHash() {
+  const ids = decodeURIComponent(location.hash.slice(1)).split(',').map(s => s.trim().toUpperCase()).filter(id => CAT.byId[id]);
+  if (!ids.length) return;
+  sel.clear(); ids.forEach(id => sel.add(id));
+  $('onlySel').checked = true;
+  renderList(); renderPreview();
+}
+$('list').addEventListener('change', e => { const id = e.target.dataset.id; if (!id) return; e.target.checked ? sel.add(id) : sel.delete(id); renderPreview(); });
+$('all').addEventListener('click', () => { shown().forEach(g => sel.add(g.id)); renderList(); renderPreview(); });
+$('none').addEventListener('click', () => { shown().forEach(g => sel.delete(g.id)); renderList(); renderPreview(); });
+$('clearSel').addEventListener('click', () => { sel.clear(); renderList(); renderPreview(); });
+let t;
+$('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(renderList, 120); });
+['brand', 'dev', 'onlySel'].forEach(id => $(id).addEventListener('change', renderList));
+$('size').addEventListener('change', () => { $('customRow').hidden = $('size').value !== 'custom'; renderPreview(); });
+document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; renderPreview(); }));
+['cw', 'ch', 'copies'].forEach(id => $(id).addEventListener('input', renderPreview));
+document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.addEventListener('change', renderPreview));
+window.addEventListener('hashchange', () => CAT && selectFromHash());
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; } } catch (e) {}
+
+Tempered.load().then(cat => {
+  CAT = cat; groups = cat.groups;
+  $('brand').insertAdjacentHTML('beforeend', cat.brandOrder.map(c => `<option value="${c}">${esc(cat.brandNames[c])}</option>`).join(''));
+  renderList();
+  selectFromHash();
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(renderPreview);
+}).catch(() => { $('list').innerHTML = '<p class="note">Couldn\'t load the catalogue. Reload the page to try again.</p>'; });
+}
+</script>
+</body>
+</html>

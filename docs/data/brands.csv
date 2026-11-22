@@ -1,0 +1,158 @@
+Code,Brand,Notes
+APP,Apple,"iPhone, iPad, Apple Watch"
+SAM,Samsung,"Galaxy phones, Galaxy Tab, Galaxy Watch and Gear. Ultrasonic fingerprint phones need FP-compatible glass"
+GOO,Google,"Nexus and Pixel phones, tablets, Pixel Watch, and Fitbit trackers and watches (Google owns Fitbit). Screen-free Fitbit Air not included"
+OPP,Oppo,
+ONE,OnePlus,
+ZTE,ZTE,"Includes nubia, Red Magic and ZTE-made Telstra and Optus phones"
+MIC,Microsoft,"Lumia and Surface Duo phones, Surface tablets"
+LEN,Lenovo,"Phones, Tab tablets, Legion Go and cloud handhelds"
+ASU,Asus,"Phones, tablets, Zenwatch, ROG Ally handhelds. ASU-4001 also fits the 7in MSI Claws"
+MOT,Motorola,"Phones, tablets, Moto 360 and Moto Watch"
+XIA,Xiaomi / Redmi / Poco,
+OPE,Opel Mobile,Smartphones only. Release order approximate
+NOK,Nokia / HMD,"Nokia smartphones (Symbian, Lumia, Android), HMD phones, Nokia Steel HR/Go. Microsoft-branded Lumias are under MIC. Feature and KaiOS phones not included"
+VIV,vivo / iQOO,"vivo and iQOO phones, tablets and watches"
+REA,Realme,"Phones, tablets, watches and bands"
+HUA,Huawei,"Phones, MatePad tablets, watches and bands. Band release months approximate. Feature phones not included"
+HON,Honor,"Phones (including pre-2020 Huawei-era Honor models), tablets, watches and bands. Band release months approximate"
+TCL,TCL / Alcatel,TCL and Alcatel smartphones and tablets. Feature and KaiOS phones not included
+NTH,Nothing / CMF,Nothing and CMF phones and watches
+LGE,LG,"Smartphones, tablets and watches (LG left phones in 2021). Feature phones not included"
+HTC,HTC,"Windows Mobile, Windows Phone and Android phones, tablets"
+BLB,BlackBerry,"BlackBerry OS, BB10 and Android phones, PlayBook tablets"
+FAI,Fairphone,Fairphone 1 to 6
+KOG,Kogan,Kogan Agora phones and tablets (Australian). Release months approximate
+ASP,Aspera,Aspera smartphones (Australian). Easy/flip and rugged button phones not included. Release months approximate
+ALL,Allview,Smartphones and tablets. Feature phones not included
+AMZ,Amazon,"Fire Phone, Fire tablets and Kindle e-readers. Kids editions use the standard model glass"
+AMO,Amoi,Smartphones and tablets. Feature phones not included
+ARC,Archos,Smartphones and tablets. Feature phones not included
+ATT,AT&T,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+BEN,BenQ / BenQ-Siemens,BenQ and BenQ-Siemens smartphones. Feature phones not included
+BLV,Blackview,Rugged and budget phones and tablets. Oscal (Blackview sub-brand) twins grouped where specs match
+BLU,BLU,Smartphones and tablets. Feature phones not included
+BQX,BQ,Smartphones and tablets. Feature phones not included
+CAS,Casio,"G'zOne smartphones and Wear OS watches (Pro Trek WSD, G-Shock GSW). Plain digital watches not included"
+CAT,Cat (Caterpillar),Rugged Cat phones (made by Bullitt). Feature phones not included
+CEL,Celkon,Smartphones and tablets. Feature phones not included
+CPD,Coolpad,Smartphones and tablets. Feature phones not included
+CUB,Cubot,Smartphones and tablets. Feature phones not included
+DEL,Dell,Smartphones and tablets. Feature phones not included
+DOO,Doogee,Smartphones and tablets. Feature phones not included
+ENE,Energizer,Smartphones and tablets. Feature phones not included
+ETE,Eten,Smartphones and tablets. Feature phones not included
+FUJ,Fujitsu Siemens,Smartphones and tablets. Feature phones not included
+GIG,Gigabyte,Smartphones and tablets. Feature phones not included
+GIO,Gionee,Smartphones and tablets. Feature phones not included
+HAI,Haier,Smartphones and tablets. Feature phones not included
+HPQ,HP,Smartphones and tablets. Feature phones not included
+IMA,i-mate,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+IMO,i-mobile,Smartphones and tablets. Feature phones not included
+ICE,Icemobile,Smartphones and tablets. Feature phones not included
+INF,Infinix,Transsion brand. Twins of Tecno and itel phones are grouped together where specs match
+INQ,INQ,Smartphones and tablets. Feature phones not included
+INX,Intex,Smartphones and tablets. Feature phones not included
+ITE,itel,Transsion brand. Twins of Tecno and Infinix phones are grouped together where specs match. Feature phones not included
+JOL,Jolla,Smartphones and tablets. Feature phones not included
+KAR,Karbonn,Smartphones and tablets. Feature phones not included
+KYO,Kyocera,"Rugged phones (DuraForce, Torque) and DuraSlate. Flip/feature phones not included"
+LAV,Lava,Smartphones and tablets. Feature phones not included
+LEE,LeEco,Smartphones and tablets. Feature phones not included
+MXW,Maxwest,Smartphones and tablets. Feature phones not included
+MEI,Meizu,Smartphones and tablets. Feature phones not included
+MMX,Micromax,Smartphones and tablets. YU (Micromax online brand) twins grouped where specs match. Feature phones not included
+MIT,Mitac,Smartphones and tablets. Feature phones not included
+MSB,Mitsubishi,Smartphones and tablets. Feature phones not included
+MWG,MWg,Smartphones and tablets. Feature phones not included
+NEC,NEC,Terrain smartphone and the TurboExpress / PC Engine GT handheld (1990)
+NEO,Neonode,Smartphones and tablets. Feature phones not included
+NIU,NIU,Smartphones and tablets. Feature phones not included
+OTW,O2,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+ORA,Orange,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+OSC,Oscal,Blackview sub-brand. Twins grouped with Blackview where specs match
+OUK,Oukitel,Smartphones and tablets. Feature phones not included
+PLM,Palm,Palm Pre/Pixi/Treo smartphones and the 2018 Palm phone
+PNS,Panasonic,Smartphones and tablets. Feature phones not included
+PNT,Pantech,Smartphones and tablets. Feature phones not included
+PAR,Parla,Smartphones and tablets. Feature phones not included
+PHI,Philips,Smartphones and tablets. Feature phones not included
+PLU,Plum,Smartphones and tablets. Feature phones not included
+POS,Posh,Smartphones and tablets. Feature phones not included
+PRE,Prestigio,Smartphones and tablets. Feature phones not included
+QMO,QMobile,Smartphones and tablets. Feature phones not included
+QTE,Qtek,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+RUG,RugOne,Smartphones and tablets. Feature phones not included
+SAG,Sagem,Smartphones and tablets. Feature phones not included
+SEN,Sendo,Smartphones and tablets. Feature phones not included
+SHA,Sharp,Smartphones and tablets. Feature phones not included
+SIE,Siemens,Smartphones and tablets. Feature phones not included
+SNM,Sonim,Rugged phones. Feature phones not included
+SPI,Spice,Smartphones and tablets. Feature phones not included
+TMO,T-Mobile,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+TEC,Tecno,Transsion brand. Twins of Infinix and itel phones are grouped together where specs match
+TME,Tel.Me.,Smartphones and tablets. Feature phones not included
+TLT,Telit,Smartphones and tablets. Feature phones not included
+THU,Thuraya,Smartphones and tablets. Feature phones not included
+TOS,Toshiba,Smartphones and tablets. Feature phones not included
+ULE,Ulefone,Smartphones and tablets. Feature phones not included
+UMI,Umidigi,Smartphones and tablets. Feature phones not included
+UNN,Unnecto,Smartphones and tablets. Feature phones not included
+VRT,Vertu,Vertu smartphones. Signature button phones not included
+VER,verykool,Smartphones and tablets. Feature phones not included
+VOD,Vodafone,"Carrier/rebadge brand. Phones made by HTC, ZTE, Alcatel and others are grouped with the maker twin where specs match"
+WIK,Wiko,Smartphones and tablets. Feature phones not included
+XOL,XOLO,Smartphones and tablets. Feature phones not included
+YEZ,Yezz,Smartphones and tablets. Feature phones not included
+YOT,Yota,Smartphones and tablets. Feature phones not included
+YUX,YU,Micromax online brand
+NIN,Nintendo,Game Boy to Switch 2 and Pokémon mini
+VAL,Valve,Steam Deck
+MSI,MSI,Claw handhelds. 7in Claws use ASU-4001
+LOG,Logitech,G Cloud handheld
+GPD,GPD,"Win, Win Max, Win Mini and XD/XP handhelds. Pocket, MicroPC and Duo laptops not included. Release months approximate"
+SON,Sony,"Sony and Sony Ericsson smartphones (2002 on), Xperia tablets, SmartWatch, PSP, PS Vita, PlayStation Portal"
+RAZ,Razer,Razer Phone and Razer Edge
+RET,Retroid,Retroid Pocket handhelds. Release months approximate
+MIY,Miyoo,Release months approximate
+AYN,AYN,"Odin, Loki and Thor handhelds. Release months approximate"
+ANB,Anbernic,RG and WIN handhelds. Release months approximate
+TRI,TrimUI,Release months approximate
+AYA,AYANEO,Windows and Android handhelds. Release months approximate
+KON,KONKR,AYANEO's budget brand. Release months approximate
+ONX,OneXPlayer,Windows handhelds. Super X tablet not included. Release months approximate
+ZOT,Zotac,Zone handhelds
+BIT,Bittboy,Release months approximate
+POW,Powkiddy,Main retro handhelds only; Powkiddy makes many short-run models. Release months approximate
+MOD,ModRetro,"Chromatic handheld. M64 is a home console, not included"
+FUN,FunnyPlaying,Own handhelds only. Their IPS screen kits go in Nintendo Game Boys (NIN)
+CLK,ClockworkPi,"GameShell, DevTerm, uConsole and PicoCalc kits. Release months approximate"
+ANA,Analogue,"Pocket handheld. Analogue 3D, Duo, Mega Sg and Super Nt are home consoles, not included"
+PAN,Panic (Playdate),Playdate handheld
+SEG,SEGA,"Game Gear, Nomad and Game Gear Micro"
+ATA,Atari,Lynx handhelds
+SNK,SNK,Neo Geo Pocket handhelds
+BAN,Bandai,WonderSwan handhelds
+TIG,Tiger,Game.com handhelds
+NVI,NVIDIA,Shield Portable handheld and Shield/Tegra tablets. Shield TV has no screen
+ACE,Acer,"Liquid phones, Iconia tablets, Liquid Leap wearables, Nitro Blaze and Predator Atlas handhelds. Laptops and Chromebooks not included"
+MGX,MagicX,Retro handhelds. Release months approximate
+MNG,Mangmi,Android handhelds. Release months approximate
+GKD,GKD (Game Kiddy),Retro handhelds. Release months approximate
+EVC,Evercade,"Handhelds only. VS and Alpha are home and bartop systems, not included"
+HYP,Hyperkin,SupaBoy SNES handhelds. Retron home consoles not included
+MYA,My Arcade,Grouped by body style: every licensed game edition of a body shares one group. Release months approximate. Plug-and-play TV consoles not included
+UNI,Universal,Universal round watch glass by diameter (Misc range). Flat lenses only: measure the flat part of the lens before fitting
+GAR,Garmin,"Garmin watches and bands (2003 on) plus Garmin-Asus phones. Watch release months approximate. Sat navs, bike computers and handheld GPS not included"
+AMF,Amazfit,Amazfit watches and bands. Screen-free Helio Strap and Helio Ring not included. Release months approximate
+FOS,Fossil Group,"Fossil, Skagen, Michael Kors Access, Diesel and Emporio Armani Wear OS watches. Hybrids without touchscreens not included. Release months approximate"
+TIC,TicWatch (Mobvoi),TicWatch Wear OS and GTX/GTH watches. Release months approximate
+POL,Polar,Watches with screens. Screen-free Polar Loop not included. Release months approximate
+SUU,Suunto,Watches from Ambit on. Release months approximate
+COR,Coros,GPS watches. Dura bike computer not included. Release months approximate
+WIT,Withings,Hybrid and ScanWatch watches. Glass covers the whole analog face: measure the lens. Release months approximate
+SPT,Spacetalk,Kids and seniors 4G watches (Australian). Glass is model-specific. Release months approximate
+KOB,Kobo,E-readers (Tablet range). Release months approximate
+RMK,reMarkable,E-ink tablets (Tablet range)
+BOX,Onyx Boox,Main e-reader and e-ink tablet lines (Tablet range). Boox releases many variants: check the screen size. Release months approximate
+PKB,PocketBook,Main e-readers (Tablet range). Release months approximate

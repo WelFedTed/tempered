@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Storage system · Tempered</title>
+<meta name="description" content="A drawer system for screen protector packs: lanes, 3D-printed label dividers and one code per fit group.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+header.band{padding-bottom:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:grid;gap:10px;align-content:start}
+.card p,.card ol,.card ul{margin:0;font-size:15px}
+.card ol,.card ul{padding-left:20px;display:grid;gap:6px}
+section{margin-bottom:36px}
+figure{margin:0;display:grid;gap:6px}
+figure img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
+figcaption{font-size:13px;color:var(--mute)}
+.dl{display:grid;gap:8px}
+.dl a{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:10px 12px;border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--ink);font-weight:600;background:var(--field)}
+.dl a span{font-weight:400;color:var(--mute);font-size:13px}
+.divsvg{width:100%;max-width:420px;height:auto}
+.divsvg .body{fill:var(--acc)}
+.divsvg .hole{fill:var(--panel)}
+.divsvg .pocket{fill:#fff;stroke:var(--ink);stroke-width:.6}
+.divsvg text{font:700 7px ui-monospace,Consolas,monospace;fill:#000}
+.divsvg .dim{stroke:var(--mute);stroke-width:.4;fill:none}
+.divsvg .dimt{font:400 6px system-ui,sans-serif;fill:var(--mute)}
+</style>
+</head>
+<body>
+<div class="top"><div class="inner">
+<a class="brand" href="./"><i aria-hidden="true"></i>Tempered</a>
+<nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html">Label maker</a><a href="storage.html" aria-current="page">Storage system</a></nav>
+</div></div>
+
+<header class="band"><div class="inner">
+<h1>Storage system</h1>
+<p class="lede">Packs stand on their long edge in drawer lanes, filed by fit-group code. A 3D-printed divider with a label tab marks the start of each group, so finding glass for a customer's phone takes two steps: look it up, then pull the tab.</p>
+</div></header>
+
+<main class="band"><div class="inner">
+
+<section>
+<div class="grid">
+<figure><img src="media/1-drawer-overview.png" alt="Rendering of an open drawer unit with lanes of protector packs, each group behind an orange divider tab" loading="lazy" width="1920" height="1080"><figcaption>Lanes of packs in a shallow drawer unit, one drawer per brand range.</figcaption></figure>
+<figure><img src="media/2-tabs-close-up.png" alt="Close-up of staggered divider tabs carrying printed code labels" loading="lazy" width="1920" height="1080"><figcaption>Tabs staggered left, centre and right so they don't hide each other.</figcaption></figure>
+<figure><img src="media/3-samsung-lane.png" alt="One lane of Samsung protector packs with dividers between groups" loading="lazy" width="1920" height="1080"><figcaption>A single brand lane, oldest groups at the front.</figcaption></figure>
+</div>
+<p class="note" style="margin-top:8px">Concept renders. They show an early 3-digit code format; current codes have 4 digits (e.g. <span class="code">SAM-1476-C</span>).</p>
+</section>
+
+<section>
+<h2>How to set it up</h2>
+<div class="grid">
+<div class="card"><h3 style="margin:0">1. Plan the drawers</h3>
+<ul>
+<li>Give each drawer a range: phones from your busiest brands first, then tablets, wearables and handhelds.</li>
+<li>Within a lane, file groups in code order. Codes run oldest first, so new models go at the back.</li>
+<li>Put rarely sold groups in an overflow drawer, still in code order.</li>
+</ul></div>
+<div class="card"><h3 style="margin:0">2. Label the dividers</h3>
+<ul>
+<li>One divider per fit group, with a 50 × 25 mm tab label from the <a href="labels.html">label maker</a>.</li>
+<li>Print one tab per glass type you carry: Clear, Privacy or Matte.</li>
+<li>Mix left, centre and right tab dividers so every label stays visible.</li>
+</ul></div>
+<div class="card"><h3 style="margin:0">3. Sticker the packs</h3>
+<ul>
+<li>Put a 40 × 30 mm pack sticker on each pack as it arrives.</li>
+<li>The code tells you where a returned or loose pack belongs.</li>
+<li>The sticker lists every model it fits, so you can sell one pack for any of them.</li>
+</ul></div>
+</div>
+</section>
+
+<section>
+<h2>3D-printed dividers</h2>
+<div class="grid">
+<div class="card">
+<svg class="divsvg" viewBox="-8 -2 210 150" role="img" aria-label="Divider outline: a 184 by 85 millimetre plate with a cut-out window and a tab rising 40 millimetres above it, holding a 50 by 25 millimetre label">
+<path class="body" d="M3 45h181v82a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V48a3 3 0 0 1 3-3zM9 5h50a3 3 0 0 1 3 3v40H6V8a3 3 0 0 1 3-3z"/>
+<rect class="hole" x="12" y="59" width="160" height="59" rx="6"/>
+<rect class="pocket" x="8.5" y="7.5" width="51" height="26" rx="1"/>
+<text x="12" y="17">SAM-1476-C</text>
+<path class="dim" d="M0 138h184M0 135v6M184 135v6"/><text class="dimt" x="80" y="146">184 mm</text>
+<path class="dim" d="M192 45v85M189 45h6M189 130h6"/><text class="dimt" x="194" y="90">85</text>
+</svg>
+<p>Packs file in behind each divider; a small foot on the back stops it tipping. Print flat with the label face down. No supports. PLA or PETG at 0.2 mm layers.</p>
+<p class="note">Sized for phone packs of about 180 × 95 mm. Tablet dividers are 200 mm wide for packs up to 280 × 200 mm. For other pack sizes, open the OpenSCAD file and set <span class="code">pack_long</span> and <span class="code">pack_short</span>.</p>
+</div>
+<div class="card">
+<h3 style="margin:0">Downloads</h3>
+<div class="dl">
+<a href="dividers/divider_tab_left.stl" download>Phone divider, tab left <span>STL</span></a>
+<a href="dividers/divider_tab_centre.stl" download>Phone divider, tab centre <span>STL</span></a>
+<a href="dividers/divider_tab_right.stl" download>Phone divider, tab right <span>STL</span></a>
+<a href="dividers/tablet_divider_tab_left.stl" download>Tablet divider, tab left <span>STL</span></a>
+<a href="dividers/tablet_divider_tab_centre.stl" download>Tablet divider, tab centre <span>STL</span></a>
+<a href="dividers/tablet_divider_tab_right.stl" download>Tablet divider, tab right <span>STL</span></a>
+<a href="dividers/protector_divider.scad" download>Customisable source <span>OpenSCAD</span></a>
+</div>
+</div>
+</div>
+</section>
+
+</div></main>
+
+<footer class="band"><div class="inner">
+<p>Source, data and build scripts are on <a href="https://github.com/WelFedTed/tempered">GitHub</a>.</p>
+</div></footer>
+</body>
+</html>

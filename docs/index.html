@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tempered: screen protector fit finder</title>
+<meta name="description" content="Find which tempered-glass screen protector fits a phone, tablet, watch or handheld, and which other models share the same glass.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+.hero{padding-bottom:0}
+.searchbar{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,220px);gap:10px;margin-top:18px;max-width:900px}
+.searchbar input[type=search]{font-size:19px;min-height:54px;padding:12px 14px;border-width:2px;border-color:var(--ink)}
+.searchbar select{min-height:54px}
+@media(max-width:640px){.searchbar{grid-template-columns:minmax(0,1fr)}}
+.devs{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.devs label{position:relative}
+.devs input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+.devs span{display:block;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:14px;font-weight:600;cursor:pointer;background:var(--panel)}
+.devs input:checked+span{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.devs input:focus-visible+span{outline:3px solid var(--acc);outline-offset:2px}
+.summary{margin:0 0 14px;font-weight:600}
+.results{display:grid;gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:grid;gap:8px}
+.card header{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.card .code{font-size:22px}
+.card .bn{font-weight:600;color:var(--mute);margin-right:auto}
+.models{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:4px 18px}
+.models li{font-size:15px}
+.models li small{color:var(--mute);margin-left:4px;font-size:13px;white-space:nowrap}
+.models mark{background:color-mix(in srgb,var(--acc) 22%,transparent);color:inherit;border-radius:2px}
+.cnote{font-size:14px;color:var(--mute);margin:0}
+.acts{display:flex;gap:8px;flex-wrap:wrap}
+.acts a,.acts button{font-size:14px;min-height:36px;display:inline-flex;align-items:center;padding:0 12px;border-radius:8px;border:1px solid var(--line);text-decoration:none;color:var(--ink);background:transparent;font-weight:600}
+.more{margin-top:14px}
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;margin:0 0 18px}
+.stats div{display:grid}
+.stats b{font-size:28px;font-weight:800;line-height:1.1}
+.stats span{font-size:13px;color:var(--mute)}
+.explain{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:12px;margin-bottom:24px}
+.explain .card p{margin:0;font-size:15px}
+.big{font-size:26px}
+.big .t{color:var(--accInk)}
+table.ranges{border-collapse:collapse;font-size:14px;width:100%}
+table.ranges td{padding:3px 8px 3px 0;border-bottom:1px solid var(--line)}
+.brandnote{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:15px}
+</style>
+</head>
+<body>
+<div class="top"><div class="inner">
+<a class="brand" href="./"><i aria-hidden="true"></i>Tempered</a>
+<nav aria-label="Main"><a href="./" aria-current="page">Fit finder</a><a href="labels.html">Label maker</a><a href="storage.html">Storage system</a></nav>
+</div></div>
+
+<header class="band hero"><div class="inner">
+<h1>Which screen protector fits?</h1>
+<p class="lede">Type a phone, tablet, watch or handheld. You'll get its fit group code and every other model that takes the same tempered glass.</p>
+<form class="searchbar" role="search" onsubmit="return false">
+<input type="search" id="q" placeholder="e.g. Galaxy S24, iPhone 13 mini, Forerunner 265" aria-label="Search models or codes" autocomplete="off" spellcheck="false" autofocus>
+<select id="brand" aria-label="Brand"><option value="">All brands</option></select>
+</form>
+<div class="devs" role="group" aria-label="Device type" id="devs">
+<label><input type="radio" name="dev" value="" checked><span>All</span></label>
+<label><input type="radio" name="dev" value="Phone"><span>Phones</span></label>
+<label><input type="radio" name="dev" value="Tablet"><span>Tablets &amp; e-readers</span></label>
+<label><input type="radio" name="dev" value="Wearable"><span>Wearables</span></label>
+<label><input type="radio" name="dev" value="Handheld"><span>Handhelds</span></label>
+<label><input type="radio" name="dev" value="Misc"><span>Misc &amp; universal</span></label>
+</div>
+</div></header>
+
+<main class="band"><div class="inner">
+<p id="loading" class="summary">Loading the catalogue…</p>
+<div id="brandnote" class="brandnote" hidden></div>
+<p id="summary" class="summary" role="status" aria-live="polite"></p>
+<div id="results" class="results"></div>
+<button type="button" id="more" class="more" hidden>Show more</button>
+
+<section id="intro" hidden>
+<div class="stats" id="stats"></div>
+<div class="explain">
+<div class="card"><h2>How codes work</h2>
+<p class="big code">APP-1013<span class="t">-C</span></p>
+<p><b>APP</b> is the brand, <b>1013</b> is the fit group and <b>C</b> is the glass type: <b>C</b> Clear, <b>P</b> Privacy, <b>M</b> Matte. Every model in a group takes the same glass, so one label covers them all.</p></div>
+<div class="card"><h2>Number ranges</h2>
+<table class="ranges"><tbody>
+<tr><td class="code">0001+</td><td>Misc, incl. universal round watch glass (UNI)</td></tr>
+<tr><td class="code">1001+</td><td>Phones</td></tr>
+<tr><td class="code">2001+</td><td>Tablets and e-readers</td></tr>
+<tr><td class="code">3001+</td><td>Wearables</td></tr>
+<tr><td class="code">4001+</td><td>Handheld consoles</td></tr>
+</tbody></table>
+<p class="note" style="margin-top:8px">Within a brand, groups are numbered oldest first.</p></div>
+<div class="card"><h2>Confirmed vs unverified</h2>
+<p><span class="badge ok">✓ Confirmed</span> means a glass maker or seller lists these models together. <span class="badge warn">Unverified</span> means the models match on body and screen specs, or the model stands alone. Test the fit before swapping.</p></div>
+</div>
+<h2>Latest releases</h2>
+<div id="latest" class="results"></div>
+</section>
+</div></main>
+
+<footer class="band"><div class="inner">
+<p>Download the data: <a href="data/fit-groups.csv">fit groups (CSV)</a> · <a href="data/models.csv">models (CSV)</a> · <a href="data/brands.csv">brands (CSV)</a> · <a href="data/catalogue.json">everything (JSON)</a></p>
+<p>Built from the open <a href="https://github.com/adelindanaila05/gsmarena-catalog-builder">GSMArena catalogue</a> plus hand-researched lists. Fits are a guide, not a guarantee. Found a wrong fit or a missing model? <a href="https://github.com/WelFedTed/tempered/issues">Open an issue</a>.</p>
+<p id="built"></p>
+</div></footer>
+
+<script src="assets/catalogue.js"></script>
+<script>
+{
+const $ = id => document.getElementById(id);
+const PAGE = 40;
+let CAT, shownCount = PAGE, last = [];
+
+const params = new URLSearchParams(location.search);
+$('q').value = params.get('q') || '';
+
+function cardHtml(g, terms) {
+  const ms = g.models.map(([m, r]) => `<li>${Tempered.highlight(m, terms)}${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
+  const note = g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '';
+  return `<article class="card" id="${g.id}">
+<header><span class="code">${g.id}</span><span class="chip">${Tempered.DEVICE[g.dev] || g.dev}</span><span class="bn">${Tempered.esc(g.brandName)}</span>${g.check === 'Confirmed' ? '<span class="badge ok">✓ Confirmed</span>' : '<span class="badge warn">Unverified</span>'}</header>
+<ul class="models">${ms}</ul>${note}
+<div class="acts"><a href="labels.html#${g.id}">Print labels</a><button type="button" data-copy="${g.id}">Copy code</button></div>
+</article>`;
+}
+
+function run() {
+  if (!CAT) return;
+  const q = $('q').value.trim(), dev = document.querySelector('input[name=dev]:checked').value, brand = $('brand').value;
+  const url = new URL(location.href);
+  q ? url.searchParams.set('q', q) : url.searchParams.delete('q');
+  history.replaceState(null, '', url);
+  const bn = $('brandnote');
+  if (brand && CAT.brandNotes[brand]) { bn.hidden = false; bn.innerHTML = `<b>${Tempered.esc(CAT.brandNames[brand])}</b>: ${Tempered.esc(CAT.brandNotes[brand])}`; } else bn.hidden = true;
+  if (!q && !dev && !brand) {
+    $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true; return;
+  }
+  $('intro').hidden = true;
+  last = Tempered.search(CAT, q, {dev, brand});
+  shownCount = PAGE;
+  render();
+}
+function render() {
+  const terms = Tempered.terms($('q').value);
+  const n = last.length;
+  $('summary').textContent = n ? `${n.toLocaleString()} fit group${n > 1 ? 's' : ''}` : 'No match. Try fewer words, or just the model number (e.g. "S24" or "A55").';
+  $('results').innerHTML = last.slice(0, shownCount).map(g => cardHtml(g, terms)).join('');
+  $('more').hidden = n <= shownCount;
+  $('more').textContent = `Show more (${(n - shownCount).toLocaleString()} left)`;
+}
+
+let t;
+$('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(run, 120); });
+$('brand').addEventListener('change', run);
+$('devs').addEventListener('change', run);
+$('more').addEventListener('click', () => { shownCount += PAGE; render(); });
+document.addEventListener('click', e => {
+  const c = e.target.closest('[data-copy]');
+  if (c) { navigator.clipboard?.writeText(c.dataset.copy).then(() => { c.textContent = 'Copied'; setTimeout(() => c.textContent = 'Copy code', 1200); }); return; }
+  const a = e.target.closest('a[data-code]');
+  if (a) { e.preventDefault(); $('q').value = a.dataset.code; document.querySelector('input[name=dev][value=""]').checked = true; $('brand').value = ''; run(); scrollTo({top: 0}); }
+});
+
+Tempered.load().then(cat => {
+  CAT = cat;
+  $('loading').hidden = true;
+  $('brand').insertAdjacentHTML('beforeend', cat.brandOrder.map(c => `<option value="${c}">${Tempered.esc(cat.brandNames[c])}</option>`).join(''));
+  $('stats').innerHTML = [[cat.groups.length, 'fit groups'], [cat.modelCount, 'models'], [cat.brandOrder.length, 'brands'], [cat.groups.filter(g => g.check === 'Confirmed').length, 'confirmed by sellers']]
+    .map(([n, l]) => `<div><b>${n.toLocaleString()}</b><span>${l}</span></div>`).join('');
+  const latest = [...cat.groups].sort((a, b) => b.latest.localeCompare(a.latest)).slice(0, 8);
+  $('latest').innerHTML = latest.map(g => cardHtml(g, [])).join('');
+  $('built').textContent = `Catalogue built ${cat.built}.`;
+  run();
+}).catch(() => { $('loading').textContent = "Couldn't load the catalogue. Reload the page to try again."; });
+}
+</script>
+</body>
+</html>
