@@ -42,6 +42,10 @@
 
 main.band{padding-top:36px}
 .summary{margin:0 0 16px;font-weight:700;font-size:17px}
+.resbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 20px;margin-bottom:18px}
+.resbar .summary{margin:0}
+.sortby{display:flex;align-items:center;gap:10px;font-size:14px;font-weight:700}
+.sortby select{width:auto;min-width:190px;font-weight:700}
 .results{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:20px}
 .card{background:var(--panel);border:2px solid var(--edge);border-radius:12px;display:flex;flex-direction:column}
 .card header{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;padding:16px 18px 6px}
@@ -103,7 +107,16 @@ table.ranges .code{font-size:15px}
 <main class="band"><div class="inner">
 <p id="loading" class="summary">Loading the catalogue…</p>
 <div id="brandnote" class="brandnote" hidden></div>
+<div class="resbar" id="resbar" hidden>
 <p id="summary" class="summary" role="status" aria-live="polite"></p>
+<label class="sortby">Sort by<select id="sort">
+<option value="">Best match</option>
+<option value="new">Newest release</option>
+<option value="old">Oldest release</option>
+<option value="models">Most models</option>
+<option value="code">Code (A–Z)</option>
+</select></label>
+</div>
 <div id="results" class="results"></div>
 <button type="button" id="more" class="more" hidden>Show more</button>
 
@@ -139,10 +152,20 @@ table.ranges .code{font-size:15px}
 const $ = id => document.getElementById(id);
 const PAGE = 40;
 const TICK = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg>';
-let CAT, shownCount = PAGE, last = [];
+let CAT, shownCount = PAGE, found = [], last = [];
+
+// Sorts after search. Best match keeps the search order; dates use each group's newest or oldest model.
+const byId = (a, b) => a.id.localeCompare(b.id);
+const SORTS = {
+  new: (a, b) => b.latest.localeCompare(a.latest) || byId(a, b),
+  old: (a, b) => (a.earliest || '9999').localeCompare(b.earliest || '9999') || byId(a, b),
+  models: (a, b) => b.models.length - a.models.length || byId(a, b),
+  code: byId
+};
 
 const params = new URLSearchParams(location.search);
 $('q').value = params.get('q') || '';
+if (SORTS[params.get('sort')]) $('sort').value = params.get('sort');
 
 function cardHtml(g, terms) {
   const ms = g.models.map(([m, r]) => `<li><span>${Tempered.highlight(m, terms)}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
@@ -160,16 +183,23 @@ function run() {
   const q = $('q').value.trim(), dev = document.querySelector('input[name=dev]:checked').value, brand = $('brand').value;
   const url = new URL(location.href);
   q ? url.searchParams.set('q', q) : url.searchParams.delete('q');
+  $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
   history.replaceState(null, '', url);
   const bn = $('brandnote');
   if (brand && CAT.brandNotes[brand]) { bn.hidden = false; bn.innerHTML = `<b>${Tempered.esc(CAT.brandNames[brand])}</b>: ${Tempered.esc(CAT.brandNotes[brand])}`; } else bn.hidden = true;
   const searching = !!(q || dev || brand);
   document.body.classList.toggle('searching', searching);
+  $('resbar').hidden = !searching;
   if (!searching) {
     $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true; return;
   }
   $('intro').hidden = true;
-  last = Tempered.search(CAT, q, {dev, brand});
+  found = Tempered.search(CAT, q, {dev, brand});
+  sortResults();
+}
+function sortResults() {
+  const cmp = SORTS[$('sort').value];
+  last = cmp ? [...found].sort(cmp) : found;
   shownCount = PAGE;
   render();
 }
@@ -186,6 +216,12 @@ let t;
 $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(run, 120); });
 $('brand').addEventListener('change', run);
 $('devs').addEventListener('change', run);
+$('sort').addEventListener('change', () => {
+  const url = new URL(location.href);
+  $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
+  history.replaceState(null, '', url);
+  sortResults();
+});
 $('more').addEventListener('click', () => { shownCount += PAGE; render(); });
 document.addEventListener('click', e => {
   const c = e.target.closest('[data-copy]');
