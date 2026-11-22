@@ -55,7 +55,10 @@ main.band{padding-top:36px}
 .models li{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
 .models small{font:500 13px var(--mono);color:var(--mute);white-space:nowrap}
 .models mark{background:var(--mark);color:inherit;border-radius:2px}
+.models small.mno{margin-left:6px;white-space:normal}
 .cnote{margin:0;padding:0 18px 14px;font-size:14px;color:var(--mute)}
+.cnote+.srcs{margin-top:-8px}
+.srcs{font-size:13px}
 .acts{margin-top:auto;display:flex;border-top:2px solid var(--edge)}
 .acts a,.acts button{flex:1 1 0;display:flex;align-items:center;justify-content:center;min-height:48px;font-size:15px;font-weight:800;text-decoration:none;color:var(--ink);border:0;border-radius:0}
 .acts a{background:var(--acc);color:var(--onAcc);border-radius:0 0 0 10px}
@@ -81,9 +84,9 @@ table.ranges .code{font-size:15px}
 <div class="hero">
 <p class="eyebrow">Screen protector fit finder</p>
 <h1>Which glass<br>fits this one?</h1>
-<p class="lede">Type a phone, tablet, watch or handheld. Get its fit group code and every other model that takes the same tempered glass.</p>
+<p class="lede">Type a phone, tablet, watch or handheld, or its model number (e.g. A2221 or SM-S938B). Get its fit group code and every other model that takes the same tempered glass.</p>
 <form class="searchbar" role="search" onsubmit="return false">
-<input type="search" id="q" placeholder="e.g. Galaxy S24, iPhone 13 mini" aria-label="Search models or codes" autocomplete="off" spellcheck="false" autofocus>
+<input type="search" id="q" placeholder="e.g. Galaxy S24, iPhone 13 mini, A2221, SM-S938B" aria-label="Search models, model numbers or codes" autocomplete="off" spellcheck="false" autofocus>
 <select id="brand" aria-label="Brand"><option value="">All brands</option></select>
 </form>
 <div class="devs" role="group" aria-label="Device type" id="devs">
@@ -132,7 +135,7 @@ table.ranges .code{font-size:15px}
 </tbody></table>
 <p class="note">Within a brand, groups are numbered oldest first.</p></div>
 <div class="card"><h2>Confirmed vs unverified</h2>
-<p><span class="badge ok">✓ Confirmed</span> means a glass maker or seller lists these models together.</p>
+<p><span class="badge ok">✓ Confirmed</span> means a glass maker or seller lists these models together, or sells glass for that model alone. Where we checked online listings, the sources are linked on the result.</p>
 <p><span class="badge warn">Unverified</span> means the models match on body and screen specs, or the model stands alone. Test the fit before swapping.</p></div>
 </div>
 <h2>Latest releases</h2>
@@ -141,7 +144,7 @@ table.ranges .code{font-size:15px}
 </div></main>
 
 <footer class="band"><div class="inner">
-<p>Download the data: <a href="data/fit-groups.csv">fit groups (CSV)</a> · <a href="data/models.csv">models (CSV)</a> · <a href="data/brands.csv">brands (CSV)</a> · <a href="data/catalogue.json">everything (JSON)</a></p>
+<p>Download the data: <a href="data/fit-groups.csv">fit groups (CSV)</a> · <a href="data/models.csv">models (CSV)</a> · <a href="data/brands.csv">brands (CSV)</a> · <a href="data/catalogue.json">everything (JSON)</a> · <a href="data/code-changes.csv">codes changed in the latest update (CSV)</a></p>
 <p>Built from the open <a href="https://github.com/adelindanaila05/gsmarena-catalog-builder">GSMArena catalogue</a> plus hand-researched lists. Fits are a guide, not a guarantee. Found a wrong fit or a missing model? <a href="https://github.com/WelFedTed/tempered/issues">Open an issue</a>.</p>
 <p id="built"></p>
 </div></footer>
@@ -167,9 +170,11 @@ const params = new URLSearchParams(location.search);
 $('q').value = params.get('q') || '';
 if (SORTS[params.get('sort')]) $('sort').value = params.get('sort');
 
-function cardHtml(g, terms) {
-  const ms = g.models.map(([m, r]) => `<li><span>${Tempered.highlight(m, terms)}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
-  const note = g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '';
+function cardHtml(g, terms, q = '') {
+  const hits = q ? Tempered.codeMatches(g, q) : [];
+  const ms = g.models.map(([m, r], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. <mark>${hits[i].map(Tempered.esc).join(', ')}</mark></small>` : ''}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
+  const src = g.sources.length ? `<p class="cnote srcs">Sources: ${g.sources.map(([n, u]) => /^https?:\/\//.test(u) ? `<a href="${Tempered.esc(u)}" rel="nofollow noopener" target="_blank">${Tempered.esc(n)}</a>` : Tempered.esc(n)).join(', ')}</p>` : '';
+  const note = (g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '') + src;
   return `<article class="card" id="${g.id}">
 <header><h3 class="code" style="margin:0">${g.id}</h3>${g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : '<span class="badge warn">Unverified</span>'}</header>
 <p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>
@@ -207,7 +212,7 @@ function render() {
   const q = $('q').value.trim(), terms = Tempered.terms(q);
   const n = last.length;
   $('summary').textContent = n ? `${n.toLocaleString()} fit group${n > 1 ? 's' : ''}${q ? ` for “${q}”` : ''}` : 'No match. Try fewer words, or just the model number (e.g. "S24" or "A55").';
-  $('results').innerHTML = last.slice(0, shownCount).map(g => cardHtml(g, terms)).join('');
+  $('results').innerHTML = last.slice(0, shownCount).map(g => cardHtml(g, terms, q)).join('');
   $('more').hidden = n <= shownCount;
   $('more').textContent = `Show more (${(n - shownCount).toLocaleString()} left)`;
 }

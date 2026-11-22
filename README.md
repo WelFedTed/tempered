@@ -9,12 +9,12 @@
 
 **Site:** https://welfedted.github.io/tempered/
 
-- **Fit finder:** type a model and get its fit group code plus every other model that takes the same glass. Filter by device type and brand, and sort the results.
+- **Fit finder:** type a model or its model number (e.g. `A2221`, `SM-S938B`, `iPhone12,1`) and get its fit group code plus every other model that takes the same glass. Filter by device type and brand, and sort the results.
 - **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets.
 - **Storage system:** a drawer layout and 3D-printable label dividers (STL and OpenSCAD).
-- **Data downloads:** fit groups, models and brands as CSV or JSON in [`docs/data/`](docs/data).
+- **Data downloads:** fit groups, models (with model numbers) and brands as CSV or JSON in [`docs/data/`](docs/data). [`code-changes.csv`](docs/data/code-changes.csv) lists the labels whose codes changed in the latest rebuild.
 
-The catalogue has 9,139 fit groups covering 12,217 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
+The catalogue has 8,997 fit groups covering 12,217 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
 
 ## Codes
 
@@ -43,8 +43,21 @@ How the numbers are assigned:
 
 Every group is marked **Confirmed** or **Check** (shown as "Unverified" on the site):
 
-- **Confirmed** (81 groups): a glass maker or seller lists the models together.
+- **Confirmed** (271 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
 - **Check**: either the models match on body size, screen size and resolution, or the model stands alone. Test the fit before swapping.
+
+Groups checked against protector brands, retailers and marketplaces carry their source links on the site. The findings live in [`build/verified.json`](build/verified.json); each entry is:
+
+```json
+{"models": ["Galaxy S24", "Galaxy S25"], "fit": "same", "sources": [{"name": "PanzerGlass", "url": "https://..."}], "note": "PanzerGlass lists both"}
+```
+
+- **`same`:** the models take one glass. Their groups are merged.
+- **`own`:** glass is sold for that one model alone.
+- **`separate`:** the models need different glass. Any that share a group are split apart.
+- **`"weak": true`:** thin evidence, such as one marketplace listing. Its note and sources are shown, but it doesn't merge groups or mark them Confirmed.
+
+A group is Confirmed when its models are all linked by `same` findings (or it's a single model with an `own` finding). If only some are, the note says which ones sellers confirm.
 
 Fixes are very welcome. If you've confirmed that a pack fits, or found a mismatch, [open an issue](https://github.com/WelFedTed/tempered/issues).
 
@@ -67,8 +80,9 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
   2. adds every smartphone, tablet and watch for known brands from the July 2026 GSMArena catalogue in `ds/gsmarena-catalog-builder/`, skipping cancelled, rumoured and feature phones;
   3. adds hand-researched lists from `build/newmodels.py`. Each line is `date|C|CODE|Name[;Name…]`, where C is P/T/W/H/M and `;` joins models that share glass;
   4. merges known shared-glass sets, variants and spec twins (union-find over identical body and screen specs, restricted to brand families and carrier rebadges);
-  5. links round watches to universal round glass by display diameter;
-  6. numbers the groups and writes `data.json`.
+  5. applies the verified findings in `build/verified.json`;
+  6. links round watches to universal round glass by display diameter;
+  7. numbers the groups and writes `data.json`, with model numbers from the GSMArena catalogue.
 - **`build2/classify.py`** decides phone, tablet or watch for catalogue devices.
 - **`build2/newcodes.json`** maps brand names to codes for brands added from the catalogue.
 

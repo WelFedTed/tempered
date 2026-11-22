@@ -1,0 +1,6294 @@
+[
+ {
+  "models": [
+   "iPad Pro 13 (M4)",
+   "iPad Pro 13 (M5)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "OtterBox",
+    "url": "https://otterbox.co.uk/en-gb/ipad-pro-13-inch-m5-screen"
+   },
+   {
+    "name": "Best Buy (ZAGG Glass XTR3)",
+    "url": "https://www.bestbuy.com/product/zagg-glass-xtr3-apple-ipad-pro-13-apple-ipad-pro-m5-13-2025-m4-13-2024-clear/J39T3V83GY"
+   }
+  ],
+  "note": "OtterBox and ZAGG list both M4 and M5 on one glass."
+ },
+ {
+  "models": [
+   "Nothing Phone (3a)",
+   "Nothing Phone (3a) Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi NZ (SAFE by PanzerGlass)",
+    "url": "https://www.jbhifi.co.nz/products/safe-by-panzer-ultrawide-fit-screen-protector-for-nothing-phone-3a-3a-pro"
+   },
+   {
+    "name": "Noel Leeming (PanzerGlass)",
+    "url": "https://www.noelleeming.co.nz/p/panzerglass-safe-by-panzer-ultrawide-fit-sp---nothing-phone-3a-and-3a-pro/N242941.html"
+   },
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-nothing-phone-3a-pro-glas-tr-ez-fit-hd-glass-screen-protector-clear"
+   }
+  ],
+  "note": "SAFE by PanzerGlass and Spigen sell one glass for both 3a and 3a Pro."
+ },
+ {
+  "models": [
+   "Fitbit Versa 4",
+   "Fitbit Sense 2",
+   "Fitbit Sense",
+   "Fitbit Versa 3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Google Store (ZAGG Glass Fusion)",
+    "url": "https://store.google.com/us/product/zagg_glassfusion_screen_protector_smartwatch?hl=en-US"
+   },
+   {
+    "name": "Digitec (PanzerGlass)",
+    "url": "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-fitbit-versa-34-and-sense-smartwatch-protective-film-35524460"
+   }
+  ],
+  "note": "ZAGG Glass Fusion (Google Store) lists Sense 2, Sense, Versa 4 and Versa 3; PanzerGlass lists Versa 3/4 and Sense. Hybrid glass."
+ },
+ {
+  "models": [
+   "Fitbit Charge 5",
+   "Fitbit Charge 6"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Google Store (PanzerGlass)",
+    "url": "https://store.google.com/us/product/panzerglass_screen_protector_charge?hl=en-US"
+   },
+   {
+    "name": "Digitec (PanzerGlass)",
+    "url": "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-fitbit-charge-6-5-smart-watch-accessories-49737906"
+   }
+  ],
+  "note": "PanzerGlass sells one protector for Charge 6 and Charge 5 (Google Store)."
+ },
+ {
+  "models": [
+   "Fairphone 3",
+   "Fairphone 3+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Fairphone shop",
+    "url": "https://shop.fairphone.com/shop/fairphone-3-screen-protector-blue-light-filter-16"
+   },
+   {
+    "name": "Galaxus",
+    "url": "https://www.galaxus.ch/en/s1/product/fairphone-screen-protector-with-blue-light-filter-1-pcs-fairphone-3-fairphone-3-mobile-phone-screen--13644484"
+   }
+  ],
+  "note": "Fairphone's own 9H glass is sold for Fairphone 3 and 3+."
+ },
+ {
+  "models": [
+   "iPhone 6 Plus",
+   "iPhone 6s Plus",
+   "iPhone 7 Plus",
+   "iPhone 8 Plus"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Verizon (ZAGG Privacy Glass+)",
+    "url": "https://www.verizon.com/products/zagg-invisibleshield-privacy-glass-plus-screen-protector-iphone-6-plus-6s-plus-7-plus"
+   }
+  ],
+  "note": "ZAGG Glass+ (Verizon) lists 8 Plus, 7 Plus, 6s Plus and 6 Plus."
+ },
+ {
+  "models": [
+   "iPad Pro 12.9 (1st gen)",
+   "iPad Pro 12.9 (2nd gen)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "eBay (JETech)",
+    "url": "https://www.ebay.com/p/1860105052"
+   },
+   {
+    "name": "Best Buy CA marketplace",
+    "url": "https://www.bestbuy.ca/en-ca/product/tempered-glass-screen-protectorfor-apple-ipad-pro-12-9-inch-1st-generation-2015-model-and-2nd-generation-2017-model/14692418"
+   }
+  ],
+  "note": "JETech and other glass listings name 2015 and 2017 models together; not for 2018+ (no home button)."
+ },
+ {
+  "models": [
+   "iPhone Duo"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/iphone-duo-screen-protector-glas-tr-ez-fit-pro"
+   },
+   {
+    "name": "JB Hi-Fi (ZAGG)",
+    "url": "https://www.jbhifi.com.au/products/zagg-invisibleshield-glass-privacy-xtr-external-protector-for-iphone-duo"
+   }
+  ],
+  "note": "Spigen, ZAGG and PanzerGlass sell outer-screen glass for iPhone Duo only."
+ },
+ {
+  "models": [
+   "Apple Watch Ultra 4 49mm",
+   "Apple Watch Ultra 3 49mm",
+   "Apple Watch Ultra 49mm",
+   "Apple Watch Ultra 2 49mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "BodyGuardz",
+    "url": "https://www.bodyguardz.com/products/apex-apple-watch-ultra-screen-protector"
+   },
+   {
+    "name": "PanzerGlass",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-apple-watch-ultra-24-ultra-wide-fit"
+   }
+  ],
+  "note": "BodyGuardz and PanzerGlass list one glass for Ultra 4/3/2/1. Some ESR glass is Ultra 4-only."
+ },
+ {
+  "models": [
+   "iPad Air 13 (M4)",
+   "iPad Air 13 (M2)",
+   "iPad Air 13 (M3)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "OtterBox CA",
+    "url": "https://www.otterbox.ca/en-ca/screen-protector-ipad-air-13-inch-m3-and-ipad-air-13-inch-m2-screen-protector-clear/77-95282.html"
+   },
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://jbhifi.com.au/products/spigen-apple-ipad-air-13-m4-m3-m2-2026-2025-2024-ez-fit-glas-tr-slim-1pc-glass-screen-protector-clear"
+   }
+  ],
+  "note": "OtterBox and Spigen list Air 13 M4, M3 and M2 on one glass. Not the Pro 13."
+ },
+ {
+  "models": [
+   "iPad mini (A20 Pro)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "ESR",
+    "url": "https://www.esrtech.com/products/ipad-mini-8-corning-screen-protector-ultrafit-tray"
+   }
+  ],
+  "note": "ESR sells glass for the OLED mini (A20 Pro) only; A17 Pro glass does not fit."
+ },
+ {
+  "models": [
+   "Pixel 11 Pro Fold"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (dbrand)",
+    "url": "https://store.google.com/us/product/dbrand_prism_pixel_11_pro_fold?hl=en-US"
+   },
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-fold-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear"
+   }
+  ],
+  "note": "dbrand, ZAGG and Spigen sell cover-screen glass for 11 Pro Fold only."
+ },
+ {
+  "models": [
+   "Pixel 10 Pro Fold"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/us/product/casemate_ultra_glass_screen_protector_pixel_10_pro_fold?hl=en-US"
+   },
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/product/zagg_invisibleshield_glass_xtr4_pixel_10_pro_fold?hl=en-US"
+   }
+  ],
+  "note": "Case-Mate and ZAGG sell cover-screen glass for 10 Pro Fold only."
+ },
+ {
+  "models": [
+   "Pixel 9 Pro Fold"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/us/product/casemate_glass_screen_protector_pixel_9_pro_fold?hl=en-US"
+   },
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/gb/product/zagg_invisible_shield_glass_xtr3_pixel_9_pro_fold?hl=en-GB"
+   }
+  ],
+  "note": "Case-Mate and ZAGG sell cover-screen glass for 9 Pro Fold only."
+ },
+ {
+  "models": [
+   "Pixel 10a"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/product/casemate_ultra_glass_screen_protector_pixel_10a?hl=en-US"
+   },
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-google-pixel-10a-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear"
+   }
+  ],
+  "note": "Case-Mate and Spigen sell 10a-only glass; Case-Mate sells a separate 9a SKU."
+ },
+ {
+  "models": [
+   "Pixel 9a"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/product/casemate_ultra_glass_screen_protector_pixel_9a?hl=en-US"
+   }
+  ],
+  "note": "Case-Mate glass lists Pixel 9a as its only compatible phone."
+ },
+ {
+  "models": [
+   "Nothing Phone (4a) Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-nothing-phone-4a-pro-glas-tr-ez-fit-pro-screen-protector-2pcs-clear"
+   },
+   {
+    "name": "Proshop (SAFE by PanzerGlass)",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/SAFE-by-PanzerGlass-Screen-Protector-Nothing-Phone-4a-Pro-Ultra-Wide-Fit/3477488"
+   }
+  ],
+  "note": "Spigen and SAFE by PanzerGlass sell separate 4a Pro glass."
+ },
+ {
+  "models": [
+   "Nothing Phone (4a)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-nothing-phone-4a-glas-tr-ez-fit-pro-screen-protector-2pcs-clear"
+   },
+   {
+    "name": "JB Hi-Fi (SAFE by PanzerGlass)",
+    "url": "https://www.jbhifi.com.au/products/safe-by-panzerglass-ultra-wide-fit-screen-protector-for-nothing-phone-4a"
+   }
+  ],
+  "note": "Spigen and SAFE by PanzerGlass sell 4a glass separate from 4a Pro."
+ },
+ {
+  "models": [
+   "Nothing Phone (4b)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Mobiel.nl (Amorus)",
+    "url": "https://www.mobiel.nl/accessoires/amorus/nothing-phone-4b-screenprotector-gehard-glas"
+   },
+   {
+    "name": "LDLC",
+    "url": "https://www.ldlc.com/fr-be/fiche/PB00754701.html"
+   }
+  ],
+  "note": "Mobiel.nl and LDLC sell 4b-only glass."
+ },
+ {
+  "models": [
+   "Nothing Phone (3)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "JB Hi-Fi NZ (SAFE by PanzerGlass)",
+    "url": "https://www.jbhifi.co.nz/products/safe-by-panzer-ultrawide-fit-screen-protector-for-nothing-phone-3"
+   },
+   {
+    "name": "Rackhams (Spigen)",
+    "url": "https://rackhams.com/spigen-glas-tr-ez-fit-tempered-glass-2-pack-for-nothing-phone-3-67-clear-agl10165"
+   }
+  ],
+  "note": "SAFE by PanzerGlass and Spigen sell Phone (3)-only glass, not the 3a glass."
+ },
+ {
+  "models": [
+   "iPhone Air"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Belkin",
+    "url": "https://www.belkin.com/p/temperedglass-screen-protector-for-iphone-air/OVA219fq.html"
+   }
+  ],
+  "note": "Belkin sells several iPhone Air-only glass SKUs."
+ },
+ {
+  "models": [
+   "Fairphone 6"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Coolblue (Fairphone)",
+    "url": "https://www.coolblue.nl/en/product/968582/fairphone-6-screen-protector-glass.html"
+   },
+   {
+    "name": "LDLC (Fairphone)",
+    "url": "https://www.ldlc.com/en/product/PB00698100.html"
+   }
+  ],
+  "note": "Fairphone's own glass and Coolblue list Fairphone 6 only."
+ },
+ {
+  "models": [
+   "Surface Pro 12-inch"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Best Buy (UAG)",
+    "url": "https://www.bestbuy.com/product/uag-tempered-glass-screen-protector-shield-for-microsoft-surface-pro-12-clear/J39HZJZFPG"
+   },
+   {
+    "name": "Staples (SaharaCase)",
+    "url": "https://www.staples.com/saharacase-ultra-strong-tempered-glass-screen-protector-for-microsoft-surface-pro-12-clear-zd-t00073/product_24646364"
+   }
+  ],
+  "note": "UAG and SaharaCase sell 12-inch-only glass; does not fit the 13-inch Surface Pro."
+ },
+ {
+  "models": [
+   "Fairphone 5"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Fairphone shop",
+    "url": "https://shop.fairphone.com/shop/fairphone-5-screen-protector-257"
+   }
+  ],
+  "note": "Fairphone sells its own glass for Fairphone 5 only."
+ },
+ {
+  "models": [
+   "Fairphone 4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Fairphone shop",
+    "url": "https://shop.fairphone.com/fr/fairphone-4-screen-protector"
+   }
+  ],
+  "note": "Fairphone says its Fairphone 4 glass is only compatible with Fairphone 4."
+ },
+ {
+  "models": [
+   "iPhone 16 Pro Max",
+   "iPhone 17 Pro Max"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "ESR",
+    "url": "https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors"
+   }
+  ],
+  "note": "ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway."
+ },
+ {
+  "models": [
+   "Pixel 8a"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/product/casemate_glass_screen_protector_pixel_8a?hl=en-US"
+   },
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/us/product/zagg_glass_elite_invisibleshield_pixel_8a?hl=en-US"
+   }
+  ],
+  "note": "Case-Mate and ZAGG sell Pixel 8a-only glass."
+ },
+ {
+  "models": [
+   "Pixel 8"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/us/product/casemate_glass_screen_protector_pixel_8?hl=en-US"
+   },
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/pixel-8-series-screen-protector-alignmaster"
+   }
+  ],
+  "note": "Case-Mate sells Pixel 8 glass; Spigen says its glass is only for Pixel 8."
+ },
+ {
+  "models": [
+   "Pixel 8 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (Case-Mate)",
+    "url": "https://store.google.com/us/product/casemate_glass_screen_protector_pixel_8_pro?hl=en-US"
+   },
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/product/zagg_invisible_shield_glass_elite_pixel_8_pro?hl=en-US"
+   }
+  ],
+  "note": "Case-Mate and ZAGG sell Pixel 8 Pro-only glass."
+ },
+ {
+  "models": [
+   "Pixel 7a"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/us/product/zagg_invisible_shield_glass_elite_pixel_7a?hl=en-US"
+   },
+   {
+    "name": "Google Store (OtterBox)",
+    "url": "https://store.google.com/us/product/otterbox_trusted_glass_pixel_7a?hl=en-US"
+   }
+  ],
+  "note": "ZAGG and OtterBox sell 7a-only glass; listings say it does not fit Pixel 7."
+ },
+ {
+  "models": [
+   "Pixel 7"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/product/glass_elite_case"
+   },
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/pixel-7-screen-protector-alignmaster-glas-tr"
+   }
+  ],
+  "note": "ZAGG and Spigen sell Pixel 7-only glass."
+ },
+ {
+  "models": [
+   "Pixel 6a"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/product/invisible_shield_glass_elite_pixel?hl=en-US"
+   }
+  ],
+  "note": "ZAGG Glass Elite is sold for Pixel 6a only."
+ },
+ {
+  "models": [
+   "Pixel 6"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store (ZAGG)",
+    "url": "https://store.google.com/product/zagg_screen_protector_pixel_6?hl=en-US"
+   },
+   {
+    "name": "Best Buy (ZAGG)",
+    "url": "https://www.bestbuy.com/product/zagg-glass-elite-maximum-impact-scratch-screen-protector-for-google-pixel-6-clear/J39Q4WW5QY"
+   }
+  ],
+  "note": "ZAGG glass is sold for Pixel 6; Best Buy Q&A says it only fits the regular Pixel 6."
+ },
+ {
+  "models": [
+   "Garmin Forerunner 255",
+   "Garmin Forerunner 255 Music"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/product/4-pack-screen-protector-for-garmin-forerunner-255-255-music-46mm-smartwatch-tempered-gl-screen-cover-bubble-free/19926413"
+   }
+  ],
+  "note": "Best Buy Canada lists one 46mm glass for the 255 and 255 Music; it is not for the 41mm 255S."
+ },
+ {
+  "models": [
+   "Garmin Forerunner 255S",
+   "Garmin Forerunner 255S Music"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/product/screen-protector-for-garmin-forerunner-255s-255s-music-3-pack-9h-hardness-anti-scratch-tempered-gl/18899200"
+   },
+   {
+    "name": "Supershieldz (Walmart)",
+    "url": "https://www.walmart.com/ip/1985240752"
+   },
+   {
+    "name": "iDaPro (desertcart)",
+    "url": "https://www.desertcart.ma/products/469431050-idapro-4-pack-screen-protector-for-garmin-forerunner-255s-255s"
+   }
+  ],
+  "note": "Supershieldz, iDaPro and Best Buy Canada list the 255S and 255S Music (41mm). iDaPro says it does not fit the 46mm 255."
+ },
+ {
+  "models": [
+   "Garmin Forerunner 955",
+   "Garmin Forerunner 955 Solar"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/product/2-pack-compatible-for-garmin-forerunner-955-955-solar-screen-protector-with-auto-alignment-installation-frame-9h/20009716"
+   },
+   {
+    "name": "Supershieldz (desertcart)",
+    "url": "https://www.desertcart.co.za/products/448955408-supershieldz-3-pack-designed-for-garmin-forerunner-955-955-solar"
+   }
+  ],
+  "note": "Supershieldz and Best Buy Canada sell one glass for the 955 and 955 Solar. One seller says it does not fit the 945."
+ },
+ {
+  "models": [
+   "Garmin Forerunner 245",
+   "Garmin Forerunner 245 Music"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/product/watch-screen-protector-31pack-compatible-for-garmin-forerunner-245-245-music-tempered-gl-film-anti-scratch-high/19926403"
+   },
+   {
+    "name": "Best Buy Canada",
+    "url": "https://www.bestbuy.ca/en-ca/product/for-garmin-forerunner-245-245m-screen-protector-9h-hardness-tempered-gl-screen-protector-for-garmin/18898348"
+   },
+   {
+    "name": "Supershieldz (desertcart)",
+    "url": "https://www.desertcart.com.cy/products/153069442"
+   }
+  ],
+  "note": "Supershieldz and two Best Buy Canada sellers list one glass for the 245 and 245 Music."
+ },
+ {
+  "models": [
+   "Garmin Instinct 2",
+   "Garmin Instinct 2 Solar"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen (desertcart)",
+    "url": "https://www.desertcart.com.cy/products/497037000-tempered-glass-screen-protector-glastr-ez-fit-designed-for-garmin.md"
+   },
+   {
+    "name": "Supershieldz (desertcart)",
+    "url": "https://www.desertcart.co.za/products/411120287-supershieldz-3-pack-designed-for-garmin-instinct-2-instinct-2"
+   }
+  ],
+  "note": "Spigen GlasTR EZ Fit and Supershieldz both list the Instinct 2 and Instinct 2 Solar (45mm). Spigen sells the 2S glass separately."
+ },
+ {
+  "models": [
+   "Garmin fenix 7X",
+   "Garmin fenix 7X Solar",
+   "Garmin fenix 7X Sapphire Solar",
+   "Garmin fenix 7X Pro",
+   "Garmin epix Pro (Gen 2) 51mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/garmin-series-ez-fit-glas-tr"
+   }
+  ],
+  "note": "Spigen's fenix 7X EZ Fit glass lists 7X Solar/Sapphire Solar, 7X Pro and epix Pro 51mm, and says it does not fit the fenix 7 or 7S. Spigen also names fenix 8 51mm (version not stated)."
+ },
+ {
+  "models": [
+   "Garmin fenix 7",
+   "Garmin fenix 7 Sapphire Solar",
+   "Garmin fenix 7 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen Glass Fit+ (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/spigen-tech-protect-glass-fit-2er-pack-panzerglas-fuer-garmin-fenix-7-7-pro-transparent-fenix-7-smar-59659232"
+   },
+   {
+    "name": "Supershieldz (eBay)",
+    "url": "https://www.ebay.de/itm/175214977924"
+   }
+  ],
+  "note": "Spigen Glass Fit+ is sold for the fenix 7 and 7 Pro (47mm), and Supershieldz lists the fenix 7 Sapphire Solar with the 7 Pro Sapphire Solar."
+ },
+ {
+  "models": [
+   "Garmin fenix 7 Pro",
+   "Garmin epix Pro (Gen 2) 47mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://coolblue.nl/en/product/855232/just-in-case-garmin-fenix-epix-47mm-screen-protector-glass.html"
+   }
+  ],
+  "note": "Coolblue's Just in Case 47mm glass lists the epix Pro 47mm and fenix 7 Pro Solar. It also names the fenix 6 and 6 Pro, which were not added: test first. Listing is sold out.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Garmin fenix 7",
+   "Garmin fenix E 47mm",
+   "Garmin fenix 8 Solar 47mm",
+   "Garmin epix (Gen 2)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alza",
+    "url": "https://m.alza.at/tempered-glass-protector-for-garmin-fenix-7-fenix-e-fenix-8-solar-47mm-epix-gen2-waterproof-d12990735.htm?o=45"
+   }
+  ],
+  "note": "Alza sells one tempered glass for the fenix 7, fenix E, fenix 8 Solar 47mm and epix Gen 2. Not the fenix 8 AMOLED 47mm."
+ },
+ {
+  "models": [
+   "Garmin fenix 7S",
+   "Garmin fenix 7S Pro",
+   "Garmin epix Pro (Gen 2) 42mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.nl/en/product/855236/just-in-case-garmin-fenix-epix-42mm-screen-protector-glass.html"
+   }
+  ],
+  "note": "Coolblue's Just in Case 42mm glass lists the epix Pro 42mm, fenix 7S and fenix 7S Pro Solar. It also names the fenix 6S Pro, which was not added: test first. Listing is discontinued.",
+  "weak": true
+ },
+ {
+  "models": [
+   "New Nintendo 2DS XL"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "amFilm (desertcart)",
+    "url": "https://www.desertcart.co.th/products/44405926-amfilm-nintendo-2ds-xl-screen-protector-pack-2-glass-top"
+   }
+  ],
+  "note": "amFilm and AKWOX sell New 2DS XL sets. These are glass for the top screen and PET film for the bottom screen."
+ },
+ {
+  "models": [
+   "Honor X9d",
+   "Honor Magic8 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hello Case (aio.lv)",
+    "url": "https://aio.lv/en/product--hello-case-oem103417--12218891"
+   },
+   {
+    "name": "Galaxus (OEM glass)",
+    "url": "https://www.galaxus.it/en/s1/product/oem-protective-glass-tempered-glass-for-honor-x9d-magic-8-lite-1-pcs-honor-x9-mobile-phone-screen-pr-67577400"
+   }
+  ],
+  "note": "Hello Case (aio.lv) and a Galaxus OEM glass both list X9d and Magic8 Lite together."
+ },
+ {
+  "models": [
+   "Honor X9c",
+   "Honor Magic7 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass SAFE (Multitronic)",
+    "url": "https://multitronic.fi/en/products/4535757/panzerglass-safe---honor-x9c-5g-magic7-lite-5g-uwf"
+   },
+   {
+    "name": "Lito 3D UV glass (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/lito-3d-uv-glass-honor-magic7-lite-x9c-clear-1-piece-honor-x9-fee-7-lite-mobile-phone-screen-protect-57280263"
+   }
+  ],
+  "note": "PanzerGlass SAFE and Lito sell one glass for both X9c and Magic7 Lite."
+ },
+ {
+  "models": [
+   "Honor X9b",
+   "Honor Magic6 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE by PanzerGlass (Proshop)",
+    "url": "https://www.proshop.se/Mobiltelefontillbehoer-Skyddsfilm/SAFE-by-PanzerGlass-Screen-Protector-Magic6-Lite-Honor-X9B-Ultra-Wide-Fit/3301157"
+   }
+  ],
+  "note": "SAFE by PanzerGlass sells one Magic6 Lite / X9b protector."
+ },
+ {
+  "models": [
+   "Honor X8b",
+   "Honor 200 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit (Galaxus)",
+    "url": "https://www.galaxus.ch/en/s1/product/panzerglass-ultra-wide-fit-1-piece-honor-x8b-honor-200-lite-mobile-phone-screen-protectors-47218882"
+   },
+   {
+    "name": "SAFE by PanzerGlass (Proshop)",
+    "url": "https://www.proshop.de/Handys-Schutzfolie/SAFE-by-PanzerGlass-Screen-Protector-Honor-200-Lite-5G-X8b-Ultra-Wide-Fit/3327366"
+   }
+  ],
+  "note": "PanzerGlass sells one protector for Honor 200 Lite and X8b."
+ },
+ {
+  "models": [
+   "Honor X7d",
+   "Honor 400 Smart"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/400-smart/125891-bizon-glass-clear-2-honor-x7d-honor-400-smart-5900415722595.html"
+   }
+  ],
+  "note": "Bizon sells one glass for 'Honor X7d / Honor 400 Smart'; listing does not say 4G or 5G, so check the variant."
+ },
+ {
+  "models": [
+   "Honor X8 5G",
+   "Honor X6",
+   "Honor 70 Lite",
+   "Honor X6a",
+   "Honor X6b 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE by PanzerGlass (Proshop)",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/SAFE-by-PanzerGlass-Screen-Protector-Honor-X6A-l-X6-l-X6B-4G-l-X8-5G-l-70-lite-Ultra-Wide-Fit/3329381"
+   },
+   {
+    "name": "SAFE Ultra-Wide Fit (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/safe-ultra-wide-fit-1-piece-honor-x8-honor-x6-honor-x6a-honor-70-lite-mobile-phone-screen-protectors-47218847"
+   }
+  ],
+  "note": "SAFE by PanzerGlass sells one glass for X6a, X6, X6b 4G, X8 5G and 70 Lite (spans three catalogue groups)."
+ },
+ {
+  "models": [
+   "Huawei nova 9",
+   "Honor 50"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Case Friendly (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/panzerglass-case-friendly-1-piece-huawei-nova-9-honor-50-mobile-phone-screen-protectors-17573808"
+   }
+  ],
+  "note": "PanzerGlass Case Friendly lists Huawei nova 9 and Honor 50 on one product; curved screen, case-friendly fit."
+ },
+ {
+  "models": [
+   "Huawei Pura 70 Pro",
+   "Huawei Pura 70 Pro+",
+   "Huawei Pura 70 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK ARC+ (aio.lv)",
+    "url": "https://aio.lv/en/product--3mk-3mk5985--11712136.md"
+   },
+   {
+    "name": "Alza tempered glass with applicator",
+    "url": "https://m.alza.at/tempered-glass-protector-fur-huawei-pura-70-pro-70-ultra-einbaurahmen-d12422956.htm"
+   }
+  ],
+  "note": "3MK ARC+ fits Pura 70 Pro/Pro+; an Alza glass lists Pura 70 Pro and Ultra together. Curved screen."
+ },
+ {
+  "models": [
+   "Honor X7b",
+   "Honor 90 Smart"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit (hinta.fi)",
+    "url": "https://hinta.fi/5068894/panzerglass-screen-protector-honor-x7b-90-smart-ultra-wide-f/tuotetiedot?xa=2"
+   },
+   {
+    "name": "Screenor Full Cover (Multitronic)",
+    "url": "https://multitronic.fi/en/products/4404345"
+   }
+  ],
+  "note": "PanzerGlass and Screenor each sell one glass for Honor X7b / 90 Smart."
+ },
+ {
+  "models": [
+   "Huawei P30 Pro",
+   "Huawei P30 Pro New Edition"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "prio 3D glass (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/prio-3d-protective-glass-for-huawei-p30-prop30-pro-new-edition-black-1-piece-huawei-p30-pro-huawei-p-25440896"
+   }
+  ],
+  "note": "prio sells one 3D curved glass for P30 Pro and P30 Pro New Edition."
+ },
+ {
+  "models": [
+   "Huawei P smart 2019",
+   "Huawei P smart 2020",
+   "Honor 10 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Avizar (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/avizar-edge-to-edge-screen-protector-display-foil-1-piece-huawei-p-smart-2020-mobile-phone-screen-pr-21210868"
+   },
+   {
+    "name": "eBay.de",
+    "url": "https://www.ebay.de/itm/313328694448"
+   }
+  ],
+  "note": "Avizar and an eBay seller list one glass for P smart 2019, P smart 2020 and Honor 10 Lite (Honor 10 Lite is in a different catalogue group)."
+ },
+ {
+  "models": [
+   "Huawei P smart 2019",
+   "Huawei P Smart+ 2019"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Galaxus (OEM glass)",
+    "url": "https://www.galaxus.it/en/s1/product/oem-protective-glass-tempered-glass-for-huawei-p-smart-2019-p-smart-plus-2019-1-piece-huawei-p-smart-53360520"
+   },
+   {
+    "name": "Skroutz",
+    "url": "https://www.skroutz.gr/s/50269841/Matt-Vollflaechig-gehaertetes-Glas-Huawei-P-Smart-2019-P-Smart-2019-MPSG3045.html"
+   }
+  ],
+  "note": "Two marketplace glass listings name P smart 2019 and P Smart+ 2019 together."
+ },
+ {
+  "models": [
+   "Huawei P30 lite",
+   "Huawei nova 4e"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Digitec (OEM 10D glass)",
+    "url": "https://www.digitec.ch/en/s1/product/oem-tempered-glass-10d-for-huawei-p30-lite-nova-4e-black-frame-1-piece-huawei-p30-lite-huawei-nova-4-33465517"
+   },
+   {
+    "name": "PWY glass (Giztop)",
+    "url": "https://www.giztop.com/pwy-glass-screen-protector-for-huawei-nova-4e.html"
+   }
+  ],
+  "note": "Two marketplace glass listings (Digitec OEM, PWY on Giztop) name P30 lite and nova 4e together."
+ },
+ {
+  "models": [
+   "Huawei P40 lite",
+   "Huawei nova 7i",
+   "Huawei nova 6 SE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elkjop",
+    "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/huawei-nova-6-se-p40-lite-nova-7i-skjermbeskytter/656235"
+   },
+   {
+    "name": "Cadorabo (Karkkainen)",
+    "url": "https://www.karkkainen.com/verkkokauppa/cadorabo-huawei-nova-6-se-p40-lite-nova-7i-suojakalvo"
+   }
+  ],
+  "note": "Elkjop and Cadorabo sell one protector for nova 6 SE / P40 lite / nova 7i."
+ },
+ {
+  "models": [
+   "Huawei P40 lite",
+   "Huawei nova 7i",
+   "Huawei P40 lite E"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass E2E (Home Screen)",
+    "url": "https://homescreen.pl/en/huawei-p40-lite/65754-panzerglass-e2e-regular-huawei-p40-lite-p40-lite-e-nova-7i-case-friendly-black-5711724053672.html"
+   }
+  ],
+  "note": "PanzerGlass case-friendly E2E glass lists P40 lite, P40 lite E and nova 7i; only this smaller case-friendly glass is shared, so test full-cover glass."
+ },
+ {
+  "models": [
+   "Huawei Y6p",
+   "Honor 9A"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Area glass (Unieuro)",
+    "url": "https://www.unieuro.it/online/Protezione/Ultra-tempered-Glass-per-Huawei-Y6P-Honor-9A-con-copertura-totale-tono-su-tono-pidAEAPRTA5174GLA2DK"
+   }
+  ],
+  "note": "Unieuro sells an Area full-cover glass for Huawei Y6p / Honor 9A."
+ },
+ {
+  "models": [
+   "Huawei P smart 2021",
+   "Huawei Y7a"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass (Proshop)",
+    "url": "https://proshop.no/Mobil-Beskyttelsesglass/PanzerGlass-Screen-Protector-Huawei-P-Smart-2021-Y7a/2932545"
+   },
+   {
+    "name": "PanzerGlass HK",
+    "url": "https://shop-hk.panzerglass.com/panzerglass-huawei-p-smart-2021y7a-cf-black-p4158"
+   }
+  ],
+  "note": "PanzerGlass sells one P smart 2021 / Y7a protector (5384); Honor 10X Lite not confirmed."
+ },
+ {
+  "models": [
+   "Huawei P Smart Z",
+   "Honor 9X",
+   "Honor 9X Pro",
+   "Huawei P smart Pro 2019"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass (Tinkerer)",
+    "url": "https://tinkerer.co.uk/en/panzerglass-r-screen-protector-huawei-honor-9x-9x-pro-p-smart-pro-2019-5356.html"
+   },
+   {
+    "name": "Avizar (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/avizar-protective-glass-film-9h-1-pcs-honor-9x-mobile-phone-screen-protectors-40925223"
+   },
+   {
+    "name": "Digitec (OEM 10D glass)",
+    "url": "https://www.digitec.ch/en/s1/product/oem-tempered-glass-10d-for-huawei-p-smart-z-p-smart-pro-honor-9x-black-frame-1-piece-honor-9x-huawei-33466208"
+   }
+  ],
+  "note": "PanzerGlass 5356 fits Honor 9X / 9X Pro / P smart Pro; Avizar and an OEM glass add P Smart Z (spans two catalogue groups)."
+ },
+ {
+  "models": [
+   "Honor 20",
+   "Huawei nova 5T",
+   "Honor 20S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elkjop",
+    "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/honor-20-20s-huawei-nova-5t-skjermbeskytter/657297"
+   }
+  ],
+  "note": "Elkjop sells one protector for Honor 20 / 20S / Huawei nova 5T."
+ },
+ {
+  "models": [
+   "Honor 20",
+   "Huawei nova 5T",
+   "Honor 20 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "AlzaGuard (Alza)",
+    "url": "https://www.alza.at/EN/alzaguard-glass-protector-for-huawei-nova-5thonor-20honor-20-pro-d6230805.htm"
+   },
+   {
+    "name": "Wave Full Cover (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/wave-full-cover-panssarilasi-honor-20-honor-20-pro-huawei-nova-5t-musta-1-pcs-huawei-nova-5t-k20-mob-35483291"
+   }
+  ],
+  "note": "AlzaGuard and Wave sell one glass for nova 5T, Honor 20 and Honor 20 Pro (Honor 20 Pro is a separate catalogue group)."
+ },
+ {
+  "models": [
+   "Honor 8X",
+   "Honor 9X Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Wave Full Fit (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/wave-full-fit-panssarilasi-honor-8x-honor-9x-lite-musta-1-piece-honor-9x-lite-htc-8x-mobile-phone-sc-37190788"
+   },
+   {
+    "name": "Alza glass with frame",
+    "url": "https://m.alza.at/EN/reviews/tempered-glass-protector-frame-for-honor-8x-9x-lite-black-5482489.htm"
+   }
+  ],
+  "note": "Wave and an Alza glass are each sold for Honor 8X / 9X Lite."
+ },
+ {
+  "models": [
+   "Honor 8S",
+   "Huawei Y5 (2019)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elkjop",
+    "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/huawei-y5-2019-enjoy-play-8-honor-8s/657349"
+   },
+   {
+    "name": "glass pro (aio.lv)",
+    "url": "https://aio.lv/en/product--glass-pro-gphy52019tg--2011917"
+   }
+  ],
+  "note": "Elkjop and glass pro each sell one protector for Huawei Y5 2019 / Honor 8S."
+ },
+ {
+  "models": [
+   "Honor 7S",
+   "Huawei Y5 Prime (2018)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/cellularline-glass-screen-protector-huawei-y5-2018-honor-7s-1-piece-huawei-y5-2018-mobile-phone-scre-60734088"
+   }
+  ],
+  "note": "Cellularline sells one glass for 'Huawei Y5 2018' (Y5 Prime 2018) / Honor 7S."
+ },
+ {
+  "models": [
+   "Honor 9S",
+   "Huawei Y5p"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elkjop",
+    "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/honor-9s-huawei-y5p-3x-skjermbeskytter/680846"
+   },
+   {
+    "name": "Cadorabo (Karkkainen)",
+    "url": "https://www.karkkainen.com/verkkokauppa/cadorabo-honor-9s-huawei-y5p-karkaistu-suojalasi"
+   }
+  ],
+  "note": "Elkjop and Cadorabo sell one tempered glass for Honor 9S / Huawei Y5p."
+ },
+ {
+  "models": [
+   "Huawei Y6 (2019)",
+   "Huawei Y6s (2019)",
+   "Honor Play 8A"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "AlzaGuard (Alza)",
+    "url": "https://m.alza.at/EN/reviews/alzaguard-25d-case-friendly-glass-protector-for-huawei-y6-2019-honor-8a-7070854.htm"
+   },
+   {
+    "name": "The Kase (Pixmania)",
+    "url": "https://www.pixmania.com/fr/fr/protection-decran-premium-en-verre-trempe-pour-huawei-honor-8a-y6-2019-transparent-22227.html"
+   },
+   {
+    "name": "Varle",
+    "url": "https://www.varle.lt/telefonu-apsaugines-pleveles/tempered-glass-grudintas-stiklas-9d-visiskai-padengtas--20885226.html"
+   },
+   {
+    "name": "Amorus (iPartsExpert)",
+    "url": "https://www.ipartsexpert.com/details/amorus-full-glue-silk-printing-tempered-glass-full-screen-protector-for-huawei-y6-2019-with-fingerprint-sensor-y6-prime-2019-sku103510111a.html"
+   }
+  ],
+  "note": "AlzaGuard and The Kase list Y6 2019 with Honor 8A (sold in China as Play 8A); Varle and Amorus add Y6s 2019. Fingerprint and non-fingerprint Y6 2019 versions exist."
+ },
+ {
+  "models": [
+   "Huawei P40 lite E",
+   "Huawei Y7p",
+   "Honor 9C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Galaxus (OEM 2.5D glass)",
+    "url": "https://www.galaxus.at/en/s1/product/oem-tempered-glass-25d-for-huawei-p40-lite-p40-lite-e-y7p-honor-9c-realme-8-4g-8-pro-honor-9c-huawei-33467910"
+   },
+   {
+    "name": "Forever (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/forever-huawei-p40-lite-y7p-honor-9c-samsung-a51-tempered-glass-honor-9c-mobile-phone-screen-protect-23320469"
+   }
+  ],
+  "note": "Forever and an OEM glass list P40 lite E, Y7p and Honor 9C together; both titles also name other phones, so test before relying on it."
+ },
+ {
+  "models": [
+   "Huawei Y7 (2019)",
+   "Huawei Y7 Prime (2019)",
+   "Huawei Y7 Pro (2019)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SBS",
+    "url": "https://sbsmobile.com/gbr/en/smartphone/489-full-cover-glass-screen-protector-for-huawei-y7-2019prime-2019y7-pro-2019-8018417266799.html"
+   },
+   {
+    "name": "Beukei (PriceCheck)",
+    "url": "https://www.pricecheck.co.za/offers/178725737/2+Pack+Beukei+For+Huawei+Y7+2019+And+Y7+Pro+2019+And+Huawei+Y7+Prime+2019+Screen+Protector+Tempered+Glass+Full+Screen+Coverage+A"
+   }
+  ],
+  "note": "SBS and Beukei each sell one glass for Y7 2019, Y7 Prime 2019 and Y7 Pro 2019; Enjoy 9 not confirmed."
+ },
+ {
+  "models": [
+   "Honor 7A",
+   "Huawei Y6 (2018)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Avizar (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/avizar-bulletproof-glass-glass-protective-film-protective-glass-1-pcs-huawei-y6-2018-mobile-phone-sc-20842917"
+   },
+   {
+    "name": "Revive",
+    "url": "https://reviveonline.co.uk/products/honor-7a-2-5d-tempered-glass-screen-protector"
+   }
+  ],
+  "note": "Avizar and Revive each sell one glass for Honor 7A / Y6 2018; flat glass leaves the edges uncovered."
+ },
+ {
+  "models": [
+   "Huawei Y7 Prime (2018)",
+   "Honor 7C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Swiss Post shop",
+    "url": "https://shopint.post.ch/en/electronics/smartphones-tablets/protective-films-glass/tempered-glass-film-for-huawei-y7-prime-2018-and-honor-7c/p/936463"
+   }
+  ],
+  "note": "Swiss Post shop sells one tempered glass for Y7 Prime 2018 and Honor 7C."
+ },
+ {
+  "models": [
+   "Moto G15",
+   "Moto G15 Power",
+   "Moto G05",
+   "Moto E15"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK HardGlass (Digitec)",
+    "url": "https://www.digitec.ch/en/s1/product/3mk-hardglassa-tempered-glass-for-motorola-moto-g15-g15-power-g05-e15-1-piece-motorola-moto-c-mobile-53975808"
+   },
+   {
+    "name": "Tech-Protect Glass Fit (Proshop)",
+    "url": "https://www.proshop.de/Handys-Schutzfolie/Tech-Protect-Glass-Fit-2-Pack-Tempered-Glass-for-Motorola-Moto-G15-G15-Power-G05-E15-Black/3455050"
+   },
+   {
+    "name": "Hofi Glass Fit+ (aio.lv)",
+    "url": "https://aio.lv/en/product--hofi-5906302361236--11712503"
+   }
+  ],
+  "note": "3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15."
+ },
+ {
+  "models": [
+   "Moto G15",
+   "Moto G15 Power",
+   "Moto G05",
+   "Moto E15",
+   "Moto G56"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Smart Glass 2.5D (Home Screen)",
+    "url": "https://homescreen.pl/en/741-moto-g50-series"
+   }
+  ],
+  "note": "Bizon sells one glass listed for G15, G15 Power, G05, E15 and G56 5G; only one brand pairs the G56, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Moto G17",
+   "Moto G17 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Just in Case (Coolblue)",
+    "url": "https://www.coolblue.de/en/product/979478/just-in-case-tempered-glass-motorola-moto-g17-g17-power-screen-protector.html"
+   },
+   {
+    "name": "MobyDefend (MediaMarkt)",
+    "url": "https://www.mediamarkt.nl/en/product/_mobydefend-case-friendly-screen-protector-tempered-glass-suitable-for-motorola-moto-g17-and-motorola-moto-g17-power-screen-protector-for-motorola-transparent-172902171.html"
+   }
+  ],
+  "note": "Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power."
+ },
+ {
+  "models": [
+   "Moto G Power (2025)",
+   "Moto G Power (2026)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/bc-tg-m-moto-g-power-2025-2p"
+   },
+   {
+    "name": "RomeTech (Best Buy)",
+    "url": "https://www.bestbuy.com/product/rometech-motorola-moto-g-power-2025-2026-tempered-glass-screen-protector-3-per-pack-transparent/J2JVSTG4RZ/sku/12899729"
+   }
+  ],
+  "note": "Supershieldz and RomeTech (Best Buy) sell one glass for G Power 2025 and 2026."
+ },
+ {
+  "models": [
+   "Moto G Play (2026)",
+   "Moto G (2026)",
+   "Moto G (2025)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "BASELINE (Best Buy)",
+    "url": "https://www.bestbuy.com/product/baseline-tempered-glass-screen-protector-2-5d-for-motorola-moto-g-5g-2026-moto-g-play-2026-moto-g-5g-2025-clear/J3Z7SV6FRP/sku/12162607"
+   },
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/bc-tg-m-moto-g-5g-2025-2p"
+   }
+  ],
+  "note": "BASELINE (Best Buy) lists one glass for Moto G 5G 2025, G 5G 2026 and G Play 2026; Supershieldz also pairs G 2025/2026. Not the G Power."
+ },
+ {
+  "models": [
+   "Moto G Stylus 5G (2025)",
+   "Moto G Stylus (2026)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/bc-tg-m-moto-g-stylus-2025-2p"
+   }
+  ],
+  "note": "Supershieldz sells one glass for Moto G Stylus 2025 and 2026; Edge 60 Stylus not confirmed."
+ },
+ {
+  "models": [
+   "Moto G67",
+   "Moto G77",
+   "Moto G87"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Just in Case (Coolblue)",
+    "url": "https://www.coolblue.nl/en/product/979228/just-in-case-tempered-glass-motorola-moto-g67-g77-g87-screen-protector.html"
+   },
+   {
+    "name": "Tech-Protect / Bizon (Home Screen)",
+    "url": "https://homescreen.pl/en/740-moto-g60-series"
+   }
+  ],
+  "note": "Just in Case, Tech-Protect and Bizon each sell one glass for G67, G77 and G87."
+ },
+ {
+  "models": [
+   "Moto G57 Power",
+   "Moto G67 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon (Home Screen)",
+    "url": "https://homescreen.pl/en/741-moto-g50-series"
+   }
+  ],
+  "note": "Bizon sells several glass SKUs each listed for G57 Power and G67 Power."
+ },
+ {
+  "models": [
+   "Moto G57",
+   "Moto G57 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/741-moto-g50-series"
+   }
+  ],
+  "note": "MyScreen Diamond Glass Edge Lite is listed for both G57 5G and G57 Power; 3MK sells separate SKUs, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Motorola Edge 60",
+   "Motorola Edge 60 Fusion"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass edge3D (Home Screen)",
+    "url": "https://homescreen.pl/en/1685-moto-edge-60-series"
+   }
+  ],
+  "note": "MyScreen sells one 3D curved glass for Edge 60 and Edge 60 Fusion; only one brand seen, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Motorola Edge 60 Pro",
+   "Motorola Edge 60s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass edge3D (Home Screen)",
+    "url": "https://homescreen.pl/en/1685-moto-edge-60-series"
+   }
+  ],
+  "note": "MyScreen sells one 3D curved glass for Edge 60 Pro and Edge 60s; only one brand seen, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Moto G06",
+   "Moto G06 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon / MyScreen / 3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/1097-moto-g00-series"
+   }
+  ],
+  "note": "Bizon, MyScreen and 3MK each sell one glass for G06 and G06 Power."
+ },
+ {
+  "models": [
+   "Moto E7 Power",
+   "Moto E7i Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass Edge (Home Screen)",
+    "url": "https://homescreen.pl/en/770-moto-e"
+   }
+  ],
+  "note": "Bizon sells one glass for E7 Power and E7i Power."
+ },
+ {
+  "models": [
+   "Moto G04",
+   "Moto G24",
+   "Moto G24 Power",
+   "Moto E14"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass Clear 2 / Edge 2 (Home Screen)",
+    "url": "https://homescreen.pl/en/1204-moto-e14"
+   }
+  ],
+  "note": "Bizon sells one glass for G04, G24, G24 Power and E14; G04s not named."
+ },
+ {
+  "models": [
+   "Moto G04",
+   "Moto G24",
+   "Moto G34"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK HardGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/744-moto-g20-series"
+   }
+  ],
+  "note": "3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34."
+ },
+ {
+  "models": [
+   "Moto G13",
+   "Moto G23"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/744-moto-g20-series"
+   }
+  ],
+  "note": "MyScreen sells one glass for G13 and G23; G53 not confirmed."
+ },
+ {
+  "models": [
+   "Moto G14",
+   "Moto G54",
+   "Moto G54 Power",
+   "Moto G55"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass Clear Duo (Home Screen)",
+    "url": "https://homescreen.pl/en/745-moto-g10-series"
+   }
+  ],
+  "note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Moto G37",
+   "Moto G37 Power",
+   "Moto G47"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/742-moto-g40-series"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid glass) is listed for G37, G37 Power and G47."
+ },
+ {
+  "models": [
+   "Moto G31",
+   "Moto G41"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass Clear (Home Screen)",
+    "url": "https://homescreen.pl/en/742-moto-g40-series"
+   }
+  ],
+  "note": "Bizon sells one glass for G31 and G41."
+ },
+ {
+  "models": [
+   "Moto G200 5G",
+   "Motorola Edge S30"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Dux Ducis 9D (Home Screen)",
+    "url": "https://homescreen.pl/en/835-moto-g200-series"
+   }
+  ],
+  "note": "Dux Ducis 9D tempered glass is listed for G200 5G and Edge S30."
+ },
+ {
+  "models": [
+   "Moto G75"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "PanzerGlass / 3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/739-moto-g70-series"
+   }
+  ],
+  "note": "PanzerGlass, 3MK and MyScreen sell glass for the G75 alone."
+ },
+ {
+  "models": [
+   "Moto G8 Power",
+   "Moto G Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-power/"
+   }
+  ],
+  "note": "Supershieldz privacy glass is listed for Moto G Power (2020) and G8 Power; privacy glass is often slightly undersized."
+ },
+ {
+  "models": [
+   "Moto E40",
+   "Moto E30"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon Glass Clear (Home Screen)",
+    "url": "https://homescreen.pl/en/771-moto-e40"
+   }
+  ],
+  "note": "Bizon sells one glass for E40 and E30; Lenovo K14 Plus not named."
+ },
+ {
+  "models": [
+   "Moto G22",
+   "Moto E32",
+   "Moto E32s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE by PanzerGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/837-moto-e32"
+   }
+  ],
+  "note": "SAFE by PanzerGlass is listed for G22, E32 and E32s (also Lenovo K15 Plus); Bizon and 3MK also pair E32/E32s."
+ },
+ {
+  "models": [
+   "Moto E22",
+   "Moto E22s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/865-moto-e22s"
+   }
+  ],
+  "note": "MyScreen sells one full-glue glass for E22 and E22s; only one brand seen, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Moto E22",
+   "Moto E22i"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hofi Glass Pro+ (Home Screen)",
+    "url": "https://homescreen.pl/en/857-moto-e22e22i"
+   }
+  ],
+  "note": "Hofi Glass Pro+ is listed for E22 and E22i."
+ },
+ {
+  "models": [
+   "Moto G9 Play",
+   "Moto E7 Plus"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Dux Ducis 9D (Home Screen)",
+    "url": "https://homescreen.pl/en/774-moto-e7-plus"
+   }
+  ],
+  "note": "Dux Ducis 9D glass is listed for G9 Play and E7 Plus; other models in the group not checked."
+ },
+ {
+  "models": [
+   "Moto E20"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon / Dux Ducis / 3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/773-moto-e20"
+   }
+  ],
+  "note": "Bizon, Dux Ducis and 3MK sell glass for the E20 alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 50 Pro",
+   "Motorola Edge 50 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit (Home Screen)",
+    "url": "https://homescreen.pl/en/1686-moto-edge-50-series"
+   }
+  ],
+  "note": "PanzerGlass Ultra-Wide Fit is listed for Edge 50 Pro and Edge 50 Ultra; curved screens, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Motorola Edge 50 Neo"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK / MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1686-moto-edge-50-series"
+   }
+  ],
+  "note": "3MK and MyScreen sell glass for the Edge 50 Neo alone."
+ },
+ {
+  "models": [
+   "HMD Pulse+",
+   "HMD Pulse"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/1258-hmd"
+   }
+  ],
+  "note": "MyScreen sells one glass for HMD Pulse, Pulse+ and Vibe (which Vibe is unclear)."
+ },
+ {
+  "models": [
+   "Alcatel 1B (2020)",
+   "Alcatel 1B (2022)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/2469-alcatel"
+   }
+  ],
+  "note": "MyScreen sells one glass for Alcatel 1B 2020 and 1B 2022."
+ },
+ {
+  "models": [
+   "Motorola Edge 30 Pro",
+   "Motorola Edge X30"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass (Home Screen)",
+    "url": "https://homescreen.pl/en/1692-moto-edge-30-series"
+   }
+  ],
+  "note": "MyScreen sells one full-glue glass for Edge 30 Pro and Edge X30."
+ },
+ {
+  "models": [
+   "Motorola Edge 20 Lite"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Dux Ducis / GrizzGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/1693-moto-edge-20-series"
+   }
+  ],
+  "note": "Dux Ducis sells 9D glass for the Edge 20 Lite alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 20"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Dux Ducis / 3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/1693-moto-edge-20-series"
+   }
+  ],
+  "note": "Dux Ducis and 3MK sell glass for the Edge 20 alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 20 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Dux Ducis / 3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/1693-moto-edge-20-series"
+   }
+  ],
+  "note": "Dux Ducis and 3MK sell glass for the Edge 20 Pro alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 30 Ultra"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1692-moto-edge-30-series"
+   }
+  ],
+  "note": "MyScreen sells 3D glass for the Edge 30 Ultra alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 30 Fusion"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1692-moto-edge-30-series"
+   }
+  ],
+  "note": "MyScreen sells 3D glass for the Edge 30 Fusion alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 30 Neo"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK / GrizzGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/1692-moto-edge-30-series"
+   }
+  ],
+  "note": "3MK and GrizzGlass sell glass for the Edge 30 Neo alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 40 Neo"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1691-moto-edge-40-series"
+   }
+  ],
+  "note": "MyScreen sells 3D glass for the Edge 40 Neo alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 70"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK HardGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/2012-moto-edge-70-series"
+   }
+  ],
+  "note": "3MK HardGlass is sold for the Edge 70 alone; ZAGG (Telstra) also sells Edge 70 glass."
+ },
+ {
+  "models": [
+   "Motorola Edge 70 Max"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon (Home Screen)",
+    "url": "https://homescreen.pl/en/2012-moto-edge-70-series"
+   }
+  ],
+  "note": "Bizon sells glass for the Edge 70 Max alone."
+ },
+ {
+  "models": [
+   "Motorola Edge 60 Neo"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK / MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1685-moto-edge-60-series"
+   }
+  ],
+  "note": "3MK and MyScreen sell glass for the Edge 60 Neo alone."
+ },
+ {
+  "models": [
+   "Moto G35"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/743-moto-g30-series"
+   }
+  ],
+  "note": "MyScreen (and PanzerGlass) sell glass for the G35 alone."
+ },
+ {
+  "models": [
+   "Moto G42"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK (Home Screen)",
+    "url": "https://homescreen.pl/en/742-moto-g40-series"
+   }
+  ],
+  "note": "3MK sells glass for the G42 alone."
+ },
+ {
+  "models": [
+   "Moto G86"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/833-moto-g80-series"
+   }
+  ],
+  "note": "MyScreen sells glass for the G86 alone; G86 Power not checked."
+ },
+ {
+  "models": [
+   "HMD Fusion"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/1258-hmd"
+   }
+  ],
+  "note": "MyScreen sells glass for the HMD Fusion alone."
+ },
+ {
+  "models": [
+   "Nokia G42"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/197-nokia"
+   }
+  ],
+  "note": "MyScreen sells glass for the Nokia G42 (4G/5G) alone."
+ },
+ {
+  "models": [
+   "Moto G 5G",
+   "Motorola One 5G Ace",
+   "Motorola one 5G UW ace"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-3p-m-moto-g-5g"
+   }
+  ],
+  "note": "Supershieldz sells one glass for One 5G Ace, One 5G UW Ace and Moto G 5G (2020)."
+ },
+ {
+  "models": [
+   "Motorola One 5G",
+   "Motorola One 5G UW"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-3p-m-one-5g"
+   }
+  ],
+  "note": "Supershieldz sells one glass for One 5G and One 5G UW."
+ },
+ {
+  "models": [
+   "Motorola Edge (2021)",
+   "Motorola Edge 5G UW (2021)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-3p-m-edge-2021"
+   }
+  ],
+  "note": "Supershieldz sells one glass for Edge 2021 and Edge 5G UW."
+ },
+ {
+  "models": [
+   "Motorola Edge (2022)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/bc-tg-m-edge-2022-3p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Edge 2022 alone."
+ },
+ {
+  "models": [
+   "Motorola One Action"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-m-one-action-2p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the One Action alone."
+ },
+ {
+  "models": [
+   "Moto G6"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-2p-m-moto-g6"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto G6 alone."
+ },
+ {
+  "models": [
+   "Moto G7"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-m-moto-g7-2p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto G7 alone."
+ },
+ {
+  "models": [
+   "Moto G7 Power"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-m-moto-g7-power-2p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto G7 Power alone."
+ },
+ {
+  "models": [
+   "Moto G7 Play"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-m-moto-g7-play-3p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto G7 Play alone."
+ },
+ {
+  "models": [
+   "Moto G (2024)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/bc-tg-m-moto-g-5g-2024-3p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto G 5G 2024 alone."
+ },
+ {
+  "models": [
+   "Moto G Stylus 5G (2023)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-stylus/"
+   }
+  ],
+  "note": "Supershieldz sells glass for G Stylus 5G 2023 and says it does not fit 2020-2022 Stylus models."
+ },
+ {
+  "models": [
+   "Moto G Stylus 5G (2024)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-stylus/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Stylus 5G 2024 alone."
+ },
+ {
+  "models": [
+   "Moto G Stylus (2021)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-stylus/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Stylus 2021 alone."
+ },
+ {
+  "models": [
+   "Moto G Power (2021)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-power/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Power 2021 alone."
+ },
+ {
+  "models": [
+   "Moto G Power 5G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-power/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Power 5G 2023 alone."
+ },
+ {
+  "models": [
+   "Moto G Power (2024)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-power/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Power 5G 2024 alone."
+ },
+ {
+  "models": [
+   "Moto G Play (2021)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-play/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Play 2021 alone."
+ },
+ {
+  "models": [
+   "Moto G Play (2024)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-g-play/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the G Play 2024 alone."
+ },
+ {
+  "models": [
+   "Moto E (2020)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-e/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto E 2020 alone."
+ },
+ {
+  "models": [
+   "Moto E4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-e/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto E4 alone."
+ },
+ {
+  "models": [
+   "Moto E5 Plus"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/moto-e/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto E5 Plus alone."
+ },
+ {
+  "models": [
+   "Nokia 6.1"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia 6.1 (6 2018) alone."
+ },
+ {
+  "models": [
+   "Nokia G400"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia G400 5G alone."
+ },
+ {
+  "models": [
+   "Nokia 7.1"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia 7.1 alone."
+ },
+ {
+  "models": [
+   "Nokia XR20"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia XR20 alone."
+ },
+ {
+  "models": [
+   "Nokia C300"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia C300 alone."
+ },
+ {
+  "models": [
+   "Nokia 3 V"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia 3 V alone."
+ },
+ {
+  "models": [
+   "Nokia G310"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia G310 5G alone."
+ },
+ {
+  "models": [
+   "Nokia X100"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/nokia/"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Nokia X100 alone."
+ },
+ {
+  "models": [
+   "Moto Z3 Play",
+   "Moto Z3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-2p-m-moto-z3-play"
+   }
+  ],
+  "note": "Supershieldz sells one glass for Moto Z3 Play and Moto Z3."
+ },
+ {
+  "models": [
+   "Moto Z4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-m-moto-z4-2p"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto Z4 alone."
+ },
+ {
+  "models": [
+   "Moto Z2 Play"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/172704382078"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto Z2 Play alone."
+ },
+ {
+  "models": [
+   "Moto Z2 Force"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-2p-m-moto-z2-force-bk"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto Z2 Force alone."
+ },
+ {
+  "models": [
+   "Moto Z Play"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/2-Pack-Supershieldz-Motorola-Moto-Z-Play-/-Moto-Z-Play-Droid-Tempered-Glass-Screen-Protector-Anti-Scratch-Anti-Fingerprint-Bubble-Free"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto Z Play (and its Droid version) alone."
+ },
+ {
+  "models": [
+   "Moto X4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/182907945867"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Moto X4 alone."
+ },
+ {
+  "models": [
+   "BlackBerry KEY2 LE"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-bb-key2-le-2p-bk"
+   }
+  ],
+  "note": "Supershieldz sells glass for the KEY2 LE alone."
+ },
+ {
+  "models": [
+   "BlackBerry KEY2"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-2p-bb-key2-bk"
+   }
+  ],
+  "note": "Supershieldz sells glass for the KEY2 alone."
+ },
+ {
+  "models": [
+   "BlackBerry Keyone"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Supershieldz",
+    "url": "https://www.supershieldz.com/tg-2p-bb-keyone-bk"
+   }
+  ],
+  "note": "Supershieldz sells glass for the Keyone alone."
+ },
+ {
+  "models": [
+   "TCL 30",
+   "TCL 30+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK HardGlass Max Lite (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/3"
+   }
+  ],
+  "note": "3MK HardGlass Max Lite is listed for TCL 30 and 30+; TCL 30 5G not confirmed."
+ },
+ {
+  "models": [
+   "TCL 505"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MyScreen (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/2"
+   }
+  ],
+  "note": "MyScreen sells glass for the TCL 505 alone."
+ },
+ {
+  "models": [
+   "TCL 501"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/2"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid) is sold for the TCL 501 alone."
+ },
+ {
+  "models": [
+   "TCL 50 SE"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/2"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid) is sold for the TCL 50 SE alone."
+ },
+ {
+  "models": [
+   "TCL 40 NxtPaper"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/2"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid) is sold for the TCL 40 NxtPaper alone."
+ },
+ {
+  "models": [
+   "TCL 405"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/3"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid) is sold for the TCL 405 alone."
+ },
+ {
+  "models": [
+   "TCL 40 SE"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK HardGlass Max Lite (Home Screen)",
+    "url": "https://homescreen.pl/en/2476-tcl/page/3"
+   }
+  ],
+  "note": "3MK HardGlass Max Lite is sold for the TCL 40 SE alone."
+ },
+ {
+  "models": [
+   "HMD Pulse Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/1258-hmd/page/2"
+   }
+  ],
+  "note": "3MK and GrizzGlass sell glass for the HMD Pulse Pro alone."
+ },
+ {
+  "models": [
+   "HMD XR21"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK FlexibleGlass (Home Screen)",
+    "url": "https://homescreen.pl/en/1258-hmd/page/2"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid) is sold for the HMD XR21 alone."
+ },
+ {
+  "models": [
+   "Oppo Reno16",
+   "Oppo Reno16 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.nl/en/support/product/984836/just-in-case-oppo-reno16-reno16-pro-glass-screen-protector.html"
+   },
+   {
+    "name": "Coolblue (BlueBuilt)",
+    "url": "https://www.coolblue.de/en/product/983612/bluebuilt-oppo-reno16-reno16-pro-glass-screen-protector.html"
+   },
+   {
+    "name": "homescreen.pl (Bizon, 3MK)",
+    "url": "https://homescreen.pl/en/2612-oppo-reno16-series"
+   }
+  ],
+  "note": "Coolblue (Just in Case, BlueBuilt), Bizon and 3MK all sell one glass for Reno16 and Reno16 Pro."
+ },
+ {
+  "models": [
+   "Oppo Reno16 F",
+   "Oppo Reno16 FS"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.nl/en/product/984837/just-in-case-oppo-reno16-f-fs-glass-screen-protector.html"
+   },
+   {
+    "name": "homescreen.pl (Bizon Hybrid)",
+    "url": "https://homescreen.pl/en/2612-oppo-reno16-series"
+   }
+  ],
+  "note": "Coolblue (Just in Case) and Bizon list one protector for Reno16 F and Reno16 FS; not the same as the smaller Reno16/Reno16 Pro."
+ },
+ {
+  "models": [
+   "OnePlus Nord 6",
+   "OnePlus Nord CE6"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Popio (via BestBuys India)",
+    "url": "https://bestbuysindia.com/product/popio-military-grade-gorilla-tempered-glass-for-oneplus-nord-6-oneplus-nord-ce6-9h-hardness-edge-to-edge-bubble-free"
+   }
+  ],
+  "note": "Only Popio lists one glass for Nord 6 and Nord CE6; EU brands sell them separately, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Oppo A6 Pro",
+   "Oppo F31",
+   "Oppo F31 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "IMAK (eBay.de)",
+    "url": "https://www.ebay.de/itm/187189883804"
+   }
+  ],
+  "note": "IMAK H-series glass (eBay listing) names A6 Pro 5G, F31 5G and F31 Pro 5G together; single marketplace listing, test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Oppo A6",
+   "Oppo A6s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.de/en/product/976658/just-in-case-tempered-glass-oppo-a6-a6s-screen-protector.html"
+   }
+  ],
+  "note": "Coolblue sells a Just in Case glass for the OPPO A6/A6s."
+ },
+ {
+  "models": [
+   "Oppo A6",
+   "Oppo A6 4G",
+   "Oppo A6x",
+   "Oppo A6x 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.de/en/product/977808/just-in-case-tempered-glass-oppo-a6-4g-5g-screen-protector.html"
+   },
+   {
+    "name": "BNN (Hero Cat)",
+    "url": "https://www.bnn.in.th/en/p/hero-cat-tempered-glass-film-for-oppo-a6a6-5ga6xa6x-5ga6ta6t-proa6s-5g-full-frame-black-8859703412335_dx9w36"
+   }
+  ],
+  "note": "Coolblue's Just in Case A6 (4G/5G) glass also lists the A6x; Thai retailer BNN's Hero Cat glass lists A6, A6x, A6t and A6s together."
+ },
+ {
+  "models": [
+   "Oppo Reno15",
+   "Oppo Reno15 F",
+   "Oppo Reno15 FS",
+   "Oppo A6 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon (homescreen.pl)",
+    "url": "https://homescreen.pl/en/oppo-reno15/129305-bizon-glass-clear-2-oppo-reno-15-15-f-15-fs-a6-pro-5g-5900415731153.html"
+   },
+   {
+    "name": "3MK (aio.lv)",
+    "url": "https://aio.lv/en/product--3mk-w-3fxgl-op15ffs--11704703.md"
+   }
+  ],
+  "note": "Bizon Glass Clear 2 lists Reno15, 15 F, 15 FS and A6 Pro 5G; 3MK lists Reno15 F/FS together. Flat-area glass, slightly smaller than the screen."
+ },
+ {
+  "models": [
+   "Realme 14x",
+   "Realme C55",
+   "Realme C75",
+   "OnePlus Nord CE 3 Lite",
+   "Oppo A60"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon (homescreen.pl)",
+    "url": "https://homescreen.pl/en/realme-c50-series/92316-bizon-glass-clear-2-realme-c55-oneplus-nord-ce-3-lite-5904665361955.html"
+   }
+  ],
+  "note": "Bizon sells Glass Clear Duo for Realme 14x 5G/C55/C75/Nord CE 3 Lite/Oppo A60 4G, and Clear 2 for C55/Nord CE 3 Lite. Case-friendly flat glass."
+ },
+ {
+  "models": [
+   "Realme C53",
+   "Realme C51",
+   "Realme Note 50"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon (homescreen.pl B2B)",
+    "url": "https://b2b.homescreen.pl/en/realme-c50-series/95972-bizon-glass-clear-2-realme-c53-c51-note-50-5904665353899.html"
+   },
+   {
+    "name": "3MK (homescreen.pl)",
+    "url": "https://homescreen.pl/en/realme-c50-series/79466-hybrid-glass-3mk-flexibleglass-realme-c51-c53-5903108530569.html"
+   }
+  ],
+  "note": "Bizon Glass Clear 2 lists Realme C53/C51/Note 50; 3MK FlexibleGlass lists C51/C53."
+ },
+ {
+  "models": [
+   "Realme 14",
+   "Realme 14T"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon (homescreen.pl)",
+    "url": "https://homescreen.pl/en/109191-bizon-glass-clear-2-realme-14-5g-14t-5g.html"
+   }
+  ],
+  "note": "Bizon Glass Clear 2 is sold for Realme 14 5G / 14T 5G."
+ },
+ {
+  "models": [
+   "Oppo A5 5G",
+   "Oppo A5x"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK (homescreen.pl)",
+    "url": "https://homescreen.pl/en/other-oppo-a/119725-3mk-flexibleglass-oppo-a5-5g-a5x-a5m-5903108676427.html"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid glass) lists Oppo A5 5G, A5x and A5M."
+ },
+ {
+  "models": [
+   "Oppo A57",
+   "Oppo A57e",
+   "Oppo A57s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "digitec (3MK)",
+    "url": "https://www.digitec.ch/en/s1/product/3mk-flexibleglass-pro-1-pcs-oppo-a57-5g-oppo-a57e-oppo-a57s-mobile-phone-screen-protectors-52429536"
+   }
+  ],
+  "note": "3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s."
+ },
+ {
+  "models": [
+   "Oppo Reno8 Pro",
+   "Oppo Reno8 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "digitec (MyScreen)",
+    "url": "https://www.digitec.ch/en/s1/product/myscreen-protector-ms-diamond-glass-edge-fg-oppo-reno8-pro-8-pro-czarnyblack-full-glue-1-pcs-oppo-re-34531835"
+   }
+  ],
+  "note": "MyScreen Diamond Glass Edge full-glue glass at digitec lists Reno8 Pro / 8 Pro+."
+ },
+ {
+  "models": [
+   "Galaxy A07",
+   "Galaxy F70e",
+   "Galaxy M17e",
+   "Galaxy A07 4G",
+   "Galaxy A06",
+   "Galaxy A06 5G",
+   "Galaxy M06",
+   "Galaxy F06 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "ITCurry (PanzerGlass 7377)",
+    "url": "https://itcurry.nl/en/panzerglass-screen-protector-for-samsung-galaxy-a07-a06-a06-5g-m06-5g-f06-5g-ultra-w-7377/p/u0814546"
+   },
+   {
+    "name": "hinta.fi (PanzerGlass 7377)",
+    "url": "https://hinta.fi/4963451/panzerglass-screen-protector-samsung-galaxy-a07-5g-m06-5g-f7/tuotetiedot"
+   },
+   {
+    "name": "VB.net (PanzerGlass 7377)",
+    "url": "https://shop.vb.net/en/PZG7377/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-a07-a06-a06-5g-m06-5g-f06-5g-ultra-wide-fit"
+   },
+   {
+    "name": "Flipkart (CEDO XPRO A06 4G/F06 5G/M06 5G)",
+    "url": "https://www.flipkart.com/cedo-xpro-tempered-glass-guard-samsung-galaxy-a06-4g-f06-5g-m06-5g/p/itmc866e9925c8ff"
+   }
+  ],
+  "note": "PanzerGlass 7377 Ultra-Wide Fit is listed for A07 4G/5G, A06 4G/5G, M06 5G, F06 5G, F70e and M17e; some retailers omit the 5G A07, F70e and M17e."
+ },
+ {
+  "models": [
+   "Galaxy A08",
+   "Galaxy A07 4G",
+   "Galaxy A06"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi NZ (SAFE by PanzerGlass A06/A07/A08)",
+    "url": "https://www.jbhifi.co.nz/products/safe-by-panzer-utrawide-fit-screen-protector-for-samsung-galaxy-a06-a07-a08"
+   },
+   {
+    "name": "JB Hi-Fi NZ (3SIXT A07/A08 4G)",
+    "url": "https://www.jbhifi.co.nz/products/3sixt-essential-glass-screen-protector-for-samsung-galaxy-a07-a08-4g"
+   }
+  ],
+  "note": "JB Hi-Fi sells SAFE by PanzerGlass for A06/A07/A08 and 3SIXT glass for A07/A08 4G."
+ },
+ {
+  "models": [
+   "Galaxy A16 5G",
+   "Galaxy A16",
+   "Galaxy A17",
+   "Galaxy A17 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Just in Case)",
+    "url": "https://www.coolblue.nl/en/product/979317/just-in-case-tempered-glass-samsung-galaxy-a16-a17-screen-protector.html"
+   },
+   {
+    "name": "Best Buy (ZAGG Glass+ Defense A17 5G/A16/A16 5G)",
+    "url": "https://www.bestbuy.com/product/zagg-glass-defense-screen-protector-for-samsung-galaxy-a17-5g-a16-a16-5g-clear/J39T3V8ZSV"
+   },
+   {
+    "name": "Alza (PanzerGlass A17 glass compatible with A16)",
+    "url": "https://m.alza.at/bewertungen/panzerglass-samsung-galaxy-a17a17-5g-mit-einbaurahmen-glas-kompatibel-mit-a16a16-5g-13070653.htm"
+   }
+  ],
+  "note": "Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17."
+ },
+ {
+  "models": [
+   "Galaxy A17",
+   "Galaxy A17 4G",
+   "Galaxy M17",
+   "Galaxy M16",
+   "Galaxy F16",
+   "Galaxy A26",
+   "Galaxy M36"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Wearesync (PanzerGlass Ultra-Wide Fit)",
+    "url": "https://shop.wearesync.co.uk/bulkpg30400.html"
+   },
+   {
+    "name": "Multitronic (SAFE by PanzerGlass)",
+    "url": "https://multitronic.fi/en/products/4607437/safe--by-panzerglass-ultra-wide-fit-alignerkit-galaxy-a17---a17-5g---screen-protector"
+   }
+  ],
+  "note": "PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU."
+ },
+ {
+  "models": [
+   "Galaxy S24+",
+   "Galaxy S25+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi (Spigen EZ Fit)",
+    "url": "https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear"
+   },
+   {
+    "name": "JB Hi-Fi (Spigen EZ Fit Privacy)",
+    "url": "https://www.jbhifi.com.au/products/spigen-ez-fit-privacy-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-black"
+   }
+  ],
+  "note": "Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi; S26+ not confirmed."
+ },
+ {
+  "models": [
+   "Galaxy Z Flip6",
+   "Galaxy Z Flip7 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy (ZAGG Glass+ Defense Flip7 FE/Flip6)",
+    "url": "https://www.bestbuy.com/product/zagg-glass-defense-screen-protector-for-samsung-galaxy-z-flip7-fe-flip6-clear/J39T3V37KL"
+   },
+   {
+    "name": "Samsung (EF-UF741 film, Flip7 FE/Flip6)",
+    "url": "https://www.samsung.com/uk/mobile-accessories/galaxy-z-flip6-anti-reflecting-film-transparent-ef-uf741ctegww"
+   },
+   {
+    "name": "Samsung support",
+    "url": "https://www.samsung.com/us/support/answer/ANS10006878/"
+   }
+  ],
+  "note": "ZAGG cover-screen glass is sold for Flip7 FE and Flip6 together, and Samsung says Flip6 film fits Flip7 FE; Flip5 not confirmed."
+ },
+ {
+  "models": [
+   "Galaxy Z Flip7"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "JB Hi-Fi (PanzerGlass Flip7)",
+    "url": "https://www.jbhifi.com.au/products/panzerglass-ultrawide-fit-screen-protector-for-galaxy-z-flip7"
+   },
+   {
+    "name": "Best Buy Canada (Flip7 FE/Flip6 glass, not for Flip7)",
+    "url": "https://www.bestbuy.ca/en-ca/product/front-screen-protector-for-galaxy-z-flip7fe-2025-z-flip-6-2024-tempered-gl-film-with-easy-installation/19960265"
+   }
+  ],
+  "note": "PanzerGlass sells Flip7-only glass; Flip7 FE/Flip6 glass is marked not for Flip7."
+ },
+ {
+  "models": [
+   "Galaxy S25 FE",
+   "Galaxy M56"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Digitec (PanzerGlass)",
+    "url": "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-samsung-galaxy-new-s25-fe-m56-5g-ultra-wide-fit-1-pcs-mobile-phone-scre-59935393"
+   },
+   {
+    "name": "VB.net (PanzerGlass PG35953)",
+    "url": "https://shop.vb.net/nl/PZGPG35953/screen-protectors/panzerglass-screen-protector-samsung-galaxy-s25-fe-m56-5g-ultra-wide-fit"
+   },
+   {
+    "name": "Proshop (PanzerGlass)",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Samsung-Galaxy-S25-FE-5G-M56-5G-Ultra-Wide-Fit/3424257"
+   }
+  ],
+  "note": "PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together."
+ },
+ {
+  "models": [
+   "Galaxy XCover7 Pro",
+   "Galaxy XCover7",
+   "Galaxy XCover6 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bechtle (PanzerGlass PG74889 data sheet)",
+    "url": "https://media.bechtle.com/asrc/180712/1c4b3d4ee288fc9434f5175bf56070570/c3/-/471acd3e35a24e6d9da1491fe9113f26/panzerglass-galaxy-xcover-7-7pro-6pro-data-sheet-1"
+   }
+  ],
+  "note": "PanzerGlass PG74889 Ultra-Wide Fit is listed for XCover7 Pro, XCover7 and XCover6 Pro."
+ },
+ {
+  "models": [
+   "Galaxy A05",
+   "Galaxy A05s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "aio.lv (Tactical A05/A05s)",
+    "url": "https://aio.lv/en/product--tactical-8596311237362--11016785.md"
+   },
+   {
+    "name": "aio.lv (nemo A05/A05s)",
+    "url": "https://aio.lv/en/product--nemo-34391--11712330.md"
+   }
+  ],
+  "note": "Tactical and nemo glass are each sold for A05 and A05s together; M05, F05, M14 4G and F14 4G not confirmed."
+ },
+ {
+  "models": [
+   "Galaxy Tab S9 Ultra",
+   "Galaxy Tab S10 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy (ZAGG Glass Elite)",
+    "url": "https://www.bestbuy.com/product/zagg-glass-elite-samsung-galaxy-tab-s9-ultra-galaxy-tab-s10-ultra-clear/J39T3V3239"
+   },
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/galaxy-tab-s-series-screen-protector-ez-fit-glas-tr"
+   }
+  ],
+  "note": "ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra."
+ },
+ {
+  "models": [
+   "Galaxy Tab S8 Ultra",
+   "Galaxy Tab S9 Ultra",
+   "Galaxy Tab S10 Ultra"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/galaxy-tab-s-series-screen-protector-ez-fit-glas-tr"
+   }
+  ],
+  "note": "Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own."
+ },
+ {
+  "models": [
+   "Galaxy Tab S11 Ultra",
+   "Galaxy Tab S12 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi (Spigen)",
+    "url": "https://www.jbhifi.com.au/products/spigen-samsung-galaxy-tab-s11-ultra-s12-ultra-14-6-glas-tr-ez-fit-pro-1pc-glass-screen-protector-clear"
+   },
+   {
+    "name": "Spigen",
+    "url": "https://www.spigen.com/products/galaxy-tab-s-11-series-ez-fit-glas-tr"
+   }
+  ],
+  "note": "Spigen glass sold at JB Hi-Fi lists S11 Ultra and S12 Ultra; S10 Ultra glass is a different SKU."
+ },
+ {
+  "models": [
+   "Galaxy Tab S12+"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Tech-Protect (homescreen.pl)",
+    "url": "https://homescreen.pl/en/galaxy-tab-s12-series/143302-tech-protect-glass-fit-samsung-galaxy-tab-s12-plus-124-x840-x846b-clear-2-pack-5906302342846.html"
+   },
+   {
+    "name": "Verizon (ZAGG Glass XTR6 bundle)",
+    "url": "https://www.verizon.com/products/zagg-crystal-palace-lite-folio-and-glass-xtr6-screen-protector-bundle-for-galazy-tab-s12-plus-5g/"
+   }
+  ],
+  "note": "Tech-Protect and ZAGG sell S12+-specific glass."
+ },
+ {
+  "models": [
+   "Galaxy Tab S6 Lite (2020)",
+   "Galaxy Tab S6 Lite (2022)",
+   "Galaxy Tab S6 Lite (2024)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MediaMarkt (iMoshion)",
+    "url": "https://www.mediamarkt.nl/en/product/_imoshion-tempered-glass-tablet-screen-protector-voor-samsung-galaxy-tab-s6-lite-galaxy-tab-s6-lite-2022-galaxy-tab-s6-lite-2024-transparent-155851897.html"
+   },
+   {
+    "name": "Best Buy Canada marketplace",
+    "url": "https://www.bestbuy.ca/en-ca/product/-/19846397"
+   }
+  ],
+  "note": "iMoshion glass at MediaMarkt lists all three S6 Lite years."
+ },
+ {
+  "models": [
+   "Galaxy Tab A7 10.4 (2020)",
+   "Galaxy Tab A7 10.4 (2022)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Catch",
+    "url": "https://catch.com.au/product/for-samsung-galaxy-tab-a7-t500-tab-a7-10-4-2022-9h-hd-explosion-proof-tempered-glass-film-31668754"
+   },
+   {
+    "name": "Newegg marketplace",
+    "url": "https://www.newegg.com/werleo-12y312g-243/p/2RC-017C-00084"
+   }
+  ],
+  "note": "Catch and Newegg marketplace glass list both the 2020 (T500) and 2022 (T509) A7 10.4."
+ },
+ {
+  "models": [
+   "Galaxy Tab Active4 Pro",
+   "Galaxy Tab Active5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "UAG",
+    "url": "https://shop.urbanarmorgear.com/products/glass-screen-protector-shield-for-samsung-galaxy-tab-active5-pro"
+   },
+   {
+    "name": "RAM Mounts",
+    "url": "https://rammount.com/products/rap-skin-sp-10"
+   }
+  ],
+  "note": "UAG and RAM sell one glass for Active4 Pro and Active5 Pro."
+ },
+ {
+  "models": [
+   "Galaxy Tab Active Pro",
+   "Galaxy Tab Active4 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "OtterBox",
+    "url": "https://www.otterbox.com/en-us/glass-galaxy-tab-active-pro-screen-protector-clear/77-82012.html"
+   }
+  ],
+  "note": "OtterBox Alpha Glass lists Tab Active Pro and Active4 Pro."
+ },
+ {
+  "models": [
+   "Galaxy Tab S5e",
+   "Galaxy Tab S6"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (PanzerGlass)",
+    "url": "https://www.coolblue.be/en/product/833934/panzerglass-samsung-galaxy-tab-s5e-tab-s6-screen-protector-glass.html"
+   },
+   {
+    "name": "Quill (SaharaCase)",
+    "url": "https://www.quill.com/saharacase-hd-tempered-glass-screen-protector-samsung-galaxy-tab-s5e-tab-s6-105-clear-zd-tg-s-t-s5e/cbs/55509189.html"
+   }
+  ],
+  "note": "PanzerGlass and SaharaCase sell one glass for Tab S5e and Tab S6; check front camera cutout."
+ },
+ {
+  "models": [
+   "Kindle Paperwhite (12th gen)",
+   "Kindle Paperwhite Signature Edition (12th gen)",
+   "Kindle Colorsoft"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Staples (SaharaCase)",
+    "url": "https://www.staples.com/saharacase-zerodamage-anti-glare-scratch-resistant-tempered-glass-screen-protector-for-kindle-paperwhite-colorsoft-zd-t00069/product_24631069"
+   },
+   {
+    "name": "The Warehouse (Blueshift)",
+    "url": "https://www.thewarehouse.co.nz/p/kindle-paperwhite-%2812th-gen-2024%29-glass-screen-protector/M36653243.html"
+   }
+  ],
+  "note": "SaharaCase glass lists 2024 Paperwhite and Colorsoft; Blueshift lists Paperwhite and Signature Edition."
+ },
+ {
+  "models": [
+   "Kindle (11th gen)",
+   "Kindle (11th gen, 2024)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "eBay",
+    "url": "https://www.ebay.com/itm/395881168396"
+   },
+   {
+    "name": "eBay",
+    "url": "https://www.ebay.com/itm/167072290591"
+   }
+  ],
+  "note": "Two eBay glass listings cover the 2022 and 2024 6in Kindle."
+ },
+ {
+  "models": [
+   "Kindle Scribe (1st gen)",
+   "Kindle Scribe (2024)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "eBay.de",
+    "url": "https://www.ebay.de/itm/387610946384"
+   },
+   {
+    "name": "eBay",
+    "url": "https://www.ebay.com/itm/175493821385"
+   }
+  ],
+  "note": "Two eBay glass listings cover the 2022 and 2024 Kindle Scribe 10.2in."
+ },
+ {
+  "models": [
+   "Amazon Fire HD 10 (2021)",
+   "Amazon Fire HD 10 Plus (2021)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz (eBay)",
+    "url": "https://ebay.com/itm/184844746711"
+   },
+   {
+    "name": "UBB Central",
+    "url": "https://ubbcentral.com/store/item/2-Pack-Screen-Protector-for-10-1-All-New-Fire-HD-10-10-Plus-Tablet-13th-11th-_404808072527.html"
+   }
+  ],
+  "note": "Supershieldz and other sellers list Fire HD 10 and HD 10 Plus (2021) together."
+ },
+ {
+  "models": [
+   "Amazon Fire HD 8 (2020)",
+   "Amazon Fire HD 8 Plus (2020)",
+   "Amazon Fire HD 8 (2022)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Best Buy (SaharaCase)",
+    "url": "https://www.bestbuy.com/product/saharacase-zerodamage-tempered-glass-screen-protector-for-amazon-fire-hd-8-2020-2024-clear/J3GTVXFWQ2"
+   },
+   {
+    "name": "Best Buy Canada marketplace",
+    "url": "https://www.bestbuy.ca/en-ca/product/kindle-fire-hd-8-fire-hd-8-plus-fire-hd-8-kids-2020-screen-protector-tempered-glass-tablet-smooth-skin-film/19878645"
+   }
+  ],
+  "note": "SaharaCase (Best Buy) fits Fire HD 8 2020 to 2024; other sellers list HD 8 and HD 8 Plus 2020 together."
+ },
+ {
+  "models": [
+   "Lenovo Tab M8 (HD)",
+   "Lenovo Tab M8 (3rd Gen)",
+   "Lenovo Tab M8 (4th Gen)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Newegg marketplace",
+    "url": "https://www.newegg.com/p/18W-08BC-001W0"
+   },
+   {
+    "name": "Walmart marketplace",
+    "url": "https://www.walmart.com/ip/186444051"
+   }
+  ],
+  "note": "Newegg and Walmart marketplace glass list TB-8505 (HD), TB-8506 (3rd Gen) and TB300 (4th Gen); marketplace only, test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "vivo iQOO Z11x",
+   "vivo T5x",
+   "vivo Y51 Pro",
+   "vivo Y31d",
+   "vivo Y500i"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (GORILLA PRO)",
+    "url": "https://www.flipkart.com/gorilla-pro-tempered-glass-guard-vivo-y51-5g-y31d-y500i-z11x-t5x-5g-primium-quality/p/itme94fe53801865?pid=ACCHM5F7FZKZESCU"
+   },
+   {
+    "name": "Flipkart (GORILLA FIVE)",
+    "url": "https://www.flipkart.com/gorilla-five-edge-tempered-glass-vivo-y51-pro-5g-y31d-y500i-t5x-z11x-5g/p/itmc2cf29f0670b4?pid=ACCHM5FGBZA3HBJS"
+   },
+   {
+    "name": "Flipkart (MOBITEK)",
+    "url": "https://www.flipkart.com/mobitek-screen-guard-super-x-edge-tempered-glass-anti-glare-fingerprint-compatibe-these-models-oppo-a6t-5g-vivo-y31d-y51-pro-t5x-y500i-iqoo-z11x-oneplus-nord-6/p/itmf898462aaa2a5?pid=ACCHQJ79ZMGNZFBW"
+   },
+   {
+    "name": "Flipkart (WonRia)",
+    "url": "https://www.flipkart.com/wonria-edge-tempered-glass-iqoo-z11x-5g-vivo-t5x-y51-pro-5g/p/itm59756f11940d3?pid=ACCHHJCQCH6G3FRX"
+   },
+   {
+    "name": "Flipkart (MOBINIX ULTRA)",
+    "url": "https://www.flipkart.com/mobinix-ultra-edge-tempered-glass-vivo-t5x-5g-iqoo-z11x-5g/p/itm8cc8664e243f1?pid=ACCHRYE2RFNXVHZF"
+   }
+  ],
+  "note": "Flipkart sellers GORILLA PRO, GORILLA FIVE and MOBITEK sell one glass for all five; many more sellers pair iQOO Z11x with T5x. Merges with Y51 Pro, Y31d and Y500i from the T5 group."
+ },
+ {
+  "models": [
+   "vivo iQOO Z11",
+   "vivo T5",
+   "vivo S2"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (WonReza)",
+    "url": "https://www.flipkart.com/wonreza-edge-screen-guard-iqoo-z11-5g-vivo-t5-s2-5g/p/itm22bf9f9a9c745?pid=ACCHQRYAEDNGRCPA"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-t5-5g-s2-iqoo-z11-privacy-anti-spy-uv-cable-protector/p/itm5f08cdfa5cd17?pid=ACCHS3XWHRCF2QXN"
+   },
+   {
+    "name": "Flipkart (Gadget Glow)",
+    "url": "https://www.flipkart.com/gadget-glow-edge-tempered-glass-iqoo-z11-5g-z11-vivo-s2-5g/p/itm2a78b6c288d50?pid=ACCHRF3QTHFFM5ZH"
+   }
+  ],
+  "note": "Flipkart sellers WonReza and ArmourPro sell one glass for iQOO Z11, T5 and S2 (Gadget Glow also pairs Z11 with S2); ArmourPro's is UV glass. No listing pairs iQOO Z11 with T5 Pro."
+ },
+ {
+  "models": [
+   "vivo iQOO Z11 Lite 44W",
+   "vivo T5 Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Gadget Glow)",
+    "url": "https://www.flipkart.com/gadget-glow-edge-tempered-glass-vivo-t5-lite-44w-5g-44w-iqoo-z11-privacy/p/itmeb33723ebbd4f?pid=ACCHQYD6FVXZ4YWB"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-z11-lite-44w-5g-44w-vivo-t5-5g/p/itm9c5e165bfaca7?pid=ACCHPX2PCDSKR9YU"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-iqoo-z11-lite-44w-5g-44w-vivo-t5-matte-finish/p/itm0dbb836f728f7?pid=ACCHPX3EHTZUYSTK"
+   }
+  ],
+  "note": "Flipkart sellers Gadget Glow, ArmourPro and FIRST MART sell one glass for both (titled T5 Lite 44W)."
+ },
+ {
+  "models": [
+   "vivo Y21",
+   "vivo Y11",
+   "vivo Y05"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Mullick)",
+    "url": "https://www.flipkart.com/mullick-edge-tempered-glass-vivo-y21-5g-y05-y11-5g/p/itma593d6e58d1db?pid=ACCHSGHHMZNWK49G"
+   },
+   {
+    "name": "Flipkart (ADITI Designs)",
+    "url": "https://www.flipkart.com/aditi-designs-edge-tempered-glass-vivo-y21-5g-y11-5g-y05/p/itm8fe7cbbca61b5?pid=ACCHNPQEWDSXH8KH"
+   },
+   {
+    "name": "Flipkart (CLOVYR)",
+    "url": "https://www.flipkart.com/clovyr-edge-tempered-glass-vivo-y21-5g-y11-5g/p/itm3519905b9d2d2?pid=ACCHZK5BHBNGVH8Q"
+   }
+  ],
+  "note": "Flipkart sellers Mullick and ADITI Designs list Y21 5G, Y11 5G and Y05 on one glass; CLOVYR pairs Y21 5G and Y11 5G."
+ },
+ {
+  "models": [
+   "vivo Y21 (2021)",
+   "vivo Y21G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Gorilla Glass)",
+    "url": "https://www.flipkart.com/gorilla-glass-edge-tempered-vivo-y21-y21g/p/itmc6981ee8f3b65?pid=ACCGGF8WAPCPHS49"
+   },
+   {
+    "name": "Flipkart (Dream)",
+    "url": "https://www.flipkart.com/dream-edge-tempered-glass-vivo-y21-y21g/p/itmbed6cb9da799e?pid=ACCGEUNMTNHV7XVT"
+   }
+  ],
+  "note": "Two Flipkart sellers (Gorilla Glass, Dream) list Y21 and Y21G on one glass."
+ },
+ {
+  "models": [
+   "vivo X200 FE",
+   "vivo X300 FE",
+   "vivo X300"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Proteczo)",
+    "url": "https://www.flipkart.com/proteczo-edge-tempered-glass-vivo-x200-fe-5g-x300-premium-screen-protector-easy-installation-kit/p/itm1e3279a2e50ba?pid=ACCHM626AZ4XZSWM"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-vivo-x200-fe-x300-oneplus-13s-5g/p/itm41d3444c1602a?pid=ACCHQU7EYPZRRSY9"
+   },
+   {
+    "name": "Flipkart (Nexyes)",
+    "url": "https://www.flipkart.com/nexyes-screen-guard-vivo-x300-fe-5g-x200/p/itma3ead7a015505?pid=ACCHT29H6YRHQQGG"
+   },
+   {
+    "name": "Flipkart (EITANSHA CREATION)",
+    "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-vivo-x200-fe-5g-fe-x300/p/itm30f5e02e7af73?pid=ACCHZ7RJJTM2WJQE"
+   },
+   {
+    "name": "Flipkart (Mesquinho)",
+    "url": "https://www.flipkart.com/mesquinho-edge-tempered-glass-vivo-x300-5g-x200-fe/p/itm078c737fd63f0?pid=ACCHKED8GSRJ6WGK"
+   },
+   {
+    "name": "Flipkart (WonReza)",
+    "url": "https://www.flipkart.com/wonreza-edge-tempered-glass-vivo-x300-x200-fe-oneplus-13s-5g/p/itm7a52cb67f5c57?pid=ACCHMXF59HYDTH6F"
+   }
+  ],
+  "note": "Flipkart sellers Proteczo, FAD-E and Nexyes pair X200 FE with X300 FE; Mesquinho and WonReza pair X300 with X200 FE; EITANSHA lists all three. Indian X300 FE; X200 Pro mini not seen."
+ },
+ {
+  "models": [
+   "vivo V70",
+   "vivo V70 Elite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v70-5g-elite-5g/p/itm740da64e6c8d9?pid=ACCHZQHFGFTBYF68"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-vivo-v70-5g-elite-5g/p/itmb321ecc0ea339?pid=ACCHZVBR7KYNPWCW"
+   },
+   {
+    "name": "Flipkart (RSACCESORIESS)",
+    "url": "https://www.flipkart.com/rsaccesoriess-edge-tempered-glass-vivo-v70-v70-elite/p/itm1b234ff202e11?pid=ACCHSQBE9K3FTAHE"
+   },
+   {
+    "name": "Flipkart (SWEETENTERPRISE)",
+    "url": "https://www.flipkart.com/sweetenterprise-tempered-glass-guard-vivo-v70-v70-elite-border-less/p/itm0273725ffb9d0?pid=ACCHT4SYGMZ7CVQX"
+   }
+  ],
+  "note": "Flipkart sellers ArmourPro, FAD-E, RSACCESORIESS and SWEETENTERPRISE sell one glass for V70 and V70 Elite."
+ },
+ {
+  "models": [
+   "vivo V60",
+   "vivo V60e",
+   "vivo T4 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Caseline)",
+    "url": "https://www.flipkart.com/caseline-edge-tempered-glass-vivo-v60e-5g-v60-t4-pro-5g/p/itm0c57882bb3a57?pid=ACCHHGSNZMKPCZPK"
+   },
+   {
+    "name": "Flipkart (chakoor)",
+    "url": "https://www.flipkart.com/chakoor-edge-tempered-glass-vivo-v50-5g-v50e-t4-pro-v60-5g/p/itm26f240743e881?pid=ACCHJHJZHGVZRZ6F"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v60-5g-v60-v60e-5g/p/itm6a4d9b08c4883?pid=ACCHM8TQ6QYJHVCH"
+   },
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-vivo-v60e-v60-5g-hd-uv-curved-screen-protector-easy-installation-kit/p/itm6832272b7e8bd?pid=ACCHGZH3FDFG3ERQ"
+   },
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-v60e-v60-5g-uv-advanced-curved-screen-protector-easy-installation-kit/p/itmc2da21de70eba?pid=ACCHGZKV3ZCC2NVM"
+   }
+  ],
+  "note": "Flipkart sellers ArmourPro, Maxboost and STP FEEL pair V60 with V60e; Caseline lists V60e, V60 and T4 Pro on one glass. Curved screen: much of the glass is UV-cured."
+ },
+ {
+  "models": [
+   "vivo V50",
+   "vivo V50e",
+   "vivo iQOO Z10R (India)",
+   "vivo T4R"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Caseline)",
+    "url": "https://www.flipkart.com/caseline-edge-tempered-glass-vivo-v50-5g-v50e-5g-elite-edition-iqoo-z10r-t4r/p/itm058e64691208e?pid=ACCFJK3SZ2DPZASY"
+   },
+   {
+    "name": "Flipkart (Nexyes)",
+    "url": "https://www.flipkart.com/nexyes-screen-guard-iqoo-z10r-5g-vivo-v50-v50e-t4r/p/itmd30bb955c4d38?pid=ACCHT29HAYZGFHV5"
+   },
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-screen-guard-vivo-v50-5g-v50e-t4r-iqoo-z10r/p/itmb2f4fbb5e3850?pid=ACCHK5UGZSVSPFCQ"
+   },
+   {
+    "name": "Flipkart (ISAAK)",
+    "url": "https://www.flipkart.com/isaak-screen-guard-vivo-v50-5g-t4r-iqoo-z10r-v50e-unbreakable-front/p/itmfbce8708756e9?pid=ACCHGBPV2TCNUFEN"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-z10r-5g-z10r-vivo-t4r-privacy-anti-spy-protection/p/itm90310daf4ac10?pid=ACCHM8TQYGGRYG8G"
+   }
+  ],
+  "note": "Flipkart sellers Caseline, Nexyes, Bodoma and ISAAK list V50, V50e, T4R and iQOO Z10R on one glass. Curved screen. Merges V50 into this group."
+ },
+ {
+  "models": [
+   "vivo T4 Lite",
+   "vivo iQOO Z10 Lite",
+   "vivo Y19",
+   "vivo Y04",
+   "vivo Y29s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (DEVWORLD)",
+    "url": "https://www.flipkart.com/devworld-tempered-glass-guard-vivo-y19-y19e-t4-lite-iqoo-z10-6-74-inch-installation-kit/p/itm479136c7cf342?pid=ACCHMB4N2PXSPUDT"
+   },
+   {
+    "name": "Flipkart (ADITI Designs)",
+    "url": "https://www.flipkart.com/aditi-designs-edge-tempered-glass-vivo-t4-lite-5g-iq00-z10-5g-y04-y29s-y19e-y19-y29t/p/itmc227f518828dc?pid=ACCHNPQEZGBHZ3X8"
+   },
+   {
+    "name": "Flipkart (AIBEX)",
+    "url": "https://www.flipkart.com/aibex-edge-tempered-glass-vivo-t4-lite-5g-y04-y29s-5g-9h-hardness-anti-glare-anti-fingerprint-water-resistant-edge-to-edge-full-screen-protector-bubble-free-installation/p/itm35c9c2150a475?pid=ACCHE8ZREWZZBJAD"
+   },
+   {
+    "name": "Flipkart (VENI SON'S)",
+    "url": "https://www.flipkart.com/veni-son-s-edge-screen-guard-vivo-y19e-y29s-y04/p/itm03a2d896cc7d2?pid=ACCHFRABFSJNDHBK"
+   },
+   {
+    "name": "Flipkart (MAHTO)",
+    "url": "https://www.flipkart.com/mahto-tempered-glass-guard-vivo-y29s-temper-edge-y04-4g-screen-5g/p/itm32c2cc5e7f90a?pid=ACCHE47YVGKUPYTW"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-t4-lite-5g-lite-iqoo-z10-5g/p/itm52cea6982db8c?pid=ACCHDHPSYSHTKZYT"
+   }
+  ],
+  "note": "Flipkart sellers ADITI Designs and AIBEX list T4 Lite, Y04 and Y29s together; DEVWORLD adds Y19 and iQOO Z10 Lite; many pair T4 Lite with iQOO Z10 Lite."
+ },
+ {
+  "models": [
+   "vivo T3x",
+   "vivo iQOO Z9x",
+   "vivo Y58",
+   "vivo T4x",
+   "vivo iQOO Z10x",
+   "vivo Y39",
+   "vivo Y29"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (XEDO TECH)",
+    "url": "https://www.flipkart.com/xedo-tech-edge-tempered-glass-vivo-y58-5g-t3x-t4x-y39-5g/p/itm56f29a08bb792?pid=ACCHHMNSHBGBZYGD"
+   },
+   {
+    "name": "Flipkart (KXEDOX)",
+    "url": "https://www.flipkart.com/kxedox-edge-tempered-glass-vivo-y39-5g-t4x-y58/p/itmb950b5c3b8216?pid=ACCHJ6ZFGK885VVT"
+   },
+   {
+    "name": "Flipkart (MD SHILD)",
+    "url": "https://www.flipkart.com/md-shild-edge-tempered-glass-vivo-y58-5g-y29-t3x-t4x-5g/p/itm0863a9c6bec2d?pid=ACCHMUPY8EFKDYYC"
+   },
+   {
+    "name": "Flipkart (mobinix)",
+    "url": "https://www.flipkart.com/mobinix-edge-tempered-glass-vivo-y39-5g-y29-t4x-5g/p/itmc67c40c67dbb2?pid=ACCHGUMASHBQVU39"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-vivo-t4x-5g-t3x-realme-p3x-5g/p/itm66392df44a7b5?pid=ACCHAYJPTDSZH6AA"
+   },
+   {
+    "name": "Flipkart (UNIICA)",
+    "url": "https://www.flipkart.com/uniica-edge-tempered-glass-vivo-t3x-5g-iqoo-z9x-5g/p/itm8963fb930ac7c?pid=ACCHRJX9HGHAVNCQ"
+   },
+   {
+    "name": "Flipkart (EITANSHA CREATION)",
+    "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-iqoo-z9x-5g-vivo-t3x-5g/p/itm75e4171c341b0?pid=ACCHF5347GQAYZVK"
+   },
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-edge-tempered-glass-vivo-t4x-5g-iqoo-z10x-z10x/p/itm07fb51fb988de?pid=ACCHD655WJEN2HC4"
+   },
+   {
+    "name": "Flipkart (VEYO)",
+    "url": "https://www.flipkart.com/veyo-edge-tempered-glass-iqoo-z10x-5g-vivo-t4x-military-grade-gorilla-9h-scratch-resistant-ultra-hd-clarity-easy-installation-kit/p/itm487f11a3dd079?pid=ACCHNQFWVE5MUJBU"
+   }
+  ],
+  "note": "Flipkart sellers XEDO TECH, KXEDOX, MD SHILD and mobinix sell one glass across Y58, T3x, T4x and Y39 (MD SHILD and mobinix add Y29 5G). Many pair T3x with iQOO Z9x and T4x with iQOO Z10x. Merges four catalogue groups."
+ },
+ {
+  "models": [
+   "vivo Y31",
+   "vivo Y31 Pro",
+   "vivo T4x",
+   "vivo Y39",
+   "vivo T3x",
+   "vivo Y58"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Movafo)",
+    "url": "https://www.flipkart.com/movafo-edge-tempered-glass-vivo-y31-5g-pro-t4x-y39-t3x-y58-5g/p/itma626d6f3762d4?pid=ACCHHW3AHC9NMNFV"
+   },
+   {
+    "name": "Flipkart (Vatsin)",
+    "url": "https://www.flipkart.com/vatsin-edge-tempered-glass-vivo-y31-5g-pro-t4x-y39-t3x-y58-5g/p/itm714dbedd6f87d?pid=ACCHHV3H2NEEKK9B"
+   },
+   {
+    "name": "Flipkart (CEDO XPRO)",
+    "url": "https://www.flipkart.com/cedo-xpro-tempered-glass-guard-vivo-t4x-5g-y31-pro-iqoo-z10x-5g/p/itmf355bdc211caa?pid=ACCHAWTGGBYZXS5G"
+   },
+   {
+    "name": "Flipkart (TUFZ)",
+    "url": "https://www.flipkart.com/tufz-edge-tempered-glass-vivo-y31-5g-pro-5g/p/itm2866dbda41354?pid=ACCHRGMV7GMTC2Z9"
+   },
+   {
+    "name": "Flipkart (MOBINIX OG)",
+    "url": "https://www.flipkart.com/mobinix-og-edge-tempered-glass-vivo-y31-5g-pro-5g/p/itm4246132a5cb8f?pid=ACCHT4DVHBCTZRVR"
+   }
+  ],
+  "note": "Flipkart sellers TUFZ and MOBINIX pair Y31 5G with Y31 Pro 5G; Movafo and Vatsin list both with T4x, Y39, T3x and Y58; CEDO XPRO pairs Y31 Pro with T4x. Indian 2025 Y31."
+ },
+ {
+  "models": [
+   "vivo T3 Lite",
+   "vivo Y18",
+   "vivo Y18e",
+   "vivo iQOO Z9 Lite",
+   "vivo Y03",
+   "vivo Y18t",
+   "vivo Y28s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (CEDO XPRO)",
+    "url": "https://www.flipkart.com/cedo-xpro-tempered-glass-guard-vivo-t3-lite-5g-iqoo-z9-y18-4g-y18e-y03-4g/p/itm3dcf4abd85239?pid=ACCH3FBHEZZ8YUVG"
+   },
+   {
+    "name": "Flipkart (DD SON)",
+    "url": "https://www.flipkart.com/dd-son-edge-tempered-glass-vivo-t3-lite-5g-y18-y18e-y03-4g-iqoo-z9-screen-protector-full-hd-quality-anti-scratch-coverage-easy-installation-kit-black/p/itm9ac085aa4dc37?pid=ACCHMFVHDMNZDD2G"
+   },
+   {
+    "name": "Flipkart (APTIVOS)",
+    "url": "https://www.flipkart.com/aptivos-edge-tempered-glass-vivo-t3-lite-5g-y18-y18e-y03-4g-iqoo-z9-premium-easy-installation-kit/p/itm25f967aaa592d?pid=ACCH99H2QHP52WZ2"
+   },
+   {
+    "name": "Flipkart (Techforce)",
+    "url": "https://www.flipkart.com/techforce-tempered-glass-guard-vivo-t3-lite-5g-lite-y18-y18t-y18e-iqoo-z9-5g/p/itmbf9ff58d03b84?pid=ACCH7U87KGDDCTFH"
+   },
+   {
+    "name": "Flipkart (Skyforce)",
+    "url": "https://www.flipkart.com/skyforce-edge-tempered-glass-vivo-t3-lite-5g-lite-y18-y18t-y18e-iqoo-z9-5g/p/itm6d6db3655548f?pid=ACCH7U8GSCSY3NZH"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-vivo-t3-lite-5g-y28s-iqoo-z9-y28-y28e-5g/p/itm7faaeec0e6f1f?pid=ACCH2MYWQ6DFPH4T"
+   },
+   {
+    "name": "Flipkart (Movafo)",
+    "url": "https://www.flipkart.com/movafo-edge-tempered-glass-vivo-y18-y18e-y18i-y28s-y28e-y28-5g-y17s-y36/p/itm52856365cf7ab?pid=ACCHHW3ATVZJQVHQ"
+   }
+  ],
+  "note": "Flipkart sellers CEDO XPRO, DD SON and APTIVOS list T3 Lite, Y18, Y18e, Y03 and iQOO Z9 Lite on one glass; Techforce and Skyforce add Y18t; FAD-E and Movafo add Y28s. Merges Y03 into this group."
+ },
+ {
+  "models": [
+   "vivo Y28",
+   "vivo Y28s",
+   "vivo Y17s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (MD SHILD)",
+    "url": "https://www.flipkart.com/md-shild-edge-tempered-glass-vivo-y28-y28e-y28s/p/itmf430bba926482?pid=ACCHMUPY46HWQAWG"
+   },
+   {
+    "name": "Flipkart (Glasgow)",
+    "url": "https://www.flipkart.com/glasgow-tempered-glass-guard-vivo-y28-5g-y28s-y28e/p/itmd6a58ff0cd350?pid=ACCHEPTYJ2GXTY4S"
+   },
+   {
+    "name": "Flipkart (YAFILO)",
+    "url": "https://www.flipkart.com/yafilo-tempered-glass-guard-vivo-y28-5g-y28e-y28s-y17s-hd-edge-to-edge-full-screen-protector-easy-self-installation-kit/p/itm689431df4a78b?pid=ACCH4YFGZAHA8YAQ"
+   },
+   {
+    "name": "Flipkart (Movafo)",
+    "url": "https://www.flipkart.com/movafo-edge-tempered-glass-vivo-y18-y18e-y18i-y28s-y28e-y28-5g-y17s-y36/p/itm52856365cf7ab?pid=ACCHHW3ATVZJQVHQ"
+   }
+  ],
+  "note": "Flipkart sellers MD SHILD, Glasgow and mobinix pair Y28 5G with Y28s; YAFILO and Movafo add Y17s. Links the Y17s/Y28 group to the Y18/T3 Lite group via Y28s."
+ },
+ {
+  "models": [
+   "vivo iQOO Z10",
+   "vivo T4"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-z10-5g-vivo-t4/p/itmf94f57bd6dcfd?pid=ACCHB7X5AXBYDCBG"
+   },
+   {
+    "name": "Flipkart (COVJ)",
+    "url": "https://www.flipkart.com/covj-edge-tempered-glass-iqoo-z10-vivo-t4-5g-uv/p/itmb1c9de1f4f60b?pid=ACCGFRZDHVZVXJBW"
+   },
+   {
+    "name": "Flipkart (UNIICA)",
+    "url": "https://www.flipkart.com/uniica-edge-tempered-glass-vivo-t4-5g-iqoo-z10-5g/p/itm5fce70abbd694?pid=ACCHRFHFXVYZPJWH"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-t4-5g-t4-iqoo-z10-5g/p/itm2fcd08a74c266?pid=ACCHM8SDWXMVNAVX"
+   }
+  ],
+  "note": "Many Flipkart sellers (ArmourPro, COVJ, UNIICA, FIRST MART) sell one glass for iQOO Z10 and T4. Curved screen: much of it is UV glass."
+ },
+ {
+  "models": [
+   "vivo iQOO Z9",
+   "vivo T3",
+   "vivo Y200e",
+   "vivo Y200 (India)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (YAFILO)",
+    "url": "https://www.flipkart.com/yafilo-edge-tempered-glass-vivo-y200e-iqoo-z9-t3-5g-og-matte-cable-protector/p/itm7988a9f382e73?pid=ACCHFHEGNPXYCGEW"
+   },
+   {
+    "name": "Flipkart (MD SHILD)",
+    "url": "https://www.flipkart.com/md-shild-edge-tempered-glass-iqoo-z9-5g-vivo-t3-y200-y200e-5g/p/itm6b4b70843d52f?pid=ACCHMUPFTGYYAHKW"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-t3-5g-t3-y200e-y200-iqoo-z9-matte-cable-protector/p/itm8ed80b8a779a0?pid=ACCH37FHRZH3AMC7"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-t3-5g-t3-y200e-y200-matte-og-cable-protector/p/itmf7aef136aebe5?pid=ACCH36ZEQFARVDXE"
+   },
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-edge-tempered-glass-vivo-t3-5g-vivo-y200e-5g/p/itm92db441dd6fdc?pid=ACCGZRGPXZFXW3YW"
+   }
+  ],
+  "note": "Flipkart sellers YAFILO, MD SHILD, ArmourPro and Bodoma sell one glass for T3, Y200e and iQOO Z9; MD SHILD, ArmourPro and FIRST MART add the Indian Y200 5G (merges it in)."
+ },
+ {
+  "models": [
+   "vivo V27",
+   "vivo V27 Pro",
+   "vivo iQOO Z7 Pro",
+   "vivo T2 Pro",
+   "vivo V29e (India)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (ALONZO)",
+    "url": "https://www.flipkart.com/alonzo-edge-tempered-glass-vivo-v27-5g-pro-v29e-t2-iqoo-z7-5g/p/itm07bf8ae0b1307?pid=ACCGVKFGSMXHJWQG"
+   },
+   {
+    "name": "Flipkart (kyosei)",
+    "url": "https://www.flipkart.com/kyosei-edge-tempered-glass-vivo-v27-5g-pro-v29e-t2-iqoo-z7-v29-v29/p/itmf732f686b5919?pid=ACCGVHNJXRXGPR4X"
+   },
+   {
+    "name": "Flipkart (Foncase)",
+    "url": "https://www.flipkart.com/foncase-tempered-glass-guard-vivo-t2-pro-5g-iqoo-z7-v29e-v27-pro/p/itm20b4314a61e4f?pid=ACCGN3APREQRWWFS"
+   },
+   {
+    "name": "Flipkart (Gadget Glow)",
+    "url": "https://www.flipkart.com/gadget-glow-edge-tempered-glass-iqoo-z7-pro-vivo-v27-v27-pro/p/itmbc3de13632eb2?pid=ACCGT7YMKZXYSHKW"
+   },
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-edge-tempered-glass-vivo-t2-pro-iqoo-z7-pro/p/itmfbvfrpzdk7tuh?pid=ACCFBU8VNH8ZHZCD"
+   }
+  ],
+  "note": "Flipkart sellers ALONZO, kyosei and Foncase list V27, V27 Pro, V29e, T2 Pro and iQOO Z7 Pro on one glass. Curved screen. Indian V29e merges in; S16/S16 Pro (China) not seen."
+ },
+ {
+  "models": [
+   "vivo V29",
+   "vivo V29 Pro",
+   "vivo V29e (India)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-vivo-v29-v29e-v29-pro-hd-uv-curved-screen-protector-easy-installation-kit/p/itmc497dd602ee6d?pid=ACCH5WW2DXGWTAN2"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v29e-5g-v29-v29-pro/p/itm97fcdb5230e2d?pid=ACCGT67A2GQKCTBE"
+   },
+   {
+    "name": "Flipkart (Mobliebies)",
+    "url": "https://www.flipkart.com/mobliebies-tempered-glass-guard-vivo-v29-v29e-pro-advanced-black-border-screen-protector/p/itm8352992aa48f4?pid=ACCH234WS5EJBGQE"
+   },
+   {
+    "name": "Flipkart (BW Blackwik)",
+    "url": "https://www.flipkart.com/bw-blackwik-edge-tempered-glass-vivo-v29-v29-pro/p/itm69d5c82e37f7b?pid=ACCHP3YGFSSYUQZF"
+   }
+  ],
+  "note": "Flipkart sellers Maxboost, ArmourPro and Mobliebies list V29, V29 Pro and Indian V29e on one glass; many more pair V29 with V29 Pro. Curved: mostly UV glass. S17 family (China) not seen."
+ },
+ {
+  "models": [
+   "vivo V30",
+   "vivo V30 Pro",
+   "vivo V30e"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-v30e-v30-5g-v30-pro/p/itmd9490f13aca9c?pid=ACCGYGFDUABYPQZU"
+   },
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-vivo-v30e-v30-5g-pro-5g-premium-uv/p/itm05105f535daed?pid=ACCGYG28HFUMZ48H"
+   },
+   {
+    "name": "Flipkart (MOBILEMANIA)",
+    "url": "https://www.flipkart.com/mobilemania-edge-tempered-glass-vivo-v30-v30-pro-v30e/p/itmee96daa441365?pid=ACCH8YMGCJFH6JWQ"
+   },
+   {
+    "name": "Flipkart (Tough Gorilla)",
+    "url": "https://www.flipkart.com/tough-gorilla-edge-tempered-glass-vivo-v30-v30-pro-primium-quality-curved-uv/p/itm8be48a717ff4d?pid=ACCGYSGZAYKZBC5P"
+   },
+   {
+    "name": "Flipkart (BW Blackwik)",
+    "url": "https://www.flipkart.com/bw-blackwik-edge-tempered-glass-vivo-v30-v30-pro/p/itmd688becf7c1f8?pid=ACCHP3T7HAVYHFXH"
+   }
+  ],
+  "note": "Flipkart sellers STP FEEL, Maxboost and MOBILEMANIA list V30, V30 Pro and V30e on one glass; many pair V30 with V30 Pro. Curved: mostly UV glass. Merges V30e in."
+ },
+ {
+  "models": [
+   "vivo iQOO Z7",
+   "vivo T2 (India)",
+   "vivo iQOO Z7s",
+   "vivo Y100"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (XEDO TECH)",
+    "url": "https://www.flipkart.com/xedo-tech-edge-tempered-glass-iqoo-z7-5g-z7s-vivo-t2-y100-y100a-5g/p/itm9af0cd4949e6c?pid=ACCHHMNSVG4XNSGB"
+   },
+   {
+    "name": "Flipkart (MEIBO)",
+    "url": "https://www.flipkart.com/meibo-edge-tempered-glass-iqoo-z7-5g-z7s-vivo-t2-y100-y100a-5g/p/itme11028dfc2eab?pid=ACCH7C8FKBFBRGZT"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-vivo-y100-5g-t2-iqoo-z7-y100a/p/itm255ba6f9febd2?pid=ACCGNP87KYAPYKJH"
+   },
+   {
+    "name": "Flipkart (Evaton)",
+    "url": "https://www.flipkart.com/evaton-edge-tempered-glass-iqoo-z7-5g-vivo-t2-y100-5g/p/itm01d468f23f1db?pid=ACCHKR58WZQUUYMY"
+   },
+   {
+    "name": "Flipkart (TUFZ)",
+    "url": "https://www.flipkart.com/tufz-edge-tempered-glass-vivo-t2-5g-iqoo-z7-5g/p/itm7e4810a5b0a75?pid=ACCHRGPFVHB5XBGR"
+   }
+  ],
+  "note": "Flipkart sellers XEDO TECH and MEIBO list iQOO Z7, Z7s, T2 5G and Y100 5G on one glass; FAD-E and Evaton pair Y100 with T2 and Z7. Merges the Indian Y100 5G in."
+ },
+ {
+  "models": [
+   "vivo Y56",
+   "vivo T2x (India)",
+   "vivo Y16"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-front-back-tempered-glass-vivo-t2x-y56-y16/p/itm075d6350f823d?pid=ACCGZK4HWDH2PH5N"
+   },
+   {
+    "name": "Flipkart (Ten To 11)",
+    "url": "https://www.flipkart.com/ten-11-edge-tempered-glass-vivo-y16-y56-5g-t2x-5g/p/itmc2254c6979cbb?pid=ACCGJ3UBETH2ZPPF"
+   }
+  ],
+  "note": "Flipkart sellers Olonga and Ten To 11 list Y56 5G, T2x 5G and Y16 on one glass. Y16 is listed as a smaller HD screen, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "vivo T1 5G",
+   "vivo iQOO Z6",
+   "vivo Y75 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Viveks)",
+    "url": "https://www.flipkart.com/viveks-edge-tempered-glass-vivo-t1-5g-y75-iqoo-z6/p/itm6417cf8c29980?pid=ACCGNUFHNHSSZFZN"
+   },
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-tempered-glass-guard-vivo-t1-5g-iqoo-z6-y75-5g/p/itm7a0d7570f0868?pid=ACCG8VFF4FDNZ77Y"
+   },
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-front-back-screen-guard-vivo-iqoo-z6-5g-t1-5g/p/itm0c5c7650d2853?pid=ACCGBCWTQC94HQXK"
+   }
+  ],
+  "note": "Flipkart sellers Viveks and Bodoma list T1 5G, iQOO Z6 5G and Y75 5G on one glass. Merges Y75 5G in."
+ },
+ {
+  "models": [
+   "vivo iQOO Z6 Pro",
+   "vivo T1 Pro",
+   "vivo iQOO Z6 44W",
+   "vivo T1 (Snapdragon 680)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (AGRSHI)",
+    "url": "https://www.flipkart.com/agrshi-tempered-glass-guard-vivo-t1-44w-pro-5g-iqoo-z6-5g/p/itm384999943ca82?pid=ACCGHFNQ9TZAAFYV"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-z6-pro-5g-44w-vivo-t1-5g/p/itm9129499ef3185?pid=ACCGR8RADKYHGC4Y"
+   },
+   {
+    "name": "Flipkart (ALFA URBAN)",
+    "url": "https://www.flipkart.com/alfa-urban-tempered-glass-guard-iqoo-z6-44w-pro-5g-vivo-t1-edge-hd-full-screen-coverage-easy-installation/p/itm2842a8db97c20?pid=ACCGY7A6NVJUTVPE"
+   },
+   {
+    "name": "Flipkart (MD SHILD)",
+    "url": "https://www.flipkart.com/md-shild-edge-tempered-glass-vivo-t1-pro-iqoo-z6-pro/p/itm02e1f2772503a?pid=ACCHHNDYHZGRTHYJ"
+   }
+  ],
+  "note": "Flipkart sellers AGRSHI, ArmourPro and ALFA URBAN list iQOO Z6 Pro, iQOO Z6 44W and T1 44W (and T1 Pro) on one glass. Merges two catalogue groups."
+ },
+ {
+  "models": [
+   "vivo iQOO 12",
+   "vivo iQOO Neo9 Pro",
+   "vivo iQOO Neo 10R",
+   "vivo iQOO Neo 10"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-iqoo-12-5g-neo-9-pro-10r-10-5g/p/itm72243c7cc1f89?pid=ACCHBKFZCUJH6VVH"
+   },
+   {
+    "name": "Flipkart (Mesquinho)",
+    "url": "https://www.flipkart.com/mesquinho-edge-tempered-glass-iqoo-neo-10r-5g-12-9-pro/p/itm9679c018344b2?pid=ACCHER3RGJSHDDYV"
+   },
+   {
+    "name": "Flipkart (WonReza)",
+    "url": "https://www.flipkart.com/wonreza-edge-tempered-glass-iqoo-neo-10-5g-10r-12-5g/p/itmc958cf2b2c825?pid=ACCHDEYHCQJQHGK5"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-12-neo-9-pro/p/itm0ff43d82742f5?pid=ACCGW9YBGHFNHSND"
+   },
+   {
+    "name": "Flipkart (XTRENGTH)",
+    "url": "https://www.flipkart.com/xtrength-tempered-glass-guard-iqoo-neo-9-pro-5g-12-easy-installation-kit/p/itm1ca5591485c56?pid=ACCGWU54FK9BUGWJ"
+   }
+  ],
+  "note": "Flipkart sellers FAD-E list iQOO 12, Neo 9 Pro, Neo 10R and Neo 10 on one glass; Mesquinho adds Neo 10R and WonReza adds Neo 10; dozens pair iQOO 12 with Neo 9 Pro. Merges four catalogue groups (Indian models)."
+ },
+ {
+  "models": [
+   "vivo iQOO Z9s",
+   "vivo V40e",
+   "vivo T3 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (CORRVIIXA)",
+    "url": "https://www.flipkart.com/corrviixa-edge-tempered-glass-vivo-v40e-5g-iqoo-z9s-5g/p/itmdf17a1d3f0426?pid=ACCHNFGHTTVXV5P6"
+   },
+   {
+    "name": "Flipkart (KWINE CASE)",
+    "url": "https://www.flipkart.com/kwine-case-edge-tempered-glass-vivo-v40e-5g-iqoo-z9s-5g/p/itmf3abe5c818627?pid=ACCH4GM5SU6WFBDF"
+   },
+   {
+    "name": "Flipkart (FwellT)",
+    "url": "https://www.flipkart.com/fwellt-edge-tempered-glass-iqoo-z9s-5g-vivo-v40e-5g/p/itm89a0870a7368b?pid=ACCH4VZRDRRRZTYH"
+   },
+   {
+    "name": "Flipkart (AIBEX)",
+    "url": "https://www.flipkart.com/aibex-edge-tempered-glass-vivo-t3-pro-5g-v40e-iqoo-z9s-full-coverage-uv-glue-light-kit-9h-hardness-anti-scratch-fingerprint-hd-clear-display-guard/p/itmfebe608b55602?pid=ACCHEQVWGJZDVGDZ"
+   },
+   {
+    "name": "Flipkart (KARTRAY)",
+    "url": "https://www.flipkart.com/kartray-tempered-glass-guard-vivo-v40e-5g-t3-pro-ultra-v40-iqoo-z9s-z7-v30e-v30-v30-v29-v29e-t2-v27-uv/p/itmb1f785958d797?pid=ACCH59NMWZFTFEWT"
+   }
+  ],
+  "note": "Flipkart sellers CORRVIIXA, KWINE CASE and FwellT pair iQOO Z9s with V40e; AIBEX (UV glue kit) adds T3 Pro. Curved screen; T3 Pro mainly on UV glass, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "vivo Y200 Pro",
+   "vivo Y300 Plus"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-y200-pro-5g-y300-plus-premium-full-protection-uv-coated/p/itm7edc35455a56f?pid=ACCHF7Y6UKMHMTZP"
+   },
+   {
+    "name": "Flipkart (VALKAR)",
+    "url": "https://www.flipkart.com/valkar-edge-tempered-glass-vivo-y300-plus-5g-y200-pro-plus/p/itm3fce5b242ffef?pid=ACCGZCF7A3HJ5RAM"
+   },
+   {
+    "name": "Flipkart (GDBUY)",
+    "url": "https://www.flipkart.com/gdbuy-edge-tempered-glass-vivo-y300-plus-5g-y200-pro-plus/p/itmdf1a94330c130?pid=ACCG82BTSWMZ6YHH"
+   },
+   {
+    "name": "Flipkart (Genz Kavach)",
+    "url": "https://www.flipkart.com/genz-kavach-tempered-glass-guard-vivo-y200-pro-5g-y300-plus-5g-hd-uv-curved-screen-protector-easy-installation-kit/p/itm6cbcc129d5455?pid=ACCHFH2KZT6GWAGA"
+   }
+  ],
+  "note": "Many Flipkart sellers (STP FEEL, VALKAR, GDBUY, Genz Kavach) sell one glass for Y200 Pro and Y300 Plus. Curved screen: mostly UV glass."
+ },
+ {
+  "models": [
+   "vivo iQOO Neo 7",
+   "vivo iQOO Neo 7 Pro",
+   "vivo iQOO 11"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-iqoo-neo-7-5g-pro-5g/p/itmb2543565cec4b?pid=ACCGMXJCUTKJBTY8"
+   },
+   {
+    "name": "Flipkart (XYNITY)",
+    "url": "https://www.flipkart.com/xynity-edge-tempered-glass-iqoo-neo-7-5g-pro-matte-gaming-screen-protector-easy-installation-kit/p/itm141d30750ba52?pid=ACCHH93UDWBGTHCJ"
+   },
+   {
+    "name": "Flipkart (COSHIBA)",
+    "url": "https://www.flipkart.com/coshiba-tempered-glass-guard-iqoo-neo-7-5g-pro/p/itmcd0bf990128cf?pid=ACCGXVVTDNYY3FYQ"
+   },
+   {
+    "name": "Flipkart (Sprig)",
+    "url": "https://www.flipkart.com/sprig-tempered-glass-guard-iqoo-11-5g-neo-7-pro/p/itmc6e8cb39d8693?pid=ACCHD898X9CFNHHN"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-11-5g-9t-neo-7-pro-5g/p/itm2f6337b5e6b2e?pid=ACCGWW8G6C56CPSG"
+   }
+  ],
+  "note": "Flipkart sellers FAD-E, XYNITY and COSHIBA pair Indian iQOO Neo 7 with Neo 7 Pro; Sprig and ArmourPro add iQOO 11. Merges Neo 7 (India) with Neo 7 Pro; some sellers also stretch this to iQOO 12/Neo 9 Pro."
+ },
+ {
+  "models": [
+   "vivo Y21 (2021)",
+   "vivo Y21s",
+   "vivo Y21a",
+   "vivo Y21e",
+   "vivo Y21G",
+   "vivo Y33s",
+   "vivo Y33t",
+   "vivo Y21t (India)",
+   "vivo T1x (India)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Flipkart SmartBuy)",
+    "url": "https://www.flipkart.com/flipkart-smartbuy-tempered-glass-guard-vivo-y21-y21a-y21e-y21s-y21t-y33t-y33s/p/itm2901ef5a16a5b?pid=ACCGT72XGG8TTTMX"
+   },
+   {
+    "name": "Flipkart (XYNITY)",
+    "url": "https://www.flipkart.com/xynity-tempered-glass-guard-vivo-y21-y21a-y21e-y21s-y21t-y33t-y33s/p/itme516b6dec287a?pid=ACCGFZC7HE8CCWVX"
+   },
+   {
+    "name": "Flipkart (SPRITZEN)",
+    "url": "https://www.flipkart.com/spritzen-tempered-glass-guard-vivo-y21-y21a-y21e-y21t-y33s-y33t/p/itm4edddfca0b0c3?pid=ACCGBZ6XUYPTJN5U"
+   },
+   {
+    "name": "Flipkart (Ten To 11)",
+    "url": "https://www.flipkart.com/ten-11-edge-tempered-glass-vivo-y33s-y33t-y21-y21e-y21t-y21g-y21a-t1x/p/itm24cdf605c51ba?pid=ACCGHP73PH2RKMFM"
+   },
+   {
+    "name": "Flipkart (Vatsin)",
+    "url": "https://www.flipkart.com/vatsin-edge-tempered-glass-vivo-y33s-y33t-y21-y21e-y21t-y21g-y21a-t1x/p/itm90f5463249197?pid=ACCGHP73BKY3HJCK"
+   }
+  ],
+  "note": "Flipkart's own SmartBuy brand, XYNITY and SPRITZEN list Y21, Y21s, Y21a, Y21e, Y21t, Y33s and Y33t on one glass; Ten To 11 and Vatsin add Y21G and T1x. Merges the Y21 and Y33s groups."
+ },
+ {
+  "models": [
+   "vivo Y20",
+   "vivo Y20i",
+   "vivo Y20a",
+   "vivo Y20g",
+   "vivo Y12s",
+   "vivo Y20s",
+   "vivo Y20t",
+   "vivo Y12a"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (ELEF)",
+    "url": "https://www.flipkart.com/elef-edge-tempered-glass-vivo-y20-y20i-y20g-y20a-y12s-pack-1/p/itm08aac4d8ac462?pid=ACCGDYQ3GYZGVGRX"
+   },
+   {
+    "name": "Flipkart (GDBUY)",
+    "url": "https://www.flipkart.com/gdbuy-edge-tempered-glass-vivo-y20g-y12s-y20a-y20-y20i/p/itm47cd11f99bd9a?pid=ACCG6FKVSDZFW59K"
+   },
+   {
+    "name": "Flipkart (Nathaccessories)",
+    "url": "https://www.flipkart.com/nathaccessories-edge-tempered-glass-vivo-y20-y20s-y20i-y20a-y-12g-y12s/p/itmd72751c22d963?pid=ACCGCCFUYBHZDANF"
+   },
+   {
+    "name": "Flipkart (Gorilaa)",
+    "url": "https://www.flipkart.com/gorilaa-tempered-glass-guard-vivo-y12g-y12s-y20-y20a-y20g-y20i-y20t-full-flat-screen-coverage-black-pack-1/p/itm817298c4d2c4d?pid=ACCGF5J2NQWQM5YA"
+   },
+   {
+    "name": "Flipkart (Ten To 11)",
+    "url": "https://www.flipkart.com/ten-11-edge-tempered-glass-vivo-y12s-y20-y20g-y20e-y20i-y20a-y20t/p/itm24cdf605c51ba?pid=ACCGHP73F9UYYGPE"
+   },
+   {
+    "name": "Flipkart (SkyTree)",
+    "url": "https://www.flipkart.com/skytree-tempered-glass-guard-vivo-y20-y20i-y20s-y12s-y21s-y12a/p/itm2d04a057ad5d1?pid=ACCHGHW5QGH6YEHH"
+   },
+   {
+    "name": "Flipkart (Helix)",
+    "url": "https://www.flipkart.com/helix-edge-tempered-glass-vivo-y20-y20i-y20s-y12s-y21s-y12a/p/itma13bdd4e26cc3?pid=ACCHGG6V3EZUSU3A"
+   }
+  ],
+  "note": "Many Flipkart sellers (ELEF, GDBUY, Nathaccessories, Gorilaa) list Y20, Y20i, Y20A, Y20G and Y12s on one glass; Nathaccessories, SkyTree and Helix add Y20s; Gorilaa and Ten To 11 add Y20T; SkyTree and Helix add Y12A."
+ },
+ {
+  "models": [
+   "vivo Y17",
+   "vivo Y15",
+   "vivo Y12",
+   "vivo U10"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Flipkart SmartBuy)",
+    "url": "https://www.flipkart.com/flipkart-smartbuy-edge-tempered-glass-vivo-y15-y17-y12-u10/p/itmfavhz5rzdzayz?pid=ACCFGGYYRZ3FGY7G"
+   },
+   {
+    "name": "Flipkart (Gorilla Armour)",
+    "url": "https://www.flipkart.com/gorilla-armour-tempered-glass-guard-vivo-y15-y17-y12-u10/p/itmfhtxquykrjfsh?pid=ACCFHTMZKRM2JGDG"
+   },
+   {
+    "name": "Flipkart (Frazil)",
+    "url": "https://www.flipkart.com/frazil-tempered-glass-guard-vivo-y15-y17-y12-u10/p/itm8f84aa7df748c?pid=ACCFSAJBJZ9XNZ7M"
+   },
+   {
+    "name": "Flipkart (YOGKREETI)",
+    "url": "https://www.flipkart.com/yogkreeti-edge-tempered-glass-vivo-y11-y12-y15-y17-u10/p/itm6ba0ed169a63c?pid=ACCGSM58AEAGEQSH"
+   }
+  ],
+  "note": "Flipkart's own SmartBuy brand, Gorilla Armour and Frazil list Y15, Y17, Y12 and U10 on one glass (YOGKREETI also adds Y11)."
+ },
+ {
+  "models": [
+   "vivo Y91",
+   "vivo Y95",
+   "vivo Y91i (India)",
+   "vivo Y90",
+   "vivo Y1s",
+   "vivo Y93 (Mediatek)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (ITG)",
+    "url": "https://www.flipkart.com/itg-tempered-glass-guard-vivo-y1s-y90-y91-y91i-y93-y95/p/itm7051731405939?pid=ACCG8CY7SV5WZXUF"
+   },
+   {
+    "name": "Flipkart (SPRITZEN)",
+    "url": "https://www.flipkart.com/spritzen-tempered-glass-guard-vivo-y1s-y90-y91-y91i-y93-y95/p/itmc5d922b5432fe?pid=ACCG7825ZFZJ6GKH"
+   },
+   {
+    "name": "Flipkart (BVR)",
+    "url": "https://www.flipkart.com/bvr-edge-tempered-glass-vivo-y1s-y90-y91-y91i-y93-y95/p/itm7258927e2f115?pid=ACCG6HXKP5TBMUUT"
+   },
+   {
+    "name": "Flipkart (Foncase)",
+    "url": "https://www.flipkart.com/foncase-tempered-glass-guard-vivo-y90-y91-y91i-y93-y95/p/itme1b703b1e550e?pid=ACCGDGEADNN7YZNH"
+   },
+   {
+    "name": "Flipkart (NIBS)",
+    "url": "https://www.flipkart.com/nibs-edge-tempered-glass-vivo-y90-y91-y91i-y93-y95-y97-y1s/p/itmdd1b0f9df987b?pid=ACCH7A88FUUFUZBG"
+   }
+  ],
+  "note": "Dozens of Flipkart sellers (ITG, SPRITZEN, BVR, Foncase) list Y1s, Y90, Y91, Y91i, Y93 and Y95 on one glass. Indian listings: Y93 and Y91i taken as the Indian (MediaTek) versions."
+ },
+ {
+  "models": [
+   "vivo Y93s",
+   "vivo Y91",
+   "vivo Y95"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (EITANSHA CREATION)",
+    "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-vivo-y90-y91-y93-y95-y91i-y93s/p/itm41bae9fa4f81f?pid=ACCHDHHTHGDHGTZB"
+   },
+   {
+    "name": "Flipkart (KANSOL)",
+    "url": "https://www.flipkart.com/kansol-tempered-glass-guard-vivo-y90-y91-y91c-y93-y95-y97-y91i-y93s-y1s-anti-static-dust-proof-edge-protection-easy-installation-kit-included/p/itm7fec9ab958fc9?pid=ACCHFJHHHHZBQMUY"
+   }
+  ],
+  "note": "Two Flipkart sellers (EITANSHA CREATION, KANSOL) add Y93s to the Y91/Y95 glass; only these two, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "vivo iQOO Z3",
+   "vivo Y72 5G (India)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-tempered-glass-guard-vivo-y72-5g-iqoo-z3-5g/p/itm0236d62415fa1?pid=ACCFGUM59DHMFEND"
+   },
+   {
+    "name": "Flipkart (AKSHUD)",
+    "url": "https://www.flipkart.com/akshud-edge-tempered-glass-vivo-y72-5g-iqoo-z3-z3-5g/p/itm4e9a360b77d64?pid=ACCG5JZFEN2B4USD"
+   },
+   {
+    "name": "Flipkart (welldesign)",
+    "url": "https://www.flipkart.com/welldesign-tempered-glass-guard-iqoo-z3-z3-5g-vivo-y72-5g/p/itmfbag6benuu5es?pid=ACCFBAG6CQGHG2FH"
+   },
+   {
+    "name": "Flipkart (Dashmesh Shopping)",
+    "url": "https://www.flipkart.com/dashmesh-shopping-edge-tempered-glass-vivo-y72-iqoo-z3/p/itm377045bfd9c1d?pid=ACCHE87FZH5XAVJW"
+   }
+  ],
+  "note": "Flipkart sellers Bodoma, AKSHUD, welldesign and Dashmesh sell one glass for iQOO Z3 and the Indian Y72 5G. Merges across two catalogue groups."
+ },
+ {
+  "models": [
+   "vivo V20",
+   "vivo V20 SE",
+   "vivo V21e",
+   "vivo Y73"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (EITANSHA CREATION)",
+    "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-vivo-v20-se/p/itmb0734ac5726c9?pid=ACCHDK77FJDJVHXF"
+   },
+   {
+    "name": "Flipkart (COVER CAPITAL)",
+    "url": "https://www.flipkart.com/cover-capital-tempered-glass-guard-vivo-v20-se/p/itmcd2d642335f50?pid=ACCGHCPBESNXUYME"
+   },
+   {
+    "name": "Flipkart (FIVE-O)",
+    "url": "https://www.flipkart.com/five-o-edge-tempered-glass-vivo-v20-v20-se/p/itmb71f2fed6ee85?pid=ACCGDHFYU8GZJGRD"
+   },
+   {
+    "name": "Flipkart (Nathaccessories)",
+    "url": "https://www.flipkart.com/nathaccessories-edge-tempered-glass-vivo-v20-v21e-v21-5g-se-y73-y73s/p/itmfeb3f387af380?pid=ACCGCDZ9E85ZRZEX"
+   },
+   {
+    "name": "Flipkart (VJS)",
+    "url": "https://www.flipkart.com/vjs-edge-tempered-glass-vivo-v21-5g-v21e-v20-y73/p/itm52844282b29df?pid=ACCG8YTUDVQHAZAA"
+   },
+   {
+    "name": "Flipkart (MD care)",
+    "url": "https://www.flipkart.com/md-care-edge-tempered-glass-vivo-v20-v20-se-v21e-y73-y75-4g-t1-44w-iqoo-z6-44w/p/itm7b90f59d6dd93?pid=ACCHEEH7DQWDUKCQ"
+   }
+  ],
+  "note": "Flipkart sellers EITANSHA, COVER CAPITAL and FIVE-O pair V20 with V20 SE; Nathaccessories, VJS and MD care add V21e and Y73. Merges V20 and V20 SE groups."
+ },
+ {
+  "models": [
+   "vivo V21",
+   "vivo V21 5G",
+   "vivo V21e",
+   "vivo V21e 5G",
+   "vivo Y73"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Gorilla Armour)",
+    "url": "https://www.flipkart.com/gorilla-armour-edge-tempered-glass-vivo-v21-v21e-v21-5g-v21e-5g/p/itma4080c692c507?pid=ACCG8BVZQFDHHCMA"
+   },
+   {
+    "name": "Flipkart (Gorilla Protection)",
+    "url": "https://www.flipkart.com/gorilla-protection-tempered-glass-guard-vivo-v21-v21e-v21-5g-v21e-5g/p/itm18bd07cccfc8a?pid=ACCG8UZSCPNMMWKW"
+   },
+   {
+    "name": "Flipkart (KARTRAY)",
+    "url": "https://www.flipkart.com/kartray-tempered-glass-guard-vivo-v21-v21e-y73/p/itmb7ba1f06f5e01?pid=ACCG77C9HKQKFF3H"
+   },
+   {
+    "name": "Flipkart (FIVE-O)",
+    "url": "https://www.flipkart.com/five-o-edge-tempered-glass-vivo-v21e-v21-5g/p/itm3f0ba54693c68?pid=ACCGA5EXQHP7DMSQ"
+   },
+   {
+    "name": "Flipkart (Gorilaa)",
+    "url": "https://www.flipkart.com/gorilaa-tempered-glass-guard-vivo-v21e-y73-5d-glass-full-glue-full-coverage-glass-9h-hardness-2-5d-d-ultra-clear-anti-scratch-free-finger-print-black/p/itm5e8a629c3b0a4?pid=ACCGFGZ9GJF8SXYE"
+   }
+  ],
+  "note": "Flipkart sellers Gorilla Armour and Gorilla Protection list V21, V21 5G, V21e and V21e 5G on one glass; KARTRAY and Gorilaa pair V21e with Y73. Merges three catalogue groups."
+ },
+ {
+  "models": [
+   "vivo V25",
+   "vivo V25e"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (YOGIJEET)",
+    "url": "https://www.flipkart.com/yogijeet-edge-tempered-glass-vivo-v25-v25e/p/itmc779b89218007?pid=ACCGPB7565GKBEGA"
+   },
+   {
+    "name": "Flipkart (ASMANTIC)",
+    "url": "https://www.flipkart.com/asmantic-tempered-glass-guard-vivo-v25-vivo-v25e-5g/p/itm412d6a9717075?pid=ACCH6G8KXEAXDJYM"
+   }
+  ],
+  "note": "Two Flipkart sellers (YOGIJEET, ASMANTIC) sell one glass for V25 and V25e. X80 Lite not seen."
+ },
+ {
+  "models": [
+   "vivo V23e",
+   "vivo Y75"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-front-back-tempered-glass-vivo-y75-v23e/p/itm2d5aa255e6a9d?pid=ACCGGH5PEJNBXJQG"
+   },
+   {
+    "name": "Flipkart (MUHAYMIN)",
+    "url": "https://www.flipkart.com/muhaymin-tempered-glass-guard-vivo-y73-y75-v21-v23e/p/itme27dc41ad50ef?pid=ACCHRG98VN4DTMFY"
+   },
+   {
+    "name": "Flipkart (FINCH)",
+    "url": "https://www.flipkart.com/finch-front-back-tempered-glass-vivo-y75-v23e/p/itmdd0ce45b9bc9a?pid=ACCGGH75ZNUAYXDS"
+   }
+  ],
+  "note": "Flipkart sellers Olonga, FINCH and MUHAYMIN sell one glass for V23e and Y75 (4G)."
+ },
+ {
+  "models": [
+   "vivo Y51 (2020, December)",
+   "vivo Y31 (2021)",
+   "vivo Y51a"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (SBSPROTECTION)",
+    "url": "https://www.flipkart.com/sbsprotection-tempered-glass-guard-vivo-y51a-y31-y51/p/itme8356668d9002?pid=ACCG47D4GFABMNHD"
+   },
+   {
+    "name": "Flipkart (AGRSHI)",
+    "url": "https://www.flipkart.com/agrshi-tempered-glass-guard-vivo-y51-y51a-y31-y31a/p/itmb8b68d3f4603f?pid=ACCGDHUFVHCHQPSU"
+   },
+   {
+    "name": "Flipkart (ELEF)",
+    "url": "https://www.flipkart.com/elef-edge-tempered-glass-vivo-y31-y51a-y51-2020-pack-1/p/itm813a0826fe7d9?pid=ACCGDYQ39BK2VBQE"
+   },
+   {
+    "name": "Flipkart (Foncase)",
+    "url": "https://www.flipkart.com/foncase-tempered-glass-guard-vivo-y31-y51-y51a-screen-protector/p/itm0ce6aa1da606b?pid=ACCGDF9BQGNYVA7Z"
+   },
+   {
+    "name": "Flipkart (KARTRAY)",
+    "url": "https://www.flipkart.com/kartray-tempered-glass-guard-vivo-y31-y51-y51a/p/itmb10aa2d58cdd9?pid=ACCGADPC68HSFJ5S"
+   }
+  ],
+  "note": "Many Flipkart sellers (SBSPROTECTION, AGRSHI, ELEF, Foncase, KARTRAY) list Y31, Y51 (2020) and Y51A on one glass."
+ },
+ {
+  "models": [
+   "vivo S1",
+   "vivo S1 Pro",
+   "vivo Z1x",
+   "vivo Y9s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (HQ Protection)",
+    "url": "https://www.flipkart.com/hq-protection-edge-tempered-glass-vivo-s1-s1-pro-z1x-y7s-y9s/p/itmcb87ac4fd168e?pid=ACCGH39EDFTAGSVW"
+   },
+   {
+    "name": "Flipkart (Dream)",
+    "url": "https://www.flipkart.com/dream-edge-tempered-glass-vivo-s1-s1-pro-z1x-y7s-y9s/p/itm8da207aa82d80?pid=ACCGA4GRMSH7EK5G"
+   },
+   {
+    "name": "Flipkart (Gorilla Glass)",
+    "url": "https://www.flipkart.com/gorilla-glass-edge-tempered-vivo-s1-s1-pro-y7s-y9s-z1x/p/itm67f0657962c70?pid=ACCGDTPZRGZVAB3D"
+   },
+   {
+    "name": "Flipkart (AGRSHI)",
+    "url": "https://www.flipkart.com/agrshi-tempered-glass-guard-vivo-s1-pro-s1-z1x/p/itm3e548fddcfcb3?pid=ACCGDHUFHZFBNTZE"
+   }
+  ],
+  "note": "Flipkart sellers HQ Protection, Dream and Gorilla Glass list S1, S1 Pro, Z1x and Y9s on one glass; AGRSHI lists S1, S1 Pro and Z1x. Indian S1/S1 Pro; merges two catalogue groups."
+ },
+ {
+  "models": [
+   "vivo U20",
+   "vivo Y19 (2019)"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Prolike)",
+    "url": "https://www.flipkart.com/prolike-edge-tempered-glass-vivo-y19-u20/p/itm7902880f1a05f?pid=ACCFSBJGVZFADGTE"
+   },
+   {
+    "name": "Flipkart (ALFA URBAN)",
+    "url": "https://www.flipkart.com/alfa-urban-edge-tempered-glass-vivo-y19-u20-gaming-matte-anti-fingerprint-bubble-free/p/itmb0729f603cd9d?pid=ACCGXRPCZYGABPYC"
+   },
+   {
+    "name": "Flipkart (ASMANTIC)",
+    "url": "https://www.flipkart.com/asmantic-tempered-glass-guard-vivo-y19-vivo-u20/p/itm1feadd758d421?pid=ACCH6G8K2QHHSZM6"
+   },
+   {
+    "name": "Flipkart (Gorilla Armour)",
+    "url": "https://www.flipkart.com/gorilla-armour-tempered-glass-guard-vivo-u20-y19/p/itm8b001161152f9?pid=ACCFZ2SZM6FTHXHH"
+   }
+  ],
+  "note": "Flipkart sellers Prolike, ALFA URBAN, ASMANTIC and Gorilla Armour sell one glass for U20 and Y19."
+ },
+ {
+  "models": [
+   "vivo V19",
+   "vivo V17 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Flipkart SmartBuy)",
+    "url": "https://www.flipkart.com/flipkart-smartbuy-edge-tempered-glass-vivo-v19-v17-pro/p/itm6484f92964fe1?pid=ACCFPYYYMEXQKTQH"
+   },
+   {
+    "name": "Flipkart (GORILLA PRO)",
+    "url": "https://www.flipkart.com/gorilla-pro-edge-tempered-glass-vivo-v19-v17-v17/p/itmf513a5e06e103?pid=ACCG8XYXG4RUMHPH"
+   }
+  ],
+  "note": "Flipkart's own SmartBuy glass is listed for V19 and V17 Pro; GORILLA PRO lists V19, V17 and V17 Pro. Indian V19."
+ },
+ {
+  "models": [
+   "vivo Y02",
+   "vivo Y02t",
+   "vivo Y02A",
+   "vivo Y02s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (GDBUY)",
+    "url": "https://www.flipkart.com/gdbuy-tempered-glass-guard-vivo-y02t-y02/p/itm32786f00c276f?pid=ACCGKYTQZ5SWEURF"
+   },
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-front-back-tempered-glass-vivo-y02t-y02/p/itm426374a9b3440?pid=ACCGPUYGXRVGZBAH"
+   },
+   {
+    "name": "Flipkart (FINCH)",
+    "url": "https://www.flipkart.com/finch-front-back-tempered-glass-vivo-y02t-y02/p/itm464d7a8581cf4?pid=ACCGPUY6DHZP8DAR"
+   },
+   {
+    "name": "Flipkart (EITANSHA CREATION)",
+    "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-vivo-y02-y02a-y02s-y02t/p/itm38b64798608c8?pid=ACCHDKFFAHQZZZHF"
+   },
+   {
+    "name": "Flipkart (SmartLike)",
+    "url": "https://www.flipkart.com/smartlike-tempered-glass-guard-vivo-y01-y02s-y02a-y02t/p/itme1f3441794ff4?pid=ACCHGHVVDGY3RP3G"
+   }
+  ],
+  "note": "Flipkart sellers GDBUY, Olonga and FINCH pair Y02 with Y02t; EITANSHA CREATION and SmartLike add Y02A and Y02s. Merges Y02s into this group."
+ },
+ {
+  "models": [
+   "vivo Y81",
+   "vivo Y81i",
+   "vivo Y83",
+   "vivo Y83 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (HQ Protection)",
+    "url": "https://www.flipkart.com/hq-protection-edge-tempered-glass-vivo-y81-y83-y83-pro/p/itm6849e6d166f5d?pid=ACCGH39G3FGYMFKT"
+   },
+   {
+    "name": "Flipkart (ELEF)",
+    "url": "https://www.flipkart.com/elef-edge-tempered-glass-vivo-y81-y83-y83-pro-pack-1/p/itm19736e7f67a10?pid=ACCGDYQ4G4EK9UKG"
+   },
+   {
+    "name": "Flipkart (Cover Alive)",
+    "url": "https://www.flipkart.com/cover-alive-edge-tempered-glass-vivo-y83-y81-y83-pro/p/itmc05f1af9e3048?pid=ACCGRPVWS5UQFDNE"
+   },
+   {
+    "name": "Flipkart (YAFILO)",
+    "url": "https://www.flipkart.com/yafilo-tempered-glass-guard-vivo-y81-y81i-y83-pro-hd-edge-to-edge-full-screen-protector-easy-self-installation-kit/p/itm3ebe5f3424e11?pid=ACCH4Y6EQBHVQHNV"
+   },
+   {
+    "name": "Flipkart (arrise)",
+    "url": "https://www.flipkart.com/arrise-tempered-glass-guard-vivo-y81-81i-y83-y83pro/p/itm441b7371665df?pid=ACCH9A33BADZNBYG"
+   },
+   {
+    "name": "Flipkart (Prolike)",
+    "url": "https://www.flipkart.com/prolike-edge-tempered-glass-vivo-y83-y81i/p/itm6e4af3d91af2e?pid=ACCFSBHYHQYNUABH"
+   }
+  ],
+  "note": "Many Flipkart sellers (HQ Protection, ELEF, Cover Alive) list Y81, Y83 and Y83 Pro on one glass; YAFILO, arrise and Prolike add Y81i. Merges the Y81 and Y83 groups."
+ },
+ {
+  "models": [
+   "vivo V9",
+   "vivo V9 Youth"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Gorilaa)",
+    "url": "https://www.flipkart.com/gorilaa-tempered-glass-guard-screen-protector-vivo-v9-v9-pro-vivo-youth-edge-coverage/p/itm6f401dbbd5c54?pid=ACCGFJZ2CHUSKPH7"
+   },
+   {
+    "name": "Flipkart (Nathaccessories)",
+    "url": "https://www.flipkart.com/nathaccessories-edge-tempered-glass-vivo-v9-pro-youth-y81-y83/p/itmc993444f14f85?pid=ACCGCAGG9XZBVMXY"
+   }
+  ],
+  "note": "Two Flipkart sellers (Gorilaa, Nathaccessories) list V9, V9 Pro and V9 Youth on one glass; Nathaccessories also adds Y81/Y83."
+ },
+ {
+  "models": [
+   "vivo V40",
+   "vivo V40 Pro",
+   "vivo V40e"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-v40-5g-v40e-pro-5g-hd-uv-curved-screen-protector-easy-installation-kit/p/itm072bb66f67962?pid=ACCH5WVVEQJTBHS3"
+   },
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-vivo-v40-5g-pro-v40e-5g-premium-technology-uv-installation-kit/p/itmc69f56db641fb?pid=ACCH39FK3BXHU3GT"
+   },
+   {
+    "name": "Flipkart (Qoisa)",
+    "url": "https://www.flipkart.com/qoisa-tempered-glass-guard-vivo-v40-v40e-pro-advanced-black-border-screen-protector/p/itma8eff2c8a2ffd?pid=ACCHAS6SMM8ZGEEP"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v40-pro-5g-v40e-pro-privacy-anti-spy-protection/p/itm07fdb1b7c0d46?pid=ACCHJTFAGU8QZKGU"
+   },
+   {
+    "name": "Flipkart (NIXSTAR)",
+    "url": "https://www.flipkart.com/nixstar-tempered-glass-guard-vivo-v40-5g-pro/p/itm8930eaf00f098?pid=ACCHCSXBQZWZGSH4"
+   },
+   {
+    "name": "Flipkart (BW Blackwik)",
+    "url": "https://www.flipkart.com/bw-blackwik-edge-tempered-glass-vivo-v40-5g-vivo-pro/p/itm3cddc6923096b?pid=ACCHRFVMAPZR7HGE"
+   }
+  ],
+  "note": "Flipkart sellers STP FEEL, Maxboost, Qoisa and ArmourPro list V40, V40 Pro and V40e on one glass; many more pair V40 with V40 Pro. Curved: mostly UV glass. Merges three catalogue groups."
+ },
+ {
+  "models": [
+   "vivo V80"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v80-5g/p/itmd5ad54e668148?pid=ACCHS3XWRR28A3EC"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-v80-5g/p/itmbfc952d65dabc?pid=ACCHS3XUR7SYFXH6"
+   },
+   {
+    "name": "Flipkart (GORILLA PRO)",
+    "url": "https://www.flipkart.com/gorilla-pro-tempered-glass-guard-vivo-v80-v80-5g/p/itmf8163a8d583b3?pid=ACCHT7YGZXFBBKHH"
+   }
+  ],
+  "note": "Flipkart sellers ArmourPro, FIRST MART and GORILLA PRO sell V80-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo V70 FE"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Flipkart SmartBuy)",
+    "url": "https://www.flipkart.com/flipkart-smartbuy-edge-tempered-glass-vivo-v70-fe-5g/p/itmd9d5c134713de?pid=ACCHKKGQQWXFKS6W"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-v70-fe-5g-fe-300c-borderless-3d-guard/p/itm265db6ff40bd4?pid=ACCHPGF4HUM4AKWB"
+   }
+  ],
+  "note": "Flipkart's own SmartBuy brand and FIRST MART sell V70 FE-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo X300 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-x300-pro-privacy-anti-spy-anti-peeping/p/itm65d08e593f882?pid=ACCHNKZ8PWHZQQMR"
+   },
+   {
+    "name": "Flipkart (SuperX)",
+    "url": "https://www.flipkart.com/superx-edge-tempered-glass-vivo-x300-pro/p/itm192f958f9d502?pid=ACCHNY9EQCJSYFNU"
+   }
+  ],
+  "note": "Flipkart sellers ArmourPro, SuperX and others sell X300 Pro-only glass; none pair it with X300 or other models."
+ },
+ {
+  "models": [
+   "vivo Y400 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-y400-pro-5g-uv-advanced-curved-screen-protector-easy-installation-kit-vivoy400pro/p/itm2e0b90eea517d?pid=ACCHG8BHJHVJBDW2"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-y400-pro-5g-5g/p/itm1399c0b9e551d?pid=ACCHE5GQN5DKGHGY"
+   }
+  ],
+  "note": "Flipkart sellers STP FEEL and ArmourPro sell Y400 Pro-only glass. Curved screen: mostly UV glass."
+ },
+ {
+  "models": [
+   "vivo Y400"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (GORILLA PRO)",
+    "url": "https://www.flipkart.com/gorilla-pro-edge-tempered-glass-y400-5g-vivo-5g/p/itm91e8b7007c93d?pid=ACCHFD48EPHH4ZGW"
+   },
+   {
+    "name": "Flipkart (FABEKEE)",
+    "url": "https://www.flipkart.com/fabekee-tempered-glass-guard-vivo-y400-5g-matte-screen-protector-full-hd-edge-coverage/p/itm8776044440161?pid=ACCHJZGVHGB2W2ZR"
+   }
+  ],
+  "note": "Flipkart sellers GORILLA PRO, GORILLA FIVE and FABEKEE sell Y400 5G-only glass; not paired with Y400 Pro."
+ },
+ {
+  "models": [
+   "vivo iQOO 13"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (WonReza)",
+    "url": "https://www.flipkart.com/wonreza-edge-tempered-glass-iqoo-13-5g-screen-guard/p/itm4246545bd1256?pid=ACCHBDSEWSBVZQFU"
+   },
+   {
+    "name": "Flipkart (iWishKart)",
+    "url": "https://www.flipkart.com/iwishkart-edge-tempered-glass-iqoo-13-100-fingerprint-working-military-grade-gorilla/p/itm45330e7308e0e?pid=ACCH77HYEZFRGEKX"
+   }
+  ],
+  "note": "Flipkart sellers WonReza and iWishKart sell iQOO 13-only glass; no pairing with other models seen."
+ },
+ {
+  "models": [
+   "vivo iQOO Z9s",
+   "vivo iQOO Z9s Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-iqoo-z9s-5g-pro-5g-uv-advanced-curved-privacy-screen-protector-easy-installation-kit/p/itmfb00b3f3614c8?pid=ACCHFGDEQZGFZPFW"
+   },
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-iqoo-z9s-5g-pro-5g-uv-advanced-curved-privacy-screen-protector-easy-installation-kit/p/itm831d1292c5dd0?pid=ACCHFF85NJQSZKEG"
+   },
+   {
+    "name": "Flipkart (Caseero)",
+    "url": "https://www.flipkart.com/caseero-tempered-glass-guard-vivo-v27-v27-pro-t2-pro-v29e-v30e-t3-pro-v40e-z7-pro-z9s/p/itm382352a379665?pid=ACCHRY36ZRQBHXKG"
+   }
+  ],
+  "note": "Flipkart sellers Maxboost and STP FEEL sell one UV curved glass for iQOO Z9s and Z9s Pro. Merges Z9s Pro into the Z9s/V40e group. UV glass only seen."
+ },
+ {
+  "models": [
+   "vivo X300 Ultra"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-x300-ultra-5g/p/itmed072a6cc0ca2?pid=ACCHQYDGG3FZ45XD"
+   },
+   {
+    "name": "Flipkart (Marley Hudson)",
+    "url": "https://www.flipkart.com/marley-hudson-tempered-glass-guard-vivo-x300-ultra/p/itm1658a1b7d8130?pid=ACCHRX4Y2BQC6ZR3"
+   }
+  ],
+  "note": "Flipkart sellers ArmourPro, Marley Hudson and Shankshi sell X300 Ultra-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo Y500 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Marley Hudson)",
+    "url": "https://www.flipkart.com/marley-hudson-tempered-glass-guard-vivo-y500-pro/p/itmfdb538b62b396?pid=ACCHS2JYYZYYPWCS"
+   },
+   {
+    "name": "Flipkart (PARAFLIK)",
+    "url": "https://www.flipkart.com/paraflik-screen-guard-borderless-glass-vivo-y500-pro/p/itm16bd16133c17f?pid=ACCHQDUV9RZKQNYX"
+   }
+  ],
+  "note": "Flipkart sellers Marley Hudson and PARAFLIK sell Y500 Pro-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo X500"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (INFISRI)",
+    "url": "https://www.flipkart.com/infisri-edge-tempered-glass-vivo-x500-5g/p/itm56e4e7f31881c?pid=ACCHT264RJHWPGAA"
+   },
+   {
+    "name": "Flipkart (CASEHUNT)",
+    "url": "https://www.flipkart.com/casehunt-tempered-glass-guard-vivo-x500-5g/p/itm5a2e79e265c3a?pid=ACCHT28JXN29KUUB"
+   }
+  ],
+  "note": "Flipkart sellers INFISRI, CASEHUNT and ROYALBASE sell X500-only glass; separate from X500 Pro and Pro Max listings."
+ },
+ {
+  "models": [
+   "vivo X500 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Qoisa)",
+    "url": "https://www.flipkart.com/qoisa-tempered-glass-guard-vivo-x500-pro-5g-elite-screen-protector-easy-installation-kit/p/itm972919938e921?pid=ACCHT3BG2ZENPVHD"
+   },
+   {
+    "name": "Flipkart (Mobilebies)",
+    "url": "https://www.flipkart.com/mobilebies-tempered-glass-guard-vivo-x500-pro-5g-premium-screen-protector-easy-installation-kit/p/itm702c8feec02b9?pid=ACCHT39JQCRGNMQ2"
+   }
+  ],
+  "note": "Flipkart sellers Qoisa, Mobilebies and others sell X500 Pro-only glass; the same sellers list X500 Pro Max separately."
+ },
+ {
+  "models": [
+   "vivo X500 Pro Max"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Qoisa)",
+    "url": "https://www.flipkart.com/qoisa-tempered-glass-guard-vivo-x500-pro-max-5g-elite-screen-protector-easy-installation-kit/p/itme30061179d627?pid=ACCHT3BGVQEJMPRU"
+   },
+   {
+    "name": "Flipkart (Mobilebies)",
+    "url": "https://www.flipkart.com/mobilebies-tempered-glass-guard-vivo-x500-pro-max-5g-premium-screen-protector-easy-installation-kit/p/itmd1a28592299a4?pid=ACCHT39JBJZYWMZA"
+   }
+  ],
+  "note": "Flipkart sellers Qoisa, Mobilebies and CASEHUNT sell X500 Pro Max-only glass, listed separately from X500 Pro."
+ },
+ {
+  "models": [
+   "vivo iQOO 16"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (TELTREK)",
+    "url": "https://www.flipkart.com/teltrek-tempered-glass-guard-vivo-iqoo-16/p/itm27fcfaa254ba2?pid=ACCHSCG8GRDY6G3H"
+   },
+   {
+    "name": "Flipkart (KOISTON)",
+    "url": "https://www.flipkart.com/koiston-tempered-glass-guard-vivo-iqoo-16-5g-front-edge-screen-protector-9h-hardness-bubble-free-hd-clear-fingerprint-compatible-case-friendly/p/itmeee7b6412b355?pid=ACCHRZ8HAZWGWB6A"
+   }
+  ],
+  "note": "Flipkart sellers TELTREK, KOISTON, Mobling and others sell iQOO 16-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo Y500"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (INFISRI)",
+    "url": "https://www.flipkart.com/infisri-edge-tempered-glass-vivo-y500-5g/p/itmc0ccf80d9533c?pid=ACCHKGYF6WXHU7CA"
+   },
+   {
+    "name": "Flipkart (CASEHUNT)",
+    "url": "https://www.flipkart.com/casehunt-tempered-glass-guard-vivo-y500-5g/p/itmf0d1add91519e?pid=ACCHKGYYUGWDBHAS"
+   }
+  ],
+  "note": "Flipkart sellers INFISRI, CASEHUNT and HardForce sell Y500 5G-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo iQOO Z11s"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (TELTREK)",
+    "url": "https://www.flipkart.com/teltrek-tempered-glass-guard-iqoo-z11s/p/itm2a11997470b89?pid=ACCHSCG8GJBCZTFR"
+   },
+   {
+    "name": "Flipkart (Fasheen)",
+    "url": "https://www.flipkart.com/fasheen-screen-guard-iqoo-z11s/p/itmaa3262fa85e8a?pid=ACCHSCGMDH4FZFHE"
+   }
+  ],
+  "note": "Flipkart sellers TELTREK, Fasheen and HardForce sell iQOO Z11s-only glass; don't confuse with Z11x."
+ },
+ {
+  "models": [
+   "vivo V70 Lite"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Olonga)",
+    "url": "https://www.flipkart.com/olonga-front-back-screen-guard-vivo-v70-lite-5g-lite-5g/p/itmd93565900f4b6?pid=ACCHKZ6HH7ZVTWHG"
+   }
+  ],
+  "note": "Only Olonga's front-and-back guard on Flipkart, for V70 Lite alone; thin evidence."
+ },
+ {
+  "models": [
+   "vivo iQOO 15T"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Marley Hudson)",
+    "url": "https://www.flipkart.com/marley-hudson-tempered-glass-guard-iqoo-15t/p/itm6a07e5076325e?pid=ACCHRX4YNMFH6FND"
+   },
+   {
+    "name": "Flipkart (ZINGTEL)",
+    "url": "https://www.flipkart.com/zingtel-screen-guard-vivo-iqoo-15t-5g-matte-finish/p/itm90a5ce0183bc9?pid=ACCHQGFUDYZG6T5J"
+   }
+  ],
+  "note": "Flipkart sellers Marley Hudson, HardForce and ZINGTEL sell iQOO 15T-only glass; none pair it with another model."
+ },
+ {
+  "models": [
+   "vivo X300s"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Mobling)",
+    "url": "https://www.flipkart.com/mobling-tempered-glass-guard-vivo-x300s-5g/p/itm3a783a770b29d?pid=ACCHZDZRY6ZTKGRX"
+   },
+   {
+    "name": "Flipkart (TELTREK)",
+    "url": "https://www.flipkart.com/teltrek-tempered-glass-guard-vivo-x300s/p/itmd073286dfefbd?pid=ACCHZDKAM7C4EQJQ"
+   }
+  ],
+  "note": "Flipkart sellers Mobling and TELTREK sell X300s-only glass; not paired with X300 or X300 Pro."
+ },
+ {
+  "models": [
+   "vivo Y600 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (Marley Hudson)",
+    "url": "https://www.flipkart.com/marley-hudson-tempered-glass-guard-vivo-y600-pro/p/itm1526f42645f8a?pid=ACCHSFU5GVZPDZFS"
+   },
+   {
+    "name": "Flipkart (Mobling)",
+    "url": "https://www.flipkart.com/mobling-tempered-glass-guard-vivo-y600-pro/p/itm3cfbd23298437?pid=ACCHZDQZYKRKFN5M"
+   }
+  ],
+  "note": "Flipkart sellers Marley Hudson, Mobling and Fasheen sell Y600 Pro-only glass; Y600 Turbo is listed separately."
+ },
+ {
+  "models": [
+   "vivo iQOO Neo 6",
+   "vivo iQOO Neo6 SE",
+   "vivo iQOO 9 SE",
+   "vivo iQOO 7 (India)",
+   "vivo iQOO 7"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (AGRSHI)",
+    "url": "https://www.flipkart.com/agrshi-tempered-glass-guard-iqoo-neo-6-7-7-legend-9-se/p/itmd433c40d663b9?pid=ACCGF5GHGNUGJMGN"
+   },
+   {
+    "name": "Flipkart (CORRVIIXA)",
+    "url": "https://www.flipkart.com/corrviixa-edge-tempered-glass-iqoo-neo-6-5g-9-se-7-legend-5g/p/itm30dff6f072100?pid=ACCHN2HPAZR5HUPJ"
+   },
+   {
+    "name": "Flipkart (Foncase)",
+    "url": "https://www.flipkart.com/foncase-tempered-glass-guard-iqoo-neo-6-5g-9-se-7-legend-5g/p/itmfcyjvhzm7syaf?pid=ACCFCYGGQP3EGWS8"
+   },
+   {
+    "name": "Flipkart (HQ Protection)",
+    "url": "https://www.flipkart.com/hq-protection-tempered-glass-guard-iqoo-neo-6-7-7-legend-9-se/p/itme0376fbf7825b?pid=ACCGHF9ZGBRFVFEH"
+   },
+   {
+    "name": "Flipkart (BizzBoxx)",
+    "url": "https://www.flipkart.com/bizzboxx-edge-tempered-glass-iqoo-neo-6-5g-se-9-7-legend/p/itm4baf4c7c978f0?pid=ACCGGEFNCSUVE784"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-iqoo-neo-6-5g-9-se-5g/p/itm18aeeaa2bf081?pid=ACCGWWEUYXUGXDHA"
+   }
+  ],
+  "note": "Flipkart sellers AGRSHI, CORRVIIXA, Foncase and HQ Protection list iQOO Neo 6, 9 SE, 7 and 7 Legend on one glass; BizzBoxx adds Neo 6 SE. iQOO 7 Legend taken as the Chinese iQOO 7. Merges four catalogue groups."
+ },
+ {
+  "models": [
+   "vivo V25 Pro",
+   "vivo V23 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Mobilebies)",
+    "url": "https://www.flipkart.com/mobilebies-tempered-glass-guard-vivo-v25-pro-v23-advanced-black-border-screen-protector/p/itm42b0a51dd236a?pid=ACCH33SKFSPQZYEC"
+   },
+   {
+    "name": "Flipkart (STP FEEL)",
+    "url": "https://www.flipkart.com/stp-feel-tempered-glass-guard-vivo-v23-pro-v25-5g-advanced-black-border-screen-protector/p/itm489a49a214bed?pid=ACCH6DGHMUZTQC8Y"
+   },
+   {
+    "name": "Flipkart (ArmourPro)",
+    "url": "https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-v23-pro-5g-pro-v25/p/itmd3ac200f5e701?pid=ACCGR6RQYGQNCETB"
+   }
+  ],
+  "note": "Flipkart sellers Mobilebies, STP FEEL and ArmourPro sell one glass for V25 Pro and V23 Pro. Curved screen; UV glass also sold. Merges V23 Pro in; S15 Pro not seen."
+ },
+ {
+  "models": [
+   "vivo V20 Pro",
+   "vivo V23 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Viveks)",
+    "url": "https://www.flipkart.com/viveks-edge-tempered-glass-vivo-v20-pro-v23-5g/p/itmeb19cbff541d9?pid=ACCGFFHZVKXGHN39"
+   },
+   {
+    "name": "Flipkart (AGRSHI)",
+    "url": "https://www.flipkart.com/agrshi-tempered-glass-guard-vivo-v20-pro-v23-5g/p/itm567fa99712139?pid=ACCGHFZ3NJFTZUU3"
+   },
+   {
+    "name": "Flipkart (Bodoma)",
+    "url": "https://www.flipkart.com/bodoma-tempered-glass-guard-vivo-v23-5g-v23-v20-pro/p/itm82f470a151065?pid=ACCFXFFSURZVQFRD"
+   },
+   {
+    "name": "Flipkart (FAD-E)",
+    "url": "https://www.flipkart.com/fad-e-edge-tempered-glass-vivo-v23-v23-5g-v20-pro/p/itme4b25fcb92c82?pid=ACCGB2UZ9VGGQ7FH"
+   },
+   {
+    "name": "Flipkart (KXEDOX)",
+    "url": "https://www.flipkart.com/kxedox-edge-tempered-glass-vivo-v23-5g-v20-pro-5g/p/itm524dd49ace78b?pid=ACCHGZZPBGPXJRM8"
+   }
+  ],
+  "note": "Dozens of Flipkart sellers (Viveks, AGRSHI, Bodoma, FAD-E, KXEDOX) sell one glass for V20 Pro and V23 5G. Merges V23 5G in; S7/S7t (China) not seen."
+ },
+ {
+  "models": [
+   "vivo X100",
+   "vivo X100 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (Caseline)",
+    "url": "https://www.flipkart.com/caseline-tempered-glass-guard-vivo-x100-5g-pro-5g/p/itm81800f977481e?pid=ACCFY8A4GCHEAGK6"
+   },
+   {
+    "name": "Flipkart (VZZR)",
+    "url": "https://www.flipkart.com/vzzr-tempered-glass-guard-vivo-x100-x100-pro-5g-pro-5g/p/itmda96f5a257b6c?pid=ACCGWZKGJEGZXCGA"
+   },
+   {
+    "name": "Flipkart (WonReza)",
+    "url": "https://www.flipkart.com/wonreza-edge-tempered-glass-vivo-x100-x100-pro/p/itm42e0a7fdfdd5b?pid=ACCGY2Y4XPKAMGDX"
+   },
+   {
+    "name": "Flipkart (Maxboost)",
+    "url": "https://www.flipkart.com/maxboost-tempered-glass-guard-vivo-x100-x100-pro-uv-advanced-curved-screen-protector-easy-installation-kit/p/itm2e187fd5be4e4?pid=ACCGXFYFXEKAVWMQ"
+   },
+   {
+    "name": "Flipkart (FIRST MART)",
+    "url": "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-x100-pro-5g-uv-cable-protector/p/itmdad3881636828?pid=ACCGX6MCFGA3ETYW"
+   }
+  ],
+  "note": "Many Flipkart sellers (Caseline, VZZR, WonReza, Maxboost, FIRST MART) sell one glass for X100 and X100 Pro. Curved: UV and non-UV full-glue glass both sold. Merges X100 into the X100 Pro group; X100s Pro not seen."
+ },
+ {
+  "models": [
+   "vivo X80",
+   "vivo X80 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (VZZR)",
+    "url": "https://www.flipkart.com/vzzr-tempered-glass-guard-vivo-x80-x80-pro-uv-matte/p/itm0d0464cd6b3cf?pid=ACCGEGY9MJ8HYWPS"
+   },
+   {
+    "name": "Flipkart (MB SHILD)",
+    "url": "https://www.flipkart.com/mb-shild-edge-tempered-glass-vivo-x80-x80-pro-premium-uv-screen-protector-installation-kit/p/itmfc06fc1badcf7?pid=ACCHCTNGEUBNQKAH"
+   },
+   {
+    "name": "Flipkart (DEVWORLD)",
+    "url": "https://www.flipkart.com/devworld-tempered-glass-guard-vivo-x90-x90-pro-x80-x80-x70-pro-plus-iqoo-9-6-78-inch-easy-self-installation-kit/p/itmb3442fdd0a9e0?pid=ACCHM6W4M7HWGZFC"
+   }
+  ],
+  "note": "Flipkart sellers VZZR and MB SHILD sell one UV glass for X80 and X80 Pro (DEVWORLD also lists them). Curved: only UV glass seen."
+ },
+ {
+  "models": [
+   "vivo Y35",
+   "vivo Y22",
+   "vivo Y16"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (vedu)",
+    "url": "https://www.flipkart.com/vedu-edge-tempered-glass-vivo-y35-y22-y20/p/itmbb4d857ea9491?pid=ACCHP59F4HRGE8VC"
+   },
+   {
+    "name": "Flipkart (YOGKREETI)",
+    "url": "https://www.flipkart.com/yogkreeti-edge-tempered-glass-vivo-y16-y22-y35/p/itmde018bcfbfa5e?pid=ACCGSMYG4BH4HBPF"
+   },
+   {
+    "name": "Flipkart (MEIBO)",
+    "url": "https://www.flipkart.com/meibo-tempered-glass-guard-vivo-y20-y21-y16-y22-y35/p/itm097d2d62efb92?pid=ACCHRGGYJP4WAWGD"
+   }
+  ],
+  "note": "Flipkart sellers vedu, YOGKREETI and MEIBO list Y35 (2022) and Y22 on one glass; YOGKREETI and MEIBO add Y16. Budget sellers lump loosely, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "vivo iQOO 9"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Flipkart (ANCAUG)",
+    "url": "https://www.flipkart.com/ancaug-edge-tempered-glass-iqoo-9/p/itm31bd93f3e51a4?pid=ACCHMZ5EPXTJYSHM"
+   },
+   {
+    "name": "Flipkart (XYNITY)",
+    "url": "https://www.flipkart.com/xynity-edge-tempered-glass-iqoo-9/p/itm09dd76a1168b6?pid=ACCGCXDUGRTPGBCC"
+   }
+  ],
+  "note": "Flipkart sellers ANCAUG and XYNITY sell iQOO 9-only glass; no pairing seen."
+ },
+ {
+  "models": [
+   "vivo Y36 (India)",
+   "vivo Y27"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Flipkart (EmBed)",
+    "url": "https://www.flipkart.com/embed-tempered-glass-guard-vivo-y36-india-y27-india/p/itm1aab7571a3a50?pid=ACCHRB49TA9RCHAC"
+   },
+   {
+    "name": "Flipkart (Techforce)",
+    "url": "https://www.flipkart.com/techforce-edge-tempered-glass-vivo-y36-y27/p/itmb7845d6d0c4e8?pid=ACCG73SMWV9J3AQG"
+   },
+   {
+    "name": "Flipkart (CASENED)",
+    "url": "https://www.flipkart.com/casened-edge-tempered-glass-vivo-y36-y27-y35-plus/p/itm213a643cc0846?pid=ACCH2DB7Q2NJR52F"
+   }
+  ],
+  "note": "Flipkart sellers EmBed, Techforce and CASENED sell one glass for the Indian Y36 and Y27 (CASENED adds Y35+). Merges across two catalogue groups."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi A3 Pro",
+   "Poco C75",
+   "Poco C75 5G",
+   "Redmi A4 5G",
+   "Poco M7 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED via Alza",
+    "url": "https://m.alza.at/EN/reviews/fixed-for-xiaomi-redmi-14ca4-5ga3-propoco-c75-4g5gm7-5g-clear-12630235.htm"
+   },
+   {
+    "name": "3MK via AIO.lv",
+    "url": "https://aio.lv/en/product--3mk-5903108750653--12473411.md"
+   }
+  ],
+  "note": "FIXED glass lists Redmi 14C, A4 5G, A3 Pro, Poco C75 4G/5G and M7 5G as one product; 3MK lists 14C, C75 and A4 5G together."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi 14R",
+   "Redmi A4 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-14c/139709-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-14c-14r-5g-a4-5g-black-5904433241199.html"
+   }
+  ],
+  "note": "MyScreen Diamond Glass is sold for Redmi 14C, 14R 5G and A4 5G as one product."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi A5",
+   "Poco C75",
+   "Poco C71"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1299-redmi-14-series"
+   },
+   {
+    "name": "3MK via AIO.lv",
+    "url": "https://aio.lv/en/product--3mk-5903108654920--11491328.md"
+   },
+   {
+    "name": "Cool via PcComponentes",
+    "url": "https://www.pccomponentes.com/protector-pantalla-cool-xiaomi-redmi-14c-poco-c75-redmi-a5-antiespia-dureza-9h"
+   },
+   {
+    "name": "WFTE via Desertcart",
+    "url": "https://www.desertcart.co.za/products/682809113-2-pack-tempered-glass-for-xiaomi-redmi-a5-a4-4g.md"
+   }
+  ],
+  "note": "3MK HardGlass is sold for Redmi 14C / A5; Cool lists 14C, Poco C75 and A5; a WFTE marketplace pack adds Poco C71. Catalogue has these in separate groups."
+ },
+ {
+  "models": [
+   "Poco C71",
+   "Redmi A5"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-a5/109192-bizon-glass-clear-2-xiaomi-redmi-a5-4g-poco-c71-5900415703204.html"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/109731-bizon-edge-2-pack-2x-tempered-glass-lens-protection-xiaomi-redmi-a5-4g-poco-c71-4g.html"
+   }
+  ],
+  "note": "Bizon sells one glass for Redmi A5 4G and Poco C71 (clear and edge versions)."
+ },
+ {
+  "models": [
+   "Poco X8 Pro Max",
+   "Redmi Turbo 5 Max"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Wigento via MediaMarkt",
+    "url": "https://www.mediamarkt.at/de/product/_wigento-1x-display-h9-hart-glas-schutz-folie-schutzglasfur-xiaomi-poco-x8-pro-max-5g-redmi-turbo-5-max-5g-173779734.html"
+   }
+  ],
+  "note": "Wigento glass at MediaMarkt is listed for Poco X8 Pro Max 5G and Redmi Turbo 5 Max 5G; nothing seen pairs the X8 Pro Max with Redmi K90 Max/Ultra."
+ },
+ {
+  "models": [
+   "Redmi A7 Pro 4G",
+   "Redmi A7 Pro",
+   "Poco C81"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass via Proshop",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Xiaomi-Redmi-A7-Pro-4G-A7-Pro-5G-Poco-C81-Ultra-Wide-Fit/3477497"
+   },
+   {
+    "name": "SAFE by PanzerGlass via Proshop",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/SAFE-by-PanzerGlass-Screen-Protector-Xiaomi-Redmi-A7-Pro-4G-A7-Pro-5G-Poco-C81-Ultra-Wide-Fit/3477500"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for Redmi A7 Pro 4G, A7 Pro 5G and Poco C81."
+ },
+ {
+  "models": [
+   "Redmi Note 15 5G",
+   "Redmi Note 15 4G",
+   "Poco M8 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-15-4g-5g-ultra-wide-fit"
+   },
+   {
+    "name": "Celly via Yeppon",
+    "url": "https://www.yeppon.it/products/celly-proteggi-schermo-3d-1335291"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for Redmi Note 15 4G and 5G; Celly 3D glass lists Note 15 5G, 4G and Poco M8 5G."
+ },
+ {
+  "models": [
+   "Redmi Note 15",
+   "Poco M8"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cool via PcComponentes",
+    "url": "https://www.pccomponentes.com/protector-pantalla-cool-xiaomi-redmi-note-15-poco-m8-5g-curvo-cristal-templado-0-5-mm"
+   },
+   {
+    "name": "Skroutz",
+    "url": "https://www.skroutz.mt/s/65358161/tempered-glass-redmi-note-15-poco-m8.html"
+   }
+  ],
+  "note": "Cool glass (PcComponentes) and Skroutz shop listings name Redmi Note 15 and Poco M8 together."
+ },
+ {
+  "models": [
+   "Redmi Note 15 Pro+",
+   "Poco M8 Pro",
+   "Poco M8 Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass",
+    "url": "https://panzerglass.com/nl/products/panzerglass%c2%ae-screen-protector-xiaomi-redmi-note-15-pro-5g-ultra-wide-fit"
+   },
+   {
+    "name": "SAFE by PanzerGlass",
+    "url": "https://panzerglass.com/products/safe-by-panzerglass%c2%ae-screen-protector-xiaomi-redmi-note-15-pro-5g-ultra-wide-fit-1"
+   },
+   {
+    "name": "Mobizona",
+    "url": "https://mobizona.lt/en/xiaomi-redmi-note-15-pro-plus-5g-tempered-glass-5d-full-glue"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for Redmi Note 15 Pro+ 5G and Poco M8 Pro; Note 15 Pro 5G has its own PanzerGlass SKU."
+ },
+ {
+  "models": [
+   "Redmi 15C 4G",
+   "Redmi 15C 5G",
+   "Poco C85 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via MediaWorld",
+    "url": "https://www.mediaworld.it/it/product/_vetro-temperato-3mk-hardy-hardura-9h-3mk-redmi-15c-4g5g-poco-c85-4g-175353853.html"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1999-redmi-15c-173mm"
+   }
+  ],
+  "note": "3MK and Bizon list Redmi 15C 4G/5G and Poco C85 4G together. Caveat: Homescreen says the 15C ships in 171 mm and 173 mm bodies needing different glass; measure the phone."
+ },
+ {
+  "models": [
+   "Redmi 15C",
+   "Poco C85"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect via Proshop",
+    "url": "https://www.proshop.nl/Mobiel-Beschermend-glas/Tech-Protect-Glass-Fit-2-pack-tempered-glass-Xiaomi-Redmi-15C-Poco-C85-black/3474985"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-15c-4g/132598-bizon-smart-25d-glass-xiaomi-redmi-15c-poco-c85-4g-5900415734574.html"
+   }
+  ],
+  "note": "Tech-Protect and Bizon sell one glass for Redmi 15C and Poco C85. Caveat: 171 mm and 173 mm 15C bodies take different glass."
+ },
+ {
+  "models": [
+   "Redmi 15 4G",
+   "Redmi 15 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1910-redmi-15-series"
+   }
+  ],
+  "note": "Bizon Clear, Edge and Smart 2.5D glass are each sold for Redmi 15 4G / 5G as one product."
+ },
+ {
+  "models": [
+   "Poco F7",
+   "Redmi Turbo 4 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "eBay.de",
+    "url": "https://www.ebay.de/itm/177313002207"
+   },
+   {
+    "name": "SmartDevil via Lazada",
+    "url": "https://www.lazada.com.my/videodetail/?video_id=30319672702"
+   }
+  ],
+  "note": "Two marketplace glass listings name Redmi Turbo 4 Pro and Poco F7 together; Redmi K80 Ultra not confirmed."
+ },
+ {
+  "models": [
+   "Redmi Note 13 Pro 4G",
+   "Poco M6 Pro 4G",
+   "Redmi Note 14S",
+   "Poco X6",
+   "Redmi Note 13",
+   "Redmi Note 13 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-note-13-5g/97210-bizon-glass-clear-2-poco-x6-poco-m6-pro-4g-redmi-note-13-5g-redmi-note-13-pro-4g-lte-14s-5g-5904665342114.html"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-note-13-pro-5g/97289-bizon-glass-edge-2-xiaomi-poco-x6-poco-m6-pro-4g-redmi-note-13-5g-redmi-note-13-pro-4g-lte-14s-5g-5904665342121.html"
+   },
+   {
+    "name": "Displex via Digitec",
+    "url": "https://www.digitec.ch/en/s1/product/displex-real-glass-2d-panzerglas-1-piece-xiaomi-poco-m6-pro-xiaomi-redmi-note-13-pro-4g-xiaomi-redmi-42926810"
+   }
+  ],
+  "note": "Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G."
+ },
+ {
+  "models": [
+   "Redmi Note 13 4G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/997-redmi-note-13-series"
+   }
+  ],
+  "note": "Bizon sells a separate Clear glass for Redmi Note 13 4G (not the Note 13 5G/Pro SKU). One Displex listing lumps it with Note 13 Pro 4G, so test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Redmi Note 14 4G",
+   "Redmi Note 14 5G",
+   "Poco M7 Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1342-redmi-note-14-series"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/redmi-note-14/130250-bizon-smart-glass-25d-xiaomi-redmi-note-14-poco-m7-pro-5g-5900415734192.html"
+   }
+  ],
+  "note": "Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G."
+ },
+ {
+  "models": [
+   "Redmi Note 14 Pro 4G",
+   "Redmi Note 14 Pro 5G",
+   "Redmi Note 14 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1342-redmi-note-14-series"
+   }
+  ],
+  "note": "3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass."
+ },
+ {
+  "models": [
+   "Redmi Note 13 Pro+",
+   "Redmi Note 14 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass via LMT",
+    "url": "https://www.lmt.lv/en/shop/screen-protectors/xiaomi-redmi-note-14-pro-14-pro-panzerglass-aizsargstikls"
+   },
+   {
+    "name": "Displex via AIO.lv",
+    "url": "https://aio.lv/en/product--displex-02095--11464058.md"
+   }
+  ],
+  "note": "PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens."
+ },
+ {
+  "models": [
+   "Redmi Note 12 Pro",
+   "Redmi Note 12 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/860-redmi-note-12-series"
+   }
+  ],
+  "note": "Bizon Clear 2 and Clear Duo glass are each sold for Redmi Note 12 Pro 5G / 12 Pro+ 5G."
+ },
+ {
+  "models": [
+   "Redmi Note 11",
+   "Redmi Note 11S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/692-redmi-note-11-series"
+   }
+  ],
+  "note": "Bizon Glass Edge is sold for Redmi Note 11 / 11S as one product; Poco M4 Pro and Note 12S not confirmed."
+ },
+ {
+  "models": [
+   "Redmi Note 10",
+   "Redmi Note 10S",
+   "Poco M5s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1013-redmi-note-10-series"
+   }
+  ],
+  "note": "Bizon Glass Clear 2 is sold for Poco M5s / Redmi Note 10 / 10S as one product."
+ },
+ {
+  "models": [
+   "Redmi 10C",
+   "Redmi 10 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1044-redmi-10-series"
+   }
+  ],
+  "note": "MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product (catalogue has them in separate groups)."
+ },
+ {
+  "models": [
+   "Redmi 9A",
+   "Redmi 9C",
+   "Redmi 9AT"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1043-redmi-9-series"
+   }
+  ],
+  "note": "MyScreen Diamond Glass is sold for Redmi 9A / 9C / 9AT; 3MK HardGlass also lists 9A and 9C together."
+ },
+ {
+  "models": [
+   "Redmi 9",
+   "Redmi 9A",
+   "Redmi 9C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1043-redmi-9-series"
+   }
+  ],
+  "note": "3MK HardGlass is sold for Redmi 9 / 9A / 9C as one product; PanzerGlass has separate 9 and 9A SKUs, so test before swapping."
+ },
+ {
+  "models": [
+   "Redmi 13C",
+   "Redmi 13C 5G",
+   "Poco C65"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1059-poco-c65"
+   },
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1079-redmi-13-series"
+   }
+  ],
+  "note": "3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed."
+ },
+ {
+  "models": [
+   "Redmi 13",
+   "Redmi 13 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1079-redmi-13-series"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product."
+ },
+ {
+  "models": [
+   "Redmi 12",
+   "Redmi 12 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1046-redmi-12-series"
+   }
+  ],
+  "note": "MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 10T 5G",
+   "Xiaomi Mi 10T Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2328-mi-10-series"
+   }
+  ],
+  "note": "Spigen GLAS.tR Slim and Bizon Clear glass are each sold for Mi 10T / 10T Pro; Redmi K30S not confirmed."
+ },
+ {
+  "models": [
+   "Redmi K20",
+   "Redmi K20 Pro",
+   "Xiaomi Mi 9T",
+   "Xiaomi Mi 9T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Ringke via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2329-mi-9-series"
+   }
+  ],
+  "note": "Ringke ID Glass and 3MK NeoGlass are each sold for Mi 9T/Pro and Redmi K20/Pro as one product."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 9",
+   "Xiaomi Mi 9 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2329-mi-9-series"
+   }
+  ],
+  "note": "3MK NeoGlass Full Cover is sold for Mi 9 / Mi 9 Pro as one product (catalogue has them in separate groups)."
+ },
+ {
+  "models": [
+   "Redmi Note 9S",
+   "Redmi Note 9 Pro",
+   "Redmi Note 9 Pro Max"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1011-redmi-note-9-series"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi Note 9S / 9 Pro / 9 Pro Max as one product."
+ },
+ {
+  "models": [
+   "Xiaomi 15T",
+   "Xiaomi 15T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2323-xiaomi-15-series"
+   }
+  ],
+  "note": "3MK HardGlass, MyScreen, Bizon and Crong each sell one glass for Xiaomi 15T / 15T Pro (catalogue has them in separate groups)."
+ },
+ {
+  "models": [
+   "Xiaomi 14T",
+   "Xiaomi 14T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2324-xiaomi-14-series"
+   }
+  ],
+  "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
+ },
+ {
+  "models": [
+   "Xiaomi 17",
+   "Xiaomi 17 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2322-xiaomi-17-series"
+   }
+  ],
+  "note": "3MK HardGlass Max is sold for Xiaomi 17 / 17 Pro as one product; only one brand seen, so test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Xiaomi 13",
+   "Xiaomi 14"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2325-xiaomi-13-series"
+   }
+  ],
+  "note": "Bizon Glass Edge 2 is sold for Xiaomi 13 / Xiaomi 14 as one product; only one brand seen, so test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Xiaomi 13T",
+   "Xiaomi 13T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2325-xiaomi-13-series"
+   }
+  ],
+  "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
+ },
+ {
+  "models": [
+   "Xiaomi 12T",
+   "Xiaomi 12T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   }
+  ],
+  "note": "Bizon Glass Edge and 3MK FlexibleGlass are sold for Xiaomi 12T / 12T Pro; Redmi K50 Ultra not confirmed."
+ },
+ {
+  "models": [
+   "Xiaomi 12",
+   "Xiaomi 12X"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   }
+  ],
+  "note": "Bizon Glass Edge 3D is sold for Xiaomi 12 / 12X as one product; 12S not confirmed. Curved-edge style glass."
+ },
+ {
+  "models": [
+   "Xiaomi 12 Pro",
+   "Xiaomi 13 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   }
+  ],
+  "note": "3MK HardGlass Max is sold for Xiaomi 13 Pro / 12 Pro as one product. Curved screens; only one brand seen.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Xiaomi 11T",
+   "Xiaomi 11T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2327-xiaomi-11-series"
+   }
+  ],
+  "note": "MyScreen Diamond Glass Edge is sold for Xiaomi 11T / 11T Pro as one product."
+ },
+ {
+  "models": [
+   "Poco F7 Pro",
+   "Poco F7 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1566-poco-f7-pro"
+   },
+   {
+    "name": "3MK via AIO.lv",
+    "url": "https://aio.lv/en/product--3mk-5903108653961--11419304.md"
+   }
+  ],
+  "note": "3MK HardGlass and Bizon Clear/Edge/Smart glass are each sold for Poco F7 Pro / F7 Ultra as one product (catalogue has them in separate groups)."
+ },
+ {
+  "models": [
+   "Poco F5",
+   "Poco F5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/892-poco-f5-pro"
+   }
+  ],
+  "note": "Bizon Glass Clear 2 is sold for Poco F5 / F5 Pro; Bizon edge glass is model-specific and the bodies differ, so only the clear (non-edge) glass is shared."
+ },
+ {
+  "models": [
+   "Redmi K50 Gaming",
+   "Poco F4 GT"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/890-poco-f4-gt"
+   }
+  ],
+  "note": "3MK HardGlass Max Lite is sold for Poco F4 GT / Redmi K50 GE as one product."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 11i",
+   "Xiaomi Mi 11X",
+   "Poco F3",
+   "Redmi K40",
+   "Redmi K40 Pro",
+   "Redmi K40 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Ringke via Homescreen.pl",
+    "url": "https://homescreen.pl/en/643-poco-f3-5g"
+   }
+  ],
+  "note": "Ringke ID Glass Full Cover is sold for Mi 11i, Mi 11X, Poco F3, Redmi K40, K40 Pro and K40 Pro+ as one product; Mi 11X Pro not named."
+ },
+ {
+  "models": [
+   "Redmi Note 10 Pro",
+   "Redmi Note 10 Pro Max",
+   "Xiaomi Mi 11i",
+   "Poco F3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/643-poco-f3-5g"
+   }
+  ],
+  "note": "PanzerGlass E2E Regular (case friendly) is sold for Redmi Note 10 Pro / 10 Pro Max / Mi 11i / Poco F3 as one product; catalogue has these in separate groups."
+ },
+ {
+  "models": [
+   "Poco X6 Pro",
+   "Poco X7 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1527-poco-x7-pro"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1084-poco-x6-pro-5g"
+   }
+  ],
+  "note": "Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)."
+ },
+ {
+  "models": [
+   "Poco X5",
+   "Redmi Note 12",
+   "Redmi Note 12 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/878-poco-x5-5g"
+   }
+  ],
+  "note": "Bizon Clear 2 and Edge 2 glass are sold for Poco X5 / Redmi Note 12 4G/5G; 3MK HardGlass also lists Note 12 5G / Poco X5."
+ },
+ {
+  "models": [
+   "Poco X5",
+   "Poco X5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/880-poco-x5-pro-5g"
+   }
+  ],
+  "note": "MyScreen Diamond Glass Edge Lite is sold for Poco X5 Pro 5G / X5 5G as one product; only one brand seen and cases differ, so test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Poco X3 NFC",
+   "Poco X3 Pro",
+   "Poco X3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/887-poco-x3-pro"
+   }
+  ],
+  "note": "PanzerGlass E2E lists Poco X3 NFC / X3 Pro; Bizon and MyScreen glass also add the Poco X3."
+ },
+ {
+  "models": [
+   "Poco M4 Pro 5G",
+   "Redmi Note 11S 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/792-poco-m4-pro-5g"
+   }
+  ],
+  "note": "Bizon Glass Edge and Clear are sold for Poco M4 Pro 5G / Redmi Note 11S 5G as one product."
+ },
+ {
+  "models": [
+   "Poco M3 Pro 5G",
+   "Redmi Note 10 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hofi via Homescreen.pl",
+    "url": "https://homescreen.pl/en/683-poco-m3-pro"
+   }
+  ],
+  "note": "Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product."
+ },
+ {
+  "models": [
+   "Poco C61",
+   "Redmi A3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl",
+    "url": "https://homescreen.pl/en/2527-poco-c61"
+   },
+   {
+    "name": "iZAP via Flipkart",
+    "url": "https://www.flipkart.com/izap-tempered-glass-guard-poco-c61/p/itmb7404fbe9d64d"
+   }
+  ],
+  "note": "Homescreen says glass fits both the Poco C61 and Redmi A3; an iZAP Flipkart glass lists C61, A3 and A3x. Redmi A3x only in that one marketplace listing."
+ },
+ {
+  "models": [
+   "Redmi 8",
+   "Redmi 8A"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1042-redmi-8-series"
+   }
+  ],
+  "note": "3MK HardGlass Max Lite is sold for Redmi 8 / 8A as one product."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Poco C75"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1353-poco-c75"
+   }
+  ],
+  "note": "Bizon Clear 2 and Edge Duo glass are sold for Redmi 14C 4G / Poco C75; 3MK FlexibleGlass Lite adds Redmi A4 5G."
+ },
+ {
+  "models": [
+   "Poco X8 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2217-poco-x8-pro"
+   }
+  ],
+  "note": "Bizon and 3MK HardGlass sell glass for Poco X8 Pro alone; retailer says X8-series glass is not interchangeable."
+ },
+ {
+  "models": [
+   "Xiaomi 18 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/814-xiaomi-series"
+   }
+  ],
+  "note": "3MK HardGlass and Bizon Glass Clear are sold for Xiaomi 18 Pro alone."
+ },
+ {
+  "models": [
+   "Xiaomi 18 Pro Max"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/814-xiaomi-series"
+   }
+  ],
+  "note": "3MK HardGlass and Bizon Glass Clear are sold for Xiaomi 18 Pro Max alone."
+ },
+ {
+  "models": [
+   "Poco F9 Ultra"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/893-poco-f-series"
+   }
+  ],
+  "note": "3MK HardGlass and Bizon Aplikator Edge glass are sold for Poco F9 Ultra alone."
+ },
+ {
+  "models": [
+   "Poco F9 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2677-poco-f9-pro"
+   }
+  ],
+  "note": "Bizon Clear and Edge glass are sold for Poco F9 Pro alone; retailer says F9 Pro and F9 Ultra accessories are not interchangeable."
+ },
+ {
+  "models": [
+   "Xiaomi 17T"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2322-xiaomi-17-series"
+   }
+  ],
+  "note": "3MK HardGlass Max and Bizon glass are sold for Xiaomi 17T alone; 17T Pro has its own SKUs."
+ },
+ {
+  "models": [
+   "Xiaomi 17T Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2322-xiaomi-17-series"
+   }
+  ],
+  "note": "Bizon Glass Matte is sold for Xiaomi 17T Pro as a separate SKU from the 17T."
+ },
+ {
+  "models": [
+   "Xiaomi 15"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2323-xiaomi-15-series"
+   }
+  ],
+  "note": "3MK HardGlass Max and Bizon Glass Mule are sold for Xiaomi 15 alone."
+ },
+ {
+  "models": [
+   "Poco F6"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Bizon/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1194-poco-f6"
+   }
+  ],
+  "note": "Bizon Clear 2 and Edge 2 glass are sold for Poco F6 alone; retailer says F6 and F6 Pro differ."
+ },
+ {
+  "models": [
+   "Xiaomi 12 Lite"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Dux Ducis/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   }
+  ],
+  "note": "Dux Ducis 9D and 3MK HardGlass Max Lite are sold for Xiaomi 12 Lite alone."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 11"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/Crong via Homescreen.pl",
+    "url": "https://homescreen.pl/en/809-mi-11-series"
+   }
+  ],
+  "note": "3MK HardGlass Max and Crong 3D Armour Glass are sold for Mi 11 alone. Curved screen: full-cover glass."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 10 Lite 5G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2328-mi-10-series"
+   }
+  ],
+  "note": "PanzerGlass E2E (case friendly) and Crong glass are sold for Mi 10 Lite alone."
+ },
+ {
+  "models": [
+   "Redmi Note 9T"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "PanzerGlass/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1011-redmi-note-9-series"
+   }
+  ],
+  "note": "PanzerGlass E2E and 3MK HardGlass Max Lite are sold for Redmi Note 9T 5G alone."
+ },
+ {
+  "models": [
+   "Redmi Note 8 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1012-redmi-note-8-series"
+   }
+  ],
+  "note": "PanzerGlass E2E (case friendly) is sold for Redmi Note 8 Pro alone, separate from Note 8 and 8T."
+ },
+ {
+  "models": [
+   "Redmi Note 8T"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "PanzerGlass via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1012-redmi-note-8-series"
+   }
+  ],
+  "note": "PanzerGlass E2E (case friendly) is sold for Redmi Note 8T alone, separate from Note 8 and 8 Pro."
+ },
+ {
+  "models": [
+   "Redmi 10 2022"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/1044-redmi-10-series"
+   }
+  ],
+  "note": "3MK HardGlass Max Lite is sold for Redmi 10 2022 alone."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 9 SE"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK/MyScreen via Homescreen.pl",
+    "url": "https://homescreen.pl/en/589-other-mi"
+   }
+  ],
+  "note": "3MK HardGlass, 3MK NeoGlass and MyScreen glass are sold for Mi 9 SE alone."
+ },
+ {
+  "models": [
+   "Xiaomi Mi A3"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/589-other-mi"
+   }
+  ],
+  "note": "3MK HardGlass and HardGlass Max are sold for Mi A3 alone."
+ },
+ {
+  "models": [
+   "Pocophone F1"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Ringke/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/331-poco-f1"
+   }
+  ],
+  "note": "Ringke ID Glass and 3MK HardGlass Max Lite are sold for Pocophone F1 alone."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro",
+   "Redmi Note 11 Pro 5G",
+   "Redmi Note 12 Pro 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bizon/3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/806-redmi-note-11-pro-lte5g"
+   }
+  ],
+  "note": "Bizon Clear 2 and Edge 2 glass are sold for Redmi Note 12 Pro 4G / 11 Pro 4G / 11 Pro 5G; 3MK HardGlass lists Note 11 Pro 4G/5G."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro 5G",
+   "Redmi Note 11 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/807-redmi-note-11-pro-5g"
+   }
+  ],
+  "note": "3MK NeoGlass, HardGlass Max and HardGlass Max Lite are each sold for Redmi Note 11 Pro 5G / Pro+ 5G; Bizon sells a separate Pro+ glass, so test first.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Redmi Note 11S 5G",
+   "Redmi Note 11T 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/808-redmi-note-11t-5g"
+   }
+  ],
+  "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi Note 11S 5G / 11T 5G as one product."
+ }
+]

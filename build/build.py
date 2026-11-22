@@ -1,4 +1,4 @@
-import json, re, sys, collections
+import json, re, sys, collections, html
 import os as _os; ROOT = _os.environ.get('PROTECTOR_ROOT', _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
 sys.path.insert(0, ROOT + '/build')
 import newmodels as NM
@@ -450,6 +450,8 @@ for r in _cat:
     if b not in CODE or b == 'Nvidia': continue
     m = bymn.get((CODE[b], _cname(r)))
     if not m: continue
+    mn = html.unescape((r['specs'].get('Misc') or {}).get('Models') or '').strip()
+    if mn: m['codes'] = ', '.join(dict.fromkeys([c for c in m.get('codes', '').split(', ') if c] + [c.strip() for c in re.split(r',\s+', mn) if c.strip()]))
     k = _spec(r)
     if k: SPECB[(m['cat'],) + k].add(gidx[id(m)])
     if m['cat'] == 'Wearable' and k and k[2][0] == k[2][1] and 'Moto 360 (1st' not in m['name']:
@@ -501,6 +503,86 @@ for root, ix in comp.items():
 TWIN_STATS = (len(groups), len(new_groups))
 groups = new_groups
 for g in groups: g['brands'] = list(dict.fromkeys(TRUEB(m) for m in sorted(g['members'], key=lambda m: (m['date'], m['seq']))))
+
+# 4b. Verified fits from vendor and reseller listings (build/verified.json)
+#   same:     the models take the same glass; their groups are merged
+#   own:      glass is sold for this one model alone
+#   separate: the models need different glass; any that share a group are split apart
+#   weak: true marks thin evidence (one marketplace listing, or one brand with conflicting listings).
+#         Its note and sources are shown, but it doesn't merge groups or mark them Confirmed.
+VERIFIED = json.load(open(ROOT + '/build/verified.json', encoding='utf-8'))
+def _refresh(g):
+    g['members'].sort(key=lambda m: (m['date'], m['seq']))
+    m0 = g['members'][0]
+    g.update(code=TRUEB(m0), date=m0['date'], seq=m0['seq'], cat=m0['cat'])
+    g['brands'] = list(dict.fromkeys(TRUEB(m) for m in g['members']))
+gof = {m['name']: g for g in groups for m in g['members']}
+VER_MISSING = sorted({n for f in VERIFIED for n in f['models'] if n not in gof})
+for n in VER_MISSING: print('VERIFIED: unknown model', n)
+vown, vsrc, vnote = set(), collections.defaultdict(list), collections.defaultdict(list)
+for f in VERIFIED:
+    names = [n for n in f['models'] if n in gof]
+    src = [[x['name'], x['url']] for x in f.get('sources', [])]
+    for n in names:
+        vsrc[n] += src
+        if f.get('note'): vnote[n].append(f['note'].strip().rstrip('.'))
+    if f['fit'] != 'separate': continue
+    kept = set()  # the listed models need different glass: where two share a group, the later ones leave it
+    for n in names:
+        g = gof[n]
+        if id(g) not in kept: kept.add(id(g)); continue
+        m = next(x for x in g['members'] if x['name'] == n)
+        g['members'].remove(m); _refresh(g)
+        if len(g['members']) == 1: g['note'] = ''
+        ng = dict(members=[m], status=K, note=''); _refresh(ng)
+        groups.append(ng); gof[n] = ng
+# Models proven to share glass: manual Confirmed groups plus verified "same" findings
+vpar = {}
+def vfind(n):
+    vpar.setdefault(n, n)
+    while vpar[n] != n: vpar[n] = vpar[vpar[n]]; n = vpar[n]
+    return n
+for g in groups:
+    if g['status'] == C and len(g['members']) > 1:
+        for m in g['members'][1:]: vpar[vfind(m['name'])] = vfind(g['members'][0]['name'])
+for f in VERIFIED:
+    names = [n for n in f['models'] if n in gof]
+    if f.get('weak'): continue
+    if f['fit'] == 'own':
+        vown.update(names)
+    elif f['fit'] == 'same' and len(names) > 1:
+        for n in names[1:]: vpar[vfind(n)] = vfind(names[0])
+        tgt = gof[names[0]]
+        for n in names[1:]:
+            g = gof[n]
+            if g is tgt: continue
+            tgt['members'] += g['members']
+            tgt['note'] = '. '.join(x for x in dict.fromkeys([tgt['note'], g['note']]) if x)
+            for m in g['members']: gof[m['name']] = tgt
+            groups.remove(g)
+        _refresh(tgt)
+def _keep(note):  # note sentences that still hold once a fit is verified
+    return [x.rstrip('.') for x in note.split('. ') if x and not re.search(r'test before swapping|test first|check fit|Seller-confirmed|Sellers confirm|the rest match|Likely shared', x)]
+VER_STATS = collections.Counter()
+for g in groups:
+    names = [m['name'] for m in g['members']]
+    if not any(n in vsrc for n in names): continue
+    g['sources'] = [list(x) for x in dict.fromkeys(tuple(x) for n in names for x in vsrc[n])]
+    vn = [x for n in names for x in vnote[n]]
+    whole = len(names) > 1 and len({vfind(n) for n in names}) == 1
+    if whole or (len(names) == 1 and names[0] in vown):
+        g['status'] = C
+        g['note'] = '. '.join(dict.fromkeys((vn or ['Sellers list these together' if whole else 'Sold for this model only']) + _keep(g['note'])))
+        VER_STATS['confirmed'] += 1
+    else:
+        g['status'] = K
+        sets = collections.defaultdict(list)
+        for n in names: sets[vfind(n)].append(n)
+        proven = [x for x in sets.values() if len(x) > 1]
+        lead = ['Sellers confirm ' + '; '.join(', '.join(x) for x in proven) + '. The rest match on specs: test before swapping'] if proven else []
+        g['note'] = '. '.join(dict.fromkeys(lead + vn + (_keep(g['note']) if proven else [x for x in g['note'].split('. ') if x])))
+        VER_STATS['partly'] += 1
+print('Verified:', dict(VER_STATS), 'from', len(VERIFIED), 'findings')
 
 # Universal round glass (Misc range): one group per 1mm size
 GARMIN_IN = {'Forerunner 45': 1.04, 'Forerunner 45S': 1.04, 'Forerunner 55': 1.04, 'Forerunner 245': 1.2, 'Forerunner 245 Music': 1.2,
@@ -727,7 +809,9 @@ groups.sort(key=lambda g: (ORDER.index(g['code']), g['id']))
 out = []
 for g in groups:
     out.append(dict(id=g['id'], brand=' + '.join(NAME[c] for c in g['brands']), brands=g['brands'], models=[m['name'] for m in g['members']],
-                    released=[m['date'] for m in g['members']], check=g['status'], note=g['note'], device=g['cat']))
+                    released=[m['date'] for m in g['members']], check=g['status'], note=g['note'], device=g['cat'],
+                    **({'sources': g['sources']} if g.get('sources') else {}),
+                    **({'codes': [m.get('codes', '') for m in g['members']]} if any(m.get('codes') for m in g['members']) else {})))
 json.dump(dict(brands=BRANDS, groups=out), open(ROOT + '/data.json', 'w', encoding='utf-8', newline='\n'), indent=0)
 print(len(out), 'groups,', sum(len(g['models']) for g in out), 'models')
 print(collections.Counter((g['id'][:3], g['device']) for g in out))
