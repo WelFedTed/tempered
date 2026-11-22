@@ -1,10 +1,15 @@
-# Tempered
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/media/logo-dark.png">
+    <img src="docs/media/logo-light.png" alt="Tempered" width="420">
+  </picture>
+</h1>
 
-An open reference for tempered-glass screen protectors: which glass fits which device, and which models share the same glass. It's for any repair shop or reseller that wants to catalogue, store and label protector stock.
+**Screen protector fit guide.** An open reference for tempered glass: which glass fits which device, and which models share the same glass. It's for any repair shop or reseller that wants to catalogue, store and label protector stock.
 
 **Site:** https://welfedted.github.io/tempered/
 
-- **Fit finder:** type a model and get its fit group code plus every other model that takes the same glass.
+- **Fit finder:** type a model and get its fit group code plus every other model that takes the same glass. Filter by device type and brand, and sort the results.
 - **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets.
 - **Storage system:** a drawer layout and 3D-printable label dividers (STL and OpenSCAD).
 - **Data downloads:** fit groups, models and brands as CSV or JSON in [`docs/data/`](docs/data).
@@ -75,7 +80,8 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
 - To preview it locally, run `python -m http.server 8765 --directory docs` and open http://localhost:8765.
 - [`docs/assets/catalogue.js`](docs/assets/catalogue.js) holds the shared loading and search code.
 - The label maker uses [jsPDF](https://github.com/parallax/jsPDF) from cdnjs.
-- `docs/favicon.svg` is the site icon. `python build2/make_icons.py` (needs Pillow) redraws the PNG and ICO versions from the same shape.
+- The look is "label tape": bench paper (`#F4F2EC`), ink (`#111111`) and one signal orange (`#E8590C`), with headings in [Archivo](https://fonts.google.com/specimen/Archivo) at weight 900 and codes in [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono), both from Google Fonts.
+- The mark is a screen with its protector peeling back at the corner. `docs/favicon.svg` is the site icon, and `python build2/make_icons.py` (needs Pillow) redraws the PNG and ICO versions from the same shape. The README logo is `docs/media/logo-light.png` and `logo-dark.png`.
 
 ## Dividers
 
