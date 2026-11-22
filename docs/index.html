@@ -64,6 +64,10 @@ main.band{padding-top:36px}
 .models small{font:500 13px var(--mono);color:var(--mute);white-space:nowrap}
 .models mark{background:var(--mark);color:inherit;border-radius:2px}
 .models small.mno{margin-left:6px;white-space:normal}
+.models .size{display:block;margin-top:1px;font-size:12px;font-weight:500;white-space:normal}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 0;padding:0 18px}
+.tags .badge{font-size:12px;padding:3px 9px}
+.cnote.rep{font-size:13px}
 .cnote{margin:0;padding:0 18px 14px;font-size:14px;color:var(--mute)}
 .cnote+.srcs{margin-top:-8px}
 .srcs{font-size:13px}
@@ -85,7 +89,7 @@ table.ranges .code{font-size:15px}
 <body>
 <div class="top"><div class="inner">
 <a class="brand" href="./"><svg aria-hidden="true" viewBox="0 0 40 52"><path d="M9 2H25L38 15V43A7 7 0 0 1 31 50H9A7 7 0 0 1 2 43V9A7 7 0 0 1 9 2Z" fill="currentColor"/><path d="M25 2L38 15H27A2 2 0 0 1 25 13Z" fill="#e8590c"/></svg>Tempered</a>
-<nav aria-label="Main"><a href="./" aria-current="page">Fit finder</a><a href="labels.html">Label maker</a><a href="storage.html">Storage system</a></nav>
+<nav aria-label="Main"><a href="./" aria-current="page">Fit finder</a><a href="labels.html">Label maker</a><a href="storage.html">Storage system</a><a href="changes.html">Changes</a></nav>
 </div></div>
 
 <header class="band"><div class="inner hero-wrap">
@@ -122,6 +126,7 @@ table.ranges .code{font-size:15px}
 <p id="summary" class="summary" role="status" aria-live="polite"></p>
 <div class="resctl">
 <label class="switch"><input type="checkbox" id="mnos" role="switch" checked><span class="track" aria-hidden="true"></span>Include model numbers</label>
+<label class="sortby">Fit notes<select id="tag"><option value="">Any</option></select></label>
 <label class="sortby">Sort by<select id="sort">
 <option value="">Best match</option>
 <option value="new">Newest release</option>
@@ -155,7 +160,7 @@ table.ranges .code{font-size:15px}
 </div></main>
 
 <footer class="band"><div class="inner">
-<p>Download the data: <a href="data/fit-groups.csv">fit groups (CSV)</a> · <a href="data/models.csv">models (CSV)</a> · <a href="data/brands.csv">brands (CSV)</a> · <a href="data/catalogue.json">everything (JSON)</a> · <a href="data/code-changes.csv">codes changed in the latest update (CSV)</a></p>
+<p>Download the data: <a href="data/fit-groups.csv">fit groups (CSV)</a> · <a href="data/models.csv">models (CSV)</a> · <a href="data/brands.csv">brands (CSV)</a> · <a href="data/catalogue.json">everything (JSON)</a>. What changed in each update, and which labels to reprint: <a href="changes.html">Changes</a>.</p>
 <p>Built from the open <a href="https://github.com/adelindanaila05/gsmarena-catalog-builder">GSMArena catalogue</a> plus hand-researched lists. Fits are a guide, not a guarantee. Found a wrong fit or a missing model? <a href="https://github.com/WelFedTed/tempered/issues">Open an issue</a>.</p>
 <p id="built"></p>
 </div></footer>
@@ -188,13 +193,16 @@ if (params.get('mno') === '0') $('mnos').checked = false;
 function cardHtml(g, terms, q = '') {
   const hits = q ? Tempered.codeMatches(g, q) : [];
   const mno = h => h.slice(0, 4).map(c => Tempered.highlight(c, terms)).join(', ') + (h.length > 4 ? ` +${h.length - 4} more` : '');
-  const ms = g.models.map(([m, r], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. ${mno(hits[i])}</small>` : ''}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
+  const size = (sc, dm) => sc || dm ? `<small class="size">${[sc, dm && dm.replace(/ x /g, ' × ')].filter(Boolean).join(' · ')}</small>` : '';
+  const ms = g.models.map(([m, r, , sc, dm], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. ${mno(hits[i])}</small>` : ''}${size(sc, dm)}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
+  const tags = g.tags.length ? `<p class="tags">${g.tags.map(t => `<span class="badge warn">${Tempered.esc((Tempered.TAGS[t] || [t])[0])}</span>`).join('')}</p>` : '';
+  const report = `<p class="cnote rep"><a href="${Tempered.reportUrl(g)}" target="_blank" rel="noopener">Report a fit or a mistake</a></p>`;
   const src = g.sources.length ? `<p class="cnote srcs">Sources: ${g.sources.map(([n, u]) => /^https?:\/\//.test(u) ? `<a href="${Tempered.esc(u)}" rel="nofollow noopener" target="_blank">${Tempered.esc(n)}</a>` : Tempered.esc(n)).join(', ')}</p>` : '';
   const note = (g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '') + src;
   return `<article class="card" id="${g.id}">
 <header><h3 class="code" style="margin:0">${g.id}</h3>${g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : '<span class="badge warn">Unverified</span>'}</header>
-<p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>
-<ul class="models">${ms}</ul>${note}
+<p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>${tags}
+<ul class="models">${ms}</ul>${note}${report}
 <div class="acts"><a href="labels.html#${g.id}">Print labels</a><button type="button" data-copy="${g.id}">Copy code</button></div>
 </article>`;
 }
@@ -206,6 +214,7 @@ function run() {
   q ? url.searchParams.set('q', q) : url.searchParams.delete('q');
   $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
   useCodes() ? url.searchParams.delete('mno') : url.searchParams.set('mno', '0');
+  $('tag').value ? url.searchParams.set('tag', $('tag').value) : url.searchParams.delete('tag');
   history.replaceState(null, '', url);
   const bn = $('brandnote');
   if (brand && CAT.brandNotes[brand]) { bn.hidden = false; bn.innerHTML = `<b>${Tempered.esc(CAT.brandNames[brand])}</b>: ${Tempered.esc(CAT.brandNotes[brand])}`; } else bn.hidden = true;
@@ -216,7 +225,8 @@ function run() {
     $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true; return;
   }
   $('intro').hidden = true;
-  found = Tempered.search(useCodes() ? CAT : NAMES, q, {dev, brand});
+  const tag = $('tag').value;
+  found = Tempered.search(useCodes() ? CAT : NAMES, q, {dev, brand}).filter(g => !tag || g.tags.includes(tag));
   sortResults();
 }
 function sortResults() {
@@ -239,6 +249,7 @@ $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(run, 12
 $('brand').addEventListener('change', run);
 $('devs').addEventListener('change', run);
 $('mnos').addEventListener('change', run);
+$('tag').addEventListener('change', run);
 $('sort').addEventListener('change', () => {
   const url = new URL(location.href);
   $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
@@ -256,6 +267,9 @@ document.addEventListener('click', e => {
 Tempered.load().then(cat => {
   CAT = cat; NAMES = namesOnly(cat);
   $('loading').hidden = true;
+  const used = new Set(cat.groups.flatMap(g => g.tags));
+  $('tag').insertAdjacentHTML('beforeend', Object.entries(Tempered.TAGS).filter(([k]) => used.has(k)).map(([k, [l]]) => `<option value="${k}">${Tempered.esc(l.split(':')[0])}</option>`).join(''));
+  if (used.has(params.get('tag'))) $('tag').value = params.get('tag');
   $('brand').insertAdjacentHTML('beforeend', cat.brandOrder.map(c => `<option value="${c}">${Tempered.esc(cat.brandNames[c])}</option>`).join(''));
   $('stats').innerHTML = [[cat.groups.length, 'fit groups'], [cat.modelCount, 'models'], [cat.brandOrder.length, 'brands'], [cat.groups.filter(g => g.check === 'Confirmed').length, 'confirmed by sellers']]
     .map(([n, l]) => `<div><b>${n.toLocaleString()}</b><span>${l}</span></div>`).join('');

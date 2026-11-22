@@ -9,12 +9,14 @@
 
 **Site:** https://welfedted.github.io/tempered/
 
-- **Fit finder:** type a model or its model number (e.g. `A2221`, `SM-S938B`, `iPhone12,1`) and get its fit group code plus every other model that takes the same glass. Filter by device type and brand, and sort the results.
-- **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets.
+- **Fit finder:** type a model or its model number (e.g. `A2221`, `SM-S938B`, `iphone a222`) and get its fit group code plus every other model that takes the same glass. Results show screen size and body dimensions for measuring, fit tags (ultrasonic fingerprint, cover screen only, two screens, measure first…), seller sources, and a **Report a fit** link that opens a pre-filled GitHub issue. Filter by device type, brand and fit tag, and sort the results.
+- **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets, with a QR code that opens the group in the fit finder and the fit tags in short form.
+- **Changes:** a changelog of every update to the fit groups (merged, split, new, renumbered, confirmed), with a button to print every label an update changed.
 - **Storage system:** a drawer layout and 3D-printable label dividers (STL and OpenSCAD).
-- **Data downloads:** fit groups, models (with model numbers) and brands as CSV or JSON in [`docs/data/`](docs/data). [`code-changes.csv`](docs/data/code-changes.csv) lists the labels whose codes changed in the latest rebuild.
+- **Works offline:** once opened, the site and catalogue are cached, so lookups still work without internet.
+- **Data downloads:** fit groups, models (with model numbers, screen size and dimensions) and brands as CSV or JSON in [`docs/data/`](docs/data).
 
-The catalogue has 8,997 fit groups covering 12,217 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
+The catalogue has 8,958 fit groups covering 12,217 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
 
 ## Codes
 
@@ -43,7 +45,7 @@ How the numbers are assigned:
 
 Every group is marked **Confirmed** or **Check** (shown as "Unverified" on the site):
 
-- **Confirmed** (271 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
+- **Confirmed** (671 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
 - **Check**: either the models match on body size, screen size and resolution, or the model stands alone. Test the fit before swapping.
 
 Groups checked against protector brands, retailers and marketplaces carry their source links on the site. The findings live in [`build/verified.json`](build/verified.json); each entry is:
@@ -59,7 +61,7 @@ Groups checked against protector brands, retailers and marketplaces carry their 
 
 A group is Confirmed when its models are all linked by `same` findings (or it's a single model with an `own` finding). If only some are, the note says which ones sellers confirm.
 
-Fixes are very welcome. If you've confirmed that a pack fits, or found a mismatch, [open an issue](https://github.com/WelFedTed/tempered/issues).
+Fixes are very welcome. If you've confirmed that a pack fits, or found a mismatch, use **Report a fit** on the result, or [open a fit report](https://github.com/WelFedTed/tempered/issues/new?template=fit-report.yml).
 
 ## Scope
 
@@ -73,7 +75,10 @@ Requires Python 3. The scripts have no other dependencies.
 ```sh
 python build/build.py      # sources -> data.json
 python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
+python build2/changelog.py "What changed" --summary "One or two sentences"   # adds an entry to the Changes page
 ```
+
+`changelog.py` compares `data.json` in the last commit with the new build, so run it before committing. Running it again replaces that entry. Then commit everything to `main`; the **Build check** workflow rebuilds the catalogue and fails if the committed data doesn't match.
 
 - **`build/build.py`** is the whole pipeline; read it top to bottom. In order, it:
   1. loads `ds/base.json` and `ds/extra.json` (a Sep 2024 device snapshot);
@@ -82,7 +87,7 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
   4. merges known shared-glass sets, variants and spec twins (union-find over identical body and screen specs, restricted to brand families and carrier rebadges);
   5. applies the verified findings in `build/verified.json`;
   6. links round watches to universal round glass by display diameter;
-  7. numbers the groups and writes `data.json`, with model numbers from the GSMArena catalogue.
+  7. numbers the groups and writes `data.json`, with model numbers (from the GSMArena catalogue plus Apple's official lists in `build/modelnumbers.json`), screen sizes, body dimensions and fit tags.
 - **`build2/classify.py`** decides phone, tablet or watch for catalogue devices.
 - **`build2/newcodes.json`** maps brand names to codes for brands added from the catalogue.
 
@@ -93,7 +98,8 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
 - The site is static, in [`docs/`](docs), served by GitHub Pages from `main`.
 - To preview it locally, run `python -m http.server 8765 --directory docs` and open http://localhost:8765.
 - [`docs/assets/catalogue.js`](docs/assets/catalogue.js) holds the shared loading and search code.
-- The label maker uses [jsPDF](https://github.com/parallax/jsPDF) from cdnjs.
+- The label maker uses [jsPDF](https://github.com/parallax/jsPDF) and [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) from cdnjs.
+- [`docs/sw.js`](docs/sw.js) is the service worker for offline use. Bump its `CACHE` name when you change which files it pre-caches.
 - The look is "label tape": bench paper (`#F4F2EC`), ink (`#111111`) and one signal orange (`#E8590C`), with headings in [Archivo](https://fonts.google.com/specimen/Archivo) at weight 900 and codes in [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono), both from Google Fonts.
 - The mark is a screen with its protector peeling back at the corner. `docs/favicon.svg` is the site icon, and `python build2/make_icons.py` (needs Pillow) redraws the PNG and ICO versions from the same shape. The README logo is `docs/media/logo-light.png` and `logo-dark.png`.
 
@@ -107,3 +113,8 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
 
 - **Device catalogue:** [gsmarena-catalog-builder](https://github.com/adelindanaila05/gsmarena-catalog-builder), full catalogue snapshot of July 2026. Product names and source-site data remain the property of their owners.
 - **Hand-researched lists:** compiled from manufacturer announcements, retailer and protector-maker compatibility lists, and review sites. Release months for some watch, e-reader and retro brands are approximate; this is noted on those brands.
+- **Model numbers:** the GSMArena catalogue, plus Apple's "Identify your iPhone / iPad / Apple Watch / iPod" support pages.
+
+## Licence
+
+Code is under the MIT License. The fit-group catalogue (groupings, codes, fit checks, notes, tags and changelog) is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Device names, specs and model numbers from third-party sources remain their owners'. See [`LICENSE`](LICENSE).

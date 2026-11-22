@@ -452,10 +452,25 @@ for r in _cat:
     if not m: continue
     mn = html.unescape((r['specs'].get('Misc') or {}).get('Models') or '').strip()
     if mn: m['codes'] = ', '.join(dict.fromkeys([c for c in m.get('codes', '').split(', ') if c] + [c.strip() for c in re.split(r',\s+', mn) if c.strip()]))
+    # Size, for measuring before swapping glass, and ultrasonic fingerprint readers, which need FP-compatible glass
+    dm = re.match(r'\s*([\d.]+)\s*x\s*([\d.]+)\s*x\s*([\d.]+)\s*mm', (r['specs'].get('Body') or {}).get('Dimensions') or '')
+    if dm: m['dims'] = ' x '.join(dm.groups()) + ' mm'
+    sz = re.match(r'\s*([\d.]+)\s*inches', (r['specs'].get('Display') or {}).get('Size') or '')
+    if sz: m['screen'] = sz.group(1) + 'in'
+    if 'ultrasonic' in ((r['specs'].get('Features') or {}).get('Sensors') or ''): m['ufp'] = True
     k = _spec(r)
     if k: SPECB[(m['cat'],) + k].add(gidx[id(m)])
     if m['cat'] == 'Wearable' and k and k[2][0] == k[2][1] and 'Moto 360 (1st' not in m['name']:
         ROUND[m['name']] = float(k[1]) * 25.4
+# Official model numbers the catalogue lacks (Apple support pages and similar): build/modelnumbers.json
+for n, v in json.load(open(ROOT + '/build/modelnumbers.json', encoding='utf-8')).items():
+    m = next((x for x in models if x['name'] == n), None)
+    if not m: print('MODELNO: unknown model', n); continue
+    have = [c for c in m.get('codes', '').split(', ') if c]
+    low = {c.lower() for c in have}
+    nums = [re.sub(r'^(iphone|ipad|ipod|watch)', lambda x: {'iphone': 'iPhone', 'ipad': 'iPad', 'ipod': 'iPod', 'watch': 'Watch'}[x.group(1).lower()], c, flags=re.I)
+            for c in v['numbers']]
+    m['codes'] = ', '.join(have + [c for c in dict.fromkeys(nums) if c.lower() not in low])
 for key, gs in SPECB.items():
     gs = sorted(gs)
     if len(gs) < 2: continue
@@ -519,13 +534,22 @@ def _refresh(g):
 gof = {m['name']: g for g in groups for m in g['members']}
 VER_MISSING = sorted({n for f in VERIFIED for n in f['models'] if n not in gof})
 for n in VER_MISSING: print('VERIFIED: unknown model', n)
+def _clean_note(t):
+    # Research notes are shown to shop staff: drop remarks about the catalogue's own grouping
+    t = re.sub(r'^(possible )?missed merge:\s*|^partial:\s*', '', t.strip(), flags=re.I)
+    t = re.sub(r'\s*\([^)]*catalog(ue)?[^)]*\)', '', t)
+    t = re.sub(r',?\s*merging [^.;]*catalog(ue)? groups?', '', t, flags=re.I)
+    t = re.sub(r',?\s*an? (possible )?missed merge[^.;]*', '', t, flags=re.I)
+    parts = [x for x in re.split(r'(?<=[.;])\s+', t) if not re.search(r'catalog(ue)?|work list|TODO', x, re.I)]
+    t = ' '.join(parts).strip().rstrip('.;')
+    return t[:1].upper() + t[1:]
 vown, vsrc, vnote = set(), collections.defaultdict(list), collections.defaultdict(list)
 for f in VERIFIED:
     names = [n for n in f['models'] if n in gof]
     src = [[x['name'], x['url']] for x in f.get('sources', [])]
     for n in names:
         vsrc[n] += src
-        if f.get('note'): vnote[n].append(f['note'].strip().rstrip('.'))
+        if f.get('note'): vnote[n].append(_clean_note(f['note']))
     if f['fit'] != 'separate': continue
     kept = set()  # the listed models need different glass: where two share a group, the later ones leave it
     for n in names:
@@ -806,12 +830,28 @@ for sz, g in UNI_GROUP.items():
 NAME = {b[0]: b[1] for b in BRANDS}
 ORDER = [b[0] for b in BRANDS]
 groups.sort(key=lambda g: (ORDER.index(g['code']), g['id']))
+# Fit tags: caveats staff should know before fitting, from notes and specs
+TAGS = [('cover', r'cover screen|Foldable'), ('two-screens', r'^Two screens|two screens'), ('case-friendly', r'case[- ]friendly'),
+        ('curved', r'curved'), ('uv', r'UV'), ('hybrid', r'hybrid'), ('measure', r'measure')]
+def fit_tags(g):
+    t = [k for k, rx in TAGS if re.search(rx, g['note'], re.I)]
+    if any(m.get('ufp') for m in g['members']): t.insert(0, 'fingerprint')
+    return t
+def _per_model(g, key, out):
+    if key == 'screen' and 'cover' in fit_tags(g): return {}  # foldables: the listed size is the inner screen
+    vals = [m.get(key, '') for m in g['members']]
+    return {out: vals} if any(vals) else {}
+# Apple identifiers in one spelling (GSMArena has both iphone15,2 and iPhone15,2)
+def _mnfix(codes):
+    fixed = re.sub(r'(?<![A-Za-z])(iphone|ipad|ipod|watch)(?=\d)', lambda x: {'iphone': 'iPhone', 'ipad': 'iPad', 'ipod': 'iPod', 'watch': 'Watch'}[x.group(1).lower()], codes, flags=re.I)
+    return ', '.join(dict.fromkeys(c for c in fixed.split(', ') if c))
 out = []
 for g in groups:
     out.append(dict(id=g['id'], brand=' + '.join(NAME[c] for c in g['brands']), brands=g['brands'], models=[m['name'] for m in g['members']],
                     released=[m['date'] for m in g['members']], check=g['status'], note=g['note'], device=g['cat'],
                     **({'sources': g['sources']} if g.get('sources') else {}),
-                    **({'codes': [m.get('codes', '') for m in g['members']]} if any(m.get('codes') for m in g['members']) else {})))
+                    **({'codes': [_mnfix(m.get('codes', '')) for m in g['members']]} if any(m.get('codes') for m in g['members']) else {}),
+                    **_per_model(g, 'screen', 'screens'), **_per_model(g, 'dims', 'dims'), **({'tags': fit_tags(g)} if fit_tags(g) else {})))
 json.dump(dict(brands=BRANDS, groups=out), open(ROOT + '/data.json', 'w', encoding='utf-8', newline='\n'), indent=0)
 print(len(out), 'groups,', sum(len(g['models']) for g in out), 'models')
 print(collections.Counter((g['id'][:3], g['device']) for g in out))

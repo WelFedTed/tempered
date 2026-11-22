@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Changes · Tempered</title>
+<meta name="description" content="What changed in each update of the screen protector catalogue: merged, split, new, renumbered and confirmed fit groups, and which labels to reprint.">
+<meta name="theme-color" content="#111111">
+<link rel="icon" href="favicon.ico" sizes="48x48">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&family=JetBrains+Mono:wght@500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+main.band{padding-top:12px}
+.entries{display:grid;gap:28px}
+.entry{padding:22px 22px 18px;display:grid;gap:14px}
+.entry h2{margin:0;font-size:clamp(22px,3vw,30px);letter-spacing:-.02em}
+.entry .when{margin:0;font-family:var(--mono);font-size:13px;font-weight:700;color:var(--mute)}
+.entry .sum{margin:0;max-width:75ch;color:var(--mute)}
+.counts{display:flex;flex-wrap:wrap;gap:8px}
+.counts .chip{font-size:13px;padding:4px 11px}
+.counts .chip b{font-family:var(--mono)}
+.btns{display:flex;flex-wrap:wrap;gap:10px}
+.btns a,.btns button{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border:2px solid var(--edge);border-radius:8px;font-weight:800;font-size:15px;text-decoration:none;color:var(--ink);background:transparent;cursor:pointer}
+.btns a.primary{background:var(--acc);color:var(--onAcc);border-width:3px}
+.btns a.primary:hover{background:#ff6a1a}
+details>summary{cursor:pointer;font-weight:800;min-height:44px;display:flex;align-items:center}
+.filters{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 12px}
+.filters select{width:auto;min-width:200px}
+.filters input{flex:1 1 220px;width:auto}
+.tbl{overflow-x:auto;border:2px solid var(--edge);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);background:var(--sheet)}
+td.code,td.old{font-family:var(--mono);font-weight:700;white-space:nowrap}
+td.old{font-weight:500;color:var(--mute)}
+td .chip{margin:0 4px 4px 0}
+.k-merged,.k-split,.k-new{background:var(--warnBg);color:var(--warn)}
+.k-confirmed{background:var(--okBg);color:var(--ok)}
+.more{margin-top:12px}
+@media(max-width:640px){
+  .tbl thead{display:none}
+  .tbl table,.tbl tbody,.tbl tr,.tbl td{display:block}
+  .tbl tr{padding:10px 12px;border-bottom:1px solid var(--line)}
+  .tbl td{border:0;padding:2px 0}
+  .tbl td.code{font-size:16px}
+  .tbl td.old::before{content:"Was ";font-family:var(--sans);font-weight:600}
+}
+.empty{margin:0;color:var(--mute)}
+</style>
+</head>
+<body>
+<div class="top"><div class="inner">
+<a class="brand" href="./"><svg aria-hidden="true" viewBox="0 0 40 52"><path d="M9 2H25L38 15V43A7 7 0 0 1 31 50H9A7 7 0 0 1 2 43V9A7 7 0 0 1 9 2Z" fill="currentColor"/><path d="M25 2L38 15H27A2 2 0 0 1 25 13Z" fill="#e8590c"/></svg>Tempered</a>
+<nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html">Label maker</a><a href="storage.html">Storage system</a><a href="changes.html" aria-current="page">Changes</a></nav>
+</div></div>
+
+<header class="band"><div class="inner hero">
+<p class="eyebrow">Changelog</p>
+<h1>What changed</h1>
+<p class="lede">Every update to the fit groups: groups merged when sellers show models share glass, split when they don't, new models, new codes and newly confirmed fits. Codes are numbered oldest first, so an update can renumber groups. Print the changed labels in one go from each update.</p>
+</div></header>
+
+<main class="band"><div class="inner">
+<p id="loading">Loading the changelog…</p>
+<div id="entries" class="entries"></div>
+</div></main>
+
+<footer class="band"><div class="inner">
+<p>The changelog is also available as <a href="data/changelog.json">JSON</a>. Source, data and build scripts are on <a href="https://github.com/WelFedTed/tempered">GitHub</a>.</p>
+</div></footer>
+
+<script src="assets/catalogue.js"></script>
+<script>
+{
+const $ = id => document.getElementById(id);
+const esc = Tempered.esc;
+const KIND = {
+  merged: 'Merged', split: 'Split', new: 'New group', 'models added': 'Models added', 'models changed': 'Models changed',
+  renumbered: 'Renumbered', 'new code': 'New code', confirmed: 'Confirmed', unconfirmed: 'No longer confirmed'
+};
+const ORDER = Object.keys(KIND);
+const REPRINT = new Set(['new', 'merged', 'split', 'models changed', 'renumbered', 'new code', 'models added']);
+const PAGE = 100;
+let latest = 0;  // only the newest update's codes match the current catalogue, so only it gets a print button
+const fmtDate = d => new Date(d + 'T00:00:00').toLocaleDateString('en-AU', {day: 'numeric', month: 'long', year: 'numeric'});
+const chip = k => `<span class="chip k-${k.replace(/ /g, '-')}">${esc(KIND[k] || k)}</span>`;
+
+function csv(e) {
+  const q = s => `"${String(s).replace(/"/g, '""')}"`;
+  const rows = [['New code', 'Changes', 'Old code(s)', 'Reprint', 'Models']]
+    .concat(e.changes.map(c => [c.code, c.kinds.join('; '), c.old.join(' '), c.kinds.some(k => REPRINT.has(k)) ? 'yes' : 'no', c.models.join('; ')]));
+  return rows.map(r => r.map(q).join(',')).join('\n') + '\n';
+}
+
+function entryHtml(e, i) {
+  const counts = ORDER.filter(k => e.counts[k]).map(k => `<span class="chip k-${k.replace(/ /g, '-')}"><b>${e.counts[k].toLocaleString()}</b> ${esc(KIND[k].toLowerCase())}</span>`).join('');
+  const removed = e.removed && e.removed.length ? `<p class="sum">Removed: ${e.removed.map(esc).join(', ')}</p>` : '';
+  const kinds = ORDER.filter(k => e.counts[k]);
+  return `<article class="panel entry" id="u-${esc(e.base || 'start')}">
+<p class="when">${fmtDate(e.date)}</p>
+<h2>${esc(e.title)}</h2>
+${e.summary ? `<p class="sum">${esc(e.summary)}</p>` : ''}
+${counts ? `<div class="counts">${counts}</div>` : ''}${removed}
+${e.reprint && i !== latest ? `<p class="sum">Codes have changed since this update, so its list no longer matches the current labels. Print from the latest update instead.</p>` : ''}
+${e.changes.length ? `<div class="btns">
+${e.reprint && i === latest ? `<a class="primary" href="labels.html#changes=${encodeURIComponent(e.base)}">Print ${e.reprint.toLocaleString()} changed label${e.reprint === 1 ? '' : 's'}</a>` : ''}
+<button type="button" data-csv="${i}">Download CSV</button>
+</div>
+<details data-i="${i}"><summary>Show all ${e.changes.length.toLocaleString()} changed groups</summary>
+<div class="filters"><select aria-label="Kind of change"><option value="">Every change</option><option value="reprint">Needs a new label</option>${kinds.map(k => `<option value="${k}">${esc(KIND[k])}</option>`).join('')}</select>
+<input type="search" placeholder="Filter by code or model" aria-label="Filter by code or model"></div>
+<div class="tbl"><table><thead><tr><th>Code</th><th>What changed</th><th>Was</th><th>Models</th></tr></thead><tbody></tbody></table></div>
+<button type="button" class="more" hidden>Show more</button>
+</details>` : '<p class="empty">No group changes.</p>'}
+</article>`;
+}
+
+function fillTable(det, e) {
+  const kind = det.querySelector('select').value, f = Tempered.norm(det.querySelector('input').value);
+  const rows = e.changes.filter(c => (!kind || (kind === 'reprint' ? c.kinds.some(k => REPRINT.has(k)) : c.kinds.includes(kind)))
+    && (!f || Tempered.norm(c.code + ' ' + c.old.join(' ') + ' ' + c.models.join(' ')).includes(f)));
+  const n = +(det.dataset.n || PAGE);
+  det.querySelector('tbody').innerHTML = rows.slice(0, n).map(c => `<tr>
+<td class="code"><a href="./?q=${encodeURIComponent(c.code)}">${esc(c.code)}</a></td>
+<td>${c.kinds.map(chip).join('')}</td>
+<td class="old">${c.old.map(esc).join(', ') || '–'}</td>
+<td>${c.models.map(m => c.added && c.added.includes(m) ? `<b>${esc(m)}</b>` : esc(m)).join(', ')}</td></tr>`).join('') || '<tr><td colspan="4">No changes match.</td></tr>';
+  const more = det.querySelector('.more');
+  more.hidden = rows.length <= n;
+  more.textContent = `Show more (${(rows.length - n).toLocaleString()} left)`;
+}
+
+fetch('data/changelog.json').then(r => r.json()).then(log => {
+  $('loading').hidden = true;
+  const E = log.entries;
+  latest = E.findIndex(e => e.changes.length);
+  $('entries').innerHTML = E.map(entryHtml).join('');
+  document.querySelectorAll('details[data-i]').forEach(det => {
+    const e = E[+det.dataset.i];
+    det.addEventListener('toggle', () => { if (det.open && !det.dataset.done) { det.dataset.done = 1; fillTable(det, e); } });
+    det.querySelector('select').addEventListener('change', () => { det.dataset.n = PAGE; fillTable(det, e); });
+    det.querySelector('input').addEventListener('input', () => { det.dataset.n = PAGE; fillTable(det, e); });
+    det.querySelector('.more').addEventListener('click', () => { det.dataset.n = +(det.dataset.n || PAGE) + PAGE; fillTable(det, e); });
+  });
+  document.querySelectorAll('[data-csv]').forEach(b => b.addEventListener('click', () => {
+    const e = E[+b.dataset.csv];
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([csv(e)], {type: 'text/csv'}));
+    a.download = `tempered-changes-${e.date}.csv`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  }));
+}).catch(() => { $('loading').textContent = "Couldn't load the changelog. Reload the page to try again."; });
+}
+</script>
+</body>
+</html>

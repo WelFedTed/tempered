@@ -59,7 +59,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <body>
 <div class="top"><div class="inner">
 <a class="brand" href="./"><svg aria-hidden="true" viewBox="0 0 40 52"><path d="M9 2H25L38 15V43A7 7 0 0 1 31 50H9A7 7 0 0 1 2 43V9A7 7 0 0 1 9 2Z" fill="currentColor"/><path d="M25 2L38 15H27A2 2 0 0 1 25 13Z" fill="#e8590c"/></svg>Tempered</a>
-<nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html" aria-current="page">Label maker</a><a href="storage.html">Storage system</a></nav>
+<nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html" aria-current="page">Label maker</a><a href="storage.html">Storage system</a><a href="changes.html">Changes</a></nav>
 </div></div>
 
 <header class="band"><div class="inner hero">
@@ -81,6 +81,10 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <option value="custom">Custom…</option>
 </select>
 <div class="row" id="customRow" hidden><input type="number" id="cw" min="15" max="150" step="1" value="50" aria-label="Width mm"><input type="number" id="ch" min="10" max="100" step="1" value="25" aria-label="Height mm"></div>
+</fieldset>
+<fieldset><legend>Extras</legend>
+<label class="chk"><input type="checkbox" id="qr" checked>QR code to the fit finder</label>
+<label class="chk"><input type="checkbox" id="tagsOn" checked>Fit notes (FP-SAFE, COVER, MEASURE…)</label>
 </fieldset>
 <fieldset><legend>2 · Glass types you carry</legend>
 <div class="row types"><label class="chk"><input type="checkbox" name="t" value="C" checked><span class="code">C</span>Clear</label><label class="chk"><input type="checkbox" name="t" value="P"><span class="code">P</span>Privacy</label><label class="chk"><input type="checkbox" name="t" value="M"><span class="code">M</span>Matte</label></div>
@@ -112,7 +116,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <span><i class="gk m" aria-hidden="true">M</i>Matte: double outline</span>
 <span>Black on white, so they print on any thermal printer.</span>
 </div>
-<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1476</span></p>
+<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1468</span>. To reprint the labels an update changed, use the button on the <a href="changes.html">Changes</a> page.</p>
 </section>
 </div></div>
 
@@ -121,6 +125,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 </div></footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
 <script src="assets/catalogue.js"></script>
 <script>
 {
@@ -148,8 +153,39 @@ function wrap(P, text, maxW, pt) {
   if (cur) out.push(cur);
   return out;
 }
+// QR modules for a group's fit finder link (cached), or null if the QR library didn't load
+const QR = {};
+function qrFor(id) {
+  if (!window.qrcode) return null;
+  if (!QR[id]) { const q = qrcode(0, 'L'); q.addData(Tempered.SITE + '?q=' + id); q.make(); QR[id] = q; }
+  return QR[id];
+}
+// Draws a QR code as filled runs of dark modules, s mm square, with its top-left at x, y
+function drawQr(P, q, x, y, s) {
+  const n = q.getModuleCount(), m = s / n;
+  for (let r = 0; r < n; r++) for (let c = 0; c < n; c++) {
+    if (!q.isDark(r, c)) continue;
+    let e = c; while (e + 1 < n && q.isDark(r, e + 1)) e++;
+    P.rect(x + c * m, y + r * m, (e - c + 1) * m + 0.01, m + 0.01, '#000', null);
+    c = e;
+  }
+}
 function drawLabel(P, L, W, H) {
   const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
+  const q = L.qr && qrFor(L.id);
+  if (q) {
+    // QR on the right, at least 0.45 mm per module so thermal printers can resolve it
+    const s = Math.min(H - 2 * pad, W * 0.36);
+    if (s / q.getModuleCount() >= 0.45) { drawQr(P, q, W - pad - s, (H - s) / 2, s); W = W - s - 2 * pad; }
+  }
+  if (L.tags && L.tags.length) {
+    const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
+    P.text(L.tags.join(' · '), pad, H - pad, tPt, true, '#000');
+    H = H - tPt * PT - 0.8;
+  }
+  drawBody(P, L, W, H, pad);
+}
+function drawBody(P, L, W, H, pad) {
   const code = L.id + '-' + L.type, tn = TYPE[L.type];
   const bPt = Math.max(5, Math.min(8, H * 0.28));
   const bh = bPt * PT * 0.72 + 1.8, bw = P.w(tn, bPt, true) + 2.4;
@@ -182,8 +218,9 @@ function drawLabel(P, L, W, H) {
 function canvasPainter(ctx) {
   const f = (pt, b) => `${b ? 700 : 400} ${pt * PT}px Helvetica, Arial, sans-serif`;
   return {
-    w(s, pt, b) { ctx.font = f(pt, b); return ctx.measureText(s).width; },
-    text(s, x, y, pt, b, c) { ctx.font = f(pt, b); ctx.fillStyle = c; ctx.fillText(s, x, y); },
+    // Text is measured and drawn 100x larger, then scaled down: browsers round tiny font sizes, which skews widths
+    w(s, pt, b) { ctx.font = f(pt * 100, b); return ctx.measureText(s).width / 100; },
+    text(s, x, y, pt, b, c) { ctx.save(); ctx.translate(x, y); ctx.scale(0.01, 0.01); ctx.font = f(pt * 100, b); ctx.fillStyle = c; ctx.fillText(s, 0, 0); ctx.restore(); },
     rect(x, y, w, h, fill, lw) { if (fill) { ctx.fillStyle = fill; ctx.fillRect(x, y, w, h); } if (lw) { ctx.lineWidth = lw; ctx.strokeStyle = '#000'; ctx.strokeRect(x, y, w, h); } }
   };
 }
@@ -209,7 +246,8 @@ function labels() {
   const copies = Math.max(1, Math.min(200, Math.round(+$('copies').value) || 1));
   for (const g of groups) {
     if (!sel.has(g.id)) continue;
-    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0])});
+    const tags = $('tagsOn').checked ? g.tags.map(k => (Tempered.TAGS[k] || [, k.toUpperCase()])[1]) : [];
+    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0]), qr: $('qr').checked, tags});
   }
   return out;
 }
@@ -269,8 +307,24 @@ $('dl').addEventListener('click', () => {
     $('status').textContent = `Saved ${L.length.toLocaleString()} labels.`;
   } catch (e) { $('status').textContent = "Couldn't make the PDF."; }
 });
-function selectFromHash() {
-  const ids = decodeURIComponent(location.hash.slice(1)).split(',').map(s => s.trim().toUpperCase()).filter(id => CAT.byId[id]);
+// #APP-1013,SAM-1468 selects those groups; #changes=<id> selects every group that update needs a new label for
+const REPRINT = new Set(['new', 'merged', 'split', 'models changed', 'renumbered', 'new code', 'models added']);
+async function selectFromHash() {
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (h.startsWith('changes=')) {
+    try {
+      const log = await (await fetch('data/changelog.json')).json();
+      const e = log.entries.find(x => x.base === h.slice(8));
+      if (!e) { $('status').textContent = "That update isn't in the changelog."; return; }
+      const ids = e.changes.filter(c => c.kinds.some(k => REPRINT.has(k)) && CAT.byId[c.code]).map(c => c.code);
+      sel.clear(); ids.forEach(id => sel.add(id));
+      $('onlySel').checked = true;
+      $('status').textContent = `Selected ${ids.length.toLocaleString()} labels changed in “${e.title}” (${e.date}).`;
+      renderList(); renderPreview();
+    } catch (err) { $('status').textContent = "Couldn't load the changelog."; }
+    return;
+  }
+  const ids = h.split(',').map(s => s.trim().toUpperCase()).filter(id => CAT.byId[id]);
   if (!ids.length) return;
   sel.clear(); ids.forEach(id => sel.add(id));
   $('onlySel').checked = true;
@@ -286,10 +340,11 @@ $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(renderL
 $('size').addEventListener('change', () => { $('customRow').hidden = $('size').value !== 'custom'; renderPreview(); });
 document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; renderPreview(); }));
 ['cw', 'ch', 'copies'].forEach(id => $(id).addEventListener('input', renderPreview));
+['qr', 'tagsOn'].forEach(id => $(id).addEventListener('change', renderPreview));
 document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.addEventListener('change', renderPreview));
 window.addEventListener('hashchange', () => CAT && selectFromHash());
-function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value})); } catch (e) {} }
-try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; } } catch (e) {}
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, tags: $('tagsOn').checked})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
 
 Tempered.load().then(cat => {
   CAT = cat; groups = cat.groups;

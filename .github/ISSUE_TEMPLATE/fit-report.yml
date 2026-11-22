@@ -1,0 +1,52 @@
+name: Fit report
+description: Tell us whether a screen protector fits the models in a fit group.
+title: "Fit report: "
+labels: ["fit report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking a fit. Reports from people who have fitted the glass are how unverified groups become confirmed.
+  - type: input
+    id: group
+    attributes:
+      label: Fit group code
+      description: The code from the fit finder, e.g. APP-1013.
+      placeholder: APP-1013
+    validations:
+      required: true
+  - type: textarea
+    id: models
+    attributes:
+      label: Models in the group
+      description: Filled in from the fit finder. Edit it if a model is missing or wrong.
+  - type: dropdown
+    id: result
+    attributes:
+      label: What happened?
+      options:
+        - The same glass fits all the models listed
+        - It fits some of the models (say which below)
+        - It doesn't fit a model listed (say which below)
+        - A model is missing from this group
+        - Something else is wrong (note, size, model number)
+    validations:
+      required: true
+  - type: input
+    id: glass
+    attributes:
+      label: Glass used
+      description: Brand and product, if you know it.
+      placeholder: e.g. PanzerGlass Ultra-Wide Fit, generic 9H 2.5D
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Which models you fitted it to, and anything to watch for (case-friendly only, fingerprint reader, camera cut-out, curved edges).
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Listing or photo link
+      description: Optional. A product page that names the models, or a photo of the fit.

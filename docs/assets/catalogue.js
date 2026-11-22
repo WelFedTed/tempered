@@ -1,5 +1,24 @@
 // Shared catalogue loading and search for the Tempered pages.
 window.Tempered = (() => {
+  // Fit tags: caveats to know before fitting. [label on the site, short form for printed labels]
+  const TAGS = {
+    fingerprint: ['Ultrasonic fingerprint: use FP-compatible glass', 'FP-SAFE'],
+    cover: ['Cover screen only', 'COVER'],
+    'two-screens': ['Two screens: top and bottom sets', '2 SCREENS'],
+    'case-friendly': ['Case-friendly glass', 'CASE-FRIENDLY'],
+    curved: ['Curved screen', 'CURVED'],
+    uv: ['UV glue glass', 'UV'],
+    hybrid: ['Hybrid glass', 'HYBRID'],
+    measure: ['Measure first', 'MEASURE']
+  };
+  const SITE = 'https://welfedted.github.io/tempered/';
+  const REPO = 'https://github.com/WelFedTed/tempered';
+  // A pre-filled "Fit report" issue form (.github/ISSUE_TEMPLATE/fit-report.yml) for a group
+  const reportUrl = g => REPO + '/issues/new?' + new URLSearchParams({
+    template: 'fit-report.yml', title: `Fit report: ${g.id}`, group: g.id, models: g.models.map(m => m[0]).join('\n')
+  });
+  // Service worker: keeps the site and catalogue usable offline
+  if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
   const DEVICE = {Phone: 'Phone', Tablet: 'Tablet', Wearable: 'Wearable', Handheld: 'Handheld', Misc: 'Misc', Laptop: 'Laptop'};
   const MON = 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split(' ');
 
@@ -26,7 +45,7 @@ window.Tempered = (() => {
     for (const [c, n, note] of d.brands) { brandNames[c] = n; brandNotes[c] = note || ''; }
     let modelCount = 0;
     const used = new Set();
-    const groups = d.groups.map(([id, brands, dev, check, note, models, sources = []]) => {
+    const groups = d.groups.map(([id, brands, dev, check, note, models, sources = [], tags = []]) => {
       modelCount += models.length;
       brands.forEach(b => used.add(b));
       const brandName = brands.map(b => brandNames[b] || b).join(' + ');
@@ -35,7 +54,7 @@ window.Tempered = (() => {
       // Model numbers (e.g. A2221, SM-S938B/DS, iPhone12,1): compact full form and the part before / or (
       const codes = models.map(m => (m[2] || '').split(', ').filter(Boolean));
       const ccodes = codes.map(list => list.map(c => [codeKey(c), codeKey(c.split(/[\/(]/)[0])]));
-      return {id, brands, dev, check, note, models, sources, brandName, hay, hayC: hay.replace(/ /g, ''), codes, ccodes,
+      return {id, brands, dev, check, note, models, sources, tags, brandName, hay, hayC: hay.replace(/ /g, ''), codes, ccodes,
         mnorm: models.map(m => norm(m[0])), mcomp: models.map(m => compact(m[0])), earliest: dates[0] || '', latest: dates[dates.length - 1] || ''};
     });
     const brandOrder = d.brands.map(b => b[0]).filter(c => used.has(c))
@@ -129,5 +148,5 @@ window.Tempered = (() => {
     return out.map(x => x[1]);
   }
 
-  return {DEVICE, esc, norm, terms, month, highlight, linkCodes, load, search, codeMatches};
+  return {TAGS, SITE, REPO, reportUrl, DEVICE, esc, norm, terms, month, highlight, linkCodes, load, search, codeMatches};
 })();

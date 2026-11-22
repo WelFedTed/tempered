@@ -1,0 +1,23 @@
+name: Build check
+
+# Rebuilds the catalogue from source and fails if the committed data doesn't match,
+# so hand edits to data.json or docs/data/ can't drift from the build.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the catalogue
+        run: python build/build.py > /dev/null
+      - name: Export the site data
+        run: python build2/export.py
+      - name: Compare with the committed files
+        run: python build2/check.py

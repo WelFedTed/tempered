@@ -15,15 +15,27 @@ os.makedirs(OUT, exist_ok=True)
 d = json.load(open(os.path.join(ROOT, 'data.json'), encoding='utf-8'))
 groups, brands = d['groups'], d['brands']
 
-# Compact form: brands [[code, name, notes]],
-# groups [[id, brand codes, device, check, note, [[model, released, model numbers?]], [[source name, url]]?]]
+# Compact form, trailing empty fields dropped:
+# brands [[code, name, notes]]
+# groups [[id, brand codes, device, check, note, models, sources, fit tags]]
+#   models  [[name, released, model numbers, screen size, body dimensions]]
+#   sources [[name, url]]
+def trim(a):
+    while a and a[-1] in ('', [], None): a.pop()
+    return a
+
+
+def per_model(g, key):
+    return g.get(key) or [''] * len(g['models'])
+
+
 site = dict(
     built=datetime.date.today().isoformat(),
     brands=brands,
-    groups=[[g['id'], g['brands'], g['device'], g['check'], g['note'],
-             [[m, r] + ([c] if c else []) for m, r, c in zip(g['models'], g['released'], g.get('codes') or [''] * len(g['models']))]]
-            + ([g['sources']] if g.get('sources') else [])
-            for g in groups],
+    groups=[trim([g['id'], g['brands'], g['device'], g['check'], g['note'],
+                  [trim([m, r, c, sc, dm]) for m, r, c, sc, dm in
+                   zip(g['models'], g['released'], per_model(g, 'codes'), per_model(g, 'screens'), per_model(g, 'dims'))],
+                  g.get('sources', []), g.get('tags', [])]) for g in groups],
 )
 with open(os.path.join(OUT, 'catalogue.json'), 'w', encoding='utf-8', newline='\n') as f:
     json.dump(site, f, ensure_ascii=False, separators=(',', ':'))
@@ -40,13 +52,13 @@ def released(r):
     return '' if r.startswith('1900') else r
 
 
-write_csv('fit-groups.csv', ['Group', 'Brand', 'Device', 'Fit check', 'Fits models', 'First released', 'Notes', 'Sources'],
+write_csv('fit-groups.csv', ['Group', 'Brand', 'Device', 'Fit check', 'Fits models', 'First released', 'Notes', 'Fit tags', 'Sources'],
           [[g['id'], g['brand'], g['device'], g['check'], '; '.join(g['models']),
-            min((released(r) for r in g['released'] if released(r)), default=''), g['note'],
+            min((released(r) for r in g['released'] if released(r)), default=''), g['note'], ' '.join(g.get('tags', [])),
             ' '.join(u for _, u in g.get('sources', []))] for g in groups])
-write_csv('models.csv', ['Model', 'Group', 'Brand', 'Device', 'Released', 'Model numbers'],
-          [[m, g['id'], g['brand'], g['device'], released(r), c] for g in groups
-           for m, r, c in zip(g['models'], g['released'], g.get('codes') or [''] * len(g['models']))])
+write_csv('models.csv', ['Model', 'Group', 'Brand', 'Device', 'Released', 'Model numbers', 'Screen', 'Body (mm)'],
+          [[m, g['id'], g['brand'], g['device'], released(r), c, sc, dm.replace(' mm', '')] for g in groups
+           for m, r, c, sc, dm in zip(g['models'], g['released'], per_model(g, 'codes'), per_model(g, 'screens'), per_model(g, 'dims'))])
 write_csv('brands.csv', ['Code', 'Brand', 'Notes'], brands)
 
 print(len(groups), 'groups,', sum(len(g['models']) for g in groups), 'models,', len(brands), 'brands ->', OUT)
