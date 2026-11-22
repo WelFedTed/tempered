@@ -832,7 +832,7 @@ ORDER = [b[0] for b in BRANDS]
 groups.sort(key=lambda g: (ORDER.index(g['code']), g['id']))
 # Fit tags: caveats staff should know before fitting, from notes and specs
 TAGS = [('cover', r'cover screen|Foldable'), ('two-screens', r'^Two screens|two screens'), ('case-friendly', r'case[- ]friendly'),
-        ('curved', r'curved'), ('uv', r'\bUV\b'), ('hybrid', r'hybrid'), ('measure', r'measure')]
+        ('curved', r'curved'), ('uv', r'\bUV\b'), ('measure', r'measure')]  # hybrid glass stays in notes: it describes listings, not the device
 def fit_tags(g):
     t = [k for k, rx in TAGS if re.search(rx, g['note'], re.I)]
     if any(m.get('ufp') for m in g['members']): t.insert(0, 'fingerprint')

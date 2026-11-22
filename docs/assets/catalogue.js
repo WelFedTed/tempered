@@ -8,7 +8,6 @@ window.Tempered = (() => {
     'case-friendly': ['Case-friendly glass', 'CASE-FRIENDLY'],
     curved: ['Curved screen', 'CURVED'],
     uv: ['UV glue glass', 'UV'],
-    hybrid: ['Hybrid glass', 'HYBRID'],
     measure: ['Measure first', 'MEASURE']
   };
   const SITE = 'https://welfedted.github.io/tempered/';
