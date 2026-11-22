@@ -174,10 +174,10 @@ function drawLabel(P, L, W, H) {
   const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
   const q = L.qr && qrFor(L.id);
   if (q) {
-    // QR on the right at the smallest size phones scan reliably: 0.4 mm per module, about 3 dots on a
+    // QR in the top-right corner at the smallest size phones scan reliably: 0.4 mm per module, about 3 dots on a
     // 203 dpi thermal printer (a 29-module code is 11.6 mm). Skipped if the label is too short to fit it.
     const n = q.getModuleCount(), s = n * QR_MODULE;
-    if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, (H - s) / 2, s); W = W - s - Math.max(2 * pad, 3 * QR_MODULE); }
+    if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, pad, s); W = W - s - Math.max(2 * pad, 3 * QR_MODULE); }
   }
   if (L.tags && L.tags.length) {
     const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
