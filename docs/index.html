@@ -46,6 +46,14 @@ main.band{padding-top:36px}
 .resbar .summary{margin:0}
 .sortby{display:flex;align-items:center;gap:10px;font-size:14px;font-weight:700}
 .sortby select{width:auto;min-width:190px;font-weight:700}
+.resctl{display:flex;flex-wrap:wrap;align-items:center;gap:10px 24px}
+.switch{position:relative;display:flex;align-items:center;gap:10px;min-height:44px;font-size:14px;font-weight:700;cursor:pointer}
+.switch input{position:absolute;opacity:0;width:48px;height:28px;margin:0;cursor:pointer}
+.switch .track{position:relative;flex:none;width:48px;height:28px;border:2px solid var(--edge);border-radius:999px;background:var(--field);transition:background .15s}
+.switch .track::after{content:"";position:absolute;top:3px;left:3px;width:18px;height:18px;border-radius:50%;background:var(--edge);transition:transform .15s}
+.switch input:checked+.track{background:var(--acc)}
+.switch input:checked+.track::after{transform:translateX(20px);background:#111}
+.switch input:focus-visible+.track{outline:3px solid var(--acc);outline-offset:2px}
 .results{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:20px}
 .card{background:var(--panel);border:2px solid var(--edge);border-radius:12px;display:flex;flex-direction:column}
 .card header{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;padding:16px 18px 6px}
@@ -112,6 +120,8 @@ table.ranges .code{font-size:15px}
 <div id="brandnote" class="brandnote" hidden></div>
 <div class="resbar" id="resbar" hidden>
 <p id="summary" class="summary" role="status" aria-live="polite"></p>
+<div class="resctl">
+<label class="switch"><input type="checkbox" id="mnos" role="switch" checked><span class="track" aria-hidden="true"></span>Include model numbers</label>
 <label class="sortby">Sort by<select id="sort">
 <option value="">Best match</option>
 <option value="new">Newest release</option>
@@ -119,6 +129,7 @@ table.ranges .code{font-size:15px}
 <option value="models">Most models</option>
 <option value="code">Code (A–Z)</option>
 </select></label>
+</div>
 </div>
 <div id="results" class="results"></div>
 <button type="button" id="more" class="more" hidden>Show more</button>
@@ -155,7 +166,10 @@ table.ranges .code{font-size:15px}
 const $ = id => document.getElementById(id);
 const PAGE = 40;
 const TICK = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg>';
-let CAT, shownCount = PAGE, found = [], last = [];
+let CAT, NAMES, shownCount = PAGE, found = [], last = [];
+// The catalogue with every model number removed, searched when "Include model numbers" is off
+const namesOnly = cat => ({...cat, groups: cat.groups.map(g => ({...g, ccodes: (g.ccodes || []).map(() => [])}))});
+const useCodes = () => $('mnos').checked;
 
 // Sorts after search. Best match keeps the search order; dates use each group's newest or oldest model.
 const byId = (a, b) => a.id.localeCompare(b.id);
@@ -169,6 +183,7 @@ const SORTS = {
 const params = new URLSearchParams(location.search);
 $('q').value = params.get('q') || '';
 if (SORTS[params.get('sort')]) $('sort').value = params.get('sort');
+if (params.get('mno') === '0') $('mnos').checked = false;
 
 function cardHtml(g, terms, q = '') {
   const hits = q ? Tempered.codeMatches(g, q) : [];
@@ -190,6 +205,7 @@ function run() {
   const url = new URL(location.href);
   q ? url.searchParams.set('q', q) : url.searchParams.delete('q');
   $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
+  useCodes() ? url.searchParams.delete('mno') : url.searchParams.set('mno', '0');
   history.replaceState(null, '', url);
   const bn = $('brandnote');
   if (brand && CAT.brandNotes[brand]) { bn.hidden = false; bn.innerHTML = `<b>${Tempered.esc(CAT.brandNames[brand])}</b>: ${Tempered.esc(CAT.brandNotes[brand])}`; } else bn.hidden = true;
@@ -200,7 +216,7 @@ function run() {
     $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true; return;
   }
   $('intro').hidden = true;
-  found = Tempered.search(CAT, q, {dev, brand});
+  found = Tempered.search(useCodes() ? CAT : NAMES, q, {dev, brand});
   sortResults();
 }
 function sortResults() {
@@ -213,7 +229,7 @@ function render() {
   const q = $('q').value.trim(), terms = Tempered.terms(q);
   const n = last.length;
   $('summary').textContent = n ? `${n.toLocaleString()} fit group${n > 1 ? 's' : ''}${q ? ` for “${q}”` : ''}` : 'No match. Try fewer words, or just the model number (e.g. "S24" or "A55").';
-  $('results').innerHTML = last.slice(0, shownCount).map(g => cardHtml(g, terms, q)).join('');
+  $('results').innerHTML = last.slice(0, shownCount).map(g => cardHtml(g, terms, useCodes() ? q : '')).join('');
   $('more').hidden = n <= shownCount;
   $('more').textContent = `Show more (${(n - shownCount).toLocaleString()} left)`;
 }
@@ -222,6 +238,7 @@ let t;
 $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(run, 120); });
 $('brand').addEventListener('change', run);
 $('devs').addEventListener('change', run);
+$('mnos').addEventListener('change', run);
 $('sort').addEventListener('change', () => {
   const url = new URL(location.href);
   $('sort').value ? url.searchParams.set('sort', $('sort').value) : url.searchParams.delete('sort');
@@ -237,7 +254,7 @@ document.addEventListener('click', e => {
 });
 
 Tempered.load().then(cat => {
-  CAT = cat;
+  CAT = cat; NAMES = namesOnly(cat);
   $('loading').hidden = true;
   $('brand').insertAdjacentHTML('beforeend', cat.brandOrder.map(c => `<option value="${c}">${Tempered.esc(cat.brandNames[c])}</option>`).join(''));
   $('stats').innerHTML = [[cat.groups.length, 'fit groups'], [cat.modelCount, 'models'], [cat.brandOrder.length, 'brands'], [cat.groups.filter(g => g.check === 'Confirmed').length, 'confirmed by sellers']]
