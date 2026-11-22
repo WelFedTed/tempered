@@ -48,7 +48,9 @@ window.Tempered = (() => {
   function codeHit(cc, qc) {
     if (qc.length < 3) return 0;
     let hit = 0;
-    for (const [full, base] of cc) {
+    for (const e of cc) {
+      if (!e) continue;  // model numbers switched off ("Include model numbers")
+      const [full, base] = e;
       if (full === qc || base === qc) return 3;
       if (full.startsWith(qc)) hit = 2;
       else if (!hit && full.includes(qc)) hit = 1;
