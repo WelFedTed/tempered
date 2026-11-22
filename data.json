@@ -14912,7 +14912,8 @@
 ],
 "tags": [
 "fingerprint",
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -15419,7 +15420,8 @@
 "162.3 x 79 x 8.6 mm"
 ],
 "tags": [
-"fingerprint"
+"fingerprint",
+"uv"
 ]
 },
 {
@@ -77105,7 +77107,8 @@
 "158.9 x 73.5 x 8.6 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -77285,7 +77288,8 @@
 ],
 "tags": [
 "fingerprint",
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -78115,7 +78119,8 @@
 "164.4 x 74.9 x 7.6 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -79020,7 +79025,8 @@
 "164.1 x 75.3 x 8.9 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -79138,7 +79144,8 @@
 "164.4 x 74.8 x 7.7 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -79559,7 +79566,8 @@
 "164.4 x 74.9 x 7.5 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -79687,7 +79695,8 @@
 "163.7 x 75 x 7.5 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -79769,7 +79778,8 @@
 "6.77in"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -80439,7 +80449,8 @@
 "163.4 x 76.4 x 7.9 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -80604,7 +80615,8 @@
 "6.77in"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -80714,7 +80726,8 @@
 "163.5 x 77 x 7.5 mm"
 ],
 "tags": [
-"curved"
+"curved",
+"uv"
 ]
 },
 {
@@ -81111,6 +81124,9 @@
 "163.7 x 76.2 x 8.3 mm",
 "",
 "163.7 x 76.2 x 8.3 mm"
+],
+"tags": [
+"uv"
 ]
 },
 {
