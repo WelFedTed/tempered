@@ -154,7 +154,7 @@ function wrap(P, text, maxW, pt) {
   return out;
 }
 // QR modules for a group's fit finder link (cached), or null if the QR library didn't load
-const QR = {};
+const QR = {}, QR_MODULE = 0.4;  // mm per module
 function qrFor(id) {
   if (!window.qrcode) return null;
   if (!QR[id]) { const q = qrcode(0, 'L'); q.addData(Tempered.SITE + '?q=' + id); q.make(); QR[id] = q; }
@@ -174,9 +174,10 @@ function drawLabel(P, L, W, H) {
   const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
   const q = L.qr && qrFor(L.id);
   if (q) {
-    // QR on the right, at least 0.45 mm per module so thermal printers can resolve it
-    const s = Math.min(H - 2 * pad, W * 0.36);
-    if (s / q.getModuleCount() >= 0.45) { drawQr(P, q, W - pad - s, (H - s) / 2, s); W = W - s - 2 * pad; }
+    // QR on the right at the smallest size phones scan reliably: 0.4 mm per module, about 3 dots on a
+    // 203 dpi thermal printer (a 29-module code is 11.6 mm). Skipped if the label is too short to fit it.
+    const n = q.getModuleCount(), s = n * QR_MODULE;
+    if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, (H - s) / 2, s); W = W - s - Math.max(2 * pad, 3 * QR_MODULE); }
   }
   if (L.tags && L.tags.length) {
     const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
@@ -189,18 +190,21 @@ function drawBody(P, L, W, H, pad) {
   const code = L.id + '-' + L.type, tn = TYPE[L.type];
   const bPt = Math.max(5, Math.min(8, H * 0.28));
   const bh = bPt * PT * 0.72 + 1.8, bw = P.w(tn, bPt, true) + 2.4;
-  let idPt = 60;
-  while (idPt > 6 && (P.w(code, idPt, true) > W - 2 * pad - bw - 1.5 || idPt * PT * 0.72 > (H - 2 * pad) * 0.42)) idPt -= 0.5;
+  // Code and glass badge side by side; if the code would drop below 8 pt that way, stack the badge under it
+  const fit = room => { let p = 60; while (p > 6 && (P.w(code, p, true) > room || p * PT * 0.72 > (H - 2 * pad) * 0.42)) p -= 0.5; return p; };
+  let idPt = fit(W - 2 * pad - bw - 1.5);
+  const stacked = idPt < 8;
+  if (stacked) idPt = Math.min(fit(W - 2 * pad), Math.max(6, (H - 2 * pad) * 0.3 / (PT * 0.72)));
   const cap = idPt * PT * 0.72;
   P.text(code, pad, pad + cap, idPt, true, '#000');
-  const bx = W - pad - bw, by = pad + Math.max(0, (cap - bh) / 2);
+  const bx = stacked ? pad : W - pad - bw, by = stacked ? pad + cap + 0.8 : pad + Math.max(0, (cap - bh) / 2);
   if (L.type === 'P') { P.rect(bx, by, bw, bh, '#000', null); P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#fff'); }
   else {
     P.rect(bx, by, bw, bh, null, 0.3);
     if (L.type === 'M') P.rect(bx + 0.6, by + 0.6, bw - 1.2, bh - 1.2, null, 0.25);
     P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#000');
   }
-  const top = pad + cap + Math.max(1, H * 0.06);
+  const top = (stacked ? by + bh : pad + cap) + Math.max(1, H * 0.06);
   const bottom = H - pad;
   const text = shorten(L.models);
   let pt = Math.min(14, Math.max(7, H * 0.4)), lines, lh;
