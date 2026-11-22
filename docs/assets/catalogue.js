@@ -32,7 +32,8 @@ window.Tempered = (() => {
       return {id, brands, dev, check, note, models, brandName, hay, hayC: hay.replace(/ /g, ''),
         mnorm: models.map(m => norm(m[0])), earliest: dates[0] || '', latest: dates[dates.length - 1] || ''};
     });
-    const brandOrder = d.brands.map(b => b[0]).filter(c => used.has(c));
+    const brandOrder = d.brands.map(b => b[0]).filter(c => used.has(c))
+      .sort((a, b) => brandNames[a].localeCompare(brandNames[b], 'en', {sensitivity: 'base'}));
     return {built: d.built, groups, brandNames, brandNotes, brandOrder, modelCount, byId: Object.fromEntries(groups.map(g => [g.id, g]))};
   }
 
