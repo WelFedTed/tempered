@@ -5,62 +5,73 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Label maker · Tempered</title>
 <meta name="description" content="Print divider tabs and pack stickers for screen protector fit groups, for thermal label printers or A4 sheets.">
+<meta name="theme-color" content="#111111">
 <link rel="icon" href="favicon.ico" sizes="48x48">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800;900&family=JetBrains+Mono:wght@500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/site.css">
 <style>
-header.band{padding-bottom:0}
-.wrap{display:grid;grid-template-columns:minmax(0,350px) minmax(0,1fr);gap:24px}
-@media(max-width:820px){.wrap{grid-template-columns:minmax(0,1fr)}.preview{order:-1}}
-.controls{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:grid;gap:16px;align-content:start}
-fieldset{border:0;margin:0;padding:0;display:grid;gap:8px}
-legend{font-weight:600;font-size:14px;margin-bottom:6px;padding:0}
-.seg{display:flex;flex-wrap:wrap;gap:6px}
-.seg label{flex:1 1 auto;position:relative}
+header.band{padding-bottom:28px}
+.wrap{display:grid;grid-template-columns:minmax(0,380px) minmax(0,1fr);gap:28px;align-items:start}
+@media(max-width:860px){.wrap{grid-template-columns:minmax(0,1fr)}.preview{order:-1}.sheet{min-height:120px;padding:16px}}
+.controls{display:grid;align-content:start}
+.controls>*{padding:18px 20px}
+fieldset{border:0;margin:0;display:grid;gap:10px;border-bottom:2px dashed var(--dash)}
+legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+.seg{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);border:2px solid var(--edge);border-radius:8px;overflow:hidden}
+.seg label{position:relative}
+.seg label+label{border-left:2px solid var(--edge)}
 .seg input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
-.seg span{display:block;text-align:center;padding:10px 12px;border:1px solid var(--line);border-radius:8px;font-size:15px;min-height:44px;cursor:pointer}
-.seg input:checked+span{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-.seg input:focus-visible+span{outline:3px solid var(--acc);outline-offset:2px}
+.seg span{display:flex;align-items:center;justify-content:center;text-align:center;padding:6px 10px;font-size:15px;font-weight:700;min-height:46px;cursor:pointer}
+.seg input:checked+span{background:var(--edge);color:var(--bg);font-weight:800}
+.seg input:focus-visible+span{outline:3px solid var(--acc);outline-offset:-5px}
 .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .row>*{flex:1 1 120px}
-.chk{display:flex;gap:8px;align-items:center;min-height:36px;font-size:15px}
-.chk input{width:20px;height:20px;accent-color:var(--acc);flex:none}
-button.go{width:100%}
-.list{max-height:320px;overflow:auto;border:1px solid var(--line);border-radius:8px;padding:4px 10px;background:var(--field)}
-.list .chk{font-size:14px;min-height:32px}
-.list b{width:72px;flex:none;font-family:ui-monospace,"Cascadia Mono",Consolas,monospace}
-.list small{color:var(--mute);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.status{font-size:14px;color:var(--accInk);min-height:1.5em;margin:0}
-.preview{display:grid;gap:12px;align-content:start}
-.count{font-weight:600;margin:0}
-.sheet{display:flex;flex-wrap:wrap;gap:14px;padding:18px;border-radius:12px;background:color-mix(in srgb,var(--ink) 12%,var(--bg));min-height:240px;align-content:flex-start}
-.sheet canvas{background:#fff;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.25),0 4px 10px rgba(0,0,0,.12);max-width:100%;height:auto}
-.selbar{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:14px}
-.selbar button{min-height:32px;font-size:13px;padding:0 10px}
+.chk{display:flex;gap:10px;align-items:center;min-height:40px;font-size:15px;font-weight:600}
+.chk input{width:20px;height:20px;accent-color:var(--edge);flex:none;margin:0}
+.types .chk{flex:0 1 auto;border:2px solid var(--edge);border-radius:8px;padding:0 14px;min-height:46px;font-weight:700}
+.list{max-height:340px;overflow:auto;border:2px solid var(--edge);border-radius:8px;background:var(--field)}
+.list .chk{font-size:14px;min-height:44px;padding:6px 12px;border-bottom:1px solid var(--line);align-items:flex-start}
+.list .chk input{margin-top:2px}
+.list b{width:84px;flex:none;font:800 14px var(--mono)}
+.list small{color:var(--mute);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;padding-top:1px}
+.list .note{padding:10px 12px}
+.selbar{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:15px;font-weight:700}
+.selbar button{min-height:40px;font-size:14px;padding:0 12px}
+.finish{display:grid;gap:12px}
+.status{font-size:14px;color:var(--accInk);min-height:1.5em;margin:0;font-weight:600}
+.preview{display:grid;gap:14px;align-content:start}
+.preview .head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 16px}
+.preview h2{margin:0}
+.count{font:700 14px var(--mono);margin:0}
+.sheet{display:flex;flex-wrap:wrap;gap:16px;padding:24px;border-radius:14px;border:2px solid var(--edge);background:var(--sheet);min-height:300px;align-content:flex-start}
+.sheet canvas{background:#fff;border-radius:6px;box-shadow:0 1px 0 rgba(0,0,0,.25),0 4px 10px rgba(0,0,0,.12);max-width:100%;height:auto}
+.keys{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:14px;color:var(--mute)}
+.keys span{display:inline-flex;align-items:center;gap:8px}
+.tip{font-size:14px;color:var(--mute);margin:0}
+.tip .code{font-size:13px;color:var(--ink);background:var(--panel);border:1px solid var(--dash);border-radius:4px;padding:1px 6px}
 </style>
 </head>
 <body>
 <div class="top"><div class="inner">
-<a class="brand" href="./"><i aria-hidden="true"></i>Tempered</a>
+<a class="brand" href="./"><svg aria-hidden="true" viewBox="0 0 40 52"><path d="M9 2H25L38 15V43A7 7 0 0 1 31 50H9A7 7 0 0 1 2 43V9A7 7 0 0 1 9 2Z" fill="currentColor"/><path d="M25 2L38 15H27A2 2 0 0 1 25 13Z" fill="#e8590c"/></svg>Tempered</a>
 <nav aria-label="Main"><a href="./">Fit finder</a><a href="labels.html" aria-current="page">Label maker</a><a href="storage.html">Storage system</a></nav>
 </div></div>
 
-<header class="band"><div class="inner">
-<h1>Label maker</h1>
-<p class="lede">Print divider tabs and pack stickers for any fit group. Pick a size, choose the groups and glass types you carry, then download a PDF for your label printer or an A4 sheet.</p>
+<header class="band"><div class="inner hero">
+<p class="eyebrow">Label maker</p>
+<h1>Print the tabs.<br>Sticker the packs.</h1>
+<p class="lede">Pick a label, choose the groups and glass types you carry, then download a PDF for your thermal printer or an A4 sheet.</p>
 </div></header>
 
-<div class="band"><div class="inner wrap">
-<form class="controls" id="f" autocomplete="off" onsubmit="return false">
-<fieldset><legend>Label</legend>
+<div class="band" style="padding-top:0"><div class="inner wrap">
+<form class="controls panel" id="f" autocomplete="off" onsubmit="return false">
+<fieldset><legend>1 · Label</legend>
 <div class="seg"><label><input type="radio" name="kind" value="div" checked><span>Divider tab</span></label><label><input type="radio" name="kind" value="pack"><span>Pack sticker</span></label></div>
-</fieldset>
-<fieldset><legend>Size (mm)</legend>
 <select id="size" aria-label="Label size">
 <option value="50x25">50 × 25 thermal (divider default)</option>
 <option value="50x30">50 × 30 thermal</option>
@@ -71,16 +82,10 @@ button.go{width:100%}
 </select>
 <div class="row" id="customRow" hidden><input type="number" id="cw" min="15" max="150" step="1" value="50" aria-label="Width mm"><input type="number" id="ch" min="10" max="100" step="1" value="25" aria-label="Height mm"></div>
 </fieldset>
-<fieldset><legend>Output</legend>
-<div class="seg"><label><input type="radio" name="layout" value="roll" checked><span>Label printer</span></label><label><input type="radio" name="layout" value="a4"><span>A4 sheet</span></label></div>
+<fieldset><legend>2 · Glass types you carry</legend>
+<div class="row types"><label class="chk"><input type="checkbox" name="t" value="C" checked><span class="code">C</span>Clear</label><label class="chk"><input type="checkbox" name="t" value="P"><span class="code">P</span>Privacy</label><label class="chk"><input type="checkbox" name="t" value="M"><span class="code">M</span>Matte</label></div>
 </fieldset>
-<fieldset><legend>Glass types</legend>
-<div class="row"><label class="chk"><input type="checkbox" name="t" value="C" checked>Clear</label><label class="chk"><input type="checkbox" name="t" value="P">Privacy</label><label class="chk"><input type="checkbox" name="t" value="M">Matte</label></div>
-</fieldset>
-<fieldset><legend>Copies of each label</legend>
-<input type="number" id="copies" min="1" max="200" step="1" value="1" aria-label="Copies of each label">
-</fieldset>
-<fieldset><legend>Groups</legend>
+<fieldset><legend>3 · Groups</legend>
 <div class="row"><select id="dev" aria-label="Device"><option value="">All devices</option><option value="Phone">Phones (1000s)</option><option value="Tablet">Tablets (2000s)</option><option value="Wearable">Wearables (3000s)</option><option value="Handheld">Handhelds (4000s)</option><option value="Misc">Misc (0000s)</option></select><select id="brand" aria-label="Brand"><option value="">All brands</option></select></div>
 <input type="search" id="q" placeholder="Search a model or code" aria-label="Search groups">
 <label class="chk"><input type="checkbox" id="onlySel">Show selected only</label>
@@ -88,13 +93,26 @@ button.go{width:100%}
 <div class="list" id="list"><p class="note">Loading the catalogue…</p></div>
 <div class="selbar"><span id="selCount">0 groups selected</span><button type="button" id="clearSel">Clear all</button></div>
 </fieldset>
+<div class="finish">
+<div style="display:grid;gap:6px"><span id="printOn" style="font-size:14px;font-weight:600">Print on</span>
+<div class="seg" role="radiogroup" aria-labelledby="printOn"><label><input type="radio" name="layout" value="roll" checked><span>Label printer</span></label><label><input type="radio" name="layout" value="a4"><span>A4 sheet</span></label></div>
+</div>
+<label style="display:grid;gap:6px;font-size:14px;font-weight:600">Copies of each label
+<input type="number" id="copies" min="1" max="200" step="1" value="1"></label>
 <button type="button" class="go" id="dl" disabled>Download PDF</button>
 <p class="status" id="status" role="status"></p>
+</div>
 </form>
 <section class="preview" aria-live="polite">
-<p class="count" id="count"></p>
+<div class="head"><h2>Preview</h2><p class="count" id="count"></p></div>
 <div class="sheet" id="sheet"></div>
-<p class="note">Clear = outlined badge · Privacy = solid black badge · Matte = double outline. All labels print black on white, so they work on thermal printers. Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1476</span>.</p>
+<div class="keys">
+<span><i class="gk" aria-hidden="true">C</i>Clear: outlined badge</span>
+<span><i class="gk p" aria-hidden="true">P</i>Privacy: solid black badge</span>
+<span><i class="gk m" aria-hidden="true">M</i>Matte: double outline</span>
+<span>Black on white, so they print on any thermal printer.</span>
+</div>
+<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1476</span></p>
 </section>
 </div></div>
 
