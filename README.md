@@ -75,6 +75,7 @@ python build2/export.py    # data.json -> docs/data/ (site JSON and CSVs)
 - To preview it locally, run `python -m http.server 8765 --directory docs` and open http://localhost:8765.
 - [`docs/assets/catalogue.js`](docs/assets/catalogue.js) holds the shared loading and search code.
 - The label maker uses [jsPDF](https://github.com/parallax/jsPDF) from cdnjs.
+- `docs/favicon.svg` is the site icon. `python build2/make_icons.py` (needs Pillow) redraws the PNG and ICO versions from the same shape.
 
 ## Dividers
 
