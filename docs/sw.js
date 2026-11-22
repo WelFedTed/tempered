@@ -1,7 +1,7 @@
 // Tempered offline support.
 // Pages, scripts and the catalogue are served network-first and fall back to the cache,
 // so the site works without internet once it has been opened, and updates show as soon as you're online.
-const CACHE = 'tempered-v1';
+const CACHE = 'tempered-v2';
 const CORE = [
   './', 'index.html', 'labels.html', 'storage.html', 'changes.html',
   'assets/site.css', 'assets/catalogue.js', 'data/catalogue.json', 'data/changelog.json',
@@ -32,6 +32,10 @@ self.addEventListener('fetch', e => {
       caches.open(CACHE).then(c => c.put(req, copy));
     }
     return res;
-  }).catch(() => caches.match(req, {ignoreSearch: own && url.pathname.endsWith('.html') || url.pathname.endsWith('/'))
-    .then(hit => hit || (req.mode === 'navigate' ? caches.match('index.html') : Response.error()))));
+  }).catch(() => {
+    // Offline: pages match without their ?q= search, so a search link still opens the cached page
+    const page = own && (url.pathname.endsWith('.html') || url.pathname.endsWith('/'));
+    return caches.match(req, {ignoreSearch: page})
+      .then(hit => hit || (req.mode === 'navigate' ? caches.match('index.html') : Response.error()));
+  }));
 });
