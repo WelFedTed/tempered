@@ -84,6 +84,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 </fieldset>
 <fieldset><legend>Extras</legend>
 <label class="chk"><input type="checkbox" id="qr" checked>QR code to the fit finder</label>
+<label class="chk"><input type="checkbox" id="bc" checked>Barcode of the label code (Code 128)</label>
 <label class="chk"><input type="checkbox" id="tagsOn" checked>Fit notes (FP-SAFE, COVER, MEASURE…)</label>
 </fieldset>
 <fieldset><legend>2 · Glass types you carry</legend>
@@ -126,6 +127,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jsbarcode/3.11.6/JsBarcode.all.min.js"></script>
 <script src="assets/catalogue.js"></script>
 <script>
 {
@@ -170,8 +172,34 @@ function drawQr(P, q, x, y, s) {
     c = e;
   }
 }
+// Code 128 bars for a label code as a string of 1s (bar) and 0s (space), or null if the library didn't load
+const BC = {};
+function barsFor(text) {
+  if (!window.JsBarcode) return null;
+  if (!(text in BC)) { const o = {}; JsBarcode(o, text, {format: 'CODE128'}); BC[text] = o.encodings.map(e => e.data).join(''); }
+  return BC[text];
+}
+function drawBars(P, bits, x, y, X, h) {
+  for (let i = 0; i < bits.length; i++) {
+    if (bits[i] !== '1') continue;
+    let e = i; while (e + 1 < bits.length && bits[e + 1] === '1') e++;
+    P.rect(x + i * X, y, (e - i + 1) * X, h, '#000', null);
+    i = e;
+  }
+}
 function drawLabel(P, L, W, H) {
   const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
+  const bits = L.barcode && barsFor(L.id + '-' + L.type);
+  if (bits) {
+    // Barcode along the bottom: bars 0.25 mm (2 dots at 203 dpi) or wider, with at least 5 bars' width of
+    // clear space each side for scanners. Skipped if the label is too narrow for that.
+    const X = Math.min(0.38, W / (bits.length + 10));
+    if (X >= 0.25) {
+      const h = Math.max(4, Math.min(7, H * 0.2));
+      drawBars(P, bits, (W - bits.length * X) / 2, H - pad - h, X, h);
+      H = H - h - 1;
+    }
+  }
   const q = L.qr && qrFor(L.id);
   if (q) {
     // QR in the top-right corner at the smallest size phones scan reliably: 0.4 mm per module, about 3 dots on a
@@ -251,7 +279,7 @@ function labels() {
   for (const g of groups) {
     if (!sel.has(g.id)) continue;
     const tags = $('tagsOn').checked ? g.tags.map(k => (Tempered.TAGS[k] || [, k.toUpperCase()])[1]) : [];
-    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0]), qr: $('qr').checked, tags});
+    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0]), qr: $('qr').checked, barcode: $('bc').checked, tags});
   }
   return out;
 }
@@ -344,11 +372,11 @@ $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(renderL
 $('size').addEventListener('change', () => { $('customRow').hidden = $('size').value !== 'custom'; renderPreview(); });
 document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; renderPreview(); }));
 ['cw', 'ch', 'copies'].forEach(id => $(id).addEventListener('input', renderPreview));
-['qr', 'tagsOn'].forEach(id => $(id).addEventListener('change', renderPreview));
+['qr', 'bc', 'tagsOn'].forEach(id => $(id).addEventListener('change', renderPreview));
 document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.addEventListener('change', renderPreview));
 window.addEventListener('hashchange', () => CAT && selectFromHash());
-function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, tags: $('tagsOn').checked})); } catch (e) {} }
-try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
 
 Tempered.load().then(cat => {
   CAT = cat; groups = cat.groups;

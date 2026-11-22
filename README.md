@@ -10,7 +10,7 @@
 **Site:** https://welfedted.github.io/tempered/
 
 - **Fit finder:** type a model or its model number (e.g. `A2221`, `SM-S938B`, `iphone a222`) and get its fit group code plus every other model that takes the same glass. Results show screen size and body dimensions for measuring, fit tags (ultrasonic fingerprint, cover screen only, two screens, measure first…), seller sources, and a **Report a fit** link that opens a pre-filled GitHub issue. Filter by device type, brand and fit tag, and sort the results.
-- **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets, with a QR code that opens the group in the fit finder and the fit tags in short form.
+- **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets, with a QR code in the top-right corner that opens the group in the fit finder, a Code 128 barcode of the label code (e.g. `APP-1014-C`) along the bottom, and the fit tags in short form.
 - **Changes:** a changelog of every update to the fit groups (merged, split, new, renumbered, confirmed), with a button to print every label an update changed.
 - **Storage system:** a drawer layout and 3D-printable label dividers (STL and OpenSCAD).
 - **Works offline:** once opened, the site and catalogue are cached, so lookups still work without internet.
@@ -98,7 +98,7 @@ python build2/changelog.py "What changed" --summary "One or two sentences"   # a
 - The site is static, in [`docs/`](docs), served by GitHub Pages from `main`.
 - To preview it locally, run `python -m http.server 8765 --directory docs` and open http://localhost:8765.
 - [`docs/assets/catalogue.js`](docs/assets/catalogue.js) holds the shared loading and search code.
-- The label maker uses [jsPDF](https://github.com/parallax/jsPDF) and [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) from cdnjs.
+- The label maker uses [jsPDF](https://github.com/parallax/jsPDF) and [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) and [JsBarcode](https://github.com/lindell/JsBarcode) from cdnjs.
 - [`docs/sw.js`](docs/sw.js) is the service worker for offline use. Bump its `CACHE` name when you change which files it pre-caches.
 - The look is "label tape": bench paper (`#F4F2EC`), ink (`#111111`) and one signal orange (`#E8590C`), with headings in [Archivo](https://fonts.google.com/specimen/Archivo) at weight 900 and codes in [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono), both from Google Fonts.
 - The mark is a screen with its protector peeling back at the corner. `docs/favicon.svg` is the site icon, and `python build2/make_icons.py` (needs Pillow) redraws the PNG and ICO versions from the same shape. The README logo is `docs/media/logo-light.png` and `logo-dark.png`.
