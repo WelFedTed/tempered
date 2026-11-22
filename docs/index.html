@@ -172,7 +172,8 @@ if (SORTS[params.get('sort')]) $('sort').value = params.get('sort');
 
 function cardHtml(g, terms, q = '') {
   const hits = q ? Tempered.codeMatches(g, q) : [];
-  const ms = g.models.map(([m, r], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. <mark>${hits[i].map(Tempered.esc).join(', ')}</mark></small>` : ''}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
+  const mno = h => h.slice(0, 4).map(c => Tempered.highlight(c, terms)).join(', ') + (h.length > 4 ? ` +${h.length - 4} more` : '');
+  const ms = g.models.map(([m, r], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. ${mno(hits[i])}</small>` : ''}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
   const src = g.sources.length ? `<p class="cnote srcs">Sources: ${g.sources.map(([n, u]) => /^https?:\/\//.test(u) ? `<a href="${Tempered.esc(u)}" rel="nofollow noopener" target="_blank">${Tempered.esc(n)}</a>` : Tempered.esc(n)).join(', ')}</p>` : '';
   const note = (g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '') + src;
   return `<article class="card" id="${g.id}">

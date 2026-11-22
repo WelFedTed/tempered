@@ -7,6 +7,8 @@ window.Tempered = (() => {
   const norm = s => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\+/g, ' plus ').replace(/[^a-z0-9]+/g, ' ').trim();
   const terms = q => norm(q).split(' ').filter(Boolean);
   const compact = s => norm(s).replace(/ /g, '');
+  // Model numbers compare without spaces or punctuation, except commas (so iPhone1,2 is not iPhone12)
+  const codeKey = s => String(s).toLowerCase().replace(/[^a-z0-9,]/g, '');
   const month = r => { const [y, m] = r.split('-'); return m ? `${MON[+m - 1]} ${y}` : y; };
   const linkCodes = html => html.replace(/\b([A-Z]{3}-\d{4})\b/g, '<a href="./?q=$1" data-code="$1">$1</a>');
 
@@ -32,61 +34,73 @@ window.Tempered = (() => {
       const dates = models.map(m => m[1]).filter(r => r && !r.startsWith('1900')).sort();
       // Model numbers (e.g. A2221, SM-S938B/DS, iPhone12,1): compact full form and the part before / or (
       const codes = models.map(m => (m[2] || '').split(', ').filter(Boolean));
-      const ccodes = codes.map(list => list.map(c => [compact(c), compact(c.split(/[\/(]/)[0])]));
+      const ccodes = codes.map(list => list.map(c => [codeKey(c), codeKey(c.split(/[\/(]/)[0])]));
       return {id, brands, dev, check, note, models, sources, brandName, hay, hayC: hay.replace(/ /g, ''), codes, ccodes,
-        mnorm: models.map(m => norm(m[0])), earliest: dates[0] || '', latest: dates[dates.length - 1] || ''};
+        mnorm: models.map(m => norm(m[0])), mcomp: models.map(m => compact(m[0])), earliest: dates[0] || '', latest: dates[dates.length - 1] || ''};
     });
     const brandOrder = d.brands.map(b => b[0]).filter(c => used.has(c))
       .sort((a, b) => brandNames[a].localeCompare(brandNames[b], 'en', {sensitivity: 'base'}));
     return {built: d.built, groups, brandNames, brandNotes, brandOrder, modelCount, byId: Object.fromEntries(groups.map(g => [g.id, g]))};
   }
 
-  // 2 = the query is a model number of this model, 1 = it starts a model number (6+ characters), 0 = no match
+  // How the query matches one model's numbers, ignoring spaces and punctuation other than commas:
+  // 3 = a whole model number, 2 = the start of one, 1 = part of one (3+ characters), 0 = no match
   function codeHit(cc, qc) {
-    if (qc.length < 4) return 0;
+    if (qc.length < 3) return 0;
     let hit = 0;
     for (const [full, base] of cc) {
-      if (full === qc || base === qc) return 2;
-      if (qc.length >= 6 && full.startsWith(qc)) hit = 1;
+      if (full === qc || base === qc) return 3;
+      if (full.startsWith(qc)) hit = 2;
+      else if (!hit && full.includes(qc)) hit = 1;
     }
     return hit;
   }
+  // Partial model numbers rank below name matches, so "A22" finds the Galaxy A22 before the A22xx iPhones
+  const CODE_SCORE = [0, 25, 45, 950];
   // The model numbers of each model in g that match the query, for display
   function codeMatches(g, q) {
-    const qc = terms(q).join('');
-    return g.codes.map((list, i) => codeHit(g.ccodes[i], qc) ? list.filter((c, j) => codeHit([g.ccodes[i][j]], qc)) : []);
+    const qc = codeKey(q), ts = terms(q), tc = ts.join('');
+    return g.codes.map((list, i) => {
+      const hit = codeHit(g.ccodes[i], qc);
+      // Skip partial number matches on a model whose name already matches: they explain nothing
+      if (!hit || (hit < 3 && (ts.every(t => g.mnorm[i].includes(t)) || g.mcomp[i].includes(tc)))) return [];
+      return list.filter((c, j) => codeHit([g.ccodes[i][j]], qc));
+    });
   }
 
-  function score(g, qn, ts) {
+  function score(g, qn, ts, qk) {
     if (!ts.length) return 1;
     const qc = ts.join('');
-    const ch = Math.max(0, ...g.ccodes.map(cc => codeHit(cc, qc)));
-    if (ch === 2) return 950;
+    const ch = Math.max(0, ...g.ccodes.map(cc => codeHit(cc, qk)));
+    if (ch === 3) return CODE_SCORE[3];
     const all = ts.every(t => g.hay.includes(t) || g.hayC.includes(t));
-    if (!all && !g.hayC.includes(qc)) return ch ? 70 : 0;
+    if (!all && !g.hayC.includes(qc)) return CODE_SCORE[ch];
     if (norm(g.id) === qn) return 1000;
     let best = 1;
     const starts = ts.map(t => new RegExp('(^| )' + t));
-    for (const mn of g.mnorm) {
+    g.mnorm.forEach((mn, i) => {
       let s = 0;
+      const mc = g.mcomp[i];
       if (mn === qn) s = 100;
+      else if (mc === qc) s = 90;
       else if ((' ' + mn + ' ').includes(' ' + qn + ' ')) s = 60 - Math.min(20, (mn.length - qn.length) / 3);
       else if (starts.every(r => r.test(mn))) s = 40;
+      else if (mc.startsWith(qc)) s = 38;
       else if (ts.every(t => mn.includes(t))) s = 20;
       if (s > best) best = s;
-    }
-    if (ch && best < 70) best = 70;
+    });
+    best = Math.max(best, CODE_SCORE[ch]);
     // Universal glass is the fallback: rank a model's own group above it.
     return g.brands[0] === 'UNI' && best > 5 ? best - 5 : best;
   }
 
   function search(cat, q, {dev = '', brand = ''} = {}) {
-    const ts = terms(q), qn = ts.join(' ');
+    const ts = terms(q), qn = ts.join(' '), qk = codeKey(q);
     const out = [];
     for (const g of cat.groups) {
       if (dev && g.dev !== dev) continue;
       if (brand && !g.brands.includes(brand)) continue;
-      const s = score(g, qn, ts);
+      const s = score(g, qn, ts, qk);
       if (s) out.push([s, g]);
     }
     out.sort((a, b) => b[0] - a[0] || b[1].latest.localeCompare(a[1].latest) || a[1].id.localeCompare(b[1].id));
