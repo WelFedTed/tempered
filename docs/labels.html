@@ -243,7 +243,9 @@ function drawLabel(P, L, W, H) {
 function drawBody(P, L, W, H, pad) {
   const code = L.id + '-' + L.type, tn = TYPE[L.type];
   const bPt = Math.max(5, Math.min(8, H * 0.28));
-  const bh = bPt * PT * 0.72 + 1.8, bw = P.w(tn, bPt, true) + 2.4;
+  // Glass badge: the Matte double outline needs extra room inside so the text clears the inner line
+  const bIn = L.type === 'M' ? 0.9 : 0, bTw = P.w(tn, bPt, true), bCap = bPt * PT * 0.72;
+  const bh = bCap + 1.8 + 2 * bIn, bw = bTw + 2.4 + 2 * bIn;
   // Code and glass badge side by side; if the code would drop below 8 pt that way, stack the badge under it
   const fit = room => { let p = 60; while (p > 6 && (P.w(code, p, true) > room || p * PT * 0.72 > (H - 2 * pad) * 0.42)) p -= 0.5; return p; };
   let idPt = fit(W - 2 * pad - bw - 1.5);
@@ -252,11 +254,13 @@ function drawBody(P, L, W, H, pad) {
   const cap = idPt * PT * 0.72;
   P.text(code, pad, pad + cap, idPt, true, '#000');
   const bx = stacked ? pad : W - pad - bw, by = stacked ? pad + cap + 0.8 : pad + Math.max(0, (cap - bh) / 2);
-  if (L.type === 'P') { P.rect(bx, by, bw, bh, '#000', null); P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#fff'); }
+  // Text centred in the badge: horizontally by its width, vertically by its cap height
+  const tx = bx + (bw - bTw) / 2, ty = by + (bh + bCap) / 2;
+  if (L.type === 'P') { P.rect(bx, by, bw, bh, '#000', null); P.text(tn, tx, ty, bPt, true, '#fff'); }
   else {
     P.rect(bx, by, bw, bh, null, 0.3);
     if (L.type === 'M') P.rect(bx + 0.6, by + 0.6, bw - 1.2, bh - 1.2, null, 0.25);
-    P.text(tn, bx + 1.2, by + bh - 0.9, bPt, true, '#000');
+    P.text(tn, tx, ty, bPt, true, '#000');
   }
   const top = (stacked ? by + bh : pad + cap) + Math.max(1, H * 0.06);
   const bottom = H - pad;
