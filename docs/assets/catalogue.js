@@ -57,24 +57,44 @@ window.Tempered = (() => {
   }
   // Partial model numbers rank below name matches, so "A22" finds the Galaxy A22 before the A22xx iPhones
   const CODE_SCORE = [0, 25, 45, 950];
+  // Words of a search as typed ("samsung sm-S92" -> samsung, sm-S92), for searches that mix a name and a model number
+  const words = q => String(q).trim().split(/\s+/).map(w => ({ts: terms(w), key: codeKey(w)})).filter(w => w.ts.length);
+  const nameOk = (g, w) => w.ts.every(t => g.hay.includes(t) || g.hayC.includes(t));
+  // Mixed search: every word matches the name/brand or a model number, and at least one is a model number
+  function mixedScore(g, ws) {
+    if (ws.length < 2) return 0;
+    let worst = 3;
+    for (const w of ws) {
+      if (nameOk(g, w)) continue;
+      const h = Math.max(0, ...g.ccodes.map(cc => codeHit(cc, w.key)));
+      if (!h) return 0;
+      worst = Math.min(worst, h);
+    }
+    return [0, 25, 45, 900][worst];
+  }
   // The model numbers of each model in g that match the query, for display
   function codeMatches(g, q) {
     const qc = codeKey(q), ts = terms(q), tc = ts.join('');
+    const keys = words(q).filter(w => !nameOk(g, w)).map(w => w.key).filter(k => k.length >= 3);
+    // When the group already matches by name ("iphone 11"), only an exact model number is worth showing
+    const named = ts.every(t => g.hay.includes(t) || g.hayC.includes(t));
     return g.codes.map((list, i) => {
       const hit = codeHit(g.ccodes[i], qc);
+      if (named && hit < 3) return [];
       // Skip partial number matches on a model whose name already matches: they explain nothing
-      if (!hit || (hit < 3 && (ts.every(t => g.mnorm[i].includes(t)) || g.mcomp[i].includes(tc)))) return [];
-      return list.filter((c, j) => codeHit([g.ccodes[i][j]], qc));
+      if (hit && !(hit < 3 && (ts.every(t => g.mnorm[i].includes(t)) || g.mcomp[i].includes(tc))))
+        return list.filter((c, j) => codeHit([g.ccodes[i][j]], qc));
+      return keys.length ? list.filter((c, j) => keys.some(k => codeHit([g.ccodes[i][j]], k))) : [];
     });
   }
 
-  function score(g, qn, ts, qk) {
+  function score(g, qn, ts, qk, ws) {
     if (!ts.length) return 1;
     const qc = ts.join('');
     const ch = Math.max(0, ...g.ccodes.map(cc => codeHit(cc, qk)));
     if (ch === 3) return CODE_SCORE[3];
     const all = ts.every(t => g.hay.includes(t) || g.hayC.includes(t));
-    if (!all && !g.hayC.includes(qc)) return CODE_SCORE[ch];
+    if (!all && !g.hayC.includes(qc)) return CODE_SCORE[ch] || mixedScore(g, ws);
     if (norm(g.id) === qn) return 1000;
     let best = 1;
     const starts = ts.map(t => new RegExp('(^| )' + t));
@@ -95,12 +115,12 @@ window.Tempered = (() => {
   }
 
   function search(cat, q, {dev = '', brand = ''} = {}) {
-    const ts = terms(q), qn = ts.join(' '), qk = codeKey(q);
+    const ts = terms(q), qn = ts.join(' '), qk = codeKey(q), ws = words(q);
     const out = [];
     for (const g of cat.groups) {
       if (dev && g.dev !== dev) continue;
       if (brand && !g.brands.includes(brand)) continue;
-      const s = score(g, qn, ts, qk);
+      const s = score(g, qn, ts, qk, ws);
       if (s) out.push([s, g]);
     }
     out.sort((a, b) => b[0] - a[0] || b[1].latest.localeCompare(a[1].latest) || a[1].id.localeCompare(b[1].id));
