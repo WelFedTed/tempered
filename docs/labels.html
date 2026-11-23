@@ -45,7 +45,9 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 .tip dl{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;margin:8px 0 0}
 .tip dt{font:800 12px/1.6 var(--mono)}
 .tip dd{margin:0}
-.price{margin:-4px 0 4px 30px;width:calc(100% - 30px);max-width:220px;font:700 18px var(--mono)}
+.xrow .chk:has(#priceOn){flex:0 0 auto}
+.xrow input.price{flex:0 1 130px;width:130px;min-width:0;min-height:40px;padding:6px 10px;font:700 16px var(--mono)}
+.xrow .info{margin-left:auto}
 .types .chk{flex:0 1 auto;border:2px solid var(--edge);border-radius:8px;padding:0 14px;min-height:46px;font-weight:700}
 .list{max-height:340px;overflow:auto;border:2px solid var(--edge);border-radius:8px;background:var(--field)}
 .list .chk{font-size:14px;min-height:44px;padding:6px 12px;border-bottom:1px solid var(--line);align-items:flex-start}
@@ -115,9 +117,9 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <dt>MEASURE</dt><dd>Round watch. Measure the lens before fitting universal round glass.</dd>
 </dl></div></div>
 <div class="xrow"><label class="chk"><input type="checkbox" id="priceOn">Sell price</label>
+<input type="text" id="price" class="price" placeholder="$29.95" maxlength="14" inputmode="decimal" autocomplete="off" aria-label="Sell price to print" hidden>
 <button type="button" class="info" aria-label="About the sell price" aria-expanded="false" aria-controls="tip-price"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
 <div class="tip" id="tip-price" role="note">Prints the price you type on every label in this PDF, in bold at the bottom left, above the barcode. Type it exactly as it should appear, e.g. <span class="code">$29.95</span>. If Clear, Privacy and Matte sell at different prices, print each glass type separately with its own price.</div></div>
-<input type="text" id="price" class="price" placeholder="$29.95" maxlength="14" inputmode="decimal" autocomplete="off" aria-label="Sell price to print" hidden>
 </fieldset>
 <fieldset><legend>2 · Glass types you carry</legend>
 <div class="row types"><label class="chk"><input type="checkbox" name="t" value="C" checked><span class="code">C</span>Clear</label><label class="chk"><input type="checkbox" name="t" value="P"><span class="code">P</span>Privacy</label><label class="chk"><input type="checkbox" name="t" value="M"><span class="code">M</span>Matte</label></div>
