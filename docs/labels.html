@@ -217,6 +217,7 @@ function drawBars(P, bits, x, y, X, h) {
 function drawLabel(P, L, W, H) {
   const pad = Math.max(1.2, Math.min(2, Math.min(W, H) * 0.06));
   const bits = L.barcode && barsFor(L.id + '-' + L.type);
+  let floor = H - pad;  // lowest point the QR may reach: the top of the barcode, or the label's bottom margin
   if (bits) {
     // Barcode along the bottom: bars 0.25 mm (2 dots at 203 dpi) or wider, with at least 5 bars' width of
     // clear space each side for scanners. Skipped if the label is too narrow for that.
@@ -224,6 +225,7 @@ function drawLabel(P, L, W, H) {
     if (X >= 0.25) {
       const h = Math.max(4, Math.min(7, H * 0.2));
       drawBars(P, bits, (W - bits.length * X) / 2, H - pad - h, X, h);
+      floor = H - pad - h;
       H = H - h - 1;
     }
   }
@@ -241,7 +243,9 @@ function drawLabel(P, L, W, H) {
     const d = badgeDims(P, L.type, bPt, compact);
     if (L.kind === 'pack' && d.bh <= room()) {
       drawBadge(P, L.type, W - pad - d.bw, pad, bPt, compact);
-      drawQr(P, q, W - pad - s, pad + d.bh + gapQ, s);
+      // QR centred in the space between the badge and the barcode, never closer than gapQ to either
+      const qy = Math.max(pad + d.bh + gapQ, Math.min(floor - gapQ - s, (pad + d.bh + floor - s) / 2));
+      drawQr(P, q, W - pad - s, qy, s);
       W = W - Math.max(s, d.bw) - gap;
       L = {...L, badgeDone: true};
     } else if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, pad, s); W = W - s - gap; }
