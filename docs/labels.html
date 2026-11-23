@@ -98,13 +98,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <div class="row" id="customRow" hidden><input type="number" id="cw" min="15" max="150" step="1" value="50" aria-label="Width mm"><input type="number" id="ch" min="10" max="100" step="1" value="25" aria-label="Height mm"></div>
 </fieldset>
 <fieldset><legend>Extras</legend>
-<div class="xrow"><label class="chk"><input type="checkbox" id="qr" checked>QR code to the fit finder</label>
-<button type="button" class="info" aria-label="About the QR code" aria-expanded="false" aria-controls="tip-qr"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
-<div class="tip" id="tip-qr" role="note">A small QR code in the top-right corner. Scan it with a phone camera to open the group in the fit finder: every model the glass fits, screen sizes and fit notes. It's 11.6 mm square, the smallest size phones read reliably, so labels too short to fit it leave it off.</div></div>
-<div class="xrow"><label class="chk"><input type="checkbox" id="bc" checked>Barcode of the label code (Code 128)</label>
-<button type="button" class="info" aria-label="About the barcode" aria-expanded="false" aria-controls="tip-bc"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
-<div class="tip" id="tip-bc" role="note">A barcode along the bottom carrying the label code with its glass letter, e.g. <span class="code">APP-1014-C</span>. Clear, Privacy and Matte packs scan as different items, so your point-of-sale system can price them separately. Any USB or Bluetooth barcode scanner reads it. It needs a label about 39 mm wide or more.</div></div>
-<div class="xrow"><label class="chk"><input type="checkbox" id="tagsOn" checked>Fit notes (FP-SAFE, COVER, MEASURE…)</label>
+<div class="xrow"><label class="chk"><input type="checkbox" id="tagsOn" checked>Fit Notes</label>
 <button type="button" class="info" aria-label="About fit notes" aria-expanded="false" aria-controls="tip-tags"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
 <div class="tip" id="tip-tags" role="note">Short warnings printed above the barcode, only on groups that need them:
 <dl>
@@ -116,7 +110,13 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <dt>UV</dt><dd>Mostly UV-cured glass, fitted with liquid glue and a UV lamp.</dd>
 <dt>MEASURE</dt><dd>Round watch. Measure the lens before fitting universal round glass.</dd>
 </dl></div></div>
-<div class="xrow"><label class="chk"><input type="checkbox" id="priceOn">Sell price</label>
+<div class="xrow"><label class="chk"><input type="checkbox" id="bc" checked>Barcode</label>
+<button type="button" class="info" aria-label="About the barcode" aria-expanded="false" aria-controls="tip-bc"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
+<div class="tip" id="tip-bc" role="note">A Code 128 barcode along the bottom carrying the label code with its glass letter, e.g. <span class="code">APP-1014-C</span>. Clear, Privacy and Matte packs scan as different items, so your point-of-sale system can price them separately. Any USB or Bluetooth barcode scanner reads it. It needs a label about 39 mm wide or more.</div></div>
+<div class="xrow"><label class="chk"><input type="checkbox" id="qr">QR Code</label>
+<button type="button" class="info" aria-label="About the QR code" aria-expanded="false" aria-controls="tip-qr"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
+<div class="tip" id="tip-qr" role="note">A small QR code in the top-right corner (below the glass type on pack stickers). Scan it with a phone camera to open the group in the fit finder: every model the glass fits, screen sizes and fit notes. It's 11.6 mm square, the smallest size phones read reliably, so labels too short to fit it leave it off.</div></div>
+<div class="xrow"><label class="chk"><input type="checkbox" id="priceOn">Sell Price</label>
 <input type="text" id="price" class="price" placeholder="$29.95" maxlength="14" inputmode="decimal" autocomplete="off" aria-label="Sell price to print" hidden>
 <button type="button" class="info" aria-label="About the sell price" aria-expanded="false" aria-controls="tip-price"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
 <div class="tip" id="tip-price" role="note">Prints the price you type on every label in this PDF, in bold at the bottom left, above the barcode. Type it exactly as it should appear, e.g. <span class="code">$29.95</span>. If Clear, Privacy and Matte sell at different prices, print each glass type separately with its own price.</div></div>
