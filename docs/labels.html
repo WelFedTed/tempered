@@ -45,6 +45,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 .tip dl{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;margin:8px 0 0}
 .tip dt{font:800 12px/1.6 var(--mono)}
 .tip dd{margin:0}
+.price{margin:-4px 0 4px 30px;width:calc(100% - 30px);max-width:220px;font:700 18px var(--mono)}
 .types .chk{flex:0 1 auto;border:2px solid var(--edge);border-radius:8px;padding:0 14px;min-height:46px;font-weight:700}
 .list{max-height:340px;overflow:auto;border:2px solid var(--edge);border-radius:8px;background:var(--field)}
 .list .chk{font-size:14px;min-height:44px;padding:6px 12px;border-bottom:1px solid var(--line);align-items:flex-start}
@@ -113,6 +114,10 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <dt>UV</dt><dd>Mostly UV-cured glass, fitted with liquid glue and a UV lamp.</dd>
 <dt>MEASURE</dt><dd>Round watch. Measure the lens before fitting universal round glass.</dd>
 </dl></div></div>
+<div class="xrow"><label class="chk"><input type="checkbox" id="priceOn">Sell price</label>
+<button type="button" class="info" aria-label="About the sell price" aria-expanded="false" aria-controls="tip-price"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.01"/></svg></button>
+<div class="tip" id="tip-price" role="note">Prints the price you type on every label in this PDF, in bold at the bottom left, above the barcode. Type it exactly as it should appear, e.g. <span class="code">$29.95</span>. If Clear, Privacy and Matte sell at different prices, print each glass type separately with its own price.</div></div>
+<input type="text" id="price" class="price" placeholder="$29.95" maxlength="14" inputmode="decimal" autocomplete="off" aria-label="Sell price to print" hidden>
 </fieldset>
 <fieldset><legend>2 · Glass types you carry</legend>
 <div class="row types"><label class="chk"><input type="checkbox" name="t" value="C" checked><span class="code">C</span>Clear</label><label class="chk"><input type="checkbox" name="t" value="P"><span class="code">P</span>Privacy</label><label class="chk"><input type="checkbox" name="t" value="M"><span class="code">M</span>Matte</label></div>
@@ -250,9 +255,20 @@ function drawLabel(P, L, W, H) {
       L = {...L, badgeDone: true};
     } else if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, pad, s); W = W - s - gap; }
   }
-  if (L.tags && L.tags.length) {
-    const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
-    P.text(L.tags.join(' · '), pad, H - pad, tPt, true, '#000');
+  // Bottom line, above the barcode: the sell price in bold, then the fit notes beside it if they fit, else on
+  // their own line above
+  const tags = L.tags && L.tags.length ? L.tags.join(' · ') : '';
+  const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
+  let x = pad;
+  if (L.price) {
+    const pPt = Math.max(7, Math.min(12, H * 0.42));
+    P.text(L.price, pad, H - pad, pPt, true, '#000');
+    x = pad + P.w(L.price, pPt, true) + 1.5;
+    if (tags && x + P.w(tags, tPt, true) <= W - pad) { P.text(tags, x, H - pad, tPt, true, '#000'); }
+    else if (tags) { H = H - pPt * PT - 0.5; P.text(tags, pad, H - pad, tPt, true, '#000'); H = H - tPt * PT - 0.8; x = -1; }
+    if (x !== -1) H = H - pPt * PT - 0.8;
+  } else if (tags) {
+    P.text(tags, pad, H - pad, tPt, true, '#000');
     H = H - tPt * PT - 0.8;
   }
   drawBody(P, L, W, H, pad);
@@ -337,7 +353,7 @@ function labels() {
   for (const g of groups) {
     if (!sel.has(g.id)) continue;
     const tags = $('tagsOn').checked ? g.tags.map(k => (Tempered.TAGS[k] || [, k.toUpperCase()])[1]) : [];
-    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, kind: $('f').kind.value, models: g.models.map(m => m[0]), qr: $('qr').checked, barcode: $('bc').checked, tags});
+    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, kind: $('f').kind.value, models: g.models.map(m => m[0]), qr: $('qr').checked, barcode: $('bc').checked, tags, price: $('priceOn').checked ? $('price').value.trim() : ''});
   }
   return out;
 }
@@ -433,6 +449,8 @@ $('size').addEventListener('change', () => { $('customRow').hidden = $('size').v
 document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; renderPreview(); }));
 ['cw', 'ch', 'copies'].forEach(id => $(id).addEventListener('input', renderPreview));
 ['qr', 'bc', 'tagsOn'].forEach(id => $(id).addEventListener('change', renderPreview));
+$('priceOn').addEventListener('change', () => { $('price').hidden = !$('priceOn').checked; if ($('priceOn').checked && !$('price').value) $('price').focus(); renderPreview(); });
+$('price').addEventListener('input', renderPreview);
 // Info buttons on the extras: tap or click to open an explainer, tap again, click elsewhere or press Escape to close
 const closeTips = except => document.querySelectorAll('.xrow.open').forEach(r => { if (r !== except) { r.classList.remove('open'); r.querySelector('.info').setAttribute('aria-expanded', 'false'); } });
 document.querySelectorAll('.xrow .info').forEach(b => b.addEventListener('click', e => {
@@ -444,8 +462,8 @@ document.addEventListener('click', e => { if (!e.target.closest('.tip')) closeTi
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeTips(); });
 document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.addEventListener('change', renderPreview));
 window.addEventListener('hashchange', () => CAT && selectFromHash());
-function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked})); } catch (e) {} }
-try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
 
 Tempered.load().then(cat => {
   CAT = cat; groups = cat.groups;
