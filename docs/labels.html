@@ -98,14 +98,14 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <option value="40x20">40 × 20 thermal</option>
 </optgroup>
 <optgroup label="Brother QL-700 (DK labels)">
-<option value="62x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 62mm (DK-11209), and print at 100% (actual size).">62 × 29 small address, DK-11209</option>
-<option value="90x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 90mm (DK-11201), and print at 100% (actual size).">90 × 29 standard address, DK-11201</option>
-<option value="90x38" data-note="In the print dialog choose the Brother QL-700, set the paper size to 38mm x 90mm (DK-11208), and print at 100% (actual size).">90 × 38 large address, DK-11208</option>
+<option value="62x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 62mm (DK-11209), and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">62 × 29 small address, DK-11209</option>
+<option value="90x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 90mm (DK-11201), and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">90 × 29 standard address, DK-11201</option>
+<option value="90x38" data-note="In the print dialog choose the Brother QL-700, set the paper size to 38mm x 90mm (DK-11208), and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">90 × 38 large address, DK-11208</option>
 <option value="54x17" data-note="In the print dialog choose the Brother QL-700, set the paper size to 17mm x 54mm (DK-11204), and print at 100% (actual size). At 17 mm tall there's no room for the QR code.">54 × 17 multi-purpose, DK-11204</option>
-<option value="100x62" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm x 100mm (DK-11202), and print at 100% (actual size).">100 × 62 shipping, DK-11202</option>
-<option value="50x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm continuous (DK-22210), 50 mm long, and print at 100% (actual size).">50 × 29 on 29 mm continuous, DK-22210</option>
-<option value="62x40" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous (DK-22205), 40 mm long, and print at 100% (actual size).">62 × 40 on 62 mm continuous, DK-22205</option>
-<option value="62x40@DK-22113" data-note="DK-22113 is clear film: it prints black on a see-through label, so stick it on a light surface for the QR code and barcode to scan. In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous, 40 mm long, and print at 100% (actual size).">62 × 40 on 62 mm clear film, DK-22113</option>
+<option value="100x62" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm x 100mm (DK-11202), and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">100 × 62 shipping, DK-11202</option>
+<option value="50x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm continuous (DK-22210), 50 mm long, and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">50 × 29 on 29 mm continuous, DK-22210</option>
+<option value="62x40" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous (DK-22205), 40 mm long, and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">62 × 40 on 62 mm continuous, DK-22205</option>
+<option value="62x40@DK-22113" data-note="DK-22113 is clear film: it prints black on a see-through label, so stick it on a light surface for the QR code and barcode to scan. In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous, 40 mm long, and print at 100% (actual size). If the label comes out sideways, tick Rotate 90° and print again.">62 × 40 on 62 mm clear film, DK-22113</option>
 </optgroup>
 <option value="custom">Custom…</option>
 </select>
@@ -150,6 +150,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <div class="finish">
 <div style="display:grid;gap:6px"><span id="printOn" style="font-size:14px;font-weight:600">Print on</span>
 <div class="seg" role="radiogroup" aria-labelledby="printOn"><label><input type="radio" name="layout" value="roll" checked><span>Label printer</span></label><label><input type="radio" name="layout" value="a4"><span>A4 sheet</span></label></div>
+<label class="chk" id="rotRow"><input type="checkbox" id="rot">Rotate 90° (if labels print sideways)</label>
 </div>
 <label style="display:grid;gap:6px;font-size:14px;font-weight:600">Copies of each label
 <input type="number" id="copies" min="1" max="200" step="1" value="1"></label>
@@ -347,6 +348,18 @@ function canvasPainter(ctx) {
     rect(x, y, w, h, fill, lw) { if (fill) { ctx.fillStyle = fill; ctx.fillRect(x, y, w, h); } if (lw) { ctx.lineWidth = lw; ctx.strokeStyle = '#000'; ctx.strokeRect(x, y, w, h); } }
   };
 }
+// Draws a W x H label turned a quarter turn clockwise onto an H x W page, for printers that feed the other way
+function pdfPainterRot(doc, H) {
+  const font = (pt, b) => { doc.setFont('helvetica', b ? 'bold' : 'normal'); doc.setFontSize(pt); };
+  return {
+    w(s, pt, b) { font(pt, b); return doc.getTextWidth(s); },
+    text(s, x, y, pt, b, c) { font(pt, b); doc.setTextColor(c); doc.text(s, H - y, x, {angle: -90}); },
+    rect(x, y, w, h, fill, lw) {
+      if (fill) { doc.setFillColor(fill); doc.rect(H - y - h, x, h, w, 'F'); }
+      if (lw) { doc.setDrawColor('#000000'); doc.setLineWidth(lw); doc.rect(H - y - h, x, h, w, 'S'); }
+    }
+  };
+}
 function pdfPainter(doc, ox, oy) {
   const font = (pt, b) => { doc.setFont('helvetica', b ? 'bold' : 'normal'); doc.setFontSize(pt); };
   return {
@@ -415,6 +428,13 @@ function buildPdf() {
       doc.setDrawColor('#b4b4b4'); doc.setLineWidth(0.1); doc.rect(x, y, W, H, 'S');
       drawLabel(pdfPainter(doc, x, y), l, W, H);
     });
+    return doc;
+  }
+  if ($('rot').checked) {
+    // Page is H wide and W tall, with each label turned a quarter turn
+    const o = H > W ? 'landscape' : 'portrait';
+    const doc = new jsPDF({unit: 'mm', format: [H, W], orientation: o});
+    L.forEach((l, i) => { if (i) doc.addPage([H, W], o); drawLabel(pdfPainterRot(doc, H), l, W, H); });
     return doc;
   }
   const o = W > H ? 'landscape' : 'portrait';
@@ -502,9 +522,13 @@ document.querySelectorAll('.xrow .info').forEach(b => b.addEventListener('click'
 document.addEventListener('click', e => { if (!e.target.closest('.tip')) closeTips(); });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeTips(); });
 document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.addEventListener('change', renderPreview));
+const showRot = () => { $('rotRow').hidden = $('f').layout.value !== 'roll'; };
+document.querySelectorAll('input[name=layout]').forEach(i => i.addEventListener('change', showRot));
+$('rot').addEventListener('change', save);
 window.addEventListener('hashchange', () => CAT && selectFromHash());
-function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value})); } catch (e) {} }
-try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value, rot: $('rot').checked})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; if ('rot' in s) $('rot').checked = s.rot; } } catch (e) {}
+showRot();
 showSizeNote();
 
 Tempered.load().then(cat => {
