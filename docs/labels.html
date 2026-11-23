@@ -91,13 +91,24 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <fieldset><legend>1 · Label</legend>
 <div class="seg"><label><input type="radio" name="kind" value="div" checked><span>Divider tab</span></label><label><input type="radio" name="kind" value="pack"><span>Pack sticker</span></label></div>
 <select id="size" aria-label="Label size">
+<optgroup label="Thermal labels">
 <option value="50x25">50 × 25 thermal (divider default)</option>
 <option value="50x30">50 × 30 thermal</option>
 <option value="40x30">40 × 30 thermal (sticker default)</option>
 <option value="40x20">40 × 20 thermal</option>
-<option value="62x29">62 × 29 Brother DK-11209</option>
+</optgroup>
+<optgroup label="Brother QL-700 (DK labels)">
+<option value="62x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 62mm (DK-11209), and print at 100% (actual size).">62 × 29 small address, DK-11209</option>
+<option value="90x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm x 90mm (DK-11201), and print at 100% (actual size).">90 × 29 standard address, DK-11201</option>
+<option value="90x38" data-note="In the print dialog choose the Brother QL-700, set the paper size to 38mm x 90mm (DK-11208), and print at 100% (actual size).">90 × 38 large address, DK-11208</option>
+<option value="54x17" data-note="In the print dialog choose the Brother QL-700, set the paper size to 17mm x 54mm (DK-11204), and print at 100% (actual size). At 17 mm tall there's no room for the QR code.">54 × 17 multi-purpose, DK-11204</option>
+<option value="100x62" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm x 100mm (DK-11202), and print at 100% (actual size).">100 × 62 shipping, DK-11202</option>
+<option value="50x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm continuous (DK-22210), 50 mm long, and print at 100% (actual size).">50 × 29 on 29 mm continuous, DK-22210</option>
+<option value="62x40" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous (DK-22205), 40 mm long, and print at 100% (actual size).">62 × 40 on 62 mm continuous, DK-22205</option>
+</optgroup>
 <option value="custom">Custom…</option>
 </select>
+<p class="note" id="sizeNote" hidden></p>
 <div class="row" id="customRow" hidden><input type="number" id="cw" min="15" max="150" step="1" value="50" aria-label="Width mm"><input type="number" id="ch" min="10" max="100" step="1" value="25" aria-label="Height mm"></div>
 </fieldset>
 <fieldset><legend>Extras</legend>
@@ -473,8 +484,9 @@ $('clearSel').addEventListener('click', () => { sel.clear(); renderList(); rende
 let t;
 $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(renderList, 120); });
 ['brand', 'dev', 'onlySel'].forEach(id => $(id).addEventListener('change', renderList));
-$('size').addEventListener('change', () => { $('customRow').hidden = $('size').value !== 'custom'; renderPreview(); });
-document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; renderPreview(); }));
+function showSizeNote() { const o = $('size').selectedOptions[0], n = o && o.dataset.note; $('sizeNote').hidden = !n; $('sizeNote').textContent = n || ''; }
+$('size').addEventListener('change', () => { $('customRow').hidden = $('size').value !== 'custom'; showSizeNote(); renderPreview(); });
+document.querySelectorAll('input[name=kind]').forEach(r => r.addEventListener('change', () => { $('size').value = r.value === 'div' ? '50x25' : '40x30'; $('customRow').hidden = true; showSizeNote(); renderPreview(); }));
 ['cw', 'ch', 'copies'].forEach(id => $(id).addEventListener('input', renderPreview));
 ['qr', 'bc', 'tagsOn'].forEach(id => $(id).addEventListener('change', renderPreview));
 $('priceOn').addEventListener('change', () => { $('price').hidden = !$('priceOn').checked; if ($('priceOn').checked && !$('price').value) $('price').focus(); renderPreview(); });
@@ -492,6 +504,7 @@ document.querySelectorAll('input[name=t],input[name=layout]').forEach(i => i.add
 window.addEventListener('hashchange', () => CAT && selectFromHash());
 function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value})); } catch (e) {} }
 try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; } } catch (e) {}
+showSizeNote();
 
 Tempered.load().then(cat => {
   CAT = cat; groups = cat.groups;
