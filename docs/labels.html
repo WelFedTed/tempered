@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Label maker · Tempered</title>
 <meta name="description" content="Print divider tabs and pack stickers for screen protector fit groups, for thermal label printers or A4 sheets.">
+<meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#111111">
 <link rel="icon" href="favicon.ico" sizes="48x48">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
@@ -335,6 +336,8 @@ function renderPreview() {
     const c = document.createElement('canvas');
     c.width = W * k * dpr; c.height = H * k * dpr; c.style.width = W * k + 'px';
     const ctx = c.getContext('2d'); ctx.scale(k * dpr, k * dpr);
+    // Paint the label stock white in the image itself, so browser dark modes can't recolour it
+    ctx.fillStyle = '#fff'; ctx.fillRect(0, 0, W, H);
     drawLabel(canvasPainter(ctx), l, W, H);
     sh.appendChild(c);
   }
