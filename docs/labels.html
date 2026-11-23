@@ -105,6 +105,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <option value="100x62" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm x 100mm (DK-11202), and print at 100% (actual size).">100 × 62 shipping, DK-11202</option>
 <option value="50x29" data-note="In the print dialog choose the Brother QL-700, set the paper size to 29mm continuous (DK-22210), 50 mm long, and print at 100% (actual size).">50 × 29 on 29 mm continuous, DK-22210</option>
 <option value="62x40" data-note="In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous (DK-22205), 40 mm long, and print at 100% (actual size).">62 × 40 on 62 mm continuous, DK-22205</option>
+<option value="62x40@DK-22113" data-note="DK-22113 is clear film: it prints black on a see-through label, so stick it on a light surface for the QR code and barcode to scan. In the print dialog choose the Brother QL-700, set the paper size to 62mm continuous, 40 mm long, and print at 100% (actual size).">62 × 40 on 62 mm clear film, DK-22113</option>
 </optgroup>
 <option value="custom">Custom…</option>
 </select>
@@ -361,7 +362,7 @@ const val = n => [...document.querySelectorAll(`input[name=${n}]:checked`)].map(
 function size() {
   const v = $('size').value;
   if (v === 'custom') return [Math.min(150, Math.max(15, +$('cw').value || 50)), Math.min(100, Math.max(10, +$('ch').value || 25))];
-  return v.split('x').map(Number);
+  return v.split('@')[0].split('x').map(Number);  // "@roll" tells apart presets of the same size
 }
 function labels() {
   const types = val('t'), out = [];
