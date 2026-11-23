@@ -231,8 +231,20 @@ function drawLabel(P, L, W, H) {
   if (q) {
     // QR in the top-right corner at the smallest size phones scan reliably: 0.4 mm per module, about 3 dots on a
     // 203 dpi thermal printer (a 29-module code is 11.6 mm). Skipped if the label is too short to fit it.
-    const n = q.getModuleCount(), s = n * QR_MODULE;
-    if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, pad, s); W = W - s - Math.max(2 * pad, 3 * QR_MODULE); }
+    // Pack stickers put the glass badge above the QR, so the type reads at a glance on the shelf.
+    const n = q.getModuleCount(), s = n * QR_MODULE, gap = Math.max(2 * pad, 3 * QR_MODULE);
+    // Largest badge that fits above the QR: shrink the type, then trim its padding, before giving up
+    let bPt = badgePt(H), compact = false, gapQ = 0.8;
+    const room = () => H - 2 * pad - s - gapQ;
+    while (bPt > 5 && badgeDims(P, L.type, bPt).bh > room()) bPt -= 0.5;
+    if (badgeDims(P, L.type, bPt).bh > room()) { compact = true; gapQ = 0.5; }
+    const d = badgeDims(P, L.type, bPt, compact);
+    if (L.kind === 'pack' && d.bh <= room()) {
+      drawBadge(P, L.type, W - pad - d.bw, pad, bPt, compact);
+      drawQr(P, q, W - pad - s, pad + d.bh + gapQ, s);
+      W = W - Math.max(s, d.bw) - gap;
+      L = {...L, badgeDone: true};
+    } else if (s <= H - 2 * pad) { drawQr(P, q, W - pad - s, pad, s); W = W - s - gap; }
   }
   if (L.tags && L.tags.length) {
     const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
@@ -241,28 +253,38 @@ function drawLabel(P, L, W, H) {
   }
   drawBody(P, L, W, H, pad);
 }
+// Glass badge (CLEAR / PRIVACY / MATTE) size at a given point size. The Matte double outline needs extra room
+// inside so the text clears the inner line.
+const badgePt = H => Math.max(5, Math.min(8, H * 0.28));
+// compact trims the padding for tight spots (the badge above a QR code on a short label).
+function badgeDims(P, type, bPt, compact = false) {
+  const tn = TYPE[type], bIn = type === 'M' ? (compact ? 0.6 : 0.9) : 0, bTw = P.w(tn, bPt, true), bCap = bPt * PT * 0.72;
+  return {tn, bTw, bCap, bh: bCap + (compact ? 1.2 : 1.8) + 2 * bIn, bw: bTw + 2.4 + 2 * bIn};
+}
+function drawBadge(P, type, bx, by, bPt, compact = false) {
+  const d = badgeDims(P, type, bPt, compact);
+  // Text centred in the badge: horizontally by its width, vertically by its cap height
+  const tx = bx + (d.bw - d.bTw) / 2, ty = by + (d.bh + d.bCap) / 2;
+  if (type === 'P') { P.rect(bx, by, d.bw, d.bh, '#000', null); P.text(d.tn, tx, ty, bPt, true, '#fff'); }
+  else {
+    P.rect(bx, by, d.bw, d.bh, null, 0.3);
+    if (type === 'M') P.rect(bx + 0.6, by + 0.6, d.bw - 1.2, d.bh - 1.2, null, 0.25);
+    P.text(d.tn, tx, ty, bPt, true, '#000');
+  }
+  return d;
+}
 function drawBody(P, L, W, H, pad) {
-  const code = L.id + '-' + L.type, tn = TYPE[L.type];
-  const bPt = Math.max(5, Math.min(8, H * 0.28));
-  // Glass badge: the Matte double outline needs extra room inside so the text clears the inner line
-  const bIn = L.type === 'M' ? 0.9 : 0, bTw = P.w(tn, bPt, true), bCap = bPt * PT * 0.72;
-  const bh = bCap + 1.8 + 2 * bIn, bw = bTw + 2.4 + 2 * bIn;
+  const code = L.id + '-' + L.type, bPt = badgePt(H);
+  const {bw, bh} = L.badgeDone ? {bw: 0, bh: 0} : badgeDims(P, L.type, bPt);
   // Code and glass badge side by side; if the code would drop below 8 pt that way, stack the badge under it
   const fit = room => { let p = 60; while (p > 6 && (P.w(code, p, true) > room || p * PT * 0.72 > (H - 2 * pad) * 0.42)) p -= 0.5; return p; };
-  let idPt = fit(W - 2 * pad - bw - 1.5);
-  const stacked = idPt < 8;
+  let idPt = fit(W - 2 * pad - (L.badgeDone ? 0 : bw + 1.5));
+  const stacked = !L.badgeDone && idPt < 8;
   if (stacked) idPt = Math.min(fit(W - 2 * pad), Math.max(6, (H - 2 * pad) * 0.3 / (PT * 0.72)));
   const cap = idPt * PT * 0.72;
   P.text(code, pad, pad + cap, idPt, true, '#000');
   const bx = stacked ? pad : W - pad - bw, by = stacked ? pad + cap + 0.8 : pad + Math.max(0, (cap - bh) / 2);
-  // Text centred in the badge: horizontally by its width, vertically by its cap height
-  const tx = bx + (bw - bTw) / 2, ty = by + (bh + bCap) / 2;
-  if (L.type === 'P') { P.rect(bx, by, bw, bh, '#000', null); P.text(tn, tx, ty, bPt, true, '#fff'); }
-  else {
-    P.rect(bx, by, bw, bh, null, 0.3);
-    if (L.type === 'M') P.rect(bx + 0.6, by + 0.6, bw - 1.2, bh - 1.2, null, 0.25);
-    P.text(tn, tx, ty, bPt, true, '#000');
-  }
+  if (!L.badgeDone) drawBadge(P, L.type, bx, by, bPt);
   // Model text starts below whichever is lower: the code or its badge (the Matte badge can be taller than the code)
   const top = Math.max(pad + cap, by + bh) + Math.max(1, H * 0.06);
   const bottom = H - pad;
@@ -311,7 +333,7 @@ function labels() {
   for (const g of groups) {
     if (!sel.has(g.id)) continue;
     const tags = $('tagsOn').checked ? g.tags.map(k => (Tempered.TAGS[k] || [, k.toUpperCase()])[1]) : [];
-    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, models: g.models.map(m => m[0]), qr: $('qr').checked, barcode: $('bc').checked, tags});
+    for (const t of types) for (let i = 0; i < copies; i++) out.push({id: g.id, type: t, kind: $('f').kind.value, models: g.models.map(m => m[0]), qr: $('qr').checked, barcode: $('bc').checked, tags});
   }
   return out;
 }
