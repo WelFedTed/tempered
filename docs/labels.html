@@ -154,7 +154,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <span><i class="gk m" aria-hidden="true">M</i>Matte: double outline</span>
 <span>Black on white, so they print on any thermal printer.</span>
 </div>
-<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1468</span>. To reprint the labels an update changed, use the button on the <a href="changes.html">Changes</a> page.</p>
+<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1464</span>. To reprint the labels an update changed, use the button on the <a href="changes.html">Changes</a> page.</p>
 </section>
 </div></div>
 
@@ -443,7 +443,7 @@ $('dl').addEventListener('click', () => {
     $('status').textContent = `Saved ${L.length.toLocaleString()} label${L.length === 1 ? '' : 's'}.`;
   } catch (e) { $('status').textContent = "Couldn't make the PDF."; }
 });
-// #APP-1013,SAM-1468 selects those groups; #changes=<id> selects every group that update needs a new label for
+// #APP-1013,SAM-1464 selects those groups; #changes=<id> selects every group that update needs a new label for
 const REPRINT = new Set(['new', 'merged', 'split', 'models changed', 'renumbered', 'new code', 'models added']);
 async function selectFromHash() {
   const h = decodeURIComponent(location.hash.slice(1));

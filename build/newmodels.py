@@ -641,7 +641,6 @@ LENOVO = """
 2024-07|T|Lenovo Tab One
 2024-09|T|Lenovo Yoga Tab Plus
 2025-01|T|Lenovo Idea Tab Pro
-2025-05|T|Lenovo Tab (2025)
 2025-06|T|Lenovo Idea Tab 11
 2025-09|T|Lenovo Legion Tab Gen 3
 2025-09|T|Lenovo Yoga Tab (2025)
@@ -1651,3 +1650,132 @@ ROUND6 = {'Amazfit Pace': 1.34, 'Amazfit Stratos': 1.34, 'Amazfit Verge': 1.3, '
  'Suunto Race S': 1.32, 'Suunto Ocean': 1.43, 'Suunto Run': 1.32, 'Suunto Race 2': 1.5, 'Suunto Vertical 2': 1.5, 'Suunto Run 2': 1.32,
  'Coros Apex 42mm': 1.1, 'Coros Apex 46mm': 1.2, 'Coros Pace 2': 1.2, 'Coros Apex 2': 1.2, 'Coros Apex 2 Pro': 1.3,
  'Coros Pace 3': 1.2, 'Coros Vertix 2': 1.4, 'Coros Vertix 2S': 1.4, 'Coros Pace Pro': 1.3, 'Coros Pace 4 Pro': 1.47}
+
+# Gap audit, Nov 2026: devices missing from the catalogue, and releases since the July 2026 snapshot.
+# Format: date|C|CODE|Name[;Name...] where ; joins models that take the same glass.
+EXTRA4 = """
+2020-09|P|MIC|Surface Duo
+2021-10|P|MIC|Surface Duo 2
+2021-10|P|TCL|TCL A3 (2021)
+2015-07|P|BLU|BLU Vivo Selfie
+2025-04|T|BOX|Boox Tab X C
+2025-04|T|PKB|PocketBook Verse Lite
+2025-04|W|GAR|Garmin Instinct 3 Tactical Edition AMOLED 50mm
+2025-04|W|GAR|Garmin Instinct 3 Tactical Edition Solar 45mm
+2025-04|W|GAR|Garmin Instinct 3 Tactical Edition Solar 50mm
+2025-05|H|LEN|Legion Go S;Legion Go S (SteamOS)
+2025-05|W|HUA|Huawei Watch 5 (42mm)
+2025-05|W|VIV|vivo iQOO Watch 5
+2025-07|H|AYA|AYANEO Flip 1S DS
+2025-07|H|AYA|AYANEO Flip 1S KB
+2025-08|W|AMF|Amazfit Balance 2 XT
+2025-09|W|GAR|Garmin Descent X30
+2025-10|W|VIV|vivo iQOO Watch GT 2
+2026-01|W|GAR|Garmin Approach J1
+2026-01|W|GAR|Garmin tactix 8 Cerakote Edition
+2026-03|P|LAV|Lava Bold 2
+2026-05|P|ITE|itel Zeno 200
+2026-06|P|LAV|Lava Bold N2
+2026-06|T|BOX|Boox Go 6 Gen II
+2026-06|T|PKB|PocketBook Era Lite
+2026-07|P|ITE|itel Zeno 100 Lite
+2026-07|P|ITE|itel Zeno 100 Pro
+2026-07|P|ITE|itel Zeno F30
+2026-07|P|LAV|Lava Smart 4
+2026-07|P|LAV|Lava Virat V1
+2026-07|P|LAV|Lava Virat V1 5G
+2026-07|P|ONE|OnePlus N6x
+2026-07|P|VIV|vivo T5e
+2026-08|P|BLV|Blackview Wave 2C
+2026-08|P|FAI|Fairphone 6+
+2026-08|P|HON|Honor Robot Phone
+2026-08|P|HON|Honor Turbo
+2026-08|P|HUA|Huawei nova 16 SE
+2026-08|P|LAV|Lava Bold N4 Lite
+2026-08|P|LAV|Lava Virat V1 Pro
+2026-08|P|OPP|Oppo A7 Pro Max
+2026-08|P|REA|Realme 16x
+2026-08|P|REA|Realme P4s
+2026-08|P|SAM|Galaxy F70 Pro
+2026-08|P|TEC|Tecno Pova 8 Pro
+2026-08|P|TEC|Tecno Spark Go 3 Pro
+2026-08|P|ULE|Ulefone Armor 22 Pro
+2026-08|P|ULE|Ulefone Armor 24 Pro
+2026-08|P|VIV|vivo Y31t
+2026-08|P|XIA|Poco M8 Power
+2026-08|P|XIA|Poco M8x
+2026-08|P|XIA|Redmi K100 Pro
+2026-08|P|XIA|Redmi K100 Pro Max
+2026-08|P|XIA|Redmi Note 17
+2026-08|T|HUA|Huawei MatePad Pro 12
+2026-08|W|HUA|Huawei Watch GT 7 41mm
+2026-08|W|HUA|Huawei Watch GT 7 46mm
+2026-08|W|HUA|Huawei Watch GT 7 Pro
+2026-08|W|XIA|Redmi Watch 6 Active
+2026-08|W|XIA|Redmi Watch 6 Lite
+2026-08|W|XIA|Xiaomi Smart Band 11 Active
+2026-09|P|HON|Honor X9e Pro
+2026-09|P|HUA|Huawei Mate XT2
+2026-09|P|HUA|Huawei Pura X View
+2026-09|P|HUA|Huawei nova 16s
+2026-09|P|HUA|Huawei nova 16s Pro
+2026-09|P|ITE|itel A300C
+2026-09|P|ITE|itel Zeno 300
+2026-09|P|LAV|Lava Bold N4 Pro
+2026-09|P|LAV|Lava Shark 2 Pro
+2026-09|P|LAV|Lava Virat Curve
+2026-09|P|MOT|Motorola Edge 70 Plus
+2026-09|P|OPP|Oppo A7 Pro
+2026-09|P|OPP|Oppo K14 Lite
+2026-09|P|OPP|Oppo K14 Plus
+2026-09|P|VIV|vivo iQOO Z11xa
+2026-09|P|XIA|Poco X8
+2026-09|P|XIA|Poco X8 Power
+2026-09|P|XIA|Redmi 17 5G
+2026-09|P|XIA|Redmi Note 17 Pro
+2026-09|P|XIA|Redmi Note 17 Pro Max
+2026-09|T|HUA|Huawei MatePad Air Z
+2026-09|T|INF|Infinix Xpad 30 Pro
+2026-09|T|PKB|PocketBook InkPad Eo 2
+2026-09|T|TCL|TCL Tab A1 NxtPaper
+2026-09|W|AMF|Amazfit T-Rex Dual Solar
+2026-09|W|HON|Honor Watch 6 Pro
+2026-09|W|HUA|Huawei Watch 6 42mm
+2026-09|W|HUA|Huawei Watch 6 46mm
+2026-09|W|HUA|Huawei Watch 6 Pro 43mm
+2026-09|W|HUA|Huawei Watch 6 Pro 46mm
+2026-09|W|HUA|Huawei Watch D3
+2026-09|W|OPP|Oppo Watch S2
+2026-09|W|TIC|TicNote Watch
+2026-09|W|VIV|vivo Watch 6
+2026-09|W|XIA|Xiaomi Watch S5 41mm
+2026-10|P|BLV|Blackview Xplore 6
+2026-10|P|HON|Honor X9e s
+2026-10|P|INF|Infinix Smart 20 HD
+2026-10|P|ITE|itel City 300
+2026-10|P|LAV|Lava Aura Curve
+2026-10|P|ONE|OnePlus Ace 7
+2026-10|P|REA|Realme P4s Lite
+2026-10|P|SAM|Galaxy F08
+2026-10|P|SAM|Galaxy F70
+2026-10|P|SAM|Galaxy M08
+2026-10|P|TEC|Tecno Spark 50s
+2026-10|P|VIV|vivo iQOO Neo12
+2026-10|P|XIA|Redmi 17C 5G
+2026-10|P|XIA|Redmi K100
+2026-10|T|BOX|Boox Picco
+2026-10|T|HON|Honor Tablet X10 Mini
+2026-10|T|VIV|vivo iQOO Pad Pro 8.8
+2026-11|P|HON|Honor 700
+2026-11|P|HON|Honor 700 Pro
+2026-11|P|HON|Honor 700S
+2026-11|P|HUA|Huawei OSTA O1 Pro
+2026-11|P|LAV|Lava Smart 4 Pro
+2026-11|P|ONE|OnePlus Turbo 6Vs
+2026-11|T|OPP|Oppo Pad Air 6
+2026-11|T|PKB|PocketBook Verta
+2026-11|T|TCL|TCL Note A1 NxtPaper
+2026-11|T|TCL|TCL Tab A1 Kids Edition
+2026-11|W|GAR|Garmin Descent X10
+2026-11|W|OPP|Oppo Watch 5
+"""

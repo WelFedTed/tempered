@@ -1,6 +1,719 @@
 [
  {
   "models": [
+   "Galaxy F13",
+   "Galaxy A23",
+   "Galaxy M23",
+   "Galaxy M33"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass SAFE (A13/A23/M13/M23 5G/M33 5G/A23 5G)",
+    "url": "https://panzerglass.com/products/safe-samsung-galaxy-a13-a23-m23-5g-m33-5g-cf-black"
+   },
+   {
+    "name": "Displex Real Glass at Digitec (A23, A23 5G, F13, M13, M23, M33)",
+    "url": "https://www.digitec.ch/en/s1/product/displex-real-glass-2d-panzerglas-1-piece-samsung-galaxy-a23-5g-samsung-galaxy-a23-samsung-galaxy-m33-22906667"
+   },
+   {
+    "name": "Spigen India Glas.tR (M13/M23 5G/M33 5G/F23 5G/A04s)",
+    "url": "https://spigen.in/products/galaxy-m14-f14-m13-m13-5g-m33-5g-m23-5g-f23-5g-a04s-glas-tr-screen-protector"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together."
+ },
+ {
+  "models": [
+   "Galaxy A22 5G",
+   "Galaxy F42 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Saii glass at Mytrendyphone",
+    "url": "https://www.mytrendyphone.co.uk/shop/saii-premium-samsung-galaxy-a22-5g-tempered-glass-270918p.html"
+   },
+   {
+    "name": "Mytrendyphone (Saii Premium glass)",
+    "url": "https://mytrendyphone.eu/shop/saii-premium-samsung-galaxy-a22-5g-tempered-glass-270918p.html"
+   },
+   {
+    "name": "Flipkart (Blue Labs glass for Galaxy F42 5G, A22 5G)",
+    "url": "https://www.flipkart.com/blue-labs-tempered-glass-guard-samsung-galaxy-f42-5g-a22-5g/p/itm0ce683903527e"
+   },
+   {
+    "name": "Flipkart (FAD-E glass for Galaxy A22 5G, F42 5G)",
+    "url": "https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-a22-5g-f42-5g/p/itm90790342687e4"
+   }
+  ],
+  "note": "Saii (Mytrendyphone) and two separate Flipkart glasses, Blue Labs and FAD-E, all list the A22 5G and F42 5G together."
+ },
+ {
+  "models": [
+   "Galaxy Tab S8 Ultra",
+   "Galaxy Tab S9 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra Wide Fit at Swiss Post shop (S8/S9/S10 Ultra)",
+    "url": "https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-ultra-wide-fit-galaxy-tab-s8-ultra-s9-ultra-s10-ultra/p/847265"
+   },
+   {
+    "name": "PanzerGlass Case Friendly at Swiss Post shop (S8/S9 Ultra)",
+    "url": "https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-tablet-screen-protector-case-friendly-ab-galaxy-tab-s8-s9-ultra/p/846315"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "iPhone 14 Pro",
+   "iPhone 15",
+   "iPhone 16"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Belkin TemperedGlass for iPhone 16 / 15 / 14 Pro (OVA135zz)",
+    "url": "https://www.belkin.com/p/temperedglass-treated-screen-protector-for-iphone-16-iphone-15-iphone-14-pro/OVA135zz.html"
+   },
+   {
+    "name": "Belkin UltraGlass 2 for iPhone 16 / 15 / 14 Pro (OVA131zz)",
+    "url": "https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-iphone-15-iphone-14-pro/OVA131zz.html"
+   }
+  ],
+  "note": "Belkin sells two glass products for the iPhone 16, iPhone 15 and iPhone 14 Pro as one fit."
+ },
+ {
+  "models": [
+   "Xiaomi 13",
+   "Xiaomi 14"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alza glass for Xiaomi 14 / Xiaomi 13",
+    "url": "https://m.alza.hu/EN/tempered-glass-protector-for-xiaomi-14-xiaomi-13-compatible-with-case-d9663920.htm"
+   },
+   {
+    "name": "PanzerGlass (Screen Protector Xiaomi 14 | 13 Ultra-Wide Fit)",
+    "url": "https://panzerglass.com/products/panzerglass%c2%ae-screen-protector-xiaomi-14-13-ultra-wide-fit"
+   },
+   {
+    "name": "Homescreen.pl (PanzerGlass Xiaomi 14/13 listing)",
+    "url": "https://homescreen.pl/en/xiaomi-14/71020-panzerglass-ultra-wide-fit-xiaomi-14-13-screen-protection-5711724080661.html"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 13_152x71",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/13_152x71.txt"
+   },
+   {
+    "name": "Bizon via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2325-xiaomi-13-series"
+   }
+  ],
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Xiaomi 14 and 13, and the AL5hafii chart groups both at 152.8 x 71.5 mm."
+ },
+ {
+  "models": [
+   "Xiaomi 14 Pro",
+   "Xiaomi 14 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex Real Glass Full Cover at Galaxus (14 Pro, 14 Ultra)",
+    "url": "https://www.galaxus.ch/en/s1/product/displex-real-glass-full-cover-panzerglas-1-piece-xiaomi-14-pro-xiaomi-14-ultra-mobile-phone-screen-p-42926808"
+   },
+   {
+    "name": "Displex Real Glass Full Cover (Galaxus)",
+    "url": "https://www.galaxus.nl/en/s1/product/displex-real-glass-full-cover-panzerglas-1-piece-xiaomi-14-pro-xiaomi-14-ultra-mobile-phone-screen-p-42926808"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 50_161x75",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt"
+   }
+  ],
+  "note": "Displex sells one full-cover glass for the Xiaomi 14 Pro and 14 Ultra, and the AL5hafii chart groups both at 161.4 x 75.3 mm."
+ },
+ {
+  "models": [
+   "Xiaomi 15 Pro",
+   "Xiaomi 15 Ultra",
+   "Xiaomi 15S Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Rixus at 4phones.eu (15 Pro, 15 Ultra, 15S Pro)",
+    "url": "https://4phones.eu/products/rixus-clear-hd-ultra-thin-tempered-glass-for-xiaomi-15-pro-15-ultra"
+   },
+   {
+    "name": "Displex Premium Glass at Galaxus (15 Pro, 15 Ultra)",
+    "url": "https://www.galaxus.de/en/s1/product/displex-premium-glass-full-cover-armoured-glass-1-piece-xiaomi-15-ultra-xiaomi-15-pro-mobile-phone-s-54604616"
+   }
+  ],
+  "note": "Displex and SBS sell one glass for the 15 Pro and 15 Ultra, and Rixus (4phones.eu) adds the 15S Pro; PanzerGlass sells separate Pro and Ultra SKUs."
+ },
+ {
+  "models": [
+   "Xperia 1 VI",
+   "Xperia 1 VIII"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Trinity glass at K's Denki (Xperia 1 VIII / 1 VII / 1 VI)",
+    "url": "https://www.ksdenki.com/shop/g/g4582269607603/"
+   },
+   {
+    "name": "Spigen AlignMaster at Desertcart (Xperia 1 VIII, 1 VII, 1 VI)",
+    "url": "https://www.desertcart.ni/products/631806984-spigen-alignmaster-tempered-glass-screen-protector-for-xperia-1-viii.md"
+   }
+  ],
+  "note": "Trinity (K's Denki) and a Spigen AlignMaster listing both sell one glass for the Xperia 1 VIII, 1 VII and 1 VI."
+ },
+ {
+  "models": [
+   "Moto G86",
+   "Moto G86 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK 1UP glass for Moto G86 / G86 Power (aio.lv)",
+    "url": "https://aio.lv/en/product--3mk-5903108668415--12087653.md"
+   },
+   {
+    "name": "3MK FlexibleGlass G86 / G86 Power at Digitec",
+    "url": "https://www.digitec.ch/en/s1/product/3mk-flexibleglass-motorola-moto-g86-g86-power-clear-1-pcs-motorola-moto-c-mobile-phone-screen-protec-61076760"
+   },
+   {
+    "name": "Hofi glass for G86 5G / G86 5G Power (aio.lv)",
+    "url": "https://aio.lv/en/product--hofi-5906302363254--11705082.md"
+   }
+  ],
+  "note": "3MK and Hofi each sell one glass for the Moto G86 and G86 Power."
+ },
+ {
+  "models": [
+   "Moto G54",
+   "Moto G54 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK HardGlass Max Lite G54 / Power Edition at homescreen.pl",
+    "url": "https://homescreen.pl/en/g54/79727-tempered-glass-3mk-hardglass-max-lite-motorola-moto-g54-power-edition-black-5903108586085.html"
+   },
+   {
+    "name": "Alza glass for Moto G54 / G54 Power",
+    "url": "https://www.alza.at/EN/reviews/tempered-glass-protector-for-motorola-moto-g54-g54-power-compatible-with-the-case-camera-glass-12347053.htm"
+   }
+  ],
+  "note": "3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power."
+ },
+ {
+  "models": [
+   "Moto G14",
+   "Moto G54"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Just in Case glass Moto G14/54 at Coolblue",
+    "url": "https://www.coolblue.de/en/product/947468/just-in-case-tempered-glass-motorola-moto-g14-54-screen-protector.html"
+   },
+   {
+    "name": "SAFE. by PanzerGlass Motorola G14 4G | G54 5G",
+    "url": "https://panzerglass.com/nl/products/safe-by-panzerglass%c2%ae-screen-protector-motorola-g14-4g-ultra-wide-fit"
+   },
+   {
+    "name": "Galaxus (SAFE Ultra-Wide Fit, Moto G14 / G54)",
+    "url": "https://www.galaxus.be/en/s1/product/safe-ultra-wide-fit-1-piece-motorola-moto-g14-motorola-moto-g54-mobile-phone-screen-protectors-44999851"
+   },
+   {
+    "name": "Digitec (Techsuit ESD Glass G14 / G54 / G54 Power / G64)",
+    "url": "https://www.digitec.ch/en/s1/product/techsuit-esd-glass-motorola-moto-g14-moto-g54-moto-g54-power-edition-moto-g64-black-motorola-moto-g1-60230396"
+   }
+  ],
+  "note": "PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54."
+ },
+ {
+  "models": [
+   "Moto G40 Fusion",
+   "Moto G60"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Rhino Armour glass at Flipkart (G60, G40 Fusion)",
+    "url": "https://flipkart.com/rhino-armour-tempered-glass-guard-motorola-g60-g40-fusion/p/itma0802c0899765"
+   },
+   {
+    "name": "eBay.de multi-model listing (G60/G40 Fusion)",
+    "url": "https://www.ebay.de/itm/114620162453"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 5_169x75",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_169x75.txt"
+   }
+  ],
+  "note": "The AL5hafii chart groups the G40 Fusion and G60 at 169.6 x 75.9 mm, and a Flipkart Rhino Armour glass and an eBay.de glass both list them together."
+ },
+ {
+  "models": [
+   "Motorola Edge 20",
+   "Motorola Edge 20 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyBat glass for Edge 20 / 20 Pro / 20 Lite",
+    "url": "https://www.mybat.com/products/motorola-edge-pro-lite-tempered-glass-screen-protector-mybat"
+   },
+   {
+    "name": "MyBat full-coverage glass Edge 20 / 20 Lite / 20 Pro",
+    "url": "https://www.mybat.com/products/motorola-moto-edge-20-20-lite-20-pro-full-coverage-tempered-glass-screen-protector-mybat-pro"
+   }
+  ],
+  "note": "MyBat sells one glass for the Edge 20, 20 Pro and 20 Lite, but Dux Ducis and 3MK sell each separately, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Motorola Edge 50 Neo",
+   "Motorola Edge 60 Neo"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit at Multitronic (Edge 50 Neo, Edge 60 Neo 5G)",
+    "url": "https://multitronic.fi/en/products/4425783/panzerglass-ultra-wide-fit-moto-edge-50-neo---skarmskydd--black"
+   },
+   {
+    "name": "Spigen Glass Fit+ Edge 50 Neo / 60 Neo (aio.lv)",
+    "url": "https://aio.lv/en/product--spigen-thp4698--11707536.md"
+   }
+  ],
+  "note": "PanzerGlass and Spigen each sell one glass for the Edge 50 Neo and Edge 60 Neo."
+ },
+ {
+  "models": [
+   "Motorola Edge 50 Neo",
+   "Motorola ThinkPhone 25"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Mobilis 036339 at Sync (Edge 50 Neo, ThinkPhone 25)",
+    "url": "https://shop.wearesync.co.uk/036339.html"
+   },
+   {
+    "name": "Mobilis 036339 (itcurry.nl)",
+    "url": "https://itcurry.nl/en/mobilis-screen-protector-anti-shock-ik06-clear-for-motorola-edge-50-neo-thinkphone-25-036339/p/p6023159"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 5_154x71",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_154x71.txt"
+   }
+  ],
+  "note": "Mobilis sells one screen protector for the Edge 50 Neo and ThinkPhone 25, and the AL5hafii chart groups both at 154.1 x 71.2 mm."
+ },
+ {
+  "models": [
+   "Redmi Turbo 3",
+   "Poco F6"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+ Pro at Giztop (Redmi Turbo 3 / Poco F6)",
+    "url": "https://www.giztop.com/nillkin-cp-pro-glass-screen-protector-for-redmi-turbo-3.html"
+   },
+   {
+    "name": "Ibywind 2-pack at Desertcart (Poco F6 5G / Redmi Turbo 3)",
+    "url": "https://www.desertcart.vn/products/636582678-screen-protector-for-xiaomi-poco-f6-5g-redmi-turbo-3.md"
+   }
+  ],
+  "note": "Nillkin (Giztop) sells one glass for the Redmi Turbo 3 and Poco F6, and an Ibywind listing does too; the Poco F6 Pro is a different fit."
+ },
+ {
+  "models": [
+   "Redmi K70E",
+   "Poco X6 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
+    "url": "https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html"
+   }
+  ],
+  "note": "homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro."
+ },
+ {
+  "models": [
+   "Redmi 10C",
+   "Poco C40"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK glass Redmi 10C / C40 at Galaxus",
+    "url": "https://www.galaxus.at/en/s1/product/3mk-xiaomi-redmi-10c-c40-glass-1-piece-xiaomi-redmi-10c-mobile-phone-screen-protectors-23803908"
+   },
+   {
+    "name": "Evelatus full cover Redmi 10C / 12C / Poco C40 (aio.lv)",
+    "url": "https://aio.lv/en/product--evelatus-4752192060077--5072803.md"
+   },
+   {
+    "name": "connect glass Redmi 12C / 10C / Poco C40 (aio.lv)",
+    "url": "https://aio.lv/en/product--connect-conxiar12c03fcg--11006728.md"
+   }
+  ],
+  "note": "3MK, Evelatus, connect and nemo each sell one glass for the Redmi 10C and Poco C40."
+ },
+ {
+  "models": [
+   "Redmi 12",
+   "Redmi 12 5G",
+   "Redmi 13 5G",
+   "Poco M6 Plus"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "CEDO XPRO at Flipkart (Redmi 13 5G, Poco M6 Plus 5G, Redmi 12 5G, Redmi 12 4G)",
+    "url": "https://www.flipkart.com/cedo-xpro-tempered-glass-guard-poco-m6-plus-5g/p/itmf87543168ef3f"
+   },
+   {
+    "name": "Alza glass for Redmi 13 / Redmi 12",
+    "url": "https://m.alza.hu/tempered-glass-protector-pro-xiaomi-redmi-12-kompatibilni-s-pouzdrem-levne-d8595184.htm"
+   },
+   {
+    "name": "Displex Smart Glass (Galaxus) for Redmi 12, Poco M6, Redmi 13, Redmi 12 5G",
+    "url": "https://galaxus.de/en/s1/product/displex-smart-glass-1-piece-xiaomi-redmi-12-xiaomi-poco-m6-xiaomi-redmi-13-xiaomi-redmi-12-5g-mobile-36911587"
+   },
+   {
+    "name": "Desertcart (Eitansha glass for Redmi 13 5G, Poco M6 Pro 5G, Redmi 12 5G)",
+    "url": "https://www.desertcart.sg/products/659376933-for-redmi-13-5g-poco-m6-pro-5g-redmi-12"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 58_168x76",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/58_168x76.txt"
+   }
+  ],
+  "note": "The AL5hafii chart groups all four at 168.6 x 76.3 mm, CEDO lists all four on one glass, and Displex and Eitansha glasses cover the Redmi 12 / 12 5G / 13 5G subset."
+ },
+ {
+  "models": [
+   "Xiaomi 17",
+   "Xiaomi 17 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "3MK Hardy Hardura for Xiaomi 17 and 17 Pro (aio.lv)",
+    "url": "https://aio.lv/en/product--3mk-5903108751933--12495192.md"
+   },
+   {
+    "name": "Imak Full Glass for Xiaomi 17 / 17 Pro at Giztop",
+    "url": "https://www.giztop.com/imak-full-glass-screen-protector-for-xiaomi-17.html"
+   },
+   {
+    "name": "e.v.i. Smart Glass Xiaomi 17 / 17 Pro (aio.lv)",
+    "url": "https://aio.lv/en/product--evi-02218--11668078.md"
+   },
+   {
+    "name": "3MK via Homescreen.pl",
+    "url": "https://homescreen.pl/en/2322-xiaomi-17-series"
+   }
+  ],
+  "note": "3MK, Imak and e.v.i. each sell one glass for the Xiaomi 17 and 17 Pro."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 7",
+   "Xiaomi Pad 7 Pro",
+   "Xiaomi Pad 8",
+   "Xiaomi Pad 8 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect Glass Fit+ Pad 7 / 7 Pro / 8 / 8 Pro (aio.lv)",
+    "url": "https://aio.lv/en/product--tech-protect-5906302339440--11957074.md"
+   },
+   {
+    "name": "homescreen.pl category Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro",
+    "url": "https://homescreen.pl/2357-xiaomi-pad-7-model"
+   },
+   {
+    "name": "JETech 2-pack at Desertcart (Pad 8 / Pad 7)",
+    "url": "https://www.desertcart.ae/products/686823189-2-pack-screen-protector-for-xiaomi-pad-8-pad-7"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8."
+ },
+ {
+  "models": [
+   "Redmi 10",
+   "Redmi Note 11 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "TelForceOne 6D glass Redmi 10 / Note 11 / Note 11 4G / Note 11s 4G (aio.lv)",
+    "url": "https://aio.lv/en/product--telforceone-oem100920--11709298.md"
+   },
+   {
+    "name": "Giztop (Nillkin CP+ Pro for Redmi 10, Redmi 10 Prime, Redmi Note 11 4G)",
+    "url": "https://www.giztop.com/nillkin-cp-pro-glass-full-screen-protector-for-redmi-10.html"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 134_162x75",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+   }
+  ],
+  "note": "Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11."
+ },
+ {
+  "models": [
+   "Realme 8",
+   "Realme 8 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alza glass with frame for Realme 8/8 Pro",
+    "url": "https://m.alza.cz/EN/tempered-glass-protector-frame-for-realme-88-pro-black-camera-glass-d6424023.htm"
+   },
+   {
+    "name": "KARTRAY at Flipkart (Realme 7 Pro, X7, 8, 8 Pro)",
+    "url": "https://www.flipkart.com/kartray-screen-guard-realme-7-pro-x7-8-8-matte-tempered-glass/p/itme91e00da4a3e6"
+   },
+   {
+    "name": "TMIC at eBay.de (Realme 8, 8 Pro)",
+    "url": "https://www.ebay.de/itm/175021136452"
+   }
+  ],
+  "note": "Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree."
+ },
+ {
+  "models": [
+   "OnePlus Ace 5",
+   "OnePlus 13R"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+PRO at eBay.de (13R / Ace 5)",
+    "url": "https://www.ebay.de/itm/177224609120"
+   },
+   {
+    "name": "eBay.de 9H glass (13R, Ace 5 and others)",
+    "url": "https://www.ebay.de/itm/127004507868"
+   },
+   {
+    "name": "Daraz listing (13R / Ace 5)",
+    "url": "https://www.daraz.pk/products/13r-ace-5-i936376512.html"
+   },
+   {
+    "name": "Vopmart (Nillkin CP+ Pro for OnePlus 13R / Ace 5 / Ace 5 Pro)",
+    "url": "https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 50_161x75",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt"
+   }
+  ],
+  "note": "Vopmart sells Nillkin CP+ Pro glass for the OnePlus 13R and Ace 5, and the AL5hafii chart groups both at 161.7 x 75.8 mm."
+ },
+ {
+  "models": [
+   "OnePlus Nord 2 5G",
+   "OnePlus Nord 2T"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "eBay.de 9D glass (Nord 2 5G / 2T / N20 5G)",
+    "url": "https://www.ebay.de/itm/285619360060"
+   },
+   {
+    "name": "eBay.de glass (Nord 2 5G / 2T / N20 5G)",
+    "url": "https://www.ebay.de/itm/176370257965"
+   }
+  ],
+  "note": "Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Realme C53",
+   "Realme Narzo N53"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MyScreen Diamond Glass Edge Realme C53/Narzo N53 at homescreen.pl",
+    "url": "https://homescreen.pl/en/80160-tempered-glass-myscreen-diamond-glass-edge-full-glue-for-realme-c53-narzo-n53-black.html"
+   },
+   {
+    "name": "MyScreen Diamond Glass Edge Lite Realme C53 / Narzo N53 at homescreen.pl",
+    "url": "https://homescreen.pl/realme-c50-series/80512-szklo-hartowane-myscreen-diamond-glass-edge-lite-full-glue-realme-c53-narzo-n53-czarny-5904433223676.html"
+   }
+  ],
+  "note": "MyScreen (homescreen.pl) sells two glasses for the Realme C53 and Narzo N53."
+ },
+ {
+  "models": [
+   "TCL 30 SE",
+   "TCL 30E",
+   "TCL 305",
+   "TCL 306"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass TCL 30 SE | 30E | 305 | 306 at BT Ireland webstore",
+    "url": "https://webstore.btireland.com/panzerglass-r-screen-protector-tcl-30-se-30e-305-306-4236.html"
+   },
+   {
+    "name": "Volte-Tel glass TCL 305/306/30E/30SE at Skroutz",
+    "url": "https://skroutz.mt/s/35968477/Volte-Tel-2-5D-0-3mm-Full-Glue-Full-Face-Tempered-Glass-Tcl-305-306-30-E-30-Se-8311581.html"
+   }
+  ],
+  "note": "PanzerGlass and Volte-Tel each sell one glass for TCL 30 SE, 30E, 305 and 306; one Volte-Tel buyer says it is slightly large on the 30E."
+ },
+ {
+  "models": [
+   "HMD Pulse+",
+   "HMD Pulse",
+   "HMD Pulse Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit at Proshop (HMD Pulse, Pulse Pro, Pulse+)",
+    "url": "https://www.proshop.se/Mobiltelefontillbehoer-Skyddsfilm/PanzerGlass-screen-protector-for-mobile-phone-ultra-wide-fit/3385866"
+   },
+   {
+    "name": "mr.shield 3-pack at Desertcart (Pulse, Pulse+, Pulse Pro)",
+    "url": "https://www.desertcart.ae/products/656914646-screen-protector-compatible-with-hmd-pulse-pulse-pulse-pro-3.md"
+   },
+   {
+    "name": "Bechtle (PanzerGlass HMD Pulse/+/Pro)",
+    "url": "https://www.bechtle.com/de-en/shop/panzerglass-hmd-pulse-plus-pro-screen-prot--4879256--p"
+   }
+  ],
+  "note": "PanzerGlass (via Proshop and Bechtle) and Mr.Shield each sell one glass for the HMD Pulse, Pulse+ and Pulse Pro."
+ },
+ {
+  "models": [
+   "vivo Y16",
+   "vivo Y02s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Dux Ducis 9D glass Vivo Y16/Y02s at homescreen.pl",
+    "url": "https://homescreen.pl/en/dux-ducis-9d-tempered-glass-vivo-y16y02s-black-case-friendly.html"
+   },
+   {
+    "name": "Wozinsky Full Glue Vivo Y16 / Y02s at Galaxus",
+    "url": "https://www.galaxus.at/en/s1/product/wozinsky-full-glue-tempered-glass-vivo-y16-y02s-full-screen-with-frame-black-case-friendly-vivo-y16--25180951"
+   },
+   {
+    "name": "cofi glass Vivo Y16 / Y02s at MediaMarkt",
+    "url": "https://www.mediamarkt.at/de/product/_cofi-3x-schutz-glas-9h-displayschutzfur-vivo-y16-y02s-105556686"
+   }
+  ],
+  "note": "Dux Ducis (homescreen.pl), Wozinsky and cofi each sell one glass for the vivo Y16 and Y02s; plain Y02 is named only by one Thai listing."
+ },
+ {
+  "models": [
+   "Realme GT Neo2",
+   "Realme GT2",
+   "Realme Q5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+ Pro (GT Neo 2, GT2, Q5 Pro, GT Neo 3T)",
+    "url": "https://nillkin.org/smartphones-accessories/realme-brand-accessories/realme-gt-neo-2-accessories/nillkin-realme-gt-neo-2-cp-pro"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 134_162x75",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+   }
+  ],
+  "note": "Nillkin's CP+ Pro glass is listed for the Realme GT Neo 2, GT2 and Q5 Pro, and the AL5hafii chart groups all three at 162.9 x 75.8 mm."
+ },
+ {
+  "models": [
+   "Moto G82",
+   "Moto G71s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "TelForceOne 9D glass G52 / G71s / G72 / G82 (aio.lv)",
+    "url": "https://aio.lv/en/product--telforceone-82296239--11714608.md"
+   },
+   {
+    "name": "eBay.de glass (Moto G82, G71s, G31, G52)",
+    "url": "https://www.ebay.de/itm/403951824269"
+   },
+   {
+    "name": "AL5hafii mobiles-compatibility-charts 47_160x74",
+    "url": "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/47_160x74.txt"
+   }
+  ],
+  "note": "TelForceOne (aio.lv) sells one glass for the Moto G71s and G82, and the AL5hafii chart groups both at 160.9 x 74.5 mm."
+ },
+ {
+  "models": [
+   "Oppo Reno10",
+   "Oppo Reno10 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Imak OPPO Reno10 / Reno10 Pro glass at Digitec",
+    "url": "https://www.digitec.ch/en/s1/product/imak-oppo-reno10-reno10-pro-armoured-glass-protective-film-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobil-39771463"
+   },
+   {
+    "name": "Tumundosmartphone UV glass Reno 10 5G / 10 Pro 5G at MediaMarkt Spain",
+    "url": "https://www.mediamarkt.es/es/product/_protector-pantalla-movil-oppo-reno-10-5g-10-pro-5g-tumundosmartphone-oppo-oppo-reno-10-5g-10-pro-5g-cristal-templado-uv-132851919.html"
+   },
+   {
+    "name": "3MK HardGlass Max Lite (Digitec) Oppo Reno 10 / Reno 10 Pro",
+    "url": "https://www.digitec.ch/en/s1/product/3mk-hardglass-max-lite-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobile-phone-screen-protectors-42403044"
+   }
+  ],
+  "note": "Imak and 3MK HardGlass Max Lite (both via Digitec) each sell one glass for the Reno10 and Reno10 Pro; the AL5hafii chart puts them 0.1 mm apart."
+ },
+ {
+  "models": [
+   "Fairphone 6",
+   "Fairphone 6+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue (Fairphone 6 glass)",
+    "url": "https://www.coolblue.nl/en/product/968582/fairphone-6-6-glass-screen-protector.html"
+   }
+  ],
+  "note": "Coolblue sells one glass for the Fairphone 6 and 6+"
+ },
+ {
+  "models": [
    "AYANEO 2",
    "AYANEO Geek"
   ],
@@ -1623,10 +2336,13 @@
    {
     "name": "Supershieldz",
     "url": "https://www.supershieldz.com/bc-tg-as-rog-phone-7-5g-2p"
+   },
+   {
+    "name": "3MK",
+    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-asus-rog-phone-7-7-ultimate-3mk-flexibleglass-pro"
    }
   ],
-  "note": "Supershieldz sells one glass for ROG Phone 7 / 7 Ultimate, listed separately from its ROG 5/6 glass: test fit before mixing with ROG 6.",
-  "weak": true
+  "note": "3MK sells one FlexibleGlass Pro for ROG Phone 7 / 7 Ultimate, agreeing with Supershieldz; hybrid glass."
  },
  {
   "models": [
@@ -1638,6 +2354,10 @@
    {
     "name": "Supershieldz",
     "url": "https://www.supershieldz.com/bc-tg-nothing-phone-2a-2p"
+   },
+   {
+    "name": "3MK",
+    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-nothing-phone-2a-2a-plus-community-edition-3mk-flexibleglass-pro"
    }
   ],
   "note": "Supershieldz sells one glass for Nothing Phone 2a Plus / Phone 2a, a missed merge of NTH-1003 and NTH-1005."
@@ -2202,6 +2922,10 @@
    {
     "name": "eBay.de seller",
     "url": "https://www.ebay.de/itm/133074455818"
+   },
+   {
+    "name": "3MK",
+    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-nubia-red-magic-10-pro-pro-plus-3mk-flexibleglass-pro"
    }
   ],
   "note": "Giztop sells one official tempered glass for Red Magic 10 Pro and 10 Pro Plus, and an eBay.de listing agrees; merges ZTE-1307 and ZTE-1308."
@@ -2424,6 +3148,10 @@
    {
     "name": "Volte-Tel via Skroutz",
     "url": "https://www.skroutz.mt/s/57535227/Volte-Tel-2-5D-0-3mm-Full-Glue-Tempered-Glass-TCL-50-NXTPAPER-5G-TCL-50-Pro-NXTPAPER-5G-8370625.html"
+   },
+   {
+    "name": "3MK",
+    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-tcl-50-nxtpaper-5g-50-pro-nxtpaper-5g-3mk-flexibleglass-pro"
    }
   ],
   "note": "3MK FlexibleGlass Lite and Volte-Tel 2.5D full-glue tempered glass are each sold for TCL 50 NXTpaper 5G / 50 Pro NXTpaper 5G; Alcatel V3 Ultra not named."
@@ -8489,6 +9217,14 @@
    {
     "name": "Digitec (PanzerGlass)",
     "url": "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-fitbit-versa-34-and-sense-smartwatch-protective-film-35524460"
+   },
+   {
+    "name": "ZAGG Glass Fusion (Google Store)",
+    "url": "https://store.google.com/product/zagg_glassfusion_screen_protector_smartwatch?hl=en-US"
+   },
+   {
+    "name": "PanzerGlass",
+    "url": "https://panzerglass.com/products/panzerglass%E2%84%A2-fitbit-versa-4-versa-3-sense-screen-protector-glass"
    }
   ],
   "note": "ZAGG Glass Fusion (Google Store) lists Sense 2, Sense, Versa 4 and Versa 3; PanzerGlass lists Versa 3/4 and Sense. Hybrid glass."
@@ -14117,36 +14853,6 @@
    }
   ],
   "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
- },
- {
-  "models": [
-   "Xiaomi 17",
-   "Xiaomi 17 Pro"
-  ],
-  "fit": "same",
-  "sources": [
-   {
-    "name": "3MK via Homescreen.pl",
-    "url": "https://homescreen.pl/en/2322-xiaomi-17-series"
-   }
-  ],
-  "note": "3MK HardGlass Max is sold for Xiaomi 17 / 17 Pro as one product; only one brand seen, so test first.",
-  "weak": true
- },
- {
-  "models": [
-   "Xiaomi 13",
-   "Xiaomi 14"
-  ],
-  "fit": "same",
-  "sources": [
-   {
-    "name": "Bizon via Homescreen.pl",
-    "url": "https://homescreen.pl/en/2325-xiaomi-13-series"
-   }
-  ],
-  "note": "Bizon Glass Edge 2 is sold for Xiaomi 13 / Xiaomi 14 as one product; only one brand seen, so test first.",
-  "weak": true
  },
  {
   "models": [

@@ -43,14 +43,15 @@ for g in real(new):
     if not olds:
         kinds.append('new')
     else:
-        same = len(olds) == 1 and set(O[g['models'][0]]['models']) == set(g['models'])
+        prev = next(O[m] for m in g['models'] if m in O)  # the old group of this group's first known model
+        same = len(olds) == 1 and set(prev['models']) == set(g['models'])
         if len(olds) > 1: kinds.append('merged')
-        elif not same: kinds.append('split' if not added and len(g['models']) < len(O[g['models'][0]]['models']) else 'models changed')
+        elif not same: kinds.append('split' if not added and len(g['models']) < len(prev['models']) else 'models changed')
         if olds != [g['id']]: kinds.append('renumbered' if same else 'new code' if g['id'] not in olds else None)
         kinds = [k for k in kinds if k]
-        prev = {O[m]['check'] for m in g['models'] if m in O}
-        if g['check'] == 'Confirmed' and prev != {'Confirmed'}: kinds.append('confirmed')
-        if g['check'] != 'Confirmed' and 'Confirmed' in prev: kinds.append('unconfirmed')
+        checks = {O[m]['check'] for m in g['models'] if m in O}
+        if g['check'] == 'Confirmed' and checks != {'Confirmed'}: kinds.append('confirmed')
+        if g['check'] != 'Confirmed' and 'Confirmed' in checks: kinds.append('unconfirmed')
         if added: kinds.append('models added')
     if not kinds: continue
     c = dict(code=g['id'], kinds=kinds, old=olds, models=g['models'], check=g['check'])

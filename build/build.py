@@ -72,9 +72,16 @@ CODE.update(NEWB)
 WSIZE = {'Huawei Watch GT 2': [42, 46], 'Huawei Watch GT 3': [42, 46], 'Huawei Watch GT 3 Pro': [43, 46],
          'Huawei Watch GT 4': [41, 46], 'Huawei Watch GT 5': [41, 46], 'Huawei Watch GT 5 Pro': [42, 46],
          'Huawei Watch GT 6': [41, 46], 'Honor MagicWatch 2': [42, 46]}
+# Brand words dropped before comparing names, only within that brand (a global strip of "vivo" merged BLU's
+# Vivo Selfie into its Selfie)
+_OWN = {'OPP': 'oppo', 'ONE': 'oneplus', 'ZTE': 'zte', 'XIA': 'xiaomi', 'MOT': 'motorola|moto', 'LEN': 'lenovo',
+        'ASU': 'asus', 'SAM': 'samsung', 'SON': 'sony ericsson|sony', 'NVI': 'nvidia', 'ACE': 'acer',
+        'GAR': 'garmin-asus|garmin', 'MIC': 'microsoft', 'RAZ': 'razer', 'NOK': 'nokia|hmd', 'VIV': 'vivo',
+        'REA': 'realme', 'HUA': 'huawei', 'HON': 'honor', 'TCL': 'tcl|alcatel', 'NTH': 'nothing', 'LGE': 'lg',
+        'HTC': 'htc', 'BLB': 'blackberry', 'FAI': 'fairphone'}
 def _norm(code, n):
     n = n.lower()
-    n = re.sub(r'\b(oppo|oneplus|zte|xiaomi|motorola|moto|lenovo|asus|samsung|sony ericsson|sony|nvidia|acer|garmin-asus|garmin|microsoft|razer|nokia|hmd|vivo|realme|huawei|honor|tcl|alcatel|nothing|lg|htc|blackberry|fairphone)\b', '', n)
+    if code in _OWN: n = re.sub(r'\b(' + _OWN[code] + r')\b', '', n)
     return re.sub(r'[^a-z0-9+]', '', n)
 CATALOG_ADDED = []
 def add_catalog():
@@ -124,7 +131,7 @@ for txt, code in [(NM.GARMIN, 'GAR'), (NM.ZTE2, 'ZTE')]:
         names = ns.split(';')
         for n in names: add(code, n, CAT[c], d)
         if len(names) > 1: SETS.append((code, names))
-for line in [l for l in (NM.HANDHELD + NM.HANDHELD2 + NM.HANDHELD3 + NM.HANDHELD4 + NM.EXTRA + NM.EXTRA2 + NM.HANDHELD5 + NM.IPOD + NM.EXTRA3).splitlines() if l.strip()]:
+for line in [l for l in (NM.HANDHELD + NM.HANDHELD2 + NM.HANDHELD3 + NM.HANDHELD4 + NM.EXTRA + NM.EXTRA2 + NM.HANDHELD5 + NM.IPOD + NM.EXTRA3 + NM.EXTRA4).splitlines() if l.strip()]:
     d, c, code, ns = line.split('|')
     names = ns.split(';')
     for n in names: add(code, n, CAT[c] if c in CAT else 'Handheld', d)
@@ -321,6 +328,7 @@ SINGLE = {
 SETNOTE = {
  'nubia Red Magic 12 Pro+': (K, 'Global version of the 12 Pro+: same phone'),
  'Legion Go 2': (C, '8.8in. SteamOS version is the same hardware. Sold separately from Go S glass'),
+ 'Legion Go S': (C, '8in. SteamOS version is the same hardware'),
  'Lenovo Legion Y700 (Gen 5)': (K, 'Same tablet: Y700 in China, Legion Tab (8.8", 5) elsewhere'),
  'Retroid Pocket Duo Lite': (K, 'Two screens: buy top and bottom sets. Lite+ uses the Lite body'),
  'Miyoo Mini Plus': (K, 'V2 keeps the same body and screen'),
@@ -341,6 +349,8 @@ for code, names in SETS:
     st, note = SETNOTE.get(names[0], (K, 'Same case and screen size: test before swapping'))
     SHARED.append((code, names, st, note))
 SINGLE.update({
+ ('MIC', 'Surface Duo'): (K, 'Two screens: buy a set that covers both screens'),
+ ('MIC', 'Surface Duo 2'): (K, 'Two screens: buy a set that covers both screens. The hinge also has a small glance screen'),
  ('ACE', 'Acer Iconia A14 (2026)'): (K, '2026 refresh: check against the 2025 A14'),
  ('ACE', 'Acer Iconia A16 (2026)'): (K, '2026 refresh: check against the 2025 A16'),
  ('ACE', 'Acer Iconia X14 (2026)'): (K, '2026 refresh: check against the 2025 X14'),

@@ -1654,22 +1654,42 @@
 "APP"
 ],
 "models": [
-"iPhone 14 Pro"
+"iPhone 14 Pro",
+"iPhone 15",
+"iPhone 16"
 ],
 "released": [
-"2022-09"
+"2022-09",
+"2023-09",
+"2024-09"
 ],
 "check": "Confirmed",
-"note": "Belkin list",
+"note": "Belkin sells two glass products for the iPhone 16, iPhone 15 and iPhone 14 Pro as one fit. Belkin list. PanzerGlass list",
 "device": "Phone",
+"sources": [
+[
+"Belkin TemperedGlass for iPhone 16 / 15 / 14 Pro (OVA135zz)",
+"https://www.belkin.com/p/temperedglass-treated-screen-protector-for-iphone-16-iphone-15-iphone-14-pro/OVA135zz.html"
+],
+[
+"Belkin UltraGlass 2 for iPhone 16 / 15 / 14 Pro (OVA131zz)",
+"https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-iphone-15-iphone-14-pro/OVA131zz.html"
+]
+],
 "codes": [
-"A2890, A2650, A2889, A2892, iPhone15,2, A2891"
+"A2890, A2650, A2889, A2892, iPhone15,2, A2891",
+"A3090, A2846, A3089, A3092, iPhone15,4",
+"A3287, A3081, A3286, A3288, iPhone17,3"
 ],
 "screens": [
+"6.1in",
+"6.1in",
 "6.1in"
 ],
 "dims": [
-"147.5 x 71.5 x 7.9 mm"
+"147.5 x 71.5 x 7.9 mm",
+"147.6 x 71.6 x 7.8 mm",
+"147.6 x 71.6 x 7.8 mm"
 ]
 },
 {
@@ -1704,36 +1724,6 @@
 "APP"
 ],
 "models": [
-"iPhone 15",
-"iPhone 16"
-],
-"released": [
-"2023-09",
-"2024-09"
-],
-"check": "Confirmed",
-"note": "PanzerGlass list",
-"device": "Phone",
-"codes": [
-"A3090, A2846, A3089, A3092, iPhone15,4",
-"A3287, A3081, A3286, A3288, iPhone17,3"
-],
-"screens": [
-"6.1in",
-"6.1in"
-],
-"dims": [
-"147.6 x 71.6 x 7.8 mm",
-"147.6 x 71.6 x 7.8 mm"
-]
-},
-{
-"id": "APP-1019",
-"brand": "Apple",
-"brands": [
-"APP"
-],
-"models": [
 "iPhone 15 Plus",
 "iPhone 16 Plus"
 ],
@@ -1758,7 +1748,7 @@
 ]
 },
 {
-"id": "APP-1020",
+"id": "APP-1019",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1783,7 +1773,7 @@
 ]
 },
 {
-"id": "APP-1021",
+"id": "APP-1020",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1808,7 +1798,7 @@
 ]
 },
 {
-"id": "APP-1022",
+"id": "APP-1021",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1838,7 +1828,7 @@
 ]
 },
 {
-"id": "APP-1023",
+"id": "APP-1022",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1869,7 +1859,7 @@
 ]
 },
 {
-"id": "APP-1024",
+"id": "APP-1023",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1900,7 +1890,7 @@
 ]
 },
 {
-"id": "APP-1025",
+"id": "APP-1024",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1930,7 +1920,7 @@
 ]
 },
 {
-"id": "APP-1026",
+"id": "APP-1025",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1966,7 +1956,7 @@
 ]
 },
 {
-"id": "APP-1027",
+"id": "APP-1026",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -13903,21 +13893,44 @@
 "SAM"
 ],
 "models": [
-"Galaxy A22 5G"
+"Galaxy A22 5G",
+"Galaxy F42 5G"
 ],
 "released": [
-"2021-06"
+"2021-06",
+"2021-09"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Saii (Mytrendyphone) and two separate Flipkart glasses, Blue Labs and FAD-E, all list the A22 5G and F42 5G together",
 "device": "Phone",
+"sources": [
+[
+"Saii glass at Mytrendyphone",
+"https://www.mytrendyphone.co.uk/shop/saii-premium-samsung-galaxy-a22-5g-tempered-glass-270918p.html"
+],
+[
+"Mytrendyphone (Saii Premium glass)",
+"https://mytrendyphone.eu/shop/saii-premium-samsung-galaxy-a22-5g-tempered-glass-270918p.html"
+],
+[
+"Flipkart (Blue Labs glass for Galaxy F42 5G, A22 5G)",
+"https://www.flipkart.com/blue-labs-tempered-glass-guard-samsung-galaxy-f42-5g-a22-5g/p/itm0ce683903527e"
+],
+[
+"Flipkart (FAD-E glass for Galaxy A22 5G, F42 5G)",
+"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-a22-5g-f42-5g/p/itm90790342687e4"
+]
+],
 "codes": [
-"SM-A226B, SM-A226B/DS, SM-A226B/DSN, SM-A226BR, SM-A226BR/N, SM-A226L, SC-56B"
+"SM-A226B, SM-A226B/DS, SM-A226B/DSN, SM-A226BR, SM-A226BR/N, SM-A226L, SC-56B",
+"SM-E426B, SM-E426B/DS"
 ],
 "screens": [
+"6.6in",
 "6.6in"
 ],
 "dims": [
+"167.2 x 76.4 x 9 mm",
 "167.2 x 76.4 x 9 mm"
 ]
 },
@@ -14097,31 +14110,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy F42 5G"
-],
-"released": [
-"2021-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-E426B, SM-E426B/DS"
-],
-"screens": [
-"6.6in"
-],
-"dims": [
-"167.2 x 76.4 x 9 mm"
-]
-},
-{
-"id": "SAM-1436",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy A13 5G",
 "Galaxy M13 5G"
 ],
@@ -14146,7 +14134,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14177,7 +14165,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14211,7 +14199,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14245,7 +14233,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14280,25 +14268,37 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
 "Galaxy A13",
+"Galaxy A23",
+"Galaxy M23",
+"Galaxy M33",
+"Galaxy F23",
+"Galaxy M13",
 "Galaxy F13",
 "Galaxy A13 (SM-A137)",
-"Galaxy M13 (India)"
+"Galaxy M13 (India)",
+"Galaxy A23 5G"
 ],
 "released": [
 "2022-03",
+"2022-03",
+"2022-03",
+"2022-03",
+"2022-03",
+"2022-05",
 "2022-06",
 "2022-06",
-"2022-07"
+"2022-07",
+"2022-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A13, Galaxy F13, Galaxy M13 (India). The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India)",
+"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India). The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
 "device": "Phone",
 "sources": [
 [
@@ -14328,98 +14328,19 @@
 [
 "Flipkart CORRVIIXA",
 "https://www.flipkart.com/corrviixa-edge-tempered-glass-samsung-galaxy-a13-f13-m13/p/itmb11df9bc5d756"
-]
-],
-"codes": [
-"SM-A135F, SM-A135F/DS, SM-A135M, SM-A135U, SM-A135U1, SM-A135N",
-"SM-E135F, SM-E135F/DS",
-"SM-A137F, SM-A137F/DSN, SM-A137F/DS",
-"SM-M135FU, SM-M135FU/DS"
-],
-"screens": [
-"6.6in",
-"6.6in",
-"6.6in",
-"6.6in"
-],
-"dims": [
-"165.1 x 76.4 x 8.8 mm",
-"165.4 x 76.9 x 9.3 mm",
-"165.1 x 76.4 x 8.8 mm",
-"165.4 x 76.9 x 9.3 mm"
-]
-},
-{
-"id": "SAM-1442",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A23",
-"Galaxy M13",
-"Galaxy A23 5G"
-],
-"released": [
-"2022-03",
-"2022-05",
-"2022-08"
-],
-"check": "Check",
-"note": "Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit. Same body size and screen specs: test before swapping",
-"device": "Phone",
-"sources": [
-[
-"Flipkart Colorcase",
-"https://www.flipkart.com/colorcase-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmb4e692e2608aa"
 ],
 [
-"Flipkart Celzo",
-"https://www.flipkart.com/celzo-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmbbe35c871cc0a"
+"PanzerGlass SAFE (A13/A23/M13/M23 5G/M33 5G/A23 5G)",
+"https://panzerglass.com/products/safe-samsung-galaxy-a13-a23-m23-5g-m33-5g-cf-black"
 ],
 [
-"Flipkart FAD-E",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-f23-5g-m23-m33-a23-a13/p/itmaca2ebb1ef694"
+"Displex Real Glass at Digitec (A23, A23 5G, F13, M13, M23, M33)",
+"https://www.digitec.ch/en/s1/product/displex-real-glass-2d-panzerglas-1-piece-samsung-galaxy-a23-5g-samsung-galaxy-a23-samsung-galaxy-m33-22906667"
 ],
 [
-"Flipkart MD care",
-"https://www.flipkart.com/md-care-edge-tempered-glass-samsung-a23-m23-f23-m33-m13-4g-2-5d-curved-premium-ultimate-protection/p/itm80d6e17e4e64f"
-]
+"Spigen India Glas.tR (M13/M23 5G/M33 5G/F23 5G/A04s)",
+"https://spigen.in/products/galaxy-m14-f14-m13-m13-5g-m33-5g-m23-5g-f23-5g-a04s-glas-tr-screen-protector"
 ],
-"codes": [
-"SM-A235F, SM-A235F/DS, SM-A235F/DSN, SM-A235M, SM-A235M/DS, SM-A235N",
-"SM-M135F, SM-M135F/DSN",
-"SM-A236U, SM-A236U1, SM-A236B, SM-A236B/DS, SM-A236B/DSN, SM-A236E, SM-S236DL"
-],
-"screens": [
-"6.6in",
-"6.6in",
-"6.6in"
-],
-"dims": [
-"165.4 x 76.9 x 8.4 mm",
-"165.4 x 76.9 x 8.4 mm",
-"165.4 x 76.9 x 8.4 mm"
-]
-},
-{
-"id": "SAM-1443",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M23",
-"Galaxy F23"
-],
-"released": [
-"2022-03",
-"2022-03"
-],
-"check": "Confirmed",
-"note": "Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit",
-"device": "Phone",
-"sources": [
 [
 "Flipkart MD care (A23/M23/F23/M33/M13 4G)",
 "https://www.flipkart.com/md-care-edge-tempered-glass-samsung-a23-m23-f23-m33-m13-4g-2-5d-curved-premium-ultimate-protection/p/itm80d6e17e4e64f"
@@ -14431,82 +14352,47 @@
 [
 "Flipkart Mesquinho",
 "https://www.flipkart.com/mesquinho-edge-tempered-glass-samsung-galaxy-f23-5g-a23-a13-m33-m23-5g-matte-glass/p/itm7363b67dbe4de"
-],
-[
-"Flipkart Colorcase",
-"https://www.flipkart.com/colorcase-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmb4e692e2608aa"
-],
-[
-"Flipkart Celzo",
-"https://www.flipkart.com/celzo-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmbbe35c871cc0a"
-],
-[
-"Flipkart FAD-E",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-f23-5g-m23-m33-a23-a13/p/itmaca2ebb1ef694"
-],
-[
-"Flipkart MD care",
-"https://www.flipkart.com/md-care-edge-tempered-glass-samsung-a23-m23-f23-m33-m13-4g-2-5d-curved-premium-ultimate-protection/p/itm80d6e17e4e64f"
 ]
 ],
 "codes": [
+"SM-A135F, SM-A135F/DS, SM-A135M, SM-A135U, SM-A135U1, SM-A135N",
+"SM-A235F, SM-A235F/DS, SM-A235F/DSN, SM-A235M, SM-A235M/DS, SM-A235N",
 "SM-M236B, SM-M236B/DS, SM-M236L",
-"SM-E236B, SM-E236B/DS"
+"SM-M336B, SM-M336B/DS, SM-M336BU, SM-M336BU/DS, SM-M336K",
+"SM-E236B, SM-E236B/DS",
+"SM-M135F, SM-M135F/DSN",
+"SM-E135F, SM-E135F/DS",
+"SM-A137F, SM-A137F/DSN, SM-A137F/DS",
+"SM-M135FU, SM-M135FU/DS",
+"SM-A236U, SM-A236U1, SM-A236B, SM-A236B/DS, SM-A236B/DSN, SM-A236E, SM-S236DL"
 ],
 "screens": [
+"6.6in",
+"6.6in",
+"6.6in",
+"6.6in",
+"6.6in",
+"6.6in",
+"6.6in",
+"6.6in",
 "6.6in",
 "6.6in"
 ],
 "dims": [
+"165.1 x 76.4 x 8.8 mm",
+"165.4 x 76.9 x 8.4 mm",
 "165.5 x 77 x 8.4 mm",
-"165.5 x 77 x 8.4 mm"
+"165.4 x 76.9 x 9.4 mm",
+"165.5 x 77 x 8.4 mm",
+"165.4 x 76.9 x 8.4 mm",
+"165.4 x 76.9 x 9.3 mm",
+"165.1 x 76.4 x 8.8 mm",
+"165.4 x 76.9 x 9.3 mm",
+"165.4 x 76.9 x 8.4 mm"
 ]
 },
 {
-"id": "SAM-1444",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M33"
-],
-"released": [
-"2022-03"
-],
-"check": "Check",
-"note": "Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit",
-"device": "Phone",
-"sources": [
-[
-"Flipkart Colorcase",
-"https://www.flipkart.com/colorcase-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmb4e692e2608aa"
-],
-[
-"Flipkart Celzo",
-"https://www.flipkart.com/celzo-tempered-glass-guard-samsung-galaxy-a23-5g-a13-4g-f23-m23-m33/p/itmbbe35c871cc0a"
-],
-[
-"Flipkart FAD-E",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-f23-5g-m23-m33-a23-a13/p/itmaca2ebb1ef694"
-],
-[
-"Flipkart MD care",
-"https://www.flipkart.com/md-care-edge-tempered-glass-samsung-a23-m23-f23-m33-m13-4g-2-5d-curved-premium-ultimate-protection/p/itm80d6e17e4e64f"
-]
-],
-"codes": [
-"SM-M336B, SM-M336B/DS, SM-M336BU, SM-M336BU/DS, SM-M336K"
-],
-"screens": [
-"6.6in"
-],
-"dims": [
-"165.4 x 76.9 x 9.4 mm"
-]
-},
-{
-"id": "SAM-1445",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14531,7 +14417,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14574,7 +14460,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14599,7 +14485,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14624,7 +14510,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14665,7 +14551,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14687,7 +14573,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14709,7 +14595,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14734,7 +14620,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14759,7 +14645,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14813,7 +14699,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14847,7 +14733,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14881,7 +14767,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14917,7 +14803,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14956,7 +14842,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14987,7 +14873,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15031,7 +14917,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15056,7 +14942,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15108,7 +14994,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15150,7 +15036,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15172,7 +15058,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15232,7 +15118,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15263,7 +15149,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15309,7 +15195,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15342,7 +15228,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15390,7 +15276,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15425,7 +15311,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15450,7 +15336,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15495,7 +15381,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15545,7 +15431,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15567,7 +15453,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15668,7 +15554,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15719,7 +15605,7 @@
 ]
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15816,7 +15702,7 @@
 ]
 },
 {
-"id": "SAM-1478",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15838,7 +15724,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15866,7 +15752,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15919,7 +15805,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15984,7 +15870,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16022,7 +15908,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16062,7 +15948,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16094,7 +15980,7 @@
 ]
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16116,7 +16002,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16144,7 +16030,7 @@
 ]
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16172,7 +16058,7 @@
 ]
 },
 {
-"id": "SAM-1488",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16197,7 +16083,7 @@
 ]
 },
 {
-"id": "SAM-1489",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16222,7 +16108,7 @@
 ]
 },
 {
-"id": "SAM-1490",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16247,7 +16133,7 @@
 ]
 },
 {
-"id": "SAM-1491",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16269,7 +16155,7 @@
 ]
 },
 {
-"id": "SAM-1492",
+"id": "SAM-1488",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16297,7 +16183,7 @@
 ]
 },
 {
-"id": "SAM-1493",
+"id": "SAM-1489",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16319,7 +16205,23 @@
 ]
 },
 {
-"id": "SAM-1494",
+"id": "SAM-1490",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"Galaxy F70 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "SAM-1491",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16335,7 +16237,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1495",
+"id": "SAM-1492",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16351,7 +16253,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1496",
+"id": "SAM-1493",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16361,6 +16263,54 @@
 ],
 "released": [
 "2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "SAM-1494",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"Galaxy F08"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "SAM-1495",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"Galaxy F70"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "SAM-1496",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"Galaxy M08"
+],
+"released": [
+"2026-10"
 ],
 "check": "Check",
 "note": "",
@@ -18176,9 +18126,17 @@
 "2022-02"
 ],
 "check": "Check",
-"note": "Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own",
+"note": "PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own",
 "device": "Tablet",
 "sources": [
+[
+"PanzerGlass Ultra Wide Fit at Swiss Post shop (S8/S9/S10 Ultra)",
+"https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-ultra-wide-fit-galaxy-tab-s8-ultra-s9-ultra-s10-ultra/p/847265"
+],
+[
+"PanzerGlass Case Friendly at Swiss Post shop (S8/S9 Ultra)",
+"https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-tablet-screen-protector-case-friendly-ab-galaxy-tab-s8-s9-ultra/p/846315"
+],
 [
 "Spigen",
 "https://www.spigen.com/products/galaxy-tab-s-series-screen-protector-ez-fit-glas-tr"
@@ -18209,9 +18167,17 @@
 "2024-09"
 ],
 "check": "Confirmed",
-"note": "ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own",
+"note": "PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit. ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own",
 "device": "Tablet",
 "sources": [
+[
+"PanzerGlass Ultra Wide Fit at Swiss Post shop (S8/S9/S10 Ultra)",
+"https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-ultra-wide-fit-galaxy-tab-s8-ultra-s9-ultra-s10-ultra/p/847265"
+],
+[
+"PanzerGlass Case Friendly at Swiss Post shop (S8/S9 Ultra)",
+"https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-tablet-screen-protector-case-friendly-ab-galaxy-tab-s8-s9-ultra/p/846315"
+],
 [
 "Best Buy (ZAGG Glass Elite)",
 "https://www.bestbuy.com/product/zagg-glass-elite-samsung-galaxy-tab-s9-ultra-galaxy-tab-s10-ultra-clear/J39T3V3239"
@@ -20920,6 +20886,14 @@
 [
 "Digitec (PanzerGlass)",
 "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-fitbit-versa-34-and-sense-smartwatch-protective-film-35524460"
+],
+[
+"ZAGG Glass Fusion (Google Store)",
+"https://store.google.com/product/zagg_glassfusion_screen_protector_smartwatch?hl=en-US"
+],
+[
+"PanzerGlass",
+"https://panzerglass.com/products/panzerglass%E2%84%A2-fitbit-versa-4-versa-3-sense-screen-protector-glass"
 ]
 ]
 },
@@ -25734,51 +25708,45 @@
 "OPP"
 ],
 "models": [
-"Oppo Reno10"
-],
-"released": [
-"2023-07"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2531"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"162.4 x 74.2 x 8 mm"
-]
-},
-{
-"id": "OPP-1166",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
+"Oppo Reno10",
 "Oppo Reno10 Pro"
 ],
 "released": [
+"2023-07",
 "2023-07"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Imak and 3MK HardGlass Max Lite (both via Digitec) each sell one glass for the Reno10 and Reno10 Pro; the AL5hafii chart puts them 0.1 mm apart",
 "device": "Phone",
+"sources": [
+[
+"Imak OPPO Reno10 / Reno10 Pro glass at Digitec",
+"https://www.digitec.ch/en/s1/product/imak-oppo-reno10-reno10-pro-armoured-glass-protective-film-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobil-39771463"
+],
+[
+"Tumundosmartphone UV glass Reno 10 5G / 10 Pro 5G at MediaMarkt Spain",
+"https://www.mediamarkt.es/es/product/_protector-pantalla-movil-oppo-reno-10-5g-10-pro-5g-tumundosmartphone-oppo-oppo-reno-10-5g-10-pro-5g-cristal-templado-uv-132851919.html"
+],
+[
+"3MK HardGlass Max Lite (Digitec) Oppo Reno 10 / Reno 10 Pro",
+"https://www.digitec.ch/en/s1/product/3mk-hardglass-max-lite-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobile-phone-screen-protectors-42403044"
+]
+],
 "codes": [
+"CPH2531",
 "CPH2525"
 ],
 "screens": [
+"6.7in",
 "6.7in"
 ],
 "dims": [
+"162.4 x 74.2 x 8 mm",
 "162.3 x 74.2 x 7.9 mm"
 ]
 },
 {
-"id": "OPP-1167",
+"id": "OPP-1166",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25803,7 +25771,7 @@
 ]
 },
 {
-"id": "OPP-1168",
+"id": "OPP-1167",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25828,7 +25796,7 @@
 ]
 },
 {
-"id": "OPP-1169",
+"id": "OPP-1168",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25850,7 +25818,7 @@
 ]
 },
 {
-"id": "OPP-1170",
+"id": "OPP-1169",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25880,7 +25848,7 @@
 ]
 },
 {
-"id": "OPP-1171",
+"id": "OPP-1170",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25905,7 +25873,7 @@
 ]
 },
 {
-"id": "OPP-1172",
+"id": "OPP-1171",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -25941,7 +25909,7 @@
 ]
 },
 {
-"id": "OPP-1173",
+"id": "OPP-1172",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25971,7 +25939,7 @@
 ]
 },
 {
-"id": "OPP-1174",
+"id": "OPP-1173",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25996,7 +25964,7 @@
 ]
 },
 {
-"id": "OPP-1175",
+"id": "OPP-1174",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26018,7 +25986,7 @@
 ]
 },
 {
-"id": "OPP-1176",
+"id": "OPP-1175",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26043,7 +26011,7 @@
 ]
 },
 {
-"id": "OPP-1177",
+"id": "OPP-1176",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26068,7 +26036,7 @@
 ]
 },
 {
-"id": "OPP-1178",
+"id": "OPP-1177",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26093,7 +26061,7 @@
 ]
 },
 {
-"id": "OPP-1179",
+"id": "OPP-1178",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26123,7 +26091,7 @@
 ]
 },
 {
-"id": "OPP-1180",
+"id": "OPP-1179",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26159,7 +26127,7 @@
 ]
 },
 {
-"id": "OPP-1181",
+"id": "OPP-1180",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26184,7 +26152,7 @@
 ]
 },
 {
-"id": "OPP-1182",
+"id": "OPP-1181",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26209,7 +26177,7 @@
 ]
 },
 {
-"id": "OPP-1183",
+"id": "OPP-1182",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26234,7 +26202,7 @@
 ]
 },
 {
-"id": "OPP-1184",
+"id": "OPP-1183",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26259,7 +26227,7 @@
 ]
 },
 {
-"id": "OPP-1185",
+"id": "OPP-1184",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26284,7 +26252,7 @@
 ]
 },
 {
-"id": "OPP-1186",
+"id": "OPP-1185",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26309,7 +26277,7 @@
 ]
 },
 {
-"id": "OPP-1187",
+"id": "OPP-1186",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26349,7 +26317,7 @@
 ]
 },
 {
-"id": "OPP-1188",
+"id": "OPP-1187",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26374,7 +26342,7 @@
 ]
 },
 {
-"id": "OPP-1189",
+"id": "OPP-1188",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26399,7 +26367,7 @@
 ]
 },
 {
-"id": "OPP-1190",
+"id": "OPP-1189",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26424,7 +26392,7 @@
 ]
 },
 {
-"id": "OPP-1191",
+"id": "OPP-1190",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26446,7 +26414,7 @@
 ]
 },
 {
-"id": "OPP-1192",
+"id": "OPP-1191",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26471,7 +26439,7 @@
 ]
 },
 {
-"id": "OPP-1193",
+"id": "OPP-1192",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26496,7 +26464,7 @@
 ]
 },
 {
-"id": "OPP-1194",
+"id": "OPP-1193",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26521,7 +26489,7 @@
 ]
 },
 {
-"id": "OPP-1195",
+"id": "OPP-1194",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26546,7 +26514,7 @@
 ]
 },
 {
-"id": "OPP-1196",
+"id": "OPP-1195",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26576,7 +26544,7 @@
 ]
 },
 {
-"id": "OPP-1197",
+"id": "OPP-1196",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26606,7 +26574,7 @@
 ]
 },
 {
-"id": "OPP-1198",
+"id": "OPP-1197",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26636,7 +26604,7 @@
 ]
 },
 {
-"id": "OPP-1199",
+"id": "OPP-1198",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26652,7 +26620,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1200",
+"id": "OPP-1199",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26674,7 +26642,7 @@
 ]
 },
 {
-"id": "OPP-1201",
+"id": "OPP-1200",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26704,7 +26672,7 @@
 ]
 },
 {
-"id": "OPP-1202",
+"id": "OPP-1201",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26729,7 +26697,7 @@
 ]
 },
 {
-"id": "OPP-1203",
+"id": "OPP-1202",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26757,7 +26725,7 @@
 ]
 },
 {
-"id": "OPP-1204",
+"id": "OPP-1203",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26782,7 +26750,7 @@
 ]
 },
 {
-"id": "OPP-1205",
+"id": "OPP-1204",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26807,7 +26775,7 @@
 ]
 },
 {
-"id": "OPP-1206",
+"id": "OPP-1205",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26832,7 +26800,7 @@
 ]
 },
 {
-"id": "OPP-1207",
+"id": "OPP-1206",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26857,7 +26825,7 @@
 ]
 },
 {
-"id": "OPP-1208",
+"id": "OPP-1207",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26882,7 +26850,7 @@
 ]
 },
 {
-"id": "OPP-1209",
+"id": "OPP-1208",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26907,7 +26875,7 @@
 ]
 },
 {
-"id": "OPP-1210",
+"id": "OPP-1209",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26937,7 +26905,7 @@
 ]
 },
 {
-"id": "OPP-1211",
+"id": "OPP-1210",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27031,7 +26999,7 @@
 ]
 },
 {
-"id": "OPP-1212",
+"id": "OPP-1211",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27061,7 +27029,7 @@
 ]
 },
 {
-"id": "OPP-1213",
+"id": "OPP-1212",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27080,7 +27048,7 @@
 ]
 },
 {
-"id": "OPP-1214",
+"id": "OPP-1213",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27113,7 +27081,7 @@
 ]
 },
 {
-"id": "OPP-1215",
+"id": "OPP-1214",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27141,7 +27109,7 @@
 ]
 },
 {
-"id": "OPP-1216",
+"id": "OPP-1215",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27176,7 +27144,7 @@
 ]
 },
 {
-"id": "OPP-1217",
+"id": "OPP-1216",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27201,7 +27169,7 @@
 ]
 },
 {
-"id": "OPP-1218",
+"id": "OPP-1217",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27320,7 +27288,7 @@
 ]
 },
 {
-"id": "OPP-1219",
+"id": "OPP-1218",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27350,7 +27318,7 @@
 ]
 },
 {
-"id": "OPP-1220",
+"id": "OPP-1219",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27372,7 +27340,7 @@
 ]
 },
 {
-"id": "OPP-1221",
+"id": "OPP-1220",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27400,7 +27368,7 @@
 ]
 },
 {
-"id": "OPP-1222",
+"id": "OPP-1221",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27416,7 +27384,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1223",
+"id": "OPP-1222",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27441,7 +27409,7 @@
 ]
 },
 {
-"id": "OPP-1224",
+"id": "OPP-1223",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27471,7 +27439,7 @@
 ]
 },
 {
-"id": "OPP-1225",
+"id": "OPP-1224",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27499,7 +27467,7 @@
 ]
 },
 {
-"id": "OPP-1226",
+"id": "OPP-1225",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27527,7 +27495,7 @@
 ]
 },
 {
-"id": "OPP-1227",
+"id": "OPP-1226",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27557,7 +27525,7 @@
 ]
 },
 {
-"id": "OPP-1228",
+"id": "OPP-1227",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27606,7 +27574,7 @@
 ]
 },
 {
-"id": "OPP-1229",
+"id": "OPP-1228",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27631,7 +27599,7 @@
 ]
 },
 {
-"id": "OPP-1230",
+"id": "OPP-1229",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27674,6 +27642,22 @@
 "158.2 x 74.9 x 8.4 mm",
 "158.2 x 74.9 x 8.4 mm"
 ]
+},
+{
+"id": "OPP-1230",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo A7 Pro Max"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "OPP-1231",
@@ -27730,6 +27714,54 @@
 "OPP"
 ],
 "models": [
+"Oppo A7 Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "OPP-1235",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo K14 Lite"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "OPP-1236",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo K14 Plus"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "OPP-1237",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
 "Oppo F35"
 ],
 "released": [
@@ -27740,7 +27772,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1235",
+"id": "OPP-1238",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27756,7 +27788,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1236",
+"id": "OPP-1239",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27772,7 +27804,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1237",
+"id": "OPP-1240",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28044,6 +28076,22 @@
 "dims": [
 "194.4 x 132.4 x 5.4 mm"
 ]
+},
+{
+"id": "OPP-2010",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo Pad Air 6"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
 },
 {
 "id": "OPP-3001",
@@ -28355,6 +28403,38 @@
 "tags": [
 "measure"
 ]
+},
+{
+"id": "OPP-3013",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo Watch S2"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "OPP-3014",
+"brand": "Oppo",
+"brands": [
+"OPP"
+],
+"models": [
+"Oppo Watch 5"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
 },
 {
 "id": "ONE-1001",
@@ -28939,8 +29019,18 @@
 "2021-07"
 ],
 "check": "Check",
-"note": "",
+"note": "Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit",
 "device": "Phone",
+"sources": [
+[
+"eBay.de 9D glass (Nord 2 5G / 2T / N20 5G)",
+"https://www.ebay.de/itm/285619360060"
+],
+[
+"eBay.de glass (Nord 2 5G / 2T / N20 5G)",
+"https://www.ebay.de/itm/176370257965"
+]
+],
 "codes": [
 "DN2101, DN2103"
 ],
@@ -29116,8 +29206,18 @@
 "2022-05"
 ],
 "check": "Check",
-"note": "",
+"note": "Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit",
 "device": "Phone",
+"sources": [
+[
+"eBay.de 9D glass (Nord 2 5G / 2T / N20 5G)",
+"https://www.ebay.de/itm/285619360060"
+],
+[
+"eBay.de glass (Nord 2 5G / 2T / N20 5G)",
+"https://www.ebay.de/itm/176370257965"
+]
+],
 "codes": [
 "CPH2399, CPH2401"
 ],
@@ -29538,55 +29638,57 @@
 ],
 "models": [
 "OnePlus Ace 5",
-"OnePlus Ace 5 Pro"
+"OnePlus Ace 5 Pro",
+"OnePlus 13R"
 ],
 "released": [
 "2024-12",
-"2024-12"
+"2024-12",
+"2025-01"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm OnePlus Ace 5, OnePlus 13R. The rest match on specs: test before swapping. Vopmart sells Nillkin CP+ Pro glass for the OnePlus 13R and Ace 5, and the AL5hafii chart groups both at 161.7 x 75.8 mm",
 "device": "Phone",
+"sources": [
+[
+"Nillkin CP+PRO at eBay.de (13R / Ace 5)",
+"https://www.ebay.de/itm/177224609120"
+],
+[
+"eBay.de 9H glass (13R, Ace 5 and others)",
+"https://www.ebay.de/itm/127004507868"
+],
+[
+"Daraz listing (13R / Ace 5)",
+"https://www.daraz.pk/products/13r-ace-5-i936376512.html"
+],
+[
+"Vopmart (Nillkin CP+ Pro for OnePlus 13R / Ace 5 / Ace 5 Pro)",
+"https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html"
+],
+[
+"AL5hafii mobiles-compatibility-charts 50_161x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt"
+]
+],
 "codes": [
 "PKG110",
-"PKR110"
+"PKR110",
+"CPH2645, CPH2691, CPH2647"
 ],
 "screens": [
+"6.78in",
 "6.78in",
 "6.78in"
 ],
 "dims": [
 "161.7 x 75.8 x 8.1 mm",
-"161.7 x 75.8 x 8.1 mm"
-]
-},
-{
-"id": "ONE-1045",
-"brand": "OnePlus",
-"brands": [
-"ONE"
-],
-"models": [
-"OnePlus 13R"
-],
-"released": [
-"2025-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2645, CPH2691, CPH2647"
-],
-"screens": [
-"6.78in"
-],
-"dims": [
+"161.7 x 75.8 x 8.1 mm",
 "161.7 x 75.8 x 8 mm"
 ]
 },
 {
-"id": "ONE-1046",
+"id": "ONE-1045",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29616,7 +29718,7 @@
 ]
 },
 {
-"id": "ONE-1047",
+"id": "ONE-1046",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29659,7 +29761,7 @@
 ]
 },
 {
-"id": "ONE-1048",
+"id": "ONE-1047",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29689,7 +29791,7 @@
 ]
 },
 {
-"id": "ONE-1049",
+"id": "ONE-1048",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29717,7 +29819,7 @@
 ]
 },
 {
-"id": "ONE-1050",
+"id": "ONE-1049",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29745,7 +29847,7 @@
 ]
 },
 {
-"id": "ONE-1051",
+"id": "ONE-1050",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29799,7 +29901,7 @@
 ]
 },
 {
-"id": "ONE-1052",
+"id": "ONE-1051",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29827,7 +29929,7 @@
 ]
 },
 {
-"id": "ONE-1053",
+"id": "ONE-1052",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29849,7 +29951,7 @@
 ]
 },
 {
-"id": "ONE-1054",
+"id": "ONE-1053",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29871,7 +29973,7 @@
 ]
 },
 {
-"id": "ONE-1055",
+"id": "ONE-1054",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29887,7 +29989,7 @@
 "device": "Phone"
 },
 {
-"id": "ONE-1056",
+"id": "ONE-1055",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29909,7 +30011,7 @@
 ]
 },
 {
-"id": "ONE-1057",
+"id": "ONE-1056",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -29929,6 +30031,22 @@
 "dims": [
 "162.6 x 77.6 x 8.8 mm"
 ]
+},
+{
+"id": "ONE-1057",
+"brand": "OnePlus",
+"brands": [
+"ONE"
+],
+"models": [
+"OnePlus N6x"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "ONE-1058",
@@ -29957,6 +30075,38 @@
 ],
 "released": [
 "2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ONE-1060",
+"brand": "OnePlus",
+"brands": [
+"ONE"
+],
+"models": [
+"OnePlus Ace 7"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ONE-1061",
+"brand": "OnePlus",
+"brands": [
+"ONE"
+],
+"models": [
+"OnePlus Turbo 6Vs"
+],
+"released": [
+"2026-11"
 ],
 "check": "Check",
 "note": "",
@@ -37416,6 +37566,10 @@
 "https://www.ebay.de/itm/133074455818"
 ],
 [
+"3MK",
+"https://3mk.pl/p/nietlukace-sie-szklo-na-nubia-red-magic-10-pro-pro-plus-3mk-flexibleglass-pro"
+],
+[
 "REDMAGIC official store",
 "https://na.redmagic.com/products/redmagic-10-series-screen-protector"
 ],
@@ -39187,6 +39341,50 @@
 ],
 "dims": [
 "142 x 70.9 x 6.9 mm"
+]
+},
+{
+"id": "MIC-1012",
+"brand": "Microsoft",
+"brands": [
+"MIC"
+],
+"models": [
+"Surface Duo"
+],
+"released": [
+"2020-09"
+],
+"check": "Check",
+"note": "Two screens: buy a set that covers both screens",
+"device": "Phone",
+"screens": [
+"8.1in"
+],
+"tags": [
+"two-screens"
+]
+},
+{
+"id": "MIC-1013",
+"brand": "Microsoft",
+"brands": [
+"MIC"
+],
+"models": [
+"Surface Duo 2"
+],
+"released": [
+"2021-10"
+],
+"check": "Check",
+"note": "Two screens: buy a set that covers both screens. The hinge also has a small glance screen",
+"device": "Phone",
+"screens": [
+"8.3in"
+],
+"tags": [
+"two-screens"
 ]
 },
 {
@@ -44524,22 +44722,6 @@
 "LEN"
 ],
 "models": [
-"Lenovo Tab (2025)"
-],
-"released": [
-"2025-05"
-],
-"check": "Check",
-"note": "",
-"device": "Tablet"
-},
-{
-"id": "LEN-2079",
-"brand": "Lenovo",
-"brands": [
-"LEN"
-],
-"models": [
 "Lenovo Legion Y700 (Gen 4)"
 ],
 "released": [
@@ -44556,6 +44738,37 @@
 ],
 "dims": [
 "207.6 x 128.5 x 7 mm"
+]
+},
+{
+"id": "LEN-2079",
+"brand": "Lenovo + Motorola",
+"brands": [
+"LEN",
+"MOT"
+],
+"models": [
+"Lenovo Tab",
+"Moto Pad 60 Lite"
+],
+"released": [
+"2025-08",
+"2025-09"
+],
+"check": "Check",
+"note": "Same body size and screen specs, sold under several brands: test before swapping",
+"device": "Tablet",
+"codes": [
+"ZAEH0019IN, ZAEH0180IN, ZAEJ0054IN, ZAEL0092SE",
+"XT2573-1"
+],
+"screens": [
+"10.1in",
+"10.1in"
+],
+"dims": [
+"235.7 x 154.5 x 7.5 mm",
+"235.7 x 154.5 x 7.5 mm"
 ]
 },
 {
@@ -44897,13 +45110,15 @@
 "LEN"
 ],
 "models": [
-"Legion Go S"
+"Legion Go S",
+"Legion Go S (SteamOS)"
 ],
 "released": [
-"2025-01"
+"2025-01",
+"2025-05"
 ],
 "check": "Confirmed",
-"note": "8in",
+"note": "8in. SteamOS version is the same hardware",
 "device": "Handheld"
 },
 {
@@ -47196,7 +47411,7 @@
 "2023-04"
 ],
 "check": "Check",
-"note": "Sellers confirm Asus ROG Phone 5, Asus ROG Phone 5 Pro, Asus ROG Phone 5 Ultimate, Asus ROG Phone 5s, Asus ROG Phone 5s Pro, Asus ROG Phone 6, Asus ROG Phone 6 Pro. The rest match on specs: test before swapping. Supershieldz sells one glass for ROG Phone 6/6 Pro/5/5s/5 Pro/5s Pro/5 Ultimate, merging ASU-1087, ASU-1091 and the ROG 6 half of ASU-1092. ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series, merging ASU-1092 and ASU-1094; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. Supershieldz sells one glass for ROG Phone 7 / 7 Ultimate, listed separately from its ROG 5/6 glass: test fit before mixing with ROG 6",
+"note": "Sellers confirm Asus ROG Phone 5, Asus ROG Phone 5 Pro, Asus ROG Phone 5 Ultimate, Asus ROG Phone 5s, Asus ROG Phone 5s Pro, Asus ROG Phone 6, Asus ROG Phone 6 Pro; Asus ROG Phone 7, Asus ROG Phone 7 Ultimate. The rest match on specs: test before swapping. Supershieldz sells one glass for ROG Phone 6/6 Pro/5/5s/5 Pro/5s Pro/5 Ultimate, merging ASU-1087, ASU-1091 and the ROG 6 half of ASU-1092. ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series, merging ASU-1092 and ASU-1094; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. 3MK sells one FlexibleGlass Pro for ROG Phone 7 / 7 Ultimate, agreeing with Supershieldz; hybrid glass",
 "device": "Phone",
 "sources": [
 [
@@ -47210,6 +47425,10 @@
 [
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-as-rog-phone-7-5g-2p"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-sie-szklo-na-asus-rog-phone-7-7-ultimate-3mk-flexibleglass-pro"
 ]
 ],
 "codes": [
@@ -53783,51 +54002,45 @@
 "MOT"
 ],
 "models": [
-"Moto G40 Fusion"
-],
-"released": [
-"2021-04"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"PANV0001IN, PANV0005IN, PANV0009IN"
-],
-"screens": [
-"6.8in"
-],
-"dims": [
-"169.6 x 75.9 x 9.7 mm"
-]
-},
-{
-"id": "MOT-1200",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
+"Moto G40 Fusion",
 "Moto G60"
 ],
 "released": [
+"2021-04",
 "2021-04"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "The AL5hafii chart groups the G40 Fusion and G60 at 169.6 x 75.9 mm, and a Flipkart Rhino Armour glass and an eBay.de glass both list them together",
 "device": "Phone",
+"sources": [
+[
+"Rhino Armour glass at Flipkart (G60, G40 Fusion)",
+"https://flipkart.com/rhino-armour-tempered-glass-guard-motorola-g60-g40-fusion/p/itma0802c0899765"
+],
+[
+"eBay.de multi-model listing (G60/G40 Fusion)",
+"https://www.ebay.de/itm/114620162453"
+],
+[
+"AL5hafii mobiles-compatibility-charts 5_169x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_169x75.txt"
+]
+],
 "codes": [
+"PANV0001IN, PANV0005IN, PANV0009IN",
 "PANB0001IN, PANB0013IN, PANB0015IN"
 ],
 "screens": [
+"6.8in",
 "6.8in"
 ],
 "dims": [
+"169.6 x 75.9 x 9.7 mm",
 "169.6 x 75.9 x 9.8 mm"
 ]
 },
 {
-"id": "MOT-1201",
+"id": "MOT-1200",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53852,7 +54065,7 @@
 ]
 },
 {
-"id": "MOT-1202",
+"id": "MOT-1201",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53877,7 +54090,7 @@
 ]
 },
 {
-"id": "MOT-1203",
+"id": "MOT-1202",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53908,7 +54121,7 @@
 ]
 },
 {
-"id": "MOT-1204",
+"id": "MOT-1203",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53920,9 +54133,17 @@
 "2021-07"
 ],
 "check": "Confirmed",
-"note": "Dux Ducis and 3MK sell glass for the Edge 20 alone",
+"note": "MyBat sells one glass for the Edge 20, 20 Pro and 20 Lite, but Dux Ducis and 3MK sell each separately, so test fit. Dux Ducis and 3MK sell glass for the Edge 20 alone",
 "device": "Phone",
 "sources": [
+[
+"MyBat glass for Edge 20 / 20 Pro / 20 Lite",
+"https://www.mybat.com/products/motorola-edge-pro-lite-tempered-glass-screen-protector-mybat"
+],
+[
+"MyBat full-coverage glass Edge 20 / 20 Lite / 20 Pro",
+"https://www.mybat.com/products/motorola-moto-edge-20-20-lite-20-pro-full-coverage-tempered-glass-screen-protector-mybat-pro"
+],
 [
 "Dux Ducis / 3MK (Home Screen)",
 "https://homescreen.pl/en/1693-moto-edge-20-series"
@@ -53939,7 +54160,7 @@
 ]
 },
 {
-"id": "MOT-1205",
+"id": "MOT-1204",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53951,9 +54172,17 @@
 "2021-07"
 ],
 "check": "Confirmed",
-"note": "Dux Ducis and 3MK sell glass for the Edge 20 Pro alone",
+"note": "MyBat sells one glass for the Edge 20, 20 Pro and 20 Lite, but Dux Ducis and 3MK sell each separately, so test fit. Dux Ducis and 3MK sell glass for the Edge 20 Pro alone",
 "device": "Phone",
 "sources": [
+[
+"MyBat glass for Edge 20 / 20 Pro / 20 Lite",
+"https://www.mybat.com/products/motorola-edge-pro-lite-tempered-glass-screen-protector-mybat"
+],
+[
+"MyBat full-coverage glass Edge 20 / 20 Lite / 20 Pro",
+"https://www.mybat.com/products/motorola-moto-edge-20-20-lite-20-pro-full-coverage-tempered-glass-screen-protector-mybat-pro"
+],
 [
 "Dux Ducis / 3MK (Home Screen)",
 "https://homescreen.pl/en/1693-moto-edge-20-series"
@@ -53970,7 +54199,7 @@
 ]
 },
 {
-"id": "MOT-1206",
+"id": "MOT-1205",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -53995,7 +54224,7 @@
 ]
 },
 {
-"id": "MOT-1207",
+"id": "MOT-1206",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54017,7 +54246,7 @@
 ]
 },
 {
-"id": "MOT-1208",
+"id": "MOT-1207",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54053,7 +54282,7 @@
 ]
 },
 {
-"id": "MOT-1209",
+"id": "MOT-1208",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54078,7 +54307,7 @@
 ]
 },
 {
-"id": "MOT-1210",
+"id": "MOT-1209",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54109,7 +54338,7 @@
 ]
 },
 {
-"id": "MOT-1211",
+"id": "MOT-1210",
 "brand": "Motorola + Lenovo",
 "brands": [
 "MOT",
@@ -54151,7 +54380,7 @@
 ]
 },
 {
-"id": "MOT-1212",
+"id": "MOT-1211",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54176,7 +54405,7 @@
 ]
 },
 {
-"id": "MOT-1213",
+"id": "MOT-1212",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54206,7 +54435,7 @@
 ]
 },
 {
-"id": "MOT-1214",
+"id": "MOT-1213",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54242,7 +54471,7 @@
 ]
 },
 {
-"id": "MOT-1215",
+"id": "MOT-1214",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54267,7 +54496,7 @@
 ]
 },
 {
-"id": "MOT-1216",
+"id": "MOT-1215",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54292,7 +54521,7 @@
 ]
 },
 {
-"id": "MOT-1217",
+"id": "MOT-1216",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54328,7 +54557,7 @@
 ]
 },
 {
-"id": "MOT-1218",
+"id": "MOT-1217",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54369,7 +54598,7 @@
 ]
 },
 {
-"id": "MOT-1219",
+"id": "MOT-1218",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54391,7 +54620,7 @@
 ]
 },
 {
-"id": "MOT-1220",
+"id": "MOT-1219",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54446,7 +54675,7 @@
 ]
 },
 {
-"id": "MOT-1221",
+"id": "MOT-1220",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54471,7 +54700,7 @@
 ]
 },
 {
-"id": "MOT-1222",
+"id": "MOT-1221",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54496,7 +54725,7 @@
 ]
 },
 {
-"id": "MOT-1223",
+"id": "MOT-1222",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54521,7 +54750,7 @@
 ]
 },
 {
-"id": "MOT-1224",
+"id": "MOT-1223",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54546,54 +54775,51 @@
 ]
 },
 {
-"id": "MOT-1225",
+"id": "MOT-1224",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Moto G82"
-],
-"released": [
-"2022-05"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2225-1"
-],
-"screens": [
-"6.6in"
-],
-"dims": [
-"160.9 x 74.5 x 8 mm"
-]
-},
-{
-"id": "MOT-1226",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
+"Moto G82",
 "Moto G71s"
 ],
 "released": [
+"2022-05",
 "2022-05"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "TelForceOne (aio.lv) sells one glass for the Moto G71s and G82, and the AL5hafii chart groups both at 160.9 x 74.5 mm",
 "device": "Phone",
+"sources": [
+[
+"TelForceOne 9D glass G52 / G71s / G72 / G82 (aio.lv)",
+"https://aio.lv/en/product--telforceone-82296239--11714608.md"
+],
+[
+"eBay.de glass (Moto G82, G71s, G31, G52)",
+"https://www.ebay.de/itm/403951824269"
+],
+[
+"AL5hafii mobiles-compatibility-charts 47_160x74",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/47_160x74.txt"
+]
+],
+"codes": [
+"XT2225-1",
+""
+],
 "screens": [
+"6.6in",
 "6.6in"
 ],
 "dims": [
+"160.9 x 74.5 x 8 mm",
 "160.9 x 74.5 x 8 mm"
 ]
 },
 {
-"id": "MOT-1227",
+"id": "MOT-1225",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54624,7 +54850,7 @@
 ]
 },
 {
-"id": "MOT-1228",
+"id": "MOT-1226",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54650,7 +54876,7 @@
 ]
 },
 {
-"id": "MOT-1229",
+"id": "MOT-1227",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54675,7 +54901,7 @@
 ]
 },
 {
-"id": "MOT-1230",
+"id": "MOT-1228",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54697,7 +54923,7 @@
 ]
 },
 {
-"id": "MOT-1231",
+"id": "MOT-1229",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54722,7 +54948,7 @@
 ]
 },
 {
-"id": "MOT-1232",
+"id": "MOT-1230",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54747,7 +54973,7 @@
 ]
 },
 {
-"id": "MOT-1233",
+"id": "MOT-1231",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54775,7 +55001,7 @@
 ]
 },
 {
-"id": "MOT-1234",
+"id": "MOT-1232",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54806,7 +55032,7 @@
 ]
 },
 {
-"id": "MOT-1235",
+"id": "MOT-1233",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54837,7 +55063,7 @@
 ]
 },
 {
-"id": "MOT-1236",
+"id": "MOT-1234",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54868,7 +55094,7 @@
 ]
 },
 {
-"id": "MOT-1237",
+"id": "MOT-1235",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54904,7 +55130,7 @@
 ]
 },
 {
-"id": "MOT-1238",
+"id": "MOT-1236",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54929,7 +55155,7 @@
 ]
 },
 {
-"id": "MOT-1239",
+"id": "MOT-1237",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54954,7 +55180,7 @@
 ]
 },
 {
-"id": "MOT-1240",
+"id": "MOT-1238",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -54995,7 +55221,7 @@
 ]
 },
 {
-"id": "MOT-1241",
+"id": "MOT-1239",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55020,7 +55246,7 @@
 ]
 },
 {
-"id": "MOT-1242",
+"id": "MOT-1240",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55042,7 +55268,7 @@
 ]
 },
 {
-"id": "MOT-1243",
+"id": "MOT-1241",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55064,7 +55290,7 @@
 ]
 },
 {
-"id": "MOT-1244",
+"id": "MOT-1242",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55089,7 +55315,7 @@
 ]
 },
 {
-"id": "MOT-1245",
+"id": "MOT-1243",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55115,7 +55341,7 @@
 ]
 },
 {
-"id": "MOT-1246",
+"id": "MOT-1244",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55143,7 +55369,7 @@
 ]
 },
 {
-"id": "MOT-1247",
+"id": "MOT-1245",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55168,7 +55394,7 @@
 ]
 },
 {
-"id": "MOT-1248",
+"id": "MOT-1246",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55190,7 +55416,7 @@
 ]
 },
 {
-"id": "MOT-1249",
+"id": "MOT-1247",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55215,7 +55441,7 @@
 ]
 },
 {
-"id": "MOT-1250",
+"id": "MOT-1248",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55246,7 +55472,7 @@
 ]
 },
 {
-"id": "MOT-1251",
+"id": "MOT-1249",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55268,7 +55494,7 @@
 ]
 },
 {
-"id": "MOT-1252",
+"id": "MOT-1250",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55290,38 +55516,77 @@
 ]
 },
 {
-"id": "MOT-1253",
+"id": "MOT-1251",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Moto G14"
+"Moto G14",
+"Moto G54 Power",
+"Moto G54",
+"Moto G64"
 ],
 "released": [
-"2023-08"
+"2023-08",
+"2023-09",
+"2023-09",
+"2024-04"
 ],
 "check": "Check",
-"note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit",
+"note": "Sellers confirm Moto G14, Moto G54 Power, Moto G54. The rest match on specs: test before swapping. PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54. Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit. 3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power",
 "device": "Phone",
 "sources": [
 [
+"Just in Case glass Moto G14/54 at Coolblue",
+"https://www.coolblue.de/en/product/947468/just-in-case-tempered-glass-motorola-moto-g14-54-screen-protector.html"
+],
+[
+"SAFE. by PanzerGlass Motorola G14 4G | G54 5G",
+"https://panzerglass.com/nl/products/safe-by-panzerglass%c2%ae-screen-protector-motorola-g14-4g-ultra-wide-fit"
+],
+[
+"Galaxus (SAFE Ultra-Wide Fit, Moto G14 / G54)",
+"https://www.galaxus.be/en/s1/product/safe-ultra-wide-fit-1-piece-motorola-moto-g14-motorola-moto-g54-mobile-phone-screen-protectors-44999851"
+],
+[
+"Digitec (Techsuit ESD Glass G14 / G54 / G54 Power / G64)",
+"https://www.digitec.ch/en/s1/product/techsuit-esd-glass-motorola-moto-g14-moto-g54-moto-g54-power-edition-moto-g64-black-motorola-moto-g1-60230396"
+],
+[
 "Bizon Glass Clear Duo (Home Screen)",
 "https://homescreen.pl/en/745-moto-g10-series"
+],
+[
+"3MK HardGlass Max Lite G54 / Power Edition at homescreen.pl",
+"https://homescreen.pl/en/g54/79727-tempered-glass-3mk-hardglass-max-lite-motorola-moto-g54-power-edition-black-5903108586085.html"
+],
+[
+"Alza glass for Moto G54 / G54 Power",
+"https://www.alza.at/EN/reviews/tempered-glass-protector-for-motorola-moto-g54-g54-power-compatible-with-the-case-camera-glass-12347053.htm"
 ]
 ],
 "codes": [
-"PAYF0010IN"
+"PAYF0010IN",
+"XT2343-6",
+"XT2343-1, XT2343-2",
+""
 ],
 "screens": [
+"6.5in",
+"6.5in",
+"6.5in",
 "6.5in"
 ],
 "dims": [
-"161.5 x 73.8 x 8 mm"
+"161.5 x 73.8 x 8 mm",
+"161.6 x 73.8 x 8.9 mm",
+"161.6 x 73.8 x 8 mm",
+"161.6 x 73.8 x 8.9 mm"
 ]
 },
 {
-"id": "MOT-1254",
+"id": "MOT-1252",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55346,74 +55611,7 @@
 ]
 },
 {
-"id": "MOT-1255",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G54 Power",
-"Moto G64"
-],
-"released": [
-"2023-09",
-"2024-04"
-],
-"check": "Check",
-"note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit. Same body size and screen specs: test before swapping",
-"device": "Phone",
-"sources": [
-[
-"Bizon Glass Clear Duo (Home Screen)",
-"https://homescreen.pl/en/745-moto-g10-series"
-]
-],
-"codes": [
-"XT2343-6",
-""
-],
-"screens": [
-"6.5in",
-"6.5in"
-],
-"dims": [
-"161.6 x 73.8 x 8.9 mm",
-"161.6 x 73.8 x 8.9 mm"
-]
-},
-{
-"id": "MOT-1256",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G54"
-],
-"released": [
-"2023-09"
-],
-"check": "Check",
-"note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit",
-"device": "Phone",
-"sources": [
-[
-"Bizon Glass Clear Duo (Home Screen)",
-"https://homescreen.pl/en/745-moto-g10-series"
-]
-],
-"codes": [
-"XT2343-1, XT2343-2"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"161.6 x 73.8 x 8 mm"
-]
-},
-{
-"id": "MOT-1257",
+"id": "MOT-1253",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55444,7 +55642,7 @@
 ]
 },
 {
-"id": "MOT-1258",
+"id": "MOT-1254",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55466,7 +55664,7 @@
 ]
 },
 {
-"id": "MOT-1259",
+"id": "MOT-1255",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55531,7 +55729,7 @@
 ]
 },
 {
-"id": "MOT-1260",
+"id": "MOT-1256",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55562,7 +55760,7 @@
 ]
 },
 {
-"id": "MOT-1261",
+"id": "MOT-1257",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55593,7 +55791,7 @@
 ]
 },
 {
-"id": "MOT-1262",
+"id": "MOT-1258",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55624,7 +55822,7 @@
 ]
 },
 {
-"id": "MOT-1263",
+"id": "MOT-1259",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55658,7 +55856,7 @@
 ]
 },
 {
-"id": "MOT-1264",
+"id": "MOT-1260",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55683,7 +55881,7 @@
 ]
 },
 {
-"id": "MOT-1265",
+"id": "MOT-1261",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55722,7 +55920,7 @@
 ]
 },
 {
-"id": "MOT-1266",
+"id": "MOT-1262",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55753,7 +55951,7 @@
 ]
 },
 {
-"id": "MOT-1267",
+"id": "MOT-1263",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55778,7 +55976,7 @@
 ]
 },
 {
-"id": "MOT-1268",
+"id": "MOT-1264",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55803,7 +56001,7 @@
 ]
 },
 {
-"id": "MOT-1269",
+"id": "MOT-1265",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55828,7 +56026,7 @@
 ]
 },
 {
-"id": "MOT-1270",
+"id": "MOT-1266",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55865,7 +56063,7 @@
 ]
 },
 {
-"id": "MOT-1271",
+"id": "MOT-1267",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55893,7 +56091,7 @@
 ]
 },
 {
-"id": "MOT-1272",
+"id": "MOT-1268",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55918,7 +56116,7 @@
 ]
 },
 {
-"id": "MOT-1273",
+"id": "MOT-1269",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55949,7 +56147,7 @@
 ]
 },
 {
-"id": "MOT-1274",
+"id": "MOT-1270",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55980,38 +56178,72 @@
 ]
 },
 {
-"id": "MOT-1275",
+"id": "MOT-1271",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Motorola Edge 50 Neo"
+"Motorola Edge 50 Neo",
+"Motorola ThinkPhone 25",
+"Motorola Edge 60 Neo"
 ],
 "released": [
-"2024-08"
+"2024-08",
+"2024-10",
+"2025-09"
 ],
 "check": "Confirmed",
-"note": "3MK and MyScreen sell glass for the Edge 50 Neo alone",
+"note": "PanzerGlass and Spigen each sell one glass for the Edge 50 Neo and Edge 60 Neo. Mobilis sells one screen protector for the Edge 50 Neo and ThinkPhone 25, and the AL5hafii chart groups both at 154.1 x 71.2 mm. 3MK and MyScreen sell glass for the Edge 50 Neo alone. 3MK and MyScreen sell glass for the Edge 60 Neo alone",
 "device": "Phone",
 "sources": [
 [
+"PanzerGlass Ultra-Wide Fit at Multitronic (Edge 50 Neo, Edge 60 Neo 5G)",
+"https://multitronic.fi/en/products/4425783/panzerglass-ultra-wide-fit-moto-edge-50-neo---skarmskydd--black"
+],
+[
+"Spigen Glass Fit+ Edge 50 Neo / 60 Neo (aio.lv)",
+"https://aio.lv/en/product--spigen-thp4698--11707536.md"
+],
+[
+"Mobilis 036339 at Sync (Edge 50 Neo, ThinkPhone 25)",
+"https://shop.wearesync.co.uk/036339.html"
+],
+[
+"Mobilis 036339 (itcurry.nl)",
+"https://itcurry.nl/en/mobilis-screen-protector-anti-shock-ik06-clear-for-motorola-edge-50-neo-thinkphone-25-036339/p/p6023159"
+],
+[
+"AL5hafii mobiles-compatibility-charts 5_154x71",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_154x71.txt"
+],
+[
 "3MK / MyScreen (Home Screen)",
 "https://homescreen.pl/en/1686-moto-edge-50-series"
+],
+[
+"3MK / MyScreen (Home Screen)",
+"https://homescreen.pl/en/1685-moto-edge-60-series"
 ]
 ],
 "codes": [
-"XT2409-1"
+"XT2409-1",
+"XT2409-6",
+"XT2509-1"
 ],
 "screens": [
-"6.4in"
+"6.4in",
+"6.36in",
+"6.36in"
 ],
 "dims": [
+"154.1 x 71.2 x 8.1 mm",
+"154.1 x 71.2 x 8.1 mm",
 "154.1 x 71.2 x 8.1 mm"
 ]
 },
 {
-"id": "MOT-1276",
+"id": "MOT-1272",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56036,32 +56268,7 @@
 ]
 },
 {
-"id": "MOT-1277",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola ThinkPhone 25"
-],
-"released": [
-"2024-10"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2409-6"
-],
-"screens": [
-"6.36in"
-],
-"dims": [
-"154.1 x 71.2 x 8.1 mm"
-]
-},
-{
-"id": "MOT-1278",
+"id": "MOT-1273",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56092,7 +56299,7 @@
 ]
 },
 {
-"id": "MOT-1279",
+"id": "MOT-1274",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56168,7 +56375,7 @@
 ]
 },
 {
-"id": "MOT-1280",
+"id": "MOT-1275",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56213,7 +56420,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1276",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56253,7 +56460,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1277",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56287,7 +56494,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1278",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56318,7 +56525,7 @@
 ]
 },
 {
-"id": "MOT-1284",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56359,7 +56566,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56384,7 +56591,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56418,7 +56625,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56452,7 +56659,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56477,7 +56684,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56508,63 +56715,55 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Moto G86"
+"Moto G86",
+"Moto G86 Power"
 ],
 "released": [
+"2025-06",
 "2025-06"
 ],
 "check": "Confirmed",
-"note": "MyScreen sells glass for the G86 alone; G86 Power not checked",
+"note": "3MK and Hofi each sell one glass for the Moto G86 and G86 Power. MyScreen sells glass for the G86 alone; G86 Power not checked",
 "device": "Phone",
 "sources": [
+[
+"3MK 1UP glass for Moto G86 / G86 Power (aio.lv)",
+"https://aio.lv/en/product--3mk-5903108668415--12087653.md"
+],
+[
+"3MK FlexibleGlass G86 / G86 Power at Digitec",
+"https://www.digitec.ch/en/s1/product/3mk-flexibleglass-motorola-moto-g86-g86-power-clear-1-pcs-motorola-moto-c-mobile-phone-screen-protec-61076760"
+],
+[
+"Hofi glass for G86 5G / G86 5G Power (aio.lv)",
+"https://aio.lv/en/product--hofi-5906302363254--11705082.md"
+],
 [
 "MyScreen (Home Screen)",
 "https://homescreen.pl/en/833-moto-g80-series"
 ]
 ],
 "codes": [
-"XT2527-2"
-],
-"screens": [
-"6.67in"
-],
-"dims": [
-"161.2 x 74.7 x 7.8 mm"
-]
-},
-{
-"id": "MOT-1291",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G86 Power"
-],
-"released": [
-"2025-06"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
+"XT2527-2",
 "XT2527-7"
 ],
 "screens": [
+"6.67in",
 "6.67in"
 ],
 "dims": [
+"161.2 x 74.7 x 7.8 mm",
 "161.2 x 74.7 x 8.7 mm"
 ]
 },
 {
-"id": "MOT-1292",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56580,7 +56779,7 @@
 "device": "Phone"
 },
 {
-"id": "MOT-1293",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56616,38 +56815,7 @@
 ]
 },
 {
-"id": "MOT-1294",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola Edge 60 Neo"
-],
-"released": [
-"2025-09"
-],
-"check": "Confirmed",
-"note": "3MK and MyScreen sell glass for the Edge 60 Neo alone",
-"device": "Phone",
-"sources": [
-[
-"3MK / MyScreen (Home Screen)",
-"https://homescreen.pl/en/1685-moto-edge-60-series"
-]
-],
-"codes": [
-"XT2509-1"
-],
-"screens": [
-"6.36in"
-],
-"dims": [
-"154.1 x 71.2 x 8.1 mm"
-]
-},
-{
-"id": "MOT-1295",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56678,7 +56846,7 @@
 ]
 },
 {
-"id": "MOT-1296",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56706,7 +56874,7 @@
 ]
 },
 {
-"id": "MOT-1297",
+"id": "MOT-1290",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56734,7 +56902,7 @@
 ]
 },
 {
-"id": "MOT-1298",
+"id": "MOT-1291",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56779,7 +56947,7 @@
 ]
 },
 {
-"id": "MOT-1299",
+"id": "MOT-1292",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56815,7 +56983,7 @@
 ]
 },
 {
-"id": "MOT-1300",
+"id": "MOT-1293",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56837,7 +57005,7 @@
 ]
 },
 {
-"id": "MOT-1301",
+"id": "MOT-1294",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56862,7 +57030,7 @@
 ]
 },
 {
-"id": "MOT-1302",
+"id": "MOT-1295",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56884,7 +57052,7 @@
 ]
 },
 {
-"id": "MOT-1303",
+"id": "MOT-1296",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56909,7 +57077,7 @@
 ]
 },
 {
-"id": "MOT-1304",
+"id": "MOT-1297",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56934,7 +57102,7 @@
 ]
 },
 {
-"id": "MOT-1305",
+"id": "MOT-1298",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56956,7 +57124,7 @@
 ]
 },
 {
-"id": "MOT-1306",
+"id": "MOT-1299",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56982,7 +57150,7 @@
 ]
 },
 {
-"id": "MOT-1307",
+"id": "MOT-1300",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57004,7 +57172,7 @@
 ]
 },
 {
-"id": "MOT-1308",
+"id": "MOT-1301",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57032,7 +57200,7 @@
 ]
 },
 {
-"id": "MOT-1309",
+"id": "MOT-1302",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57054,7 +57222,7 @@
 ]
 },
 {
-"id": "MOT-1310",
+"id": "MOT-1303",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57070,7 +57238,23 @@
 "device": "Phone"
 },
 {
-"id": "MOT-1311",
+"id": "MOT-1304",
+"brand": "Motorola",
+"brands": [
+"MOT"
+],
+"models": [
+"Motorola Edge 70 Plus"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "MOT-1305",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57281,31 +57465,6 @@
 "dims": [
 "254.6 x 166.2 x 7 mm",
 "254.6 x 166.2 x 7 mm"
-]
-},
-{
-"id": "MOT-2009",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto Pad 60 Lite"
-],
-"released": [
-"2025-09"
-],
-"check": "Check",
-"note": "",
-"device": "Tablet",
-"codes": [
-"XT2573-1"
-],
-"screens": [
-"10.1in"
-],
-"dims": [
-"235.7 x 154.5 x 7.5 mm"
 ]
 },
 {
@@ -60861,21 +61020,40 @@
 "XIA"
 ],
 "models": [
-"Redmi 10"
+"Redmi 10",
+"Redmi Note 11 4G"
 ],
 "released": [
-"2021-08"
+"2021-08",
+"2021-11"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11",
 "device": "Phone",
+"sources": [
+[
+"TelForceOne 6D glass Redmi 10 / Note 11 / Note 11 4G / Note 11s 4G (aio.lv)",
+"https://aio.lv/en/product--telforceone-oem100920--11709298.md"
+],
+[
+"Giztop (Nillkin CP+ Pro for Redmi 10, Redmi 10 Prime, Redmi Note 11 4G)",
+"https://www.giztop.com/nillkin-cp-pro-glass-full-screen-protector-for-redmi-10.html"
+],
+[
+"AL5hafii mobiles-compatibility-charts 134_162x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+]
+],
 "codes": [
-"21061119AG, 21061119DG, 21061119AL"
+"21061119AG, 21061119DG, 21061119AL",
+"21121119SC"
 ],
 "screens": [
+"6.5in",
 "6.5in"
 ],
 "dims": [
+"162 x 75.5 x 8.9 mm",
 "162 x 75.5 x 8.9 mm"
 ]
 },
@@ -61103,31 +61281,6 @@
 "XIA"
 ],
 "models": [
-"Redmi Note 11 4G"
-],
-"released": [
-"2021-11"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"21121119SC"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"162 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "XIA-1117",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Xiaomi 12X",
 "Xiaomi 12",
 "Xiaomi 12S"
@@ -61166,7 +61319,7 @@
 ]
 },
 {
-"id": "XIA-1118",
+"id": "XIA-1117",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61210,7 +61363,7 @@
 ]
 },
 {
-"id": "XIA-1119",
+"id": "XIA-1118",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61256,7 +61409,7 @@
 ]
 },
 {
-"id": "XIA-1120",
+"id": "XIA-1119",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61316,7 +61469,7 @@
 ]
 },
 {
-"id": "XIA-1121",
+"id": "XIA-1120",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61347,7 +61500,7 @@
 ]
 },
 {
-"id": "XIA-1122",
+"id": "XIA-1121",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61383,7 +61536,7 @@
 ]
 },
 {
-"id": "XIA-1123",
+"id": "XIA-1122",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61438,7 +61591,7 @@
 ]
 },
 {
-"id": "XIA-1124",
+"id": "XIA-1123",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61446,17 +61599,31 @@
 "models": [
 "Redmi 10C",
 "Redmi 10 (India)",
-"Redmi 10 Power"
+"Redmi 10 Power",
+"Poco C40"
 ],
 "released": [
 "2022-03",
 "2022-03",
-"2022-04"
+"2022-04",
+"2022-06"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 10C, Redmi 10 Power. The rest match on specs: test before swapping. MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product",
+"note": "Sellers confirm Redmi 10C, Redmi 10 Power, Poco C40. The rest match on specs: test before swapping. 3MK, Evelatus, connect and nemo each sell one glass for the Redmi 10C and Poco C40. MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product",
 "device": "Phone",
 "sources": [
+[
+"3MK glass Redmi 10C / C40 at Galaxus",
+"https://www.galaxus.at/en/s1/product/3mk-xiaomi-redmi-10c-c40-glass-1-piece-xiaomi-redmi-10c-mobile-phone-screen-protectors-23803908"
+],
+[
+"Evelatus full cover Redmi 10C / 12C / Poco C40 (aio.lv)",
+"https://aio.lv/en/product--evelatus-4752192060077--5072803.md"
+],
+[
+"connect glass Redmi 12C / 10C / Poco C40 (aio.lv)",
+"https://aio.lv/en/product--connect-conxiar12c03fcg--11006728.md"
+],
 [
 "MyScreen via Homescreen.pl",
 "https://homescreen.pl/en/1044-redmi-10-series"
@@ -61465,21 +61632,24 @@
 "codes": [
 "220333QAG, 220333QBI, 220333QNY, 220333QL",
 "220333QAG",
-""
+"",
+"220333QPG"
 ],
 "screens": [
 "6.71in",
 "6.7in",
-"6.7in"
+"6.7in",
+"6.71in"
 ],
 "dims": [
 "169.6 x 76.6 x 8.3 mm",
 "169.6 x 76.6 x 9.1 mm",
-"169.6 x 76.6 x 9.1 mm"
+"169.6 x 76.6 x 9.1 mm",
+"169.6 x 76.6 x 9.2 mm"
 ]
 },
 {
-"id": "XIA-1125",
+"id": "XIA-1124",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61509,7 +61679,7 @@
 ]
 },
 {
-"id": "XIA-1126",
+"id": "XIA-1125",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61544,7 +61714,7 @@
 ]
 },
 {
-"id": "XIA-1127",
+"id": "XIA-1126",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61569,7 +61739,7 @@
 ]
 },
 {
-"id": "XIA-1128",
+"id": "XIA-1127",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61594,7 +61764,7 @@
 ]
 },
 {
-"id": "XIA-1129",
+"id": "XIA-1128",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61624,7 +61794,7 @@
 ]
 },
 {
-"id": "XIA-1130",
+"id": "XIA-1129",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61649,7 +61819,7 @@
 ]
 },
 {
-"id": "XIA-1131",
+"id": "XIA-1130",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61694,32 +61864,7 @@
 ]
 },
 {
-"id": "XIA-1132",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Poco C40"
-],
-"released": [
-"2022-06"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"220333QPG"
-],
-"screens": [
-"6.71in"
-],
-"dims": [
-"169.6 x 76.6 x 9.2 mm"
-]
-},
-{
-"id": "XIA-1133",
+"id": "XIA-1131",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61744,7 +61889,7 @@
 ]
 },
 {
-"id": "XIA-1134",
+"id": "XIA-1132",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61775,7 +61920,7 @@
 ]
 },
 {
-"id": "XIA-1135",
+"id": "XIA-1133",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61797,7 +61942,7 @@
 ]
 },
 {
-"id": "XIA-1136",
+"id": "XIA-1134",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61838,7 +61983,7 @@
 ]
 },
 {
-"id": "XIA-1137",
+"id": "XIA-1135",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61888,7 +62033,7 @@
 ]
 },
 {
-"id": "XIA-1138",
+"id": "XIA-1136",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61918,7 +62063,7 @@
 ]
 },
 {
-"id": "XIA-1139",
+"id": "XIA-1137",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61973,7 +62118,7 @@
 ]
 },
 {
-"id": "XIA-1140",
+"id": "XIA-1138",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62009,7 +62154,7 @@
 ]
 },
 {
-"id": "XIA-1141",
+"id": "XIA-1139",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62034,7 +62179,7 @@
 ]
 },
 {
-"id": "XIA-1142",
+"id": "XIA-1140",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62064,7 +62209,7 @@
 ]
 },
 {
-"id": "XIA-1143",
+"id": "XIA-1141",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62115,7 +62260,7 @@
 ]
 },
 {
-"id": "XIA-1144",
+"id": "XIA-1142",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62151,38 +62296,59 @@
 ]
 },
 {
-"id": "XIA-1145",
+"id": "XIA-1143",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Xiaomi 13"
+"Xiaomi 13",
+"Xiaomi 14"
 ],
 "released": [
-"2022-12"
+"2022-12",
+"2023-10"
 ],
-"check": "Check",
-"note": "Bizon Glass Edge 2 is sold for Xiaomi 13 / Xiaomi 14 as one product; only one brand seen, so test first",
+"check": "Confirmed",
+"note": "PanzerGlass sells one Ultra-Wide Fit glass for the Xiaomi 14 and 13, and the AL5hafii chart groups both at 152.8 x 71.5 mm",
 "device": "Phone",
 "sources": [
+[
+"Alza glass for Xiaomi 14 / Xiaomi 13",
+"https://m.alza.hu/EN/tempered-glass-protector-for-xiaomi-14-xiaomi-13-compatible-with-case-d9663920.htm"
+],
+[
+"PanzerGlass (Screen Protector Xiaomi 14 | 13 Ultra-Wide Fit)",
+"https://panzerglass.com/products/panzerglass%c2%ae-screen-protector-xiaomi-14-13-ultra-wide-fit"
+],
+[
+"Homescreen.pl (PanzerGlass Xiaomi 14/13 listing)",
+"https://homescreen.pl/en/xiaomi-14/71020-panzerglass-ultra-wide-fit-xiaomi-14-13-screen-protection-5711724080661.html"
+],
+[
+"AL5hafii mobiles-compatibility-charts 13_152x71",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/13_152x71.txt"
+],
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/2325-xiaomi-13-series"
 ]
 ],
 "codes": [
-"2211133C, 2211133G"
+"2211133C, 2211133G",
+"23127PN0CC, 23127PN0CG"
 ],
 "screens": [
+"6.36in",
 "6.36in"
 ],
 "dims": [
-"152.8 x 71.5 x 8.0 mm"
+"152.8 x 71.5 x 8.0 mm",
+"152.8 x 71.5 x 8.2 mm"
 ]
 },
 {
-"id": "XIA-1146",
+"id": "XIA-1144",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62216,7 +62382,7 @@
 ]
 },
 {
-"id": "XIA-1147",
+"id": "XIA-1145",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62241,7 +62407,7 @@
 ]
 },
 {
-"id": "XIA-1148",
+"id": "XIA-1146",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62266,7 +62432,7 @@
 ]
 },
 {
-"id": "XIA-1149",
+"id": "XIA-1147",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62276,22 +62442,56 @@
 "Redmi Note 12R",
 "Redmi 12 5G",
 "Poco M6 Pro",
-"Redmi Note 13R"
+"Redmi Note 13R",
+"Redmi 13",
+"Poco M6 4G",
+"Redmi 13 5G",
+"Poco M6 Plus",
+"Redmi 13x"
 ],
 "released": [
 "2023-06",
 "2023-06",
 "2023-08",
 "2024-01",
-"2024-05"
+"2024-05",
+"2024-06",
+"2024-06",
+"2024-07",
+"2024-08",
+"2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 12, Redmi 12 5G. The rest match on specs: test before swapping. MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product",
+"note": "Sellers confirm Redmi 12, Redmi 12 5G, Redmi 13, Redmi 13 5G, Poco M6 Plus. The rest match on specs: test before swapping. The AL5hafii chart groups all four at 168.6 x 76.3 mm, CEDO lists all four on one glass, and Displex and Eitansha glasses cover the Redmi 12 / 12 5G / 13 5G subset. MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product. 3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product",
 "device": "Phone",
 "sources": [
 [
+"CEDO XPRO at Flipkart (Redmi 13 5G, Poco M6 Plus 5G, Redmi 12 5G, Redmi 12 4G)",
+"https://www.flipkart.com/cedo-xpro-tempered-glass-guard-poco-m6-plus-5g/p/itmf87543168ef3f"
+],
+[
+"Alza glass for Redmi 13 / Redmi 12",
+"https://m.alza.hu/tempered-glass-protector-pro-xiaomi-redmi-12-kompatibilni-s-pouzdrem-levne-d8595184.htm"
+],
+[
+"Displex Smart Glass (Galaxus) for Redmi 12, Poco M6, Redmi 13, Redmi 12 5G",
+"https://galaxus.de/en/s1/product/displex-smart-glass-1-piece-xiaomi-redmi-12-xiaomi-poco-m6-xiaomi-redmi-13-xiaomi-redmi-12-5g-mobile-36911587"
+],
+[
+"Desertcart (Eitansha glass for Redmi 13 5G, Poco M6 Pro 5G, Redmi 12 5G)",
+"https://www.desertcart.sg/products/659376933-for-redmi-13-5g-poco-m6-pro-5g-redmi-12"
+],
+[
+"AL5hafii mobiles-compatibility-charts 58_168x76",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/58_168x76.txt"
+],
+[
 "MyScreen via Homescreen.pl",
 "https://homescreen.pl/en/1046-redmi-12-series"
+],
+[
+"3MK via Homescreen.pl",
+"https://homescreen.pl/en/1079-redmi-13-series"
 ]
 ],
 "codes": [
@@ -62299,9 +62499,19 @@
 "23076RA4BC",
 "23076RN4BI, 23076RN8DY, 2AFZZRN8DY",
 "23076PC4BI",
-"2406ERN9CC"
+"2406ERN9CC",
+"2404ARN45A, 24040RN64Y",
+"2404APC5FG",
+"2406ERN9CI",
+"",
+"24049RN28L"
 ],
 "screens": [
+"6.79in",
+"6.79in",
+"6.79in",
+"6.79in",
+"6.79in",
 "6.79in",
 "6.79in",
 "6.79in",
@@ -62313,11 +62523,16 @@
 "168.6 x 76.3 x 8.2 mm",
 "168.6 x 76.3 x 8.2 mm",
 "168.6 x 76.3 x 8.2 mm",
-"168.6 x 76.3 x 8.2 mm"
+"168.6 x 76.3 x 8.2 mm",
+"168.6 x 76.3 x 8.3 mm",
+"168.6 x 76.3 x 8.3 mm",
+"168.6 x 76.3 x 8.3 mm",
+"168.6 x 76.3 x 8.3 mm",
+"168.6 x 76.3 x 8.3 mm"
 ]
 },
 {
-"id": "XIA-1150",
+"id": "XIA-1148",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62333,7 +62548,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1151",
+"id": "XIA-1149",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62355,7 +62570,7 @@
 ]
 },
 {
-"id": "XIA-1152",
+"id": "XIA-1150",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62396,7 +62611,7 @@
 ]
 },
 {
-"id": "XIA-1153",
+"id": "XIA-1151",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62465,7 +62680,7 @@
 ]
 },
 {
-"id": "XIA-1154",
+"id": "XIA-1152",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62533,63 +62748,51 @@
 ]
 },
 {
-"id": "XIA-1155",
+"id": "XIA-1153",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Xiaomi 14 Pro"
+"Xiaomi 14 Pro",
+"Xiaomi 14 Ultra"
 ],
 "released": [
-"2023-10"
+"2023-10",
+"2024-02"
 ],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"23116PN5BC"
-],
-"screens": [
-"6.73in"
-],
-"dims": [
-"161.4 x 75.3 x 8.5 mm"
-]
-},
-{
-"id": "XIA-1156",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 14"
-],
-"released": [
-"2023-10"
-],
-"check": "Check",
-"note": "Bizon Glass Edge 2 is sold for Xiaomi 13 / Xiaomi 14 as one product; only one brand seen, so test first",
+"check": "Confirmed",
+"note": "Displex sells one full-cover glass for the Xiaomi 14 Pro and 14 Ultra, and the AL5hafii chart groups both at 161.4 x 75.3 mm",
 "device": "Phone",
 "sources": [
 [
-"Bizon via Homescreen.pl",
-"https://homescreen.pl/en/2325-xiaomi-13-series"
+"Displex Real Glass Full Cover at Galaxus (14 Pro, 14 Ultra)",
+"https://www.galaxus.ch/en/s1/product/displex-real-glass-full-cover-panzerglas-1-piece-xiaomi-14-pro-xiaomi-14-ultra-mobile-phone-screen-p-42926808"
+],
+[
+"Displex Real Glass Full Cover (Galaxus)",
+"https://www.galaxus.nl/en/s1/product/displex-real-glass-full-cover-panzerglas-1-piece-xiaomi-14-pro-xiaomi-14-ultra-mobile-phone-screen-p-42926808"
+],
+[
+"AL5hafii mobiles-compatibility-charts 50_161x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt"
 ]
 ],
 "codes": [
-"23127PN0CC, 23127PN0CG"
+"23116PN5BC",
+"24031PN0DC, 24030PN60G"
 ],
 "screens": [
-"6.36in"
+"6.73in",
+"6.73in"
 ],
 "dims": [
-"152.8 x 71.5 x 8.2 mm"
+"161.4 x 75.3 x 8.5 mm",
+"161.4 x 75.3 x 9.2 mm"
 ]
 },
 {
-"id": "XIA-1157",
+"id": "XIA-1154",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62644,7 +62847,7 @@
 ]
 },
 {
-"id": "XIA-1158",
+"id": "XIA-1155",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62674,32 +62877,56 @@
 ]
 },
 {
-"id": "XIA-1159",
+"id": "XIA-1156",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Redmi K70E"
+"Redmi K70E",
+"Poco X6 Pro",
+"Poco X7 Pro"
 ],
 "released": [
-"2023-11"
+"2023-11",
+"2024-01",
+"2025-01"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
 "device": "Phone",
+"sources": [
+[
+"Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
+"https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html"
+],
+[
+"Bizon via Homescreen.pl",
+"https://homescreen.pl/en/1527-poco-x7-pro"
+],
+[
+"Bizon via Homescreen.pl",
+"https://homescreen.pl/en/1084-poco-x6-pro-5g"
+]
+],
 "codes": [
-"2311DRK48C"
+"2311DRK48C",
+"2311DRK48G, 2311DRK48I",
+"2412DPC0AG, 2412DPC0AI"
 ],
 "screens": [
+"6.67in",
+"6.67in",
 "6.67in"
 ],
 "dims": [
-"160.5 x 74.3 x 8.1 mm"
+"160.5 x 74.3 x 8.1 mm",
+"160.5 x 74.3 x 8.3 mm",
+"160.8 x 75.2 x 8.3 mm"
 ]
 },
 {
-"id": "XIA-1160",
+"id": "XIA-1157",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62734,47 +62961,7 @@
 ]
 },
 {
-"id": "XIA-1161",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Poco X6 Pro",
-"Poco X7 Pro"
-],
-"released": [
-"2024-01",
-"2025-01"
-],
-"check": "Confirmed",
-"note": "Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
-"device": "Phone",
-"sources": [
-[
-"Bizon via Homescreen.pl",
-"https://homescreen.pl/en/1527-poco-x7-pro"
-],
-[
-"Bizon via Homescreen.pl",
-"https://homescreen.pl/en/1084-poco-x6-pro-5g"
-]
-],
-"codes": [
-"2311DRK48G, 2311DRK48I",
-"2412DPC0AG, 2412DPC0AI"
-],
-"screens": [
-"6.67in",
-"6.67in"
-],
-"dims": [
-"160.5 x 74.3 x 8.3 mm",
-"160.8 x 75.2 x 8.3 mm"
-]
-},
-{
-"id": "XIA-1162",
+"id": "XIA-1158",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62805,7 +62992,7 @@
 ]
 },
 {
-"id": "XIA-1163",
+"id": "XIA-1159",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62850,32 +63037,7 @@
 ]
 },
 {
-"id": "XIA-1164",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 14 Ultra"
-],
-"released": [
-"2024-02"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"24031PN0DC, 24030PN60G"
-],
-"screens": [
-"6.73in"
-],
-"dims": [
-"161.4 x 75.3 x 9.2 mm"
-]
-},
-{
-"id": "XIA-1165",
+"id": "XIA-1160",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62905,114 +63067,51 @@
 ]
 },
 {
-"id": "XIA-1166",
+"id": "XIA-1161",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Redmi Turbo 3"
-],
-"released": [
-"2024-04"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"24069RA21C"
-],
-"screens": [
-"6.67in"
-],
-"dims": [
-"160.5 x 74.4 x 7.8 mm"
-]
-},
-{
-"id": "XIA-1167",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
+"Redmi Turbo 3",
 "Poco F6"
 ],
 "released": [
+"2024-04",
 "2024-05"
 ],
 "check": "Confirmed",
-"note": "Bizon Clear 2 and Edge 2 glass are sold for Poco F6 alone; retailer says F6 and F6 Pro differ",
+"note": "Nillkin (Giztop) sells one glass for the Redmi Turbo 3 and Poco F6, and an Ibywind listing does too; the Poco F6 Pro is a different fit. Bizon Clear 2 and Edge 2 glass are sold for Poco F6 alone; retailer says F6 and F6 Pro differ",
 "device": "Phone",
 "sources": [
+[
+"Nillkin CP+ Pro at Giztop (Redmi Turbo 3 / Poco F6)",
+"https://www.giztop.com/nillkin-cp-pro-glass-screen-protector-for-redmi-turbo-3.html"
+],
+[
+"Ibywind 2-pack at Desertcart (Poco F6 5G / Redmi Turbo 3)",
+"https://www.desertcart.vn/products/636582678-screen-protector-for-xiaomi-poco-f6-5g-redmi-turbo-3.md"
+],
 [
 "Bizon/3MK via Homescreen.pl",
 "https://homescreen.pl/en/1194-poco-f6"
 ]
 ],
 "codes": [
+"24069RA21C",
 "24069PC21G, 24069PC21I"
 ],
 "screens": [
+"6.67in",
 "6.67in"
 ],
 "dims": [
+"160.5 x 74.4 x 7.8 mm",
 "160.5 x 74.5 x 8 mm"
 ]
 },
 {
-"id": "XIA-1168",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi 13",
-"Poco M6 4G",
-"Redmi 13 5G",
-"Poco M6 Plus",
-"Redmi 13x"
-],
-"released": [
-"2024-06",
-"2024-06",
-"2024-07",
-"2024-08",
-"2025-03"
-],
-"check": "Check",
-"note": "Sellers confirm Redmi 13, Redmi 13 5G. The rest match on specs: test before swapping. 3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product",
-"device": "Phone",
-"sources": [
-[
-"3MK via Homescreen.pl",
-"https://homescreen.pl/en/1079-redmi-13-series"
-]
-],
-"codes": [
-"2404ARN45A, 24040RN64Y",
-"2404APC5FG",
-"2406ERN9CI",
-"",
-"24049RN28L"
-],
-"screens": [
-"6.79in",
-"6.79in",
-"6.79in",
-"6.79in",
-"6.79in"
-],
-"dims": [
-"168.6 x 76.3 x 8.3 mm",
-"168.6 x 76.3 x 8.3 mm",
-"168.6 x 76.3 x 8.3 mm",
-"168.6 x 76.3 x 8.3 mm",
-"168.6 x 76.3 x 8.3 mm"
-]
-},
-{
-"id": "XIA-1169",
+"id": "XIA-1162",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63031,7 +63130,7 @@
 ]
 },
 {
-"id": "XIA-1170",
+"id": "XIA-1163",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63072,7 +63171,7 @@
 ]
 },
 {
-"id": "XIA-1171",
+"id": "XIA-1164",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63094,7 +63193,7 @@
 ]
 },
 {
-"id": "XIA-1172",
+"id": "XIA-1165",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63231,7 +63330,7 @@
 ]
 },
 {
-"id": "XIA-1173",
+"id": "XIA-1166",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63286,7 +63385,7 @@
 ]
 },
 {
-"id": "XIA-1174",
+"id": "XIA-1167",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63314,7 +63413,7 @@
 ]
 },
 {
-"id": "XIA-1175",
+"id": "XIA-1168",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63345,35 +63444,55 @@
 ]
 },
 {
-"id": "XIA-1176",
+"id": "XIA-1169",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Xiaomi 15 Pro"
+"Xiaomi 15 Pro",
+"Xiaomi 15 Ultra",
+"Xiaomi 15S Pro"
 ],
 "released": [
-"2024-10"
+"2024-10",
+"2025-02",
+"2025-05"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Displex and SBS sell one glass for the 15 Pro and 15 Ultra, and Rixus (4phones.eu) adds the 15S Pro; PanzerGlass sells separate Pro and Ultra SKUs",
 "device": "Phone",
+"sources": [
+[
+"Rixus at 4phones.eu (15 Pro, 15 Ultra, 15S Pro)",
+"https://4phones.eu/products/rixus-clear-hd-ultra-thin-tempered-glass-for-xiaomi-15-pro-15-ultra"
+],
+[
+"Displex Premium Glass at Galaxus (15 Pro, 15 Ultra)",
+"https://www.galaxus.de/en/s1/product/displex-premium-glass-full-cover-armoured-glass-1-piece-xiaomi-15-ultra-xiaomi-15-pro-mobile-phone-s-54604616"
+]
+],
 "codes": [
-"24101PNB7C, 2410DPN6CC"
+"24101PNB7C, 2410DPN6CC",
+"25010PN30G",
+""
 ],
 "screens": [
+"6.73in",
+"6.73in",
 "6.73in"
 ],
 "dims": [
-"161.3 x 75.3 x 8.4 mm"
+"161.3 x 75.3 x 8.4 mm",
+"161.3 x 75.3 x 9.4 mm",
+"161.3 x 75.3 x 8.3 mm"
 ],
 "tags": [
 "fingerprint"
 ]
 },
 {
-"id": "XIA-1177",
+"id": "XIA-1170",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63426,7 +63545,7 @@
 ]
 },
 {
-"id": "XIA-1178",
+"id": "XIA-1171",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63442,7 +63561,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1179",
+"id": "XIA-1172",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63458,7 +63577,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1180",
+"id": "XIA-1173",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63483,35 +63602,7 @@
 ]
 },
 {
-"id": "XIA-1181",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 15 Ultra"
-],
-"released": [
-"2025-02"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"25010PN30G"
-],
-"screens": [
-"6.73in"
-],
-"dims": [
-"161.3 x 75.3 x 9.4 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "XIA-1182",
+"id": "XIA-1174",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63559,32 +63650,7 @@
 ]
 },
 {
-"id": "XIA-1183",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 15S Pro"
-],
-"released": [
-"2025-05"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.73in"
-],
-"dims": [
-"161.3 x 75.3 x 8.3 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "XIA-1184",
+"id": "XIA-1175",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63603,7 +63669,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1176",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63625,7 +63691,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1177",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63650,7 +63716,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1178",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63686,7 +63752,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1179",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63708,7 +63774,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1180",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63748,7 +63814,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1181",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63773,7 +63839,7 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63822,7 +63888,7 @@
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63847,7 +63913,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63895,7 +63961,7 @@
 ]
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63917,7 +63983,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63939,7 +64005,7 @@
 ]
 },
 {
-"id": "XIA-1196",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63961,7 +64027,7 @@
 ]
 },
 {
-"id": "XIA-1197",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64001,7 +64067,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64037,67 +64103,50 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Xiaomi 17"
-],
-"released": [
-"2025-09"
-],
-"check": "Check",
-"note": "3MK HardGlass Max is sold for Xiaomi 17 / 17 Pro as one product; only one brand seen, so test first",
-"device": "Phone",
-"sources": [
-[
-"3MK via Homescreen.pl",
-"https://homescreen.pl/en/2322-xiaomi-17-series"
-]
-],
-"codes": [
-"25113PN0EG"
-],
-"screens": [
-"6.3in"
-],
-"dims": [
-"151.1 x 71.8 x 8.1 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "XIA-1200",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
+"Xiaomi 17",
 "Xiaomi 17 Pro"
 ],
 "released": [
+"2025-09",
 "2025-09"
 ],
-"check": "Check",
-"note": "3MK HardGlass Max is sold for Xiaomi 17 / 17 Pro as one product; only one brand seen, so test first",
+"check": "Confirmed",
+"note": "3MK, Imak and e.v.i. each sell one glass for the Xiaomi 17 and 17 Pro",
 "device": "Phone",
 "sources": [
+[
+"3MK Hardy Hardura for Xiaomi 17 and 17 Pro (aio.lv)",
+"https://aio.lv/en/product--3mk-5903108751933--12495192.md"
+],
+[
+"Imak Full Glass for Xiaomi 17 / 17 Pro at Giztop",
+"https://www.giztop.com/imak-full-glass-screen-protector-for-xiaomi-17.html"
+],
+[
+"e.v.i. Smart Glass Xiaomi 17 / 17 Pro (aio.lv)",
+"https://aio.lv/en/product--evi-02218--11668078.md"
+],
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/2322-xiaomi-17-series"
 ]
 ],
 "codes": [
+"25113PN0EG",
 "25098PN5AC"
 ],
 "screens": [
+"6.3in",
 "6.3in"
 ],
 "dims": [
+"151.1 x 71.8 x 8.1 mm",
 "151.1 x 71.8 x 8 mm"
 ],
 "tags": [
@@ -64105,7 +64154,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64133,7 +64182,7 @@
 ]
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64166,7 +64215,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64199,7 +64248,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64244,7 +64293,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64260,7 +64309,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64293,7 +64342,7 @@
 ]
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64318,7 +64367,7 @@
 ]
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64346,7 +64395,7 @@
 ]
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64395,7 +64444,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64465,7 +64514,7 @@
 ]
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64496,7 +64545,7 @@
 ]
 },
 {
-"id": "XIA-1212",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64518,7 +64567,7 @@
 ]
 },
 {
-"id": "XIA-1213",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64543,7 +64592,7 @@
 ]
 },
 {
-"id": "XIA-1214",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64565,7 +64614,7 @@
 ]
 },
 {
-"id": "XIA-1215",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64593,7 +64642,7 @@
 ]
 },
 {
-"id": "XIA-1216",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64624,7 +64673,7 @@
 ]
 },
 {
-"id": "XIA-1217",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64655,7 +64704,7 @@
 ]
 },
 {
-"id": "XIA-1218",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64671,7 +64720,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1219",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64696,7 +64745,7 @@
 ]
 },
 {
-"id": "XIA-1220",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64724,7 +64773,7 @@
 ]
 },
 {
-"id": "XIA-1221",
+"id": "XIA-1211",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64746,7 +64795,7 @@
 ]
 },
 {
-"id": "XIA-1222",
+"id": "XIA-1212",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64768,7 +64817,87 @@
 ]
 },
 {
-"id": "XIA-1223",
+"id": "XIA-1213",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Poco M8 Power"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1214",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Poco M8x"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1215",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi K100 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1216",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi K100 Pro Max"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1217",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi Note 17"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1218",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64790,7 +64919,7 @@
 ]
 },
 {
-"id": "XIA-1224",
+"id": "XIA-1219",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64812,7 +64941,7 @@
 ]
 },
 {
-"id": "XIA-1225",
+"id": "XIA-1220",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64831,6 +64960,86 @@
 ]
 },
 {
+"id": "XIA-1221",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Poco X8"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1222",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Poco X8 Power"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1223",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi 17 5G"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1224",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi Note 17 Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1225",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi Note 17 Pro Max"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
 "id": "XIA-1226",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
@@ -64838,6 +65047,38 @@
 ],
 "models": [
 "Poco X8s"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1227",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi 17C 5G"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "XIA-1228",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi K100"
 ],
 "released": [
 "2026-10"
@@ -65191,22 +65432,44 @@
 "models": [
 "Xiaomi Pad 7",
 "Xiaomi Pad 7 Pro",
-"Poco Pad X1"
+"Poco Pad X1",
+"Xiaomi Pad 8",
+"Xiaomi Pad 8 Pro"
 ],
 "released": [
 "2024-10",
 "2024-10",
-"2025-06"
+"2025-06",
+"2025-09",
+"2025-09"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Xiaomi Pad 7, Xiaomi Pad 7 Pro, Xiaomi Pad 8, Xiaomi Pad 8 Pro. The rest match on specs: test before swapping. Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8",
 "device": "Tablet",
+"sources": [
+[
+"Tech-Protect Glass Fit+ Pad 7 / 7 Pro / 8 / 8 Pro (aio.lv)",
+"https://aio.lv/en/product--tech-protect-5906302339440--11957074.md"
+],
+[
+"homescreen.pl category Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro",
+"https://homescreen.pl/2357-xiaomi-pad-7-model"
+],
+[
+"JETech 2-pack at Desertcart (Pad 8 / Pad 7)",
+"https://www.desertcart.ae/products/686823189-2-pack-screen-protector-for-xiaomi-pad-8-pad-7"
+]
+],
 "codes": [
 "2410CRP4CG",
 "24091RPADG",
-"25099RP08G"
+"25099RP08G",
+"25091RP04G",
+"25097RP43G"
 ],
 "screens": [
+"11.2in",
+"11.2in",
 "11.2in",
 "11.2in",
 "11.2in"
@@ -65214,7 +65477,9 @@
 "dims": [
 "251.2 x 173.4 x 6.2 mm",
 "251.2 x 173.4 x 6.2 mm",
-"251.2 x 173.4 x 6.2 mm"
+"251.2 x 173.4 x 6.2 mm",
+"251.2 x 173.4 x 5.8 mm",
+"251.2 x 173.4 x 5.8 mm"
 ]
 },
 {
@@ -65375,36 +65640,6 @@
 "XIA"
 ],
 "models": [
-"Xiaomi Pad 8",
-"Xiaomi Pad 8 Pro"
-],
-"released": [
-"2025-09",
-"2025-09"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Tablet",
-"codes": [
-"25091RP04G",
-"25097RP43G"
-],
-"screens": [
-"11.2in",
-"11.2in"
-],
-"dims": [
-"251.2 x 173.4 x 5.8 mm",
-"251.2 x 173.4 x 5.8 mm"
-]
-},
-{
-"id": "XIA-2022",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Black Shark Pad 7"
 ],
 "released": [
@@ -65418,7 +65653,7 @@
 ]
 },
 {
-"id": "XIA-2023",
+"id": "XIA-2022",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65437,7 +65672,7 @@
 ]
 },
 {
-"id": "XIA-2024",
+"id": "XIA-2023",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65456,7 +65691,7 @@
 ]
 },
 {
-"id": "XIA-2025",
+"id": "XIA-2024",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65478,7 +65713,7 @@
 ]
 },
 {
-"id": "XIA-2026",
+"id": "XIA-2025",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65500,7 +65735,7 @@
 ]
 },
 {
-"id": "XIA-2027",
+"id": "XIA-2026",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65526,7 +65761,7 @@
 ]
 },
 {
-"id": "XIA-2028",
+"id": "XIA-2027",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65542,7 +65777,7 @@
 "device": "Tablet"
 },
 {
-"id": "XIA-2029",
+"id": "XIA-2028",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65558,7 +65793,7 @@
 "device": "Tablet"
 },
 {
-"id": "XIA-2030",
+"id": "XIA-2029",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66636,7 +66871,71 @@
 "XIA"
 ],
 "models": [
+"Redmi Watch 6 Active"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "XIA-3045",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Redmi Watch 6 Lite"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "XIA-3046",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Xiaomi Smart Band 11 Active"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "XIA-3047",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
 "Xiaomi Smart Band 11"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "XIA-3048",
+"brand": "Xiaomi / Redmi / Poco",
+"brands": [
+"XIA"
+],
+"models": [
+"Xiaomi Watch S5 41mm"
 ],
 "released": [
 "2026-09"
@@ -72096,60 +72395,52 @@
 ],
 "models": [
 "HMD Pulse+",
-"HMD Pulse"
+"HMD Pulse",
+"HMD Pulse Pro"
 ],
 "released": [
+"2024-04",
 "2024-04",
 "2024-04"
 ],
 "check": "Confirmed",
-"note": "MyScreen sells one glass for HMD Pulse, Pulse+ and Vibe (which Vibe is unclear)",
+"note": "PanzerGlass (via Proshop and Bechtle) and Mr.Shield each sell one glass for the HMD Pulse, Pulse+ and Pulse Pro. MyScreen sells one glass for HMD Pulse, Pulse+ and Vibe (which Vibe is unclear). 3MK and GrizzGlass sell glass for the HMD Pulse Pro alone",
 "device": "Phone",
 "sources": [
 [
+"PanzerGlass Ultra-Wide Fit at Proshop (HMD Pulse, Pulse Pro, Pulse+)",
+"https://www.proshop.se/Mobiltelefontillbehoer-Skyddsfilm/PanzerGlass-screen-protector-for-mobile-phone-ultra-wide-fit/3385866"
+],
+[
+"mr.shield 3-pack at Desertcart (Pulse, Pulse+, Pulse Pro)",
+"https://www.desertcart.ae/products/656914646-screen-protector-compatible-with-hmd-pulse-pulse-pulse-pro-3.md"
+],
+[
+"Bechtle (PanzerGlass HMD Pulse/+/Pro)",
+"https://www.bechtle.com/de-en/shop/panzerglass-hmd-pulse-plus-pro-screen-prot--4879256--p"
+],
+[
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/1258-hmd"
-]
 ],
-"screens": [
-"6.65in",
-"6.65in"
-],
-"dims": [
-"163.2 x 75 x 8.5 mm",
-"163.2 x 75 x 8.5 mm"
-]
-},
-{
-"id": "NOK-1213",
-"brand": "Nokia / HMD",
-"brands": [
-"NOK"
-],
-"models": [
-"HMD Pulse Pro"
-],
-"released": [
-"2024-04"
-],
-"check": "Confirmed",
-"note": "3MK and GrizzGlass sell glass for the HMD Pulse Pro alone",
-"device": "Phone",
-"sources": [
 [
 "3MK FlexibleGlass (Home Screen)",
 "https://homescreen.pl/en/1258-hmd/page/2"
 ]
 ],
 "screens": [
+"6.65in",
+"6.65in",
 "6.65in"
 ],
 "dims": [
+"163.2 x 75 x 8.5 mm",
+"163.2 x 75 x 8.5 mm",
 "163.2 x 75 x 8.6 mm"
 ]
 },
 {
-"id": "NOK-1214",
+"id": "NOK-1213",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72171,7 +72462,7 @@
 ]
 },
 {
-"id": "NOK-1215",
+"id": "NOK-1214",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72193,7 +72484,7 @@
 ]
 },
 {
-"id": "NOK-1216",
+"id": "NOK-1215",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72221,7 +72512,7 @@
 ]
 },
 {
-"id": "NOK-1217",
+"id": "NOK-1216",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72247,7 +72538,7 @@
 ]
 },
 {
-"id": "NOK-1218",
+"id": "NOK-1217",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72278,7 +72569,7 @@
 ]
 },
 {
-"id": "NOK-1219",
+"id": "NOK-1218",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72306,7 +72597,7 @@
 ]
 },
 {
-"id": "NOK-1220",
+"id": "NOK-1219",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72334,7 +72625,7 @@
 ]
 },
 {
-"id": "NOK-1221",
+"id": "NOK-1220",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72364,7 +72655,7 @@
 ]
 },
 {
-"id": "NOK-1222",
+"id": "NOK-1221",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72383,7 +72674,7 @@
 ]
 },
 {
-"id": "NOK-1223",
+"id": "NOK-1222",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72405,7 +72696,7 @@
 ]
 },
 {
-"id": "NOK-1224",
+"id": "NOK-1223",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72427,7 +72718,7 @@
 ]
 },
 {
-"id": "NOK-1225",
+"id": "NOK-1224",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72452,7 +72743,7 @@
 ]
 },
 {
-"id": "NOK-1226",
+"id": "NOK-1225",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -72471,7 +72762,7 @@
 ]
 },
 {
-"id": "NOK-1227",
+"id": "NOK-1226",
 "brand": "Nokia / HMD",
 "brands": [
 "NOK"
@@ -77423,6 +77714,7 @@
 ],
 "models": [
 "vivo Y02s",
+"vivo Y16",
 "vivo Y02",
 "vivo Y02A",
 "vivo Y11 (2023)",
@@ -77430,15 +77722,28 @@
 ],
 "released": [
 "2022-08",
+"2022-09",
 "2022-11",
 "2023-04",
 "2023-04",
 "2023-07"
 ],
 "check": "Check",
-"note": "Sellers confirm vivo Y02s, vivo Y02, vivo Y02A, vivo Y02t. The rest match on specs: test before swapping. Flipkart sellers GDBUY, Olonga and FINCH pair Y02 with Y02t; EITANSHA CREATION and SmartLike add Y02A and Y02s. Merges Y02s into this group",
+"note": "Sellers confirm vivo Y02s, vivo Y16, vivo Y02, vivo Y02A, vivo Y02t. The rest match on specs: test before swapping. Dux Ducis (homescreen.pl), Wozinsky and cofi each sell one glass for the vivo Y16 and Y02s; plain Y02 is named only by one Thai listing. Flipkart sellers GDBUY, Olonga and FINCH pair Y02 with Y02t; EITANSHA CREATION and SmartLike add Y02A and Y02s. Merges Y02s into this group. Flipkart sellers Olonga and Ten To 11 list Y56 5G, T2x 5G and Y16 on one glass. Y16 is listed as a smaller HD screen, so test fit. Flipkart sellers vedu, YOGKREETI and MEIBO list Y35 (2022) and Y22 on one glass; YOGKREETI and MEIBO add Y16. Budget sellers lump loosely, so test fit",
 "device": "Phone",
 "sources": [
+[
+"Dux Ducis 9D glass Vivo Y16/Y02s at homescreen.pl",
+"https://homescreen.pl/en/dux-ducis-9d-tempered-glass-vivo-y16y02s-black-case-friendly.html"
+],
+[
+"Wozinsky Full Glue Vivo Y16 / Y02s at Galaxus",
+"https://www.galaxus.at/en/s1/product/wozinsky-full-glue-tempered-glass-vivo-y16-y02s-full-screen-with-frame-black-case-friendly-vivo-y16--25180951"
+],
+[
+"cofi glass Vivo Y16 / Y02s at MediaMarkt",
+"https://www.mediamarkt.at/de/product/_cofi-3x-schutz-glas-9h-displayschutzfur-vivo-y16-y02s-105556686"
+],
 [
 "Flipkart (GDBUY)",
 "https://www.flipkart.com/gdbuy-tempered-glass-guard-vivo-y02t-y02/p/itm32786f00c276f?pid=ACCGKYTQZ5SWEURF"
@@ -77458,10 +77763,31 @@
 [
 "Flipkart (SmartLike)",
 "https://www.flipkart.com/smartlike-tempered-glass-guard-vivo-y01-y02s-y02a-y02t/p/itme1f3441794ff4?pid=ACCHGHVVDGY3RP3G"
+],
+[
+"Flipkart (Olonga)",
+"https://www.flipkart.com/olonga-front-back-tempered-glass-vivo-t2x-y56-y16/p/itm075d6350f823d?pid=ACCGZK4HWDH2PH5N"
+],
+[
+"Flipkart (Ten To 11)",
+"https://www.flipkart.com/ten-11-edge-tempered-glass-vivo-y16-y56-5g-t2x-5g/p/itmc2254c6979cbb?pid=ACCGJ3UBETH2ZPPF"
+],
+[
+"Flipkart (vedu)",
+"https://www.flipkart.com/vedu-edge-tempered-glass-vivo-y35-y22-y20/p/itmbb4d857ea9491?pid=ACCHP59F4HRGE8VC"
+],
+[
+"Flipkart (YOGKREETI)",
+"https://www.flipkart.com/yogkreeti-edge-tempered-glass-vivo-y16-y22-y35/p/itmde018bcfbfa5e?pid=ACCGSMYG4BH4HBPF"
+],
+[
+"Flipkart (MEIBO)",
+"https://www.flipkart.com/meibo-tempered-glass-guard-vivo-y20-y21-y16-y22-y35/p/itm097d2d62efb92?pid=ACCHRGGYJP4WAWGD"
 ]
 ],
 "codes": [
 "V2203",
+"V2204, V2214",
 "",
 "V2234_PK",
 "V2236A",
@@ -77472,10 +77798,12 @@
 "6.51in",
 "6.51in",
 "6.51in",
+"6.51in",
 "6.51in"
 ],
 "dims": [
 "164 x 76 x 8.2 mm",
+"164 x 75.6 x 8.2 mm",
 "164 x 75.6 x 8.5 mm",
 "164 x 75.6 x 8.5 mm",
 "164 x 75.6 x 8.5 mm",
@@ -77574,53 +77902,6 @@
 "VIV"
 ],
 "models": [
-"vivo Y16"
-],
-"released": [
-"2022-09"
-],
-"check": "Check",
-"note": "Flipkart sellers Olonga and Ten To 11 list Y56 5G, T2x 5G and Y16 on one glass. Y16 is listed as a smaller HD screen, so test fit. Flipkart sellers vedu, YOGKREETI and MEIBO list Y35 (2022) and Y22 on one glass; YOGKREETI and MEIBO add Y16. Budget sellers lump loosely, so test fit",
-"device": "Phone",
-"sources": [
-[
-"Flipkart (Olonga)",
-"https://www.flipkart.com/olonga-front-back-tempered-glass-vivo-t2x-y56-y16/p/itm075d6350f823d?pid=ACCGZK4HWDH2PH5N"
-],
-[
-"Flipkart (Ten To 11)",
-"https://www.flipkart.com/ten-11-edge-tempered-glass-vivo-y16-y56-5g-t2x-5g/p/itmc2254c6979cbb?pid=ACCGJ3UBETH2ZPPF"
-],
-[
-"Flipkart (vedu)",
-"https://www.flipkart.com/vedu-edge-tempered-glass-vivo-y35-y22-y20/p/itmbb4d857ea9491?pid=ACCHP59F4HRGE8VC"
-],
-[
-"Flipkart (YOGKREETI)",
-"https://www.flipkart.com/yogkreeti-edge-tempered-glass-vivo-y16-y22-y35/p/itmde018bcfbfa5e?pid=ACCGSMYG4BH4HBPF"
-],
-[
-"Flipkart (MEIBO)",
-"https://www.flipkart.com/meibo-tempered-glass-guard-vivo-y20-y21-y16-y22-y35/p/itm097d2d62efb92?pid=ACCHRGGYJP4WAWGD"
-]
-],
-"codes": [
-"V2204, V2214"
-],
-"screens": [
-"6.51in"
-],
-"dims": [
-"164 x 75.6 x 8.2 mm"
-]
-},
-{
-"id": "VIV-1143",
-"brand": "vivo / iQOO",
-"brands": [
-"VIV"
-],
-"models": [
 "vivo Y52t"
 ],
 "released": [
@@ -77640,7 +77921,7 @@
 ]
 },
 {
-"id": "VIV-1144",
+"id": "VIV-1143",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77717,7 +77998,7 @@
 ]
 },
 {
-"id": "VIV-1145",
+"id": "VIV-1144",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77739,7 +78020,7 @@
 ]
 },
 {
-"id": "VIV-1146",
+"id": "VIV-1145",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77769,7 +78050,7 @@
 ]
 },
 {
-"id": "VIV-1147",
+"id": "VIV-1146",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77797,7 +78078,7 @@
 ]
 },
 {
-"id": "VIV-1148",
+"id": "VIV-1147",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77822,7 +78103,7 @@
 ]
 },
 {
-"id": "VIV-1149",
+"id": "VIV-1148",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77850,7 +78131,7 @@
 ]
 },
 {
-"id": "VIV-1150",
+"id": "VIV-1149",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -77977,7 +78258,7 @@
 ]
 },
 {
-"id": "VIV-1151",
+"id": "VIV-1150",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78012,7 +78293,7 @@
 ]
 },
 {
-"id": "VIV-1152",
+"id": "VIV-1151",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78042,7 +78323,7 @@
 ]
 },
 {
-"id": "VIV-1153",
+"id": "VIV-1152",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78104,7 +78385,7 @@
 ]
 },
 {
-"id": "VIV-1154",
+"id": "VIV-1153",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78144,7 +78425,7 @@
 ]
 },
 {
-"id": "VIV-1155",
+"id": "VIV-1154",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78179,7 +78460,7 @@
 ]
 },
 {
-"id": "VIV-1156",
+"id": "VIV-1155",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78214,7 +78495,7 @@
 ]
 },
 {
-"id": "VIV-1157",
+"id": "VIV-1156",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78236,7 +78517,7 @@
 ]
 },
 {
-"id": "VIV-1158",
+"id": "VIV-1157",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78259,7 +78540,7 @@
 ]
 },
 {
-"id": "VIV-1159",
+"id": "VIV-1158",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78294,7 +78575,7 @@
 ]
 },
 {
-"id": "VIV-1160",
+"id": "VIV-1159",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78324,7 +78605,7 @@
 ]
 },
 {
-"id": "VIV-1161",
+"id": "VIV-1160",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78349,7 +78630,7 @@
 ]
 },
 {
-"id": "VIV-1162",
+"id": "VIV-1161",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78418,7 +78699,7 @@
 ]
 },
 {
-"id": "VIV-1163",
+"id": "VIV-1162",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78453,7 +78734,7 @@
 ]
 },
 {
-"id": "VIV-1164",
+"id": "VIV-1163",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78590,7 +78871,7 @@
 ]
 },
 {
-"id": "VIV-1165",
+"id": "VIV-1164",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78697,7 +78978,7 @@
 ]
 },
 {
-"id": "VIV-1166",
+"id": "VIV-1165",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78794,7 +79075,7 @@
 ]
 },
 {
-"id": "VIV-1167",
+"id": "VIV-1166",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78822,7 +79103,7 @@
 ]
 },
 {
-"id": "VIV-1168",
+"id": "VIV-1167",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78883,7 +79164,7 @@
 ]
 },
 {
-"id": "VIV-1169",
+"id": "VIV-1168",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -78926,7 +79207,7 @@
 ]
 },
 {
-"id": "VIV-1170",
+"id": "VIV-1169",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79002,7 +79283,7 @@
 ]
 },
 {
-"id": "VIV-1171",
+"id": "VIV-1170",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79024,7 +79305,7 @@
 ]
 },
 {
-"id": "VIV-1172",
+"id": "VIV-1171",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79046,7 +79327,7 @@
 ]
 },
 {
-"id": "VIV-1173",
+"id": "VIV-1172",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79069,7 +79350,7 @@
 ]
 },
 {
-"id": "VIV-1174",
+"id": "VIV-1173",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79094,7 +79375,7 @@
 ]
 },
 {
-"id": "VIV-1175",
+"id": "VIV-1174",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79247,7 +79528,7 @@
 ]
 },
 {
-"id": "VIV-1176",
+"id": "VIV-1175",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79272,7 +79553,7 @@
 ]
 },
 {
-"id": "VIV-1177",
+"id": "VIV-1176",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79297,7 +79578,7 @@
 ]
 },
 {
-"id": "VIV-1178",
+"id": "VIV-1177",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79325,7 +79606,7 @@
 ]
 },
 {
-"id": "VIV-1179",
+"id": "VIV-1178",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79350,7 +79631,7 @@
 ]
 },
 {
-"id": "VIV-1180",
+"id": "VIV-1179",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79372,7 +79653,7 @@
 ]
 },
 {
-"id": "VIV-1181",
+"id": "VIV-1180",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79424,7 +79705,7 @@
 ]
 },
 {
-"id": "VIV-1182",
+"id": "VIV-1181",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79446,7 +79727,7 @@
 ]
 },
 {
-"id": "VIV-1183",
+"id": "VIV-1182",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79553,7 +79834,7 @@
 ]
 },
 {
-"id": "VIV-1184",
+"id": "VIV-1183",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79588,7 +79869,7 @@
 ]
 },
 {
-"id": "VIV-1185",
+"id": "VIV-1184",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79636,7 +79917,7 @@
 ]
 },
 {
-"id": "VIV-1186",
+"id": "VIV-1185",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79661,7 +79942,7 @@
 ]
 },
 {
-"id": "VIV-1187",
+"id": "VIV-1186",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79706,7 +79987,7 @@
 ]
 },
 {
-"id": "VIV-1188",
+"id": "VIV-1187",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79731,7 +80012,7 @@
 ]
 },
 {
-"id": "VIV-1189",
+"id": "VIV-1188",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79769,7 +80050,7 @@
 ]
 },
 {
-"id": "VIV-1190",
+"id": "VIV-1189",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79794,7 +80075,7 @@
 ]
 },
 {
-"id": "VIV-1191",
+"id": "VIV-1190",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79822,7 +80103,7 @@
 ]
 },
 {
-"id": "VIV-1192",
+"id": "VIV-1191",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79906,7 +80187,7 @@
 ]
 },
 {
-"id": "VIV-1193",
+"id": "VIV-1192",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79939,7 +80220,7 @@
 ]
 },
 {
-"id": "VIV-1194",
+"id": "VIV-1193",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79964,7 +80245,7 @@
 ]
 },
 {
-"id": "VIV-1195",
+"id": "VIV-1194",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -79994,7 +80275,7 @@
 ]
 },
 {
-"id": "VIV-1196",
+"id": "VIV-1195",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80019,7 +80300,7 @@
 ]
 },
 {
-"id": "VIV-1197",
+"id": "VIV-1196",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80084,7 +80365,7 @@
 ]
 },
 {
-"id": "VIV-1198",
+"id": "VIV-1197",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80170,7 +80451,7 @@
 ]
 },
 {
-"id": "VIV-1199",
+"id": "VIV-1198",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80195,7 +80476,7 @@
 ]
 },
 {
-"id": "VIV-1200",
+"id": "VIV-1199",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80225,7 +80506,7 @@
 ]
 },
 {
-"id": "VIV-1201",
+"id": "VIV-1200",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80250,7 +80531,7 @@
 ]
 },
 {
-"id": "VIV-1202",
+"id": "VIV-1201",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80307,7 +80588,7 @@
 ]
 },
 {
-"id": "VIV-1203",
+"id": "VIV-1202",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80335,7 +80616,7 @@
 ]
 },
 {
-"id": "VIV-1204",
+"id": "VIV-1203",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80368,7 +80649,7 @@
 ]
 },
 {
-"id": "VIV-1205",
+"id": "VIV-1204",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80393,7 +80674,7 @@
 ]
 },
 {
-"id": "VIV-1206",
+"id": "VIV-1205",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80418,7 +80699,7 @@
 ]
 },
 {
-"id": "VIV-1207",
+"id": "VIV-1206",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80440,7 +80721,7 @@
 ]
 },
 {
-"id": "VIV-1208",
+"id": "VIV-1207",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80473,7 +80754,7 @@
 ]
 },
 {
-"id": "VIV-1209",
+"id": "VIV-1208",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80498,7 +80779,7 @@
 ]
 },
 {
-"id": "VIV-1210",
+"id": "VIV-1209",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80523,7 +80804,7 @@
 ]
 },
 {
-"id": "VIV-1211",
+"id": "VIV-1210",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80584,7 +80865,7 @@
 ]
 },
 {
-"id": "VIV-1212",
+"id": "VIV-1211",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80616,7 +80897,7 @@
 ]
 },
 {
-"id": "VIV-1213",
+"id": "VIV-1212",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80646,7 +80927,7 @@
 ]
 },
 {
-"id": "VIV-1214",
+"id": "VIV-1213",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80671,7 +80952,7 @@
 ]
 },
 {
-"id": "VIV-1215",
+"id": "VIV-1214",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80699,7 +80980,7 @@
 ]
 },
 {
-"id": "VIV-1216",
+"id": "VIV-1215",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80727,7 +81008,7 @@
 ]
 },
 {
-"id": "VIV-1217",
+"id": "VIV-1216",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80765,7 +81046,7 @@
 ]
 },
 {
-"id": "VIV-1218",
+"id": "VIV-1217",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80800,7 +81081,7 @@
 ]
 },
 {
-"id": "VIV-1219",
+"id": "VIV-1218",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80828,7 +81109,7 @@
 ]
 },
 {
-"id": "VIV-1220",
+"id": "VIV-1219",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80861,7 +81142,7 @@
 ]
 },
 {
-"id": "VIV-1221",
+"id": "VIV-1220",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -80983,7 +81264,7 @@
 ]
 },
 {
-"id": "VIV-1222",
+"id": "VIV-1221",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81011,7 +81292,7 @@
 ]
 },
 {
-"id": "VIV-1223",
+"id": "VIV-1222",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81062,7 +81343,7 @@
 ]
 },
 {
-"id": "VIV-1224",
+"id": "VIV-1223",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81087,7 +81368,7 @@
 ]
 },
 {
-"id": "VIV-1225",
+"id": "VIV-1224",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81122,7 +81403,7 @@
 ]
 },
 {
-"id": "VIV-1226",
+"id": "VIV-1225",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81160,7 +81441,7 @@
 ]
 },
 {
-"id": "VIV-1227",
+"id": "VIV-1226",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81198,7 +81479,7 @@
 ]
 },
 {
-"id": "VIV-1228",
+"id": "VIV-1227",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81233,7 +81514,7 @@
 ]
 },
 {
-"id": "VIV-1229",
+"id": "VIV-1228",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81271,7 +81552,7 @@
 ]
 },
 {
-"id": "VIV-1230",
+"id": "VIV-1229",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81299,7 +81580,7 @@
 ]
 },
 {
-"id": "VIV-1231",
+"id": "VIV-1230",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81332,7 +81613,7 @@
 ]
 },
 {
-"id": "VIV-1232",
+"id": "VIV-1231",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81360,7 +81641,7 @@
 ]
 },
 {
-"id": "VIV-1233",
+"id": "VIV-1232",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81380,6 +81661,22 @@
 "tags": [
 "cover"
 ]
+},
+{
+"id": "VIV-1233",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo T5e"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "VIV-1234",
@@ -81462,6 +81759,22 @@
 "VIV"
 ],
 "models": [
+"vivo Y31t"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "VIV-1238",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
 "vivo iQOO 16"
 ],
 "released": [
@@ -81482,7 +81795,7 @@
 ]
 },
 {
-"id": "VIV-1238",
+"id": "VIV-1239",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81508,7 +81821,7 @@
 ]
 },
 {
-"id": "VIV-1239",
+"id": "VIV-1240",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81534,7 +81847,7 @@
 ]
 },
 {
-"id": "VIV-1240",
+"id": "VIV-1241",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81560,7 +81873,23 @@
 ]
 },
 {
-"id": "VIV-1241",
+"id": "VIV-1242",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo iQOO Z11xa"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "VIV-1243",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -81590,13 +81919,29 @@
 ]
 },
 {
-"id": "VIV-1242",
+"id": "VIV-1244",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
 ],
 "models": [
 "vivo S2 FE"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "VIV-1245",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo iQOO Neo12"
 ],
 "released": [
 "2026-10"
@@ -81834,6 +82179,22 @@
 "device": "Tablet"
 },
 {
+"id": "VIV-2010",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo iQOO Pad Pro 8.8"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
 "id": "VIV-3001",
 "brand": "vivo / iQOO",
 "brands": [
@@ -82012,6 +82373,38 @@
 "VIV"
 ],
 "models": [
+"vivo iQOO Watch 5"
+],
+"released": [
+"2025-05"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "VIV-3008",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo iQOO Watch GT 2"
+],
+"released": [
+"2025-10"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "VIV-3009",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
 "vivo Watch GT 2"
 ],
 "released": [
@@ -82029,6 +82422,22 @@
 "dims": [
 "47.5 x 40.2 x 11 mm"
 ]
+},
+{
+"id": "VIV-3010",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
+"vivo Watch 6"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
 },
 {
 "id": "REA-1001",
@@ -82984,51 +83393,45 @@
 "REA"
 ],
 "models": [
-"Realme 8"
-],
-"released": [
-"2021-03"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3085"
-],
-"screens": [
-"6.4in"
-],
-"dims": [
-"160.6 x 73.9 x 8 mm"
-]
-},
-{
-"id": "REA-1033",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
+"Realme 8",
 "Realme 8 Pro"
 ],
 "released": [
+"2021-03",
 "2021-03"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree",
 "device": "Phone",
+"sources": [
+[
+"Alza glass with frame for Realme 8/8 Pro",
+"https://m.alza.cz/EN/tempered-glass-protector-frame-for-realme-88-pro-black-camera-glass-d6424023.htm"
+],
+[
+"KARTRAY at Flipkart (Realme 7 Pro, X7, 8, 8 Pro)",
+"https://www.flipkart.com/kartray-screen-guard-realme-7-pro-x7-8-8-matte-tempered-glass/p/itme91e00da4a3e6"
+],
+[
+"TMIC at eBay.de (Realme 8, 8 Pro)",
+"https://www.ebay.de/itm/175021136452"
+]
+],
 "codes": [
+"RMX3085",
 "RMX3081"
 ],
 "screens": [
+"6.4in",
 "6.4in"
 ],
 "dims": [
+"160.6 x 73.9 x 8 mm",
 "160.6 x 73.9 x 8.1 mm"
 ]
 },
 {
-"id": "REA-1034",
+"id": "REA-1033",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83063,7 +83466,7 @@
 ]
 },
 {
-"id": "REA-1035",
+"id": "REA-1034",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83113,7 +83516,7 @@
 ]
 },
 {
-"id": "REA-1036",
+"id": "REA-1035",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83153,7 +83556,7 @@
 ]
 },
 {
-"id": "REA-1037",
+"id": "REA-1036",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83183,7 +83586,7 @@
 ]
 },
 {
-"id": "REA-1038",
+"id": "REA-1037",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83208,7 +83611,7 @@
 ]
 },
 {
-"id": "REA-1039",
+"id": "REA-1038",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83230,7 +83633,7 @@
 ]
 },
 {
-"id": "REA-1040",
+"id": "REA-1039",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83255,7 +83658,7 @@
 ]
 },
 {
-"id": "REA-1041",
+"id": "REA-1040",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83285,7 +83688,7 @@
 ]
 },
 {
-"id": "REA-1042",
+"id": "REA-1041",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83307,7 +83710,7 @@
 ]
 },
 {
-"id": "REA-1043",
+"id": "REA-1042",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83329,7 +83732,7 @@
 ]
 },
 {
-"id": "REA-1044",
+"id": "REA-1043",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83359,32 +83762,57 @@
 ]
 },
 {
-"id": "REA-1045",
+"id": "REA-1044",
 "brand": "Realme",
 "brands": [
 "REA"
 ],
 "models": [
-"Realme GT Neo2"
+"Realme GT Neo2",
+"Realme GT2",
+"Realme Q5 Pro",
+"Realme GT Neo 3T"
 ],
 "released": [
-"2021-09"
+"2021-09",
+"2022-01",
+"2022-04",
+"2022-06"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Realme GT Neo2, Realme GT2, Realme Q5 Pro. The rest match on specs: test before swapping. Nillkin's CP+ Pro glass is listed for the Realme GT Neo 2, GT2 and Q5 Pro, and the AL5hafii chart groups all three at 162.9 x 75.8 mm",
 "device": "Phone",
+"sources": [
+[
+"Nillkin CP+ Pro (GT Neo 2, GT2, Q5 Pro, GT Neo 3T)",
+"https://nillkin.org/smartphones-accessories/realme-brand-accessories/realme-gt-neo-2-accessories/nillkin-realme-gt-neo-2-cp-pro"
+],
+[
+"AL5hafii mobiles-compatibility-charts 134_162x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+]
+],
 "codes": [
-"RMX3370"
+"RMX3370",
+"RMX3310, RMX3312, RMX3311",
+"RMX3372",
+"RMX3372, RMX3371"
 ],
 "screens": [
+"6.62in",
+"6.62in",
+"6.62in",
 "6.62in"
 ],
 "dims": [
-"162.9 x 75.8 x 9 mm"
+"162.9 x 75.8 x 9 mm",
+"162.9 x 75.8 x 8.6 mm",
+"162.9 x 75.8 x 8.7 mm",
+"162.9 x 75.8 x 8.7 mm"
 ]
 },
 {
-"id": "REA-1046",
+"id": "REA-1045",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83414,7 +83842,7 @@
 ]
 },
 {
-"id": "REA-1047",
+"id": "REA-1046",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83433,7 +83861,7 @@
 ]
 },
 {
-"id": "REA-1048",
+"id": "REA-1047",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83458,32 +83886,7 @@
 ]
 },
 {
-"id": "REA-1049",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme GT2"
-],
-"released": [
-"2022-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3310, RMX3312, RMX3311"
-],
-"screens": [
-"6.62in"
-],
-"dims": [
-"162.9 x 75.8 x 8.6 mm"
-]
-},
-{
-"id": "REA-1050",
+"id": "REA-1048",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83508,7 +83911,7 @@
 ]
 },
 {
-"id": "REA-1051",
+"id": "REA-1049",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83543,7 +83946,7 @@
 ]
 },
 {
-"id": "REA-1052",
+"id": "REA-1050",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83583,7 +83986,7 @@
 ]
 },
 {
-"id": "REA-1053",
+"id": "REA-1051",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83613,7 +84016,7 @@
 ]
 },
 {
-"id": "REA-1054",
+"id": "REA-1052",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83638,7 +84041,7 @@
 ]
 },
 {
-"id": "REA-1055",
+"id": "REA-1053",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83663,7 +84066,7 @@
 ]
 },
 {
-"id": "REA-1056",
+"id": "REA-1054",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83693,37 +84096,7 @@
 ]
 },
 {
-"id": "REA-1057",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme Q5 Pro",
-"Realme GT Neo 3T"
-],
-"released": [
-"2022-04",
-"2022-06"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"RMX3372",
-"RMX3372, RMX3371"
-],
-"screens": [
-"6.62in",
-"6.62in"
-],
-"dims": [
-"162.9 x 75.8 x 8.7 mm",
-"162.9 x 75.8 x 8.7 mm"
-]
-},
-{
-"id": "REA-1058",
+"id": "REA-1055",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83745,7 +84118,7 @@
 ]
 },
 {
-"id": "REA-1059",
+"id": "REA-1056",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83767,7 +84140,7 @@
 ]
 },
 {
-"id": "REA-1060",
+"id": "REA-1057",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83792,7 +84165,7 @@
 ]
 },
 {
-"id": "REA-1061",
+"id": "REA-1058",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83822,7 +84195,7 @@
 ]
 },
 {
-"id": "REA-1062",
+"id": "REA-1059",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83847,7 +84220,7 @@
 ]
 },
 {
-"id": "REA-1063",
+"id": "REA-1060",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83872,7 +84245,7 @@
 ]
 },
 {
-"id": "REA-1064",
+"id": "REA-1061",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83912,7 +84285,7 @@
 ]
 },
 {
-"id": "REA-1065",
+"id": "REA-1062",
 "brand": "Realme + Oppo",
 "brands": [
 "REA",
@@ -83943,7 +84316,7 @@
 ]
 },
 {
-"id": "REA-1066",
+"id": "REA-1063",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83968,7 +84341,7 @@
 ]
 },
 {
-"id": "REA-1067",
+"id": "REA-1064",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -83998,7 +84371,7 @@
 ]
 },
 {
-"id": "REA-1068",
+"id": "REA-1065",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84028,7 +84401,7 @@
 ]
 },
 {
-"id": "REA-1069",
+"id": "REA-1066",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84053,7 +84426,7 @@
 ]
 },
 {
-"id": "REA-1070",
+"id": "REA-1067",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84078,7 +84451,7 @@
 ]
 },
 {
-"id": "REA-1071",
+"id": "REA-1068",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84113,7 +84486,7 @@
 ]
 },
 {
-"id": "REA-1072",
+"id": "REA-1069",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84135,7 +84508,7 @@
 ]
 },
 {
-"id": "REA-1073",
+"id": "REA-1070",
 "brand": "Realme + OnePlus + Oppo",
 "brands": [
 "REA",
@@ -84251,7 +84624,7 @@
 ]
 },
 {
-"id": "REA-1074",
+"id": "REA-1071",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84276,7 +84649,7 @@
 ]
 },
 {
-"id": "REA-1075",
+"id": "REA-1072",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84306,7 +84679,7 @@
 ]
 },
 {
-"id": "REA-1076",
+"id": "REA-1073",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84336,7 +84709,7 @@
 ]
 },
 {
-"id": "REA-1077",
+"id": "REA-1074",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84361,25 +84734,35 @@
 ]
 },
 {
-"id": "REA-1078",
+"id": "REA-1075",
 "brand": "Realme",
 "brands": [
 "REA"
 ],
 "models": [
 "Realme C53",
+"Realme Narzo N53",
 "Realme C51",
 "Realme Note 50"
 ],
 "released": [
 "2023-05",
+"2023-05",
 "2023-07",
 "2024-01"
 ],
 "check": "Confirmed",
-"note": "Bizon Glass Clear 2 lists Realme C53/C51/Note 50; 3MK FlexibleGlass lists C51/C53",
+"note": "MyScreen (homescreen.pl) sells two glasses for the Realme C53 and Narzo N53. Bizon Glass Clear 2 lists Realme C53/C51/Note 50; 3MK FlexibleGlass lists C51/C53",
 "device": "Phone",
 "sources": [
+[
+"MyScreen Diamond Glass Edge Realme C53/Narzo N53 at homescreen.pl",
+"https://homescreen.pl/en/80160-tempered-glass-myscreen-diamond-glass-edge-full-glue-for-realme-c53-narzo-n53-black.html"
+],
+[
+"MyScreen Diamond Glass Edge Lite Realme C53 / Narzo N53 at homescreen.pl",
+"https://homescreen.pl/realme-c50-series/80512-szklo-hartowane-myscreen-diamond-glass-edge-lite-full-glue-realme-c53-narzo-n53-czarny-5904433223676.html"
+],
 [
 "Bizon (homescreen.pl B2B)",
 "https://b2b.homescreen.pl/en/realme-c50-series/95972-bizon-glass-clear-2-realme-c53-c51-note-50-5904665353899.html"
@@ -84391,47 +84774,25 @@
 ],
 "codes": [
 "RMX3760",
+"RMX3761",
 "RMX3830",
 "RMX3834"
 ],
 "screens": [
 "6.74in",
 "6.74in",
+"6.74in",
 "6.74in"
 ],
 "dims": [
+"167.3 x 76.7 x 7.5 mm",
 "167.3 x 76.7 x 7.5 mm",
 "167.2 x 76.7 x 8 mm",
 "167.2 x 76.7 x 8 mm"
 ]
 },
 {
-"id": "REA-1079",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme Narzo N53"
-],
-"released": [
-"2023-05"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3761"
-],
-"screens": [
-"6.74in"
-],
-"dims": [
-"167.3 x 76.7 x 7.5 mm"
-]
-},
-{
-"id": "REA-1080",
+"id": "REA-1076",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84456,7 +84817,7 @@
 ]
 },
 {
-"id": "REA-1081",
+"id": "REA-1077",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84481,7 +84842,7 @@
 ]
 },
 {
-"id": "REA-1082",
+"id": "REA-1078",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84521,7 +84882,7 @@
 ]
 },
 {
-"id": "REA-1083",
+"id": "REA-1079",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84551,7 +84912,7 @@
 ]
 },
 {
-"id": "REA-1084",
+"id": "REA-1080",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84581,7 +84942,7 @@
 ]
 },
 {
-"id": "REA-1085",
+"id": "REA-1081",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84606,7 +84967,7 @@
 ]
 },
 {
-"id": "REA-1086",
+"id": "REA-1082",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84636,7 +84997,7 @@
 ]
 },
 {
-"id": "REA-1087",
+"id": "REA-1083",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84671,7 +85032,7 @@
 ]
 },
 {
-"id": "REA-1088",
+"id": "REA-1084",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84706,7 +85067,7 @@
 ]
 },
 {
-"id": "REA-1089",
+"id": "REA-1085",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84751,7 +85112,7 @@
 ]
 },
 {
-"id": "REA-1090",
+"id": "REA-1086",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84776,7 +85137,7 @@
 ]
 },
 {
-"id": "REA-1091",
+"id": "REA-1087",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84811,7 +85172,7 @@
 ]
 },
 {
-"id": "REA-1092",
+"id": "REA-1088",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84836,7 +85197,7 @@
 ]
 },
 {
-"id": "REA-1093",
+"id": "REA-1089",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84871,7 +85232,7 @@
 ]
 },
 {
-"id": "REA-1094",
+"id": "REA-1090",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84896,7 +85257,7 @@
 ]
 },
 {
-"id": "REA-1095",
+"id": "REA-1091",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84922,7 +85283,7 @@
 ]
 },
 {
-"id": "REA-1096",
+"id": "REA-1092",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84947,7 +85308,7 @@
 ]
 },
 {
-"id": "REA-1097",
+"id": "REA-1093",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84972,7 +85333,7 @@
 ]
 },
 {
-"id": "REA-1098",
+"id": "REA-1094",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -84994,7 +85355,7 @@
 ]
 },
 {
-"id": "REA-1099",
+"id": "REA-1095",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85016,7 +85377,7 @@
 ]
 },
 {
-"id": "REA-1100",
+"id": "REA-1096",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85056,7 +85417,7 @@
 ]
 },
 {
-"id": "REA-1101",
+"id": "REA-1097",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85078,7 +85439,7 @@
 ]
 },
 {
-"id": "REA-1102",
+"id": "REA-1098",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85118,7 +85479,7 @@
 ]
 },
 {
-"id": "REA-1103",
+"id": "REA-1099",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85143,7 +85504,7 @@
 ]
 },
 {
-"id": "REA-1104",
+"id": "REA-1100",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85169,7 +85530,7 @@
 ]
 },
 {
-"id": "REA-1105",
+"id": "REA-1101",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85194,7 +85555,7 @@
 ]
 },
 {
-"id": "REA-1106",
+"id": "REA-1102",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85227,7 +85588,7 @@
 ]
 },
 {
-"id": "REA-1107",
+"id": "REA-1103",
 "brand": "Realme + Oppo",
 "brands": [
 "REA",
@@ -85289,7 +85650,7 @@
 ]
 },
 {
-"id": "REA-1108",
+"id": "REA-1104",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85314,7 +85675,7 @@
 ]
 },
 {
-"id": "REA-1109",
+"id": "REA-1105",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85344,7 +85705,7 @@
 ]
 },
 {
-"id": "REA-1110",
+"id": "REA-1106",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85369,7 +85730,7 @@
 ]
 },
 {
-"id": "REA-1111",
+"id": "REA-1107",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85397,7 +85758,7 @@
 ]
 },
 {
-"id": "REA-1112",
+"id": "REA-1108",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85419,7 +85780,7 @@
 ]
 },
 {
-"id": "REA-1113",
+"id": "REA-1109",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85465,7 +85826,7 @@
 ]
 },
 {
-"id": "REA-1114",
+"id": "REA-1110",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85495,7 +85856,7 @@
 ]
 },
 {
-"id": "REA-1115",
+"id": "REA-1111",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85520,7 +85881,7 @@
 ]
 },
 {
-"id": "REA-1116",
+"id": "REA-1112",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85553,7 +85914,7 @@
 ]
 },
 {
-"id": "REA-1117",
+"id": "REA-1113",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85575,7 +85936,7 @@
 ]
 },
 {
-"id": "REA-1118",
+"id": "REA-1114",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85600,7 +85961,7 @@
 ]
 },
 {
-"id": "REA-1119",
+"id": "REA-1115",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85622,7 +85983,7 @@
 ]
 },
 {
-"id": "REA-1120",
+"id": "REA-1116",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85652,7 +86013,7 @@
 ]
 },
 {
-"id": "REA-1121",
+"id": "REA-1117",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85674,7 +86035,7 @@
 ]
 },
 {
-"id": "REA-1122",
+"id": "REA-1118",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85704,7 +86065,7 @@
 ]
 },
 {
-"id": "REA-1123",
+"id": "REA-1119",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85749,7 +86110,7 @@
 ]
 },
 {
-"id": "REA-1124",
+"id": "REA-1120",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85771,7 +86132,7 @@
 ]
 },
 {
-"id": "REA-1125",
+"id": "REA-1121",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85793,7 +86154,7 @@
 ]
 },
 {
-"id": "REA-1126",
+"id": "REA-1122",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85823,7 +86184,7 @@
 ]
 },
 {
-"id": "REA-1127",
+"id": "REA-1123",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85848,7 +86209,7 @@
 ]
 },
 {
-"id": "REA-1128",
+"id": "REA-1124",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85881,7 +86242,7 @@
 ]
 },
 {
-"id": "REA-1129",
+"id": "REA-1125",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85906,7 +86267,7 @@
 ]
 },
 {
-"id": "REA-1130",
+"id": "REA-1126",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85931,7 +86292,7 @@
 ]
 },
 {
-"id": "REA-1131",
+"id": "REA-1127",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85953,7 +86314,7 @@
 ]
 },
 {
-"id": "REA-1132",
+"id": "REA-1128",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85975,7 +86336,7 @@
 ]
 },
 {
-"id": "REA-1133",
+"id": "REA-1129",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86000,7 +86361,7 @@
 ]
 },
 {
-"id": "REA-1134",
+"id": "REA-1130",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86025,7 +86386,7 @@
 ]
 },
 {
-"id": "REA-1135",
+"id": "REA-1131",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86050,7 +86411,7 @@
 ]
 },
 {
-"id": "REA-1136",
+"id": "REA-1132",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86078,7 +86439,7 @@
 ]
 },
 {
-"id": "REA-1137",
+"id": "REA-1133",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86108,7 +86469,7 @@
 ]
 },
 {
-"id": "REA-1138",
+"id": "REA-1134",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86138,7 +86499,7 @@
 ]
 },
 {
-"id": "REA-1139",
+"id": "REA-1135",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86168,7 +86529,7 @@
 ]
 },
 {
-"id": "REA-1140",
+"id": "REA-1136",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86190,7 +86551,7 @@
 ]
 },
 {
-"id": "REA-1141",
+"id": "REA-1137",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86215,7 +86576,7 @@
 ]
 },
 {
-"id": "REA-1142",
+"id": "REA-1138",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86250,7 +86611,7 @@
 ]
 },
 {
-"id": "REA-1143",
+"id": "REA-1139",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86270,6 +86631,54 @@
 "dims": [
 "166.5 x 78.2 x 8.8 mm"
 ]
+},
+{
+"id": "REA-1140",
+"brand": "Realme",
+"brands": [
+"REA"
+],
+"models": [
+"Realme 16x"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "REA-1141",
+"brand": "Realme",
+"brands": [
+"REA"
+],
+"models": [
+"Realme P4s"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "REA-1142",
+"brand": "Realme",
+"brands": [
+"REA"
+],
+"models": [
+"Realme P4s Lite"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "REA-2001",
@@ -93211,6 +93620,89 @@
 "HUA"
 ],
 "models": [
+"Huawei nova 16 SE"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HUA-1243",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Mate XT2"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "Foldable: glass is for the outer (cover) screen",
+"device": "Phone",
+"tags": [
+"cover"
+]
+},
+{
+"id": "HUA-1244",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Pura X View"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HUA-1245",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei nova 16s"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HUA-1246",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei nova 16s Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HUA-1247",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
 "Huawei Mate 90"
 ],
 "released": [
@@ -93221,7 +93713,7 @@
 "device": "Phone"
 },
 {
-"id": "HUA-1243",
+"id": "HUA-1248",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -93237,7 +93729,7 @@
 "device": "Phone"
 },
 {
-"id": "HUA-1244",
+"id": "HUA-1249",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -93253,7 +93745,7 @@
 "device": "Phone"
 },
 {
-"id": "HUA-1245",
+"id": "HUA-1250",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -93263,6 +93755,22 @@
 ],
 "released": [
 "2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HUA-1251",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei OSTA O1 Pro"
+],
+"released": [
+"2026-11"
 ],
 "check": "Check",
 "note": "",
@@ -94758,6 +95266,38 @@
 ]
 },
 {
+"id": "HUA-2058",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei MatePad Pro 12"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "HUA-2059",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei MatePad Air Z"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
 "id": "HUA-3001",
 "brand": "Huawei",
 "brands": [
@@ -95911,6 +96451,22 @@
 "HUA"
 ],
 "models": [
+"Huawei Watch 5 (42mm)"
+],
+"released": [
+"2025-05"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3052",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
 "Huawei Watch 5"
 ],
 "released": [
@@ -95933,7 +96489,7 @@
 ]
 },
 {
-"id": "HUA-3052",
+"id": "HUA-3053",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -95958,7 +96514,7 @@
 ]
 },
 {
-"id": "HUA-3053",
+"id": "HUA-3054",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -95983,7 +96539,7 @@
 ]
 },
 {
-"id": "HUA-3054",
+"id": "HUA-3055",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96002,7 +96558,7 @@
 ]
 },
 {
-"id": "HUA-3055",
+"id": "HUA-3056",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96021,7 +96577,7 @@
 ]
 },
 {
-"id": "HUA-3056",
+"id": "HUA-3057",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96049,7 +96605,7 @@
 ]
 },
 {
-"id": "HUA-3057",
+"id": "HUA-3058",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96083,7 +96639,7 @@
 ]
 },
 {
-"id": "HUA-3058",
+"id": "HUA-3059",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96101,7 +96657,7 @@
 "device": "Wearable"
 },
 {
-"id": "HUA-3059",
+"id": "HUA-3060",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96129,7 +96685,7 @@
 ]
 },
 {
-"id": "HUA-3060",
+"id": "HUA-3061",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96157,7 +96713,7 @@
 ]
 },
 {
-"id": "HUA-3061",
+"id": "HUA-3062",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96179,7 +96735,7 @@
 ]
 },
 {
-"id": "HUA-3062",
+"id": "HUA-3063",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96201,7 +96757,7 @@
 ]
 },
 {
-"id": "HUA-3063",
+"id": "HUA-3064",
 "brand": "Huawei",
 "brands": [
 "HUA"
@@ -96227,6 +96783,134 @@
 "tags": [
 "measure"
 ]
+},
+{
+"id": "HUA-3065",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch GT 7 41mm"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3066",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch GT 7 46mm"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3067",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch GT 7 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3068",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch 6 42mm"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3069",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch 6 46mm"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3070",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch 6 Pro 43mm"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3071",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch 6 Pro 46mm"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HUA-3072",
+"brand": "Huawei",
+"brands": [
+"HUA"
+],
+"models": [
+"Huawei Watch D3"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
 },
 {
 "id": "HON-1001",
@@ -101027,6 +101711,38 @@
 "HON"
 ],
 "models": [
+"Honor Robot Phone"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1162",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor Turbo"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1163",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
 "Honor Magic9"
 ],
 "released": [
@@ -101037,7 +101753,7 @@
 "device": "Phone"
 },
 {
-"id": "HON-1162",
+"id": "HON-1164",
 "brand": "Honor",
 "brands": [
 "HON"
@@ -101053,7 +101769,7 @@
 "device": "Phone"
 },
 {
-"id": "HON-1163",
+"id": "HON-1165",
 "brand": "Honor",
 "brands": [
 "HON"
@@ -101063,6 +101779,86 @@
 ],
 "released": [
 "2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1166",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor X9e Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1167",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor X9e s"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1168",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor 700"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1169",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor 700 Pro"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "HON-1170",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor 700S"
+],
+"released": [
+"2026-11"
 ],
 "check": "Check",
 "note": "",
@@ -101801,6 +102597,22 @@
 ]
 },
 {
+"id": "HON-2029",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor Tablet X10 Mini"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
 "id": "HON-3001",
 "brand": "Honor",
 "brands": [
@@ -102350,6 +103162,22 @@
 ],
 "released": [
 "2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "HON-3024",
+"brand": "Honor",
+"brands": [
+"HON"
+],
+"models": [
+"Honor Watch 6 Pro"
+],
+"released": [
+"2026-09"
 ],
 "check": "Check",
 "note": "",
@@ -106332,6 +107160,22 @@
 "TCL"
 ],
 "models": [
+"TCL A3 (2021)"
+],
+"released": [
+"2021-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "TCL-1159",
+"brand": "TCL / Alcatel",
+"brands": [
+"TCL"
+],
+"models": [
 "TCL A30"
 ],
 "released": [
@@ -106351,7 +107195,7 @@
 ]
 },
 {
-"id": "TCL-1159",
+"id": "TCL-1160",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106376,64 +107220,64 @@
 ]
 },
 {
-"id": "TCL-1160",
-"brand": "TCL / Alcatel",
-"brands": [
-"TCL"
-],
-"models": [
-"TCL 305"
-],
-"released": [
-"2022-01"
-],
-"check": "Confirmed",
-"note": "3MK sells FlexibleGlass hybrid glass for the TCL 305 alone; hybrid glass, not tempered",
-"device": "Phone",
-"sources": [
-[
-"3MK",
-"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-tcl-305-3mk-flexibleglass"
-]
-],
-"codes": [
-"6102D, 5164D"
-],
-"screens": [
-"6.52in"
-],
-"dims": [
-"165.2 x 75.5 x 8.9 mm"
-]
-},
-{
 "id": "TCL-1161",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
 ],
 "models": [
-"TCL 306"
+"TCL 305",
+"TCL 306",
+"TCL 30 SE",
+"TCL 30E"
 ],
 "released": [
-"2022-01"
+"2022-01",
+"2022-01",
+"2022-02",
+"2022-02"
 ],
 "check": "Confirmed",
-"note": "3MK sells FlexibleGlass hybrid glass for the TCL 306 (incl. Dual SIM) alone; hybrid glass, not tempered",
+"note": "PanzerGlass and Volte-Tel each sell one glass for TCL 30 SE, 30E, 305 and 306; one Volte-Tel buyer says it is slightly large on the 30E. 3MK sells FlexibleGlass hybrid glass for the TCL 305 alone; hybrid glass, not tempered. 3MK sells FlexibleGlass hybrid glass for the TCL 306 (incl. Dual SIM) alone; hybrid glass, not tempered. 3MK sells FlexibleGlass hybrid glass for the TCL 30 SE alone; hybrid glass, not tempered",
 "device": "Phone",
 "sources": [
 [
+"PanzerGlass TCL 30 SE | 30E | 305 | 306 at BT Ireland webstore",
+"https://webstore.btireland.com/panzerglass-r-screen-protector-tcl-30-se-30e-305-306-4236.html"
+],
+[
+"Volte-Tel glass TCL 305/306/30E/30SE at Skroutz",
+"https://skroutz.mt/s/35968477/Volte-Tel-2-5D-0-3mm-Full-Glue-Full-Face-Tempered-Glass-Tcl-305-306-30-E-30-Se-8311581.html"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-tcl-305-3mk-flexibleglass"
+],
+[
 "3MK",
 "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-tcl-306-306-dual-sim-3mk-flexibleglass"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-tcl-30-se-3mk-flexibleglass"
 ]
 ],
 "codes": [
-"X668, 6102H"
+"6102D, 5164D",
+"X668, 6102H",
+"6165H, 6156H1, 6165A, 6165A1, 6165S",
+"6127A, 6127l"
 ],
 "screens": [
+"6.52in",
+"6.52in",
+"6.52in",
 "6.52in"
 ],
 "dims": [
+"165.2 x 75.5 x 8.9 mm",
+"165.2 x 75.5 x 8.9 mm",
+"165.2 x 75.5 x 8.9 mm",
 "165.2 x 75.5 x 8.9 mm"
 ]
 },
@@ -106532,62 +107376,6 @@
 "TCL"
 ],
 "models": [
-"TCL 30 SE"
-],
-"released": [
-"2022-02"
-],
-"check": "Confirmed",
-"note": "3MK sells FlexibleGlass hybrid glass for the TCL 30 SE alone; hybrid glass, not tempered",
-"device": "Phone",
-"sources": [
-[
-"3MK",
-"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-tcl-30-se-3mk-flexibleglass"
-]
-],
-"codes": [
-"6165H, 6156H1, 6165A, 6165A1, 6165S"
-],
-"screens": [
-"6.52in"
-],
-"dims": [
-"165.2 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "TCL-1166",
-"brand": "TCL / Alcatel",
-"brands": [
-"TCL"
-],
-"models": [
-"TCL 30E"
-],
-"released": [
-"2022-02"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"6127A, 6127l"
-],
-"screens": [
-"6.52in"
-],
-"dims": [
-"165.2 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "TCL-1167",
-"brand": "TCL / Alcatel",
-"brands": [
-"TCL"
-],
-"models": [
 "TCL 30 XL"
 ],
 "released": [
@@ -106613,7 +107401,7 @@
 ]
 },
 {
-"id": "TCL-1168",
+"id": "TCL-1166",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106638,7 +107426,7 @@
 ]
 },
 {
-"id": "TCL-1169",
+"id": "TCL-1167",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106660,7 +107448,7 @@
 ]
 },
 {
-"id": "TCL-1170",
+"id": "TCL-1168",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106695,7 +107483,7 @@
 ]
 },
 {
-"id": "TCL-1171",
+"id": "TCL-1169",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106726,7 +107514,7 @@
 ]
 },
 {
-"id": "TCL-1172",
+"id": "TCL-1170",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106751,7 +107539,7 @@
 ]
 },
 {
-"id": "TCL-1173",
+"id": "TCL-1171",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106781,7 +107569,7 @@
 ]
 },
 {
-"id": "TCL-1174",
+"id": "TCL-1172",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106812,7 +107600,7 @@
 ]
 },
 {
-"id": "TCL-1175",
+"id": "TCL-1173",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106834,7 +107622,7 @@
 ]
 },
 {
-"id": "TCL-1176",
+"id": "TCL-1174",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106859,7 +107647,7 @@
 ]
 },
 {
-"id": "TCL-1177",
+"id": "TCL-1175",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106884,7 +107672,7 @@
 ]
 },
 {
-"id": "TCL-1178",
+"id": "TCL-1176",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106909,7 +107697,7 @@
 ]
 },
 {
-"id": "TCL-1179",
+"id": "TCL-1177",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106940,7 +107728,7 @@
 ]
 },
 {
-"id": "TCL-1180",
+"id": "TCL-1178",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106965,7 +107753,7 @@
 ]
 },
 {
-"id": "TCL-1181",
+"id": "TCL-1179",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -106996,7 +107784,7 @@
 ]
 },
 {
-"id": "TCL-1182",
+"id": "TCL-1180",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107027,7 +107815,7 @@
 ]
 },
 {
-"id": "TCL-1183",
+"id": "TCL-1181",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107058,7 +107846,7 @@
 ]
 },
 {
-"id": "TCL-1184",
+"id": "TCL-1182",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107089,7 +107877,7 @@
 ]
 },
 {
-"id": "TCL-1185",
+"id": "TCL-1183",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107120,7 +107908,7 @@
 ]
 },
 {
-"id": "TCL-1186",
+"id": "TCL-1184",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107150,7 +107938,7 @@
 ]
 },
 {
-"id": "TCL-1187",
+"id": "TCL-1185",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107185,7 +107973,7 @@
 ]
 },
 {
-"id": "TCL-1188",
+"id": "TCL-1186",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107210,7 +107998,7 @@
 ]
 },
 {
-"id": "TCL-1189",
+"id": "TCL-1187",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107236,6 +108024,10 @@
 [
 "Volte-Tel via Skroutz",
 "https://www.skroutz.mt/s/57535227/Volte-Tel-2-5D-0-3mm-Full-Glue-Tempered-Glass-TCL-50-NXTPAPER-5G-TCL-50-Pro-NXTPAPER-5G-8370625.html"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-sie-szklo-na-tcl-50-nxtpaper-5g-50-pro-nxtpaper-5g-3mk-flexibleglass-pro"
 ]
 ],
 "codes": [
@@ -107255,7 +108047,7 @@
 ]
 },
 {
-"id": "TCL-1190",
+"id": "TCL-1188",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107291,7 +108083,7 @@
 ]
 },
 {
-"id": "TCL-1191",
+"id": "TCL-1189",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107332,7 +108124,7 @@
 ]
 },
 {
-"id": "TCL-1192",
+"id": "TCL-1190",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107357,7 +108149,7 @@
 ]
 },
 {
-"id": "TCL-1193",
+"id": "TCL-1191",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107382,7 +108174,7 @@
 ]
 },
 {
-"id": "TCL-1194",
+"id": "TCL-1192",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107412,7 +108204,7 @@
 ]
 },
 {
-"id": "TCL-1195",
+"id": "TCL-1193",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107437,7 +108229,7 @@
 ]
 },
 {
-"id": "TCL-1196",
+"id": "TCL-1194",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107456,7 +108248,7 @@
 ]
 },
 {
-"id": "TCL-1197",
+"id": "TCL-1195",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107481,7 +108273,7 @@
 ]
 },
 {
-"id": "TCL-1198",
+"id": "TCL-1196",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107506,7 +108298,7 @@
 ]
 },
 {
-"id": "TCL-1199",
+"id": "TCL-1197",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107531,7 +108323,7 @@
 ]
 },
 {
-"id": "TCL-1200",
+"id": "TCL-1198",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107553,7 +108345,7 @@
 ]
 },
 {
-"id": "TCL-1201",
+"id": "TCL-1199",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107575,7 +108367,7 @@
 ]
 },
 {
-"id": "TCL-1202",
+"id": "TCL-1200",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -107597,7 +108389,7 @@
 ]
 },
 {
-"id": "TCL-1203",
+"id": "TCL-1201",
 "brand": "TCL / Alcatel",
 "brands": [
 "TCL"
@@ -108722,6 +109514,54 @@
 ]
 },
 {
+"id": "TCL-2045",
+"brand": "TCL / Alcatel",
+"brands": [
+"TCL"
+],
+"models": [
+"TCL Tab A1 NxtPaper"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "TCL-2046",
+"brand": "TCL / Alcatel",
+"brands": [
+"TCL"
+],
+"models": [
+"TCL Note A1 NxtPaper"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "TCL-2047",
+"brand": "TCL / Alcatel",
+"brands": [
+"TCL"
+],
+"models": [
+"TCL Tab A1 Kids Edition"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
 "id": "TCL-3001",
 "brand": "TCL / Alcatel",
 "brands": [
@@ -108848,6 +109688,10 @@
 [
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-nothing-phone-2a-2p"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-sie-szklo-na-nothing-phone-2a-2a-plus-community-edition-3mk-flexibleglass-pro"
 ]
 ],
 "codes": [
@@ -122490,15 +123334,21 @@
 "FAI"
 ],
 "models": [
-"Fairphone 6"
+"Fairphone 6",
+"Fairphone 6+"
 ],
 "released": [
-"2025-06"
+"2025-06",
+"2026-08"
 ],
 "check": "Confirmed",
-"note": "Fairphone's own glass and Coolblue list Fairphone 6 only",
+"note": "Coolblue sells one glass for the Fairphone 6 and 6+. Fairphone's own glass and Coolblue list Fairphone 6 only",
 "device": "Phone",
 "sources": [
+[
+"Coolblue (Fairphone 6 glass)",
+"https://www.coolblue.nl/en/product/968582/fairphone-6-6-glass-screen-protector.html"
+],
 [
 "Coolblue (Fairphone)",
 "https://www.coolblue.nl/en/product/968582/fairphone-6-screen-protector-glass.html"
@@ -122509,10 +123359,12 @@
 ]
 ],
 "screens": [
-"6.31in"
+"6.31in",
+""
 ],
 "dims": [
-"156.5 x 73.3 x 9.6 mm"
+"156.5 x 73.3 x 9.6 mm",
+""
 ]
 },
 {
@@ -129788,6 +130640,38 @@
 ]
 },
 {
+"id": "BLV-1072",
+"brand": "Blackview",
+"brands": [
+"BLV"
+],
+"models": [
+"Blackview Wave 2C"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "BLV-1073",
+"brand": "Blackview",
+"brands": [
+"BLV"
+],
+"models": [
+"Blackview Xplore 6"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
 "id": "BLV-2001",
 "brand": "Blackview",
 "brands": [
@@ -132272,6 +133156,28 @@
 "BLU"
 ],
 "models": [
+"BLU Vivo Selfie"
+],
+"released": [
+"2015-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone",
+"screens": [
+"4.8in"
+],
+"dims": [
+"141 x 68.4 x 7.8 mm"
+]
+},
+{
+"id": "BLU-1074",
+"brand": "BLU",
+"brands": [
+"BLU"
+],
+"models": [
 "BLU Energy X Plus"
 ],
 "released": [
@@ -132288,7 +133194,7 @@
 ]
 },
 {
-"id": "BLU-1074",
+"id": "BLU-1075",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132310,7 +133216,7 @@
 ]
 },
 {
-"id": "BLU-1075",
+"id": "BLU-1076",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132332,7 +133238,7 @@
 ]
 },
 {
-"id": "BLU-1076",
+"id": "BLU-1077",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132354,7 +133260,7 @@
 ]
 },
 {
-"id": "BLU-1077",
+"id": "BLU-1078",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132376,7 +133282,7 @@
 ]
 },
 {
-"id": "BLU-1078",
+"id": "BLU-1079",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132398,7 +133304,7 @@
 ]
 },
 {
-"id": "BLU-1079",
+"id": "BLU-1080",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132420,7 +133326,7 @@
 ]
 },
 {
-"id": "BLU-1080",
+"id": "BLU-1081",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132442,7 +133348,7 @@
 ]
 },
 {
-"id": "BLU-1081",
+"id": "BLU-1082",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132464,7 +133370,7 @@
 ]
 },
 {
-"id": "BLU-1082",
+"id": "BLU-1083",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132486,7 +133392,7 @@
 ]
 },
 {
-"id": "BLU-1083",
+"id": "BLU-1084",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132508,7 +133414,7 @@
 ]
 },
 {
-"id": "BLU-1084",
+"id": "BLU-1085",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132530,7 +133436,7 @@
 ]
 },
 {
-"id": "BLU-1085",
+"id": "BLU-1086",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132556,7 +133462,7 @@
 ]
 },
 {
-"id": "BLU-1086",
+"id": "BLU-1087",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132578,7 +133484,7 @@
 ]
 },
 {
-"id": "BLU-1087",
+"id": "BLU-1088",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132600,7 +133506,7 @@
 ]
 },
 {
-"id": "BLU-1088",
+"id": "BLU-1089",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132622,7 +133528,7 @@
 ]
 },
 {
-"id": "BLU-1089",
+"id": "BLU-1090",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132644,7 +133550,7 @@
 ]
 },
 {
-"id": "BLU-1090",
+"id": "BLU-1091",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132666,7 +133572,7 @@
 ]
 },
 {
-"id": "BLU-1091",
+"id": "BLU-1092",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132688,7 +133594,7 @@
 ]
 },
 {
-"id": "BLU-1092",
+"id": "BLU-1093",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132710,7 +133616,7 @@
 ]
 },
 {
-"id": "BLU-1093",
+"id": "BLU-1094",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132732,7 +133638,7 @@
 ]
 },
 {
-"id": "BLU-1094",
+"id": "BLU-1095",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132754,7 +133660,7 @@
 ]
 },
 {
-"id": "BLU-1095",
+"id": "BLU-1096",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132776,7 +133682,7 @@
 ]
 },
 {
-"id": "BLU-1096",
+"id": "BLU-1097",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132798,7 +133704,7 @@
 ]
 },
 {
-"id": "BLU-1097",
+"id": "BLU-1098",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132820,7 +133726,7 @@
 ]
 },
 {
-"id": "BLU-1098",
+"id": "BLU-1099",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132842,7 +133748,7 @@
 ]
 },
 {
-"id": "BLU-1099",
+"id": "BLU-1100",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132864,7 +133770,7 @@
 ]
 },
 {
-"id": "BLU-1100",
+"id": "BLU-1101",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132886,7 +133792,7 @@
 ]
 },
 {
-"id": "BLU-1101",
+"id": "BLU-1102",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132908,7 +133814,7 @@
 ]
 },
 {
-"id": "BLU-1102",
+"id": "BLU-1103",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132930,7 +133836,7 @@
 ]
 },
 {
-"id": "BLU-1103",
+"id": "BLU-1104",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132952,7 +133858,7 @@
 ]
 },
 {
-"id": "BLU-1104",
+"id": "BLU-1105",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132974,7 +133880,7 @@
 ]
 },
 {
-"id": "BLU-1105",
+"id": "BLU-1106",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -132996,7 +133902,7 @@
 ]
 },
 {
-"id": "BLU-1106",
+"id": "BLU-1107",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133018,7 +133924,7 @@
 ]
 },
 {
-"id": "BLU-1107",
+"id": "BLU-1108",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133040,7 +133946,7 @@
 ]
 },
 {
-"id": "BLU-1108",
+"id": "BLU-1109",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133062,7 +133968,7 @@
 ]
 },
 {
-"id": "BLU-1109",
+"id": "BLU-1110",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133084,7 +133990,7 @@
 ]
 },
 {
-"id": "BLU-1110",
+"id": "BLU-1111",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133106,7 +134012,7 @@
 ]
 },
 {
-"id": "BLU-1111",
+"id": "BLU-1112",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133128,7 +134034,7 @@
 ]
 },
 {
-"id": "BLU-1112",
+"id": "BLU-1113",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133150,7 +134056,7 @@
 ]
 },
 {
-"id": "BLU-1113",
+"id": "BLU-1114",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133176,7 +134082,7 @@
 ]
 },
 {
-"id": "BLU-1114",
+"id": "BLU-1115",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133201,7 +134107,7 @@
 ]
 },
 {
-"id": "BLU-1115",
+"id": "BLU-1116",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133223,7 +134129,7 @@
 ]
 },
 {
-"id": "BLU-1116",
+"id": "BLU-1117",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133245,7 +134151,7 @@
 ]
 },
 {
-"id": "BLU-1117",
+"id": "BLU-1118",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133267,7 +134173,7 @@
 ]
 },
 {
-"id": "BLU-1118",
+"id": "BLU-1119",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133292,7 +134198,7 @@
 ]
 },
 {
-"id": "BLU-1119",
+"id": "BLU-1120",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133314,7 +134220,7 @@
 ]
 },
 {
-"id": "BLU-1120",
+"id": "BLU-1121",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133336,7 +134242,7 @@
 ]
 },
 {
-"id": "BLU-1121",
+"id": "BLU-1122",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133358,7 +134264,7 @@
 ]
 },
 {
-"id": "BLU-1122",
+"id": "BLU-1123",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133380,7 +134286,7 @@
 ]
 },
 {
-"id": "BLU-1123",
+"id": "BLU-1124",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133402,7 +134308,7 @@
 ]
 },
 {
-"id": "BLU-1124",
+"id": "BLU-1125",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133424,7 +134330,7 @@
 ]
 },
 {
-"id": "BLU-1125",
+"id": "BLU-1126",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133450,7 +134356,7 @@
 ]
 },
 {
-"id": "BLU-1126",
+"id": "BLU-1127",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133472,7 +134378,7 @@
 ]
 },
 {
-"id": "BLU-1127",
+"id": "BLU-1128",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133498,7 +134404,7 @@
 ]
 },
 {
-"id": "BLU-1128",
+"id": "BLU-1129",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133520,7 +134426,7 @@
 ]
 },
 {
-"id": "BLU-1129",
+"id": "BLU-1130",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133545,7 +134451,7 @@
 ]
 },
 {
-"id": "BLU-1130",
+"id": "BLU-1131",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133570,7 +134476,7 @@
 ]
 },
 {
-"id": "BLU-1131",
+"id": "BLU-1132",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133592,7 +134498,7 @@
 ]
 },
 {
-"id": "BLU-1132",
+"id": "BLU-1133",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133614,7 +134520,7 @@
 ]
 },
 {
-"id": "BLU-1133",
+"id": "BLU-1134",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133636,7 +134542,7 @@
 ]
 },
 {
-"id": "BLU-1134",
+"id": "BLU-1135",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133661,7 +134567,7 @@
 ]
 },
 {
-"id": "BLU-1135",
+"id": "BLU-1136",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133683,7 +134589,7 @@
 ]
 },
 {
-"id": "BLU-1136",
+"id": "BLU-1137",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133705,7 +134611,7 @@
 ]
 },
 {
-"id": "BLU-1137",
+"id": "BLU-1138",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133727,7 +134633,7 @@
 ]
 },
 {
-"id": "BLU-1138",
+"id": "BLU-1139",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133749,7 +134655,7 @@
 ]
 },
 {
-"id": "BLU-1139",
+"id": "BLU-1140",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133771,7 +134677,7 @@
 ]
 },
 {
-"id": "BLU-1140",
+"id": "BLU-1141",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133796,7 +134702,7 @@
 ]
 },
 {
-"id": "BLU-1141",
+"id": "BLU-1142",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133818,7 +134724,7 @@
 ]
 },
 {
-"id": "BLU-1142",
+"id": "BLU-1143",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133840,7 +134746,7 @@
 ]
 },
 {
-"id": "BLU-1143",
+"id": "BLU-1144",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133865,7 +134771,7 @@
 ]
 },
 {
-"id": "BLU-1144",
+"id": "BLU-1145",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133887,7 +134793,7 @@
 ]
 },
 {
-"id": "BLU-1145",
+"id": "BLU-1146",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133909,7 +134815,7 @@
 ]
 },
 {
-"id": "BLU-1146",
+"id": "BLU-1147",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133931,7 +134837,7 @@
 ]
 },
 {
-"id": "BLU-1147",
+"id": "BLU-1148",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133953,7 +134859,7 @@
 ]
 },
 {
-"id": "BLU-1148",
+"id": "BLU-1149",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133975,7 +134881,7 @@
 ]
 },
 {
-"id": "BLU-1149",
+"id": "BLU-1150",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -133997,7 +134903,7 @@
 ]
 },
 {
-"id": "BLU-1150",
+"id": "BLU-1151",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134019,7 +134925,7 @@
 ]
 },
 {
-"id": "BLU-1151",
+"id": "BLU-1152",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134041,7 +134947,7 @@
 ]
 },
 {
-"id": "BLU-1152",
+"id": "BLU-1153",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134063,7 +134969,7 @@
 ]
 },
 {
-"id": "BLU-1153",
+"id": "BLU-1154",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134085,7 +134991,7 @@
 ]
 },
 {
-"id": "BLU-1154",
+"id": "BLU-1155",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134107,7 +135013,7 @@
 ]
 },
 {
-"id": "BLU-1155",
+"id": "BLU-1156",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134129,7 +135035,7 @@
 ]
 },
 {
-"id": "BLU-1156",
+"id": "BLU-1157",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134151,7 +135057,7 @@
 ]
 },
 {
-"id": "BLU-1157",
+"id": "BLU-1158",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134173,7 +135079,7 @@
 ]
 },
 {
-"id": "BLU-1158",
+"id": "BLU-1159",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134195,7 +135101,7 @@
 ]
 },
 {
-"id": "BLU-1159",
+"id": "BLU-1160",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134217,7 +135123,7 @@
 ]
 },
 {
-"id": "BLU-1160",
+"id": "BLU-1161",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134242,7 +135148,7 @@
 ]
 },
 {
-"id": "BLU-1161",
+"id": "BLU-1162",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134268,7 +135174,7 @@
 ]
 },
 {
-"id": "BLU-1162",
+"id": "BLU-1163",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134298,7 +135204,7 @@
 ]
 },
 {
-"id": "BLU-1163",
+"id": "BLU-1164",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134320,7 +135226,7 @@
 ]
 },
 {
-"id": "BLU-1164",
+"id": "BLU-1165",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134342,7 +135248,7 @@
 ]
 },
 {
-"id": "BLU-1165",
+"id": "BLU-1166",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134364,7 +135270,7 @@
 ]
 },
 {
-"id": "BLU-1166",
+"id": "BLU-1167",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134386,7 +135292,7 @@
 ]
 },
 {
-"id": "BLU-1167",
+"id": "BLU-1168",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134408,7 +135314,7 @@
 ]
 },
 {
-"id": "BLU-1168",
+"id": "BLU-1169",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134430,7 +135336,7 @@
 ]
 },
 {
-"id": "BLU-1169",
+"id": "BLU-1170",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134452,7 +135358,7 @@
 ]
 },
 {
-"id": "BLU-1170",
+"id": "BLU-1171",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134478,7 +135384,7 @@
 ]
 },
 {
-"id": "BLU-1171",
+"id": "BLU-1172",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134504,7 +135410,7 @@
 ]
 },
 {
-"id": "BLU-1172",
+"id": "BLU-1173",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134526,7 +135432,7 @@
 ]
 },
 {
-"id": "BLU-1173",
+"id": "BLU-1174",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134548,7 +135454,7 @@
 ]
 },
 {
-"id": "BLU-1174",
+"id": "BLU-1175",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134570,7 +135476,7 @@
 ]
 },
 {
-"id": "BLU-1175",
+"id": "BLU-1176",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134592,7 +135498,7 @@
 ]
 },
 {
-"id": "BLU-1176",
+"id": "BLU-1177",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134614,7 +135520,7 @@
 ]
 },
 {
-"id": "BLU-1177",
+"id": "BLU-1178",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134640,7 +135546,7 @@
 ]
 },
 {
-"id": "BLU-1178",
+"id": "BLU-1179",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134662,7 +135568,7 @@
 ]
 },
 {
-"id": "BLU-1179",
+"id": "BLU-1180",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134687,7 +135593,7 @@
 ]
 },
 {
-"id": "BLU-1180",
+"id": "BLU-1181",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134709,7 +135615,7 @@
 ]
 },
 {
-"id": "BLU-1181",
+"id": "BLU-1182",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134731,7 +135637,7 @@
 ]
 },
 {
-"id": "BLU-1182",
+"id": "BLU-1183",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134753,7 +135659,7 @@
 ]
 },
 {
-"id": "BLU-1183",
+"id": "BLU-1184",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134775,7 +135681,7 @@
 ]
 },
 {
-"id": "BLU-1184",
+"id": "BLU-1185",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134797,7 +135703,7 @@
 ]
 },
 {
-"id": "BLU-1185",
+"id": "BLU-1186",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134819,7 +135725,7 @@
 ]
 },
 {
-"id": "BLU-1186",
+"id": "BLU-1187",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134841,7 +135747,7 @@
 ]
 },
 {
-"id": "BLU-1187",
+"id": "BLU-1188",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134863,7 +135769,7 @@
 ]
 },
 {
-"id": "BLU-1188",
+"id": "BLU-1189",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134885,7 +135791,7 @@
 ]
 },
 {
-"id": "BLU-1189",
+"id": "BLU-1190",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134907,7 +135813,7 @@
 ]
 },
 {
-"id": "BLU-1190",
+"id": "BLU-1191",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134937,7 +135843,7 @@
 ]
 },
 {
-"id": "BLU-1191",
+"id": "BLU-1192",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134962,7 +135868,7 @@
 ]
 },
 {
-"id": "BLU-1192",
+"id": "BLU-1193",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -134984,7 +135890,7 @@
 ]
 },
 {
-"id": "BLU-1193",
+"id": "BLU-1194",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135006,7 +135912,7 @@
 ]
 },
 {
-"id": "BLU-1194",
+"id": "BLU-1195",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135028,7 +135934,7 @@
 ]
 },
 {
-"id": "BLU-1195",
+"id": "BLU-1196",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135054,7 +135960,7 @@
 ]
 },
 {
-"id": "BLU-1196",
+"id": "BLU-1197",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135076,7 +135982,7 @@
 ]
 },
 {
-"id": "BLU-1197",
+"id": "BLU-1198",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135098,7 +136004,7 @@
 ]
 },
 {
-"id": "BLU-1198",
+"id": "BLU-1199",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135120,7 +136026,7 @@
 ]
 },
 {
-"id": "BLU-1199",
+"id": "BLU-1200",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135142,7 +136048,7 @@
 ]
 },
 {
-"id": "BLU-1200",
+"id": "BLU-1201",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135164,7 +136070,7 @@
 ]
 },
 {
-"id": "BLU-1201",
+"id": "BLU-1202",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135190,7 +136096,7 @@
 ]
 },
 {
-"id": "BLU-1202",
+"id": "BLU-1203",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135216,7 +136122,7 @@
 ]
 },
 {
-"id": "BLU-1203",
+"id": "BLU-1204",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135242,7 +136148,7 @@
 ]
 },
 {
-"id": "BLU-1204",
+"id": "BLU-1205",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135268,7 +136174,7 @@
 ]
 },
 {
-"id": "BLU-1205",
+"id": "BLU-1206",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135290,7 +136196,7 @@
 ]
 },
 {
-"id": "BLU-1206",
+"id": "BLU-1207",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135312,7 +136218,7 @@
 ]
 },
 {
-"id": "BLU-1207",
+"id": "BLU-1208",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135334,7 +136240,7 @@
 ]
 },
 {
-"id": "BLU-1208",
+"id": "BLU-1209",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135360,7 +136266,7 @@
 ]
 },
 {
-"id": "BLU-1209",
+"id": "BLU-1210",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135386,7 +136292,7 @@
 ]
 },
 {
-"id": "BLU-1210",
+"id": "BLU-1211",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135412,7 +136318,7 @@
 ]
 },
 {
-"id": "BLU-1211",
+"id": "BLU-1212",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135434,7 +136340,7 @@
 ]
 },
 {
-"id": "BLU-1212",
+"id": "BLU-1213",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135456,7 +136362,7 @@
 ]
 },
 {
-"id": "BLU-1213",
+"id": "BLU-1214",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135478,7 +136384,7 @@
 ]
 },
 {
-"id": "BLU-1214",
+"id": "BLU-1215",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135500,7 +136406,7 @@
 ]
 },
 {
-"id": "BLU-1215",
+"id": "BLU-1216",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135522,7 +136428,7 @@
 ]
 },
 {
-"id": "BLU-1216",
+"id": "BLU-1217",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135544,7 +136450,7 @@
 ]
 },
 {
-"id": "BLU-1217",
+"id": "BLU-1218",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135566,7 +136472,7 @@
 ]
 },
 {
-"id": "BLU-1218",
+"id": "BLU-1219",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135588,7 +136494,7 @@
 ]
 },
 {
-"id": "BLU-1219",
+"id": "BLU-1220",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135610,7 +136516,7 @@
 ]
 },
 {
-"id": "BLU-1220",
+"id": "BLU-1221",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135632,7 +136538,7 @@
 ]
 },
 {
-"id": "BLU-1221",
+"id": "BLU-1222",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135654,7 +136560,7 @@
 ]
 },
 {
-"id": "BLU-1222",
+"id": "BLU-1223",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135676,7 +136582,7 @@
 ]
 },
 {
-"id": "BLU-1223",
+"id": "BLU-1224",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135698,7 +136604,7 @@
 ]
 },
 {
-"id": "BLU-1224",
+"id": "BLU-1225",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135724,7 +136630,7 @@
 ]
 },
 {
-"id": "BLU-1225",
+"id": "BLU-1226",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135750,7 +136656,7 @@
 ]
 },
 {
-"id": "BLU-1226",
+"id": "BLU-1227",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135776,7 +136682,7 @@
 ]
 },
 {
-"id": "BLU-1227",
+"id": "BLU-1228",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135802,7 +136708,7 @@
 ]
 },
 {
-"id": "BLU-1228",
+"id": "BLU-1229",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135827,7 +136733,7 @@
 ]
 },
 {
-"id": "BLU-1229",
+"id": "BLU-1230",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135849,7 +136755,7 @@
 ]
 },
 {
-"id": "BLU-1230",
+"id": "BLU-1231",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135871,7 +136777,7 @@
 ]
 },
 {
-"id": "BLU-1231",
+"id": "BLU-1232",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135893,7 +136799,7 @@
 ]
 },
 {
-"id": "BLU-1232",
+"id": "BLU-1233",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135915,7 +136821,7 @@
 ]
 },
 {
-"id": "BLU-1233",
+"id": "BLU-1234",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135937,7 +136843,7 @@
 ]
 },
 {
-"id": "BLU-1234",
+"id": "BLU-1235",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135959,7 +136865,7 @@
 ]
 },
 {
-"id": "BLU-1235",
+"id": "BLU-1236",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -135981,7 +136887,7 @@
 ]
 },
 {
-"id": "BLU-1236",
+"id": "BLU-1237",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136003,7 +136909,7 @@
 ]
 },
 {
-"id": "BLU-1237",
+"id": "BLU-1238",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136025,7 +136931,7 @@
 ]
 },
 {
-"id": "BLU-1238",
+"id": "BLU-1239",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136047,7 +136953,7 @@
 ]
 },
 {
-"id": "BLU-1239",
+"id": "BLU-1240",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136069,7 +136975,7 @@
 ]
 },
 {
-"id": "BLU-1240",
+"id": "BLU-1241",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136091,7 +136997,7 @@
 ]
 },
 {
-"id": "BLU-1241",
+"id": "BLU-1242",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136113,7 +137019,7 @@
 ]
 },
 {
-"id": "BLU-1242",
+"id": "BLU-1243",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136135,7 +137041,7 @@
 ]
 },
 {
-"id": "BLU-1243",
+"id": "BLU-1244",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136157,7 +137063,7 @@
 ]
 },
 {
-"id": "BLU-1244",
+"id": "BLU-1245",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136179,7 +137085,7 @@
 ]
 },
 {
-"id": "BLU-1245",
+"id": "BLU-1246",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136201,7 +137107,7 @@
 ]
 },
 {
-"id": "BLU-1246",
+"id": "BLU-1247",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136227,7 +137133,7 @@
 ]
 },
 {
-"id": "BLU-1247",
+"id": "BLU-1248",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136249,7 +137155,7 @@
 ]
 },
 {
-"id": "BLU-1248",
+"id": "BLU-1249",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136271,7 +137177,7 @@
 ]
 },
 {
-"id": "BLU-1249",
+"id": "BLU-1250",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136293,7 +137199,7 @@
 ]
 },
 {
-"id": "BLU-1250",
+"id": "BLU-1251",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136315,7 +137221,7 @@
 ]
 },
 {
-"id": "BLU-1251",
+"id": "BLU-1252",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136337,7 +137243,7 @@
 ]
 },
 {
-"id": "BLU-1252",
+"id": "BLU-1253",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136359,7 +137265,7 @@
 ]
 },
 {
-"id": "BLU-1253",
+"id": "BLU-1254",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136381,7 +137287,7 @@
 ]
 },
 {
-"id": "BLU-1254",
+"id": "BLU-1255",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136403,7 +137309,7 @@
 ]
 },
 {
-"id": "BLU-1255",
+"id": "BLU-1256",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136429,7 +137335,7 @@
 ]
 },
 {
-"id": "BLU-1256",
+"id": "BLU-1257",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136451,7 +137357,7 @@
 ]
 },
 {
-"id": "BLU-1257",
+"id": "BLU-1258",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136473,7 +137379,7 @@
 ]
 },
 {
-"id": "BLU-1258",
+"id": "BLU-1259",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136495,7 +137401,7 @@
 ]
 },
 {
-"id": "BLU-1259",
+"id": "BLU-1260",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136517,7 +137423,7 @@
 ]
 },
 {
-"id": "BLU-1260",
+"id": "BLU-1261",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136543,7 +137449,7 @@
 ]
 },
 {
-"id": "BLU-1261",
+"id": "BLU-1262",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136565,7 +137471,7 @@
 ]
 },
 {
-"id": "BLU-1262",
+"id": "BLU-1263",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136587,7 +137493,7 @@
 ]
 },
 {
-"id": "BLU-1263",
+"id": "BLU-1264",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136609,7 +137515,7 @@
 ]
 },
 {
-"id": "BLU-1264",
+"id": "BLU-1265",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -136631,7 +137537,7 @@
 ]
 },
 {
-"id": "BLU-1265",
+"id": "BLU-1266",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -155479,6 +156385,22 @@
 ]
 },
 {
+"id": "INF-1131",
+"brand": "Infinix",
+"brands": [
+"INF"
+],
+"models": [
+"Infinix Smart 20 HD"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
 "id": "INF-2001",
 "brand": "Infinix",
 "brands": [
@@ -155580,6 +156502,22 @@
 "dims": [
 "278.6 x 173.6 x 6.6 mm"
 ]
+},
+{
+"id": "INF-2005",
+"brand": "Infinix",
+"brands": [
+"INF"
+],
+"models": [
+"Infinix Xpad 30 Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
 },
 {
 "id": "INQ-1001",
@@ -157006,6 +157944,22 @@
 "ITE"
 ],
 "models": [
+"itel Zeno 200"
+],
+"released": [
+"2026-05"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1053",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
 "itel A100 Pro"
 ],
 "released": [
@@ -157019,7 +157973,7 @@
 ]
 },
 {
-"id": "ITE-1053",
+"id": "ITE-1054",
 "brand": "itel",
 "brands": [
 "ITE"
@@ -157038,7 +157992,7 @@
 ]
 },
 {
-"id": "ITE-1054",
+"id": "ITE-1055",
 "brand": "itel",
 "brands": [
 "ITE"
@@ -157055,6 +158009,102 @@
 "screens": [
 "6.78in"
 ]
+},
+{
+"id": "ITE-1056",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel Zeno 100 Lite"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1057",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel Zeno 100 Pro"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1058",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel Zeno F30"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1059",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel A300C"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1060",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel Zeno 300"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ITE-1061",
+"brand": "itel",
+"brands": [
+"ITE"
+],
+"models": [
+"itel City 300"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "ITE-2001",
@@ -162061,6 +163111,22 @@
 "LAV"
 ],
 "models": [
+"Lava Bold 2"
+],
+"released": [
+"2026-03"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1150",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
 "Lava Bold N2 Pro"
 ],
 "released": [
@@ -162074,7 +163140,7 @@
 ]
 },
 {
-"id": "LAV-1150",
+"id": "LAV-1151",
 "brand": "Lava",
 "brands": [
 "LAV"
@@ -162093,7 +163159,7 @@
 ]
 },
 {
-"id": "LAV-1151",
+"id": "LAV-1152",
 "brand": "Lava",
 "brands": [
 "LAV"
@@ -162113,6 +163179,182 @@
 "dims": [
 "165.9 x 76.8 x 8.8 mm"
 ]
+},
+{
+"id": "LAV-1153",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Bold N2"
+],
+"released": [
+"2026-06"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1154",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Smart 4"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1155",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Virat V1"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1156",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Virat V1 5G"
+],
+"released": [
+"2026-07"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1157",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Bold N4 Lite"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1158",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Virat V1 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1159",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Bold N4 Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1160",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Shark 2 Pro"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1161",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Virat Curve"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1162",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Aura Curve"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "LAV-1163",
+"brand": "Lava",
+"brands": [
+"LAV"
+],
+"models": [
+"Lava Smart 4 Pro"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "LAV-3001",
@@ -188946,6 +190188,54 @@
 ]
 },
 {
+"id": "TEC-1154",
+"brand": "Tecno",
+"brands": [
+"TEC"
+],
+"models": [
+"Tecno Pova 8 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "TEC-1155",
+"brand": "Tecno",
+"brands": [
+"TEC"
+],
+"models": [
+"Tecno Spark Go 3 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "TEC-1156",
+"brand": "Tecno",
+"brands": [
+"TEC"
+],
+"models": [
+"Tecno Spark 50s"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
 "id": "TEC-2001",
 "brand": "Tecno",
 "brands": [
@@ -191387,6 +192677,38 @@
 "dims": [
 "165 x 76.5 x 8.8 mm"
 ]
+},
+{
+"id": "ULE-1073",
+"brand": "Ulefone",
+"brands": [
+"ULE"
+],
+"models": [
+"Ulefone Armor 22 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
+},
+{
+"id": "ULE-1074",
+"brand": "Ulefone",
+"brands": [
+"ULE"
+],
+"models": [
+"Ulefone Armor 24 Pro"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "",
+"device": "Phone"
 },
 {
 "id": "ULE-2001",
@@ -205932,32 +207254,49 @@
 ],
 "models": [
 "Xperia 1 VI",
-"Xperia 1 VII"
+"Xperia 1 VII",
+"Xperia 1 VIII"
 ],
 "released": [
 "2024-05",
-"2025-05"
+"2025-05",
+"2026-05"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells one tempered glass titled for Xperia 1 VI / Xperia 1 VII",
+"note": "Trinity (K's Denki) and a Spigen AlignMaster listing both sell one glass for the Xperia 1 VIII, 1 VII and 1 VI. Supershieldz sells one tempered glass titled for Xperia 1 VI / Xperia 1 VII. 3MK sells FlexibleGlass hybrid glass for the Xperia 1 VIII alone; hybrid glass, not tempered",
 "device": "Phone",
 "sources": [
 [
+"Trinity glass at K's Denki (Xperia 1 VIII / 1 VII / 1 VI)",
+"https://www.ksdenki.com/shop/g/g4582269607603/"
+],
+[
+"Spigen AlignMaster at Desertcart (Xperia 1 VIII, 1 VII, 1 VI)",
+"https://www.desertcart.ni/products/631806984-spigen-alignmaster-tempered-glass-screen-protector-for-xperia-1-viii.md"
+],
+[
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-se-xperia-1-vi-2p"
+],
+[
+"3MK",
+"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-sony-xperia-1-viii-3mk-flexibleglass"
 ]
 ],
 "codes": [
 "XQEC54EUKCB.GC, XQEC54EUKCG.GC, XQEC54EUKCS.GC, XQ-EC72",
-"XQ-FS54, XQFS54EUKCG.GC, XQFS54EUKCV.GC, XQFS54EUKCB.GC, PDX256"
+"XQ-FS54, XQFS54EUKCG.GC, XQFS54EUKCV.GC, XQFS54EUKCB.GC, PDX256",
+"XQ-GE54, XQ-GE74, XQGE54, XQGE74, XQ-GE44, XQGE44, XQ-FS54, XQFS54, SO-51G"
 ],
 "screens": [
+"6.5in",
 "6.5in",
 "6.5in"
 ],
 "dims": [
 "162 x 74 x 8.2 mm",
-"162 x 74 x 8.2 mm"
+"162 x 74 x 8.2 mm",
+"162 x 74 x 8.3 mm"
 ]
 },
 {
@@ -205993,37 +207332,6 @@
 },
 {
 "id": "SON-1129",
-"brand": "Sony",
-"brands": [
-"SON"
-],
-"models": [
-"Xperia 1 VIII"
-],
-"released": [
-"2026-05"
-],
-"check": "Confirmed",
-"note": "3MK sells FlexibleGlass hybrid glass for the Xperia 1 VIII alone; hybrid glass, not tempered",
-"device": "Phone",
-"sources": [
-[
-"3MK",
-"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-sony-xperia-1-viii-3mk-flexibleglass"
-]
-],
-"codes": [
-"XQ-GE54, XQ-GE74, XQGE54, XQGE74, XQ-GE44, XQGE44, XQ-FS54, XQFS54, SO-51G"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"162 x 74 x 8.3 mm"
-]
-},
-{
-"id": "SON-1130",
 "brand": "Sony",
 "brands": [
 "SON"
@@ -208885,6 +210193,41 @@
 "AYA"
 ],
 "models": [
+"AYANEO Flip 1S DS"
+],
+"released": [
+"2025-07"
+],
+"check": "Check",
+"note": "Two screens: buy top and bottom sets",
+"device": "Handheld",
+"tags": [
+"two-screens"
+]
+},
+{
+"id": "AYA-4021",
+"brand": "AYANEO",
+"brands": [
+"AYA"
+],
+"models": [
+"AYANEO Flip 1S KB"
+],
+"released": [
+"2025-07"
+],
+"check": "Check",
+"note": "",
+"device": "Handheld"
+},
+{
+"id": "AYA-4022",
+"brand": "AYANEO",
+"brands": [
+"AYA"
+],
+"models": [
 "AYANEO Pocket S2"
 ],
 "released": [
@@ -208901,7 +210244,7 @@
 ]
 },
 {
-"id": "AYA-4021",
+"id": "AYA-4023",
 "brand": "AYANEO",
 "brands": [
 "AYA"
@@ -208927,7 +210270,7 @@
 ]
 },
 {
-"id": "AYA-4022",
+"id": "AYA-4024",
 "brand": "AYANEO",
 "brands": [
 "AYA"
@@ -208949,7 +210292,7 @@
 ]
 },
 {
-"id": "AYA-4023",
+"id": "AYA-4025",
 "brand": "AYANEO",
 "brands": [
 "AYA"
@@ -208965,7 +210308,7 @@
 "device": "Handheld"
 },
 {
-"id": "AYA-4024",
+"id": "AYA-4026",
 "brand": "AYANEO",
 "brands": [
 "AYA"
@@ -219052,6 +220395,54 @@
 "GAR"
 ],
 "models": [
+"Garmin Instinct 3 Tactical Edition AMOLED 50mm"
+],
+"released": [
+"2025-04"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3153",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin Instinct 3 Tactical Edition Solar 45mm"
+],
+"released": [
+"2025-04"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3154",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin Instinct 3 Tactical Edition Solar 50mm"
+],
+"released": [
+"2025-04"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3155",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
 "Garmin Forerunner 570 42mm"
 ],
 "released": [
@@ -219071,7 +220462,7 @@
 ]
 },
 {
-"id": "GAR-3153",
+"id": "GAR-3156",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219102,7 +220493,7 @@
 ]
 },
 {
-"id": "GAR-3154",
+"id": "GAR-3157",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219121,7 +220512,7 @@
 ]
 },
 {
-"id": "GAR-3155",
+"id": "GAR-3158",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219140,7 +220531,7 @@
 ]
 },
 {
-"id": "GAR-3156",
+"id": "GAR-3159",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219162,7 +220553,7 @@
 ]
 },
 {
-"id": "GAR-3157",
+"id": "GAR-3160",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219187,7 +220578,7 @@
 ]
 },
 {
-"id": "GAR-3158",
+"id": "GAR-3161",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219212,7 +220603,7 @@
 ]
 },
 {
-"id": "GAR-3159",
+"id": "GAR-3162",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219228,7 +220619,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3160",
+"id": "GAR-3163",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219253,7 +220644,7 @@
 ]
 },
 {
-"id": "GAR-3161",
+"id": "GAR-3164",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219278,7 +220669,7 @@
 ]
 },
 {
-"id": "GAR-3162",
+"id": "GAR-3165",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219300,7 +220691,7 @@
 ]
 },
 {
-"id": "GAR-3163",
+"id": "GAR-3166",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219316,7 +220707,23 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3164",
+"id": "GAR-3167",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin Descent X30"
+],
+"released": [
+"2025-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3168",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219332,7 +220739,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3165",
+"id": "GAR-3169",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219351,7 +220758,7 @@
 ]
 },
 {
-"id": "GAR-3166",
+"id": "GAR-3170",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219367,7 +220774,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3167",
+"id": "GAR-3171",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219386,7 +220793,39 @@
 ]
 },
 {
-"id": "GAR-3168",
+"id": "GAR-3172",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin Approach J1"
+],
+"released": [
+"2026-01"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3173",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin tactix 8 Cerakote Edition"
+],
+"released": [
+"2026-01"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "GAR-3174",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219402,7 +220841,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3169",
+"id": "GAR-3175",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219435,7 +220874,7 @@
 ]
 },
 {
-"id": "GAR-3170",
+"id": "GAR-3176",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219456,7 +220895,7 @@
 ]
 },
 {
-"id": "GAR-3171",
+"id": "GAR-3177",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219479,7 +220918,7 @@
 ]
 },
 {
-"id": "GAR-3172",
+"id": "GAR-3178",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219502,7 +220941,7 @@
 ]
 },
 {
-"id": "GAR-3173",
+"id": "GAR-3179",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219521,7 +220960,7 @@
 ]
 },
 {
-"id": "GAR-3174",
+"id": "GAR-3180",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219537,7 +220976,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3175",
+"id": "GAR-3181",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219553,7 +220992,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3176",
+"id": "GAR-3182",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -219576,6 +221015,22 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
+"device": "Wearable"
+},
+{
+"id": "GAR-3183",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin Descent X10"
+],
+"released": [
+"2026-11"
+],
+"check": "Check",
+"note": "",
 "device": "Wearable"
 },
 {
@@ -220545,6 +222000,22 @@
 "AMF"
 ],
 "models": [
+"Amazfit Balance 2 XT"
+],
+"released": [
+"2025-08"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
+},
+{
+"id": "AMF-3051",
+"brand": "Amazfit",
+"brands": [
+"AMF"
+],
+"models": [
 "Amazfit T-Rex 3 Pro 44mm"
 ],
 "released": [
@@ -220558,7 +222029,7 @@
 ]
 },
 {
-"id": "AMF-3051",
+"id": "AMF-3052",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220583,7 +222054,7 @@
 ]
 },
 {
-"id": "AMF-3052",
+"id": "AMF-3053",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220602,7 +222073,7 @@
 ]
 },
 {
-"id": "AMF-3053",
+"id": "AMF-3054",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220621,7 +222092,7 @@
 ]
 },
 {
-"id": "AMF-3054",
+"id": "AMF-3055",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220637,7 +222108,7 @@
 "device": "Wearable"
 },
 {
-"id": "AMF-3055",
+"id": "AMF-3056",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220653,7 +222124,7 @@
 "device": "Wearable"
 },
 {
-"id": "AMF-3056",
+"id": "AMF-3057",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220669,7 +222140,7 @@
 "device": "Wearable"
 },
 {
-"id": "AMF-3057",
+"id": "AMF-3058",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220688,7 +222159,7 @@
 ]
 },
 {
-"id": "AMF-3058",
+"id": "AMF-3059",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -220705,6 +222176,22 @@
 "tags": [
 "measure"
 ]
+},
+{
+"id": "AMF-3060",
+"brand": "Amazfit",
+"brands": [
+"AMF"
+],
+"models": [
+"Amazfit T-Rex Dual Solar"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
 },
 {
 "id": "FOS-3001",
@@ -221475,6 +222962,22 @@
 "tags": [
 "measure"
 ]
+},
+{
+"id": "TIC-3013",
+"brand": "TicWatch (Mobvoi)",
+"brands": [
+"TIC"
+],
+"models": [
+"TicNote Watch"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Wearable"
 },
 {
 "id": "POL-3001",
@@ -223966,10 +225469,10 @@
 "BOX"
 ],
 "models": [
-"Boox Note Air5 C"
+"Boox Tab X C"
 ],
 "released": [
-"2025-09"
+"2025-04"
 ],
 "check": "Check",
 "note": "",
@@ -223982,7 +225485,7 @@
 "BOX"
 ],
 "models": [
-"Boox Palma 2 Pro"
+"Boox Note Air5 C"
 ],
 "released": [
 "2025-09"
@@ -223998,6 +225501,22 @@
 "BOX"
 ],
 "models": [
+"Boox Palma 2 Pro"
+],
+"released": [
+"2025-09"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "BOX-2043",
+"brand": "Onyx Boox",
+"brands": [
+"BOX"
+],
+"models": [
 "Boox Go 10.3 Gen II"
 ],
 "released": [
@@ -224008,7 +225527,23 @@
 "device": "Tablet"
 },
 {
-"id": "BOX-2043",
+"id": "BOX-2044",
+"brand": "Onyx Boox",
+"brands": [
+"BOX"
+],
+"models": [
+"Boox Go 6 Gen II"
+],
+"released": [
+"2026-06"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "BOX-2045",
 "brand": "Onyx Boox",
 "brands": [
 "BOX"
@@ -224024,7 +225559,7 @@
 "device": "Tablet"
 },
 {
-"id": "BOX-2044",
+"id": "BOX-2046",
 "brand": "Onyx Boox",
 "brands": [
 "BOX"
@@ -224040,13 +225575,29 @@
 "device": "Tablet"
 },
 {
-"id": "BOX-2045",
+"id": "BOX-2047",
 "brand": "Onyx Boox",
 "brands": [
 "BOX"
 ],
 "models": [
 "Boox Palma 3"
+],
+"released": [
+"2026-10"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "BOX-2048",
+"brand": "Onyx Boox",
+"brands": [
+"BOX"
+],
+"models": [
+"Boox Picco"
 ],
 "released": [
 "2026-10"
@@ -224522,10 +226073,74 @@
 "PKB"
 ],
 "models": [
+"PocketBook Verse Lite"
+],
+"released": [
+"2025-04"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "PKB-2030",
+"brand": "PocketBook",
+"brands": [
+"PKB"
+],
+"models": [
 "PocketBook InkPad One"
 ],
 "released": [
 "2026-02"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "PKB-2031",
+"brand": "PocketBook",
+"brands": [
+"PKB"
+],
+"models": [
+"PocketBook Era Lite"
+],
+"released": [
+"2026-06"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "PKB-2032",
+"brand": "PocketBook",
+"brands": [
+"PKB"
+],
+"models": [
+"PocketBook InkPad Eo 2"
+],
+"released": [
+"2026-09"
+],
+"check": "Check",
+"note": "",
+"device": "Tablet"
+},
+{
+"id": "PKB-2033",
+"brand": "PocketBook",
+"brands": [
+"PKB"
+],
+"models": [
+"PocketBook Verta"
+],
+"released": [
+"2026-11"
 ],
 "check": "Check",
 "note": "",
