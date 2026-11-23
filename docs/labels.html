@@ -58,6 +58,9 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 .selbar{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:15px;font-weight:700}
 .selbar button{min-height:40px;font-size:14px;padding:0 12px}
 .finish{display:grid;gap:12px}
+.outbtns{display:flex;gap:10px}
+.outbtns .go{flex:1 1 auto}
+.printbtn{flex:0 0 auto;min-height:56px;padding:0 22px;border:3px solid var(--edge);border-radius:10px;font-size:18px;font-weight:900}
 .status{font-size:14px;color:var(--accInk);min-height:1.5em;margin:0;font-weight:600}
 .preview{display:grid;gap:14px;align-content:start}
 .preview .head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 16px}
@@ -138,7 +141,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 </div>
 <label style="display:grid;gap:6px;font-size:14px;font-weight:600">Copies of each label
 <input type="number" id="copies" min="1" max="200" step="1" value="1"></label>
-<button type="button" class="go" id="dl" disabled>Download PDF</button>
+<div class="outbtns"><button type="button" class="go" id="dl" disabled>Download PDF</button><button type="button" class="printbtn" id="pr" disabled>Print</button></div>
 <p class="status" id="status" role="status"></p>
 </div>
 </form>
@@ -375,7 +378,7 @@ function renderPreview() {
   const L = labels(), [W, H] = size(), k = 5, dpr = window.devicePixelRatio || 1;
   $('selCount').textContent = `${sel.size.toLocaleString()} group${sel.size === 1 ? '' : 's'} selected`;
   $('count').textContent = L.length ? `${L.length.toLocaleString()} label${L.length > 1 ? 's' : ''} at ${W} × ${H} mm` + (L.length > 30 ? ' · showing the first 30' : '') : 'No labels selected yet. Tick a glass type and at least one group.';
-  $('dl').disabled = !L.length;
+  $('dl').disabled = $('pr').disabled = !L.length;
   const sh = $('sheet'); sh.innerHTML = '';
   for (const l of L.slice(0, 30)) {
     const c = document.createElement('canvas');
@@ -407,14 +410,37 @@ function buildPdf() {
   L.forEach((l, i) => { if (i) doc.addPage([W, H], o); drawLabel(pdfPainter(doc, 0, 0), l, W, H); });
   return doc;
 }
+function canMake(L) {
+  if (!L.length) { $('status').textContent = 'Nothing to print yet: tick a glass type and at least one group.'; return false; }
+  if (!window.jspdf) { $('status').textContent = "The PDF library didn't load. Reload the page and try again."; return false; }
+  return true;
+}
+// Print: the same PDF, opened in the browser's print dialog. Print at 100% / actual size so labels line up.
+$('pr').addEventListener('click', () => {
+  const L = labels();
+  if (!canMake(L)) return;
+  let url;
+  try { const doc = buildPdf(); doc.autoPrint(); url = doc.output('bloburl'); }
+  catch (e) { $('status').textContent = "Couldn't make the PDF."; return; }
+  document.querySelectorAll('iframe.printframe').forEach(f => f.remove());
+  const f = document.createElement('iframe');
+  f.className = 'printframe'; f.title = 'Labels to print';
+  f.style.cssText = 'position:fixed;right:0;bottom:0;width:1px;height:1px;border:0;opacity:0';
+  f.onload = () => {
+    try { f.contentWindow.focus(); f.contentWindow.print(); }
+    catch (e) { window.open(url, '_blank'); }  // some browsers won't print a PDF from a frame: open it instead
+  };
+  f.src = url;
+  document.body.appendChild(f);
+  $('status').textContent = `Printing ${L.length.toLocaleString()} label${L.length === 1 ? '' : 's'}. In the print dialog, print at 100% (actual size).`;
+});
 $('dl').addEventListener('click', () => {
   const L = labels();
-  if (!L.length) { $('status').textContent = 'Nothing to print yet: tick a glass type and at least one group.'; return; }
-  if (!window.jspdf) { $('status').textContent = "The PDF library didn't load. Reload the page and try again."; return; }
+  if (!canMake(L)) return;
   const kind = $('f').kind.value === 'div' ? 'divider-tabs' : 'pack-stickers';
   try {
     buildPdf().save(`${kind}-${size().join('x')}mm.pdf`);
-    $('status').textContent = `Saved ${L.length.toLocaleString()} labels.`;
+    $('status').textContent = `Saved ${L.length.toLocaleString()} label${L.length === 1 ? '' : 's'}.`;
   } catch (e) { $('status').textContent = "Couldn't make the PDF."; }
 });
 // #APP-1013,SAM-1468 selects those groups; #changes=<id> selects every group that update needs a new label for
