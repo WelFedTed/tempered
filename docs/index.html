@@ -194,7 +194,7 @@ if (params.get('mno') === '0') $('mnos').checked = false;
 function cardHtml(g, terms, q = '') {
   const hits = q ? Tempered.codeMatches(g, q) : [];
   const mno = h => h.slice(0, 4).map(c => Tempered.highlight(c, terms)).join(', ') + (h.length > 4 ? ` +${h.length - 4} more` : '');
-  const size = (sc, dm) => sc || dm ? `<small class="size">${[sc, dm && dm.replace(/ x /g, ' × ')].filter(Boolean).join(' · ')}</small>` : '';
+  const size = (sc, dm) => sc || dm ? `<small class="size">${Tempered.esc([sc, dm && dm.replace(/ x /g, ' × ')].filter(Boolean).join(' · '))}</small>` : '';
   const ms = g.models.map(([m, r, , sc, dm], i) => `<li><span>${Tempered.highlight(m, terms)}${hits[i] && hits[i].length ? ` <small class="mno">Model no. ${mno(hits[i])}</small>` : ''}${size(sc, dm)}</span>${r && !r.startsWith('1900') ? `<small>${Tempered.month(r)}</small>` : ''}</li>`).join('');
   const tags = g.tags.length ? `<p class="tags">${g.tags.map(t => `<span class="badge warn">${Tempered.esc((Tempered.TAGS[t] || [t])[0])}</span>`).join('')}</p>` : '';
   const report = `<p class="cnote rep"><a href="${Tempered.reportUrl(g)}" target="_blank" rel="noopener">Report a fit or a mistake</a></p>`;

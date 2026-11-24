@@ -16,7 +16,7 @@ seq = 0
 def add(code, name, cat, date):
     global seq
     seq += 1
-    models.append(dict(code=code, name=name, cat=cat, date=date, seq=seq))
+    models.append(dict(code=code, name=name.strip(), cat=cat, date=date, seq=seq))
 
 def disp(brand, n):
     n = re.sub(r'^razr', 'Razr', n)

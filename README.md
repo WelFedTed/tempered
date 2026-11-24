@@ -16,7 +16,7 @@
 - **Works offline:** once opened, the site and catalogue are cached, so lookups still work without internet.
 - **Data downloads:** fit groups, models (with model numbers, screen size and dimensions) and brands as CSV or JSON in [`docs/data/`](docs/data).
 
-The catalogue has 9,044 fit groups covering 12,341 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
+The catalogue has 9,043 fit groups covering 12,341 models from 157 brands: phones, tablets, e-readers, wearables and handheld consoles.
 
 ## Codes
 

@@ -93,7 +93,10 @@ window.Tempered = (() => {
     return [0, 25, 45, 900][worst];
   }
   // The model numbers of each model in g that match the query, for display
+  // Commas only count inside an identifier like iPhone12,1, so "A2221, A2223" and "A2221," still match
+  const tidy = q => String(q).replace(/,(?![a-z0-9])|(?<![a-z0-9]),/gi, ' ');
   function codeMatches(g, q) {
+    q = tidy(q);
     const qc = codeKey(q), ts = terms(q), tc = ts.join('');
     const keys = words(q).filter(w => !nameOk(g, w)).map(w => w.key).filter(k => k.length >= 3);
     // When the group already matches by name ("iphone 11"), only an exact model number is worth showing
@@ -135,6 +138,9 @@ window.Tempered = (() => {
   }
 
   function search(cat, q, {dev = '', brand = ''} = {}) {
+    // A search of only punctuation ("(", ",") matches nothing, rather than every group
+    if (String(q).trim() && !terms(q).length) return [];
+    q = tidy(q);
     const ts = terms(q), qn = ts.join(' '), qk = codeKey(q), ws = words(q);
     const out = [];
     for (const g of cat.groups) {

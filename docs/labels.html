@@ -70,8 +70,8 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 .sheet canvas{background:#fff;border-radius:6px;box-shadow:0 1px 0 rgba(0,0,0,.25),0 4px 10px rgba(0,0,0,.12);max-width:100%;height:auto}
 .keys{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:14px;color:var(--mute)}
 .keys span{display:inline-flex;align-items:center;gap:8px}
-.tip{font-size:14px;color:var(--mute);margin:0}
-.tip .code{font-size:13px;color:var(--ink);background:var(--panel);border:1px solid var(--dash);border-radius:4px;padding:1px 6px}
+.hint{font-size:14px;color:var(--mute);margin:0}
+.hint .code{font-size:13px;color:var(--ink);background:var(--panel);border:1px solid var(--dash);border-radius:4px;padding:1px 6px}
 </style>
 </head>
 <body>
@@ -167,7 +167,7 @@ legend{float:left;width:100%;padding:0;margin-bottom:2px;font:700 12px var(--mon
 <span><i class="gk m" aria-hidden="true">M</i>Matte: double outline</span>
 <span>Black on white, so they print on any thermal printer.</span>
 </div>
-<p class="tip">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1464</span>. To reprint the labels an update changed, use the button on the <a href="changes.html">Changes</a> page.</p>
+<p class="hint">Tip: link straight to groups with <span class="code">labels.html#APP-1013,SAM-1464</span>. To reprint the labels an update changed, use the button on the <a href="changes.html">Changes</a> page.</p>
 </section>
 </div></div>
 
@@ -275,19 +275,30 @@ function drawLabel(P, L, W, H) {
   }
   // Bottom line, above the barcode: the sell price in bold, then the fit notes beside it if they fit, else on
   // their own line above
-  const tags = L.tags && L.tags.length ? L.tags.join(' · ') : '';
   const tPt = Math.max(4.5, Math.min(6.5, H * 0.2));
-  let x = pad;
+  // The fit notes that fit in room mm: shrink to 4.5 pt, then (if drop) leave notes off the end. Null if they don't fit.
+  const notesFor = (room, drop) => {
+    const t = [...(L.tags || [])];
+    while (t.length) {
+      for (let pt = tPt; pt >= 4.5; pt -= 0.5) if (P.w(t.join(' · '), pt, true) <= room) return {text: t.join(' · '), pt};
+      if (!drop) return null;
+      t.pop();
+    }
+    return null;
+  };
   if (L.price) {
-    const pPt = Math.max(7, Math.min(12, H * 0.42));
+    let pPt = Math.max(7, Math.min(12, H * 0.42));
+    while (pPt > 5 && P.w(L.price, pPt, true) > W - 2 * pad) pPt -= 0.5;
     P.text(L.price, pad, H - pad, pPt, true, '#000');
-    x = pad + P.w(L.price, pPt, true) + 1.5;
-    if (tags && x + P.w(tags, tPt, true) <= W - pad) { P.text(tags, x, H - pad, tPt, true, '#000'); }
-    else if (tags) { H = H - pPt * PT - 0.5; P.text(tags, pad, H - pad, tPt, true, '#000'); H = H - tPt * PT - 0.8; x = -1; }
-    if (x !== -1) H = H - pPt * PT - 0.8;
-  } else if (tags) {
-    P.text(tags, pad, H - pad, tPt, true, '#000');
-    H = H - tPt * PT - 0.8;
+    const x = pad + P.w(L.price, pPt, true) + 1.5;
+    const beside = notesFor(W - pad - x, false);  // all of them beside the price, or none
+    if (beside) P.text(beside.text, x, H - pad, beside.pt, true, '#000');
+    H = H - pPt * PT - 0.8;
+    const above = !beside && notesFor(W - 2 * pad, true);
+    if (above) { P.text(above.text, pad, H - pad + 0.3, above.pt, true, '#000'); H = H - above.pt * PT - 0.8; }
+  } else {
+    const notes = notesFor(W - 2 * pad, true);
+    if (notes) { P.text(notes.text, pad, H - pad, notes.pt, true, '#000'); H = H - notes.pt * PT - 0.8; }
   }
   drawBody(P, L, W, H, pad);
 }
@@ -334,8 +345,14 @@ function drawBody(P, L, W, H, pad) {
   }
   if (pt < 4.5) {
     pt = 4.5; lh = pt * PT * 1.18;
-    const max = Math.max(1, Math.floor((bottom - top) / lh));
-    if (lines.length > max) { lines = lines.slice(0, max); lines[max - 1] += ' …'; }
+    const max = Math.floor((bottom - top) / lh);
+    if (max < 1) return;  // no room for even one line of model names
+    if (lines.length > max) {
+      lines = lines.slice(0, max);
+      let last = lines[max - 1];
+      while (last && P.w(last + ' …', pt, false) > W - 2 * pad) last = last.slice(0, -1).trimEnd();
+      lines[max - 1] = last + ' …';
+    }
   }
   lines.forEach((ln, i) => P.text(ln, pad, top + lh * i + pt * PT * 0.8, pt, false, '#000'));
 }
@@ -445,25 +462,36 @@ function buildPdf() {
 function canMake(L) {
   if (!L.length) { $('status').textContent = 'Nothing to print yet: tick a glass type and at least one group.'; return false; }
   if (!window.jspdf) { $('status').textContent = "The PDF library didn't load. Reload the page and try again."; return false; }
+  const missing = [$('qr').checked && !window.qrcode && 'QR codes', $('bc').checked && !window.JsBarcode && 'barcodes'].filter(Boolean);
+  if (missing.length && !confirm(`The ${missing.join(' and ')} couldn't load (are you offline?), so these labels won't have them. Print anyway?`)) return false;
+  // The PDF's built-in font covers Western European characters only (e.g. $, €, £, ¥, but not ₹)
+  const bad = $('priceOn').checked && [...$('price').value].filter(c => c.charCodeAt(0) > 255 && c !== '€');
+  if (bad && bad.length && !confirm(`The price contains ${[...new Set(bad)].join(' ')}, which won't print in the PDF. Print anyway?`)) return false;
   return true;
 }
 // Print: the same PDF, opened in the browser's print dialog. Print at 100% / actual size so labels line up.
 $('pr').addEventListener('click', () => {
   const L = labels();
   if (!canMake(L)) return;
+  const safari = /^((?!chrome|chromium|android|crios|fxios|edg).)*safari/i.test(navigator.userAgent);
   let url;
-  try { const doc = buildPdf(); doc.autoPrint(); url = doc.output('bloburl'); }
+  try { const doc = buildPdf(); if (safari) doc.autoPrint(); url = doc.output('bloburl'); }
   catch (e) { $('status').textContent = "Couldn't make the PDF."; return; }
-  document.querySelectorAll('iframe.printframe').forEach(f => f.remove());
-  const f = document.createElement('iframe');
-  f.className = 'printframe'; f.title = 'Labels to print';
-  f.style.cssText = 'position:fixed;right:0;bottom:0;width:1px;height:1px;border:0;opacity:0';
-  f.onload = () => {
-    try { f.contentWindow.focus(); f.contentWindow.print(); }
-    catch (e) { window.open(url, '_blank'); }  // some browsers won't print a PDF from a frame: open it instead
-  };
-  f.src = url;
-  document.body.appendChild(f);
+  setTimeout(() => URL.revokeObjectURL(url), 120000);
+  if (safari) {
+    if (!window.open(url, '_blank')) { $('status').textContent = 'Your browser blocked the print window. Use Download PDF and print the file.'; return; }
+  } else {
+    document.querySelectorAll('iframe.printframe').forEach(f => f.remove());
+    const f = document.createElement('iframe');
+    f.className = 'printframe'; f.title = 'Labels to print';
+    f.style.cssText = 'position:fixed;right:0;bottom:0;width:1px;height:1px;border:0;opacity:0';
+    f.onload = () => {
+      try { f.contentWindow.focus(); f.contentWindow.print(); }
+      catch (e) { $('status').textContent = "Your browser won't print from here. Use Download PDF and print the file."; }
+    };
+    f.src = url;
+    document.body.appendChild(f);
+  }
   $('status').textContent = `Printing ${L.length.toLocaleString()} label${L.length === 1 ? '' : 's'}. In the print dialog, print at 100% (actual size).`;
 });
 $('dl').addEventListener('click', () => {
@@ -478,12 +506,17 @@ $('dl').addEventListener('click', () => {
 // #APP-1013,SAM-1464 selects those groups; #changes=<id> selects every group that update needs a new label for
 const REPRINT = new Set(['new', 'merged', 'split', 'models changed', 'renumbered', 'new code', 'models added']);
 async function selectFromHash() {
-  const h = decodeURIComponent(location.hash.slice(1));
+  let h;
+  try { h = decodeURIComponent(location.hash.slice(1)); } catch (e) { return; }
   if (h.startsWith('changes=')) {
     try {
       const log = await (await fetch('data/changelog.json')).json();
       const e = log.entries.find(x => x.base === h.slice(8));
       if (!e) { $('status').textContent = "That update isn't in the changelog."; return; }
+      if (e !== log.entries.find(x => x.changes.length)) {
+        $('status').textContent = `Codes have changed since “${e.title}”, so its labels would print for the wrong groups. Print from the latest update on the Changes page.`;
+        return;
+      }
       const ids = e.changes.filter(c => c.kinds.some(k => REPRINT.has(k)) && CAT.byId[c.code]).map(c => c.code);
       sel.clear(); ids.forEach(id => sel.add(id));
       $('onlySel').checked = true;
@@ -526,8 +559,8 @@ const showRot = () => { $('rotRow').hidden = $('f').layout.value !== 'roll'; };
 document.querySelectorAll('input[name=layout]').forEach(i => i.addEventListener('change', showRot));
 $('rot').addEventListener('change', save);
 window.addEventListener('hashchange', () => CAT && selectFromHash());
-function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value, rot: $('rot').checked})); } catch (e) {} }
-try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; if ('rot' in s) $('rot').checked = s.rot; } } catch (e) {}
+function save() { try { localStorage.setItem('tempered-labels', JSON.stringify({size: $('size').value, t: val('t'), layout: $('f').layout.value, qr: $('qr').checked, bc: $('bc').checked, tags: $('tagsOn').checked, priceOn: $('priceOn').checked, price: $('price').value, rot: $('rot').checked, cw: $('cw').value, ch: $('ch').value})); } catch (e) {} }
+try { const s = JSON.parse(localStorage.getItem('tempered-labels') || 'null'); if (s) { $('size').value = s.size; document.querySelectorAll('input[name=t]').forEach(i => i.checked = s.t.includes(i.value)); $('f').layout.value = s.layout; $('customRow').hidden = s.size !== 'custom'; if ('qr' in s) $('qr').checked = s.qr; if ('bc' in s) $('bc').checked = s.bc; if ('priceOn' in s) { $('priceOn').checked = s.priceOn; $('price').value = s.price || ''; $('price').hidden = !s.priceOn; } if ('tags' in s) $('tagsOn').checked = s.tags; if ('rot' in s) $('rot').checked = s.rot; if (s.cw) $('cw').value = s.cw; if (s.ch) $('ch').value = s.ch; } } catch (e) {}
 showRot();
 showSizeNote();
 

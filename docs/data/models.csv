@@ -2286,7 +2286,7 @@ Lenovo A7-50 A3500,LEN-2017,Lenovo,Tablet,2014-04,,7.0in,198 x 121.2 x 9.9
 Lenovo A8-50 A5500,LEN-2018,Lenovo,Tablet,2014-04,A5500-HV,8.0in,217 x 136 x 8.9
 Lenovo A10-70 A7600,LEN-2019,Lenovo,Tablet,2014-04,A7600,10.1in,264.1 x 176.5 x 9
 Lenovo Tab S8,LEN-2020,Lenovo,Tablet,2014-09,TAB S8-50LC,8.0in,209.8 x 123.8 x 7.9
-Lenovo Yoga Tablet 2 8.0 ,LEN-2021,Lenovo,Tablet,2014-10,,,
+Lenovo Yoga Tablet 2 8.0,LEN-2021,Lenovo,Tablet,2014-10,,8.0in,210 x 149 x 7
 Lenovo Yoga Tablet 2 10.1,LEN-2022,Lenovo,Tablet,2014-10,,10.1in,255 x 183 x 7.2
 Lenovo Yoga Tablet 2 Pro,LEN-2023,Lenovo,Tablet,2014-10,,13.3in,333 x 233 x 12.6
 Lenovo Tab 2 A7-10,LEN-2024,Lenovo,Tablet,2015-01,,7.0in,189 x 105 x 9.3
@@ -3023,11 +3023,11 @@ Motorola XOOM 2 MZ615,MOT-2003,Motorola,Tablet,2011-11,MZ615,10.1in,253.9 x 173.
 Motorola XOOM 2 3G MZ616,MOT-2003,Motorola,Tablet,2011-12,,10.1in,253.9 x 173.6 x 8.8
 Motorola XOOM 2 Media Edition MZ607,MOT-2004,Motorola,Tablet,2011-11,MZ607,8.2in,216 x 139 x 9
 Motorola XOOM 2 Media Edition 3G MZ608,MOT-2004,Motorola,Tablet,2011-12,,8.2in,216 x 139 x 9
+Motorola DROID XYBOARD 8.2 MZ609,MOT-2004,Motorola,Tablet,2011-12,,8.2in,216 x 139 x 9
 Motorola DROID XYBOARD 10.1 MZ617,MOT-2005,Motorola,Tablet,2011-12,,10.1in,259.9 x 173.6 x 8.8
-Motorola DROID XYBOARD 8.2 MZ609 ,MOT-2006,Motorola,Tablet,2011-12,,,
-Moto Tab G62,MOT-2007,Motorola,Tablet,2022-08,,10.6in,251.2 x 158.8 x 7.5
-Moto Pad 60 Neo,MOT-2008,Motorola,Tablet,2025-09,,11.0in,254.6 x 166.2 x 7
-Moto Pad (2026),MOT-2008,Motorola,Tablet,2026-04,,11.0in,254.6 x 166.2 x 7
+Moto Tab G62,MOT-2006,Motorola,Tablet,2022-08,,10.6in,251.2 x 158.8 x 7.5
+Moto Pad 60 Neo,MOT-2007,Motorola,Tablet,2025-09,,11.0in,254.6 x 166.2 x 7
+Moto Pad (2026),MOT-2007,Motorola,Tablet,2026-04,,11.0in,254.6 x 166.2 x 7
 Moto 360 (1st gen),MOT-3001,Motorola,Wearable,2014-09,,1.56in,46 x 46 x 11.5
 Moto 360 46mm (2nd gen),MOT-3002,Motorola,Wearable,2015-09,,1.56in,46 x 46 x 11.4
 Moto 360 42mm (2nd gen),MOT-3003,Motorola,Wearable,2015-09,,1.37in,42 x 42 x 11.4
