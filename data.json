@@ -13135,7 +13135,7 @@
 "2020-02"
 ],
 "check": "Confirmed",
-"note": "Olixar case-compatible S20 glass states it fits 4G and 5G variants, and Whitestone Dome Glass is listed for S20/S20 5G; curved screen, ultrasonic fingerprint needs FP-compatible glass",
+"note": "Olixar case-compatible S20 glass states it fits 4G and 5G variants, and Whitestone Dome Glass is listed for S20/S20 5G; curved screen, ultrasonic fingerprint needs FP-compatible glass. The S20 5G UW is Verizon's mmWave S20 5G (model SM-G981V) with the same 6.2in curved screen, 0.2 mm thicker. A Best Buy customer reports ZAGG's S20/S20 5G protector fit it, but ZAGG also sells UW-specific glass: test first",
 "device": "Phone",
 "sources": [
 [
@@ -13145,6 +13145,14 @@
 [
 "Abt (Whitestone Dome Glass S20/S20 5G)",
 "https://www.abt.com/Whitestone-Samsung-Galaxy-S20-S20-5G-Dome-Glass-Tempered-Glass-Screen-Protector-GPTTG980WTBTW/p/144775.html"
+],
+[
+"GSMArena Galaxy S20 5G (SM-G981 series)",
+"https://www.gsmarena.com/samsung_galaxy_s20_5g-10044.php"
+],
+[
+"GSMArena Galaxy S20 5G UW (SM-G981V, 0.2 mm thicker)",
+"https://www.gsmarena.com/samsung_galaxy_s20_5g_uw-10254.php"
 ]
 ],
 "codes": [
@@ -13452,8 +13460,18 @@
 "2020-05"
 ],
 "check": "Check",
-"note": "",
+"note": "The S20 5G UW is Verizon's mmWave S20 5G (model SM-G981V) with the same 6.2in curved screen, 0.2 mm thicker. A Best Buy customer reports ZAGG's S20/S20 5G protector fit it, but ZAGG also sells UW-specific glass: test first",
 "device": "Phone",
+"sources": [
+[
+"GSMArena Galaxy S20 5G (SM-G981 series)",
+"https://www.gsmarena.com/samsung_galaxy_s20_5g-10044.php"
+],
+[
+"GSMArena Galaxy S20 5G UW (SM-G981V, 0.2 mm thicker)",
+"https://www.gsmarena.com/samsung_galaxy_s20_5g_uw-10254.php"
+]
+],
 "codes": [
 "SM-G981V"
 ],
@@ -13464,7 +13482,8 @@
 "151.7 x 69.1 x 8.1 mm"
 ],
 "tags": [
-"fingerprint"
+"fingerprint",
+"curved"
 ]
 },
 {
@@ -13781,13 +13800,21 @@
 "2020-09",
 "2022-04"
 ],
-"check": "Check",
-"note": "Sellers confirm Galaxy S20 FE, Galaxy S20 FE 5G. The rest match on specs: test before swapping. Olixar S20 FE glass states it fits both 4G and 5G variants (same size), works with the in-screen fingerprint reader and thin cases; S20 FE 2022 not named",
+"check": "Confirmed",
+"note": "Olixar S20 FE glass states it fits both 4G and 5G variants (same size), works with the in-screen fingerprint reader and thin cases. The S20 FE 2022 is a 2022 re-release of the S20 FE 5G (model SM-G781NK in the same SM-G781 series) with the same body and screen",
 "device": "Phone",
 "sources": [
 [
 "MobileFun (Olixar)",
 "https://www.mobilefun.co.uk/olixar-samsung-galaxy-s20-fe-tempered-glass-screen-protector-82993"
+],
+[
+"GSMArena Galaxy S20 FE 5G (SM-G781 series, 159.8 x 74.5 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php"
+],
+[
+"GSMArena Galaxy S20 FE 2022 (SM-G781NK, 159.8 x 74.5 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s20_fe_2022-11459.php"
 ]
 ],
 "codes": [
