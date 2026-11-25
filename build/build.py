@@ -318,7 +318,7 @@ SINGLE = {
  ('NVI', 'NVIDIA Tegra Note 7'): (K, '7in. Also sold under partner brands such as EVGA'),
  ('APP', 'iPhone Duo'): (K, 'Foldable: glass is for the 5.4in outer (cover) screen'),
  ('APP', 'iPad mini (A20 Pro)'): (K, '8.5in OLED. Bigger screen than mini 6/7: their glass will not fit'),
- ('APP', 'Apple Watch Series 12 42mm'): (K, 'Looks the same as Series 10/11: test their 42mm glass first'),
+ ('APP', 'Apple Watch Series 12 42mm'): (K, ''),
  ('APP', 'Apple Watch Series 12 46mm'): (K, 'Looks the same as Series 10/11: test their 46mm glass first'),
  ('APP', 'Apple Watch Ultra 4 49mm'): (K, 'Looks the same as Ultra 3: test first'),
  ('ASU', 'ROG Xbox Ally X20'): (K, '7.4in OLED. Bigger screen than the 7in Allys: do not swap'),
