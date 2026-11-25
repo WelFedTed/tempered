@@ -56819,22 +56819,33 @@
 "MOT"
 ],
 "models": [
-"Moto G72"
+"Moto G72",
+"Moto G84"
 ],
 "released": [
-"2022-09"
+"2022-09",
+"2023-08"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "PanzerGlass sells one Ultra-Wide Fit glass for the Moto G84 and G72",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass Screen Protector Motorola moto g84 | g72 | Ultra-Wide Fit",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-moto-g84-g72-ultra-wide-fit"
+]
+],
 "codes": [
-"XT2255-1"
+"XT2255-1",
+"XT2347, XT2347-1, XT2347-2"
 ],
 "screens": [
-"6.6in"
+"6.6in",
+"6.5in"
 ],
 "dims": [
-"160.5 x 74.4 x 7.9 mm"
+"160.5 x 74.4 x 7.9 mm",
+"160 x 74.4 x 7.6 mm"
 ]
 },
 {
@@ -57287,31 +57298,6 @@
 "MOT"
 ],
 "models": [
-"Moto G84"
-],
-"released": [
-"2023-08"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2347, XT2347-1, XT2347-2"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"160 x 74.4 x 7.6 mm"
-]
-},
-{
-"id": "MOT-1253",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
 "Motorola Edge 40 Neo"
 ],
 "released": [
@@ -57337,7 +57323,7 @@
 ]
 },
 {
-"id": "MOT-1254",
+"id": "MOT-1253",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57359,7 +57345,7 @@
 ]
 },
 {
-"id": "MOT-1255",
+"id": "MOT-1254",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57424,7 +57410,7 @@
 ]
 },
 {
-"id": "MOT-1256",
+"id": "MOT-1255",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57455,7 +57441,7 @@
 ]
 },
 {
-"id": "MOT-1257",
+"id": "MOT-1256",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57486,7 +57472,7 @@
 ]
 },
 {
-"id": "MOT-1258",
+"id": "MOT-1257",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57517,41 +57503,55 @@
 ]
 },
 {
-"id": "MOT-1259",
+"id": "MOT-1258",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Motorola Edge 50 Pro"
+"Motorola Edge 50 Pro",
+"Motorola Edge 50 Ultra",
+"Moto X50 Ultra"
 ],
 "released": [
-"2024-04"
+"2024-04",
+"2024-04",
+"2024-05"
 ],
 "check": "Check",
-"note": "PanzerGlass Ultra-Wide Fit is listed for Edge 50 Pro and Edge 50 Ultra; curved screens, so test fit",
+"note": "Sellers confirm Motorola Edge 50 Pro, Motorola Edge 50 Ultra. The rest match on specs: test before swapping. PanzerGlass sells one Ultra-Wide Fit glass for the Edge 50 Pro and Edge 50 Ultra; both have curved screens",
 "device": "Phone",
 "sources": [
 [
 "PanzerGlass Ultra-Wide Fit (Home Screen)",
 "https://homescreen.pl/en/1686-moto-edge-50-series"
+],
+[
+"PanzerGlass Screen Protector Motorola Edge 50 Pro | Ultra | Ultra-Wide Fit",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-50-pro-ultra-ultra-wide-fit"
 ]
 ],
 "codes": [
-"XT2403-2"
+"XT2403-2",
+"",
+"XT2401-2"
 ],
 "screens": [
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"161.2 x 72.4 x 8.2 mm"
+"161.2 x 72.4 x 8.2 mm",
+"161.1 x 72.4 x 8.6 mm",
+"161.1 x 72.4 x 8.6 mm"
 ],
 "tags": [
 "curved"
 ]
 },
 {
-"id": "MOT-1260",
+"id": "MOT-1259",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57587,46 +57587,7 @@
 ]
 },
 {
-"id": "MOT-1261",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola Edge 50 Ultra",
-"Moto X50 Ultra"
-],
-"released": [
-"2024-04",
-"2024-05"
-],
-"check": "Check",
-"note": "PanzerGlass Ultra-Wide Fit is listed for Edge 50 Pro and Edge 50 Ultra; curved screens, so test fit. Same body size and screen specs: test before swapping",
-"device": "Phone",
-"sources": [
-[
-"PanzerGlass Ultra-Wide Fit (Home Screen)",
-"https://homescreen.pl/en/1686-moto-edge-50-series"
-]
-],
-"codes": [
-"",
-"XT2401-2"
-],
-"screens": [
-"6.7in",
-"6.7in"
-],
-"dims": [
-"161.1 x 72.4 x 8.6 mm",
-"161.1 x 72.4 x 8.6 mm"
-],
-"tags": [
-"curved"
-]
-},
-{
-"id": "MOT-1262",
+"id": "MOT-1260",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57657,7 +57618,7 @@
 ]
 },
 {
-"id": "MOT-1263",
+"id": "MOT-1261",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57682,7 +57643,7 @@
 ]
 },
 {
-"id": "MOT-1264",
+"id": "MOT-1262",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57707,7 +57668,7 @@
 ]
 },
 {
-"id": "MOT-1265",
+"id": "MOT-1263",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57760,7 +57721,7 @@
 ]
 },
 {
-"id": "MOT-1266",
+"id": "MOT-1264",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57814,7 +57775,7 @@
 ]
 },
 {
-"id": "MOT-1267",
+"id": "MOT-1265",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57839,7 +57800,7 @@
 ]
 },
 {
-"id": "MOT-1268",
+"id": "MOT-1266",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57870,7 +57831,7 @@
 ]
 },
 {
-"id": "MOT-1269",
+"id": "MOT-1267",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57901,7 +57862,7 @@
 ]
 },
 {
-"id": "MOT-1270",
+"id": "MOT-1268",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57966,7 +57927,7 @@
 ]
 },
 {
-"id": "MOT-1271",
+"id": "MOT-1269",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57991,7 +57952,7 @@
 ]
 },
 {
-"id": "MOT-1272",
+"id": "MOT-1270",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58022,7 +57983,7 @@
 ]
 },
 {
-"id": "MOT-1273",
+"id": "MOT-1271",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58098,7 +58059,7 @@
 ]
 },
 {
-"id": "MOT-1274",
+"id": "MOT-1272",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58143,7 +58104,7 @@
 ]
 },
 {
-"id": "MOT-1275",
+"id": "MOT-1273",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58183,7 +58144,7 @@
 ]
 },
 {
-"id": "MOT-1276",
+"id": "MOT-1274",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58217,7 +58178,7 @@
 ]
 },
 {
-"id": "MOT-1277",
+"id": "MOT-1275",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58248,7 +58209,7 @@
 ]
 },
 {
-"id": "MOT-1278",
+"id": "MOT-1276",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58289,7 +58250,7 @@
 ]
 },
 {
-"id": "MOT-1279",
+"id": "MOT-1277",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58322,7 +58283,7 @@
 ]
 },
 {
-"id": "MOT-1280",
+"id": "MOT-1278",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58356,7 +58317,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58390,7 +58351,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58415,7 +58376,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58446,7 +58407,7 @@
 ]
 },
 {
-"id": "MOT-1284",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58494,7 +58455,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58516,7 +58477,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58552,7 +58513,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58583,7 +58544,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58614,7 +58575,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58642,7 +58603,7 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58687,7 +58648,7 @@
 ]
 },
 {
-"id": "MOT-1291",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58723,7 +58684,7 @@
 ]
 },
 {
-"id": "MOT-1292",
+"id": "MOT-1290",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58745,7 +58706,7 @@
 ]
 },
 {
-"id": "MOT-1293",
+"id": "MOT-1291",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58770,7 +58731,7 @@
 ]
 },
 {
-"id": "MOT-1294",
+"id": "MOT-1292",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58792,7 +58753,7 @@
 ]
 },
 {
-"id": "MOT-1295",
+"id": "MOT-1293",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58825,7 +58786,7 @@
 ]
 },
 {
-"id": "MOT-1296",
+"id": "MOT-1294",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58853,7 +58814,7 @@
 ]
 },
 {
-"id": "MOT-1297",
+"id": "MOT-1295",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58879,7 +58840,7 @@
 ]
 },
 {
-"id": "MOT-1298",
+"id": "MOT-1296",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58901,7 +58862,7 @@
 ]
 },
 {
-"id": "MOT-1299",
+"id": "MOT-1297",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58929,7 +58890,7 @@
 ]
 },
 {
-"id": "MOT-1300",
+"id": "MOT-1298",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58951,7 +58912,7 @@
 ]
 },
 {
-"id": "MOT-1301",
+"id": "MOT-1299",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58973,7 +58934,7 @@
 ]
 },
 {
-"id": "MOT-1302",
+"id": "MOT-1300",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58995,7 +58956,7 @@
 ]
 },
 {
-"id": "MOT-1303",
+"id": "MOT-1301",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -104102,9 +104063,15 @@
 "2026-04",
 "2026-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "PanzerGlass sells one SAFE glass for the Honor 600 and 600 Pro",
 "device": "Phone",
+"sources": [
+[
+"SAFE by PanzerGlass Ultra-Wide Fit (Honor 600, 600 Pro)",
+"https://shop.vb.net/en/PZGSA40446/mobile-phone-screen-protectors/panzerglass-safe-by-panzerglass-screen-protector-honor-600-ultra-wide-fit"
+]
+],
 "codes": [
 "VKJ-NX9",
 "VKP-NX9"

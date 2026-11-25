@@ -2904,6 +2904,7 @@ Motorola Edge 30 Ultra,MOT-1234,Motorola,Phone,2022-09,XT-2201,6.67in,161.8 x 73
 Moto E22,MOT-1235,Motorola,Phone,2022-09,,6.5in,163.6 x 74.7 x 8
 Moto E22i,MOT-1235,Motorola,Phone,2022-09,,6.5in,163.6 x 74.7 x 8
 Moto G72,MOT-1236,Motorola,Phone,2022-09,XT2255-1,6.6in,160.5 x 74.4 x 7.9
+Moto G84,MOT-1236,Motorola,Phone,2023-08,"XT2347, XT2347-1, XT2347-2",6.5in,160 x 74.4 x 7.6
 Moto X40,MOT-1237,Motorola,Phone,2022-12,XT2301-5,6.7in,161.2 x 74 x 8.6
 Moto G53,MOT-1238,Motorola,Phone,2022-12,XT2335-2,6.5in,162.7 x 74.7 x 8.2
 Moto G13,MOT-1238,Motorola,Phone,2023-01,,6.5in,162.7 x 74.7 x 8.2
@@ -2925,96 +2926,95 @@ Moto G14,MOT-1251,Motorola,Phone,2023-08,PAYF0010IN,6.5in,161.5 x 73.8 x 8
 Moto G54 Power,MOT-1251,Motorola,Phone,2023-09,XT2343-6,6.5in,161.6 x 73.8 x 8.9
 Moto G54,MOT-1251,Motorola,Phone,2023-09,"XT2343-1, XT2343-2",6.5in,161.6 x 73.8 x 8
 Moto G64,MOT-1251,Motorola,Phone,2024-04,,6.5in,161.6 x 73.8 x 8.9
-Moto G84,MOT-1252,Motorola,Phone,2023-08,"XT2347, XT2347-1, XT2347-2",6.5in,160 x 74.4 x 7.6
-Motorola Edge 40 Neo,MOT-1253,Motorola,Phone,2023-09,XT2307-1,6.55in,159.6 x 72 x 7.9
-Motorola Edge (2023),MOT-1254,Motorola,Phone,2023-10,,6.6in,158.4 x 72 x 7.6
-Moto G34,MOT-1255,Motorola,Phone,2023-12,"XT2363-2, XT2363-3",6.5in,162.7 x 74.6 x 8
-Moto G04,MOT-1255,Motorola,Phone,2024-01,"XT2421-2, XT2421-3",6.56in,163.5 x 74.5 x 8
-Moto G24,MOT-1255,Motorola,Phone,2024-01,"XT2423-1, XT2423-3",6.56in,163.5 x 74.5 x 8
-Moto G24 Power,MOT-1255,Motorola,Phone,2024-01,,6.56in,163.5 x 74.5 x 9
-Moto G04s,MOT-1255,Motorola,Phone,2024-04,XT2421-8,6.56in,163.5 x 74.5 x 8
-Moto E14,MOT-1255,Motorola,Phone,2024-06,,6.56in,163.5 x 74.5 x 8
-Moto G45,MOT-1255,Motorola,Phone,2024-08,,6.5in,162.7 x 74.6 x 8
-Moto G Play (2024),MOT-1256,Motorola,Phone,2024-01,"XT2413-1, XT2413, XT2413V",6.5in,163.8 x 75 x 8.3
-Moto G (2024),MOT-1257,Motorola,Phone,2024-03,"XT2417-4, XT2417-1",6.6in,164.4 x 75 x 8.2
-Moto G Power (2024),MOT-1258,Motorola,Phone,2024-03,"XT2415-3, XT2415V",6.7in,167.2 x 76.4 x 8.5
-Motorola Edge 50 Pro,MOT-1259,Motorola,Phone,2024-04,XT2403-2,6.7in,161.2 x 72.4 x 8.2
-Motorola Edge 50 Fusion,MOT-1260,Motorola,Phone,2024-04,XT2429-1,6.7in,161.9 x 73.1 x 7.9
-Moto G85,MOT-1260,Motorola,Phone,2024-06,XT2427-3,6.67in,161.9 x 73.1 x 7.6
-Motorola Edge 50 Ultra,MOT-1261,Motorola,Phone,2024-04,,6.7in,161.1 x 72.4 x 8.6
-Moto X50 Ultra,MOT-1261,Motorola,Phone,2024-05,XT2401-2,6.7in,161.1 x 72.4 x 8.6
-Moto G Stylus 5G (2024),MOT-1262,Motorola,Phone,2024-05,"XT2419-2, XT2419-1, XT2419",6.7in,162.6 x 74.8 x 8.3
-Motorola Edge (2024),MOT-1263,Motorola,Phone,2024-06,"XT2405V, XT-2405V",6.6in,159.6 x 72 x 8.1
-Motorola S50 Neo,MOT-1264,Motorola,Phone,2024-06,XT2427-4,6.7in,161.9 x 73.1 x 7.6
-Motorola Razr 50,MOT-1265,Motorola,Phone,2024-06,XT2453-1,3.6in,88.1 x 74 x 15.9
-Motorola Razr 2024,MOT-1265,Motorola,Phone,2024-06,,3.6in,88.1 x 74 x 15.9
-Motorola Razr 2025,MOT-1265,Motorola,Phone,2025-04,,3.6in,88.1 x 74 x 15.9
-Motorola Razr 60,MOT-1265,Motorola,Phone,2025-04,XT2553-1,3.6in,88.1 x 74 x 15.9
-Motorola Razr 70,MOT-1265,Motorola,Phone,2026-04,"XT2657-1, XT2657-2",3.6in,88.1 x 74 x 15.9
-Motorola Razr 2026,MOT-1265,Motorola,Phone,2026-04,,3.6in,88.1 x 74 x 15.9
-Motorola Razr 50 Ultra,MOT-1266,Motorola,Phone,2024-06,XT2451-3,4in,88.1 x 74 x 15.3
-Motorola Razr+ 2024,MOT-1266,Motorola,Phone,2024-06,,4in,88.1 x 74 x 15.3
-Motorola Razr+ 2025,MOT-1266,Motorola,Phone,2025-04,XT2451-1,4in,88.1 x 74 x 15.3
-Motorola Razr+ 2026,MOT-1266,Motorola,Phone,2026-04,,4in,88.1 x 74 x 15.3
-Motorola Razr 70+,MOT-1266,Motorola,Phone,2026-04,XT2659-3,4in,88.1 x 74 x 15.3
-Motorola Edge 50,MOT-1267,Motorola,Phone,2024-08,XT2407-1,6.7in,160.8 x 72.4 x 7.8
-Moto G35,MOT-1268,Motorola,Phone,2024-08,XT2433-5,6.72in,166.3 x 76 x 7.8
-Moto G55,MOT-1269,Motorola,Phone,2024-08,XT2435-2,6.49in,161.6 x 73.8 x 8.1
-Motorola Edge 50 Neo,MOT-1270,Motorola,Phone,2024-08,XT2409-1,6.4in,154.1 x 71.2 x 8.1
-Motorola ThinkPhone 25,MOT-1270,Motorola,Phone,2024-10,XT2409-6,6.36in,154.1 x 71.2 x 8.1
-Motorola Edge 60 Neo,MOT-1270,Motorola,Phone,2025-09,XT2509-1,6.36in,154.1 x 71.2 x 8.1
-Moto S50,MOT-1271,Motorola,Phone,2024-09,XT2309-5,6.36in,154.1 x 71.2 x 8.1
-Moto G75,MOT-1272,Motorola,Phone,2024-10,"XT2437-2, XT2437-3",6.78in,166.1 x 77.2 x 8.3
-Moto G15,MOT-1273,Motorola,Phone,2024-12,XT2521-3,6.72in,165.7 x 76 x 8.2
-Moto G15 Power,MOT-1273,Motorola,Phone,2024-12,XT2521-5,6.72in,165.7 x 76 x 8.8
-Moto G05,MOT-1273,Motorola,Phone,2024-12,"XT2523-2, XT2523-3, XT2523-11",6.67in,165.7 x 76 x 8.2
-Moto E15,MOT-1273,Motorola,Phone,2024-12,"XT2523-6, XT2523-8",6.67in,165.7 x 76 x 8.2
-Moto G17 Power,MOT-1273,Motorola,Phone,2026-01,,6.72in,165.7 x 76 x 8.8
-Moto G17,MOT-1273,Motorola,Phone,2026-02,XT2623-2,6.72in,165.7 x 76 x 8.2
-Moto G (2025),MOT-1274,Motorola,Phone,2025-01,"XT2513V, T2513-1",6.7in,167.1 x 76.3 x 8.2
-Moto G Play (2026),MOT-1274,Motorola,Phone,2025-12,XT2615-1,6.7in,167.2 x 76.4 x 8.5
-Moto G (2026),MOT-1274,Motorola,Phone,2025-12,XT2613-1,6.7in,167.2 x 76.4 x 8.5
-Moto G Power (2025),MOT-1275,Motorola,Phone,2025-01,XT2515-1,6.8in,166.6 x 77.1 x 8.7
-Moto G Power (2026),MOT-1275,Motorola,Phone,2026-01,XT2617-1,6.8in,166.6 x 77.1 x 8.7
-Motorola Edge 60 Fusion,MOT-1276,Motorola,Phone,2025-03,XT2503-4,6.67in,161 x 73 x 8.0
-Motorola Edge 60s,MOT-1277,Motorola,Phone,2025-04,,6.67in,161.2 x 73.1 x 8.2
-Moto G Stylus 5G (2025),MOT-1278,Motorola,Phone,2025-04,XT2517-1,6.7in,162.2 x 74.8 x 8.3
-Motorola Edge 60 Stylus,MOT-1278,Motorola,Phone,2025-04,PB7S0000IN,6.7in,162.2 x 74.8 x 8.3
-Moto G Stylus (2026),MOT-1278,Motorola,Phone,2026-05,,6.7in,162.2 x 74.8 x 8.3
-Motorola Razr Ultra 2025,MOT-1279,Motorola,Phone,2025-04,,4in,88.1 x 74 x 15.7
-Motorola Razr 60 Ultra,MOT-1279,Motorola,Phone,2025-04,XT2551-6,4in,88.1 x 74 x 15.7
-Motorola Edge 60,MOT-1280,Motorola,Phone,2025-04,"XT2505-1, XT2505-4",6.67in,161.2 x 73.1 x 7.9
-Motorola Edge 60 Pro,MOT-1281,Motorola,Phone,2025-04,XT2507-1,6.7in,160.7 x 73.1 x 8.2
-Motorola Edge (2025),MOT-1282,Motorola,Phone,2025-05,XT2519,6.7in,161.2 x 73.1 x 8
-Moto G56,MOT-1283,Motorola,Phone,2025-06,"XT2529-2, XT2529-1",6.72in,165.8 x 76.3 x 8.4
-Moto G86,MOT-1284,Motorola,Phone,2025-06,XT2527-2,6.67in,161.2 x 74.7 x 7.8
-Moto G86 Power,MOT-1284,Motorola,Phone,2025-06,XT2527-7,6.67in,161.2 x 74.7 x 8.7
-Moto G96,MOT-1285,Motorola,Phone,2025-07,,6.67in,161.9 x 73.3 x 7.9
-Moto G06,MOT-1286,Motorola,Phone,2025-08,"XT2535-1, XT2535-2, XT2535-3, XT2535-14",6.88in,171.4 x 77.5 x 8.3
-Moto G06 Power,MOT-1286,Motorola,Phone,2025-08,XT2535-13,6.88in,171.4 x 77.5 x 8.8
-Motorola Edge 70,MOT-1287,Motorola,Phone,2025-11,XT2601-2,6.7in,159.9 x 74 x 6
-Moto G57,MOT-1288,Motorola,Phone,2025-11,XT2537-2,6.72in,166 x 76.5 x 8.6
-Motorola Signature,MOT-1289,Motorola,Phone,2026-01,XT2603-2,6.8in,162.1 x 76.4 x 7
-Moto G67,MOT-1290,Motorola,Phone,2026-01,XT2621-2,6.78in,164.2 x 77.4 x 7.3
-Moto G77,MOT-1290,Motorola,Phone,2026-01,XT2621-4,6.78in,164.2 x 77.4 x 7.3
-Moto G87,MOT-1290,Motorola,Phone,2026-03,XT2621-6,6.78in,164.5 x 77.3 x 7.3
-Moto G37,MOT-1291,Motorola,Phone,2026-03,,6.67in,166.2 x 76.5 x 7.8
-Moto G37 Power,MOT-1291,Motorola,Phone,2026-03,,6.67in,166.2 x 76.5 x 8.8
-Moto G47,MOT-1291,Motorola,Phone,2026-04,,6.67in,166.2 x 76.5 x 7.8
-Moto G Max,MOT-1292,Motorola,Phone,2026-03,,6.8in,164.5 x 77.3 x 7.3
-Motorola Edge 70 Fusion,MOT-1293,Motorola,Phone,2026-03,"XT2605-1, XT2605-2, XT2605-4",6.78in,162.8 x 75.6 x 7.2
-Motorola Edge 70 Fusion+,MOT-1294,Motorola,Phone,2026-03,,6.8in,162.8 x 75.6 x 7.2
-Motorola Razr 70 Ultra,MOT-1295,Motorola,Phone,2026-04,XT2655-1,4in,88.1 x 74 x 15.7
-Motorola Razr Ultra 2026,MOT-1295,Motorola,Phone,2026-04,,4in,88.1 x 74 x 15.7
-Motorola Razr Fold,MOT-1296,Motorola,Phone,2026-04,"XT2651, XT2651-1",6.6in,160.1 x 73.6 x 10.1
-Motorola Edge 70 Pro,MOT-1297,Motorola,Phone,2026-04,,6.78in,162.7 x 75.6 x 7.2
-Motorola Edge 70 Pro+,MOT-1297,Motorola,Phone,2026-06,,6.78in,162.7 x 75.6 x 7.2
-Motorola Edge (2026),MOT-1298,Motorola,Phone,2026-05,,6.3in,152.3 x 72 x 7.2
-Motorola Edge 70 Max,MOT-1299,Motorola,Phone,2026-07,,6.82in,164 x 77 x 8.3
-Moto G77 Power,MOT-1300,Motorola,Phone,2026-07,,6.72in,166.2 x 76.5 x 8.9
-Motorola Signature 27,MOT-1301,Motorola,Phone,2026-09,,6.78in,162.01 x 77.04 x 7.99
-Motorola Edge 70 Plus,MOT-1302,Motorola,Phone,2026-09,,6.78in,162.7 x 75.7 x 8.5
-Motorola Edge 70 Neo,MOT-1303,Motorola,Phone,2026-10,,6.8in,162.7 x 75.7 x 8.49
+Motorola Edge 40 Neo,MOT-1252,Motorola,Phone,2023-09,XT2307-1,6.55in,159.6 x 72 x 7.9
+Motorola Edge (2023),MOT-1253,Motorola,Phone,2023-10,,6.6in,158.4 x 72 x 7.6
+Moto G34,MOT-1254,Motorola,Phone,2023-12,"XT2363-2, XT2363-3",6.5in,162.7 x 74.6 x 8
+Moto G04,MOT-1254,Motorola,Phone,2024-01,"XT2421-2, XT2421-3",6.56in,163.5 x 74.5 x 8
+Moto G24,MOT-1254,Motorola,Phone,2024-01,"XT2423-1, XT2423-3",6.56in,163.5 x 74.5 x 8
+Moto G24 Power,MOT-1254,Motorola,Phone,2024-01,,6.56in,163.5 x 74.5 x 9
+Moto G04s,MOT-1254,Motorola,Phone,2024-04,XT2421-8,6.56in,163.5 x 74.5 x 8
+Moto E14,MOT-1254,Motorola,Phone,2024-06,,6.56in,163.5 x 74.5 x 8
+Moto G45,MOT-1254,Motorola,Phone,2024-08,,6.5in,162.7 x 74.6 x 8
+Moto G Play (2024),MOT-1255,Motorola,Phone,2024-01,"XT2413-1, XT2413, XT2413V",6.5in,163.8 x 75 x 8.3
+Moto G (2024),MOT-1256,Motorola,Phone,2024-03,"XT2417-4, XT2417-1",6.6in,164.4 x 75 x 8.2
+Moto G Power (2024),MOT-1257,Motorola,Phone,2024-03,"XT2415-3, XT2415V",6.7in,167.2 x 76.4 x 8.5
+Motorola Edge 50 Pro,MOT-1258,Motorola,Phone,2024-04,XT2403-2,6.7in,161.2 x 72.4 x 8.2
+Motorola Edge 50 Ultra,MOT-1258,Motorola,Phone,2024-04,,6.7in,161.1 x 72.4 x 8.6
+Moto X50 Ultra,MOT-1258,Motorola,Phone,2024-05,XT2401-2,6.7in,161.1 x 72.4 x 8.6
+Motorola Edge 50 Fusion,MOT-1259,Motorola,Phone,2024-04,XT2429-1,6.7in,161.9 x 73.1 x 7.9
+Moto G85,MOT-1259,Motorola,Phone,2024-06,XT2427-3,6.67in,161.9 x 73.1 x 7.6
+Moto G Stylus 5G (2024),MOT-1260,Motorola,Phone,2024-05,"XT2419-2, XT2419-1, XT2419",6.7in,162.6 x 74.8 x 8.3
+Motorola Edge (2024),MOT-1261,Motorola,Phone,2024-06,"XT2405V, XT-2405V",6.6in,159.6 x 72 x 8.1
+Motorola S50 Neo,MOT-1262,Motorola,Phone,2024-06,XT2427-4,6.7in,161.9 x 73.1 x 7.6
+Motorola Razr 50,MOT-1263,Motorola,Phone,2024-06,XT2453-1,3.6in,88.1 x 74 x 15.9
+Motorola Razr 2024,MOT-1263,Motorola,Phone,2024-06,,3.6in,88.1 x 74 x 15.9
+Motorola Razr 2025,MOT-1263,Motorola,Phone,2025-04,,3.6in,88.1 x 74 x 15.9
+Motorola Razr 60,MOT-1263,Motorola,Phone,2025-04,XT2553-1,3.6in,88.1 x 74 x 15.9
+Motorola Razr 70,MOT-1263,Motorola,Phone,2026-04,"XT2657-1, XT2657-2",3.6in,88.1 x 74 x 15.9
+Motorola Razr 2026,MOT-1263,Motorola,Phone,2026-04,,3.6in,88.1 x 74 x 15.9
+Motorola Razr 50 Ultra,MOT-1264,Motorola,Phone,2024-06,XT2451-3,4in,88.1 x 74 x 15.3
+Motorola Razr+ 2024,MOT-1264,Motorola,Phone,2024-06,,4in,88.1 x 74 x 15.3
+Motorola Razr+ 2025,MOT-1264,Motorola,Phone,2025-04,XT2451-1,4in,88.1 x 74 x 15.3
+Motorola Razr+ 2026,MOT-1264,Motorola,Phone,2026-04,,4in,88.1 x 74 x 15.3
+Motorola Razr 70+,MOT-1264,Motorola,Phone,2026-04,XT2659-3,4in,88.1 x 74 x 15.3
+Motorola Edge 50,MOT-1265,Motorola,Phone,2024-08,XT2407-1,6.7in,160.8 x 72.4 x 7.8
+Moto G35,MOT-1266,Motorola,Phone,2024-08,XT2433-5,6.72in,166.3 x 76 x 7.8
+Moto G55,MOT-1267,Motorola,Phone,2024-08,XT2435-2,6.49in,161.6 x 73.8 x 8.1
+Motorola Edge 50 Neo,MOT-1268,Motorola,Phone,2024-08,XT2409-1,6.4in,154.1 x 71.2 x 8.1
+Motorola ThinkPhone 25,MOT-1268,Motorola,Phone,2024-10,XT2409-6,6.36in,154.1 x 71.2 x 8.1
+Motorola Edge 60 Neo,MOT-1268,Motorola,Phone,2025-09,XT2509-1,6.36in,154.1 x 71.2 x 8.1
+Moto S50,MOT-1269,Motorola,Phone,2024-09,XT2309-5,6.36in,154.1 x 71.2 x 8.1
+Moto G75,MOT-1270,Motorola,Phone,2024-10,"XT2437-2, XT2437-3",6.78in,166.1 x 77.2 x 8.3
+Moto G15,MOT-1271,Motorola,Phone,2024-12,XT2521-3,6.72in,165.7 x 76 x 8.2
+Moto G15 Power,MOT-1271,Motorola,Phone,2024-12,XT2521-5,6.72in,165.7 x 76 x 8.8
+Moto G05,MOT-1271,Motorola,Phone,2024-12,"XT2523-2, XT2523-3, XT2523-11",6.67in,165.7 x 76 x 8.2
+Moto E15,MOT-1271,Motorola,Phone,2024-12,"XT2523-6, XT2523-8",6.67in,165.7 x 76 x 8.2
+Moto G17 Power,MOT-1271,Motorola,Phone,2026-01,,6.72in,165.7 x 76 x 8.8
+Moto G17,MOT-1271,Motorola,Phone,2026-02,XT2623-2,6.72in,165.7 x 76 x 8.2
+Moto G (2025),MOT-1272,Motorola,Phone,2025-01,"XT2513V, T2513-1",6.7in,167.1 x 76.3 x 8.2
+Moto G Play (2026),MOT-1272,Motorola,Phone,2025-12,XT2615-1,6.7in,167.2 x 76.4 x 8.5
+Moto G (2026),MOT-1272,Motorola,Phone,2025-12,XT2613-1,6.7in,167.2 x 76.4 x 8.5
+Moto G Power (2025),MOT-1273,Motorola,Phone,2025-01,XT2515-1,6.8in,166.6 x 77.1 x 8.7
+Moto G Power (2026),MOT-1273,Motorola,Phone,2026-01,XT2617-1,6.8in,166.6 x 77.1 x 8.7
+Motorola Edge 60 Fusion,MOT-1274,Motorola,Phone,2025-03,XT2503-4,6.67in,161 x 73 x 8.0
+Motorola Edge 60s,MOT-1275,Motorola,Phone,2025-04,,6.67in,161.2 x 73.1 x 8.2
+Moto G Stylus 5G (2025),MOT-1276,Motorola,Phone,2025-04,XT2517-1,6.7in,162.2 x 74.8 x 8.3
+Motorola Edge 60 Stylus,MOT-1276,Motorola,Phone,2025-04,PB7S0000IN,6.7in,162.2 x 74.8 x 8.3
+Moto G Stylus (2026),MOT-1276,Motorola,Phone,2026-05,,6.7in,162.2 x 74.8 x 8.3
+Motorola Razr Ultra 2025,MOT-1277,Motorola,Phone,2025-04,,4in,88.1 x 74 x 15.7
+Motorola Razr 60 Ultra,MOT-1277,Motorola,Phone,2025-04,XT2551-6,4in,88.1 x 74 x 15.7
+Motorola Edge 60,MOT-1278,Motorola,Phone,2025-04,"XT2505-1, XT2505-4",6.67in,161.2 x 73.1 x 7.9
+Motorola Edge 60 Pro,MOT-1279,Motorola,Phone,2025-04,XT2507-1,6.7in,160.7 x 73.1 x 8.2
+Motorola Edge (2025),MOT-1280,Motorola,Phone,2025-05,XT2519,6.7in,161.2 x 73.1 x 8
+Moto G56,MOT-1281,Motorola,Phone,2025-06,"XT2529-2, XT2529-1",6.72in,165.8 x 76.3 x 8.4
+Moto G86,MOT-1282,Motorola,Phone,2025-06,XT2527-2,6.67in,161.2 x 74.7 x 7.8
+Moto G86 Power,MOT-1282,Motorola,Phone,2025-06,XT2527-7,6.67in,161.2 x 74.7 x 8.7
+Moto G96,MOT-1283,Motorola,Phone,2025-07,,6.67in,161.9 x 73.3 x 7.9
+Moto G06,MOT-1284,Motorola,Phone,2025-08,"XT2535-1, XT2535-2, XT2535-3, XT2535-14",6.88in,171.4 x 77.5 x 8.3
+Moto G06 Power,MOT-1284,Motorola,Phone,2025-08,XT2535-13,6.88in,171.4 x 77.5 x 8.8
+Motorola Edge 70,MOT-1285,Motorola,Phone,2025-11,XT2601-2,6.7in,159.9 x 74 x 6
+Moto G57,MOT-1286,Motorola,Phone,2025-11,XT2537-2,6.72in,166 x 76.5 x 8.6
+Motorola Signature,MOT-1287,Motorola,Phone,2026-01,XT2603-2,6.8in,162.1 x 76.4 x 7
+Moto G67,MOT-1288,Motorola,Phone,2026-01,XT2621-2,6.78in,164.2 x 77.4 x 7.3
+Moto G77,MOT-1288,Motorola,Phone,2026-01,XT2621-4,6.78in,164.2 x 77.4 x 7.3
+Moto G87,MOT-1288,Motorola,Phone,2026-03,XT2621-6,6.78in,164.5 x 77.3 x 7.3
+Moto G37,MOT-1289,Motorola,Phone,2026-03,,6.67in,166.2 x 76.5 x 7.8
+Moto G37 Power,MOT-1289,Motorola,Phone,2026-03,,6.67in,166.2 x 76.5 x 8.8
+Moto G47,MOT-1289,Motorola,Phone,2026-04,,6.67in,166.2 x 76.5 x 7.8
+Moto G Max,MOT-1290,Motorola,Phone,2026-03,,6.8in,164.5 x 77.3 x 7.3
+Motorola Edge 70 Fusion,MOT-1291,Motorola,Phone,2026-03,"XT2605-1, XT2605-2, XT2605-4",6.78in,162.8 x 75.6 x 7.2
+Motorola Edge 70 Fusion+,MOT-1292,Motorola,Phone,2026-03,,6.8in,162.8 x 75.6 x 7.2
+Motorola Razr 70 Ultra,MOT-1293,Motorola,Phone,2026-04,XT2655-1,4in,88.1 x 74 x 15.7
+Motorola Razr Ultra 2026,MOT-1293,Motorola,Phone,2026-04,,4in,88.1 x 74 x 15.7
+Motorola Razr Fold,MOT-1294,Motorola,Phone,2026-04,"XT2651, XT2651-1",6.6in,160.1 x 73.6 x 10.1
+Motorola Edge 70 Pro,MOT-1295,Motorola,Phone,2026-04,,6.78in,162.7 x 75.6 x 7.2
+Motorola Edge 70 Pro+,MOT-1295,Motorola,Phone,2026-06,,6.78in,162.7 x 75.6 x 7.2
+Motorola Edge (2026),MOT-1296,Motorola,Phone,2026-05,,6.3in,152.3 x 72 x 7.2
+Motorola Edge 70 Max,MOT-1297,Motorola,Phone,2026-07,,6.82in,164 x 77 x 8.3
+Moto G77 Power,MOT-1298,Motorola,Phone,2026-07,,6.72in,166.2 x 76.5 x 8.9
+Motorola Signature 27,MOT-1299,Motorola,Phone,2026-09,,6.78in,162.01 x 77.04 x 7.99
+Motorola Edge 70 Plus,MOT-1300,Motorola,Phone,2026-09,,6.78in,162.7 x 75.7 x 8.5
+Motorola Edge 70 Neo,MOT-1301,Motorola,Phone,2026-10,,6.8in,162.7 x 75.7 x 8.49
 Motorola XOOM MZ600,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9
 Motorola XOOM MZ601,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9
 Motorola XOOM MZ604,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9

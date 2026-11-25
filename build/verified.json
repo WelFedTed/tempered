@@ -10857,10 +10857,13 @@
    {
     "name": "PanzerGlass Ultra-Wide Fit (Home Screen)",
     "url": "https://homescreen.pl/en/1686-moto-edge-50-series"
+   },
+   {
+    "name": "PanzerGlass Screen Protector Motorola Edge 50 Pro | Ultra | Ultra-Wide Fit",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-50-pro-ultra-ultra-wide-fit"
    }
   ],
-  "note": "PanzerGlass Ultra-Wide Fit is listed for Edge 50 Pro and Edge 50 Ultra; curved screens, so test fit.",
-  "weak": true
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Edge 50 Pro and Edge 50 Ultra; both have curved screens."
  },
  {
   "models": [
@@ -16481,5 +16484,33 @@
    }
   ],
   "note": "Just In Case sells one tempered glass for the Oppo A38 and A18."
+ },
+ {
+  "models": [
+   "Moto G84",
+   "Moto G72"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Screen Protector Motorola moto g84 | g72 | Ultra-Wide Fit",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-moto-g84-g72-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Moto G84 and G72."
+ },
+ {
+  "models": [
+   "Honor 600",
+   "Honor 600 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE by PanzerGlass Ultra-Wide Fit (Honor 600, 600 Pro)",
+    "url": "https://shop.vb.net/en/PZGSA40446/mobile-phone-screen-protectors/panzerglass-safe-by-panzerglass-screen-protector-honor-600-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one SAFE glass for the Honor 600 and 600 Pro."
  }
 ]
