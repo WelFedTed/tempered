@@ -804,6 +804,9 @@
 "device": "Misc",
 "codes": [
 "M8541"
+],
+"screens": [
+"2in"
 ]
 },
 {
@@ -823,6 +826,9 @@
 "device": "Misc",
 "codes": [
 "A1019"
+],
+"screens": [
+"2in"
 ]
 },
 {
@@ -842,6 +848,9 @@
 "device": "Misc",
 "codes": [
 "A1040"
+],
+"screens": [
+"2in"
 ]
 },
 {
@@ -861,6 +870,12 @@
 "device": "Misc",
 "codes": [
 "A1051"
+],
+"screens": [
+"1.67in"
+],
+"dims": [
+"91 x 51 x 13 mm"
 ]
 },
 {
@@ -880,6 +895,9 @@
 "device": "Misc",
 "codes": [
 "A1059"
+],
+"screens": [
+"2in"
 ]
 },
 {
@@ -899,6 +917,9 @@
 "device": "Misc",
 "codes": [
 "A1099"
+],
+"screens": [
+"2in"
 ]
 },
 {
@@ -918,6 +939,12 @@
 "device": "Misc",
 "codes": [
 "A1137"
+],
+"screens": [
+"1.5in"
+],
+"dims": [
+"89 x 41 x 6.9 mm"
 ]
 },
 {
@@ -940,6 +967,10 @@
 "codes": [
 "A1238",
 "A1238"
+],
+"screens": [
+"2.5in",
+"2.5in"
 ]
 },
 {
@@ -959,6 +990,12 @@
 "device": "Misc",
 "codes": [
 "A1199"
+],
+"screens": [
+"1.5in"
+],
+"dims": [
+"89 x 41 x 6.6 mm"
 ]
 },
 {
@@ -978,6 +1015,12 @@
 "device": "Misc",
 "codes": [
 "A1236"
+],
+"screens": [
+"2in"
+],
+"dims": [
+"70 x 52 x 6.6 mm"
 ]
 },
 {
@@ -997,6 +1040,9 @@
 "device": "Misc",
 "codes": [
 "A1213"
+],
+"screens": [
+"3.5in"
 ]
 },
 {
@@ -1016,6 +1062,12 @@
 "device": "Misc",
 "codes": [
 "A1285"
+],
+"screens": [
+"2in"
+],
+"dims": [
+"91 x 38 x 6.1 mm"
 ]
 },
 {
@@ -1035,6 +1087,9 @@
 "device": "Misc",
 "codes": [
 "A1288, A1319"
+],
+"screens": [
+"3.5in"
 ]
 },
 {
@@ -1054,6 +1109,12 @@
 "device": "Misc",
 "codes": [
 "A1320"
+],
+"screens": [
+"2.2in"
+],
+"dims": [
+"91 x 38 x 6.1 mm"
 ]
 },
 {
@@ -1073,6 +1134,9 @@
 "device": "Misc",
 "codes": [
 "A1318"
+],
+"screens": [
+"3.5in"
 ]
 },
 {
@@ -1092,6 +1156,12 @@
 "device": "Misc",
 "codes": [
 "A1366"
+],
+"screens": [
+"1.55in"
+],
+"dims": [
+"41 x 37.5 x 8.78 mm"
 ]
 },
 {
@@ -1111,6 +1181,9 @@
 "device": "Misc",
 "codes": [
 "A1367"
+],
+"screens": [
+"3.5in"
 ]
 },
 {
@@ -1130,6 +1203,12 @@
 "device": "Misc",
 "codes": [
 "A1446"
+],
+"screens": [
+"2.5in"
+],
+"dims": [
+"76.5 x 39.6 x 5.4 mm"
 ]
 },
 {
@@ -1155,6 +1234,16 @@
 "A1509, A1421",
 "A1574",
 "A2178"
+],
+"screens": [
+"4in",
+"4in",
+"4in"
+],
+"dims": [
+"123.4 x 58.6 x 6.1 mm",
+"123.4 x 58.6 x 6.1 mm",
+"123.4 x 58.6 x 6.1 mm"
 ]
 },
 {
@@ -1229,11 +1318,11 @@
 ],
 "screens": [
 "3.5in",
-""
+"3.5in"
 ],
 "dims": [
 "115.2 x 58.6 x 9.3 mm",
-""
+"115.2 x 58.6 x 9.3 mm"
 ]
 },
 {
@@ -1267,13 +1356,13 @@
 "4.0in",
 "4.0in",
 "4.0in",
-""
+"4in"
 ],
 "dims": [
 "123.8 x 58.6 x 7.6 mm",
 "124.4 x 59.2 x 9 mm",
 "123.8 x 58.6 x 7.6 mm",
-""
+"123.8 x 58.6 x 7.6 mm"
 ]
 },
 {
@@ -1314,16 +1403,16 @@
 "4.7in",
 "4.7in",
 "4.7in",
-"",
-""
+"4.7in",
+"4.7in"
 ],
 "dims": [
 "138.1 x 67 x 6.9 mm",
 "138.3 x 67.1 x 7.1 mm",
 "138.3 x 67.1 x 7.1 mm",
 "138.4 x 67.3 x 7.3 mm",
-"",
-""
+"138.4 x 67.3 x 7.3 mm",
+"138.4 x 67.3 x 7.3 mm"
 ]
 },
 {
@@ -2024,6 +2113,12 @@
 "device": "Tablet",
 "codes": [
 "A1219, A1337"
+],
+"screens": [
+"9.7in"
+],
+"dims": [
+"243 x 190 x 13 mm"
 ]
 },
 {
@@ -2049,6 +2144,16 @@
 "A1395, A1396, A1397",
 "A1416, A1430, A1403",
 "A1458, A1459, A1460"
+],
+"screens": [
+"",
+"9.7in",
+"9.7in"
+],
+"dims": [
+"",
+"241.3 x 185.7 x 9.4 mm",
+"241 x 186 x 9.4 mm"
 ]
 },
 {
@@ -2076,12 +2181,12 @@
 "A1599, A1600, iPad4,7, iPad4,8, iPad4,9"
 ],
 "screens": [
-"",
+"7.9in",
 "7.9in",
 "7.9in"
 ],
 "dims": [
-"",
+"200 x 134.7 x 7.2 mm",
 "200 x 134.7 x 7.5 mm",
 "200 x 134.7 x 7.5 mm"
 ]
@@ -2119,16 +2224,16 @@
 "screens": [
 "9.7in",
 "9.7in",
-"",
-"",
-""
+"9.7in",
+"9.7in",
+"9.7in"
 ],
 "dims": [
 "240 x 169.5 x 7.5 mm",
 "240 x 169.5 x 6.1 mm",
-"",
-"",
-""
+"240 x 169.5 x 6.1 mm",
+"240 x 169.5 x 7.5 mm",
+"240 x 169.5 x 7.5 mm"
 ]
 },
 {
@@ -2151,6 +2256,14 @@
 "codes": [
 "A1538, A1550",
 "A2133, A2124, A2126, A2125"
+],
+"screens": [
+"7.9in",
+"7.9in"
+],
+"dims": [
+"203.2 x 134.8 x 6.1 mm",
+"203.2 x 134.8 x 6.1 mm"
 ]
 },
 {
@@ -2183,6 +2296,14 @@
 "codes": [
 "A1584, A1652",
 "A1670, A1671, A1821"
+],
+"screens": [
+"12.9in",
+"12.9in"
+],
+"dims": [
+"305.7 x 220.6 x 6.9 mm",
+"305.7 x 220.6 x 6.9 mm"
 ]
 },
 {
@@ -2214,6 +2335,20 @@
 "A2197, A2200, A2198",
 "A2270, A2428, A2429, A2430",
 "A2602, A2604, A2603, A2605"
+],
+"screens": [
+"10.5in",
+"10.5in",
+"10.2in",
+"10.2in",
+"10.2in"
+],
+"dims": [
+"250.6 x 174.1 x 6.1 mm",
+"250.6 x 174.1 x 6.1 mm",
+"250.6 x 174.1 x 7.5 mm",
+"250.6 x 174.1 x 7.5 mm",
+"250.6 x 174.1 x 7.5 mm"
 ]
 },
 {
@@ -2248,6 +2383,22 @@
 "A2377, A2459, A2301, A2460",
 "A2588, A2589, A2591",
 "A2759, A2761, A2435, A2762"
+],
+"screens": [
+"11in",
+"11in",
+"10.9in",
+"11in",
+"10.9in",
+"11in"
+],
+"dims": [
+"247.6 x 178.5 x 5.9 mm",
+"247.6 x 178.5 x 5.9 mm",
+"247.6 x 178.5 x 6.1 mm",
+"247.6 x 178.5 x 5.9 mm",
+"247.6 x 178.5 x 6.1 mm",
+"247.6 x 178.5 x 5.9 mm"
 ]
 },
 {
@@ -2276,6 +2427,18 @@
 "A2229, A2069, A2232, A2233",
 "A2378, A2461, A2379, A2462",
 "A2436, A2437, A2764, A2766"
+],
+"screens": [
+"12.9in",
+"12.9in",
+"12.9in",
+"12.9in"
+],
+"dims": [
+"280.6 x 214.9 x 5.9 mm",
+"280.6 x 214.9 x 5.9 mm",
+"280.6 x 214.9 x 6.4 mm",
+"280.6 x 214.9 x 6.4 mm"
 ]
 },
 {
@@ -2298,6 +2461,14 @@
 "codes": [
 "A2567, A2568, A2569",
 "A2993, A2995, A2996"
+],
+"screens": [
+"8.3in",
+"8.3in"
+],
+"dims": [
+"195.4 x 134.8 x 6.3 mm",
+"195.4 x 134.8 x 6.3 mm"
 ]
 },
 {
@@ -2320,6 +2491,14 @@
 "codes": [
 "A2696, A2757, A2777, A3162",
 "A3354, A3355, A3356"
+],
+"screens": [
+"10.9in",
+"11in"
+],
+"dims": [
+"248.6 x 179.5 x 7 mm",
+"248.6 x 179.5 x 7 mm"
 ]
 },
 {
@@ -2345,6 +2524,16 @@
 "A2902, A2903, A2904",
 "A3266, A3267, A3270",
 "A3459, A3460, A3463"
+],
+"screens": [
+"11in",
+"11in",
+"11in"
+],
+"dims": [
+"247.6 x 178.5 x 6.1 mm",
+"247.6 x 178.5 x 6.1 mm",
+"247.6 x 178.5 x 6.1 mm"
 ]
 },
 {
@@ -2380,6 +2569,16 @@
 "A2898, A2899, A2900",
 "A3268, A3269, A3271",
 "A3461, A3462, A3464"
+],
+"screens": [
+"13in",
+"13in",
+"13in"
+],
+"dims": [
+"280.6 x 214.9 x 6.1 mm",
+"280.6 x 214.9 x 6.1 mm",
+"280.6 x 214.9 x 6.1 mm"
 ]
 },
 {
@@ -2402,6 +2601,14 @@
 "codes": [
 "A2836, A2837, A3006",
 "A3357, A3358, A3359"
+],
+"screens": [
+"11in",
+"11in"
+],
+"dims": [
+"249.7 x 177.5 x 5.3 mm",
+"249.7 x 177.5 x 5.3 mm"
 ]
 },
 {
@@ -2434,6 +2641,14 @@
 "codes": [
 "A2925, A2926, A3007",
 "A3360, A3361, A3362"
+],
+"screens": [
+"13in",
+"13in"
+],
+"dims": [
+"281.6 x 215.5 x 5.1 mm",
+"281.6 x 215.5 x 5.1 mm"
 ]
 },
 {
@@ -2459,6 +2674,12 @@
 ],
 "codes": [
 "A3595, A3596, A3597"
+],
+"screens": [
+"8.5in"
+],
+"dims": [
+"195.3 x 132.6 x 5.4 mm"
 ]
 },
 {
@@ -2487,6 +2708,18 @@
 "A1802",
 "A1757, A1816",
 "A1858, A1860, A1889, A1890"
+],
+"screens": [
+"",
+"",
+"1.5in",
+""
+],
+"dims": [
+"",
+"38 x 33.3 x 10.5 mm",
+"38.6 x 33.3 x 11.4 mm",
+"38 x 33.3 x 11.4 mm"
 ]
 },
 {
@@ -2515,6 +2748,18 @@
 "A1803",
 "A1758, A1817",
 "A1859, A1861, A1891, A1892"
+],
+"screens": [
+"",
+"",
+"1.65in",
+""
+],
+"dims": [
+"",
+"42 x 36.4 x 10.5 mm",
+"42.5 x 36.4 x 11.4 mm",
+"42 x 36.4 x 11.4 mm"
 ]
 },
 {
@@ -2546,6 +2791,13 @@
 "A2291, A2293, A2375",
 "A2351, A2353, A2355",
 "A2722, A2726, A2725, A2855"
+],
+"dims": [
+"40 x 34 x 10.7 mm",
+"40 x 34 x 10.74 mm",
+"40 x 34 x 10.7 mm",
+"40 x 34 x 10.7 mm",
+"40 x 34 x 10.7 mm"
 ]
 },
 {
@@ -2577,6 +2829,13 @@
 "A2292, A2294, A2376",
 "A2352, A2354, A2356",
 "A2723, A2727, A2724, A2856"
+],
+"dims": [
+"44 x 38 x 10.7 mm",
+"44 x 38 x 10.74 mm",
+"44 x 38 x 10.7 mm",
+"44 x 38 x 10.7 mm",
+"44 x 38 x 10.7 mm"
 ]
 },
 {
@@ -2602,6 +2861,11 @@
 "A2473, A2475, A2476",
 "A2770, A2772, A2773, A2857",
 "A2978, A2982, A2983"
+],
+"dims": [
+"41 x 35 x 10.7 mm",
+"41 x 35 x 10.7 mm",
+"41 x 35 x 10.7 mm"
 ]
 },
 {
@@ -2627,6 +2891,11 @@
 "A2474, A2477, A2478",
 "A2771, A2774, A2775, A2858",
 "A2980, A2984, A2985"
+],
+"dims": [
+"45 x 38 x 10.7 mm",
+"45 x 38 x 10.7 mm",
+"45 x 38 x 10.7 mm"
 ]
 },
 {
@@ -2665,6 +2934,12 @@
 "A2986, A2987",
 "A3281, A3282",
 "A3579, A3580"
+],
+"dims": [
+"49 x 44 x 12 mm",
+"49 x 44 x 12 mm",
+"49 x 44 x 12 mm",
+"49 x 44 x 12 mm"
 ]
 },
 {
@@ -2687,6 +2962,10 @@
 "codes": [
 "A2997, A2998, A3001, A3002",
 "A3331, A3450, A3335, A3452"
+],
+"dims": [
+"42 x 36 x 9.7 mm",
+"42 x 36 x 9.7 mm"
 ]
 },
 {
@@ -2709,6 +2988,10 @@
 "codes": [
 "A2999, A3000, A3003, A3206",
 "A3333, A3451, A3337, A3453"
+],
+"dims": [
+"46 x 39 x 9.7 mm",
+"46 x 39 x 9.7 mm"
 ]
 },
 {
@@ -2728,6 +3011,9 @@
 "device": "Wearable",
 "codes": [
 "A3324, A3391, A3326, A3327"
+],
+"dims": [
+"40 x 34 x 10.7 mm"
 ]
 },
 {
@@ -2747,6 +3033,9 @@
 "device": "Wearable",
 "codes": [
 "A3325, A3392, A3328, A3329"
+],
+"dims": [
+"44 x 38 x 10.7 mm"
 ]
 },
 {
@@ -2766,6 +3055,9 @@
 "device": "Wearable",
 "codes": [
 "A3581, A3583, A3582, A3586"
+],
+"dims": [
+"42 x 37 x 9.7 mm"
 ]
 },
 {
@@ -2785,6 +3077,9 @@
 "device": "Wearable",
 "codes": [
 "A3584, A3585, A3587, A3588"
+],
+"dims": [
+"46 x 40 x 9.7 mm"
 ]
 },
 {
@@ -11928,6 +12223,14 @@
 "SM-F900F, SM-F9000, SM-F900W, SM-F900U, SM-F900N, SM-F900U1",
 "SM-F907F, SM-F9007, SM-F907W, SM-F907U, SM-F907B, SM-F907N"
 ],
+"screens": [
+"4.6in",
+"4.6in"
+],
+"dims": [
+"160.9 x 62.9 x 15.5 mm",
+"160.9 x 62.9 x 15.5 mm"
+],
 "tags": [
 "cover"
 ]
@@ -12650,6 +12953,14 @@
 "SM-F700, SM-F700F, SM-F700F/DS, SM-F700U/DS, SM-F700U1/DS, SM-F700N, M-F7000, SM-F700W/DS, SM-F700U1",
 "SM-F707B, SM-F707N, SM-F7070, SM-F707U, SM-F707U1, SM-F707W"
 ],
+"screens": [
+"1.1in",
+"1.1in"
+],
+"dims": [
+"87.4 x 73.6 x 17.3 mm",
+"87.4 x 73.6 x 17.3 mm"
+],
 "tags": [
 "cover"
 ]
@@ -13212,6 +13523,12 @@
 "device": "Phone",
 "codes": [
 "SM-F916B, SM-F916U, SM-F916U1, SM-F916N, SM-F9160, SM-F916W, SCG05"
+],
+"screens": [
+"6.23in"
+],
+"dims": [
+"159.2 x 68 x 13.8 mm"
 ],
 "tags": [
 "cover"
@@ -14047,6 +14364,12 @@
 "codes": [
 "SM-F711B, SM-F711N, SM-F711U, SM-F711U1, SM-F711W, SM-F7110"
 ],
+"screens": [
+"1.9in"
+],
+"dims": [
+"86.4 x 72.2 x 15.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -14068,6 +14391,12 @@
 "device": "Phone",
 "codes": [
 "SM-F926B, SM-F926B/DS, SM-F926U, SM-F926U1, SM-F926W, SM-F9260, SM-F926N"
+],
+"screens": [
+"6.2in"
+],
+"dims": [
+"158.2 x 67.1 x 14.4 mm"
 ],
 "tags": [
 "cover"
@@ -14588,6 +14917,12 @@
 "codes": [
 "SM-F721B, SM-F721B/DS, SM-F721N, SM-F721U, SM-F721U1, SM-F721W, SM-F7210"
 ],
+"screens": [
+"1.9in"
+],
+"dims": [
+"84.9 x 71.9 x 15.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -14609,6 +14944,12 @@
 "device": "Phone",
 "codes": [
 "SM-F936B, SM-F936B/DS, SM-F936U, SM-F936U1, SM-F936N, SM-F936W, SM-F9360"
+],
+"screens": [
+"6.2in"
+],
+"dims": [
+"155.1 x 67.1 x 14.2 mm"
 ],
 "tags": [
 "cover"
@@ -15068,6 +15409,16 @@
 "SM-F741B, SM-F741B/DS, SM-F741U, SM-F741U1, SM-F741W, SM-F741N",
 "SM-F761B, SM-F761B/DS, SM-F761U1, SM-F761U"
 ],
+"screens": [
+"3.4in",
+"3.4in",
+""
+],
+"dims": [
+"85.1 x 71.9 x 15.1 mm",
+"85.1 x 71.9 x 14.9 mm",
+"85.1 x 71.9 x 14.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -15089,6 +15440,12 @@
 "device": "Phone",
 "codes": [
 "SM-F946B, SM-F946B/DS, SM-F946U, SM-F946U1, SM-F946N, SM-F946W, SM-F9460"
+],
+"screens": [
+"6.2in"
+],
+"dims": [
+"154.9 x 67.1 x 13.4 mm"
 ],
 "tags": [
 "cover"
@@ -15454,6 +15811,12 @@
 "codes": [
 "SM-F956B, SM-F956B/DS, SM-F956U, SM-F956U1, SM-F956N, SM-F956W, SM-F9560"
 ],
+"screens": [
+"6.3in"
+],
+"dims": [
+"153.5 x 68.1 x 12.1 mm"
+],
 "tags": [
 "cover"
 ]
@@ -15725,6 +16088,12 @@
 "codes": [
 "SM-F958N"
 ],
+"screens": [
+"6.5in"
+],
+"dims": [
+"157.9 x 72.8 x 10.6 mm"
+],
 "tags": [
 "cover"
 ]
@@ -15949,6 +16318,9 @@
 "codes": [
 "SM-F966B, SM-F966B/DS, SM-F966U, SM-F966U1"
 ],
+"dims": [
+"158.4 x 72.8 x 8.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -15981,6 +16353,9 @@
 "codes": [
 "SM-F766B, SM-F766B/DS, SM-F766U, SM-F766U1"
 ],
+"dims": [
+"85.5 x 75.2 x 13.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -16002,6 +16377,12 @@
 "device": "Phone",
 "codes": [
 "SM-F968B, SM-F968B/DS, SM-D639B, SM-D639B/DS, SM-D639U, SM-D639U1, SM-D639N, SM-D6390"
+],
+"screens": [
+"6.5in"
+],
+"dims": [
+"159.2 x 75 x 12.9 mm"
 ],
 "tags": [
 "cover"
@@ -16156,6 +16537,9 @@
 "codes": [
 "SM-F971B, SM-F971B/DS, SM-F971U, SM-F971U1"
 ],
+"dims": [
+"81.9 x 123.9 x 9.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -16184,6 +16568,9 @@
 "codes": [
 "SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1"
 ],
+"dims": [
+"158.4 x 72.8 x 8.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -16205,6 +16592,9 @@
 "device": "Phone",
 "codes": [
 "SM-F776B, SM-F776B/DS, SM-F776U, SM-F776U1"
+],
+"dims": [
+"85.7 x 75.4 x 13.1 mm"
 ],
 "tags": [
 "cover"
@@ -18471,7 +18861,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.84in"
+],
+"dims": [
+"57.4 x 23.4 x 11.95 mm"
+]
 },
 {
 "id": "SAM-3005",
@@ -18721,6 +19117,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"45.7 x 41.9 x 12.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18740,6 +19142,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"49 x 46 x 13 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18759,6 +19167,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0006 (28mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.1in"
+],
+"dims": [
+"39.5 x 39.5 x 10.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18793,7 +19207,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.95in"
+],
+"dims": [
+"44.6 x 18.3 x 11.2 mm"
+]
 },
 {
 "id": "SAM-3018",
@@ -18812,6 +19232,14 @@
 "check": "Check",
 "note": "Variants of one model (region, carrier or connectivity): check fit. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"40 x 40 x 10.9 mm",
+"40 x 40 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18833,6 +19261,14 @@
 "check": "Check",
 "note": "Variants of one model (region, carrier or connectivity): check fit. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in",
+"1.4in"
+],
+"dims": [
+"44 x 44 x 10.9 mm",
+"44 x 44 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18852,6 +19288,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42.5 x 41.0 x 11.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18871,6 +19313,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"46.2 x 45.0 x 11.1 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18916,6 +19364,12 @@
 "https://www.flipkart.com/ohayo-tempered-glass-guard-samsung-watch-4-5-6-7-40mm-fe-40mm/p/itm17f9572ca5b75"
 ]
 ],
+"screens": [
+"1.19in"
+],
+"dims": [
+"40.4 x 39.3 x 9.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18951,6 +19405,14 @@
 "https://www.flipkart.com/tshientt-edge-tempered-glass-tshientt-military-grade-gorilla-samsung-galaxy-watch-4-5-6-7-8-9-44mm-1-4-inch-friendly-scratch-resistant-hd-clarity-bubble-free/p/itmc2e613736d5bb"
 ]
 ],
+"screens": [
+"1.36in",
+"1.36in"
+],
+"dims": [
+"44.4 x 43.3 x 9.8 mm",
+"44.4 x 43.3 x 9.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18970,6 +19432,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.19in"
+],
+"dims": [
+"41.5 x 41.5 x 11.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -18989,6 +19457,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.36in"
+],
+"dims": [
+"45.5 x 45.5 x 11.0 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19018,6 +19492,12 @@
 "https://www.flipkart.com/ohayo-tempered-glass-guard-samsung-watch-4-5-6-7-40mm-fe-40mm/p/itm17f9572ca5b75"
 ]
 ],
+"screens": [
+"1.19in"
+],
+"dims": [
+"40.4 x 39.3 x 9.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19037,6 +19517,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.36in"
+],
+"dims": [
+"45.4 x 45.4 x 10.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19065,6 +19551,12 @@
 "Flipkart OHAYO (Watch 4/5/6/7 40mm / FE 40mm)",
 "https://www.flipkart.com/ohayo-tempered-glass-guard-samsung-watch-4-5-6-7-40mm-fe-40mm/p/itm17f9572ca5b75"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"40.4 x 38.8 x 9.0 mm"
 ],
 "tags": [
 "measure"
@@ -19101,6 +19593,14 @@
 "https://www.flipkart.com/tshientt-edge-tempered-glass-tshientt-military-grade-gorilla-samsung-galaxy-watch-4-5-6-7-8-9-44mm-1-4-inch-friendly-scratch-resistant-hd-clarity-bubble-free/p/itmc2e613736d5bb"
 ]
 ],
+"screens": [
+"1.5in",
+"1.5in"
+],
+"dims": [
+"44.4 x 42.8 x 9.0 mm",
+"44.4 x 44.4 x 9.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19120,6 +19620,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"42.5 x 42.5 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19139,6 +19645,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"46.5 x 46.5 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19184,6 +19696,12 @@
 "https://www.flipkart.com/ohayo-tempered-glass-guard-samsung-watch-4-5-6-7-40mm-fe-40mm/p/itm17f9572ca5b75"
 ]
 ],
+"screens": [
+"1.2in"
+],
+"dims": [
+"40.4 x 39.3 x 9.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19212,6 +19730,12 @@
 "Flipkart OHAYO (Watch 4/5/6/7 40mm / FE 40mm)",
 "https://www.flipkart.com/ohayo-tempered-glass-guard-samsung-watch-4-5-6-7-40mm-fe-40mm/p/itm17f9572ca5b75"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"40.4 x 40.4 x 9.7 mm"
 ],
 "tags": [
 "measure"
@@ -19267,6 +19791,12 @@
 "https://www.flipkart.com/diamondvisions-tempered-glass-guard-samsung-galaxy-watch-4-5-6-7-8-fe-for-40mm/p/itmb2168573c04f0"
 ]
 ],
+"screens": [
+"1.34in"
+],
+"dims": [
+"42.7 x 40.4 x 8.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19286,6 +19816,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"46.0 x 43.7 x 8.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19305,6 +19841,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"46.4 x 46.0 x 10.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -19393,7 +19935,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"3.7in"
+],
+"dims": [
+"119 x 59.8 x 11.5 mm"
+]
 },
 {
 "id": "GOO-1002",
@@ -19409,7 +19957,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"4in"
+],
+"dims": [
+"123.9 x 63 x 10.9 mm"
+]
 },
 {
 "id": "GOO-1003",
@@ -19425,7 +19979,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"4.65in"
+],
+"dims": [
+"135.5 x 67.9 x 8.9 mm"
+]
 },
 {
 "id": "GOO-1004",
@@ -19441,7 +20001,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"4.7in"
+],
+"dims": [
+"133.9 x 68.7 x 9.1 mm"
+]
 },
 {
 "id": "GOO-1005",
@@ -19457,7 +20023,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"4.95in"
+],
+"dims": [
+"137.9 x 69.2 x 8.6 mm"
+]
 },
 {
 "id": "GOO-1006",
@@ -19473,7 +20045,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"5.96in"
+],
+"dims": [
+"159.3 x 83 x 10.1 mm"
+]
 },
 {
 "id": "GOO-1007",
@@ -19489,7 +20067,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"5.2in"
+],
+"dims": [
+"147 x 72.6 x 7.9 mm"
+]
 },
 {
 "id": "GOO-1008",
@@ -19505,7 +20089,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"5.7in"
+],
+"dims": [
+"159.3 x 77.8 x 7.3 mm"
+]
 },
 {
 "id": "GOO-1009",
@@ -19840,7 +20430,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.34in"
+],
+"dims": [
+"156.2 x 73.2 x 8.8 mm"
+]
 },
 {
 "id": "GOO-1023",
@@ -20045,6 +20641,12 @@
 "device": "Phone",
 "codes": [
 "G9FPL"
+],
+"screens": [
+"5.8in"
+],
+"dims": [
+"139.7 x 79.5 x 12.1 mm"
 ],
 "tags": [
 "cover"
@@ -20259,6 +20861,12 @@
 "codes": [
 "GGH2X, GC15S"
 ],
+"screens": [
+"6.3in"
+],
+"dims": [
+"155.2 x 77.1 x 10.5 mm"
+],
 "tags": [
 "cover"
 ]
@@ -20322,6 +20930,12 @@
 "codes": [
 "GU0NP, GM66V"
 ],
+"screens": [
+"6.4in"
+],
+"dims": [
+"155.2 x 76.3 x 10.8 mm"
+],
 "tags": [
 "cover"
 ]
@@ -20377,7 +20991,15 @@
 ],
 "check": "Confirmed",
 "note": "Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.3in",
+"6.3in"
+],
+"dims": [
+"152.8 x 72 x 8.6 mm",
+"152.7 x 71.9 x 8.4 mm"
+]
 },
 {
 "id": "GOO-1040",
@@ -20393,7 +21015,13 @@
 ],
 "check": "Confirmed",
 "note": "Case-Mate, Mous, dbrand sell it separately from 11/11 Pro",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.8in"
+],
+"dims": [
+"162.7 x 76.5 x 8.5 mm"
+]
 },
 {
 "id": "GOO-1041",
@@ -20420,6 +21048,12 @@
 "https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-fold-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear"
 ]
 ],
+"screens": [
+"6.5in"
+],
+"dims": [
+"155.2 x 76 x 10.1 mm"
+],
 "tags": [
 "cover"
 ]
@@ -20438,7 +21072,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"198.5 x 120 x 10.5 mm"
+]
 },
 {
 "id": "GOO-2002",
@@ -20454,7 +21094,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.1in"
+],
+"dims": [
+"263.9 x 177.6 x 8.9 mm"
+]
 },
 {
 "id": "GOO-2003",
@@ -20470,7 +21116,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"200 x 114 x 8.7 mm"
+]
 },
 {
 "id": "GOO-2004",
@@ -20486,7 +21138,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"8.9in"
+],
+"dims": [
+"228.2 x 153.7 x 8 mm"
+]
 },
 {
 "id": "GOO-2005",
@@ -20524,7 +21182,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"12.3in"
+],
+"dims": [
+"290.85 x 202.04 x 7.0 mm"
+]
 },
 {
 "id": "GOO-2007",
@@ -20739,7 +21403,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.42in"
+],
+"dims": [
+"38.59 x 38.59 x 12.2 mm"
+]
 },
 {
 "id": "GOO-3012",
@@ -20755,7 +21425,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"39.36 x 37.65 x 11.2 mm"
+]
 },
 {
 "id": "GOO-3013",
@@ -20789,7 +21465,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"35.8 x 22.7 x 11.8 mm",
+"42.7 x 28.8 x 12.5 mm"
+]
 },
 {
 "id": "GOO-3015",
@@ -20807,7 +21487,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"37 x 16.2 x 12.3 mm",
+"37 x 16.2 x 12.6 mm"
+]
 },
 {
 "id": "GOO-3016",
@@ -20823,7 +21507,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"39.36 x 37.65 x 11.2 mm"
+]
 },
 {
 "id": "GOO-3017",
@@ -20861,6 +21551,12 @@
 "Flipkart (SmartLike, ARBAN, DB)",
 "https://www.flipkart.com/search?q=fitbit+tempered+glass"
 ]
+],
+"screens": [
+"1.4in"
+],
+"dims": [
+"40 x 40 x 12.14 mm"
 ]
 },
 {
@@ -20901,6 +21597,18 @@
 "PanzerGlass",
 "https://panzerglass.com/products/panzerglass%E2%84%A2-fitbit-versa-4-versa-3-sense-screen-protector-glass"
 ]
+],
+"screens": [
+"1.58in",
+"1.58in",
+"1.58in",
+""
+],
+"dims": [
+"40.48 x 40.48 x 12.35 mm",
+"40.48 x 40.48 x 12.35 mm",
+"40.5 x 40.5 x 11.2 mm",
+""
 ]
 },
 {
@@ -20917,7 +21625,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"37 x 16.8 x 12.9 mm"
+]
 },
 {
 "id": "GOO-3021",
@@ -20933,7 +21644,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.72in"
+],
+"dims": [
+"37.33 x 16.76 x 12.7 mm"
+]
 },
 {
 "id": "GOO-3022",
@@ -20955,6 +21672,12 @@
 "Flipkart (FINCH)",
 "https://www.flipkart.com/search?q=fitbit+tempered+glass"
 ]
+],
+"screens": [
+"0.76in"
+],
+"dims": [
+"33.5 x 17.5 x 10.1 mm"
 ]
 },
 {
@@ -20983,6 +21706,14 @@
 "Digitec (PanzerGlass)",
 "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-fitbit-charge-6-5-smart-watch-accessories-49737906"
 ]
+],
+"screens": [
+"1.04in",
+"1.04in"
+],
+"dims": [
+"36.78 x 22.79 x 11.2 mm",
+"36.73 x 23.09 x 11.2 mm"
 ]
 },
 {
@@ -20999,7 +21730,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"39.32 x 18.6 x 11.75 mm"
+]
 },
 {
 "id": "GOO-3025",
@@ -21015,7 +21752,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"41 x 41 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3026",
@@ -21031,7 +21771,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3027",
@@ -21047,7 +21793,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"41.04 x 44.89 x 13.35 mm"
+]
 },
 {
 "id": "GOO-3028",
@@ -21063,7 +21812,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3029",
@@ -21079,7 +21834,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3030",
@@ -21095,7 +21856,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3031",
@@ -21111,7 +21878,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3032",
@@ -21127,7 +21900,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3033",
@@ -21143,7 +21922,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12.3 mm"
+]
 },
 {
 "id": "GOO-3034",
@@ -24812,13 +25597,19 @@
 "2021-12"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "PEUM00"
 ],
 "screens": [
-"7.1in"
+"5.49in"
+],
+"dims": [
+"132.6 x 73 x 15.9 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -24982,6 +25773,9 @@
 ],
 "screens": [
 "6.7in"
+],
+"dims": [
+"163.7 x 73.9 x 8.5 mm"
 ]
 },
 {
@@ -25466,13 +26260,19 @@
 "2022-12"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "PGU110"
 ],
 "screens": [
-"7.1in"
+"5.54in"
+],
+"dims": [
+"132.2 x 72.6 x 14.6 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -25492,6 +26292,12 @@
 "device": "Phone",
 "codes": [
 "CPH2437, PGT110"
+],
+"screens": [
+"3.26in"
+],
+"dims": [
+"85.5 x 75.2 x 16 mm"
 ],
 "tags": [
 "cover"
@@ -25818,6 +26624,12 @@
 "device": "Phone",
 "codes": [
 "PHT110, CPH2519"
+],
+"screens": [
+"3.26in"
+],
+"dims": [
+"85.5 x 75.8 x 16.5 mm"
 ],
 "tags": [
 "cover"
@@ -26638,13 +27450,19 @@
 "2025-02"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "CPH2671, PKH110, PKH120"
 ],
 "screens": [
-"8.12in"
+"6.62in"
+],
+"dims": [
+"160.9 x 74.4 x 8.9 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -27336,13 +28154,19 @@
 "2026-02"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "PLP110, PLP120"
 ],
 "screens": [
-"8.12in"
+"6.62in"
+],
+"dims": [
+"159.9 x 74.1 x 8.9 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -29441,6 +30265,14 @@
 "CPH2551",
 "CPH2499, PHN110"
 ],
+"screens": [
+"6.31in",
+"6.31in"
+],
+"dims": [
+"153.4 x 73.3 x 11.7 mm",
+"153.4 x 73.3 x 11.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -29581,6 +30413,9 @@
 ],
 "screens": [
 "6.78in"
+],
+"dims": [
+"163.3 x 75.3 x 8.7 mm"
 ]
 },
 {
@@ -31450,13 +32285,13 @@
 "2013-02"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"3.5in"
+],
 "dims": [
 "114 x 62 x 12.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -31977,13 +32812,13 @@
 "2014-02"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"3.5in"
+],
 "dims": [
 "118 x 61 x 10.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -31999,13 +32834,13 @@
 "2014-02"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"4.0in"
+],
 "dims": [
 "126 x 64.7 x 10.8 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -32668,14 +33503,15 @@
 "2015-06"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"note": "Same body size and screen specs: test before swapping",
 "device": "Phone",
+"screens": [
+"5.0in",
+"5.0in"
+],
 "dims": [
 "145.5 x 72.8 x 9.4 mm",
 "145.5 x 72.8 x 9.4 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -34707,7 +35543,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.0in"
+],
+"dims": [
+"158.1 x 74.9 x 9.5 mm"
+]
 },
 {
 "id": "ZTE-1187",
@@ -34798,7 +35640,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.0in"
+],
+"dims": [
+"158.2 x 75 x 9.9 mm"
+]
 },
 {
 "id": "ZTE-1191",
@@ -35012,7 +35860,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.65in"
+],
+"dims": [
+"171.7 x 78.5 x 9.7 mm"
+]
 },
 {
 "id": "ZTE-1199",
@@ -35100,7 +35954,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.65in"
+],
+"dims": [
+"171.7 x 78.5 x 9.7 mm"
+]
 },
 {
 "id": "ZTE-1203",
@@ -35250,6 +36110,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/285637389356"
 ]
+],
+"screens": [
+"6.65in"
+],
+"dims": [
+"168.6 x 78 x 9.8 mm"
 ]
 },
 {
@@ -35367,7 +36233,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.65in"
+],
+"dims": [
+"171.7 x 78.5 x 9.1 mm"
+]
 },
 {
 "id": "ZTE-1214",
@@ -35415,6 +36287,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/285637389356"
 ]
+],
+"screens": [
+"6.65in"
+],
+"dims": [
+"168.6 x 78 x 9.8 mm"
 ]
 },
 {
@@ -35683,6 +36561,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/285637389356"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"169.9 x 77.2 x 9.7 mm"
 ]
 },
 {
@@ -35709,6 +36593,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/285637389356"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"169.9 x 77.2 x 9.7 mm"
 ]
 },
 {
@@ -35897,7 +36787,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.67in"
+],
+"dims": [
+"163 x 75.3 x 7.8 mm"
+]
 },
 {
 "id": "ZTE-1236",
@@ -36077,7 +36973,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.8in"
+],
+"dims": [
+"169.9 x 77.2 x 9.5 mm"
+]
 },
 {
 "id": "ZTE-1243",
@@ -36103,6 +37005,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/285637389356"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"169.9 x 77.2 x 9.5 mm"
 ]
 },
 {
@@ -36282,6 +37190,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/144442880694"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"170.6 x 78.3 x 9.5 mm"
 ]
 },
 {
@@ -36304,6 +37218,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/144442880694"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"166.3 x 77.1 x 10 mm"
 ]
 },
 {
@@ -36566,7 +37486,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.8in"
+],
+"dims": [
+"170.6 x 78.3 x 9.5 mm"
+]
 },
 {
 "id": "ZTE-1263",
@@ -36582,7 +37508,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.8in"
+],
+"dims": [
+"166.3 x 77.1 x 10 mm"
+]
 },
 {
 "id": "ZTE-1264",
@@ -36755,6 +37687,18 @@
 "3MK",
 "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nubia-red-magic-8-pro-8-pro-plus-8s-pro-3mk-flexibleglass"
 ]
+],
+"screens": [
+"6.8in",
+"",
+"6.8in",
+"6.8in"
+],
+"dims": [
+"164 x 76.4 x 8.9 mm",
+"",
+"164 x 76.4 x 9.5 mm",
+"164 x 76.4 x 8.9 mm"
 ]
 },
 {
@@ -37121,6 +38065,18 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/355229562393"
 ]
+],
+"screens": [
+"6.8in",
+"",
+"6.8in",
+""
+],
+"dims": [
+"164 x 76.4 x 8.9 mm",
+"",
+"164 x 76.4 x 8.9 mm",
+""
 ]
 },
 {
@@ -37190,6 +38146,12 @@
 "check": "Check",
 "note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"screens": [
+"1.43in"
+],
+"dims": [
+"87.6 x 75.5 x 15 mm"
+],
 "tags": [
 "cover"
 ]
@@ -37414,7 +38376,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.52in"
+],
+"dims": [
+"165.5 x 75.8 x 9.07 mm"
+]
 },
 {
 "id": "ZTE-1296",
@@ -37483,7 +38451,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.7in"
+],
+"dims": [
+"165.5 x 76.2 x 8.3 mm"
+]
 },
 {
 "id": "ZTE-1299",
@@ -37583,6 +38557,14 @@
 "REDMAGIC official store",
 "https://global.redmagic.gg/products/redmagic-10-air-screen-protector"
 ]
+],
+"screens": [
+"6.85in",
+"6.85in"
+],
+"dims": [
+"163.4 x 76.1 x 8.9 mm",
+"163.4 x 76.1 x 8.9 mm"
 ]
 },
 {
@@ -37625,6 +38607,9 @@
 "check": "Check",
 "note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"dims": [
+"87 x 76 x 15.8 mm"
+],
 "tags": [
 "cover"
 ]
@@ -37712,7 +38697,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.6in"
+],
+"dims": [
+"163.6 x 74.9 x 8.95 mm"
+]
 },
 {
 "id": "ZTE-1308",
@@ -37746,6 +38737,12 @@
 "eBay.de seller",
 "https://www.ebay.de/itm/355229562393"
 ]
+],
+"screens": [
+"6.8in"
+],
+"dims": [
+"164.3 x 76.6 x 7.9 mm"
 ]
 },
 {
@@ -37874,6 +38871,12 @@
 "REDMAGIC official store",
 "https://na.redmagic.com/products/redmagic-10-series-screen-protector"
 ]
+],
+"screens": [
+"6.85in"
+],
+"dims": [
+"163.4 x 76.1 x 8.9 mm"
 ]
 },
 {
@@ -37959,7 +38962,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.75in"
+],
+"dims": [
+"167.74 x 77.44 x 8.8 mm"
+]
 },
 {
 "id": "ZTE-1318",
@@ -38091,7 +39100,7 @@
 ""
 ],
 "screens": [
-"",
+"6.85in",
 "6.85in",
 "6.85in",
 "6.85in",
@@ -38099,7 +39108,7 @@
 "6.85in"
 ],
 "dims": [
-"",
+"163.82 x 76.54 x 8.9 mm",
 "163.8 x 76.5 x 8.9 mm",
 "163.8 x 76.5 x 8.9 mm",
 "163.8 x 76.5 x 8.9 mm",
@@ -38158,6 +39167,9 @@
 ],
 "screens": [
 "6.75in"
+],
+"dims": [
+"163.6 x 74.9 x 8.6 mm"
 ]
 },
 {
@@ -38205,6 +39217,12 @@
 "check": "Check",
 "note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"screens": [
+"4in"
+],
+"dims": [
+"87 x 76 x 15.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -38226,6 +39244,12 @@
 "device": "Phone",
 "codes": [
 "A502ZT"
+],
+"screens": [
+"6.43in"
+],
+"dims": [
+"160 x 73 x 11.1 mm"
 ],
 "tags": [
 "cover"
@@ -38430,7 +39454,15 @@
 ],
 "check": "Check",
 "note": "Global version of the 12 Pro+: same phone",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"",
+"6.85in"
+],
+"dims": [
+"",
+"163.03 x 75.96 x 8.55 mm"
+]
 },
 {
 "id": "ZTE-2001",
@@ -38745,7 +39777,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"12.1in"
+],
+"dims": [
+"279.7 x 181.9 x 6.5 mm"
+]
 },
 {
 "id": "ZTE-2016",
@@ -38780,7 +39818,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.9in"
+],
+"dims": [
+"253.3 x 164.6 x 7.3 mm"
+]
 },
 {
 "id": "ZTE-2018",
@@ -39040,7 +40084,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.8 x 46.4 x 12.4 mm"
+]
 },
 {
 "id": "ZTE-3007",
@@ -39367,6 +40417,9 @@
 "screens": [
 "8.1in"
 ],
+"dims": [
+"186.9 x 145.2 x 4.8 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -39388,6 +40441,9 @@
 "device": "Phone",
 "screens": [
 "8.3in"
+],
+"dims": [
+"184.5 x 145.2 x 5.5 mm"
 ],
 "tags": [
 "two-screens"
@@ -39411,7 +40467,7 @@
 "note": "Same body size: test before swapping",
 "device": "Tablet",
 "screens": [
-"",
+"10.6in",
 "10.6in"
 ],
 "dims": [
@@ -39435,7 +40491,15 @@
 ],
 "check": "Check",
 "note": "Same body size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.6in",
+"10.6in"
+],
+"dims": [
+"274.6 x 173 x 13.5 mm",
+"274.6 x 173 x 13.5 mm"
+]
 },
 {
 "id": "MIC-2003",
@@ -39451,7 +40515,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"12in"
+],
+"dims": [
+"292 x 201 x 9.1 mm"
+]
 },
 {
 "id": "MIC-2004",
@@ -39491,7 +40561,21 @@
 ],
 "check": "Confirmed",
 "note": "12.3in. amFilm list",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"12.3in",
+"12.3in",
+"12.3in",
+"12.3in",
+"12.3in"
+],
+"dims": [
+"292.1 x 201.4 x 8.5 mm",
+"292 x 201 x 8.5 mm",
+"292 x 201 x 8.5 mm",
+"292 x 201 x 8.5 mm",
+"292 x 201 x 8.5 mm"
+]
 },
 {
 "id": "MIC-2006",
@@ -39513,7 +40597,19 @@
 ],
 "check": "Confirmed",
 "note": "Targus, Supershieldz list",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10in",
+"10.5in",
+"",
+""
+],
+"dims": [
+"245 x 175 x 8.3 mm",
+"245 x 175 x 8.3 mm",
+"",
+""
+]
 },
 {
 "id": "MIC-2007",
@@ -39537,7 +40633,21 @@
 ],
 "check": "Confirmed",
 "note": "13in. amFilm, Fintie list",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13in",
+"13in",
+"13in",
+"",
+"13in"
+],
+"dims": [
+"287 x 208 x 7.3 mm",
+"287 x 208 x 9.3 mm",
+"287 x 209 x 9.3 mm",
+"",
+"287 x 208 x 9.3 mm"
+]
 },
 {
 "id": "MIC-2008",
@@ -39563,6 +40673,12 @@
 "Staples (SaharaCase)",
 "https://www.staples.com/saharacase-ultra-strong-tempered-glass-screen-protector-for-microsoft-surface-pro-12-clear-zd-t00073/product_24646364"
 ]
+],
+"screens": [
+"12in"
+],
+"dims": [
+"274 x 190 x 7.8 mm"
 ]
 },
 {
@@ -44625,6 +45741,9 @@
 ],
 "screens": [
 "11.5in"
+],
+"dims": [
+"268.3 x 174.3 x 7.7 mm"
 ]
 },
 {
@@ -45033,6 +46152,9 @@
 "device": "Tablet",
 "screens": [
 "12.1in"
+],
+"dims": [
+"278.8 x 181.1 x 6.8 mm"
 ]
 },
 {
@@ -45113,7 +46235,10 @@
 ],
 "check": "Confirmed",
 "note": "Spigen: Go S glass does not fit Go",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"8.8in"
+]
 },
 {
 "id": "LEN-4002",
@@ -45630,6 +46755,9 @@
 "device": "Phone",
 "screens": [
 "4.0in"
+],
+"dims": [
+"124.4 x 61.4 x 6.3 mm"
 ]
 },
 {
@@ -45652,6 +46780,9 @@
 ],
 "screens": [
 "4.0in"
+],
+"dims": [
+"124.4 x 61.4 x 6.3 mm"
 ]
 },
 {
@@ -45816,6 +46947,9 @@
 "device": "Phone",
 "screens": [
 "4.5in"
+],
+"dims": [
+"132 x 66.7 x 6.3 mm"
 ]
 },
 {
@@ -47521,16 +48655,16 @@
 "2021-05"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
 "codes": [
 "ZS672KS, I004D"
 ],
+"screens": [
+"6.67in"
+],
 "dims": [
 "165 x 77.3 x 9.6 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -48560,6 +49694,9 @@
 "device": "Tablet",
 "screens": [
 "7.9in"
+],
+"dims": [
+"205.2 x 136.4 x 7.6 mm"
 ]
 },
 {
@@ -48695,6 +49832,9 @@
 "device": "Tablet",
 "screens": [
 "7.9in"
+],
+"dims": [
+"205.4 x 136.4 x 7.6 mm"
 ]
 },
 {
@@ -48858,7 +49998,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.28in"
+]
 },
 {
 "id": "ASU-3006",
@@ -48874,7 +50017,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+]
 },
 {
 "id": "ASU-3007",
@@ -48890,7 +50036,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"53.5 x 47 x 13.5 mm"
+]
 },
 {
 "id": "ASU-4001",
@@ -48917,7 +50069,23 @@
 ],
 "check": "Confirmed",
 "note": "7in. JSAUX lists all four Allys; Spigen and MSI add the 7in Claws",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in",
+"7in",
+"7in",
+"7in",
+"7in",
+"7in"
+],
+"dims": [
+"280 x 111 x 21.2 mm",
+"294 x 117 x 21.2 mm",
+"280 x 111 x 24.7 mm",
+"",
+"290 x 121 x 27.5 mm",
+"290 x 121 x 27.5 mm"
+]
 },
 {
 "id": "ASU-4002",
@@ -49474,6 +50642,9 @@
 "device": "Phone",
 "screens": [
 "2.4in"
+],
+"dims": [
+"118 x 50.5 x 12 mm"
 ]
 },
 {
@@ -51041,13 +52212,13 @@
 "2012-03"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"3.2in"
+],
 "dims": [
 "110 x 58.5 x 13.9 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -51757,6 +52928,9 @@
 ],
 "screens": [
 "5.2in"
+],
+"dims": [
+"143.5 x 73.3 x 8.3 mm"
 ]
 },
 {
@@ -51779,6 +52953,9 @@
 ],
 "screens": [
 "5.2in"
+],
+"dims": [
+"143.5 x 73.3 x 8.3 mm"
 ]
 },
 {
@@ -53134,6 +54311,12 @@
 "codes": [
 "XT2000-1, XT2000-2"
 ],
+"screens": [
+"2.7in"
+],
+"dims": [
+"94 x 72 x 14 mm"
+],
 "tags": [
 "cover"
 ]
@@ -53616,6 +54799,12 @@
 "device": "Phone",
 "codes": [
 "XT2071-4, XT2071-3"
+],
+"screens": [
+"2.7in"
+],
+"dims": [
+"91.7 x 72.6 x 16 mm"
 ],
 "tags": [
 "cover"
@@ -54930,6 +56119,12 @@
 "codes": [
 "XT2251-1"
 ],
+"screens": [
+"2.7in"
+],
+"dims": [
+"86.5 x 79.8 x 17 mm"
+],
 "tags": [
 "cover"
 ]
@@ -55501,6 +56696,12 @@
 "codes": [
 "XT2323-2"
 ],
+"screens": [
+"1.5in"
+],
+"dims": [
+"88.2 x 74 x 15.8 mm"
+],
 "tags": [
 "cover"
 ]
@@ -55522,6 +56723,12 @@
 "device": "Phone",
 "codes": [
 "XT2321-3, XT2321-1, XT2321-2"
+],
+"screens": [
+"3.6in"
+],
+"dims": [
+"88.4 x 74 x 15.1 mm"
 ],
 "tags": [
 "cover"
@@ -56070,6 +57277,22 @@
 "XT2657-1, XT2657-2",
 ""
 ],
+"screens": [
+"3.6in",
+"3.6in",
+"3.6in",
+"3.6in",
+"3.6in",
+"3.6in"
+],
+"dims": [
+"88.1 x 74 x 15.9 mm",
+"88.1 x 74 x 15.9 mm",
+"88.1 x 74 x 15.9 mm",
+"88.1 x 74 x 15.9 mm",
+"88.1 x 74 x 15.9 mm",
+"88.1 x 74 x 15.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -56097,6 +57320,16 @@
 "XT2451-3",
 "",
 "XT2451-1"
+],
+"screens": [
+"4in",
+"4in",
+"4in"
+],
+"dims": [
+"88.1 x 74 x 15.3 mm",
+"88.1 x 74 x 15.3 mm",
+"88.1 x 74 x 15.3 mm"
 ],
 "tags": [
 "cover"
@@ -56598,6 +57831,14 @@
 "",
 "XT2551-6"
 ],
+"screens": [
+"4in",
+"4in"
+],
+"dims": [
+"88.1 x 74 x 15.7 mm",
+"88.1 x 74 x 15.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -56788,7 +58029,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.67in"
+],
+"dims": [
+"161.9 x 73.3 x 7.9 mm"
+]
 },
 {
 "id": "MOT-1287",
@@ -57084,6 +58331,14 @@
 "XT2655-1",
 ""
 ],
+"screens": [
+"4in",
+"4in"
+],
+"dims": [
+"88.1 x 74 x 15.7 mm",
+"88.1 x 74 x 15.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -57109,6 +58364,14 @@
 "",
 "XT2659-3"
 ],
+"screens": [
+"4in",
+"4in"
+],
+"dims": [
+"88.1 x 74 x 15.3 mm",
+"88.1 x 74 x 15.3 mm"
+],
 "tags": [
 "cover"
 ]
@@ -57130,6 +58393,12 @@
 "device": "Phone",
 "codes": [
 "XT2651, XT2651-1"
+],
+"screens": [
+"6.6in"
+],
+"dims": [
+"160.1 x 73.6 x 10.1 mm"
 ],
 "tags": [
 "cover"
@@ -57263,7 +58532,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.78in"
+],
+"dims": [
+"162.7 x 75.7 x 8.5 mm"
+]
 },
 {
 "id": "MOT-1305",
@@ -57570,7 +58845,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42.8 x 42.8 x 11.68 mm"
+]
 },
 {
 "id": "MOT-3006",
@@ -57758,7 +59039,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"46.3 x 46.3 x 12.1 mm"
+]
 },
 {
 "id": "XIA-1001",
@@ -60900,6 +62187,12 @@
 "codes": [
 "M2011J18C"
 ],
+"screens": [
+"6.52in"
+],
+"dims": [
+"173.3 x 69.8 x 17.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -61938,6 +63231,12 @@
 "codes": [
 "22061218C"
 ],
+"screens": [
+"6.56in"
+],
+"dims": [
+"161.1 x 73.9 x 11.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -62566,6 +63865,12 @@
 "codes": [
 "2308CPXD0C"
 ],
+"screens": [
+"6.56in"
+],
+"dims": [
+"161.2 x 73.5 x 10.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -63126,6 +64431,12 @@
 "check": "Check",
 "note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"screens": [
+"6.56in"
+],
+"dims": [
+"159.4 x 73.1 x 9.5 mm"
+],
 "tags": [
 "cover"
 ]
@@ -63188,6 +64499,12 @@
 "device": "Phone",
 "codes": [
 "2405CPX3DC, 2405CPX3DG"
+],
+"screens": [
+"4in"
+],
+"dims": [
+"74 x 74 x 16 mm"
 ],
 "tags": [
 "cover"
@@ -63440,6 +64757,9 @@
 "screens": [
 "6.36in"
 ],
+"dims": [
+"152.3 x 71.2 x 8.1 mm"
+],
 "tags": [
 "fingerprint"
 ]
@@ -63559,7 +64879,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.67in"
+],
+"dims": [
+"162.4 x 75.7 x 8 mm"
+]
 },
 {
 "id": "XIA-1172",
@@ -63575,7 +64901,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.67in"
+],
+"dims": [
+"162.16 x 74.92 x 8.24 mm"
+]
 },
 {
 "id": "XIA-1173",
@@ -63667,6 +64999,9 @@
 "device": "Phone",
 "screens": [
 "6.55in"
+],
+"dims": [
+"157.1 x 73.2 x 7.5 mm"
 ]
 },
 {
@@ -63686,6 +65021,12 @@
 "device": "Phone",
 "codes": [
 "2505APX7BC"
+],
+"screens": [
+"4in"
+],
+"dims": [
+"86.1 x 73.8 x 15.9 mm"
 ],
 "tags": [
 "cover"
@@ -65823,7 +67164,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.42in"
+],
+"dims": [
+"40.3 x 15.7 x 10.5 mm"
+]
 },
 {
 "id": "XIA-3002",
@@ -65839,7 +67186,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.78in"
+],
+"dims": [
+"46.9 x 17.9 x 12 mm"
+]
 },
 {
 "id": "XIA-3003",
@@ -65855,7 +67208,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.95in"
+]
 },
 {
 "id": "XIA-3004",
@@ -65926,7 +67282,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.08in"
+]
 },
 {
 "id": "XIA-3007",
@@ -65942,7 +67301,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.1in"
+],
+"dims": [
+"46.95 x 18.15 x 12.45 mm"
+]
 },
 {
 "id": "XIA-3008",
@@ -66058,7 +67423,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.56in"
+],
+"dims": [
+"47.4 x 18.6 x 12.7 mm"
+]
 },
 {
 "id": "XIA-3012",
@@ -66143,7 +67514,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"42.05 x 24.45 x 10.15 mm"
+]
 },
 {
 "id": "XIA-3015",
@@ -66219,7 +67596,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.62in"
+],
+"dims": [
+"46.5 x 20.7 x 12.25 mm"
+]
 },
 {
 "id": "XIA-3018",
@@ -66235,7 +67618,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.64in"
+],
+"dims": [
+"44.7 x 28.8 x 11 mm"
+]
 },
 {
 "id": "XIA-3019",
@@ -66341,7 +67730,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"42.81 x 25.42 x 9.99 mm"
+]
 },
 {
 "id": "XIA-3023",
@@ -66357,7 +67752,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.62in"
+],
+"dims": [
+"48 x 22.5 x 10.99 mm"
+]
 },
 {
 "id": "XIA-3024",
@@ -66457,7 +67858,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.74in"
+],
+"dims": [
+"46 x 33.35 x 9.99 mm"
+]
 },
 {
 "id": "XIA-3028",
@@ -66566,7 +67973,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.62in"
+],
+"dims": [
+"46.53 x 21.63 x 10.95 mm"
+]
 },
 {
 "id": "XIA-3032",
@@ -66663,7 +68076,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.74in"
+],
+"dims": [
+"43.27 x 32.49 x 10.8 mm"
+]
 },
 {
 "id": "XIA-3036",
@@ -66735,7 +68154,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.72in"
+],
+"dims": [
+"46.57 x 22.54 x 10.95 mm"
+]
 },
 {
 "id": "XIA-3039",
@@ -66779,7 +68204,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.74in"
+],
+"dims": [
+"42.83 x 32.16 x 9.7 mm"
+]
 },
 {
 "id": "XIA-3041",
@@ -70908,18 +72339,19 @@
 "2021-05"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"note": "Same body size and screen specs: test before swapping",
 "device": "Phone",
 "codes": [
 "TA-1175, TA-1173, TA-1170, TA-1168",
 ""
 ],
+"screens": [
+"2.8in",
+"2.8in"
+],
 "dims": [
 "192.7 x 54.5 x 11.6 mm",
 "192.7 x 54.5 x 11.6 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -71966,16 +73398,16 @@
 "2022-03"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
 "codes": [
 "TA-1398, TA-1451"
 ],
+"screens": [
+"2.8in"
+],
 "dims": [
 "202.1 x 58 x 11.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -72122,13 +73554,13 @@
 "2022-11"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"2.7in"
+],
 "dims": [
 "202.1 x 58 x 11.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -72595,6 +74027,9 @@
 ],
 "screens": [
 "2.8in"
+],
+"dims": [
+"201 x 55.1 x 10.9 mm"
 ]
 },
 {
@@ -75730,7 +77165,7 @@
 "158.8 x 74.2 x 7.4 mm",
 "158.8 x 74.2 x 7.4 mm",
 "158.8 x 74.2 x 7.4 mm",
-""
+"157.2 x 72.4 x 7.4 mm"
 ]
 },
 {
@@ -75980,7 +77415,7 @@
 "159.7 x 73.9 x 7.3 mm",
 "159.7 x 73.9 x 7.3 mm",
 "161.2 x 74.4 x 7.4 mm",
-"",
+"160.6 x 73.9 x 7.7 mm",
 "161.2 x 74.4 x 7.4 mm"
 ]
 },
@@ -76858,6 +78293,9 @@
 ],
 "screens": [
 "6.44in"
+],
+"dims": [
+"160.6 x 73.9 x 7.7 mm"
 ]
 },
 {
@@ -77083,6 +78521,9 @@
 ],
 "screens": [
 "6.44in"
+],
+"dims": [
+"157.2 x 72.4 x 7.4 mm"
 ]
 },
 {
@@ -77283,6 +78724,9 @@
 ],
 "screens": [
 "6.56in"
+],
+"dims": [
+"159.1 x 75.1 x 8.6 mm"
 ]
 },
 {
@@ -77457,6 +78901,14 @@
 "codes": [
 "V2178A",
 "V2229A"
+],
+"screens": [
+"6.53in",
+"6.53in"
+],
+"dims": [
+"162 x 74.5 x 14.6 mm",
+"162 x 74.5 x 14.6 mm"
 ],
 "tags": [
 "cover"
@@ -78513,6 +79965,12 @@
 "codes": [
 "V2256A"
 ],
+"screens": [
+"3in"
+],
+"dims": [
+"86.4 x 75.3 x 16.6 mm"
+],
 "tags": [
 "cover"
 ]
@@ -78534,6 +79992,12 @@
 "device": "Phone",
 "codes": [
 "V2266A"
+],
+"screens": [
+"6.53in"
+],
+"dims": [
+"161.3 x 73.4 x 12.9 mm"
 ],
 "tags": [
 "fingerprint",
@@ -79323,6 +80787,12 @@
 "codes": [
 "V2337A, V2303A"
 ],
+"screens": [
+"6.53in"
+],
+"dims": [
+"160 x 72.7 x 10.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -79344,6 +80814,12 @@
 "device": "Phone",
 "codes": [
 "V2330"
+],
+"screens": [
+"6.53in"
+],
+"dims": [
+"160 x 72.6 x 11.2 mm"
 ],
 "tags": [
 "fingerprint",
@@ -79651,6 +81127,9 @@
 ],
 "screens": [
 "6.78in"
+],
+"dims": [
+"164.4 x 74.8 x 7.6 mm"
 ]
 },
 {
@@ -79825,7 +81304,7 @@
 "dims": [
 "164.2 x 75 x 7.6 mm",
 "163.7 x 75 x 7.5 mm",
-"",
+"163.7 x 75 x 7.5 mm",
 "164.4 x 75.1 x 7.6 mm",
 "163.7 x 75 x 7.5 mm"
 ],
@@ -79911,6 +81390,9 @@
 ],
 "screens": [
 "6.77in"
+],
+"dims": [
+"163.7 x 75 x 7.5 mm"
 ],
 "tags": [
 "curved",
@@ -80356,7 +81838,7 @@
 "6.77in"
 ],
 "dims": [
-"",
+"163.3 x 76.7 x 7.4 mm",
 "163.3 x 76.7 x 7.4 mm",
 "163.3 x 76.7 x 7.4 mm",
 "163.3 x 76.7 x 7.4 mm"
@@ -80717,6 +82199,12 @@
 "codes": [
 "V2436A, V2429"
 ],
+"screens": [
+"6.53in"
+],
+"dims": [
+"159.7 x 72.6 x 9.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -80748,6 +82236,9 @@
 ],
 "screens": [
 "6.77in"
+],
+"dims": [
+"163.8 x 75.0 x 7.5 mm"
 ],
 "tags": [
 "curved",
@@ -81658,6 +83149,12 @@
 "device": "Phone",
 "codes": [
 "V2545A"
+],
+"screens": [
+"6.51in"
+],
+"dims": [
+"157.2 x 74.3 x 9.4 mm"
 ],
 "tags": [
 "cover"
@@ -85353,6 +86850,9 @@
 ],
 "screens": [
 "6.7in"
+],
+"dims": [
+"161.3 x 73.9 x 8.2 mm"
 ]
 },
 {
@@ -85375,6 +86875,9 @@
 ],
 "screens": [
 "6.7in"
+],
+"dims": [
+"161.3 x 73.9 x 8.2 mm"
 ]
 },
 {
@@ -85634,7 +87137,7 @@
 "screens": [
 "6.67in",
 "6.67in",
-"",
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in",
@@ -85643,7 +87146,7 @@
 "dims": [
 "165.7 x 76.2 x 8 mm",
 "165.7 x 76.2 x 8 mm",
-"",
+"165.7 x 76.2 x 8 mm",
 "165.7 x 76.2 x 8 mm",
 "165.7 x 76.2 x 8 mm",
 "165.7 x 76.2 x 8 mm",
@@ -86033,6 +87536,9 @@
 ],
 "screens": [
 "6.8in"
+],
+"dims": [
+"162.3 x 76.2 x 7.7 mm"
 ]
 },
 {
@@ -90784,6 +92290,14 @@
 "TAH-AN00",
 "TAH-N29m"
 ],
+"screens": [
+"6.6in",
+"6.6in"
+],
+"dims": [
+"161.3 x 78.3 x 11 mm",
+"161.3 x 78.5 x 11 mm"
+],
 "tags": [
 "cover"
 ]
@@ -91825,6 +93339,14 @@
 "TET-AN00",
 "TET-AL00"
 ],
+"screens": [
+"6.45in",
+"6.45in"
+],
+"dims": [
+"161.8 x 74.6 x 14.7 mm",
+"161.8 x 74.6 x 14.7 mm"
+],
 "tags": [
 "cover"
 ]
@@ -92005,6 +93527,10 @@
 "BAL-AL00, BAL-L49",
 "BAL-AL60"
 ],
+"dims": [
+"87.3 x 75.5 x 15.2 mm",
+"87.3 x 75.5 x 15.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -92051,6 +93577,12 @@
 "device": "Phone",
 "codes": [
 "PAL-AL00, PAL-LX9"
+],
+"screens": [
+"6.5in"
+],
+"dims": [
+"156.5 x 75.5 x 11.1 mm"
 ],
 "tags": [
 "cover"
@@ -92303,6 +93835,10 @@
 "codes": [
 "ALT-AL00, ALT-L29",
 "ALT-AL10"
+],
+"dims": [
+"156.9 x 72.4 x 11.1 mm",
+"156.9 x 72.4 x 11.1 mm"
 ],
 "tags": [
 "cover"
@@ -92701,6 +94237,9 @@
 "codes": [
 "LEM-AL00"
 ],
+"dims": [
+"87.8 x 75.5 x 15.3 mm"
+],
 "tags": [
 "cover"
 ]
@@ -92799,6 +94338,10 @@
 "PSD-AL00",
 "PSD-AL80"
 ],
+"dims": [
+"87.6 x 75.4 x 15.1 mm",
+"87.8 x 75.4 x 15.1 mm"
+],
 "tags": [
 "cover"
 ]
@@ -92823,6 +94366,14 @@
 "codes": [
 "GRL-LX9, GRL-AL10",
 "GRL-AL20"
+],
+"screens": [
+"6.4in",
+"6.4in"
+],
+"dims": [
+"156.7 x 73.5 x 12.8 mm",
+"156.7 x 73.5 x 12.8 mm"
 ],
 "tags": [
 "cover"
@@ -92976,6 +94527,12 @@
 "codes": [
 "ICL-AL10, ICL-LX9"
 ],
+"screens": [
+"6.45in"
+],
+"dims": [
+"156.6 x 73.8 x 9.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -93023,13 +94580,19 @@
 "2025-03"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "VDE-AL00"
 ],
 "screens": [
-"6.3in"
+"3.5in"
+],
+"dims": [
+"91.7 x 74.3 x 15.1 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -93369,6 +94932,12 @@
 "device": "Phone",
 "codes": [
 "DEL-AL10, DEL-LX9"
+],
+"screens": [
+"6.49in"
+],
+"dims": [
+"156.8 x 73.8 x 9.5 mm"
 ],
 "tags": [
 "cover"
@@ -95220,6 +96789,9 @@
 ],
 "screens": [
 "7.7in"
+],
+"dims": [
+"166.5 x 120 x 5.2 mm"
 ]
 },
 {
@@ -95369,7 +96941,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.7in"
+],
+"dims": [
+"43.08 x 18.44 x 10.53 mm"
+]
 },
 {
 "id": "HUA-3005",
@@ -95443,7 +97021,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.91in"
+],
+"dims": [
+"44 x 19.7 x 10.3 mm"
+]
 },
 {
 "id": "HUA-3008",
@@ -95484,7 +97068,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.95in"
+],
+"dims": [
+"45 x 19 x 11 mm"
+]
 },
 {
 "id": "HUA-3010",
@@ -95559,7 +97149,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.96in"
+],
+"dims": [
+"56 x 18.5 x 12.5 mm"
+]
 },
 {
 "id": "HUA-3013",
@@ -95576,6 +97172,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41.8 x 41.8 x 9.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95601,6 +97203,12 @@
 "https://www.flipkart.com/search?q=huawei+watch+tempered+glass"
 ]
 ],
+"screens": [
+"1.39in"
+],
+"dims": [
+"45.9 x 45.9 x 10.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95619,7 +97227,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.95in"
+],
+"dims": [
+"45 x 19 x 11 mm"
+]
 },
 {
 "id": "HUA-3016",
@@ -95753,7 +97367,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"43 x 25.4 x 10.99 mm"
+]
 },
 {
 "id": "HUA-3021",
@@ -95848,6 +97468,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"42.3 x 42.3 x 10.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95867,6 +97493,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"45.9 x 45.9 x 11 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95910,7 +97542,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"44.35 x 26 x 9.99 mm"
+]
 },
 {
 "id": "HUA-3028",
@@ -95955,6 +97593,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"42.9 x 42.9 x 10.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95974,6 +97618,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"46.6 x 46.6 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -95998,6 +97648,12 @@
 "PanzerGlass",
 "https://panzerglass.com/products/panzerglass-huawei-watch-fit-2-black-ab"
 ]
+],
+"screens": [
+"1.74in"
+],
+"dims": [
+"46 x 33.5 x 10.8 mm"
 ]
 },
 {
@@ -96160,7 +97816,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"43.45 x 24.54 x 8.99 mm"
+]
 },
 {
 "id": "HUA-3038",
@@ -96239,6 +97901,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"41.3 x 41.3 x 9.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96258,6 +97926,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"46 x 46 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96304,7 +97978,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.82in"
+],
+"dims": [
+"43.2 x 36.3 x 9.9 mm"
+]
 },
 {
 "id": "HUA-3044",
@@ -96320,7 +98000,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"43.45 x 24.86 x 8.99 mm"
+]
 },
 {
 "id": "HUA-3045",
@@ -96362,6 +98048,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"41.3 x 41.3 x 9.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96387,6 +98079,12 @@
 "https://www.flipkart.com/search?q=huawei+watch+tempered+glass"
 ]
 ],
+"screens": [
+"1.43in"
+],
+"dims": [
+"45.8 x 45.8 x 10.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96406,6 +98104,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"42.49 x 42.49 x 9.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96425,6 +98129,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"46.3 x 46.3 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96443,7 +98153,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"43.45 x 24.86 x 8.99 mm"
+]
 },
 {
 "id": "HUA-3051",
@@ -96554,6 +98270,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"41.3 x 41.3 x 9.99 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96573,6 +98295,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"46 x 46 x 10.95 mm"
+],
 "tags": [
 "measure"
 ]
@@ -96655,7 +98383,15 @@
 ],
 "check": "Check",
 "note": "Band 11 and Band 11 Pro both use 1.62in screens: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.62in",
+"1.62in"
+],
+"dims": [
+"42.6 x 28.2 x 8.99 mm",
+"43.5 x 28.2 x 8.99 mm"
+]
 },
 {
 "id": "HUA-3060",
@@ -96799,7 +98535,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"41.3 x 41.3 x 9.99 mm"
+]
 },
 {
 "id": "HUA-3066",
@@ -96815,7 +98557,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"46 x 46 x 10.95 mm"
+]
 },
 {
 "id": "HUA-3067",
@@ -96831,7 +98579,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"45.6 x 45.6 x 11.25 mm"
+]
 },
 {
 "id": "HUA-3068",
@@ -96847,7 +98601,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.38in"
+],
+"dims": [
+"42.3 x 42.3 x 10.2 mm"
+]
 },
 {
 "id": "HUA-3069",
@@ -96863,7 +98623,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"46.4 x 46.4 x 10.9 mm"
+]
 },
 {
 "id": "HUA-3070",
@@ -96879,7 +98645,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.38in"
+],
+"dims": [
+"43.5 x 43.5 x 10.2 mm"
+]
 },
 {
 "id": "HUA-3071",
@@ -96895,7 +98667,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"46.4 x 46.4 x 10.9 mm"
+]
 },
 {
 "id": "HUA-3072",
@@ -96911,7 +98689,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.92in"
+],
+"dims": [
+"46.5 x 41 x 11.3 mm"
+]
 },
 {
 "id": "HON-1001",
@@ -99132,6 +100916,12 @@
 "codes": [
 "MGI-AN00"
 ],
+"screens": [
+"6.45in"
+],
+"dims": [
+"160.4 x 72.7 x 14.3 mm"
+],
 "tags": [
 "cover"
 ]
@@ -99597,15 +101387,22 @@
 "2022-11"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "FRI-AN00, FRI-NX9",
 "FRI-AN10"
 ],
 "screens": [
-"7.9in",
-"7.9in"
+"6.45in",
+"6.45in"
+],
+"dims": [
+"160.3 x 72.6 x 12.9 mm",
+"160.3 x 72.6 x 12.9 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -99874,6 +101671,14 @@
 "VER-AN10, VER-N49",
 "VER-AN10"
 ],
+"screens": [
+"6.43in",
+"6.43in"
+],
+"dims": [
+"156.7 x 74.1 x 9.9 mm",
+"156.7 x 74 x 9.9 mm"
+],
 "tags": [
 "cover"
 ]
@@ -99937,13 +101742,19 @@
 "2023-10"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "VER-AN00"
 ],
 "screens": [
-"7.92in"
+"6.43in"
+],
+"dims": [
+"157.5 x 74.4 x 10.7 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -100229,6 +102040,12 @@
 "codes": [
 "LRA-AN00"
 ],
+"screens": [
+"4in"
+],
+"dims": [
+"86.5 x 75.6 x 14.9 mm"
+],
 "tags": [
 "fingerprint",
 "cover"
@@ -100280,6 +102097,12 @@
 "codes": [
 "FCP-AN10, FCP-N49"
 ],
+"screens": [
+"6.43in"
+],
+"dims": [
+"156.6 x 74.0 x 9.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -100297,13 +102120,19 @@
 "2024-07"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "FLC-AN00"
 ],
 "screens": [
-"7.92in"
+"6.43in"
+],
+"dims": [
+"156.8 x 74.0 x 9.8 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -100915,6 +102744,12 @@
 "codes": [
 "MBH-N49, MHG-AN00, MBH-AN10"
 ],
+"screens": [
+"6.43in"
+],
+"dims": [
+"156.8 x 74.3 x 8.8 mm"
+],
 "tags": [
 "cover"
 ]
@@ -100939,6 +102774,9 @@
 ],
 "screens": [
 "6.79in"
+],
+"dims": [
+"161.9 x 76.1 x 7.8 mm"
 ]
 },
 {
@@ -101004,6 +102842,12 @@
 "device": "Phone",
 "codes": [
 "CLE-AN00"
+],
+"screens": [
+"4in"
+],
+"dims": [
+"86.2 x 75.6 x 15.5 mm"
 ],
 "tags": [
 "fingerprint",
@@ -101497,6 +103341,12 @@
 "codes": [
 "PNM-N49, PNM-AN10, PNM-AN20"
 ],
+"screens": [
+"6.52in"
+],
+"dims": [
+"156.7 x 74.5 x 8.8 mm"
+],
 "tags": [
 "cover"
 ]
@@ -101570,6 +103420,9 @@
 "device": "Phone",
 "screens": [
 "6.79in"
+],
+"dims": [
+"161.9 x 76.1 x 7.8 mm"
 ]
 },
 {
@@ -102231,6 +104084,9 @@
 ],
 "screens": [
 "7.71in"
+],
+"dims": [
+"156.5 x 135.6 x 4.3 mm"
 ]
 },
 {
@@ -102666,6 +104522,9 @@
 "https://www.flipkart.com/search?q=honor+watch+tempered+glass"
 ]
 ],
+"screens": [
+"1.2in"
+],
 "tags": [
 "measure"
 ]
@@ -102690,6 +104549,9 @@
 "Flipkart (SOMTONE)",
 "https://www.flipkart.com/search?q=honor+watch+tempered+glass"
 ]
+],
+"screens": [
+"1.39in"
 ],
 "tags": [
 "measure"
@@ -106398,16 +108260,16 @@
 "2019-07"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
 "codes": [
 "4051S"
 ],
+"screens": [
+"2.8in"
+],
 "dims": [
 "104.9 x 52.8 x 18.7 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -106473,13 +108335,13 @@
 "2019-09"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"2.8in"
+],
 "dims": [
 "104.9 x 53.1 x 20.1 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -107082,20 +108944,22 @@
 "2024-06"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"note": "Same body size and screen specs: test before swapping",
 "device": "Phone",
 "codes": [
 "4056W",
 "4056W, 4056S",
 "4058G, 4058W"
 ],
+"screens": [
+"2.8in",
+"2.8in",
+"2.8in"
+],
 "dims": [
 "107.3 x 55.6 x 19.9 mm",
 "107.3 x 55.6 x 19.9 mm",
 "107.3 x 55.6 x 19.9 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -107986,16 +109850,16 @@
 "2024-06"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
 "codes": [
 "T435D"
 ],
+"screens": [
+"3.2in"
+],
 "dims": [
 "107.2 x 59.4 x 19.8 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -113540,6 +115404,9 @@
 ],
 "screens": [
 "5.5in"
+],
+"dims": [
+"148.9 x 76.1 x 6.3 mm"
 ]
 },
 {
@@ -122233,13 +124100,13 @@
 "2008-09"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"2.6in"
+],
 "dims": [
 "101.1 x 50 x 17.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -122311,13 +124178,13 @@
 "2009-02"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"2.6in"
+],
 "dims": [
 "101 x 50 x 17.5 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -122487,6 +124354,9 @@
 "check": "Check",
 "note": "",
 "device": "Phone",
+"screens": [
+"2.7in"
+],
 "dims": [
 "96 x 60 x 18.5 mm"
 ]
@@ -123218,7 +125088,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"4.3in"
+]
 },
 {
 "id": "FAI-1002",
@@ -123234,7 +125107,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"5in"
+]
 },
 {
 "id": "FAI-1003",
@@ -123361,11 +125237,11 @@
 ],
 "screens": [
 "6.31in",
-""
+"6.31in"
 ],
 "dims": [
 "156.5 x 73.3 x 9.6 mm",
-""
+"156.5 x 73.3 x 9.6 mm"
 ]
 },
 {
@@ -126822,7 +128698,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"203 x 135 x 20 mm"
+]
 },
 {
 "id": "AMZ-2002",
@@ -126838,7 +128720,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"203 x 135 x 9.14 mm"
+]
 },
 {
 "id": "AMZ-2003",
@@ -126856,7 +128744,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"9.7in",
+"9.7in"
+],
+"dims": [
+"264 x 183 x 9.7 mm",
+"264 x 183 x 9.7 mm"
+]
 },
 {
 "id": "AMZ-2004",
@@ -126872,7 +128768,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"190 x 123 x 8.5 mm"
+]
 },
 {
 "id": "AMZ-2005",
@@ -126890,7 +128792,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in"
+],
+"dims": [
+"166 x 114 x 8.7 mm",
+"166 x 114 x 8.7 mm"
+]
 },
 {
 "id": "AMZ-2006",
@@ -126906,7 +128816,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"172 x 120 x 10.1 mm"
+]
 },
 {
 "id": "AMZ-2007",
@@ -126948,7 +128864,17 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in",
+"6in"
+],
+"dims": [
+"169 x 117 x 9.1 mm",
+"169 x 117 x 9.1 mm",
+"169 x 117 x 9.1 mm"
+]
 },
 {
 "id": "AMZ-2009",
@@ -127090,7 +129016,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+]
 },
 {
 "id": "AMZ-2015",
@@ -127106,7 +129035,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"162 x 115 x 7.6 mm"
+]
 },
 {
 "id": "AMZ-2016",
@@ -127210,7 +129145,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"143 x 122 x 8.5 mm"
+]
 },
 {
 "id": "AMZ-2021",
@@ -127226,7 +129167,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"160 x 115 x 9.1 mm"
+]
 },
 {
 "id": "AMZ-2022",
@@ -127318,7 +129265,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in",
+"7in"
+],
+"dims": [
+"159 x 141 x 3.4 mm",
+"159 x 141 x 3.4 mm"
+]
 },
 {
 "id": "AMZ-2026",
@@ -127334,7 +129289,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"167 x 116 x 8.18 mm"
+]
 },
 {
 "id": "AMZ-2027",
@@ -127352,7 +129313,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in"
+]
 },
 {
 "id": "AMZ-2028",
@@ -127462,7 +129427,17 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.8in",
+"6.8in",
+"6.8in"
+],
+"dims": [
+"174 x 125 x 8.1 mm",
+"174 x 125 x 8.1 mm",
+"174 x 125 x 8.1 mm"
+]
 },
 {
 "id": "AMZ-2031",
@@ -127492,6 +129467,16 @@
 "eBay",
 "https://www.ebay.com/itm/167072290591"
 ]
+],
+"screens": [
+"6in",
+"6in",
+"6in"
+],
+"dims": [
+"157.8 x 108.6 x 8.0 mm",
+"157.8 x 108.6 x 8.0 mm",
+"157.8 x 108.6 x 8.0 mm"
 ]
 },
 {
@@ -127520,6 +129505,14 @@
 "eBay",
 "https://www.ebay.com/itm/175493821385"
 ]
+],
+"screens": [
+"10.2in",
+"10.2in"
+],
+"dims": [
+"230 x 196 x 5.8 mm",
+"230 x 196 x 5.8 mm"
 ]
 },
 {
@@ -127579,6 +129572,20 @@
 "The Warehouse (Blueshift)",
 "https://www.thewarehouse.co.nz/p/kindle-paperwhite-%2812th-gen-2024%29-glass-screen-protector/M36653243.html"
 ]
+],
+"screens": [
+"7in",
+"7in",
+"7in",
+"7in",
+"7in"
+],
+"dims": [
+"176.7 x 127.6 x 7.8 mm",
+"176.7 x 127.6 x 7.8 mm",
+"176.7 x 127.6 x 7.8 mm",
+"176.7 x 127.6 x 7.8 mm",
+"176.7 x 127.6 x 7.8 mm"
 ]
 },
 {
@@ -127599,7 +129606,17 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"11in",
+"11in",
+"11in"
+],
+"dims": [
+"",
+"245 x 189 x 5.3 mm",
+""
+]
 },
 {
 "id": "AMZ-2036",
@@ -127617,7 +129634,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in"
+]
 },
 {
 "id": "AMZ-2037",
@@ -127637,7 +129658,12 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in",
+"7in",
+"7in"
+]
 },
 {
 "id": "AMZ-2038",
@@ -127657,7 +129683,12 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in",
+"7in",
+"7in"
+]
 },
 {
 "id": "AMO-1001",
@@ -128708,6 +130739,9 @@
 "check": "Check",
 "note": "",
 "device": "Phone",
+"screens": [
+"2.5in"
+],
 "dims": [
 "112 x 60 x 14 mm"
 ]
@@ -128749,6 +130783,9 @@
 "check": "Check",
 "note": "",
 "device": "Phone",
+"screens": [
+"2.7in"
+],
 "dims": [
 "118 x 52 x 17 mm"
 ]
@@ -130059,10 +132096,16 @@
 "2024-05"
 ],
 "check": "Check",
-"note": "",
+"note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "screens": [
-"6.9in"
+"1.19in"
+],
+"dims": [
+"87 x 75.5 x 16.3 mm"
+],
+"tags": [
+"cover"
 ]
 },
 {
@@ -130654,7 +132697,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"5in"
+],
+"dims": [
+"135.6 x 70.2 x 11.1 mm"
+]
 },
 {
 "id": "BLV-1073",
@@ -130670,7 +132719,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Phone"
+"device": "Phone",
+"screens": [
+"6.73in"
+],
+"dims": [
+"179.5 x 85.4 x 18.2 mm"
+]
 },
 {
 "id": "BLV-2001",
@@ -138317,7 +140372,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"61.7 x 56.4 x 15.7 mm"
+]
 },
 {
 "id": "CAS-3002",
@@ -138333,7 +140394,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"61.7 x 57.7 x 15.3 mm"
+]
 },
 {
 "id": "CAS-3003",
@@ -138349,7 +140416,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"60.5 x 53.8 x 14.9 mm"
+]
 },
 {
 "id": "CAS-3004",
@@ -138365,7 +140438,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"65.6 x 56.3 x 19.5 mm"
+]
 },
 {
 "id": "CAT-1001",
@@ -138698,13 +140777,13 @@
 "2021-09"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "",
 "device": "Phone",
+"screens": [
+"2.8in"
+],
 "dims": [
 "119.4 x 61 x 23 mm"
-],
-"tags": [
-"cover"
 ]
 },
 {
@@ -140704,6 +142783,9 @@
 "device": "Tablet",
 "screens": [
 "7.0in"
+],
+"dims": [
+"193 x 123 x 9 mm"
 ]
 },
 {
@@ -155761,6 +157843,12 @@
 "codes": [
 "X6962"
 ],
+"screens": [
+"3.64in"
+],
+"dims": [
+"87.5 x 73.4 x 16 mm"
+],
 "tags": [
 "cover"
 ]
@@ -156892,6 +158980,9 @@
 "device": "Phone",
 "screens": [
 "5.0in"
+],
+"dims": [
+"146.7 x 74 x 9.3 mm"
 ]
 },
 {
@@ -156911,6 +159002,9 @@
 "device": "Phone",
 "screens": [
 "5.0in"
+],
+"dims": [
+"145.4 x 73.9 x 9.8 mm"
 ]
 },
 {
@@ -156949,6 +159043,9 @@
 "device": "Phone",
 "screens": [
 "6.6in"
+],
+"dims": [
+"164.7 x 76.3 x 8.3 mm"
 ]
 },
 {
@@ -157123,6 +159220,9 @@
 "device": "Phone",
 "screens": [
 "6.6in"
+],
+"dims": [
+"164.5 x 76 x 8.85 mm"
 ]
 },
 {
@@ -157202,6 +159302,9 @@
 "device": "Phone",
 "screens": [
 "6.6in"
+],
+"dims": [
+"165 x 76 x 9 mm"
 ]
 },
 {
@@ -157334,6 +159437,9 @@
 ],
 "screens": [
 "6.78in"
+],
+"dims": [
+"164.5 x 75.2 x 7.9 mm"
 ]
 },
 {
@@ -157356,6 +159462,9 @@
 ],
 "screens": [
 "6.6in"
+],
+"dims": [
+"164 x 75.5 x 8.6 mm"
 ]
 },
 {
@@ -157400,6 +159509,9 @@
 ],
 "screens": [
 "6.6in"
+],
+"dims": [
+"164 x 75 x 8.4 mm"
 ]
 },
 {
@@ -162877,6 +164989,9 @@
 "device": "Phone",
 "screens": [
 "6.75in"
+],
+"dims": [
+"165.8 x 77.2 x 8.5 mm"
 ]
 },
 {
@@ -188587,6 +190702,12 @@
 "codes": [
 "AD10"
 ],
+"screens": [
+"6.42in"
+],
+"dims": [
+"159.4 x 72 x 14.2 mm"
+],
 "tags": [
 "cover"
 ]
@@ -188892,6 +191013,12 @@
 "device": "Phone",
 "codes": [
 "AD11"
+],
+"screens": [
+"1.32in"
+],
+"dims": [
+"88.8 x 74.1 x 15 mm"
 ],
 "tags": [
 "cover"
@@ -189323,6 +191450,12 @@
 "check": "Check",
 "note": "Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"screens": [
+"3.64in"
+],
+"dims": [
+"87.8 x 73.4 x 16 mm"
+],
 "tags": [
 "cover"
 ]
@@ -189344,6 +191477,12 @@
 "device": "Phone",
 "codes": [
 "AE10"
+],
+"screens": [
+"6.42in"
+],
+"dims": [
+"159 x 72.2 x 11.8 mm"
 ],
 "tags": [
 "cover"
@@ -202845,6 +204984,9 @@
 ],
 "screens": [
 "5.5in"
+],
+"dims": [
+"154.8 x 78 x 6 mm"
 ]
 },
 {
@@ -202867,6 +205009,9 @@
 ],
 "screens": [
 "5.0in"
+],
+"dims": [
+"142.4 x 73 x 8.2 mm"
 ]
 },
 {
@@ -202889,6 +205034,9 @@
 ],
 "screens": [
 "5.5in"
+],
+"dims": [
+"154.8 x 78 x 6 mm"
 ]
 },
 {
@@ -203149,7 +205297,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.5in"
+],
+"dims": [
+"148 x 90 x 32 mm"
+]
 },
 {
 "id": "NIN-4002",
@@ -203165,7 +205319,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.5in"
+],
+"dims": [
+"127.6 x 77.6 x 25.3 mm"
+]
 },
 {
 "id": "NIN-4003",
@@ -203181,7 +205341,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.5in"
+],
+"dims": [
+"135 x 80 x 27 mm"
+]
 },
 {
 "id": "NIN-4004",
@@ -203197,7 +205363,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.3in"
+],
+"dims": [
+"133.5 x 78 x 27.4 mm"
+]
 },
 {
 "id": "NIN-4005",
@@ -203213,7 +205385,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.9in"
+],
+"dims": [
+"144.5 x 82 x 24.5 mm"
+]
 },
 {
 "id": "NIN-4006",
@@ -203229,7 +205407,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"dims": [
+"74 x 58 x 23 mm"
+]
 },
 {
 "id": "NIN-4007",
@@ -203245,7 +205426,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.9in"
+],
+"dims": [
+"84.6 x 82 x 24.3 mm"
+]
 },
 {
 "id": "NIN-4008",
@@ -203262,6 +205449,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"3in"
+],
+"dims": [
+"148.7 x 84.7 x 28.9 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203280,7 +205473,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2in"
+],
+"dims": [
+"101 x 50 x 17.2 mm"
+]
 },
 {
 "id": "NIN-4010",
@@ -203297,6 +205496,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"3.25in"
+],
+"dims": [
+"133 x 73.9 x 21.5 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203316,6 +205521,9 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"dims": [
+"136.9 x 74.9 x 18.8 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203335,6 +205543,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"4.2in"
+],
+"dims": [
+"161 x 91.4 x 21 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203354,6 +205568,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"3.53in"
+],
+"dims": [
+"134 x 74 x 22 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203373,6 +205593,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"4.88in"
+],
+"dims": [
+"156 x 93 x 22 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203392,6 +205618,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"3.53in"
+],
+"dims": [
+"144 x 127 x 20.3 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203411,6 +205643,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"3.88in"
+],
+"dims": [
+"142 x 80.6 x 21.6 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203430,6 +205668,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"4.88in"
+],
+"dims": [
+"160 x 93.5 x 21.5 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203448,7 +205692,10 @@
 ],
 "check": "Confirmed",
 "note": "6.2in. Nintendo: each Switch model needs its own protector",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6.2in"
+]
 },
 {
 "id": "NIN-4019",
@@ -203471,6 +205718,12 @@
 "https://www.desertcart.co.th/products/44405926-amfilm-nintendo-2ds-xl-screen-protector-pack-2-glass-top"
 ]
 ],
+"screens": [
+"4.88in"
+],
+"dims": [
+"159.36 x 86.36 x 20.8 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -203489,7 +205742,13 @@
 ],
 "check": "Confirmed",
 "note": "5.5in",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5.5in"
+],
+"dims": [
+"208 x 91 x 14 mm"
+]
 },
 {
 "id": "NIN-4021",
@@ -203505,7 +205764,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.36in"
+],
+"dims": [
+"112 x 67 x 12.5 mm"
+]
 },
 {
 "id": "NIN-4022",
@@ -203521,7 +205786,10 @@
 ],
 "check": "Confirmed",
 "note": "7.0in",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in"
+]
 },
 {
 "id": "NIN-4023",
@@ -203553,7 +205821,13 @@
 ],
 "check": "Confirmed",
 "note": "7.9in. Nintendo: older Switch protectors don't fit",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7.9in"
+],
+"dims": [
+"272 x 116 x 13.9 mm"
+]
 },
 {
 "id": "VAL-4001",
@@ -203571,7 +205845,15 @@
 ],
 "check": "Confirmed",
 "note": "Spigen, dbrand, JSAUX list both",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in",
+"7.4in"
+],
+"dims": [
+"298 x 117 x 49 mm",
+"298 x 117 x 49 mm"
+]
 },
 {
 "id": "MSI-4001",
@@ -203615,6 +205897,14 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013138522530.html"
 ]
+],
+"screens": [
+"",
+"8in"
+],
+"dims": [
+"",
+"299.5 x 126.2 x 24 mm"
 ]
 },
 {
@@ -203645,6 +205935,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013138522530.html"
 ]
+],
+"screens": [
+"8in"
+],
+"dims": [
+"296 x 130 x 25 mm"
 ]
 },
 {
@@ -203667,6 +205963,9 @@
 "Spigen",
 "https://www.spigen.com/products/logitech-g-cloud-screen-protector-glas-tr-slim"
 ]
+],
+"screens": [
+"7in"
 ]
 },
 {
@@ -203683,7 +205982,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5in"
+],
+"dims": [
+"155 x 89 x 24 mm"
+]
 },
 {
 "id": "GPD-4002",
@@ -203699,7 +206004,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5.5in"
+],
+"dims": [
+"155 x 97 x 22 mm"
+]
 },
 {
 "id": "GPD-4003",
@@ -203715,7 +206026,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in"
+],
+"dims": [
+"162 x 99 x 25 mm"
+]
 },
 {
 "id": "GPD-4004",
@@ -203731,7 +206048,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5in"
+],
+"dims": [
+"155 x 89 x 24 mm"
+]
 },
 {
 "id": "GPD-4005",
@@ -203747,7 +206070,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"8in"
+],
+"dims": [
+"207 x 145 x 26 mm"
+]
 },
 {
 "id": "GPD-4006",
@@ -203763,7 +206092,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5.5in"
+],
+"dims": [
+"198 x 92 x 27 mm"
+]
 },
 {
 "id": "GPD-4007",
@@ -203779,7 +206114,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6.81in"
+],
+"dims": [
+"233 x 83 x 18 mm"
+]
 },
 {
 "id": "GPD-4008",
@@ -203795,7 +206136,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6.81in"
+],
+"dims": [
+"233 x 83 x 18 mm"
+]
 },
 {
 "id": "GPD-4009",
@@ -203823,6 +206170,18 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005008812043556.html"
 ]
+],
+"screens": [
+"10.1in",
+"10.1in",
+"10.1in",
+"10.1in"
+],
+"dims": [
+"227 x 160 x 23 mm",
+"227 x 160 x 23 mm",
+"227 x 160 x 23 mm",
+"227 x 160 x 23 mm"
 ]
 },
 {
@@ -203845,7 +206204,19 @@
 ],
 "check": "Check",
 "note": "6in slider. Same body each year; GPD sells one Win 4 protector: test first",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in",
+"6in",
+"6in",
+"6in"
+],
+"dims": [
+"220 x 92 x 28 mm",
+"220 x 92 x 28 mm",
+"220 x 92 x 28 mm",
+"220 x 92 x 28 mm"
+]
 },
 {
 "id": "GPD-4011",
@@ -203863,7 +206234,15 @@
 ],
 "check": "Check",
 "note": "Same body: test first. Walieoka: 2024 glass does not fit the 2025",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in",
+"7in"
+],
+"dims": [
+"168 x 109 x 26 mm",
+"168 x 109 x 26 mm"
+]
 },
 {
 "id": "GPD-4012",
@@ -203879,7 +206258,13 @@
 ],
 "check": "Confirmed",
 "note": "Walieoka: Win Mini 2024 glass does not fit the 2025",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in"
+],
+"dims": [
+"172 x 109 x 27 mm"
+]
 },
 {
 "id": "GPD-4013",
@@ -203905,6 +206290,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013634488547.html"
 ]
+],
+"screens": [
+"7in"
+],
+"dims": [
+"267 x 111.6 x 24.21 mm"
 ]
 },
 {
@@ -203921,7 +206312,13 @@
 ],
 "check": "Check",
 "note": "9.06in. Pre-order Nov 2026",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"9.06in"
+],
+"dims": [
+"207 x 147 x 34 mm"
+]
 },
 {
 "id": "SON-1001",
@@ -207351,6 +209748,12 @@
 "3MK",
 "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-sony-xperia-10-viii-3mk-flexibleglass"
 ]
+],
+"screens": [
+"6.1in"
+],
+"dims": [
+"153 x 72 x 8.3 mm"
 ]
 },
 {
@@ -207377,6 +209780,10 @@
 "screens": [
 "9.4in",
 "9.4in"
+],
+"dims": [
+"241.2 x 174.3 x 10.1 mm",
+"241.2 x 174.3 x 10.1 mm"
 ]
 },
 {
@@ -207556,7 +209963,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"36 x 36 x 8 mm"
+]
 },
 {
 "id": "SON-3002",
@@ -207639,7 +210052,17 @@
 ],
 "check": "Check",
 "note": "Film packs list all three; ZedLabz says the bezel differs by revision: test first",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.3in",
+"4.3in",
+"4.3in"
+],
+"dims": [
+"170 x 74 x 23 mm",
+"169 x 71 x 19 mm",
+"169 x 71 x 19 mm"
+]
 },
 {
 "id": "SON-4002",
@@ -207655,7 +210078,13 @@
 ],
 "check": "Check",
 "note": "Sliding screen",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.8in"
+],
+"dims": [
+"128 x 69 x 16.5 mm"
+]
 },
 {
 "id": "SON-4003",
@@ -207671,7 +210100,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.3in"
+],
+"dims": [
+"172.4 x 73.4 x 21.6 mm"
+]
 },
 {
 "id": "SON-4004",
@@ -207687,7 +210122,13 @@
 ],
 "check": "Check",
 "note": "Vita 1000 (OLED) and Slim glass differ; some film packs list both",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5in"
+],
+"dims": [
+"182 x 83.55 x 18.6 mm"
+]
 },
 {
 "id": "SON-4005",
@@ -207703,7 +210144,13 @@
 ],
 "check": "Check",
 "note": "Vita 1000 (OLED) and Slim glass differ; some film packs list both",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5in"
+],
+"dims": [
+"183.6 x 85.1 x 15 mm"
+]
 },
 {
 "id": "SON-4006",
@@ -207725,6 +210172,9 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005006357036326.html"
 ]
+],
+"screens": [
+"8in"
 ]
 },
 {
@@ -207801,6 +210251,14 @@
 "Mr.Shield via desertcart",
 "https://www.desertcart.com.sa/products/555625707-mr-shield-screen-protector-for-razer-edge-6-8-inch.md"
 ]
+],
+"screens": [
+"6.8in",
+"6.8in"
+],
+"dims": [
+"260 x 85 x 11 mm",
+"260 x 85 x 11 mm"
 ]
 },
 {
@@ -207837,7 +210295,17 @@
 ],
 "check": "Confirmed",
 "note": "Retailer 3-pack lists 2S/2+/2",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.5in",
+"",
+""
+],
+"dims": [
+"150 x 81 x 17 mm",
+"",
+""
+]
 },
 {
 "id": "RET-4003",
@@ -207865,6 +210333,14 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005005461072692.html"
 ]
+],
+"screens": [
+"4.7in",
+"4.7in"
+],
+"dims": [
+"184.65 x 81.38 x 24.23 mm",
+"184.65 x 81.38 x 24.23 mm"
 ]
 },
 {
@@ -207881,7 +210357,13 @@
 ],
 "check": "Check",
 "note": "Sliding screen",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.7in"
+],
+"dims": [
+"139 x 82 x 25.4 mm"
+]
 },
 {
 "id": "RET-4005",
@@ -207899,7 +210381,15 @@
 ],
 "check": "Confirmed",
 "note": "Mr.Shield lists both",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.7in",
+"4.7in"
+],
+"dims": [
+"184.8 x 82.6 x 15.8 mm",
+"184.8 x 82.6 x 15.8 mm"
+]
 },
 {
 "id": "RET-4006",
@@ -207935,6 +210425,14 @@
 "AliExpress seller",
 "https://www.aliexpress.com/ssr/300001493/welcomegiftspmpc?productIds=1005012077387775"
 ]
+],
+"screens": [
+"5.5in",
+"5.5in"
+],
+"dims": [
+"199.2 x 78.5 x 15.6 mm",
+"199.2 x 78.5 x 15.6 mm"
 ]
 },
 {
@@ -207957,6 +210455,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005010581769246.html"
 ]
+],
+"screens": [
+"3.7in"
+],
+"dims": [
+"165.28 x 77.62 x 16.5 mm"
 ]
 },
 {
@@ -207983,6 +210487,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013175556930.html"
 ]
+],
+"screens": [
+"5.5in"
+],
+"dims": [
+"199 x 78 x 15.6 mm"
 ]
 },
 {
@@ -208005,6 +210515,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005012683484463.html"
 ]
+],
+"screens": [
+"3.92in"
+],
+"dims": [
+"138 x 89.9 x 26 mm"
 ]
 },
 {
@@ -208021,7 +210537,13 @@
 ],
 "check": "Check",
 "note": "Different screen from the first Mini: check",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.92in"
+],
+"dims": [
+"165.28 x 77.62 x 16.5 mm"
+]
 },
 {
 "id": "RET-4011",
@@ -208051,6 +210573,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005010528464001.html"
 ]
+],
+"screens": [
+"5.5in"
+],
+"dims": [
+"205.5 x 80.5 x 17.2 mm"
 ]
 },
 {
@@ -208295,7 +210823,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in"
+],
+"dims": [
+"224 x 95 x 15 mm"
+]
 },
 {
 "id": "AYN-4002",
@@ -208311,7 +210845,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in"
+]
 },
 {
 "id": "AYN-4003",
@@ -208329,7 +210866,15 @@
 ],
 "check": "Check",
 "note": "Same 6in body: test first",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in",
+"6in"
+],
+"dims": [
+"248 x 98 x 20 mm",
+"248 x 98 x 20 mm"
+]
 },
 {
 "id": "AYN-4004",
@@ -208365,7 +210910,15 @@
 ],
 "check": "Check",
 "note": "Odin 2 Max has an AMOLED panel in the same body: test first",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in",
+""
+],
+"dims": [
+"225 x 98 x 17 mm",
+""
+]
 },
 {
 "id": "AYN-4006",
@@ -208387,6 +210940,12 @@
 "DroiX",
 "https://droix.net/product/ayn-odin-2-mini-screen-protector/"
 ]
+],
+"screens": [
+"5in"
+],
+"dims": [
+"198 x 85.8 x 19.5 mm"
 ]
 },
 {
@@ -208413,6 +210972,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013561393501.html"
 ]
+],
+"screens": [
+"7in"
+],
+"dims": [
+"257 x 98.6 x 17.2 mm"
 ]
 },
 {
@@ -208439,6 +211004,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005010435398823.html"
 ]
+],
+"screens": [
+"6in"
+],
+"dims": [
+"150 x 94 x 25.6 mm"
 ],
 "tags": [
 "two-screens"
@@ -209615,7 +212186,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2in"
+],
+"dims": [
+"106.5 x 56.5 x 10 mm"
+]
 },
 {
 "id": "TRI-4002",
@@ -209631,7 +212208,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.4in"
+],
+"dims": [
+"110 x 58 x 15 mm"
+]
 },
 {
 "id": "TRI-4003",
@@ -209657,6 +212240,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005007822565270.html"
 ]
+],
+"screens": [
+"4.96in"
+],
+"dims": [
+"188 x 80 x 17 mm"
 ]
 },
 {
@@ -209693,6 +212282,14 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005012140259356.html"
 ]
+],
+"screens": [
+"3.2in",
+"3.2in"
+],
+"dims": [
+"109.9 x 73.2 x 11.8 mm",
+"109.9 x 73.2 x 11.8 mm"
 ]
 },
 {
@@ -209719,6 +212316,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005007822565270.html"
 ]
+],
+"screens": [
+"4.96in"
+],
+"dims": [
+"187.4 x 79.8 x 17.2 mm"
 ]
 },
 {
@@ -209741,6 +212344,9 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005012907210385.html"
 ]
+],
+"screens": [
+"3.95in"
 ]
 },
 {
@@ -209757,7 +212363,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.95in"
+]
 },
 {
 "id": "AYA-4001",
@@ -209783,6 +212392,11 @@
 "DroiX",
 "https://droix.net/product/aya-neo-screen-protector/"
 ]
+],
+"screens": [
+"7in",
+"7in",
+"7in"
 ]
 },
 {
@@ -209801,7 +212415,15 @@
 ],
 "check": "Check",
 "note": "7in. Same body: test first",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in",
+"7in"
+],
+"dims": [
+"267 x 112 x 30 mm",
+"267 x 112 x 22 mm"
+]
 },
 {
 "id": "AYA-4003",
@@ -209835,6 +212457,16 @@
 "DroiX",
 "https://droix.net/product/ayaneo-air-screen-protector/"
 ]
+],
+"screens": [
+"5.5in",
+"5.5in",
+"5.5in"
+],
+"dims": [
+"224 x 89.5 x 18 mm",
+"224 x 89.5 x 21.6 mm",
+"224 x 89.5 x 18 mm"
 ]
 },
 {
@@ -209863,6 +212495,18 @@
 "DroiX",
 "https://droix.net/product/ayaneo-2-screen-protector"
 ]
+],
+"screens": [
+"7in",
+"",
+"7in",
+"7in"
+],
+"dims": [
+"264.5 x 105.5 x 21.5 mm",
+"",
+"264.5 x 105.5 x 21.5 mm",
+"264.5 x 105.5 x 22.3 mm"
 ]
 },
 {
@@ -209879,7 +212523,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6in"
+],
+"dims": [
+"237 x 91.4 x 23.1 mm"
+]
 },
 {
 "id": "AYA-4006",
@@ -209901,6 +212551,9 @@
 "AYANEO shop",
 "https://shop.ayaneo.com/products/ayaneo-air-air-pro-hd-tempered-film"
 ]
+],
+"screens": [
+"5.5in"
 ]
 },
 {
@@ -209917,7 +212570,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"8.4in"
+],
+"dims": [
+"312.4 x 132.5 x 21.9 mm"
+]
 },
 {
 "id": "AYA-4008",
@@ -209943,6 +212602,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005006091148755.html"
 ]
+],
+"screens": [
+"6in"
+],
+"dims": [
+"226 x 90 x 28.5 mm"
 ]
 },
 {
@@ -209959,7 +212624,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in"
+],
+"dims": [
+"180 x 102 x 29.8 mm"
+]
 },
 {
 "id": "AYA-4010",
@@ -209976,6 +212647,12 @@
 "check": "Check",
 "note": "Two screens: buy top and bottom sets",
 "device": "Handheld",
+"screens": [
+"7in"
+],
+"dims": [
+"180 x 102 x 36 mm"
+],
 "tags": [
 "two-screens"
 ]
@@ -210000,6 +212677,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-pocket-s-screen-protector/"
 ]
+],
+"screens": [
+"6in"
+],
+"dims": [
+"213.9 x 85 x 14 mm"
 ]
 },
 {
@@ -210022,6 +212705,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-pocket-micro-screen-protector/"
 ]
+],
+"screens": [
+"3.5in"
+],
+"dims": [
+"156 x 63 x 18 mm"
 ]
 },
 {
@@ -210044,6 +212733,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-pocket-dmg-protector/"
 ]
+],
+"screens": [
+"3.92in"
+],
+"dims": [
+"151 x 91.5 x 15 mm"
 ]
 },
 {
@@ -210066,6 +212761,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-pocket-evo-screen-protector/"
 ]
+],
+"screens": [
+"7in"
+],
+"dims": [
+"260.5 x 100 x 17 mm"
 ]
 },
 {
@@ -210092,6 +212793,9 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005012034945152.html"
 ]
+],
+"dims": [
+"179.8 x 101.8 x 25 mm"
 ],
 "tags": [
 "two-screens"
@@ -210121,6 +212825,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013606329068.html"
 ]
+],
+"screens": [
+"4.5in"
+],
+"dims": [
+"176 x 82.5 x 18.4 mm"
 ]
 },
 {
@@ -210137,7 +212847,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.5in"
+],
+"dims": [
+"156 x 63 x 18 mm"
+]
 },
 {
 "id": "AYA-4018",
@@ -210159,6 +212875,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-3-screen-protector/"
 ]
+],
+"screens": [
+"7in"
+],
+"dims": [
+"289.8 x 115 x 22.4 mm"
 ]
 },
 {
@@ -210185,6 +212907,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005011763558438.html"
 ]
+],
+"screens": [
+"4.2in"
+],
+"dims": [
+"165.9 x 82.5 x 18.7 mm"
 ]
 },
 {
@@ -210242,6 +212970,12 @@
 "DroiX",
 "https://droix.net/product/ayaneo-pocket-s2-screen-protector/"
 ]
+],
+"screens": [
+"6.3in"
+],
+"dims": [
+"228.8 x 91 x 15.9 mm"
 ]
 },
 {
@@ -210268,6 +213002,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005012098448062.html"
 ]
+],
+"screens": [
+"4.2in"
+],
+"dims": [
+"167.1 x 77.85 x 18.5 mm"
 ]
 },
 {
@@ -210290,6 +213030,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013109829265.html"
 ]
+],
+"screens": [
+"3.5in"
+],
+"dims": [
+"143 x 86.4 x 20.5 mm"
 ]
 },
 {
@@ -210306,7 +213052,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"9.06in"
+]
 },
 {
 "id": "AYA-4026",
@@ -210328,6 +213077,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013533182316.html"
 ]
+],
+"screens": [
+"3.5in"
+],
+"dims": [
+"162 x 67.8 x 18 mm"
 ]
 },
 {
@@ -210714,7 +213469,13 @@
 ],
 "check": "Check",
 "note": "7in AMOLED",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"7in"
+],
+"dims": [
+"285 x 115 x 35 mm"
+]
 },
 {
 "id": "ZOT-4002",
@@ -211302,7 +214063,15 @@
 ],
 "check": "Check",
 "note": "Same handheld in a new shell: test first. Some units have a sapphire screen",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.56in",
+""
+],
+"dims": [
+"132 x 76 x 30 mm",
+""
+]
 },
 {
 "id": "FUN-4001",
@@ -211384,7 +214153,10 @@
 ],
 "check": "Check",
 "note": "Wide 6.86in screen. All core module versions share one body",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"6.8in"
+]
 },
 {
 "id": "CLK-4003",
@@ -211400,7 +214172,10 @@
 ],
 "check": "Check",
 "note": "5in. All core module versions share one body",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"5in"
+]
 },
 {
 "id": "CLK-4004",
@@ -211416,7 +214191,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4in"
+]
 },
 {
 "id": "ANA-4001",
@@ -211438,6 +214216,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005006409400403.html"
 ]
+],
+"screens": [
+"3.5in"
+],
+"dims": [
+"149 x 86 x 22 mm"
 ]
 },
 {
@@ -211454,7 +214238,13 @@
 ],
 "check": "Check",
 "note": "2.7in. One model so far",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.7in"
+],
+"dims": [
+"76 x 74 x 9 mm"
+]
 },
 {
 "id": "SEG-4001",
@@ -211470,7 +214260,13 @@
 ],
 "check": "Check",
 "note": "3.2in. Glass goes on the screen lens; includes the 2000 Majesco re-release",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.2in"
+],
+"dims": [
+"210 x 113 x 38 mm"
+]
 },
 {
 "id": "SEG-4002",
@@ -211502,7 +214298,13 @@
 ],
 "check": "Check",
 "note": "1.15in. All four colour editions share one body",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"1.14in"
+],
+"dims": [
+"80 x 43 x 20 mm"
+]
 },
 {
 "id": "ATA-4001",
@@ -211518,7 +214320,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.5in"
+]
 },
 {
 "id": "ATA-4002",
@@ -211582,7 +214387,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.49in"
+]
 },
 {
 "id": "BAN-4002",
@@ -211598,7 +214406,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.9in"
+],
+"dims": [
+"128 x 74.3 x 24.3 mm"
+]
 },
 {
 "id": "BAN-4003",
@@ -211630,7 +214444,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"3.5in"
+],
+"dims": [
+"190 x 108 x 19 mm"
+]
 },
 {
 "id": "TIG-4002",
@@ -211646,7 +214466,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"2.8in"
+],
+"dims": [
+"140 x 86 x 28 mm"
+]
 },
 {
 "id": "NVI-2001",
@@ -211682,7 +214508,17 @@
 ],
 "check": "Check",
 "note": "8in. Same tablet; K1 is the 2015 re-release",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"8in",
+"8in",
+"8in"
+],
+"dims": [
+"221 x 126 x 9.2 mm",
+"221 x 126 x 9.2 mm",
+"221 x 126 x 9.2 mm"
+]
 },
 {
 "id": "NVI-4001",
@@ -213991,6 +216827,9 @@
 "device": "Tablet",
 "screens": [
 "12.2in"
+],
+"dims": [
+"277.75 x 191.34 x 7.5 mm"
 ]
 },
 {
@@ -214010,6 +216849,9 @@
 "device": "Tablet",
 "screens": [
 "12.2in"
+],
+"dims": [
+"271.65 x 183.13 x 6.5 mm"
 ]
 },
 {
@@ -214029,6 +216871,9 @@
 "device": "Tablet",
 "screens": [
 "14.2in"
+],
+"dims": [
+"311 x 217.1 x 6.2 mm"
 ]
 },
 {
@@ -214345,6 +217190,12 @@
 "AliExpress seller",
 "https://www.aliexpress.com/item/1005013320770271.html"
 ]
+],
+"screens": [
+"5.5in"
+],
+"dims": [
+"203.47 x 87.39 x 16.8 mm"
 ]
 },
 {
@@ -214529,7 +217380,10 @@
 ],
 "check": "Check",
 "note": "4.3in",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.3in"
+]
 },
 {
 "id": "EVC-4002",
@@ -214547,7 +217401,11 @@
 ],
 "check": "Check",
 "note": "4.3in. EXP-R is a revision in the same body",
-"device": "Handheld"
+"device": "Handheld",
+"screens": [
+"4.3in",
+""
+]
 },
 {
 "id": "EVC-4003",
@@ -214935,16 +217793,16 @@
 "screens": [
 "",
 "1.04in",
-"",
-"",
-""
+"1.04in",
+"1.04in",
+"1.04in"
 ],
 "dims": [
 "",
 "39.4 x 39.4 x 11.2 mm",
-"",
-"",
-""
+"42 x 42 x 11.4 mm",
+"39.5 x 39.5 x 11.4 mm",
+"42 x 42 x 11.6 mm"
 ],
 "tags": [
 "measure"
@@ -214985,6 +217843,32 @@
 "check": "Check",
 "note": "28mm diameter, flat lenses only. Measure the flat part of the lens first. Watches listed have a display about 27-28mm across",
 "device": "Misc",
+"screens": [
+"",
+"1.1in",
+"",
+"1.1in",
+"1.1in",
+"1.1in",
+"1.1in",
+"1.1in",
+"1.1in",
+"1.2in",
+"1.1in"
+],
+"dims": [
+"",
+"42 x 42 x 15 mm",
+"",
+"39.5 x 39.5 x 10.5 mm",
+"40 x 40 x 12.7 mm",
+"40.4 x 40.4 x 12.1 mm",
+"43 x 43 x 12.9 mm",
+"41 x 41 x 12.4 mm",
+"41 x 41 x 12.4 mm",
+"42 x 42 x 12.6 mm",
+"41.7 x 41.7 x 12.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -215281,165 +218165,165 @@
 ],
 "screens": [
 "",
-"",
-"",
 "1.2in",
 "1.2in",
 "1.2in",
 "1.2in",
-"",
-"",
-"",
 "1.2in",
 "1.2in",
 "1.2in",
-"",
-"1.2in",
-"",
-"",
-"1.2in",
-"",
-"",
-"1.2in",
-"",
-"",
-"",
-"",
-"",
 "1.2in",
 "1.2in",
-"",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
 "1.22in",
 "1.22in",
 "",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.29in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
 "",
+"1.2in",
 "",
+"1.22in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.19in",
+"1.19in",
 "",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.19in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
 "",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in"
 ],
 "dims": [
 "",
-"",
-"",
+"51 x 51 x 15.5 mm",
+"51.5 x 51.5 x 16 mm",
 "51.8 x 44 x 13.4 mm",
 "49.8 x 42.3 x 11.4 mm",
 "43.6 x 39.9 x 11.4 mm",
 "44 x 46.9 x 13.4 mm",
-"",
-"",
-"",
+"47 x 47 x 15.5 mm",
+"51 x 51 x 17.5 mm",
+"46 x 46 x 14.5 mm",
 "48.9 x 45 x 12.6 mm",
 "48.9 x 45 x 12.6 mm",
 "42.3 x 45.7 x 10.8 mm",
-"",
+"47 x 47 x 13.9 mm",
 "44.6 x 42.9 x 11.6 mm",
-"",
-"",
+"43.4 x 43.4 x 11.7 mm",
+"43.1 x 43.1 x 13.6 mm",
 "48.3 x 45 x 12.6 mm",
-"",
-"",
+"42.5 x 42.5 x 13.5 mm",
+"42.5 x 42.5 x 13.5 mm",
 "48.9 x 45 x 12.6 mm",
-"",
-"",
-"",
-"",
-"",
+"42 x 42 x 15.4 mm",
+"47 x 47 x 15.8 mm",
+"51 x 51 x 17.5 mm",
+"45.7 x 41.9 x 12.7 mm",
+"46 x 46 x 13 mm",
 "45.5 x 44.5 x 13 mm",
 "42.8 x 42.8 x 9.8 mm",
-"",
+"46 x 46 x 12.5 mm",
 "50.6 x 44 x 14.6 mm",
 "50.6 x 44 x 14.6 mm",
 "",
+"42.3 x 42.3 x 12.2 mm",
+"42.3 x 42.3 x 12.2 mm",
+"47 x 47 x 13.7 mm",
+"",
+"40 x 40 x 10.9 mm",
+"40 x 40 x 10.9 mm",
+"42 x 42 x 13.8 mm",
+"42.6 x 42.6 x 9.2 mm",
+"43 x 43 x 8.5 mm",
+"43.2 x 43.2 x 12.4 mm",
+"41.8 x 41.8 x 9.4 mm",
 "",
 "",
+"42.5 x 41.0 x 11.3 mm",
 "",
+"43.4 x 43.4 x 10.4 mm",
+"42 x 42 x 11.7 mm",
+"43.8 x 43.8 x 13.3 mm",
+"47 x 47 x 13 mm",
+"46 x 46 x 12.5 mm",
+"43 x 43 x 8.5 mm",
+"43 x 43 x 10.6 mm",
+"40.4 x 39.3 x 9.8 mm",
+"41.5 x 41.5 x 11.2 mm",
 "",
+"47 x 47 x 13 mm",
+"42 x 42 x 14.1 mm",
 "",
+"45 x 45 x 11.5 mm",
+"45 x 45 x 11.5 mm",
+"40.4 x 39.3 x 9.8 mm",
+"43 x 43 x 10.8 mm",
+"42 x 42 x 14.1 mm",
+"42 x 42 x 14.1 mm",
+"41 x 41 x 12 mm",
+"41.9 x 41.9 x 11.7 mm",
+"42.2 x 42.2 x 11.1 mm",
+"43 x 43 x 14.3 mm",
+"43 x 43 x 11.6 mm",
+"43 x 43 x 11.6 mm",
+"40.4 x 39.3 x 9.8 mm",
+"42.2 x 42.2 x 10.9 mm",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"41 x 41 x 12 mm",
+"42.6 x 42.6 x 11.9 mm",
+"42.6 x 42.6 x 11.9 mm",
+"42.6 x 42.6 x 11.9 mm"
 ],
 "tags": [
 "measure"
@@ -215468,6 +218352,20 @@
 "check": "Check",
 "note": "32mm diameter, flat lenses only. Measure the flat part of the lens first. Watches listed have a display about 31-32mm across",
 "device": "Misc",
+"screens": [
+"",
+"1in",
+"1.23in",
+"1.23in",
+"1.23in"
+],
+"dims": [
+"",
+"45 x 45 x 11.8 mm",
+"45 x 45 x 11.7 mm",
+"45 x 45 x 11.7 mm",
+"44.5 x 44.5 x 11.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -215671,15 +218569,10 @@
 "1.28in",
 "1.3in",
 "1.3in",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
 "1.3in",
 "",
 "1.3in",
@@ -215687,39 +218580,44 @@
 "1.3in",
 "1.3in",
 "",
-"",
-"",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
 "1.3in",
 "",
 "1.3in",
 "1.3in",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.2in",
+"1.28in",
+"1.28in",
+"1.28in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.28in",
+"1.3in",
+"1.28in",
+"1.3in",
+"1.3in"
 ],
 "dims": [
 "",
@@ -215731,55 +218629,55 @@
 "39 x 31 x 8.4 mm",
 "49 x 46 x 12.9 mm",
 "42 x 40 x 9.4 mm",
+"49 x 46 x 13 mm",
+"43 x 43 x 12.6 mm",
+"42.8 x 42.8 x 12.7 mm",
+"43 x 43 x 12.6 mm",
+"47 x 47 x 14.7 mm",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
+"45.1 x 45.1 x 12.8 mm",
+"47 x 47 x 14.8 mm",
+"47.7 x 47.7 x 13.5 mm",
 "41.6 x 41.6 x 11.6 mm",
 "",
 "42 x 37 x 12 mm",
 "42 x 37 x 12 mm",
 "40.6 x 34.6 x 10.8 mm",
 "47 x 47 x 12 mm",
-"",
-"",
-"",
+"47.7 x 47.7 x 13.5 mm",
+"45.4 x 45.4 x 12.2 mm",
+"47 x 44 x 12.6 mm",
 "50 x 45 x 9.6 mm",
 "",
 "43.5 x 43.5 x 10.2 mm",
 "42 x 46 x 11.9 mm",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"43.6 x 43.6 x 12.6 mm",
+"46.1 x 46.5 x 14.0 mm",
+"45.6 x 45.6 x 12.9 mm",
+"45.6 x 45.6 x 12.9 mm",
+"46.5 x 46.5 x 14.4 mm",
+"46.5 x 46.5 x 14.4 mm",
+"46 x 46 x 15 mm",
+"49.45 x 47.2 x 12.95 mm",
+"43 x 43 x 9.5 mm",
+"42.83 x 42.83 x 9.25 mm",
+"46.1 x 46.1 x 12.9 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"40.4 x 38.8 x 9.0 mm",
+"42.5 x 42.5 x 10.9 mm",
+"40.4 x 40.4 x 9.7 mm",
+"43 x 43 x 13.8 mm",
+"47 x 47 x 15.2 mm",
+"47 x 47 x 14.5 mm",
+"44.7 x 44.7 x 12.2 mm",
+"46 x 46 x 12.25 mm",
+"44.7 x 44.7 x 12.5 mm",
+"43 x 43 x 13.8 mm",
+"43 x 43 x 13.3 mm"
 ],
 "tags": [
 "measure"
@@ -215883,61 +218781,61 @@
 ],
 "screens": [
 "",
-"",
-"",
-"",
-"",
-"",
-"1.32in",
-"1.32in",
-"",
-"",
-"",
-"1.32in",
-"",
-"",
-"",
-"1.32in",
-"",
-"1.32in",
-"",
-"",
-"1.32in",
-"",
-"",
+"1.34in",
+"1.34in",
+"1.34in",
 "1.32in",
 "1.32in",
 "1.32in",
-""
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.34in",
+"1.34in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in",
+"1.32in"
 ],
 "dims": [
 "",
 "",
-"",
-"",
-"",
-"",
+"46 x 46 x 13.9 mm",
+"48.6 x 48.6 x 13.4 mm",
+"42.3 x 42.3 x 10.2 mm",
+"42.9 x 42.9 x 10.5 mm",
 "54.1 x 46 x 12.2 mm",
 "47.4 x 44.4 x 10.2 mm",
-"",
-"",
-"",
+"41.3 x 41.3 x 9.8 mm",
+"46.62 x 46.62 x 12 mm",
+"45 x 45 x 11.4 mm",
 "45 x 45 x 13.6 mm",
-"",
-"",
-"",
+"41.3 x 41.3 x 9.5 mm",
+"42.49 x 42.49 x 9.6 mm",
+"43.9 x 43.9 x 9.9 mm",
 "43.2 x 43.2 x 11 mm",
-"",
+"46 x 46 x 11.5 mm",
 "41.2 x 41.2 x 9.5 mm",
-"",
-"",
+"42.7 x 40.4 x 8.6 mm",
+"46.4 x 46.0 x 10.6 mm",
 "43.2 x 43.2 x 11 mm",
-"",
-"",
+"44.8 x 44.8 x 13.2 mm",
+"41.3 x 41.3 x 9.99 mm",
 "44 x 44 x 9.9 mm",
 "43.5 x 43.5 x 10.7 mm",
 "43.2 x 43.2 x 11.2 mm",
-""
+"46 x 46 x 11.7 mm"
 ],
 "tags": [
 "measure"
@@ -216232,76 +219130,76 @@
 "1.4in",
 "1.39in",
 "1.4in",
-"",
 "1.39in",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
+"1.39in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.4in",
+"1.39in",
+"1.39in",
+"1.4in",
+"1.39in",
+"1.36in",
+"1.36in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.4in",
+"1.36in",
+"1.36in",
+"1.4in",
+"1.4in",
+"1.39in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.39in",
 "1.39in",
 "",
 "1.39in",
 "1.4in",
-"",
-"1.39in",
-"1.39in",
-"",
-"1.39in",
-"1.39in",
-"1.39in",
-"1.39in",
-"",
-"",
-"1.39in",
 "1.4in",
 "1.4in",
-"",
-"",
-"1.39in",
-"1.39in",
 "1.4in",
-"1.39in",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in"
 ],
 "dims": [
 "",
@@ -216311,74 +219209,74 @@
 "45.7 x 45.7 x 14.5 mm",
 "",
 "46.5 x 46.5 x 10.6 mm",
-"",
-"",
-"",
-"",
-"",
-"",
+"52.2 x 46.9 x 12.9 mm",
+"44 x 44 x 10.9 mm",
+"44 x 44 x 10.9 mm",
+"51 x 51 x 14.9 mm",
+"47.2 x 47.2 x 10.75 mm",
+"45.9 x 45.9 x 10.7 mm",
 "",
 "53.3 x 46.2 x 11.4 mm",
-"",
+"50 x 50 x 15.3 mm",
 "53 x 46.8 x 10.8 mm",
 "36.5 x 25.6 x 11.8 mm",
-"",
+"46.2 x 45.0 x 11.1 mm",
 "53.3 x 46.2 x 11.4 mm",
 "53.3 x 45.9 x 11.8 mm",
-"",
+"46.4 x 46.4 x 10.7 mm",
 "48 x 48 x 13.6 mm",
 "46.7 x 46.7 x 11.4 mm",
 "46 x 46 x 10.6 mm",
 "53.4 x 45.9 x 11.8 mm",
-"",
-"",
+"52 x 52 x 17.8 mm",
+"52 x 52 x 17.8 mm",
 "46.7 x 46.7 x 11.4 mm",
 "41 x 35 x 11.9 mm",
 "41 x 35 x 11.9 mm",
-"",
-"",
+"47.2 x 47.2 x 9.7 mm",
+"51 x 51 x 14.9 mm",
 "47.8 x 46.4 x 12.4 mm",
 "46.4 x 46.4 x 10.9 mm",
 "35.7 x 25.8 x 12.2 mm",
 "53.4 x 45.9 x 11.8 mm",
+"44.4 x 43.3 x 9.8 mm",
+"45.5 x 45.5 x 11.0 mm",
+"48 x 47 x 12.2 mm",
+"50.3 x 50.3 x 15.7 mm",
+"45.8 x 45.8 x 10.8 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 15.6 mm",
+"47.1 x 47.1 x 13.65 mm",
+"49 x 49 x 13.6 mm",
+"44.4 x 43.3 x 9.8 mm",
+"45.4 x 45.4 x 10.5 mm",
+"47 x 47 x 13.4 mm",
+"47.1 x 47.1 x 13.2 mm",
+"47.3 x 47.3 x 13.45 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"45 x 45 x 12 mm",
+"46.7 x 46.7 x 11.9 mm",
+"47.3 x 47.3 x 13.5 mm",
 "",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-""
+"48.6 x 48.6 x 13.4 mm",
+"50.3 x 50.3 x 16.3 mm",
+"47 x 47 x 13.8 mm",
+"51 x 51 x 14.7 mm",
+"51 x 51 x 15.4 mm",
+"51 x 51 x 15.7 mm",
+"47 x 47 x 12.9 mm",
+"47 x 47 x 12.9 mm",
+"47 x 47 x 13.8 mm",
+"51 x 51 x 14.7 mm",
+"47 x 47 x 16 mm",
+"51 x 51 x 16.5 mm",
+"45 x 45 x 12.5 mm",
+"47 x 47 x 13.8 mm",
+"47 x 47 x 15.2 mm",
+"47 x 47 x 13.8 mm",
+"47 x 47 x 13.8 mm",
+"51 x 51 x 15.7 mm"
 ],
 "tags": [
 "measure"
@@ -216549,25 +219447,7 @@
 "1.43in",
 "1.43in",
 "1.43in",
-"",
-"",
-"1.43in",
-"1.43in",
-"1.43in",
-"1.43in",
-"1.43in",
-"1.43in",
-"",
-"",
-"1.43in",
-"1.43in",
-"1.43in",
-"",
-"",
-"1.43in",
-"",
-"1.43in",
-"",
+"1.45in",
 "1.43in",
 "1.43in",
 "1.43in",
@@ -216575,13 +219455,31 @@
 "1.43in",
 "1.43in",
 "1.43in",
-"",
 "1.43in",
 "1.43in",
 "1.43in",
 "1.43in",
-"",
-"",
+"1.43in",
+"1.43in",
+"1.45in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
+"1.43in",
 "1.43in",
 "1.43in",
 "1.43in",
@@ -216599,25 +219497,25 @@
 "46.2 x 46.2 x 12.2 mm",
 "48 x 49.6 x 14 mm",
 "46.5 x 47.3 x 11 mm",
-"",
-"",
+"46 x 46 x 10.7 mm",
+"45.9 x 45.9 x 11 mm",
 "46.4 x 46.4 x 11 mm",
 "46.5 x 46.5 x 11 mm",
 "46.4 x 46.4 x 11 mm",
 "45.9 x 45.9 x 10.5 mm",
 "46.5 x 47.3 x 11 mm",
 "46.6 x 46.6 x 10.9 mm",
-"",
-"",
+"46.6 x 46.6 x 10.9 mm",
+"46 x 46 x 10.6 mm",
 "46.4 x 46.4 x 11 mm",
 "46 x 46 x 10.7 mm",
 "47 x 47.5 x 15 mm",
-"",
-"",
+"50.1 x 48 x 12.2 mm",
+"47 x 47 x 11.8 mm",
 "47.6 x 45.9 x 11.8 mm",
-"",
+"46 x 46 x 10.9 mm",
 "47 x 47 x 12 mm",
-"",
+"49 x 49 x 13.3 mm",
 "46.1 x 46.1 x 13.8 mm",
 "47.5 x 45.9 x 11.8 mm",
 "47 x 46.6 x 12.1 mm",
@@ -216625,13 +219523,13 @@
 "45.9 x 45.9 x 10.5 mm",
 "46.1 x 46.1 x 11.3 mm",
 "47.6 x 46.6 x 12.1 mm",
-"",
+"49.9 x 49.9 x 13.2 mm",
 "46.9 x 46.9 x 12.6 mm",
 "47 x 46.6 x 12.1 mm",
 "46.5 x 46.5 x 11 mm",
 "50.6 x 44.6 x 11 mm",
-"",
-"",
+"45.8 x 45.8 x 10.7 mm",
+"46.3 x 46.3 x 10.9 mm",
 "47.3 x 47.3 x 12 mm",
 "45 x 45 x 11.4 mm",
 "47 x 47 x 14.4 mm",
@@ -216782,39 +219680,39 @@
 "1.5in",
 "1.5in",
 "1.5in",
-"",
-"",
-"",
 "1.5in",
 "1.5in",
-"",
-"",
-"",
 "1.5in",
 "1.5in",
 "1.5in",
 "1.5in",
 "",
-"",
-"",
-"",
-"",
-"",
+"1.5in",
+"1.5in",
+"1.5in",
+"1.5in",
+"1.5in",
+"1.5in",
 "1.47in",
 "1.5in",
 "1.5in",
-"",
 "1.5in",
-"",
+"1.47in",
+"1.47in",
+"1.5in",
+"1.5in",
+"1.5in",
+"1.5in",
+"1.5in",
 "1.5in",
 "1.5in",
 "1.5in",
 "1.48in",
-"",
-"",
-"",
-"",
-""
+"1.5in",
+"1.5in",
+"1.4in",
+"1.5in",
+"1.47in"
 ],
 "dims": [
 "",
@@ -216822,39 +219720,39 @@
 "48.5 x 48.5 x 13 mm",
 "46.2 x 46.2 x 10.9 mm",
 "47.6 x 47.6 x 12.9 mm",
-"",
-"",
-"",
+"44.4 x 42.8 x 9.0 mm",
+"46.5 x 46.5 x 10.9 mm",
+"46 x 46 x 10.6 mm",
 "49.4 x 49.4 x 13 mm",
 "46.4 x 46.4 x 11.4 mm",
+"44.4 x 44.4 x 9.7 mm",
 "",
-"",
-"",
+"48.5 x 48.5 x 13.75 mm",
 "47.6 x 46.6 x 11.8 mm",
 "47.6 x 46.6 x 11.8 mm",
 "46.3 x 46.3 x 11.4 mm",
 "46 x 46.7 x 11.3 mm",
-"",
-"",
-"",
-"",
-"",
-"",
+"47.4 x 47.4 x 12.3 mm",
+"46.0 x 43.7 x 8.6 mm",
+"49 x 49 x 12.5 mm",
+"49 x 49 x 13.6 mm",
+"48 x 48 x 14 mm",
+"46 x 46 x 10.95 mm",
 "45.6 x 45.6 x 11.3 mm",
 "48.5 x 48.5 x 12.9 mm",
 "46.3 x 46.3 x 11.3 mm",
-"",
+"48.5 x 48.5 x 12.2 mm",
 "48 x 48 x 12.6 mm",
-"",
+"51 x 51 x 14.3 mm",
 "47.4 x 47.4 x 11 mm",
 "47 x 47 x 14.7 mm",
 "47.4 x 47.4 x 11 mm",
 "46 x 46 x 11 mm",
-"",
-"",
-"",
-"",
-""
+"51.4 x 51.4 x 14.6 mm",
+"51.8 x 51.8 x 15.5 mm",
+"51 x 51 x 14.7 mm",
+"51 x 51 x 15.8 mm",
+"47.6 x 47.6 x 11.8 mm"
 ],
 "tags": [
 "measure"
@@ -217156,6 +220054,9 @@
 "device": "Phone",
 "screens": [
 "3.5in"
+],
+"dims": [
+"116 x 58 x 14.3 mm"
 ]
 },
 {
@@ -217202,6 +220103,9 @@
 "device": "Phone",
 "screens": [
 "3.2in"
+],
+"dims": [
+"110 x 58 x 13.7 mm"
 ]
 },
 {
@@ -217398,7 +220302,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"46 x 46 x 14 mm"
+]
 },
 {
 "id": "GAR-3013",
@@ -217430,7 +220337,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"54 x 61 x 15 mm"
+]
 },
 {
 "id": "GAR-3015",
@@ -217446,7 +220356,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"49 x 49 x 17 mm"
+]
 },
 {
 "id": "GAR-3016",
@@ -217478,7 +220394,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"45.5 x 57.2 x 15.7 mm"
+]
 },
 {
 "id": "GAR-3018",
@@ -217494,7 +220413,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.45in"
+],
+"dims": [
+"48.8 x 44.0 x 13.7 mm"
+]
 },
 {
 "id": "GAR-3019",
@@ -217542,7 +220467,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1in"
+],
+"dims": [
+"46 x 61.3 x 14.8 mm"
+]
 },
 {
 "id": "GAR-3022",
@@ -217558,7 +220489,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1in"
+],
+"dims": [
+"45 x 45 x 12 mm"
+]
 },
 {
 "id": "GAR-3023",
@@ -217574,7 +220511,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1in"
+],
+"dims": [
+"45 x 45 x 12.5 mm"
+]
 },
 {
 "id": "GAR-3024",
@@ -217606,7 +220549,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.08in"
+]
 },
 {
 "id": "GAR-3026",
@@ -217622,7 +220568,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"49 x 49 x 17 mm"
+]
 },
 {
 "id": "GAR-3027",
@@ -217638,7 +220590,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"46 x 57 x 16 mm"
+]
 },
 {
 "id": "GAR-3028",
@@ -217654,7 +220609,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.36in"
+]
 },
 {
 "id": "GAR-3029",
@@ -217670,7 +220628,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1in"
+],
+"dims": [
+"45 x 45 x 14.2 mm"
+]
 },
 {
 "id": "GAR-3030",
@@ -217686,7 +220650,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.08in"
+]
 },
 {
 "id": "GAR-3031",
@@ -217708,6 +220675,9 @@
 "Home Screen (GrizzGlass)",
 "https://homescreen.pl/en/garmin-forerunner/37821-grizzglass-hybridglass-garmin-forerunner-920xt-5904063512256.html"
 ]
+],
+"dims": [
+"48 x 55 x 12.7 mm"
 ]
 },
 {
@@ -217730,6 +220700,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-garmin-vivoactive-2p"
 ]
+],
+"screens": [
+"1.39in"
+],
+"dims": [
+"43.8 x 38.5 x 8.0 mm"
 ]
 },
 {
@@ -217755,6 +220731,20 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in",
+"",
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"51 x 51 x 15.5 mm",
+"",
+"51.5 x 51.5 x 16 mm",
+"51.5 x 51.5 x 16.0 mm",
+"51 x 51 x 15.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -217773,7 +220763,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"53.3 x 50.8 x 17.8 mm"
+]
 },
 {
 "id": "GAR-3035",
@@ -217805,7 +220801,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"40.2 x 47 x 13.9 mm"
+]
 },
 {
 "id": "GAR-3037",
@@ -217840,6 +220839,14 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0010 (32mm); measure first",
 "device": "Wearable",
+"screens": [
+"1in",
+"1.23in"
+],
+"dims": [
+"45 x 45 x 11.8 mm",
+"45 x 45 x 11.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -217859,6 +220866,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0010 (32mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.23in"
+],
+"dims": [
+"45 x 45 x 11.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -217877,7 +220890,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"51.5 x 51.5 x 15.3 mm"
+]
 },
 {
 "id": "GAR-3041",
@@ -217895,7 +220914,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.08in",
+""
+]
 },
 {
 "id": "GAR-3042",
@@ -217917,6 +220940,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-garmin-vivoactive-hr-1pvg"
 ]
+],
+"screens": [
+"1.39in"
+],
+"dims": [
+"57.0 x 30.2 x 13.5 mm"
 ]
 },
 {
@@ -217940,6 +220969,12 @@
 "https://www.supershieldz.com/tg-3p-garmin-forerunner-735xt"
 ]
 ],
+"screens": [
+"1.23in"
+],
+"dims": [
+"44.5 x 44.5 x 11.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -217958,7 +220993,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.56in"
+]
 },
 {
 "id": "GAR-3045",
@@ -217996,7 +221034,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"37.4 x 47.6 x 11.3 mm"
+]
 },
 {
 "id": "GAR-3047",
@@ -218012,7 +221053,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"42 x 42 x 12 mm"
+]
 },
 {
 "id": "GAR-3048",
@@ -218028,7 +221072,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.56in"
+]
 },
 {
 "id": "GAR-3049",
@@ -218054,6 +221101,12 @@
 "Home Screen (Hofi)",
 "https://homescreen.pl/en/garmin/26927-hofi-glass-pro-garmin-fenix-5s6s6s-pro-5906735415124.html"
 ]
+],
+"screens": [
+"1.1in"
+],
+"dims": [
+"42 x 42 x 15 mm"
 ],
 "tags": [
 "measure"
@@ -218082,6 +221135,14 @@
 "https://homescreen.pl/en/garmin/26926-hofi-glass-pro-garmin-fenix-566-pro-5906735415117.html"
 ]
 ],
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"47 x 47 x 15.5 mm",
+"47 x 47 x 15.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218105,6 +221166,16 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"51 x 51 x 17.5 mm",
+"51 x 51 x 17.5 mm",
+"51 x 51 x 17.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218129,6 +221200,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-garmin-approach-s60-3p"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 14.5 mm"
 ],
 "tags": [
 "measure"
@@ -218155,6 +221232,12 @@
 "https://www.supershieldz.com/tg-2p-garmin-forerunner-935"
 ]
 ],
+"screens": [
+"1.2in"
+],
+"dims": [
+"47 x 47 x 13.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218173,7 +221256,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.08in"
+]
 },
 {
 "id": "GAR-3055",
@@ -218203,6 +221289,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.4 x 43.4 x 11.7 mm"
 ],
 "tags": [
 "measure"
@@ -218237,6 +221329,12 @@
 "https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music"
 ]
 ],
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.1 x 43.1 x 13.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218261,6 +221359,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-3p-garmin-vivomove-hr"
 ]
+],
+"screens": [
+"0.85in"
+],
+"dims": [
+"43 x 43 x 11.6 mm"
 ]
 },
 {
@@ -218277,7 +221381,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.85in"
+]
 },
 {
 "id": "GAR-3059",
@@ -218309,7 +221416,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.56in"
+]
 },
 {
 "id": "GAR-3061",
@@ -218325,7 +221435,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.61in"
+]
 },
 {
 "id": "GAR-3062",
@@ -218341,7 +221454,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"51 x 51 x 17.8 mm"
+]
 },
 {
 "id": "GAR-3063",
@@ -218360,6 +221479,14 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42.5 x 42.5 x 13.5 mm",
+"42.5 x 42.5 x 13.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218379,6 +221506,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42 x 42 x 15.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218398,6 +221531,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"47 x 47 x 15.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218417,6 +221556,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"51 x 51 x 17.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218435,7 +221580,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.74in"
+]
 },
 {
 "id": "GAR-3068",
@@ -218463,6 +221611,18 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-garmin-instinct-2p"
 ]
+],
+"screens": [
+"",
+"1.27in",
+"1.27in",
+""
+],
+"dims": [
+"45 x 45 x 15.3 mm",
+"45 x 45 x 15.3 mm",
+"45 x 45 x 15.3 mm",
+""
 ]
 },
 {
@@ -218493,7 +221653,27 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"46 x 46 x 14.7 mm",
+"46 x 46 x 14.7 mm",
+"46 x 46 x 14.2 mm",
+"46 x 46 x 15.0 mm",
+"46 x 46 x 14.7 mm",
+"46 x 46 x 14.4 mm",
+"46 x 46 x 14.2 mm",
+"46 x 46 x 14.7 mm"
+]
 },
 {
 "id": "GAR-3070",
@@ -218509,7 +221689,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"35.5 x 40.7 x 11.3 mm"
+]
 },
 {
 "id": "GAR-3071",
@@ -218531,6 +221714,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-garmin-approach-s40-3p"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.4 x 43.4 x 11.7 mm"
 ]
 },
 {
@@ -218553,6 +221742,12 @@
 "Home Screen (3MK)",
 "https://homescreen.pl/en/garmin-forerunner/79505-hybrid-glass-3mk-flexibleglass-watch-garmin-forerunner-45-5903108299503.html"
 ]
+],
+"screens": [
+"1.04in"
+],
+"dims": [
+"42 x 42 x 11.4 mm"
 ],
 "tags": [
 "measure"
@@ -218578,6 +221773,12 @@
 "Home Screen (GrizzGlass)",
 "https://homescreen.pl/en/garmin-forerunner/37829-grizzglass-hybridglass-garmin-forerunner-45s-5904063512355.html"
 ]
+],
+"screens": [
+"1.04in"
+],
+"dims": [
+"39.5 x 39.5 x 11.4 mm"
 ],
 "tags": [
 "measure"
@@ -218614,6 +221815,14 @@
 "https://www.desertcart.com.cy/products/153069442"
 ]
 ],
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42.3 x 42.3 x 12.2 mm",
+"42.3 x 42.3 x 12.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218641,6 +221850,14 @@
 "https://homescreen.pl/en/smartwatches-accessory/55721-panzerglass-smartwatch-39mm-garmin-forerunner-945945-lte-5711724036040.html"
 ]
 ],
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"47 x 47 x 13.7 mm",
+""
+],
 "tags": [
 "measure"
 ]
@@ -218659,7 +221876,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42 x 42 x 15.4 mm"
+]
 },
 {
 "id": "GAR-3077",
@@ -218675,7 +221898,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"47 x 47 x 15.4 mm"
+]
 },
 {
 "id": "GAR-3078",
@@ -218691,7 +221920,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 17.8 mm"
+]
 },
 {
 "id": "GAR-3079",
@@ -218707,7 +221942,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.9 mm"
+]
 },
 {
 "id": "GAR-3080",
@@ -218737,6 +221978,16 @@
 "Home Screen (Hofi)",
 "https://homescreen.pl/en/garmin/26927-hofi-glass-pro-garmin-fenix-5s6s6s-pro-5906735415124.html"
 ]
+],
+"screens": [
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42 x 42 x 13.8 mm",
+"42 x 42 x 13.8 mm",
+"42 x 42 x 14.2 mm"
 ],
 "tags": [
 "measure"
@@ -218773,6 +222024,18 @@
 "https://homescreen.pl/en/garmin/26926-hofi-glass-pro-garmin-fenix-566-pro-5906735415117.html"
 ]
 ],
+"screens": [
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in"
+],
+"dims": [
+"47 x 47 x 14.7 mm",
+"47 x 47 x 14.7 mm",
+"47 x 47 x 15.1 mm",
+"47 x 47 x 14.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218806,6 +222069,20 @@
 "https://www.supershieldz.com/tg-3p-garmin-fenix-6x-6x-pro-6x-pro-solar"
 ]
 ],
+"screens": [
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218826,7 +222103,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.8in",
+"1.2in"
+],
+"dims": [
+"39 x 39 x 10.9 mm",
+"42 x 42 x 11.9 mm"
+]
 },
 {
 "id": "GAR-3084",
@@ -218844,7 +222129,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.8in",
+"1.2in"
+],
+"dims": [
+"44 x 44 x 11.3 mm",
+"42 x 42 x 11.9 mm"
+]
 },
 {
 "id": "GAR-3085",
@@ -218861,6 +222154,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.2 x 43.2 x 12.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218894,6 +222193,16 @@
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
 ],
+"screens": [
+"1.3in",
+"1.3in",
+"1.3in"
+],
+"dims": [
+"45.1 x 45.1 x 12.8 mm",
+"45.4 x 45.4 x 12.2 mm",
+"43.6 x 43.6 x 12.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218921,6 +222230,14 @@
 "https://homescreen.pl/en/garmin-venu/55725-panzerglass-smartwatch-garmin-venu-2s-vivoactive-4s-black-3653-5711724036538.html"
 ]
 ],
+"screens": [
+"1.1in",
+"1.1in"
+],
+"dims": [
+"40 x 40 x 12.7 mm",
+"40.4 x 40.4 x 12.1 mm"
+],
 "tags": [
 "measure"
 ]
@@ -218945,6 +222262,12 @@
 "Flipkart (MUTAALI)",
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
+],
+"screens": [
+"1.04in"
+],
+"dims": [
+"42 x 42 x 11.4 mm"
 ]
 },
 {
@@ -218967,6 +222290,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-2p-garmin-approach-s62"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"47 x 47 x 14.8 mm"
 ],
 "tags": [
 "measure"
@@ -218992,6 +222321,12 @@
 "Home Screen (GrizzGlass)",
 "https://homescreen.pl/en/garmin-forerunner/37827-grizzglass-hybridglass-garmin-forerunner-745-5904063512331.html"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.8 x 43.8 x 13.3 mm"
 ],
 "tags": [
 "measure"
@@ -219019,6 +222354,14 @@
 "Coolblue",
 "https://coolblue.nl/en/product/884016/garmin-venu-sq-music-beige-rose-gold-panzerglass-garmin-venu-sq-screen-protector-glass.html"
 ]
+],
+"screens": [
+"1.3in",
+"1.3in"
+],
+"dims": [
+"40.6 x 37.0 x 11.5 mm",
+"40.6 x 37.0 x 11.5 mm"
 ]
 },
 {
@@ -219038,6 +222381,14 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in",
+"1.4in"
+],
+"dims": [
+"52 x 52 x 17.8 mm",
+"52 x 52 x 17.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219056,7 +222407,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.79in"
+]
 },
 {
 "id": "GAR-3094",
@@ -219072,7 +222426,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.31in"
+],
+"dims": [
+"34.5 x 34.5 x 10.15 mm"
+]
 },
 {
 "id": "GAR-3095",
@@ -219095,6 +222455,12 @@
 "https://www.supershieldz.com/bc-tg-garmin-enduro-3p"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219115,7 +222481,11 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"dims": [
+"45.5 x 45.5 x 15.2 mm",
+"45.5 x 45.5 x 15.2 mm"
+]
 },
 {
 "id": "GAR-3097",
@@ -219137,6 +222507,9 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-2p-garmin-approach-s12"
 ]
+],
+"dims": [
+"43.7 x 43.7 x 11.5 mm"
 ]
 },
 {
@@ -219159,6 +222532,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-2p-garmin-approach-s42"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.4 x 43.4 x 11.7 mm"
 ]
 },
 {
@@ -219175,7 +222554,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 14.15 mm"
+]
 },
 {
 "id": "GAR-3100",
@@ -219198,6 +222583,12 @@
 "https://homescreen.pl/en/garmin-forerunner/111417-tech-protect-glass-fit-garmin-forerunner-55-clear-2-pack-5906302368761.html"
 ]
 ],
+"screens": [
+"1.04in"
+],
+"dims": [
+"42 x 42 x 11.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219216,7 +222607,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"43 x 43 x 12.6 mm"
+]
 },
 {
 "id": "GAR-3102",
@@ -219242,6 +222639,16 @@
 "Coolblue (Just in Case)",
 "https://www.coolblue.nl/en/product/855236/just-in-case-garmin-fenix-epix-42mm-screen-protector-glass.html"
 ]
+],
+"screens": [
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42 x 42 x 14.1 mm",
+"42 x 42 x 14.1 mm",
+"42 x 42 x 14.1 mm"
 ],
 "tags": [
 "measure"
@@ -219306,6 +222713,30 @@
 "https://www.supershieldz.com/tg-2p-garmin-forerunner-935"
 ]
 ],
+"screens": [
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in",
+"1.3in"
+],
+"dims": [
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.6 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 14.5 mm",
+"47 x 47 x 15.2 mm",
+"47 x 47 x 14.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219347,6 +222778,24 @@
 "https://www.spigen.com/products/garmin-series-ez-fit-glas-tr"
 ]
 ],
+"screens": [
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 16.0 mm",
+"51 x 51 x 15.6 mm",
+"51 x 51 x 14.9 mm",
+"51 x 51 x 14.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219365,7 +222814,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"47 x 47 x 15.2 mm"
+]
 },
 {
 "id": "GAR-3106",
@@ -219393,6 +222848,10 @@
 "Supershieldz (desertcart)",
 "https://www.desertcart.co.za/products/411120287-supershieldz-3-pack-designed-for-garmin-instinct-2-instinct-2"
 ]
+],
+"dims": [
+"45 x 45 x 14.5 mm",
+"45 x 45 x 14.5 mm"
 ]
 },
 {
@@ -219417,6 +222876,14 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-garmin-instinct-2s-2p"
 ]
+],
+"screens": [
+"1.12in",
+"1.12in"
+],
+"dims": [
+"40 x 40 x 13.3 mm",
+"40 x 40 x 13.3 mm"
 ]
 },
 {
@@ -219439,6 +222906,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-garmin-bounce-2p"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"42.0 x 42.4 x 12.6 mm"
 ]
 },
 {
@@ -219455,7 +222928,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"0.74in"
+]
 },
 {
 "id": "GAR-3110",
@@ -219479,6 +222955,14 @@
 "Best Buy Canada",
 "https://www.bestbuy.ca/en-ca/product/4-pack-screen-protector-for-garmin-forerunner-255-255-music-46mm-smartwatch-tempered-gl-screen-cover-bubble-free/19926413"
 ]
+],
+"screens": [
+"1.3in",
+"1.3in"
+],
+"dims": [
+"45.6 x 45.6 x 12.9 mm",
+"45.6 x 45.6 x 12.9 mm"
 ],
 "tags": [
 "measure"
@@ -219515,6 +222999,14 @@
 "https://www.desertcart.ma/products/469431050-idapro-4-pack-screen-protector-for-garmin-forerunner-255s-255s"
 ]
 ],
+"screens": [
+"1.1in",
+"1.1in"
+],
+"dims": [
+"41 x 41 x 12.4 mm",
+"41 x 41 x 12.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219546,6 +223038,14 @@
 "https://www.desertcart.co.za/products/448955408-supershieldz-3-pack-designed-for-garmin-forerunner-955-955-solar"
 ]
 ],
+"screens": [
+"1.3in",
+"1.3in"
+],
+"dims": [
+"46.5 x 46.5 x 14.4 mm",
+"46.5 x 46.5 x 14.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219576,6 +223076,14 @@
 "Alza",
 "https://m.alza.at/gehartetes-schutzglas-fur-garmin-venu-sq-2-wasserdicht-d7451570.htm"
 ]
+],
+"screens": [
+"1.41in",
+"1.41in"
+],
+"dims": [
+"40.6 x 37.0 x 11.1 mm",
+"40.6 x 37.0 x 11.1 mm"
 ]
 },
 {
@@ -219593,6 +223101,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0006 (28mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42 x 42 x 12.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219612,6 +223126,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 13.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219637,6 +223157,12 @@
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
 ],
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 15 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219661,6 +223187,9 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-garmin-instinct-crossover-2p"
 ]
+],
+"dims": [
+"45 x 45 x 16.2 mm"
 ]
 },
 {
@@ -219677,7 +223206,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.25in"
+],
+"dims": [
+"40.4 x 40.4 x 11.9 mm"
+]
 },
 {
 "id": "GAR-3119",
@@ -219699,6 +223234,12 @@
 "Flipkart (DB)",
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"46.1 x 46.1 x 12.9 mm"
 ],
 "tags": [
 "measure"
@@ -219725,6 +223266,12 @@
 "https://homescreen.pl/en/garmin-forerunner/54040-hofi-hybrid-pro-garmin-forerunner-265s-black-9490713933695.html"
 ]
 ],
+"screens": [
+"1.1in"
+],
+"dims": [
+"41.7 x 41.7 x 12.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219750,6 +223297,12 @@
 "https://homescreen.pl/en/garmin-forerunner/54420-hofi-hybrid-pro-garmin-forerunner-965-black-9490713933718.html"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"47.1 x 47.1 x 13.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219774,6 +223327,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-garmin-instinct-2x-solar-2p"
 ]
+],
+"screens": [
+"1.56in"
+],
+"dims": [
+"50 x 50 x 14.5 mm"
 ]
 },
 {
@@ -219790,7 +223349,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 15.0 mm"
+]
 },
 {
 "id": "GAR-3124",
@@ -219814,6 +223379,14 @@
 "Coolblue (Just in Case)",
 "https://www.coolblue.nl/en/product/855236/just-in-case-garmin-fenix-epix-42mm-screen-protector-glass.html"
 ]
+],
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42 x 42 x 14.1 mm",
+"42 x 42 x 14.1 mm"
 ],
 "tags": [
 "measure"
@@ -219840,6 +223413,12 @@
 "https://homescreen.pl/en/garmin-venu/111871-tech-protect-glass-flex-garmin-venu-3-black-2-pack-5906302368785.html"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219864,6 +223443,12 @@
 "Home Screen (Tech-Protect)",
 "https://homescreen.pl/en/garmin-venu/111867-tech-protect-glass-flex-garmin-venu-3s-black-2-pack-5906302368723.html"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12 mm"
 ],
 "tags": [
 "measure"
@@ -219890,6 +223475,9 @@
 "https://homescreen.pl/en/vivoactive-5/65892-hofi-hybrid-pro-garmin-vivoactive-5-black-2-pack-9319456607123.html"
 ]
 ],
+"dims": [
+"42.2 x 42.2 x 11.1 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219909,6 +223497,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 14.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -219952,6 +223546,12 @@
 "Flipkart (DB)",
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
+],
+"screens": [
+"1.31in"
+],
+"dims": [
+"35.4 x 35.4 x 10.1 mm"
 ]
 },
 {
@@ -219981,6 +223581,14 @@
 "https://www.bestbuy.ca/en-ca/product/for-garmin-forerunner-165-165-music-screen-protector-9h-tempered-glass-film-3pack-charger-port/19589725"
 ]
 ],
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"43 x 43 x 11.6 mm",
+"43 x 43 x 11.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220005,6 +223613,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-fenix-8-43mm-2p"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"43 x 43 x 13.8 mm"
 ],
 "tags": [
 "measure"
@@ -220031,6 +223645,12 @@
 "https://www.supershieldz.com/tg-2p-garmin-forerunner-935"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 13.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220055,6 +223675,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-garmin-fenix-7x-2p"
 ]
+],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.7 mm"
 ],
 "tags": [
 "measure"
@@ -220081,6 +223707,12 @@
 "https://www.supershieldz.com/bc-tg-garmin-fenix-7x-2p"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 15.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220100,6 +223732,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 15.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220118,7 +223756,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.31in"
+],
+"dims": [
+"38 x 38 x 11 mm"
+]
 },
 {
 "id": "GAR-3138",
@@ -220156,6 +223800,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-instinct-3-45mm-2p"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"45 x 45 x 14.9 mm"
 ]
 },
 {
@@ -220178,6 +223828,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-instinct-3-50mm-2p"
 ]
+],
+"screens": [
+"1.3in"
+],
+"dims": [
+"50 x 50 x 14.4 mm"
 ]
 },
 {
@@ -220200,6 +223856,9 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-instinct-3-45mm-2p"
 ]
+],
+"dims": [
+"45 x 45 x 14.9 mm"
 ]
 },
 {
@@ -220222,6 +223881,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-instinct-3-50mm-2p"
 ]
+],
+"screens": [
+"1.56in"
+],
+"dims": [
+"50 x 50 x 14.4 mm"
 ]
 },
 {
@@ -220244,6 +223909,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ga-instinct-e-40mm-3p"
 ]
+],
+"screens": [
+"1.22in"
+],
+"dims": [
+"40 x 40 x 13.6 mm"
 ]
 },
 {
@@ -220266,6 +223937,12 @@
 "Home Screen (Bizon)",
 "https://homescreen.pl/en/garmin-instinct/106017-bizon-glass-watch-clear-garmin-instinct-e-45-mm-5907339011811.html"
 ]
+],
+"screens": [
+"1.27in"
+],
+"dims": [
+"45 x 45 x 14.2 mm"
 ]
 },
 {
@@ -220282,7 +223959,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"45.5 x 45.5 x 15.2 mm"
+]
 },
 {
 "id": "GAR-3146",
@@ -220298,7 +223981,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 15.2 mm"
+]
 },
 {
 "id": "GAR-3147",
@@ -220314,7 +224003,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.7 mm"
+]
 },
 {
 "id": "GAR-3148",
@@ -220330,7 +224025,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 15.4 mm"
+]
 },
 {
 "id": "GAR-3149",
@@ -220346,7 +224047,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 11.4 mm"
+]
 },
 {
 "id": "GAR-3150",
@@ -220385,6 +224092,9 @@
 "https://homescreen.pl/en/vivoactive-6/107033-hybrid-glass-tech-protect-glass-flex-garmin-vivoactive-6-black-2-pack-5906302363896.html"
 ]
 ],
+"dims": [
+"42.2 x 42.2 x 10.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220403,7 +224113,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"50 x 50 x 14.4 mm"
+]
 },
 {
 "id": "GAR-3153",
@@ -220419,7 +224135,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.27in"
+],
+"dims": [
+"45 x 45 x 14.9 mm"
+]
 },
 {
 "id": "GAR-3154",
@@ -220435,7 +224157,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.56in"
+],
+"dims": [
+"50 x 50 x 14.4 mm"
+]
 },
 {
 "id": "GAR-3155",
@@ -220457,6 +224185,9 @@
 "Home Screen (Tech-Protect)",
 "https://homescreen.pl/en/garmin-forerunner/111411-tech-protect-glass-flex-garmin-forerunner-570-42mm-black-2-pack-5906302368716.html"
 ]
+],
+"screens": [
+"1.2in"
 ],
 "tags": [
 "measure"
@@ -220489,6 +224220,14 @@
 "https://www.flipkart.com/search?q=garmin+tempered+glass"
 ]
 ],
+"screens": [
+"1.4in",
+"1.4in"
+],
+"dims": [
+"47 x 47 x 12.9 mm",
+"47 x 47 x 12.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220508,6 +224247,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 13.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220527,6 +224272,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220551,6 +224302,12 @@
 "Home Screen (Bizon, Tech-Protect)",
 "https://homescreen.pl/en/garmin-venu/113654-tech-protect-glass-flex-garmin-venu-x1-black-2-pack-5906302330904.html"
 ]
+],
+"screens": [
+"2in"
+],
+"dims": [
+"46 x 41 x 7.9 mm"
 ]
 },
 {
@@ -220573,6 +224330,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/tg-2p-garmin-forerunner-935"
 ]
+],
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 16 mm"
 ],
 "tags": [
 "measure"
@@ -220599,6 +224362,12 @@
 "https://www.supershieldz.com/bc-tg-garmin-fenix-7x-2p"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 16.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220617,7 +224386,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 16.5 mm"
+]
 },
 {
 "id": "GAR-3163",
@@ -220639,6 +224414,12 @@
 "Home Screen (Tech-Protect)",
 "https://homescreen.pl/en/garmin-venu/120732-tech-protect-glass-flex-garmin-venu-4-41mm-black-2-pack-5906302335268.html"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"41 x 41 x 12 mm"
 ],
 "tags": [
 "measure"
@@ -220665,6 +224446,12 @@
 "https://homescreen.pl/en/garmin-venu/120733-tech-protect-glass-flex-garmin-venu-4-45mm-black-2-pack-5906302335275.html"
 ]
 ],
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220689,6 +224476,12 @@
 "Home Screen (GrizzGlass)",
 "https://homescreen.pl/en/garmin-instinct/124538-grizzglass-hybridglass-garmin-instinct-crossover-amoled-5904960812831.html"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"46.6 x 46.6 x 15.1 mm"
 ]
 },
 {
@@ -220705,7 +224498,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 12.4 mm"
+]
 },
 {
 "id": "GAR-3167",
@@ -220737,7 +224536,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"45 x 45 x 12.5 mm"
+]
 },
 {
 "id": "GAR-3169",
@@ -220754,6 +224559,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 13.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220789,6 +224600,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"47 x 47 x 15.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220823,7 +224640,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+]
 },
 {
 "id": "GAR-3174",
@@ -220839,7 +224659,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 16.5 mm"
+]
 },
 {
 "id": "GAR-3175",
@@ -220870,6 +224696,16 @@
 "https://homescreen.pl/en/garmin-forerunner/149595-3mk-flexibleglass-watch-garmin-forerunner-70-170-170-music-5903108774574.html"
 ]
 ],
+"screens": [
+"1.2in",
+"1.2in",
+"1.2in"
+],
+"dims": [
+"42.6 x 42.6 x 11.9 mm",
+"42.6 x 42.6 x 11.9 mm",
+"42.6 x 42.6 x 11.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220891,6 +224727,14 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in",
+"1.3in"
+],
+"dims": [
+"43 x 43 x 13.8 mm",
+"43 x 43 x 13.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220914,6 +224758,16 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in",
+"1.4in",
+"1.3in"
+],
+"dims": [
+"47 x 47 x 13.8 mm",
+"47 x 47 x 13.8 mm",
+"47 x 47 x 15.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220937,6 +224791,16 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in",
+"1.5in",
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.7 mm",
+"51 x 51 x 15.8 mm",
+"51 x 51 x 16.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220956,6 +224820,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 15.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -220974,7 +224844,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"43 x 43 x 12.93 mm"
+]
 },
 {
 "id": "GAR-3181",
@@ -221016,7 +224892,23 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in",
+"1.4in"
+],
+"dims": [
+"47 x 47 x 15 mm",
+"47 x 47 x 15 mm",
+"47 x 47 x 15 mm",
+"47 x 47 x 15 mm",
+"47 x 47 x 15 mm",
+"47 x 47 x 15 mm"
+]
 },
 {
 "id": "GAR-3183",
@@ -221055,6 +224947,9 @@
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
 ],
+"screens": [
+"1.34in"
+],
 "tags": [
 "measure"
 ]
@@ -221079,6 +224974,12 @@
 "Flipkart (MUTAALI)",
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
+],
+"screens": [
+"1.28in"
+],
+"dims": [
+"39.4 x 34.1 x 9.5 mm"
 ]
 },
 {
@@ -221118,6 +225019,12 @@
 "https://www.flipkart.com/search?q=huawei+watch+tempered+glass"
 ]
 ],
+"screens": [
+"1.34in"
+],
+"dims": [
+"46 x 46 x 13.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221137,6 +225044,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"43 x 43 x 12.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221161,6 +225074,12 @@
 "Flipkart (DB, MUTAALI)",
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
+],
+"screens": [
+"1.28in"
+],
+"dims": [
+"39.4 x 34.1 x 9.5 mm"
 ]
 },
 {
@@ -221178,6 +225097,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"43 x 43 x 12.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221213,6 +225138,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.29in"
+],
+"dims": [
+"42.6 x 42.6 x 9.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221232,6 +225163,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.2 x 47.2 x 10.75 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221251,6 +225188,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"48.6 x 48.6 x 13.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221275,6 +225218,12 @@
 "Flipkart (DB)",
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
+],
+"screens": [
+"1.65in"
+],
+"dims": [
+"43.25 x 36.25 x 9.4 mm"
 ]
 },
 {
@@ -221293,7 +225242,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.28in",
+"1.28in"
+],
+"dims": [
+"42 x 35.3 x 11.4 mm",
+"42 x 35.3 x 11.4 mm"
+]
 },
 {
 "id": "AMF-3014",
@@ -221318,6 +225275,14 @@
 "https://www.supershieldz.com/tg-2p-amazfit-t-rex"
 ]
 ],
+"screens": [
+"1.3in",
+"1.3in"
+],
+"dims": [
+"47.7 x 47.7 x 13.5 mm",
+"47.7 x 47.7 x 13.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221336,7 +225301,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.1in"
+],
+"dims": [
+"47.2 x 18.5 x 12.4 mm"
+]
 },
 {
 "id": "AMF-3016",
@@ -221369,6 +225340,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"46.4 x 46.4 x 10.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221387,7 +225364,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.65in"
+],
+"dims": [
+"42.8 x 35.6 x 9.7 mm"
+]
 },
 {
 "id": "AMF-3019",
@@ -221405,7 +225388,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.43in",
+"1.43in"
+],
+"dims": [
+"40.9 x 35.5 x 11.4 mm",
+"40.9 x 35.5 x 11.4 mm"
+]
 },
 {
 "id": "AMF-3020",
@@ -221421,7 +225412,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"40.3 x 41 x 11.7 mm"
+]
 },
 {
 "id": "AMF-3021",
@@ -221437,7 +225434,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.55in"
+],
+"dims": [
+"40.5 x 35.8 x 8.95 mm"
+]
 },
 {
 "id": "AMF-3022",
@@ -221454,6 +225457,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.2 x 47.2 x 9.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221472,7 +225481,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.65in"
+],
+"dims": [
+"42.8 x 35.6 x 9.7 mm"
+]
 },
 {
 "id": "AMF-3024",
@@ -221507,6 +225522,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"45.8 x 45.8 x 10.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221526,6 +225547,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.45in"
+],
+"dims": [
+"46 x 46 x 10.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221544,7 +225571,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.75in"
+],
+"dims": [
+"42.4 x 36 x 8.8 mm"
+]
 },
 {
 "id": "AMF-3028",
@@ -221567,6 +225600,12 @@
 "https://www.supershieldz.com/bc-tg-amazfit-t-rex-2-2p"
 ]
 ],
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.1 x 47.1 x 13.65 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221587,7 +225626,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.69in",
+"1.69in"
+],
+"dims": [
+"44.12 x 36.49 x 9.65 mm",
+"44.12 x 36.49 x 9.65 mm"
+]
 },
 {
 "id": "AMF-3030",
@@ -221603,7 +225650,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.65in"
+],
+"dims": [
+"41.8 x 36.66 x 9.1 mm"
+]
 },
 {
 "id": "AMF-3031",
@@ -221619,7 +225672,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"42.33 x 24.36 x 12.2 mm"
+]
 },
 {
 "id": "AMF-3032",
@@ -221642,6 +225701,12 @@
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
 ],
+"screens": [
+"1.43in"
+],
+"dims": [
+"46 x 46 x 10.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221660,7 +225725,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.75in"
+],
+"dims": [
+"42.7 x 36.5 x 9.9 mm"
+]
 },
 {
 "id": "AMF-3034",
@@ -221677,6 +225748,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.28in"
+],
+"dims": [
+"49.45 x 47.2 x 12.95 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221701,6 +225778,12 @@
 "Flipkart (DB)",
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
+],
+"screens": [
+"1.28in"
+],
+"dims": [
+"42.83 x 42.83 x 9.25 mm"
 ],
 "tags": [
 "measure"
@@ -221727,6 +225810,12 @@
 "https://www.supershieldz.com/bc-tg-amazfit-t-rex-ultra-2p"
 ]
 ],
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.3 x 47.3 x 13.45 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221746,6 +225835,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"46.7 x 46.7 x 11.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221765,6 +225860,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.45in"
+],
+"dims": [
+"47 x 47 x 11.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221790,6 +225891,12 @@
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
 ],
+"screens": [
+"1.5in"
+],
+"dims": [
+"46 x 46 x 10.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221808,7 +225915,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.91in"
+],
+"dims": [
+"45.94 x 38.09 x 11.2 mm"
+]
 },
 {
 "id": "AMF-3041",
@@ -221824,7 +225937,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.75in"
+],
+"dims": [
+"42.36 x 35.9 x 10.75 mm"
+]
 },
 {
 "id": "AMF-3042",
@@ -221840,7 +225959,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.75in"
+],
+"dims": [
+"44.0 x 38.7 x 9.9 mm"
+]
 },
 {
 "id": "AMF-3043",
@@ -221863,6 +225988,12 @@
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
 ],
+"screens": [
+"1.32in"
+],
+"dims": [
+"46.62 x 46.62 x 12 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221881,7 +226012,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.91in"
+],
+"dims": [
+"45.8 x 37.08 x 10 mm"
+]
 },
 {
 "id": "AMF-3045",
@@ -221904,6 +226041,12 @@
 "https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p"
 ]
 ],
+"screens": [
+"1.5in"
+],
+"dims": [
+"48.5 x 48.5 x 13.75 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221925,6 +226068,14 @@
 "check": "Check",
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in",
+"1.32in"
+],
+"dims": [
+"43.9 x 43.9 x 9.9 mm",
+"43.9 x 43.9 x 9.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221949,6 +226100,12 @@
 "Flipkart (SAIFIANDSONS)",
 "https://www.flipkart.com/search?q=amazfit+tempered+glass"
 ]
+],
+"screens": [
+"1.97in"
+],
+"dims": [
+"46.3 x 40.2 x 10.45 mm"
 ]
 },
 {
@@ -221974,6 +226131,14 @@
 "https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p"
 ]
 ],
+"screens": [
+"1.5in",
+"1.32in"
+],
+"dims": [
+"47.4 x 47.4 x 12.3 mm",
+"45 x 45 x 11 mm"
+],
 "tags": [
 "measure"
 ]
@@ -221992,7 +226157,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.75in"
+],
+"dims": [
+"43.32 x 36.9 x 9 mm"
+]
 },
 {
 "id": "AMF-3050",
@@ -222008,7 +226179,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"47.4 x 47.4 x 12.3 mm"
+]
 },
 {
 "id": "AMF-3051",
@@ -222025,6 +226202,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"44.8 x 44.8 x 13.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222050,6 +226233,12 @@
 "https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p"
 ]
 ],
+"screens": [
+"1.5in"
+],
+"dims": [
+"48 x 48 x 14 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222069,6 +226258,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"48.5 x 48.5 x 12.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222088,6 +226283,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"51 x 51 x 14.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222106,7 +226307,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"48 x 48 x 15.6 mm"
+]
 },
 {
 "id": "AMF-3056",
@@ -222122,7 +226329,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"47.4 x 47.4 x 15.6 mm"
+]
 },
 {
 "id": "AMF-3057",
@@ -222138,7 +226351,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"2.07in"
+],
+"dims": [
+"49.58 x 42.76 x 13.24 mm"
+]
 },
 {
 "id": "AMF-3058",
@@ -222155,6 +226374,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"51.4 x 51.4 x 14.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222174,6 +226399,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"51.8 x 51.8 x 15.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222779,6 +227010,11 @@
 "https://www.supershieldz.com/tg-2p-ticwatch-pro"
 ]
 ],
+"screens": [
+"1.39in",
+"",
+""
+],
 "tags": [
 "measure"
 ]
@@ -222804,6 +227040,12 @@
 "https://www.supershieldz.com/tg-2p-ticwatch-c2"
 ]
 ],
+"screens": [
+"1.3in"
+],
+"dims": [
+"42.8 x 42.8 x 12.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222823,6 +227065,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"52.2 x 46.9 x 12.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222902,6 +227150,12 @@
 "https://www.supershieldz.com/tg-2p-ticwatch-e3"
 ]
 ],
+"screens": [
+"1.3in"
+],
+"dims": [
+"47 x 44 x 12.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -222931,6 +227185,16 @@
 "https://www.supershieldz.com/tg-2p-ticwatch-pro-3-gps"
 ]
 ],
+"screens": [
+"1.4in",
+"",
+""
+],
+"dims": [
+"48 x 47 x 12.2 mm",
+"",
+""
+],
 "tags": [
 "measure"
 ]
@@ -222959,6 +227223,16 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-ticwatch-pro-5-2p"
 ]
+],
+"screens": [
+"1.43in",
+"",
+""
+],
+"dims": [
+"50.1 x 48 x 12.2 mm",
+"",
+""
 ],
 "tags": [
 "measure"
@@ -223107,6 +227381,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 13 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223126,6 +227406,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 12.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223145,6 +227431,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 8.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223183,6 +227475,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.22in"
+],
+"dims": [
+"43.4 x 43.4 x 10.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223202,6 +227500,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"47 x 47 x 13 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223221,6 +227525,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 12.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223240,6 +227550,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 8.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223259,6 +227575,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"47 x 47 x 13 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223278,6 +227600,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"45 x 45 x 11.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223297,6 +227625,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"45 x 45 x 11.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223316,6 +227650,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.28in"
+],
+"dims": [
+"43 x 43 x 9.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223335,6 +227675,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"47.3 x 47.3 x 13.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223354,6 +227700,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"48.6 x 48.6 x 13.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223373,6 +227725,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.28in"
+],
+"dims": [
+"44.7 x 44.7 x 12.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223392,6 +227750,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.28in"
+],
+"dims": [
+"44.7 x 44.7 x 12.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223478,7 +227842,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in",
+"1.2in"
+],
+"dims": [
+"50 x 50 x 15.5 mm",
+"50 x 50 x 15.5 mm"
+]
 },
 {
 "id": "SUU-3005",
@@ -223500,6 +227872,12 @@
 "Supershieldz",
 "https://www.supershieldz.com/bc-tg-suunto-spartan-ultra-2p"
 ]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"50 x 50 x 17 mm"
 ]
 },
 {
@@ -223516,7 +227894,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"50 x 50 x 13.8 mm"
+]
 },
 {
 "id": "SUU-3007",
@@ -223532,7 +227916,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"46 x 46 x 15.7 mm"
+]
 },
 {
 "id": "SUU-3008",
@@ -223548,7 +227938,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.34in"
+],
+"dims": [
+"50 x 50 x 16.5 mm"
+]
 },
 {
 "id": "SUU-3009",
@@ -223564,7 +227960,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 14 mm"
+]
 },
 {
 "id": "SUU-3010",
@@ -223580,7 +227982,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.1in"
+],
+"dims": [
+"46 x 46 x 14.6 mm"
+]
 },
 {
 "id": "SUU-3011",
@@ -223597,6 +228005,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.39in"
+],
+"dims": [
+"50 x 50 x 15.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223616,6 +228030,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 10.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223635,6 +228055,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0006 (28mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.1in"
+],
+"dims": [
+"43 x 43 x 12.9 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223654,6 +228080,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"49 x 49 x 13.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223673,6 +228105,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43 x 43 x 10.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223692,6 +228130,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"49 x 49 x 13.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223711,6 +228155,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"45 x 45 x 11.4 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223730,6 +228180,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0015 (37mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.43in"
+],
+"dims": [
+"49.9 x 49.9 x 13.2 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223749,6 +228205,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"46 x 46 x 11.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223768,6 +228230,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"49 x 49 x 12.5 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223787,6 +228255,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.5in"
+],
+"dims": [
+"49 x 49 x 13.6 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223806,6 +228280,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0012 (34mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.32in"
+],
+"dims": [
+"46 x 46 x 11.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223824,7 +228304,10 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+]
 },
 {
 "id": "COR-3002",
@@ -223911,6 +228394,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"42 x 42 x 11.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223930,6 +228419,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"50.3 x 50.3 x 15.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223949,6 +228444,9 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
 "tags": [
 "measure"
 ]
@@ -223968,6 +228466,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"46.1 x 46.5 x 14.0 mm"
+],
 "tags": [
 "measure"
 ]
@@ -223987,6 +228491,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"41.9 x 41.9 x 11.7 mm"
+],
 "tags": [
 "measure"
 ]
@@ -224006,6 +228516,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.4in"
+],
+"dims": [
+"50.3 x 50.3 x 16.3 mm"
+],
 "tags": [
 "measure"
 ]
@@ -224025,6 +228541,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"46 x 46 x 12.25 mm"
+],
 "tags": [
 "measure"
 ]
@@ -224043,7 +228565,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"47.8 x 47.8 x 14.8 mm"
+]
 },
 {
 "id": "COR-3014",
@@ -224059,7 +228587,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.3in"
+],
+"dims": [
+"46.2 x 46.2 x 13.7 mm"
+]
 },
 {
 "id": "COR-3015",
@@ -224075,7 +228609,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Wearable"
+"device": "Wearable",
+"screens": [
+"1.2in"
+],
+"dims": [
+"43.4 x 43.4 x 11.8 mm"
+]
 },
 {
 "id": "COR-3016",
@@ -224092,6 +228632,12 @@
 "check": "Check",
 "note": "Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
+"screens": [
+"1.47in"
+],
+"dims": [
+"47.6 x 47.6 x 11.8 mm"
+],
 "tags": [
 "measure"
 ]
@@ -224341,7 +228887,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"184 x 120 x 10 mm"
+]
 },
 {
 "id": "KOB-2002",
@@ -224373,7 +228925,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"165 x 114 x 10 mm"
+]
 },
 {
 "id": "KOB-2004",
@@ -224405,7 +228963,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"157 x 114 x 10 mm"
+]
 },
 {
 "id": "KOB-2006",
@@ -224421,7 +228985,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"5in"
+],
+"dims": [
+"133 x 102 x 10 mm"
+]
 },
 {
 "id": "KOB-2007",
@@ -224437,7 +229007,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"189 x 120 x 11.5 mm"
+]
 },
 {
 "id": "KOB-2008",
@@ -224453,7 +229029,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.8in"
+],
+"dims": [
+"175.7 x 128.3 x 11.7 mm"
+]
 },
 {
 "id": "KOB-2009",
@@ -224469,7 +229051,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"150 x 114 x 8.1 mm"
+]
 },
 {
 "id": "KOB-2010",
@@ -224485,7 +229073,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"194 x 122 x 10.05 mm"
+]
 },
 {
 "id": "KOB-2011",
@@ -224501,7 +229095,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.1in"
+],
+"dims": [
+"253 x 172 x 9.9 mm"
+]
 },
 {
 "id": "KOB-2012",
@@ -224517,7 +229117,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.8in"
+],
+"dims": [
+"179 x 129 x 9.7 mm"
+]
 },
 {
 "id": "KOB-2013",
@@ -224535,7 +229141,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in"
+],
+"dims": [
+"157 x 114 x 10 mm",
+"157 x 115 x 9.2 mm"
+]
 },
 {
 "id": "KOB-2014",
@@ -224551,7 +229165,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"195.1 x 138.5 x 6.9 mm"
+]
 },
 {
 "id": "KOB-2015",
@@ -224567,7 +229187,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"154.5 x 109 x 8.5 mm"
+]
 },
 {
 "id": "KOB-2016",
@@ -224583,7 +229209,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.8in"
+],
+"dims": [
+"172 x 129 x 8.9 mm"
+]
 },
 {
 "id": "KOB-2017",
@@ -224599,7 +229231,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"159.6 x 110 x 8.35 mm"
+]
 },
 {
 "id": "KOB-2018",
@@ -224615,7 +229253,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"8in"
+],
+"dims": [
+"177.7 x 160 x 8.5 mm"
+]
 },
 {
 "id": "KOB-2019",
@@ -224631,7 +229275,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"159 x 144 x 5 mm"
+]
 },
 {
 "id": "KOB-2020",
@@ -224647,7 +229297,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"159.3 x 112.4 x 9.2 mm"
+]
 },
 {
 "id": "KOB-2021",
@@ -224663,7 +229319,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"227.5 x 193 x 7.6 mm"
+]
 },
 {
 "id": "KOB-2022",
@@ -224679,7 +229341,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"8in"
+],
+"dims": [
+"181.4 x 160.5 x 7.6 mm"
+]
 },
 {
 "id": "KOB-2023",
@@ -224695,7 +229363,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"161.6 x 144.6 x 9 mm"
+]
 },
 {
 "id": "KOB-2024",
@@ -224715,7 +229389,17 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in",
+"6in"
+],
+"dims": [
+"159.02 x 112.05 x 8.66 mm",
+"160 x 112 x 9.2 mm",
+"160 x 112 x 9.2 mm"
+]
 },
 {
 "id": "KOB-2025",
@@ -224731,7 +229415,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"227 x 193 x 7.5 mm"
+]
 },
 {
 "id": "KOB-2026",
@@ -224747,7 +229437,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"161 x 144.6 x 8.3 mm"
+]
 },
 {
 "id": "RMK-2001",
@@ -224827,7 +229523,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"228.1 x 187.1 x 6 mm"
+]
 },
 {
 "id": "BOX-2001",
@@ -224843,7 +229545,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"325 x 237 x 7.5 mm"
+]
 },
 {
 "id": "BOX-2002",
@@ -224859,7 +229567,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"196.3 x 137 x 7.7 mm"
+]
 },
 {
 "id": "BOX-2003",
@@ -224875,7 +229589,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"249.5 x 177.8 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2004",
@@ -224907,7 +229627,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"160 x 114 x 7.8 mm"
+]
 },
 {
 "id": "BOX-2006",
@@ -224923,7 +229649,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"249.5 x 178.8 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2007",
@@ -224939,7 +229671,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"310 x 228 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2008",
@@ -224955,7 +229693,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"196.3 x 137 x 7.7 mm"
+]
 },
 {
 "id": "BOX-2009",
@@ -224971,7 +229715,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"249.5 x 177.8 x 7.1 mm"
+]
 },
 {
 "id": "BOX-2010",
@@ -224987,7 +229737,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"197.3 x 137 x 7.7 mm"
+]
 },
 {
 "id": "BOX-2011",
@@ -225005,7 +229761,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in",
+"6in"
+],
+"dims": [
+"153 x 107 x 6.8 mm",
+"153 x 107 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2012",
@@ -225021,7 +229785,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"310 x 228 x 7.9 mm"
+]
 },
 {
 "id": "BOX-2013",
@@ -225037,7 +229807,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"229.4 x 195.4 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2014",
@@ -225053,7 +229829,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"197.3 x 137 x 7.7 mm"
+]
 },
 {
 "id": "BOX-2015",
@@ -225069,7 +229851,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"249.5 x 177.8 x 7.1 mm"
+]
 },
 {
 "id": "BOX-2016",
@@ -225085,7 +229873,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"197.3 x 137 x 7.7 mm"
+]
 },
 {
 "id": "BOX-2017",
@@ -225101,7 +229895,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"153 x 107 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2018",
@@ -225117,7 +229917,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"165.6 x 130.8 x 5.95 mm"
+]
 },
 {
 "id": "BOX-2019",
@@ -225133,7 +229939,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"194 x 136.5 x 6.3 mm"
+]
 },
 {
 "id": "BOX-2020",
@@ -225149,7 +229961,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"229.4 x 195.4 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2021",
@@ -225165,7 +229983,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"310 x 228 x 7.9 mm"
+]
 },
 {
 "id": "BOX-2022",
@@ -225181,7 +230005,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"229.4 x 195.4 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2023",
@@ -225197,7 +230027,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"156 x 137 x 6.0 mm"
+]
 },
 {
 "id": "BOX-2024",
@@ -225213,7 +230049,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"194 x 136.5 x 6.3 mm"
+]
 },
 {
 "id": "BOX-2025",
@@ -225229,7 +230071,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"225 x 184.5 x 6.7 mm"
+]
 },
 {
 "id": "BOX-2026",
@@ -225245,7 +230093,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in"
+],
+"dims": [
+"156 x 137 x 6.0 mm"
+]
 },
 {
 "id": "BOX-2027",
@@ -225261,7 +230115,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"148 x 108 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2028",
@@ -225277,7 +230137,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7.8in"
+],
+"dims": [
+"194 x 136.5 x 8.3 mm"
+]
 },
 {
 "id": "BOX-2029",
@@ -225293,7 +230159,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.13in"
+],
+"dims": [
+"159 x 80 x 8 mm"
+]
 },
 {
 "id": "BOX-2030",
@@ -225311,7 +230183,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in",
+"10.3in"
+],
+"dims": [
+"226 x 193 x 5.8 mm",
+"226 x 193 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2031",
@@ -225329,7 +230209,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in",
+"10.3in"
+],
+"dims": [
+"225 x 184.5 x 6.7 mm",
+"225 x 184.5 x 6.6 mm"
+]
 },
 {
 "id": "BOX-2032",
@@ -225345,7 +230233,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"310 x 228 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2033",
@@ -225361,7 +230255,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"148 x 108 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2034",
@@ -225377,7 +230277,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"235 x 183 x 4.6 mm"
+]
 },
 {
 "id": "BOX-2035",
@@ -225393,7 +230299,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"287.5 x 243 x 4.6 mm"
+]
 },
 {
 "id": "BOX-2036",
@@ -225411,7 +230323,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"7in",
+"7in"
+],
+"dims": [
+"156 x 137 x 6.4 mm",
+"156 x 137 x 6.4 mm"
+]
 },
 {
 "id": "BOX-2037",
@@ -225427,7 +230347,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"226 x 193 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2038",
@@ -225443,7 +230369,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.13in"
+],
+"dims": [
+"159 x 80 x 8 mm"
+]
 },
 {
 "id": "BOX-2039",
@@ -225461,7 +230393,15 @@
 ],
 "check": "Check",
 "note": "Same case and screen size: test before swapping",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"",
+"7in"
+],
+"dims": [
+"",
+"156 x 137 x 6.4 mm"
+]
 },
 {
 "id": "BOX-2040",
@@ -225477,7 +230417,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"13.3in"
+],
+"dims": [
+"287.5 x 243 x 5.3 mm"
+]
 },
 {
 "id": "BOX-2041",
@@ -225493,7 +230439,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"225 x 192 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2042",
@@ -225509,7 +230461,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.13in"
+],
+"dims": [
+"159 x 80 x 8.8 mm"
+]
 },
 {
 "id": "BOX-2043",
@@ -225525,7 +230483,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"235 x 183 x 4.8 mm"
+]
 },
 {
 "id": "BOX-2044",
@@ -225541,7 +230505,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"149 x 109 x 6.8 mm"
+]
 },
 {
 "id": "BOX-2045",
@@ -225557,7 +230527,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"10.3in"
+],
+"dims": [
+"225 x 192 x 5.8 mm"
+]
 },
 {
 "id": "BOX-2046",
@@ -225573,7 +230549,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"8.52in"
+],
+"dims": [
+"187.7 x 156 x 6 mm"
+]
 },
 {
 "id": "BOX-2047",
@@ -225589,7 +230571,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6.13in"
+],
+"dims": [
+"159 x 78 x 7.8 mm"
+]
 },
 {
 "id": "BOX-2048",
@@ -225605,7 +230593,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"3.97in"
+],
+"dims": [
+"105.5 x 62 x 5.5 mm"
+]
 },
 {
 "id": "PKB-2001",
@@ -226049,7 +231043,13 @@
 ],
 "check": "Check",
 "note": "",
-"device": "Tablet"
+"device": "Tablet",
+"screens": [
+"6in"
+],
+"dims": [
+"161.3 x 108 x 8 mm"
+]
 },
 {
 "id": "PKB-2028",

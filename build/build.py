@@ -373,13 +373,29 @@ SINGLE.update({
  ('ONX', 'OneXFly Apex Air'): (K, '8in. Same body as OneXFly Apex: test its glass first'),
 })
 
+# GSMArena devices by name: the full name ("Samsung Galaxy Z Fold5") or without the brand ("Galaxy Z Fold5", "Nexus 5").
+# A short name that two devices share is left out.
+GS = json.load(open(ROOT + '/ds/gsmarena-catalog-builder/catalogs/gsmarena-full-catalog.gscatalog', encoding='utf-8'))['devices']
+def _nk(s): return re.sub(r'[^a-z0-9]', '', s.lower())
+_GSFULL, _GSSHORT = {}, {}
+for r in GS:
+    _GSFULL.setdefault(_nk(r['model']), r)
+    s = _nk(r['model'].split(' ', 1)[-1])
+    _GSSHORT[s] = r if _GSSHORT.get(s, r) is r else None
+def gs_lookup(name): return _GSFULL.get(_nk(name)) or _GSSHORT.get(_nk(name))
+
 def foldnote(m):
     n = m['name']
     if m['cat'] != 'Phone': return ''
-    if re.search(r'\b(Z Fold|Z Flip|TriFold|Fold\d|Flip\d|Fold\b|Flip\b|Open\b|Mix Fold|Mix Flip|Mate X|Magic V\d|Magic V\b)', n) or (m['code'] == 'HUA' and 'Pocket' in n) or \
-       (m['code'] == 'MOT' and 'Razr' in n and m['date'] >= '2019'):
-        return 'Foldable: glass is for the outer (cover) screen'
-    return ''
+    r = gs_lookup(n)
+    if r:  # GSMArena says whether the screen folds: flip feature phones, flip-camera phones and the ZTE Open don't
+        d = r['specs'].get('Display') or {}
+        big = float((re.match(r'\s*([\d.]+)\s*inches', d.get('Size') or '') or [0, 0])[1]) >= 5  # not a flip feature phone
+        fold = 'oldable' in (d.get('Type') or '') or (big and 'Unfolded' in ((r['specs'].get('Body') or {}).get('Dimensions') or ''))
+    else:
+        fold = (re.search(r'\b(Z Fold|Z Flip|TriFold|Fold\d|Flip\d|Fold\b|Flip\b|Open\b|Mix Fold|Mix Flip|Mate X|Magic V\d|Magic V\b)', n) and
+                not re.search(r'\bGo Flip\b', n)) or (m['code'] == 'HUA' and 'Pocket' in n) or (m['code'] == 'MOT' and 'Razr' in n and m['date'] >= '2019')
+    return 'Foldable: glass is for the outer (cover) screen' if fold else ''
 
 groups = []
 claimed = set()
@@ -452,7 +468,23 @@ def _spec(r):
     rs = re.search(r'(\d+)\s*x\s*(\d+)\s*pixels', sp.get('Display', {}).get('Resolution') or '')
     sz = re.search(r'([\d.]+)\s*inches', sp.get('Display', {}).get('Size') or '')
     return (dm.groups(), sz.group(1), rs.groups()) if dm and rs and sz else None
-_cat = json.load(open(ROOT + '/ds/gsmarena-catalog-builder/catalogs/gsmarena-full-catalog.gscatalog', encoding='utf-8'))['devices']
+_cat = GS
+# Screen size and body from GSMArena: {screen, dims}, plus for foldables {cscreen, cdims}: the cover screen and folded body,
+# which is what cover glass fits. Bodies like "163.7 x 73.9 x 8.5 or 8.8 mm" keep the first thickness.
+def _sizes(r):
+    out = {}
+    body = (r['specs'].get('Body') or {}).get('Dimensions') or ''
+    disp = r['specs'].get('Display') or {}
+    dm = re.match(r'\s*(?:Unfolded:\s*)?([\d.]+)\s*x\s*([\d.]+)\s*x\s*([\d.]+)(?!\s*in\b)', body)
+    if dm: out['dims'] = ' x '.join(dm.groups()) + ' mm'
+    sz = re.match(r'\s*([\d.]+)\s*inches', disp.get('Size') or '')
+    if sz: out['screen'] = sz.group(1) + 'in'
+    fd = re.search(r'Folded:\s*([\d.]+)\s*x\s*([\d.]+)\s*x\s*([\d.]+)', body)
+    if fd: out['cdims'] = ' x '.join(fd.groups()) + ' mm'
+    res = disp.get('Resolution') or ''
+    cs = re.search(r'([\d.]+)\s*(?:inches|")', res.split('|', 1)[1]) if '|' in res else None
+    if cs: out['cscreen'] = cs.group(1) + 'in'
+    return out
 ROUND = {}
 SPECB = collections.defaultdict(set)
 for r in _cat:
@@ -463,15 +495,27 @@ for r in _cat:
     mn = html.unescape((r['specs'].get('Misc') or {}).get('Models') or '').strip()
     if mn: m['codes'] = ', '.join(dict.fromkeys([c for c in m.get('codes', '').split(', ') if c] + [c.strip() for c in re.split(r',\s+', mn) if c.strip()]))
     # Size, for measuring before swapping glass, and ultrasonic fingerprint readers, which need FP-compatible glass
-    dm = re.match(r'\s*([\d.]+)\s*x\s*([\d.]+)\s*x\s*([\d.]+)\s*mm', (r['specs'].get('Body') or {}).get('Dimensions') or '')
-    if dm: m['dims'] = ' x '.join(dm.groups()) + ' mm'
-    sz = re.match(r'\s*([\d.]+)\s*inches', (r['specs'].get('Display') or {}).get('Size') or '')
-    if sz: m['screen'] = sz.group(1) + 'in'
+    m.update(_sizes(r))
     if 'ultrasonic' in ((r['specs'].get('Features') or {}).get('Sensors') or ''): m['ufp'] = True
     k = _spec(r)
     if k: SPECB[(m['cat'],) + k].add(gidx[id(m)])
     if m['cat'] == 'Wearable' and k and k[2][0] == k[2][1] and 'Moto 360 (1st' not in m['name']:
         ROUND[m['name']] = float(k[1]) * 25.4
+# Sizes still missing: GSMArena under another brand or spelling (LG Nexus 5, iPhone 4s), then hand-researched sizes
+# from build/sizes.json. These only fill gaps for display; they never group models.
+for m in models:
+    if m.get('screen') and m.get('dims'): continue
+    r = gs_lookup(m['name'])
+    if r:
+        for k, v in _sizes(r).items(): m.setdefault(k, v)
+SIZES = json.load(open(ROOT + '/build/sizes.json', encoding='utf-8'))
+_byname = {m['name']: m for m in models}
+for n, v in SIZES.items():
+    m = _byname.get(n)
+    if not m: print('SIZES: unknown model', n); continue
+    pre = 'c' if v.get('cover') else ''  # foldables: the cover screen and folded body
+    if v.get('screen'): m.setdefault(pre + 'screen', v['screen'])
+    if v.get('dims'): m.setdefault(pre + 'dims', v['dims'])
 # Official model numbers the catalogue lacks (Apple support pages and similar): build/modelnumbers.json
 for n, v in json.load(open(ROOT + '/build/modelnumbers.json', encoding='utf-8')).items():
     m = next((x for x in models if x['name'] == n), None)
@@ -848,8 +892,8 @@ def fit_tags(g):
     if any(m.get('ufp') for m in g['members']): t.insert(0, 'fingerprint')
     return t
 def _per_model(g, key, out):
-    if key == 'screen' and 'cover' in fit_tags(g): return {}  # foldables: the listed size is the inner screen
-    vals = [m.get(key, '') for m in g['members']]
+    cover = 'cover' in fit_tags(g)  # foldables: cover glass fits the cover screen and the folded body
+    vals = [m.get('c' + key, '') if cover else m.get(key, '') for m in g['members']]
     return {out: vals} if any(vals) else {}
 # Apple identifiers in one spelling (GSMArena has both iphone15,2 and iPhone15,2)
 def _mnfix(codes):

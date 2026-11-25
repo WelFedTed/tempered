@@ -88,7 +88,7 @@ python build2/changelog.py "What changed" --summary "One or two sentences"   # a
   4. merges known shared-glass sets, variants and spec twins (union-find over identical body and screen specs, restricted to brand families and carrier rebadges);
   5. applies the verified findings in `build/verified.json`;
   6. links round watches to universal round glass by display diameter;
-  7. numbers the groups and writes `data.json`, with model numbers (from the GSMArena catalogue plus Apple's official lists in `build/modelnumbers.json`), screen sizes, body dimensions and fit tags.
+  7. numbers the groups and writes `data.json`, with model numbers (from the GSMArena catalogue plus Apple's official lists in `build/modelnumbers.json`), screen sizes, body dimensions and fit tags. Sizes come from the GSMArena catalogue, then hand-researched sizes in `build/sizes.json` (`{"Model": {"screen": "1.4in", "dims": "47 x 47 x 14.5 mm", "source": url}}`, with `"cover": true` for a foldable's cover screen and folded body). Foldables show their cover screen and folded body, since that's what the glass fits.
 - **`build2/classify.py`** decides phone, tablet or watch for catalogue devices.
 - **`build2/newcodes.json`** maps brand names to codes for brands added from the catalogue.
 
@@ -115,6 +115,7 @@ python build2/changelog.py "What changed" --summary "One or two sentences"   # a
 - **Device catalogue:** [gsmarena-catalog-builder](https://github.com/adelindanaila05/gsmarena-catalog-builder), full catalogue snapshot of July 2026. Product names and source-site data remain the property of their owners.
 - **Hand-researched lists:** compiled from manufacturer announcements, retailer and protector-maker compatibility lists, and review sites. Release months for some watch, e-reader and retro brands are approximate; this is noted on those brands.
 - **Model numbers:** the GSMArena catalogue, plus Apple's "Identify your iPhone / iPad / Apple Watch / iPod" support pages.
+- **Sizes:** the GSMArena catalogue, plus maker spec pages (Apple Technical Specifications, Garmin, Amazfit, handheld makers) and spec sites for the rest; each hand-researched size in `build/sizes.json` records its source.
 
 ## Licence
 

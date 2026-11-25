@@ -1,0 +1,4443 @@
+{
+ "AT&T SMT5700": {
+  "screen": "2.5in",
+  "source": "https://www.phonearena.com/phones/PCD-SMT5700_id2027"
+ },
+ "AYANEO (2021)": {
+  "screen": "7in",
+  "source": "https://ayaneo.com/product/AYANEO2021.html"
+ },
+ "AYANEO 2": {
+  "screen": "7in",
+  "dims": "264.5 x 105.5 x 21.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-2"
+ },
+ "AYANEO 2021 Pro": {
+  "screen": "7in",
+  "source": "https://ayaneo.com/product/AYANEO2021Pro.html"
+ },
+ "AYANEO 2S": {
+  "screen": "7in",
+  "dims": "264.5 x 105.5 x 21.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-2s"
+ },
+ "AYANEO 3": {
+  "screen": "7in",
+  "dims": "289.8 x 115 x 22.4 mm",
+  "source": "https://finalboss.io/handhelds/ayaneo-3"
+ },
+ "AYANEO Air": {
+  "screen": "5.5in",
+  "dims": "224 x 89.5 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-air"
+ },
+ "AYANEO Air 1S": {
+  "screen": "5.5in",
+  "dims": "224 x 89.5 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-air-1s"
+ },
+ "AYANEO Air Plus": {
+  "screen": "6in",
+  "dims": "237 x 91.4 x 23.1 mm",
+  "source": "https://ayaneo.com/product/AYANEO-AIR-Plus"
+ },
+ "AYANEO Air Pro": {
+  "screen": "5.5in",
+  "dims": "224 x 89.5 x 21.6 mm",
+  "source": "https://reviewed.com/gaming/content/ayaneo-air-pro-review"
+ },
+ "AYANEO Flip DS": {
+  "screen": "7in",
+  "dims": "180 x 102 x 36 mm",
+  "source": "https://pcgamer.com/hardware/handheld-gaming-pcs/ayaneo-flip-ds-review"
+ },
+ "AYANEO Flip KB": {
+  "screen": "7in",
+  "dims": "180 x 102 x 29.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-flip-kb"
+ },
+ "AYANEO Founder": {
+  "screen": "7in",
+  "source": "https://ayaneo.com/product/AYANEO2021.html"
+ },
+ "AYANEO Geek 1S": {
+  "screen": "7in",
+  "dims": "264.5 x 105.5 x 22.3 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-geek-1s"
+ },
+ "AYANEO Kun": {
+  "screen": "8.4in",
+  "dims": "312.4 x 132.5 x 21.9 mm",
+  "source": "https://www.tomshardware.com/news/ayaneos-new-handheld-has-bigger-screen-and-battery-than-steam-deck"
+ },
+ "AYANEO Next": {
+  "screen": "7in",
+  "dims": "267 x 112 x 30 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-next"
+ },
+ "AYANEO Next II": {
+  "screen": "9.06in",
+  "source": "https://wccftech.com/ayaneo-next-ii-will-feature-a-9-inch-oled-display-with-2400-x-1504-resolution/"
+ },
+ "AYANEO Next Pro": {
+  "screen": "7in",
+  "dims": "267 x 112 x 22 mm",
+  "source": "https://ayaneo.com/product/ayaneo-next-pro"
+ },
+ "AYANEO Pocket ACE": {
+  "screen": "4.5in",
+  "dims": "176 x 82.5 x 18.4 mm",
+  "source": "https://ayaneo.com/product/AYANEO-Pocket-ACE"
+ },
+ "AYANEO Pocket Air": {
+  "screen": "5.5in",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-air"
+ },
+ "AYANEO Pocket Air Mini": {
+  "screen": "4.2in",
+  "dims": "165.9 x 82.5 x 18.7 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-air-mini"
+ },
+ "AYANEO Pocket DMG": {
+  "screen": "3.92in",
+  "dims": "151 x 91.5 x 15 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-dmg"
+ },
+ "AYANEO Pocket DS": {
+  "dims": "179.8 x 101.8 x 25 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/pocket-ds"
+ },
+ "AYANEO Pocket EVO": {
+  "screen": "7in",
+  "dims": "260.5 x 100 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-evo"
+ },
+ "AYANEO Pocket Micro": {
+  "screen": "3.5in",
+  "dims": "156 x 63 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-micro"
+ },
+ "AYANEO Pocket Micro 2": {
+  "screen": "3.5in",
+  "dims": "162 x 67.8 x 18 mm",
+  "source": "https://liliputing.com/ayaneo-pocket-micro-2-gaming-handheld-has-a-3-5-inch-screen-snapdragon-865-class-performance-and-239-starting-price/"
+ },
+ "AYANEO Pocket Micro Classic": {
+  "screen": "3.5in",
+  "dims": "156 x 63 x 18 mm",
+  "source": "https://liliputing.com/ayaneo-pocket-micro-classic-is-a-tiny-android-handheld-without-analog-sticks-for-179-and-up/"
+ },
+ "AYANEO Pocket S": {
+  "screen": "6in",
+  "dims": "213.9 x 85 x 14 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-s"
+ },
+ "AYANEO Pocket S Mini": {
+  "screen": "4.2in",
+  "dims": "167.1 x 77.85 x 18.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-pocket-s-mini"
+ },
+ "AYANEO Pocket S2": {
+  "screen": "6.3in",
+  "dims": "228.8 x 91 x 15.9 mm",
+  "source": "https://ayaneo.com/product/AYANEO-Pocket-S2"
+ },
+ "AYANEO Pocket Vert": {
+  "screen": "3.5in",
+  "dims": "143 x 86.4 x 20.5 mm",
+  "source": "https://www.notebookcheck.net/Ayaneo-Pocket-Vert-detailed-before-release-in-90-a-long-product-sharing-session-video.1165917.0.html"
+ },
+ "AYANEO Slide": {
+  "screen": "6in",
+  "dims": "226 x 90 x 28.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/ayaneo-slide"
+ },
+ "AYN Loki Max": {
+  "screen": "6in",
+  "dims": "248 x 98 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/loki-max"
+ },
+ "AYN Loki Zero": {
+  "screen": "6in",
+  "dims": "248 x 98 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/loki-zero"
+ },
+ "AYN Odin (Base/Pro)": {
+  "screen": "6in",
+  "dims": "224 x 95 x 15 mm",
+  "source": "https://en.wikipedia.org/wiki/Ayn_Odin"
+ },
+ "AYN Odin 2": {
+  "screen": "6in",
+  "dims": "225 x 98 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/odin-2"
+ },
+ "AYN Odin 2 Mini": {
+  "screen": "5in",
+  "dims": "198 x 85.8 x 19.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/odin-2-mini"
+ },
+ "AYN Odin 2 Portal": {
+  "screen": "7in",
+  "dims": "257 x 98.6 x 17.2 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/odin-2-portal"
+ },
+ "AYN Odin Lite": {
+  "screen": "6in",
+  "source": "https://en.wikipedia.org/wiki/Ayn_Odin"
+ },
+ "AYN Thor": {
+  "screen": "6in",
+  "dims": "150 x 94 x 25.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/thor"
+ },
+ "Acer Iconia Duo D12": {
+  "dims": "277.75 x 191.34 x 7.5 mm",
+  "source": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities"
+ },
+ "Acer Iconia Duo S12": {
+  "dims": "271.65 x 183.13 x 6.5 mm",
+  "source": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities"
+ },
+ "Acer Iconia Duo S14": {
+  "dims": "311 x 217.1 x 6.2 mm",
+  "source": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities"
+ },
+ "Amazfit Active": {
+  "screen": "1.75in",
+  "dims": "42.36 x 35.9 x 10.75 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active/"
+ },
+ "Amazfit Active 2": {
+  "screen": "1.32in",
+  "dims": "43.9 x 43.9 x 9.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-2/"
+ },
+ "Amazfit Active 2 Premium": {
+  "screen": "1.32in",
+  "dims": "43.9 x 43.9 x 9.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-2/"
+ },
+ "Amazfit Active 2 Square": {
+  "screen": "1.75in",
+  "dims": "43.32 x 36.9 x 9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-2-square/"
+ },
+ "Amazfit Active 3 Premium": {
+  "screen": "1.32in",
+  "dims": "45 x 45 x 11 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-3-premium/"
+ },
+ "Amazfit Active Edge": {
+  "screen": "1.32in",
+  "dims": "46.62 x 46.62 x 12 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-edge/"
+ },
+ "Amazfit Active Max": {
+  "screen": "1.5in",
+  "dims": "48.5 x 48.5 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-active-max/"
+ },
+ "Amazfit Balance": {
+  "screen": "1.5in",
+  "dims": "46 x 46 x 10.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-balance/"
+ },
+ "Amazfit Balance 2": {
+  "screen": "1.5in",
+  "dims": "47.4 x 47.4 x 12.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-balance-2/"
+ },
+ "Amazfit Balance 2 XT": {
+  "screen": "1.5in",
+  "dims": "47.4 x 47.4 x 12.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-balance-2-xt/"
+ },
+ "Amazfit Balance 3": {
+  "screen": "1.5in",
+  "dims": "51.4 x 51.4 x 14.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-balance-3/"
+ },
+ "Amazfit Balance Ultra": {
+  "screen": "1.5in",
+  "dims": "51.8 x 51.8 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-balance-ultra/"
+ },
+ "Amazfit Band 5": {
+  "screen": "1.1in",
+  "dims": "47.2 x 18.5 x 12.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-band-5/"
+ },
+ "Amazfit Band 7": {
+  "screen": "1.47in",
+  "dims": "42.33 x 24.36 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-band-7/"
+ },
+ "Amazfit Bip": {
+  "screen": "1.28in",
+  "dims": "39.4 x 34.1 x 9.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip/"
+ },
+ "Amazfit Bip 3": {
+  "screen": "1.69in",
+  "dims": "44.12 x 36.49 x 9.65 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-3/"
+ },
+ "Amazfit Bip 3 Pro": {
+  "screen": "1.69in",
+  "dims": "44.12 x 36.49 x 9.65 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-3-pro/"
+ },
+ "Amazfit Bip 5": {
+  "screen": "1.91in",
+  "dims": "45.94 x 38.09 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-5/"
+ },
+ "Amazfit Bip 5 Unity": {
+  "screen": "1.91in",
+  "dims": "45.8 x 37.08 x 10 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-5-unity/"
+ },
+ "Amazfit Bip 6": {
+  "screen": "1.97in",
+  "dims": "46.3 x 40.2 x 10.45 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-6/"
+ },
+ "Amazfit Bip Lite": {
+  "screen": "1.28in",
+  "dims": "39.4 x 34.1 x 9.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-lite/"
+ },
+ "Amazfit Bip Max": {
+  "screen": "2.07in",
+  "dims": "49.58 x 42.76 x 13.24 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-max/"
+ },
+ "Amazfit Bip S": {
+  "screen": "1.28in",
+  "dims": "42 x 35.3 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-s/"
+ },
+ "Amazfit Bip S Lite": {
+  "screen": "1.28in",
+  "dims": "42 x 35.3 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-s-lite/"
+ },
+ "Amazfit Bip U": {
+  "screen": "1.43in",
+  "dims": "40.9 x 35.5 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-u/"
+ },
+ "Amazfit Bip U Pro": {
+  "screen": "1.43in",
+  "dims": "40.9 x 35.5 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-bip-u-pro/"
+ },
+ "Amazfit Cheetah": {
+  "screen": "1.39in",
+  "dims": "46.7 x 46.7 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah/"
+ },
+ "Amazfit Cheetah 2 Pro": {
+  "screen": "1.32in",
+  "dims": "48 x 48 x 15.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah-2-pro/"
+ },
+ "Amazfit Cheetah 2 Ultra": {
+  "screen": "1.5in",
+  "dims": "47.4 x 47.4 x 15.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah-2-ultra/"
+ },
+ "Amazfit Cheetah Pro": {
+  "screen": "1.45in",
+  "dims": "47 x 47 x 11.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah-pro/"
+ },
+ "Amazfit Cheetah Square": {
+  "screen": "1.75in",
+  "dims": "44.0 x 38.7 x 9.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah-square/"
+ },
+ "Amazfit Falcon": {
+  "screen": "1.28in",
+  "dims": "49.45 x 47.2 x 12.95 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-falcon/"
+ },
+ "Amazfit GTR 2": {
+  "screen": "1.39in",
+  "dims": "46.4 x 46.4 x 10.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-2/"
+ },
+ "Amazfit GTR 2e": {
+  "screen": "1.39in",
+  "dims": "47.2 x 47.2 x 9.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-2e/"
+ },
+ "Amazfit GTR 3": {
+  "screen": "1.39in",
+  "dims": "45.8 x 45.8 x 10.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-3/"
+ },
+ "Amazfit GTR 3 Pro": {
+  "screen": "1.45in",
+  "dims": "46 x 46 x 10.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-3-pro/"
+ },
+ "Amazfit GTR 4": {
+  "screen": "1.43in",
+  "dims": "46 x 46 x 10.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-4/"
+ },
+ "Amazfit GTR 42mm": {
+  "screen": "1.29in",
+  "dims": "42.6 x 42.6 x 9.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr/"
+ },
+ "Amazfit GTR 47mm": {
+  "screen": "1.39in",
+  "dims": "47.2 x 47.2 x 10.75 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr/"
+ },
+ "Amazfit GTR Mini": {
+  "screen": "1.28in",
+  "dims": "42.83 x 42.83 x 9.25 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gtr-mini/"
+ },
+ "Amazfit GTS": {
+  "screen": "1.65in",
+  "dims": "43.25 x 36.25 x 9.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts/"
+ },
+ "Amazfit GTS 2": {
+  "screen": "1.65in",
+  "dims": "42.8 x 35.6 x 9.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-2/"
+ },
+ "Amazfit GTS 2 mini": {
+  "screen": "1.55in",
+  "dims": "40.5 x 35.8 x 8.95 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-2-mini/"
+ },
+ "Amazfit GTS 2e": {
+  "screen": "1.65in",
+  "dims": "42.8 x 35.6 x 9.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-2e/"
+ },
+ "Amazfit GTS 3": {
+  "screen": "1.75in",
+  "dims": "42.4 x 36 x 8.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-3/"
+ },
+ "Amazfit GTS 4": {
+  "screen": "1.75in",
+  "dims": "42.7 x 36.5 x 9.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-4/"
+ },
+ "Amazfit GTS 4 Mini": {
+  "screen": "1.65in",
+  "dims": "41.8 x 36.66 x 9.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-gts-4-mini/"
+ },
+ "Amazfit Neo": {
+  "screen": "1.2in",
+  "dims": "40.3 x 41 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-neo/"
+ },
+ "Amazfit Pace": {
+  "screen": "1.34in",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-pace/"
+ },
+ "Amazfit Stratos": {
+  "screen": "1.34in",
+  "dims": "46 x 46 x 13.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-stratos/"
+ },
+ "Amazfit Stratos 3": {
+  "screen": "1.34in",
+  "dims": "48.6 x 48.6 x 13.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-stratos-3/"
+ },
+ "Amazfit T-Rex": {
+  "screen": "1.3in",
+  "dims": "47.7 x 47.7 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex/"
+ },
+ "Amazfit T-Rex 2": {
+  "screen": "1.39in",
+  "dims": "47.1 x 47.1 x 13.65 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-2/"
+ },
+ "Amazfit T-Rex 3": {
+  "screen": "1.5in",
+  "dims": "48.5 x 48.5 x 13.75 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-3/"
+ },
+ "Amazfit T-Rex 3 Pro 44mm": {
+  "screen": "1.32in",
+  "dims": "44.8 x 44.8 x 13.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-3-pro/"
+ },
+ "Amazfit T-Rex 3 Pro 48mm": {
+  "screen": "1.5in",
+  "dims": "48 x 48 x 14 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-3-pro/"
+ },
+ "Amazfit T-Rex Pro": {
+  "screen": "1.3in",
+  "dims": "47.7 x 47.7 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-pro/"
+ },
+ "Amazfit T-Rex Ultra": {
+  "screen": "1.39in",
+  "dims": "47.3 x 47.3 x 13.45 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-ultra/"
+ },
+ "Amazfit T-Rex Ultra 2": {
+  "screen": "1.5in",
+  "dims": "51 x 51 x 14.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-t-rex-ultra-2/"
+ },
+ "Amazfit Verge": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-verge/"
+ },
+ "Amazfit Verge Lite": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/amazfit-verge-lite/"
+ },
+ "Analogue Pocket": {
+  "screen": "3.5in",
+  "dims": "149 x 86 x 22 mm",
+  "source": "https://en.wikipedia.org/wiki/Analogue_Pocket"
+ },
+ "Apple Watch SE (1st gen) 40mm": {
+  "dims": "40 x 34 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch SE (1st gen) 44mm": {
+  "dims": "44 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch SE (2nd gen) 40mm": {
+  "dims": "40 x 34 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch SE (2nd gen) 44mm": {
+  "dims": "44 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch SE 3 40mm": {
+  "dims": "40 x 34 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch SE 3 44mm": {
+  "dims": "44 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 1 38mm": {
+  "dims": "38 x 33.3 x 10.5 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 1 42mm": {
+  "dims": "42 x 36.4 x 10.5 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 10 42mm": {
+  "dims": "42 x 36 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 10 46mm": {
+  "dims": "46 x 39 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 11 42mm": {
+  "dims": "42 x 36 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 11 46mm": {
+  "dims": "46 x 39 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 12 42mm": {
+  "dims": "42 x 37 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 12 46mm": {
+  "dims": "46 x 40 x 9.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 3 38mm": {
+  "dims": "38 x 33.3 x 11.4 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 3 42mm": {
+  "dims": "42 x 36.4 x 11.4 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 4 40mm": {
+  "dims": "40 x 34 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 4 44mm": {
+  "dims": "44 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 5 40mm": {
+  "dims": "40 x 34 x 10.74 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 5 44mm": {
+  "dims": "44 x 38 x 10.74 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 6 40mm": {
+  "dims": "40 x 34 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 6 44mm": {
+  "dims": "44 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 7 41mm": {
+  "dims": "41 x 35 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 7 45mm": {
+  "dims": "45 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 8 41mm": {
+  "dims": "41 x 35 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 8 45mm": {
+  "dims": "45 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 9 41mm": {
+  "dims": "41 x 35 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Series 9 45mm": {
+  "dims": "45 x 38 x 10.7 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Ultra 2 49mm": {
+  "dims": "49 x 44 x 12 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Ultra 3 49mm": {
+  "dims": "49 x 44 x 12 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Ultra 4 49mm": {
+  "dims": "49 x 44 x 12 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Apple Watch Ultra 49mm": {
+  "dims": "49 x 44 x 12 mm",
+  "source": "https://www.apple.com/watch/compare/"
+ },
+ "Asus VivoWatch 5": {
+  "screen": "1.34in",
+  "dims": "53.5 x 47 x 13.5 mm",
+  "source": "https://box.co.uk/90hc00i1-mwp0e0-asus-vivowatch-5-hc-b05-1-34-lcd"
+ },
+ "Asus VivoWatch BP": {
+  "screen": "1.28in",
+  "source": "https://www.alphachooser.com/smart_watches--asus_hc-a04--smartwatch-specs-and-profile"
+ },
+ "Asus VivoWatch SP": {
+  "screen": "1.2in",
+  "source": "https://directcomputers.co.uk/products/asus-vivowatch-sp-hc-a05"
+ },
+ "Asus Zenpad 3s 8.0 Z582KL": {
+  "dims": "205.4 x 136.4 x 7.6 mm",
+  "source": "https://www.chaynikam.info/en/smart1539.html"
+ },
+ "Asus Zenpad Z8": {
+  "dims": "205.2 x 136.4 x 7.6 mm",
+  "source": "https://www.phonearena.com/phones/Asus-ZenPad-Z8_id10134"
+ },
+ "Atari Lynx": {
+  "screen": "3.5in",
+  "source": "https://en.wikipedia.org/wiki/Atari_Lynx"
+ },
+ "Bandai WonderSwan": {
+  "screen": "2.49in",
+  "source": "https://en.wikipedia.org/wiki/WonderSwan"
+ },
+ "Bandai WonderSwan Color": {
+  "screen": "2.9in",
+  "dims": "128 x 74.3 x 24.3 mm",
+  "source": "https://en.wikipedia.org/wiki/WonderSwan"
+ },
+ "BenQ P31": {
+  "screen": "2.7in",
+  "source": "https://www.gsmchoice.com/en/compare/benq-p31/"
+ },
+ "BlackBerry Style 9670": {
+  "screen": "2.7in",
+  "source": "https://www.phonescoop.com/articles/article.php?a=432&p=3304"
+ },
+ "Blackview Hero 10": {
+  "screen": "1.19in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/blackview_hero_10_handson-news-63366.php"
+ },
+ "Blackview Wave 2C": {
+  "screen": "5in",
+  "dims": "135.6 x 70.2 x 11.1 mm",
+  "source": "https://www.gsmchoice.com/en/catalogue/blackview/wave-2c/"
+ },
+ "Blackview Xplore 6": {
+  "screen": "6.73in",
+  "dims": "179.5 x 85.4 x 18.2 mm",
+  "source": "https://www.gsmarena.com/blackview_xplore_6_5g-14857.php"
+ },
+ "Boox Go 10.3": {
+  "screen": "10.3in",
+  "dims": "235 x 183 x 4.6 mm",
+  "source": "https://www.bhphotovideo.com/c/product/1836430-REG/boox_opc1213r_10_3_go_e_reader.html"
+ },
+ "Boox Go 10.3 Gen II": {
+  "screen": "10.3in",
+  "dims": "235 x 183 x 4.8 mm",
+  "source": "https://shop.boox.com/en-ca/products/go103gen2"
+ },
+ "Boox Go 6": {
+  "screen": "6in",
+  "dims": "148 x 108 x 6.8 mm",
+  "source": "https://www.bhphotovideo.com/c/product/1849358-REG/boox_opc1225r_6_go_6_e_ink.html"
+ },
+ "Boox Go 6 Gen II": {
+  "screen": "6in",
+  "dims": "149 x 109 x 6.8 mm",
+  "source": "https://shop.boox.com/en-au/collections/all-products/products/go6gen2"
+ },
+ "Boox Go 7": {
+  "screen": "7in",
+  "dims": "156 x 137 x 6.4 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Go Color 7": {
+  "screen": "7in",
+  "dims": "156 x 137 x 6.4 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Go Color 7 Gen II": {
+  "screen": "7in",
+  "dims": "156 x 137 x 6.4 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Leaf": {
+  "screen": "7in",
+  "dims": "165.6 x 130.8 x 5.95 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Leaf2": {
+  "screen": "7in",
+  "dims": "156 x 137 x 6.0 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Max Lumi": {
+  "screen": "13.3in",
+  "dims": "310 x 228 x 7.9 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Max Lumi2": {
+  "screen": "13.3in",
+  "dims": "310 x 228 x 7.9 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Max2": {
+  "screen": "13.3in",
+  "dims": "325 x 237 x 7.5 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Max3": {
+  "screen": "13.3in",
+  "dims": "310 x 228 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note": {
+  "screen": "10.3in",
+  "dims": "249.5 x 177.8 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air": {
+  "screen": "10.3in",
+  "dims": "229.4 x 195.4 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air2": {
+  "screen": "10.3in",
+  "dims": "229.4 x 195.4 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air2 Plus": {
+  "screen": "10.3in",
+  "dims": "229.4 x 195.4 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air3": {
+  "screen": "10.3in",
+  "dims": "226 x 193 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air3 C": {
+  "screen": "10.3in",
+  "dims": "226 x 193 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air4 C": {
+  "screen": "10.3in",
+  "dims": "226 x 193 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air5 C": {
+  "screen": "10.3in",
+  "dims": "225 x 192 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Air6 C": {
+  "screen": "10.3in",
+  "dims": "225 x 192 x 5.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Max": {
+  "screen": "13.3in",
+  "dims": "287.5 x 243 x 4.6 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Mini C": {
+  "screen": "8.52in",
+  "dims": "187.7 x 156 x 6 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note Pro": {
+  "screen": "10.3in",
+  "dims": "249.5 x 178.8 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note2": {
+  "screen": "10.3in",
+  "dims": "249.5 x 177.8 x 7.1 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Note3": {
+  "screen": "10.3in",
+  "dims": "249.5 x 177.8 x 7.1 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova": {
+  "screen": "7.8in",
+  "dims": "196.3 x 137 x 7.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova Air": {
+  "screen": "7.8in",
+  "dims": "194 x 136.5 x 6.3 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova Air C": {
+  "screen": "7.8in",
+  "dims": "194 x 136.5 x 6.3 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova Pro": {
+  "screen": "7.8in",
+  "dims": "196.3 x 137 x 7.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova2": {
+  "screen": "7.8in",
+  "dims": "197.3 x 137 x 7.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova3": {
+  "screen": "7.8in",
+  "dims": "197.3 x 137 x 7.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Nova3 Color": {
+  "screen": "7.8in",
+  "dims": "197.3 x 137 x 7.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Page": {
+  "screen": "7in",
+  "dims": "156 x 137 x 6.0 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Palma": {
+  "screen": "6.13in",
+  "dims": "159 x 80 x 8 mm",
+  "source": "https://www.phonearena.com/phones/BOOX-Palma_id12699"
+ },
+ "Boox Palma 2": {
+  "screen": "6.13in",
+  "dims": "159 x 80 x 8 mm",
+  "source": "https://www.phonearena.com/phones/BOOX-Palma-2_id12700"
+ },
+ "Boox Palma 2 Pro": {
+  "screen": "6.13in",
+  "dims": "159 x 80 x 8.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Palma 3": {
+  "screen": "6.13in",
+  "dims": "159 x 78 x 7.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Picco": {
+  "screen": "3.97in",
+  "dims": "105.5 x 62 x 5.5 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Poke": {
+  "screen": "6in",
+  "dims": "160 x 114 x 7.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Poke2": {
+  "screen": "6in",
+  "dims": "153 x 107 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Poke2 Color": {
+  "screen": "6in",
+  "dims": "153 x 107 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Poke3": {
+  "screen": "6in",
+  "dims": "153 x 107 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Poke5": {
+  "screen": "6in",
+  "dims": "148 x 108 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab Mini C": {
+  "screen": "7.8in",
+  "dims": "194 x 136.5 x 8.3 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab Ultra": {
+  "screen": "10.3in",
+  "dims": "225 x 184.5 x 6.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab Ultra C": {
+  "screen": "10.3in",
+  "dims": "225 x 184.5 x 6.7 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab Ultra C Pro": {
+  "screen": "10.3in",
+  "dims": "225 x 184.5 x 6.6 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab X": {
+  "screen": "13.3in",
+  "dims": "310 x 228 x 6.8 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Boox Tab X C": {
+  "screen": "13.3in",
+  "dims": "287.5 x 243 x 5.3 mm",
+  "source": "https://comparisontabl.es/e-readers/"
+ },
+ "Casio G-Shock GSW-H1000": {
+  "screen": "1.2in",
+  "dims": "65.6 x 56.3 x 19.5 mm",
+  "source": "https://support.casio.com/global/en/wat/manual/GSW-H1000_en/ZHOBSYrtnglunb.html"
+ },
+ "Casio WSD-F10": {
+  "screen": "1.32in",
+  "dims": "61.7 x 56.4 x 15.7 mm",
+  "source": "https://www.androidcentral.com/casio-wsd-f10-smartwatch-specs"
+ },
+ "Casio WSD-F20": {
+  "screen": "1.32in",
+  "dims": "61.7 x 57.7 x 15.3 mm",
+  "source": "https://support.casio.com/global/en/wsd/manual/wsd-f20_en/BIAJSYoneitkvh.html"
+ },
+ "Casio WSD-F30": {
+  "screen": "1.2in",
+  "dims": "60.5 x 53.8 x 14.9 mm",
+  "source": "https://support.casio.com/global/en/wsd/manual/wsd-f30_en/BIAJSYoneitkvh.html"
+ },
+ "ClockworkPi DevTerm": {
+  "screen": "6.8in",
+  "source": "https://clockworkpi.com/devterm"
+ },
+ "ClockworkPi PicoCalc": {
+  "screen": "4in",
+  "source": "https://www.cnx-software.com/2025/03/14/picocalc-kit-raspberry-pi-pico-handheld-terminal-backlit-stm32-qwerty-keyboard/"
+ },
+ "ClockworkPi uConsole": {
+  "screen": "5in",
+  "source": "https://clockworkpi.com/uconsole"
+ },
+ "Coros Apex 2": {
+  "screen": "1.2in",
+  "source": "https://coros.com/apex2"
+ },
+ "Coros Apex 2 Pro": {
+  "screen": "1.3in",
+  "dims": "46.1 x 46.5 x 14.0 mm",
+  "source": "https://the5krunner.com/specs/coros/apex-2-pro/"
+ },
+ "Coros Apex 4": {
+  "screen": "1.3in",
+  "dims": "46.2 x 46.2 x 13.7 mm",
+  "source": "https://the5krunner.com/specs/coros/apex-4/"
+ },
+ "Coros Nomad": {
+  "screen": "1.3in",
+  "dims": "47.8 x 47.8 x 14.8 mm",
+  "source": "https://the5krunner.com/specs/coros/nomad/"
+ },
+ "Coros Pace": {
+  "screen": "1.2in",
+  "source": "https://the5krunner.com/specs/coros/pace/"
+ },
+ "Coros Pace 2": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 11.7 mm",
+  "source": "https://the5krunner.com/specs/coros/pace-2/"
+ },
+ "Coros Pace 3": {
+  "screen": "1.2in",
+  "dims": "41.9 x 41.9 x 11.7 mm",
+  "source": "https://the5krunner.com/specs/coros/pace-3/"
+ },
+ "Coros Pace 4": {
+  "screen": "1.2in",
+  "dims": "43.4 x 43.4 x 11.8 mm",
+  "source": "https://the5krunner.com/specs/coros/pace-4/"
+ },
+ "Coros Pace 4 Pro": {
+  "screen": "1.47in",
+  "dims": "47.6 x 47.6 x 11.8 mm",
+  "source": "https://the5krunner.com/specs/coros/pace-4-pro/"
+ },
+ "Coros Pace Pro": {
+  "screen": "1.3in",
+  "dims": "46 x 46 x 12.25 mm",
+  "source": "https://the5krunner.com/specs/coros/pace-pro/"
+ },
+ "Coros Vertix 2": {
+  "screen": "1.4in",
+  "dims": "50.3 x 50.3 x 15.7 mm",
+  "source": "https://the5krunner.com/specs/coros/vertix-2/"
+ },
+ "Coros Vertix 2S": {
+  "screen": "1.4in",
+  "dims": "50.3 x 50.3 x 16.3 mm",
+  "source": "https://the5krunner.com/specs/coros/vertix-2s/"
+ },
+ "Evercade (original handheld)": {
+  "screen": "4.3in",
+  "source": "https://en.wikipedia.org/wiki/Evercade"
+ },
+ "Evercade EXP": {
+  "screen": "4.3in",
+  "source": "https://en.wikipedia.org/wiki/Evercade"
+ },
+ "Fairphone 1": {
+  "screen": "4.3in",
+  "source": "https://en.wikipedia.org/wiki/Fairphone_1"
+ },
+ "Fairphone 2": {
+  "screen": "5in",
+  "source": "https://en.wikipedia.org/wiki/Fairphone_2"
+ },
+ "Fitbit Ace 3": {
+  "screen": "0.72in",
+  "dims": "37.33 x 16.76 x 12.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-ace-3/"
+ },
+ "Fitbit Ace LTE": {
+  "dims": "41.04 x 44.89 x 13.35 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-ace-lte/"
+ },
+ "Fitbit Charge 3": {
+  "dims": "35.8 x 22.7 x 11.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-3/"
+ },
+ "Fitbit Charge 4": {
+  "dims": "42.7 x 28.8 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-4/"
+ },
+ "Fitbit Charge 5": {
+  "screen": "1.04in",
+  "dims": "36.78 x 22.79 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-5/"
+ },
+ "Fitbit Charge 6": {
+  "screen": "1.04in",
+  "dims": "36.73 x 23.09 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-6/"
+ },
+ "Fitbit Inspire": {
+  "dims": "37 x 16.2 x 12.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-inspire/"
+ },
+ "Fitbit Inspire 2": {
+  "dims": "37 x 16.8 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-inspire-2/"
+ },
+ "Fitbit Inspire 3": {
+  "screen": "1.4in",
+  "dims": "39.32 x 18.6 x 11.75 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-inspire-3/"
+ },
+ "Fitbit Inspire HR": {
+  "dims": "37 x 16.2 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-inspire-hr/"
+ },
+ "Fitbit Ionic": {
+  "screen": "1.42in",
+  "dims": "38.59 x 38.59 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-ionic/"
+ },
+ "Fitbit Luxe": {
+  "screen": "0.76in",
+  "dims": "33.5 x 17.5 x 10.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-luxe/"
+ },
+ "Fitbit Sense": {
+  "screen": "1.58in",
+  "dims": "40.48 x 40.48 x 12.35 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-sense/"
+ },
+ "Fitbit Versa": {
+  "screen": "1.34in",
+  "dims": "39.36 x 37.65 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa/"
+ },
+ "Fitbit Versa 2": {
+  "screen": "1.4in",
+  "dims": "40 x 40 x 12.14 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa-2/"
+ },
+ "Fitbit Versa 3": {
+  "screen": "1.58in",
+  "dims": "40.48 x 40.48 x 12.35 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa-3/"
+ },
+ "Fitbit Versa 4": {
+  "screen": "1.58in",
+  "dims": "40.5 x 40.5 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa-4/"
+ },
+ "Fitbit Versa Lite": {
+  "screen": "1.34in",
+  "dims": "39.36 x 37.65 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa-lite/"
+ },
+ "GPD Win": {
+  "screen": "5.5in",
+  "dims": "155 x 97 x 22 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win"
+ },
+ "GPD Win 2": {
+  "screen": "6in",
+  "dims": "162 x 99 x 25 mm",
+  "source": "https://liliputing.com/gpd-win-2-handheld-gaming-pc-preview/"
+ },
+ "GPD Win 3": {
+  "screen": "5.5in",
+  "dims": "198 x 92 x 27 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_3"
+ },
+ "GPD Win 4 (2022)": {
+  "screen": "6in",
+  "dims": "220 x 92 x 28 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_4"
+ },
+ "GPD Win 4 (2023)": {
+  "screen": "6in",
+  "dims": "220 x 92 x 28 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_4"
+ },
+ "GPD Win 4 (2024)": {
+  "screen": "6in",
+  "dims": "220 x 92 x 28 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_4"
+ },
+ "GPD Win 4 (2025)": {
+  "screen": "6in",
+  "dims": "220 x 92 x 28 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_4"
+ },
+ "GPD Win 5": {
+  "screen": "7in",
+  "dims": "267 x 111.6 x 24.21 mm",
+  "source": "https://www.gpd.hk/gpdwin5techspecs34524234456"
+ },
+ "GPD Win Max": {
+  "screen": "8in",
+  "dims": "207 x 145 x 26 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_Win_Max"
+ },
+ "GPD Win Max 2 (2022)": {
+  "screen": "10.1in",
+  "dims": "227 x 160 x 23 mm",
+  "source": "https://liliputing.com/gpd-win-max-2-handheld-gaming-pc-will-have-intel-core-i7-1280p-and-up-to-32gb-ram/"
+ },
+ "GPD Win Max 2 (2023)": {
+  "screen": "10.1in",
+  "dims": "227 x 160 x 23 mm",
+  "source": "https://liliputing.com/gpd-win-max-2-handheld-gaming-pc-will-have-intel-core-i7-1280p-and-up-to-32gb-ram/"
+ },
+ "GPD Win Max 2 (2024)": {
+  "screen": "10.1in",
+  "dims": "227 x 160 x 23 mm",
+  "source": "https://liliputing.com/gpd-win-max-2-handheld-gaming-pc-will-have-intel-core-i7-1280p-and-up-to-32gb-ram/"
+ },
+ "GPD Win Max 2 (2025)": {
+  "screen": "10.1in",
+  "dims": "227 x 160 x 23 mm",
+  "source": "https://liliputing.com/gpd-win-max-2-handheld-gaming-pc-will-have-intel-core-i7-1280p-and-up-to-32gb-ram/"
+ },
+ "GPD Win Max 3": {
+  "screen": "9.06in",
+  "dims": "207 x 147 x 34 mm",
+  "source": "https://liliputing.com/gpd-win-max-3-mini-gaming-laptop-with-amd-strix-halo-to-sell-for-1750-and-up-at-launch/"
+ },
+ "GPD Win Mini (2023)": {
+  "screen": "7in",
+  "dims": "168 x 109 x 26 mm",
+  "source": "https://www.gpd.hk/gpdwinminitechspecssdfwerwer"
+ },
+ "GPD Win Mini (2024)": {
+  "screen": "7in",
+  "dims": "168 x 109 x 26 mm",
+  "source": "https://www.gpd.hk/gpdwinminitechspecssdfwerwer"
+ },
+ "GPD Win Mini (2025)": {
+  "screen": "7in",
+  "dims": "172 x 109 x 27 mm",
+  "source": "https://www.gpd.hk/gpdwinmini2025techspecs"
+ },
+ "GPD XD": {
+  "screen": "5in",
+  "dims": "155 x 89 x 24 mm",
+  "source": "https://en.wikipedia.org/wiki/GPD_XD"
+ },
+ "GPD XD Plus": {
+  "screen": "5in",
+  "dims": "155 x 89 x 24 mm",
+  "source": "https://www.cnx-software.com/2018/01/25/210-gpd-xd-plus-handheld-android-game-console-launched-with-mediatek-mt8173-cortex-a73-a53-soc/"
+ },
+ "GPD XP": {
+  "screen": "6.81in",
+  "dims": "233 x 83 x 18 mm",
+  "source": "https://liliputing.com/gpd-xp-is-a-modular-handheld-android-gaming-device-coming-soon/"
+ },
+ "GPD XP Plus": {
+  "screen": "6.81in",
+  "dims": "233 x 83 x 18 mm",
+  "source": "https://liliputing.com/gpd-xp-plus-is-a-modular-handheld-game-console-with-mediatek-dimensity-1200-wifi-6-and-android/"
+ },
+ "Galaxy Fit e": {
+  "screen": "0.95in",
+  "dims": "44.6 x 18.3 x 11.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Fit_series"
+ },
+ "Galaxy Nexus": {
+  "screen": "4.65in",
+  "dims": "135.5 x 67.9 x 8.9 mm",
+  "source": "https://www.gsmarena.com/samsung_galaxy_nexus_i9250-4219.php"
+ },
+ "Galaxy Watch 42mm": {
+  "screen": "1.2in",
+  "dims": "45.7 x 41.9 x 12.7 mm",
+  "source": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Watch"
+ },
+ "Galaxy Watch 46mm": {
+  "screen": "1.3in",
+  "dims": "49 x 46 x 13 mm",
+  "source": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Watch"
+ },
+ "Galaxy Watch Active 40mm": {
+  "screen": "1.1in",
+  "dims": "39.5 x 39.5 x 10.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-active/"
+ },
+ "Galaxy Watch Active2 40mm": {
+  "screen": "1.2in",
+  "dims": "40 x 40 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-active-2/"
+ },
+ "Galaxy Watch Active2 44mm": {
+  "screen": "1.4in",
+  "dims": "44 x 44 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-active-2/"
+ },
+ "Galaxy Watch Active2 Aluminum 40mm": {
+  "screen": "1.2in",
+  "dims": "40 x 40 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-active-2/"
+ },
+ "Galaxy Watch Active2 Aluminum 44mm": {
+  "screen": "1.4in",
+  "dims": "44 x 44 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-active-2/"
+ },
+ "Galaxy Watch FE 40mm": {
+  "screen": "1.2in",
+  "dims": "40.4 x 39.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-fe/"
+ },
+ "Galaxy Watch3 41mm": {
+  "screen": "1.2in",
+  "dims": "42.5 x 41.0 x 11.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-3/"
+ },
+ "Galaxy Watch3 45mm": {
+  "screen": "1.4in",
+  "dims": "46.2 x 45.0 x 11.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-3/"
+ },
+ "Galaxy Watch4 40mm": {
+  "screen": "1.19in",
+  "dims": "40.4 x 39.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-4/"
+ },
+ "Galaxy Watch4 44mm": {
+  "screen": "1.36in",
+  "dims": "44.4 x 43.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-4/"
+ },
+ "Galaxy Watch4 Classic 42mm": {
+  "screen": "1.19in",
+  "dims": "41.5 x 41.5 x 11.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-4-classic/"
+ },
+ "Galaxy Watch4 Classic 46mm": {
+  "screen": "1.36in",
+  "dims": "45.5 x 45.5 x 11.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-4-classic/"
+ },
+ "Galaxy Watch5 40mm": {
+  "screen": "1.19in",
+  "dims": "40.4 x 39.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-5/"
+ },
+ "Galaxy Watch5 44mm": {
+  "screen": "1.36in",
+  "dims": "44.4 x 43.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-5/"
+ },
+ "Galaxy Watch5 Pro 45mm": {
+  "screen": "1.36in",
+  "dims": "45.4 x 45.4 x 10.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-5-pro/"
+ },
+ "Galaxy Watch6 40mm": {
+  "screen": "1.3in",
+  "dims": "40.4 x 38.8 x 9.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-6/"
+ },
+ "Galaxy Watch6 44mm": {
+  "screen": "1.5in",
+  "dims": "44.4 x 42.8 x 9.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-6/"
+ },
+ "Galaxy Watch6 Classic 43mm": {
+  "screen": "1.3in",
+  "dims": "42.5 x 42.5 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-6-classic/"
+ },
+ "Galaxy Watch6 Classic 47mm": {
+  "screen": "1.5in",
+  "dims": "46.5 x 46.5 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-6-classic/"
+ },
+ "Galaxy Watch7 40mm": {
+  "screen": "1.3in",
+  "dims": "40.4 x 40.4 x 9.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-7/"
+ },
+ "Galaxy Watch7 44mm": {
+  "screen": "1.5in",
+  "dims": "44.4 x 44.4 x 9.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-7/"
+ },
+ "Galaxy Watch8 40mm": {
+  "screen": "1.34in",
+  "dims": "42.7 x 40.4 x 8.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-8/"
+ },
+ "Galaxy Watch8 44mm": {
+  "screen": "1.47in",
+  "dims": "46.0 x 43.7 x 8.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-8/"
+ },
+ "Galaxy Watch8 Classic 46mm": {
+  "screen": "1.34in",
+  "dims": "46.4 x 46.0 x 10.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-8-classic/"
+ },
+ "Game & Watch: Super Mario Bros.": {
+  "screen": "2.36in",
+  "dims": "112 x 67 x 12.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_%26_Watch:_Super_Mario_Bros."
+ },
+ "Game Boy": {
+  "screen": "2.5in",
+  "dims": "148 x 90 x 32 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_Boy"
+ },
+ "Game Boy Advance": {
+  "screen": "2.9in",
+  "dims": "144.5 x 82 x 24.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_Boy_Advance"
+ },
+ "Game Boy Advance SP": {
+  "screen": "2.9in",
+  "dims": "84.6 x 82 x 24.3 mm",
+  "source": "https://www.nintendo.co.uk/Game-Boy-Advance-SP/Game-Boy-Advance-SP-627141.html"
+ },
+ "Game Boy Color": {
+  "screen": "2.3in",
+  "dims": "133.5 x 78 x 27.4 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_Boy_Color"
+ },
+ "Game Boy Light": {
+  "screen": "2.5in",
+  "dims": "135 x 80 x 27 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_Boy_Pocket"
+ },
+ "Game Boy Micro": {
+  "screen": "2in",
+  "dims": "101 x 50 x 17.2 mm",
+  "source": "https://www.nintendo.co.uk/Game-Boy-Micro/Game-Boy-Micro-627145.html"
+ },
+ "Game Boy Pocket": {
+  "screen": "2.5in",
+  "dims": "127.6 x 77.6 x 25.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Game_Boy_Pocket"
+ },
+ "Garmin Approach S10": {
+  "dims": "35.5 x 40.7 x 11.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s10/"
+ },
+ "Garmin Approach S12": {
+  "dims": "43.7 x 43.7 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s12/"
+ },
+ "Garmin Approach S20": {
+  "dims": "37.4 x 47.6 x 11.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s20/"
+ },
+ "Garmin Approach S4": {
+  "screen": "1in",
+  "dims": "46 x 61.3 x 14.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s4/"
+ },
+ "Garmin Approach S40": {
+  "screen": "1.2in",
+  "dims": "43.4 x 43.4 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s40/"
+ },
+ "Garmin Approach S42": {
+  "screen": "1.2in",
+  "dims": "43.4 x 43.4 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s42/"
+ },
+ "Garmin Approach S44": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s44/"
+ },
+ "Garmin Approach S6": {
+  "screen": "1in",
+  "dims": "45 x 45 x 14.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s6/"
+ },
+ "Garmin Approach S60": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s60/"
+ },
+ "Garmin Approach S62": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s62/"
+ },
+ "Garmin Approach S70 42mm": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s70/"
+ },
+ "Garmin Approach S70 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.4 mm",
+  "source": "https://the5krunner.com/specs/garmin/approach-s70/"
+ },
+ "Garmin Approach S72 43mm": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 12.93 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s72/"
+ },
+ "Garmin Bounce": {
+  "screen": "1.3in",
+  "dims": "42.0 x 42.4 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-bounce/"
+ },
+ "Garmin Bounce 2": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 12.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-bounce-2/"
+ },
+ "Garmin D2 Air X10": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-air-x10/"
+ },
+ "Garmin D2 Air X15": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-air-x15/"
+ },
+ "Garmin D2 Bravo": {
+  "screen": "1.2in",
+  "dims": "51.5 x 51.5 x 15.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-bravo/"
+ },
+ "Garmin D2 Charlie": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 17.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-charlie/"
+ },
+ "Garmin D2 Delta": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 15.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-delta/"
+ },
+ "Garmin D2 Delta PX": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 17.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-delta-px/"
+ },
+ "Garmin D2 Delta S": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 15.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-delta-s/"
+ },
+ "Garmin D2 Mach 1": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-mach-1/"
+ },
+ "Garmin D2 Mach 1 Pro": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-mach-1-pro/"
+ },
+ "Garmin D2 Mach 2 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-mach-2/"
+ },
+ "Garmin D2 Mach 2 Pro": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 16.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-d2-mach-2-pro/"
+ },
+ "Garmin Descent G1": {
+  "dims": "45.5 x 45.5 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-g1/"
+ },
+ "Garmin Descent G1 Solar": {
+  "dims": "45.5 x 45.5 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-g1/"
+ },
+ "Garmin Descent G2": {
+  "screen": "1.2in",
+  "dims": "45.5 x 45.5 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-g2/"
+ },
+ "Garmin Descent Mk1": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 17.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk1/"
+ },
+ "Garmin Descent Mk2": {
+  "screen": "1.4in",
+  "dims": "52 x 52 x 17.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk2/"
+ },
+ "Garmin Descent Mk2S": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 14.15 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk2s/"
+ },
+ "Garmin Descent Mk2i": {
+  "screen": "1.4in",
+  "dims": "52 x 52 x 17.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk2i/"
+ },
+ "Garmin Descent Mk3 43mm": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 14.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-descent-mk3/"
+ },
+ "Garmin Enduro": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-enduro/"
+ },
+ "Garmin Enduro 2": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-enduro-2/"
+ },
+ "Garmin Enduro 3": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-enduro-3/"
+ },
+ "Garmin Enduro 4": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-enduro-4/"
+ },
+ "Garmin Forerunner 10": {
+  "dims": "45.5 x 57.2 x 15.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-10/"
+ },
+ "Garmin Forerunner 15": {
+  "dims": "46 x 57 x 16 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-15/"
+ },
+ "Garmin Forerunner 165": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 11.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-165/"
+ },
+ "Garmin Forerunner 165 Music": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 11.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-165/"
+ },
+ "Garmin Forerunner 170": {
+  "screen": "1.2in",
+  "dims": "42.6 x 42.6 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-170/"
+ },
+ "Garmin Forerunner 170 Music": {
+  "screen": "1.2in",
+  "dims": "42.6 x 42.6 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-170/"
+ },
+ "Garmin Forerunner 220": {
+  "screen": "1in",
+  "dims": "45 x 45 x 12 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-220/"
+ },
+ "Garmin Forerunner 230": {
+  "dims": "45 x 45 x 11.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-230/",
+  "screen": "1in"
+ },
+ "Garmin Forerunner 235": {
+  "screen": "1.23in",
+  "dims": "45 x 45 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-235/"
+ },
+ "Garmin Forerunner 245": {
+  "screen": "1.2in",
+  "dims": "42.3 x 42.3 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-245/"
+ },
+ "Garmin Forerunner 245 Music": {
+  "screen": "1.2in",
+  "dims": "42.3 x 42.3 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-245/"
+ },
+ "Garmin Forerunner 25": {
+  "dims": "40.2 x 47 x 13.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-25/"
+ },
+ "Garmin Forerunner 255": {
+  "screen": "1.3in",
+  "dims": "45.6 x 45.6 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-255/"
+ },
+ "Garmin Forerunner 255 Music": {
+  "screen": "1.3in",
+  "dims": "45.6 x 45.6 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-255/"
+ },
+ "Garmin Forerunner 255S": {
+  "screen": "1.1in",
+  "dims": "41 x 41 x 12.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-255s/"
+ },
+ "Garmin Forerunner 255S Music": {
+  "screen": "1.1in",
+  "dims": "41 x 41 x 12.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-255s/"
+ },
+ "Garmin Forerunner 265": {
+  "screen": "1.3in",
+  "dims": "46.1 x 46.1 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-265/"
+ },
+ "Garmin Forerunner 265S": {
+  "screen": "1.1in",
+  "dims": "41.7 x 41.7 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-265s/"
+ },
+ "Garmin Forerunner 45": {
+  "screen": "1.04in",
+  "dims": "42 x 42 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-45/"
+ },
+ "Garmin Forerunner 45S": {
+  "screen": "1.04in",
+  "dims": "39.5 x 39.5 x 11.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-45s/"
+ },
+ "Garmin Forerunner 55": {
+  "screen": "1.04in",
+  "dims": "42 x 42 x 11.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-55/"
+ },
+ "Garmin Forerunner 570 42mm": {
+  "screen": "1.2in",
+  "source": "https://the5krunner.com/specs/garmin/forerunner-570/"
+ },
+ "Garmin Forerunner 570 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-570/"
+ },
+ "Garmin Forerunner 610": {
+  "dims": "46 x 46 x 14 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-610/"
+ },
+ "Garmin Forerunner 620": {
+  "screen": "1in",
+  "dims": "45 x 45 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-620/"
+ },
+ "Garmin Forerunner 630": {
+  "screen": "1.23in",
+  "dims": "45 x 45 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-630/"
+ },
+ "Garmin Forerunner 645": {
+  "screen": "1.2in",
+  "dims": "42.5 x 42.5 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-645/"
+ },
+ "Garmin Forerunner 645 Music": {
+  "screen": "1.2in",
+  "dims": "42.5 x 42.5 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-645/"
+ },
+ "Garmin Forerunner 70": {
+  "screen": "1.2in",
+  "dims": "42.6 x 42.6 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-70/"
+ },
+ "Garmin Forerunner 735XT": {
+  "screen": "1.23in",
+  "dims": "44.5 x 44.5 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-735xt/"
+ },
+ "Garmin Forerunner 745": {
+  "screen": "1.2in",
+  "dims": "43.8 x 43.8 x 13.3 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/Garmin_Forerunner_745_Specs.pdf"
+ },
+ "Garmin Forerunner 910XT": {
+  "dims": "54 x 61 x 15 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-910xt/"
+ },
+ "Garmin Forerunner 920XT": {
+  "dims": "48 x 55 x 12.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-920xt/"
+ },
+ "Garmin Forerunner 935": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 13.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-935/"
+ },
+ "Garmin Forerunner 945": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 13.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-945/"
+ },
+ "Garmin Forerunner 945 LTE": {
+  "screen": "1.2in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-945-lte/"
+ },
+ "Garmin Forerunner 955": {
+  "screen": "1.3in",
+  "dims": "46.5 x 46.5 x 14.4 mm",
+  "source": "https://the5krunner.com/specs/garmin/forerunner-955/"
+ },
+ "Garmin Forerunner 955 Solar": {
+  "screen": "1.3in",
+  "dims": "46.5 x 46.5 x 14.4 mm",
+  "source": "https://the5krunner.com/specs/garmin/forerunner-955/"
+ },
+ "Garmin Forerunner 965": {
+  "screen": "1.4in",
+  "dims": "47.1 x 47.1 x 13.2 mm",
+  "source": "https://the5krunner.com/specs/garmin/forerunner-965/"
+ },
+ "Garmin Forerunner 970": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 12.9 mm",
+  "source": "https://the5krunner.com/specs/garmin/forerunner-970/"
+ },
+ "Garmin Instinct": {
+  "dims": "45 x 45 x 15.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct/"
+ },
+ "Garmin Instinct 2": {
+  "dims": "45 x 45 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct-2/"
+ },
+ "Garmin Instinct 2 Solar": {
+  "dims": "45 x 45 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct-2/"
+ },
+ "Garmin Instinct 2S": {
+  "screen": "1.12in",
+  "dims": "40 x 40 x 13.3 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_Instinct_2_2S_Specifications.pdf",
+  "side": true
+ },
+ "Garmin Instinct 2S Solar": {
+  "screen": "1.12in",
+  "dims": "40 x 40 x 13.3 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-2s-solar-graphite",
+  "side": true
+ },
+ "Garmin Instinct 2X Solar": {
+  "screen": "1.56in",
+  "dims": "50 x 50 x 14.5 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-2x-solar-whitestone",
+  "side": true
+ },
+ "Garmin Instinct 3 AMOLED 45mm": {
+  "screen": "1.2in",
+  "dims": "45 x 45 x 14.9 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-amoled-45mm-black"
+ },
+ "Garmin Instinct 3 AMOLED 50mm": {
+  "screen": "1.3in",
+  "dims": "50 x 50 x 14.4 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-amoled-50mm-black"
+ },
+ "Garmin Instinct 3 Solar 45mm": {
+  "dims": "45 x 45 x 14.9 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-solar-45mm-tactical-edition"
+ },
+ "Garmin Instinct 3 Solar 50mm": {
+  "screen": "1.56in",
+  "dims": "50 x 50 x 14.4 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-solar-50mm-tactical-edition",
+  "side": true
+ },
+ "Garmin Instinct 3 Tactical Edition AMOLED 50mm": {
+  "screen": "1.3in",
+  "dims": "50 x 50 x 14.4 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-amoled-50mm-tactical-edition"
+ },
+ "Garmin Instinct 3 Tactical Edition Solar 45mm": {
+  "screen": "1.27in",
+  "dims": "45 x 45 x 14.9 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-solar-45mm-tactical-edition",
+  "side": true
+ },
+ "Garmin Instinct 3 Tactical Edition Solar 50mm": {
+  "screen": "1.56in",
+  "dims": "50 x 50 x 14.4 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-3-solar-50mm-tactical-edition",
+  "side": true
+ },
+ "Garmin Instinct Crossover": {
+  "dims": "45 x 45 x 16.2 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-crossover"
+ },
+ "Garmin Instinct Crossover AMOLED": {
+  "screen": "1.2in",
+  "dims": "46.6 x 46.6 x 15.1 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-crossover-amoled-charcoal"
+ },
+ "Garmin Instinct E 40mm": {
+  "screen": "1.22in",
+  "dims": "40 x 40 x 13.6 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-e-40-mm-black-with-charcoal-band",
+  "side": true
+ },
+ "Garmin Instinct E 45mm": {
+  "screen": "1.27in",
+  "dims": "45 x 45 x 14.2 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-instinct-e-45-mm-black-with-charcoal-band",
+  "side": true
+ },
+ "Garmin Instinct Solar": {
+  "screen": "1.27in",
+  "dims": "45 x 45 x 15.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct-solar/",
+  "side": true
+ },
+ "Garmin Instinct Tactical": {
+  "screen": "1.27in",
+  "dims": "45 x 45 x 15.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct-tactical/",
+  "side": true
+ },
+ "Garmin Lily": {
+  "screen": "1.31in",
+  "dims": "34.5 x 34.5 x 10.15 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_Lily_Specifications.pdf"
+ },
+ "Garmin Lily 2": {
+  "screen": "1.31in",
+  "dims": "35.4 x 35.4 x 10.1 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-lily-2-cream-gold-with-coconut-silicone-band"
+ },
+ "Garmin Lily 2 Active": {
+  "screen": "1.31in",
+  "dims": "38 x 38 x 11 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-lily-2-active-lunar-gold-with-bone-silicone-band"
+ },
+ "Garmin MARQ (Gen 2)": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 15 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-athlete-gen-2/"
+ },
+ "Garmin MARQ (Gen 3) Adventurer": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-3-adventurer"
+ },
+ "Garmin MARQ (Gen 3) Athlete": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-3-athlete"
+ },
+ "Garmin MARQ (Gen 3) Aviator": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-3-aviator"
+ },
+ "Garmin MARQ (Gen 3) Commander": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-3-commander"
+ },
+ "Garmin MARQ (Gen 3) Diver": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-3-diver"
+ },
+ "Garmin MARQ (Gen 3) Golfer": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-marq-gen3-golfer"
+ },
+ "Garmin MARQ Adventurer": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-adventurer/"
+ },
+ "Garmin MARQ Athlete": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 15.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-athlete/"
+ },
+ "Garmin MARQ Aviator": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-aviator/"
+ },
+ "Garmin MARQ Captain": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-captain/"
+ },
+ "Garmin MARQ Commander": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-commander/"
+ },
+ "Garmin MARQ Driver": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-driver/"
+ },
+ "Garmin MARQ Expedition": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-expedition/"
+ },
+ "Garmin MARQ Golfer": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-marq-golfer/"
+ },
+ "Garmin Swim": {
+  "screen": "1.45in",
+  "dims": "48.8 x 44.0 x 13.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-swim/"
+ },
+ "Garmin Swim 2": {
+  "screen": "1.04in",
+  "dims": "42 x 42 x 11.4 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-swim-2-slate"
+ },
+ "Garmin Venu": {
+  "screen": "1.2in",
+  "dims": "43.2 x 43.2 x 12.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu/"
+ },
+ "Garmin Venu 2": {
+  "screen": "1.3in",
+  "dims": "45.4 x 45.4 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-2/"
+ },
+ "Garmin Venu 2 Plus": {
+  "screen": "1.3in",
+  "dims": "43.6 x 43.6 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-2-plus/"
+ },
+ "Garmin Venu 2S": {
+  "screen": "1.1in",
+  "dims": "40.4 x 40.4 x 12.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-2s/"
+ },
+ "Garmin Venu 3": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12 mm",
+  "source": "https://the5krunner.com/specs/garmin/venu-3/"
+ },
+ "Garmin Venu 3S": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12 mm",
+  "source": "https://the5krunner.com/specs/garmin/venu-3/"
+ },
+ "Garmin Venu 4 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12 mm",
+  "source": "https://the5krunner.com/specs/garmin/venu-4/"
+ },
+ "Garmin Venu 4 45mm": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-4/"
+ },
+ "Garmin Venu Sq": {
+  "screen": "1.3in",
+  "dims": "40.6 x 37.0 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-sq/"
+ },
+ "Garmin Venu Sq 2": {
+  "screen": "1.41in",
+  "dims": "40.6 x 37.0 x 11.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-sq-2/"
+ },
+ "Garmin Venu Sq 2 Music": {
+  "screen": "1.41in",
+  "dims": "40.6 x 37.0 x 11.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-sq-2/"
+ },
+ "Garmin Venu Sq Music": {
+  "screen": "1.3in",
+  "dims": "40.6 x 37.0 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-venu-sq/"
+ },
+ "Garmin Venu X1": {
+  "screen": "2in",
+  "dims": "46 x 41 x 7.9 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-venu-x1-black"
+ },
+ "Garmin epix": {
+  "screen": "1.4in",
+  "dims": "53.3 x 50.8 x 17.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-epix/"
+ },
+ "Garmin epix (Gen 2)": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://the5krunner.com/specs/garmin/epix-gen-2/"
+ },
+ "Garmin epix Pro (Gen 2) 42mm": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-epix-pro/"
+ },
+ "Garmin epix Pro (Gen 2) 47mm": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://the5krunner.com/specs/garmin/epix-pro/"
+ },
+ "Garmin epix Pro (Gen 2) 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://the5krunner.com/specs/garmin/epix-pro/"
+ },
+ "Garmin fenix": {
+  "screen": "1.2in",
+  "dims": "49 x 49 x 17 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix/"
+ },
+ "Garmin fenix 2": {
+  "screen": "1.2in",
+  "dims": "49 x 49 x 17 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-2/"
+ },
+ "Garmin fenix 3": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-3/"
+ },
+ "Garmin fenix 3 HR": {
+  "screen": "1.2in",
+  "dims": "51.5 x 51.5 x 16 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-3-hr/"
+ },
+ "Garmin fenix 5": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5/"
+ },
+ "Garmin fenix 5 Plus": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 15.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5-plus"
+ },
+ "Garmin fenix 5S": {
+  "screen": "1.1in",
+  "dims": "42 x 42 x 15 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5s/"
+ },
+ "Garmin fenix 5S Plus": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 15.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5s-plus/"
+ },
+ "Garmin fenix 5X": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 17.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5x/"
+ },
+ "Garmin fenix 5X Plus": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 17.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-5x-plus/"
+ },
+ "Garmin fenix 6": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-6/"
+ },
+ "Garmin fenix 6 Pro": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.7 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/Garmin_fenix_6_6-pro_Specifications.pdf"
+ },
+ "Garmin fenix 6 Pro Solar": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 15.1 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/GarminFenix6ProSolar_specs.pdf"
+ },
+ "Garmin fenix 6S": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 13.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-6s-pro/"
+ },
+ "Garmin fenix 6S Pro": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 13.8 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/Garmin_fenix_6s_6s-pro_Specifications.pdf"
+ },
+ "Garmin fenix 6S Pro Solar": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.2 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/GarminFenix6SProSolar_specs.pdf"
+ },
+ "Garmin fenix 6X": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-6x-pro/"
+ },
+ "Garmin fenix 6X Pro": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/Garmin_fenix_6X_Specifications.pdf"
+ },
+ "Garmin fenix 6X Pro Solar": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://woo.gpscentral.ca/wp-content/uploads/GarminFenix6XProSolar_specs.pdf"
+ },
+ "Garmin fenix 7": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-7/"
+ },
+ "Garmin fenix 7 Pro": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-7-pro/"
+ },
+ "Garmin fenix 7 Sapphire Solar": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7_Series_Specifications.pdf"
+ },
+ "Garmin fenix 7 Solar": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7_Series_Specifications.pdf"
+ },
+ "Garmin fenix 7S": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.1 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-7/"
+ },
+ "Garmin fenix 7S Pro": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-7s-pro/"
+ },
+ "Garmin fenix 7S Sapphire Solar": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.1 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7S_Series_Specifications.pdf"
+ },
+ "Garmin fenix 7S Solar": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 14.1 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7S_Series_Specifications.pdf"
+ },
+ "Garmin fenix 7X": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-7/"
+ },
+ "Garmin fenix 7X Pro": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-7x-pro/"
+ },
+ "Garmin fenix 7X Sapphire Solar": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7X_Series_Specifications.pdf"
+ },
+ "Garmin fenix 7X Solar": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://www.gpscentral.ca/wp-content/uploads/Garmin_fenix7X_Series_Specifications.pdf"
+ },
+ "Garmin fenix 8 AMOLED 43mm": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 13.8 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8/"
+ },
+ "Garmin fenix 8 AMOLED 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.8 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8/"
+ },
+ "Garmin fenix 8 AMOLED 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.7 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8/"
+ },
+ "Garmin fenix 8 Pro AMOLED 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 16 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-8-pro/"
+ },
+ "Garmin fenix 8 Pro AMOLED 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 16.5 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8-pro/"
+ },
+ "Garmin fenix 8 Pro MicroLED 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 16.5 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-fenix8-pro-microled-51mm-carbongrey-titanium"
+ },
+ "Garmin fenix 8 Solar 47mm": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 15.2 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8/"
+ },
+ "Garmin fenix 8 Solar 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.4 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-8/"
+ },
+ "Garmin fenix 9 43mm": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 13.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-9/"
+ },
+ "Garmin fenix 9 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.8 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-9/"
+ },
+ "Garmin fenix 9 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.7 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-9/"
+ },
+ "Garmin fenix 9 Pro 43mm": {
+  "screen": "1.3in",
+  "dims": "43 x 43 x 13.3 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-9-pro/"
+ },
+ "Garmin fenix 9 Pro 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.8 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-9-pro/"
+ },
+ "Garmin fenix 9 Pro 51mm": {
+  "screen": "1.5in",
+  "dims": "51 x 51 x 15.8 mm",
+  "source": "https://the5krunner.com/specs/garmin/fenix-9-pro/"
+ },
+ "Garmin fenix 9 Pro Solar 47mm": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 15.8 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-fenix9-pro-solar-47mm"
+ },
+ "Garmin fenix 9 Pro Solar 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 16.6 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-fenix9-pro-solar-51mm"
+ },
+ "Garmin fenix E 47mm": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-fenix-e/"
+ },
+ "Garmin quatix 3": {
+  "screen": "1.2in",
+  "dims": "51.5 x 51.5 x 16.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-3/"
+ },
+ "Garmin quatix 5": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-5/"
+ },
+ "Garmin quatix 6": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-6/"
+ },
+ "Garmin quatix 6X Solar": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-6x/"
+ },
+ "Garmin quatix 7": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-7/"
+ },
+ "Garmin quatix 7 Pro": {
+  "screen": "1.3in",
+  "dims": "47 x 47 x 14.6 mm",
+  "source": "https://www.gpscentral.ca/product/garmin-quatix-7-pro"
+ },
+ "Garmin quatix 8 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 13.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-8/"
+ },
+ "Garmin quatix 8 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-8-51/"
+ },
+ "Garmin quatix 8 Pro 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-quatix-8-pro/"
+ },
+ "Garmin tactix 7": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 16.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-7/"
+ },
+ "Garmin tactix 8 AMOLED 47mm": {
+  "screen": "1.4in",
+  "dims": "47 x 47 x 15.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-8-47-mm-amoled/"
+ },
+ "Garmin tactix 8 AMOLED 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-8-51-mm-amoled/"
+ },
+ "Garmin tactix 8 Cerakote Edition": {
+  "screen": "1.4in",
+  "source": "https://www.garmin.com.sg/news/press-release/news-2026-feb-tactix-8-cerakote/"
+ },
+ "Garmin tactix 8 Solar 51mm": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 15.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-8-51-mm-solar/"
+ },
+ "Garmin tactix Bravo": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-bravo/"
+ },
+ "Garmin tactix Charlie": {
+  "screen": "1.2in",
+  "dims": "51 x 51 x 17.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-charlie/"
+ },
+ "Garmin tactix Delta": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-delta/"
+ },
+ "Garmin tactix Delta Solar": {
+  "screen": "1.4in",
+  "dims": "51 x 51 x 14.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-tactix-delta-solar/"
+ },
+ "Garmin vivoactive": {
+  "screen": "1.39in",
+  "dims": "43.8 x 38.5 x 8.0 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive/"
+ },
+ "Garmin vivoactive 3": {
+  "screen": "1.2in",
+  "dims": "43.4 x 43.4 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-3/"
+ },
+ "Garmin vivoactive 3 Music": {
+  "screen": "1.2in",
+  "dims": "43.1 x 43.1 x 13.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-3-music/"
+ },
+ "Garmin vivoactive 4": {
+  "screen": "1.3in",
+  "dims": "45.1 x 45.1 x 12.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-4/"
+ },
+ "Garmin vivoactive 4S": {
+  "screen": "1.1in",
+  "dims": "40 x 40 x 12.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-4s/"
+ },
+ "Garmin vivoactive 5": {
+  "dims": "42.2 x 42.2 x 11.1 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-5/"
+ },
+ "Garmin vivoactive 6": {
+  "dims": "42.2 x 42.2 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-6/"
+ },
+ "Garmin vivoactive HR": {
+  "screen": "1.39in",
+  "dims": "57.0 x 30.2 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivoactive-hr/"
+ },
+ "Garmin vivofit": {
+  "screen": "1.08in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit/"
+ },
+ "Garmin vivofit 2": {
+  "screen": "1.08in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-2/"
+ },
+ "Garmin vivofit 3": {
+  "screen": "0.56in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-3/"
+ },
+ "Garmin vivofit 4": {
+  "screen": "0.56in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-4/"
+ },
+ "Garmin vivofit jr": {
+  "screen": "0.56in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-jr/"
+ },
+ "Garmin vivofit jr 2": {
+  "screen": "0.61in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-jr-2/"
+ },
+ "Garmin vivofit jr 3": {
+  "screen": "0.79in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivofit-jr-3/"
+ },
+ "Garmin vivomove": {
+  "dims": "42 x 42 x 12 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove/"
+ },
+ "Garmin vivomove 3": {
+  "screen": "0.8in",
+  "dims": "44 x 44 x 11.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3/"
+ },
+ "Garmin vivomove 3S": {
+  "screen": "0.8in",
+  "dims": "39 x 39 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3s/"
+ },
+ "Garmin vivomove HR": {
+  "screen": "0.85in",
+  "dims": "43 x 43 x 11.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-hr/"
+ },
+ "Garmin vivomove Luxe": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-luxe/"
+ },
+ "Garmin vivomove Style": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-style/"
+ },
+ "Garmin vivomove Trend": {
+  "screen": "1.25in",
+  "dims": "40.4 x 40.4 x 11.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-trend/"
+ },
+ "Garmin vivosmart": {
+  "screen": "1.36in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart/"
+ },
+ "Garmin vivosmart 3": {
+  "screen": "1.08in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart-3/"
+ },
+ "Garmin vivosmart 4": {
+  "screen": "0.74in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart-4/"
+ },
+ "Garmin vivosmart 5": {
+  "screen": "0.74in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart-5/"
+ },
+ "Garmin vivosmart HR": {
+  "screen": "1.08in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosmart-hr/"
+ },
+ "Garmin vivosport": {
+  "screen": "0.85in",
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-vivosport/"
+ },
+ "Garmin-Asus A10": {
+  "dims": "110 x 58 x 13.7 mm",
+  "source": "https://www.manualsdir.com/manuals/112017/garmin-asus-a10.html?page=123"
+ },
+ "Garmin-Asus nuvifone M10": {
+  "dims": "116 x 58 x 14.3 mm",
+  "source": "https://phonearena.com/phones/Garmin-Asus-nuvifone-M10_id4426"
+ },
+ "Gear Fit": {
+  "screen": "1.84in",
+  "dims": "57.4 x 23.4 x 11.95 mm",
+  "source": "https://en.wikipedia.org/wiki/Samsung_Gear_Fit"
+ },
+ "Honor Magic V Flip": {
+  "screen": "4in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/honor_magic_v_flip-13142.php"
+ },
+ "Honor Magic V Flip 2": {
+  "screen": "4in",
+  "cover": true,
+  "source": "https://www.phonearena.com/phones/Honor-Magic-V-Flip-2_id12825"
+ },
+ "Honor Magic V3": {
+  "screen": "6.43in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/honor_magic_v3-13202.php"
+ },
+ "Honor Magic V5": {
+  "screen": "6.43in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/honor_magic_v5-13982.php"
+ },
+ "Honor Magic V6": {
+  "screen": "6.52in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/honor_magic_v6-14518.php"
+ },
+ "Honor Magic Vs3": {
+  "screen": "6.43in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/honor_magic_vs3-13203.php"
+ },
+ "Honor MagicWatch 2 42mm": {
+  "screen": "1.2in",
+  "source": "https://gadgetsandwearables.com/technical-specs/honor-magicwatch-2/"
+ },
+ "Honor MagicWatch 2 46mm": {
+  "screen": "1.39in",
+  "source": "https://gadgetsandwearables.com/technical-specs/honor-magicwatch-2-46mm/"
+ },
+ "Huawei Band 10": {
+  "screen": "1.47in",
+  "dims": "43.45 x 24.86 x 8.99 mm",
+  "source": "https://consumer.huawei.com/ie/wearables/band10/specs/"
+ },
+ "Huawei Band 11": {
+  "screen": "1.62in",
+  "dims": "42.6 x 28.2 x 8.99 mm",
+  "source": "https://consumer.huawei.com/en/wearables/band11/specs/"
+ },
+ "Huawei Band 11 Pro": {
+  "screen": "1.62in",
+  "dims": "43.5 x 28.2 x 8.99 mm",
+  "source": "https://consumer.huawei.com/en/wearables/band11-pro/specs/"
+ },
+ "Huawei Band 2 Pro": {
+  "screen": "0.91in",
+  "dims": "44 x 19.7 x 10.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-band-2-pro"
+ },
+ "Huawei Band 3 Pro": {
+  "screen": "0.95in",
+  "dims": "45 x 19 x 11 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-band-3-pro/"
+ },
+ "Huawei Band 4": {
+  "screen": "0.96in",
+  "dims": "56 x 18.5 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-band-4/"
+ },
+ "Huawei Band 4 Pro": {
+  "screen": "0.95in",
+  "dims": "45 x 19 x 11 mm",
+  "source": "https://consumer.huawei.com/sg/wearables/band4-pro/specs/"
+ },
+ "Huawei Band 6": {
+  "screen": "1.47in",
+  "dims": "43 x 25.4 x 10.99 mm",
+  "source": "https://consumer.huawei.com/sg/wearables/band6/specs/"
+ },
+ "Huawei Band 7": {
+  "screen": "1.47in",
+  "dims": "44.35 x 26 x 9.99 mm",
+  "source": "https://consumer.huawei.com/ca/wearables/band7/specs/"
+ },
+ "Huawei Band 8": {
+  "screen": "1.47in",
+  "dims": "43.45 x 24.54 x 8.99 mm",
+  "source": "https://consumer.huawei.com/om/wearables/band8/specs/"
+ },
+ "Huawei Band 9": {
+  "screen": "1.47in",
+  "dims": "43.45 x 24.86 x 8.99 mm",
+  "source": "https://consumer.huawei.com/ie/wearables/band9/specs"
+ },
+ "Huawei TalkBand B3": {
+  "screen": "0.7in",
+  "dims": "43.08 x 18.44 x 10.53 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-talkband-b3/"
+ },
+ "Huawei Watch 6 42mm": {
+  "screen": "1.38in",
+  "dims": "42.3 x 42.3 x 10.2 mm",
+  "source": "https://consumer.huawei.com/en/wearables/watch-6/specs/"
+ },
+ "Huawei Watch 6 46mm": {
+  "screen": "1.5in",
+  "dims": "46.4 x 46.4 x 10.9 mm",
+  "source": "https://consumer.huawei.com/en/wearables/watch-6/specs/"
+ },
+ "Huawei Watch 6 Pro 43mm": {
+  "screen": "1.38in",
+  "dims": "43.5 x 43.5 x 10.2 mm",
+  "source": "https://consumer.huawei.com/en/wearables/watch-6-pro/specs/"
+ },
+ "Huawei Watch 6 Pro 46mm": {
+  "screen": "1.5in",
+  "dims": "46.4 x 46.4 x 10.9 mm",
+  "source": "https://consumer.huawei.com/en/wearables/watch-6-pro/specs/"
+ },
+ "Huawei Watch D3": {
+  "screen": "1.92in",
+  "dims": "46.5 x 41 x 11.3 mm",
+  "source": "https://consumer.huawei.com/uk/wearables/watch-d3/specs/"
+ },
+ "Huawei Watch Fit 2": {
+  "screen": "1.74in",
+  "dims": "46 x 33.5 x 10.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-fit-2/"
+ },
+ "Huawei Watch Fit 3": {
+  "screen": "1.82in",
+  "dims": "43.2 x 36.3 x 9.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-fit-3/"
+ },
+ "Huawei Watch GT 2 42mm": {
+  "screen": "1.2in",
+  "dims": "41.8 x 41.8 x 9.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-2/"
+ },
+ "Huawei Watch GT 2 46mm": {
+  "screen": "1.39in",
+  "dims": "45.9 x 45.9 x 10.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-2/"
+ },
+ "Huawei Watch GT 3 42mm": {
+  "screen": "1.32in",
+  "dims": "42.3 x 42.3 x 10.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-3/"
+ },
+ "Huawei Watch GT 3 46mm": {
+  "screen": "1.43in",
+  "dims": "45.9 x 45.9 x 11 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-3/"
+ },
+ "Huawei Watch GT 3 Pro 43mm": {
+  "screen": "1.32in",
+  "dims": "42.9 x 42.9 x 10.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-3-pro/"
+ },
+ "Huawei Watch GT 3 Pro 46mm": {
+  "screen": "1.43in",
+  "dims": "46.6 x 46.6 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-3-pro/"
+ },
+ "Huawei Watch GT 4 41mm": {
+  "screen": "1.32in",
+  "dims": "41.3 x 41.3 x 9.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-4/"
+ },
+ "Huawei Watch GT 4 46mm": {
+  "screen": "1.43in",
+  "dims": "46 x 46 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-4/"
+ },
+ "Huawei Watch GT 5 41mm": {
+  "screen": "1.32in",
+  "dims": "41.3 x 41.3 x 9.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-5/"
+ },
+ "Huawei Watch GT 5 46mm": {
+  "screen": "1.43in",
+  "dims": "45.8 x 45.8 x 10.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-5/"
+ },
+ "Huawei Watch GT 5 Pro 42mm": {
+  "screen": "1.32in",
+  "dims": "42.49 x 42.49 x 9.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-5-pro/"
+ },
+ "Huawei Watch GT 5 Pro 46mm": {
+  "screen": "1.43in",
+  "dims": "46.3 x 46.3 x 10.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-5-pro/"
+ },
+ "Huawei Watch GT 6 41mm": {
+  "screen": "1.32in",
+  "dims": "41.3 x 41.3 x 9.99 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-6/"
+ },
+ "Huawei Watch GT 6 46mm": {
+  "screen": "1.47in",
+  "dims": "46 x 46 x 10.95 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-6/"
+ },
+ "Huawei Watch GT 7 41mm": {
+  "screen": "1.32in",
+  "dims": "41.3 x 41.3 x 9.99 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-7/"
+ },
+ "Huawei Watch GT 7 46mm": {
+  "screen": "1.47in",
+  "dims": "46 x 46 x 10.95 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/huawei-watch-gt-7/"
+ },
+ "Huawei Watch GT 7 Pro": {
+  "screen": "1.47in",
+  "dims": "45.6 x 45.6 x 11.25 mm",
+  "source": "https://consumer.huawei.com/en/wearables/watch-gt7-pro/specs/"
+ },
+ "Kindle (10th gen)": {
+  "screen": "6in",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle (11th gen)": {
+  "screen": "6in",
+  "dims": "157.8 x 108.6 x 8.0 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle (11th gen, 2024)": {
+  "screen": "6in",
+  "dims": "157.8 x 108.6 x 8.0 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle (1st gen)": {
+  "screen": "6in",
+  "dims": "203 x 135 x 20 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle (2026)": {
+  "screen": "6in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle (7th gen)": {
+  "screen": "6in",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle (8th gen)": {
+  "screen": "6in",
+  "dims": "160 x 115 x 9.1 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle 2": {
+  "screen": "6in",
+  "dims": "203 x 135 x 9.14 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle 4": {
+  "screen": "6in",
+  "dims": "166 x 114 x 8.7 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle 5": {
+  "screen": "6in",
+  "dims": "166 x 114 x 8.7 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Colorsoft": {
+  "screen": "7in",
+  "dims": "176.7 x 127.6 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Colorsoft (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Colorsoft Kids": {
+  "screen": "7in",
+  "dims": "176.7 x 127.6 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Colorsoft Kids (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Colorsoft Signature Edition (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle DX": {
+  "screen": "9.7in",
+  "dims": "264 x 183 x 9.7 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle DX Graphite": {
+  "screen": "9.7in",
+  "dims": "264 x 183 x 9.7 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Keyboard": {
+  "screen": "6in",
+  "dims": "190 x 123 x 8.5 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Kids (11th gen)": {
+  "screen": "6in",
+  "dims": "157.8 x 108.6 x 8.0 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Kids (2026)": {
+  "screen": "6in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Kids Edition (10th gen)": {
+  "screen": "6in",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Oasis (1st gen)": {
+  "screen": "6in",
+  "dims": "143 x 122 x 8.5 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Oasis (2nd gen)": {
+  "screen": "7in",
+  "dims": "159 x 141 x 3.4 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Oasis (3rd gen)": {
+  "screen": "7in",
+  "dims": "159 x 141 x 3.4 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Paperwhite (12th gen)": {
+  "screen": "7in",
+  "dims": "176.7 x 127.6 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Paperwhite (1st gen)": {
+  "screen": "6in",
+  "dims": "169 x 117 x 9.1 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Paperwhite (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Paperwhite (2nd gen)": {
+  "screen": "6in",
+  "dims": "169 x 117 x 9.1 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Paperwhite (3rd gen)": {
+  "screen": "6in",
+  "dims": "169 x 117 x 9.1 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Paperwhite (4th gen)": {
+  "screen": "6in",
+  "dims": "167 x 116 x 8.18 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Paperwhite (5th gen)": {
+  "screen": "6.8in",
+  "dims": "174 x 125 x 8.1 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Paperwhite Kids (12th gen)": {
+  "screen": "7in",
+  "dims": "176.7 x 127.6 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Paperwhite Kids (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Paperwhite Kids (5th gen)": {
+  "screen": "6.8in",
+  "dims": "174 x 125 x 8.1 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Paperwhite Signature Edition (12th gen)": {
+  "screen": "7in",
+  "dims": "176.7 x 127.6 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Paperwhite Signature Edition (2026)": {
+  "screen": "7in",
+  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+ },
+ "Kindle Paperwhite Signature Edition (5th gen)": {
+  "screen": "6.8in",
+  "dims": "174 x 125 x 8.1 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Scribe (1st gen)": {
+  "screen": "10.2in",
+  "dims": "230 x 196 x 5.8 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Scribe (2024)": {
+  "screen": "10.2in",
+  "dims": "230 x 196 x 5.8 mm",
+  "source": "https://blog.the-ebook-reader.com/2023/09/04/kindle-size-comparison-video-all-current-models/"
+ },
+ "Kindle Scribe (3rd gen)": {
+  "screen": "11in",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Scribe (no front light)": {
+  "screen": "11in",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Scribe Colorsoft": {
+  "screen": "11in",
+  "dims": "245 x 189 x 5.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+ },
+ "Kindle Touch": {
+  "screen": "6in",
+  "dims": "172 x 120 x 10.1 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kindle Voyage": {
+  "screen": "6in",
+  "dims": "162 x 115 x 7.6 mm",
+  "source": "https://size-charts.com/topics/amazon-kindle-size"
+ },
+ "Kobo Arc": {
+  "screen": "7in",
+  "dims": "189 x 120 x 11.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_Arc"
+ },
+ "Kobo Arc 10HD": {
+  "screen": "10.1in",
+  "dims": "253 x 172 x 9.9 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_Arc"
+ },
+ "Kobo Arc 7": {
+  "screen": "7in",
+  "dims": "194 x 122 x 10.05 mm",
+  "source": "https://blog.the-ebook-reader.com/2013/11/12/new-kobo-arc-hd-tablets-now-available-in-us-and-canada/"
+ },
+ "Kobo Aura": {
+  "screen": "6in",
+  "dims": "150 x 114 x 8.1 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Aura Edition 2": {
+  "screen": "6in",
+  "dims": "154.5 x 109 x 8.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Aura H2O": {
+  "screen": "6.8in",
+  "dims": "179 x 129 x 9.7 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Aura H2O Edition 2": {
+  "screen": "6.8in",
+  "dims": "172 x 129 x 8.9 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Aura HD": {
+  "screen": "6.8in",
+  "dims": "175.7 x 128.3 x 11.7 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Aura One": {
+  "screen": "7.8in",
+  "dims": "195.1 x 138.5 x 6.9 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Clara 2E": {
+  "screen": "6in",
+  "dims": "159.02 x 112.05 x 8.66 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Clara BW": {
+  "screen": "6in",
+  "dims": "160 x 112 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Clara Colour": {
+  "screen": "6in",
+  "dims": "160 x 112 x 9.2 mm",
+  "source": "https://uk.kobobooks.com/products/kobo-clara-colour"
+ },
+ "Kobo Clara HD": {
+  "screen": "6in",
+  "dims": "159.6 x 110 x 8.35 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Elipsa": {
+  "screen": "10.3in",
+  "dims": "227.5 x 193 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Elipsa 2E": {
+  "screen": "10.3in",
+  "dims": "227 x 193 x 7.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Forma": {
+  "screen": "8in",
+  "dims": "177.7 x 160 x 8.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Glo": {
+  "screen": "6in",
+  "dims": "157 x 114 x 10 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Glo HD": {
+  "screen": "6in",
+  "dims": "157 x 114 x 10 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Libra 2": {
+  "screen": "7in",
+  "dims": "161.6 x 144.6 x 9 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Libra Colour": {
+  "screen": "7in",
+  "dims": "161 x 144.6 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Libra H2O": {
+  "screen": "7in",
+  "dims": "159 x 144 x 5 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Mini": {
+  "screen": "5in",
+  "dims": "133 x 102 x 10 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Nia": {
+  "screen": "6in",
+  "dims": "159.3 x 112.4 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Sage": {
+  "screen": "8in",
+  "dims": "181.4 x 160.5 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Touch": {
+  "screen": "6in",
+  "dims": "165 x 114 x 10 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo Touch 2.0": {
+  "screen": "6in",
+  "dims": "157 x 115 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Kobo eReader": {
+  "screen": "6in",
+  "dims": "184 x 120 x 10 mm",
+  "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
+ },
+ "Lava Shark": {
+  "dims": "165.8 x 77.2 x 8.5 mm",
+  "source": "https://www.gsmarena.com/lava_shark-13758.php"
+ },
+ "Legion Go": {
+  "screen": "8.8in",
+  "source": "https://en.wikipedia.org/wiki/Lenovo_Legion_Go"
+ },
+ "Logitech G Cloud": {
+  "screen": "7in",
+  "source": "https://en.wikipedia.org/wiki/Logitech_G_Cloud"
+ },
+ "MSI Claw 7 AI+": {
+  "screen": "7in",
+  "source": "https://www.msi.com/Handheld/Claw-7-AI-plus-A2VMX/Specification"
+ },
+ "MSI Claw 8 EX AI+": {
+  "screen": "8in",
+  "dims": "296 x 130 x 25 mm",
+  "source": "https://us.msi.com/Handheld/Claw-8-EX-AI-Plus-CG3EMX/Specification"
+ },
+ "MSI Claw A1M": {
+  "screen": "7in",
+  "dims": "294 x 117 x 21.2 mm",
+  "source": "https://www.msi.com/Handheld/Claw-A1MX/Specification"
+ },
+ "MSI Claw A8": {
+  "screen": "8in",
+  "dims": "299.5 x 126.2 x 24 mm",
+  "source": "https://www.msi.com/Handheld/Claw-A8-BZ2EMX/Specification"
+ },
+ "Mangmi Air X": {
+  "screen": "5.5in",
+  "dims": "203.47 x 87.39 x 16.8 mm",
+  "source": "https://www.notebookcheck.net/Mangmi-Air-X-budget-handheld-launched-at-79-with-Snapdragon-662-Hall-effect-controls-and-5-000-mAh-battery.1092938.0.html"
+ },
+ "ModRetro Chromatic": {
+  "screen": "2.56in",
+  "dims": "132 x 76 x 30 mm",
+  "source": "https://dragonbox.de/en-de/gaming-systems/modretro-chromatic-fe"
+ },
+ "Moto 360 (3rd gen)": {
+  "screen": "1.2in",
+  "dims": "42.8 x 42.8 x 11.68 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/moto-360-3rd-gen/"
+ },
+ "Moto G96": {
+  "screen": "6.67in",
+  "dims": "161.9 x 73.3 x 7.9 mm",
+  "source": "https://www.gsmarena.com/motorola_g96_5g-13989.php"
+ },
+ "Moto Watch Ultra": {
+  "screen": "1.5in",
+  "dims": "46.3 x 46.3 x 12.1 mm",
+  "source": "https://www.phonearena.com/phones/Motorola-Watch-Ultra_id13102"
+ },
+ "Motorola Edge 70 Plus": {
+  "screen": "6.78in",
+  "dims": "162.7 x 75.7 x 8.5 mm",
+  "source": "https://www.phonearena.com/phones/Motorola-Edge-70-Plus_id13100"
+ },
+ "Motorola Razr 60": {
+  "screen": "3.6in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/motorola_razr_60-13749.php"
+ },
+ "Motorola Razr 60 Ultra": {
+  "screen": "4in",
+  "cover": true,
+  "source": "https://www.phonearena.com/phones/Motorola-Razr-60-Ultra_id12790"
+ },
+ "Motorola Razr 70": {
+  "screen": "3.6in",
+  "cover": true,
+  "source": "https://www.phonearena.com/phones/compare/Motorola-Razr-60-Ultra,Motorola-Razr-70/phones/12790,12991"
+ },
+ "Motorola Razr 70 Ultra": {
+  "screen": "4in",
+  "cover": true,
+  "source": "https://www.phonearena.com/phones/Motorola-Razr-70-Ultra_id12992"
+ },
+ "Motorola Razr 70+": {
+  "screen": "4in",
+  "cover": true,
+  "source": "https://www.notebookcheck.net/Motorola-Razr-70-Plus.1310344.0.html"
+ },
+ "Motorola Razr Fold": {
+  "screen": "6.6in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/motorola_razr_fold_5g-14402.php"
+ },
+ "NVIDIA Shield Tablet": {
+  "screen": "8in",
+  "dims": "221 x 126 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Nvidia_Shield_Tablet"
+ },
+ "NVIDIA Shield Tablet K1": {
+  "screen": "8in",
+  "dims": "221 x 126 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Nvidia_Shield_Tablet"
+ },
+ "NVIDIA Shield Tablet LTE": {
+  "screen": "8in",
+  "dims": "221 x 126 x 9.2 mm",
+  "source": "https://en.wikipedia.org/wiki/Nvidia_Shield_Tablet"
+ },
+ "New Nintendo 2DS XL": {
+  "screen": "4.88in",
+  "dims": "159.36 x 86.36 x 20.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "New Nintendo 3DS": {
+  "screen": "3.88in",
+  "dims": "142 x 80.6 x 21.6 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "New Nintendo 3DS XL": {
+  "screen": "4.88in",
+  "dims": "160 x 93.5 x 21.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "Nexus 10": {
+  "screen": "10.1in",
+  "dims": "263.9 x 177.6 x 8.9 mm",
+  "source": "https://m.gsmarena.com/samsung_google_nexus_10_p8110-5084.php"
+ },
+ "Nexus 4": {
+  "screen": "4.7in",
+  "dims": "133.9 x 68.7 x 9.1 mm",
+  "source": "https://www.gsmarena.com/lg_nexus_4_e960-5048.php"
+ },
+ "Nexus 7 (2012)": {
+  "screen": "7in",
+  "dims": "198.5 x 120 x 10.5 mm",
+  "source": "https://m.gsmarena.com/asus_google_nexus_7-4850.php"
+ },
+ "Nexus 7 (2013)": {
+  "screen": "7in",
+  "dims": "200 x 114 x 8.7 mm",
+  "source": "https://m.gsmarena.com/asus_google_nexus_7_%282013%29-5600.php"
+ },
+ "Nexus One": {
+  "screen": "3.7in",
+  "dims": "119 x 59.8 x 11.5 mm",
+  "source": "https://m.gsmarena.com/htc_google_nexus_one-3069.php"
+ },
+ "Nexus S": {
+  "screen": "4in",
+  "dims": "123.9 x 63 x 10.9 mm",
+  "source": "https://m.gsmarena.com/samsung_google_nexus_s_i9023-3910.php"
+ },
+ "Nintendo 2DS": {
+  "screen": "3.53in",
+  "dims": "144 x 127 x 20.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "Nintendo 3DS": {
+  "screen": "3.53in",
+  "dims": "134 x 74 x 22 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "Nintendo 3DS XL": {
+  "screen": "4.88in",
+  "dims": "156 x 93 x 22 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+ },
+ "Nintendo DS": {
+  "screen": "3in",
+  "dims": "148.7 x 84.7 x 28.9 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_DS_family"
+ },
+ "Nintendo DS Lite": {
+  "screen": "3.25in",
+  "dims": "133 x 73.9 x 21.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_DS_family"
+ },
+ "Nintendo DSi": {
+  "dims": "136.9 x 74.9 x 18.8 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_DS_family"
+ },
+ "Nintendo DSi XL": {
+  "screen": "4.2in",
+  "dims": "161 x 91.4 x 21 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_DS_family"
+ },
+ "Nintendo Switch": {
+  "screen": "6.2in",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_Lite"
+ },
+ "Nintendo Switch 2": {
+  "screen": "7.9in",
+  "dims": "272 x 116 x 13.9 mm",
+  "source": "https://www.nintendo.com/sg/hardware/switch2/specs/"
+ },
+ "Nintendo Switch Lite": {
+  "screen": "5.5in",
+  "dims": "208 x 91 x 14 mm",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_Lite"
+ },
+ "Nintendo Switch OLED": {
+  "screen": "7in",
+  "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_Lite"
+ },
+ "Oppo A5 5G": {
+  "screen": "6.67in",
+  "dims": "165.7 x 76.2 x 8 mm",
+  "source": "https://m.gsmarena.com/oppo_a5_5g-13872.php"
+ },
+ "Optus X Pro 2 5G": {
+  "screen": "6.7in",
+  "dims": "165.5 x 76.2 x 8.3 mm",
+  "source": "https://ztemobiles.com.au/optus-x-pro-2-5g/"
+ },
+ "Optus X Total": {
+  "screen": "6.75in",
+  "dims": "167.74 x 77.44 x 8.8 mm",
+  "source": "https://ztemobiles.com.au/optus-x-total/"
+ },
+ "PS Vita (PCH-1000)": {
+  "screen": "5in",
+  "dims": "182 x 83.55 x 18.6 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Vita"
+ },
+ "PS Vita Slim (PCH-2000)": {
+  "screen": "5in",
+  "dims": "183.6 x 85.1 x 15 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Vita"
+ },
+ "PSP Go": {
+  "screen": "3.8in",
+  "dims": "128 x 69 x 16.5 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Portable"
+ },
+ "PSP Street (E1000)": {
+  "screen": "4.3in",
+  "dims": "172.4 x 73.4 x 21.6 mm",
+  "source": "https://www.manualslib.com/manual/795670/Sony-Psp-E1002.html?page=38"
+ },
+ "PSP-1000": {
+  "screen": "4.3in",
+  "dims": "170 x 74 x 23 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Portable_hardware"
+ },
+ "PSP-2000 (Slim)": {
+  "screen": "4.3in",
+  "dims": "169 x 71 x 19 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Portable_hardware"
+ },
+ "PSP-3000": {
+  "screen": "4.3in",
+  "dims": "169 x 71 x 19 mm",
+  "source": "https://en.wikipedia.org/wiki/PlayStation_Portable_hardware"
+ },
+ "Pixel 10 Pro Fold": {
+  "screen": "6.4in",
+  "cover": true,
+  "source": "https://store.google.com/gb/product/pixel_10_pro_fold_specs"
+ },
+ "Pixel 11": {
+  "screen": "6.3in",
+  "dims": "152.8 x 72 x 8.6 mm",
+  "source": "https://deviceguides.vodafone.co.uk/google/pixel-11-android-17/specifications"
+ },
+ "Pixel 11 Pro": {
+  "screen": "6.3in",
+  "dims": "152.7 x 71.9 x 8.4 mm",
+  "source": "https://store.google.com/gb/product/pixel_11_pro_specs?hl=en-GB"
+ },
+ "Pixel 11 Pro Fold": {
+  "screen": "6.5in",
+  "dims": "155.2 x 76 x 10.1 mm",
+  "cover": true,
+  "source": "https://store.google.com/gb/product/pixel_11_pro_fold_specs"
+ },
+ "Pixel 11 Pro XL": {
+  "screen": "6.8in",
+  "dims": "162.7 x 76.5 x 8.5 mm",
+  "source": "https://deviceguides.vodafone.co.uk/google/pixel-11-pro-xl-android-17/specifications"
+ },
+ "Pixel 5a": {
+  "screen": "6.34in",
+  "dims": "156.2 x 73.2 x 8.8 mm",
+  "source": "https://m.gsmarena.com/google_pixel_5a_5g-11059.php"
+ },
+ "Pixel Slate": {
+  "screen": "12.3in",
+  "dims": "290.85 x 202.04 x 7.0 mm",
+  "source": "https://support.google.com/pixelslate/answer/9131920?hl=en"
+ },
+ "Pixel Watch 2 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12.3 mm",
+  "source": "https://m.gsmarena.com/google_pixel_watch_2-12547.php"
+ },
+ "Pixel Watch 3 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12.3 mm",
+  "source": "https://store.google.com/gb/product/pixel_watch_3_specs?hl=en-gb"
+ },
+ "Pixel Watch 3 45mm": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12.3 mm",
+  "source": "https://store.google.com/gb/product/pixel_watch_3_specs?hl=en-gb"
+ },
+ "Pixel Watch 4 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12.3 mm",
+  "source": "https://store.google.com/us/product/pixel_watch_4_specs"
+ },
+ "Pixel Watch 4 45mm": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12.3 mm",
+  "source": "https://store.google.com/us/product/pixel_watch_4_specs"
+ },
+ "Pixel Watch 41mm": {
+  "dims": "41 x 41 x 12.3 mm",
+  "source": "https://m.gsmarena.com/google_pixel_watch-11546.php"
+ },
+ "Pixel Watch 5 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12.3 mm",
+  "source": "https://deviceguides.vodafone.co.uk/google/pixel-watch-5-wear-os-7/specifications"
+ },
+ "Pixel Watch 5 45mm": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 12.3 mm",
+  "source": "https://deviceguides.vodafone.co.uk/google/pixel-watch-5-wear-os-7/specifications"
+ },
+ "PlayStation Portal": {
+  "screen": "8in",
+  "source": "https://www.playstation.com/en-us/accessories/playstation-portal-remote-player/"
+ },
+ "Playdate": {
+  "screen": "2.7in",
+  "dims": "76 x 74 x 9 mm",
+  "source": "https://en.wikipedia.org/wiki/Playdate_(console)"
+ },
+ "PocketBook 618 Basic Lux 4": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://edshop.edsystem.cz/pocketbook-618-basic-lux-4/product-1663934"
+ },
+ "Pokémon mini": {
+  "dims": "74 x 58 x 23 mm",
+  "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini"
+ },
+ "Polar Grit X Pro": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 13 mm",
+  "source": "https://www.polar.com/en/grit-x-pro"
+ },
+ "Polar Grit X2": {
+  "screen": "1.28in",
+  "dims": "44.7 x 44.7 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-grit-x2/"
+ },
+ "Polar Grit X2 Pro": {
+  "screen": "1.39in",
+  "dims": "48.6 x 48.6 x 13.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-grit-x2-pro/"
+ },
+ "Polar Ignite": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 8.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-ignite/"
+ },
+ "Polar Ignite 2": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 8.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-ignite-2/"
+ },
+ "Polar Ignite 3": {
+  "screen": "1.28in",
+  "dims": "43 x 43 x 9.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-ignite-3/"
+ },
+ "Polar Pacer": {
+  "screen": "1.2in",
+  "dims": "45 x 45 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-pacer/"
+ },
+ "Polar Pacer Pro": {
+  "screen": "1.2in",
+  "dims": "45 x 45 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-pacer-pro/"
+ },
+ "Polar Unite": {
+  "screen": "1.22in",
+  "dims": "43.4 x 43.4 x 10.4 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-unite/"
+ },
+ "Polar Vantage M": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-m/"
+ },
+ "Polar Vantage M2": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 12.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-m2/"
+ },
+ "Polar Vantage M3": {
+  "screen": "1.28in",
+  "dims": "44.7 x 44.7 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-m3/"
+ },
+ "Polar Vantage V": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 13 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-v/"
+ },
+ "Polar Vantage V2": {
+  "screen": "1.2in",
+  "dims": "47 x 47 x 13 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-v2/"
+ },
+ "Polar Vantage V3": {
+  "screen": "1.39in",
+  "dims": "47.3 x 47.3 x 13.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-v3/"
+ },
+ "ROG Ally": {
+  "screen": "7in",
+  "dims": "280 x 111 x 21.2 mm",
+  "source": "https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/spec"
+ },
+ "ROG Ally X": {
+  "screen": "7in",
+  "dims": "280 x 111 x 24.7 mm",
+  "source": "https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-x-2024/spec/"
+ },
+ "ROG Xbox Ally": {
+  "screen": "7in",
+  "dims": "290 x 121 x 27.5 mm",
+  "source": "https://rog.asus.com/gaming-handhelds/rog-ally/rog-xbox-ally-2025/spec"
+ },
+ "ROG Xbox Ally X": {
+  "screen": "7in",
+  "dims": "290 x 121 x 27.5 mm",
+  "source": "https://rog.asus.com/gaming-handhelds/rog-ally/rog-xbox-ally-x-2025/spec/"
+ },
+ "Razer Edge": {
+  "screen": "6.8in",
+  "dims": "260 x 85 x 11 mm",
+  "source": "https://razer.com/mobile-handhelds/razer-edge/choose-your-loadout"
+ },
+ "Razer Edge 5G": {
+  "screen": "6.8in",
+  "dims": "260 x 85 x 11 mm",
+  "source": "https://razer.com/mobile-handhelds/razer-edge/choose-your-loadout"
+ },
+ "Redmi Note 14": {
+  "screen": "6.67in",
+  "dims": "162.4 x 75.7 x 8 mm",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_14_5g_(global)-13615.php"
+ },
+ "Redmi Note 14 Pro": {
+  "screen": "6.67in",
+  "dims": "162.16 x 74.92 x 8.24 mm",
+  "source": "https://www.mi.com/uk/product/redmi-note-14-pro/specs/"
+ },
+ "Redmi Smart Band": {
+  "screen": "1.08in",
+  "source": "https://www.gsmarena.com/redmi_smart_band_review-news-45592.php"
+ },
+ "Redmi Smart Band 2": {
+  "screen": "1.47in",
+  "dims": "42.81 x 25.42 x 9.99 mm",
+  "source": "https://www.mi.com/global/product/redmi-smart-band-2/specs/"
+ },
+ "Redmi Smart Band Pro": {
+  "screen": "1.47in",
+  "dims": "42.05 x 24.45 x 10.15 mm",
+  "source": "https://www.mi.com/uk/product/redmi-smart-band-pro/specs/"
+ },
+ "Retroid Pocket 2": {
+  "screen": "3.5in",
+  "dims": "150 x 81 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-2"
+ },
+ "Retroid Pocket 3": {
+  "screen": "4.7in",
+  "dims": "184.65 x 81.38 x 24.23 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-3"
+ },
+ "Retroid Pocket 3+": {
+  "screen": "4.7in",
+  "dims": "184.65 x 81.38 x 24.23 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-3-plus"
+ },
+ "Retroid Pocket 4": {
+  "screen": "4.7in",
+  "dims": "184.8 x 82.6 x 15.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-4"
+ },
+ "Retroid Pocket 4 Pro": {
+  "screen": "4.7in",
+  "dims": "184.8 x 82.6 x 15.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-4-pro"
+ },
+ "Retroid Pocket 5": {
+  "screen": "5.5in",
+  "dims": "199.2 x 78.5 x 15.6 mm",
+  "source": "https://liliputing.com/retroid-pocket-5-is-a-219-handheld-game-console-with-a-5-5-inch-display-snapdragon-865-and-android-or-linux-support/"
+ },
+ "Retroid Pocket 6": {
+  "screen": "5.5in",
+  "dims": "205.5 x 80.5 x 17.2 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-6"
+ },
+ "Retroid Pocket Classic": {
+  "screen": "3.92in",
+  "dims": "138 x 89.9 x 26 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-classic"
+ },
+ "Retroid Pocket Flip": {
+  "screen": "4.7in",
+  "dims": "139 x 82 x 25.4 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-flip"
+ },
+ "Retroid Pocket Flip 2": {
+  "screen": "5.5in",
+  "dims": "199 x 78 x 15.6 mm",
+  "source": "https://liliputing.com/retroid-pocket-flip2-is-a-faster-handheld-game-console-with-upgraded-controllers/"
+ },
+ "Retroid Pocket G2": {
+  "screen": "5.5in",
+  "dims": "199.2 x 78.5 x 15.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-g2"
+ },
+ "Retroid Pocket Mini": {
+  "screen": "3.7in",
+  "dims": "165.28 x 77.62 x 16.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-mini"
+ },
+ "Retroid Pocket Mini V2": {
+  "screen": "3.92in",
+  "dims": "165.28 x 77.62 x 16.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-mini-v2"
+ },
+ "Sega Game Gear": {
+  "screen": "3.2in",
+  "dims": "210 x 113 x 38 mm",
+  "source": "https://en.wikipedia.org/wiki/Sega_Game_Gear"
+ },
+ "Sega Game Gear Micro": {
+  "screen": "1.14in",
+  "dims": "80 x 43 x 20 mm",
+  "source": "https://en.wikipedia.org/wiki/Sega_Game_Gear"
+ },
+ "Sony SmartWatch (MN2)": {
+  "screen": "1.3in",
+  "dims": "36 x 36 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/Sony_SmartWatch"
+ },
+ "Steam Deck (LCD)": {
+  "screen": "7in",
+  "dims": "298 x 117 x 49 mm",
+  "source": "https://en.wikipedia.org/wiki/Steam_Deck"
+ },
+ "Steam Deck OLED": {
+  "screen": "7.4in",
+  "dims": "298 x 117 x 49 mm",
+  "source": "https://en.wikipedia.org/wiki/Steam_Deck"
+ },
+ "Surface Go": {
+  "screen": "10in",
+  "dims": "245 x 175 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Surface_Go"
+ },
+ "Surface Go 2": {
+  "screen": "10.5in",
+  "dims": "245 x 175 x 8.3 mm",
+  "source": "https://support.microsoft.com/en-us/surface/models/surface-go-2-specs-and-features"
+ },
+ "Surface Pro": {
+  "screen": "10.6in",
+  "dims": "274.6 x 173 x 13.5 mm",
+  "source": "https://support.microsoft.com/en-US/surface/models/surface-pro-1st-gen-specifications"
+ },
+ "Surface Pro 11": {
+  "screen": "13in",
+  "dims": "287 x 208 x 9.3 mm",
+  "source": "https://wikiwand.com/en/Surface_Pro_(11th_generation)"
+ },
+ "Surface Pro 12-inch": {
+  "screen": "12in",
+  "dims": "274 x 190 x 7.8 mm",
+  "source": "https://www.microsoft.com/en-us/surface/devices/surface-pro"
+ },
+ "Surface Pro 2": {
+  "screen": "10.6in",
+  "dims": "274.6 x 173 x 13.5 mm",
+  "source": "https://support.microsoft.com/en-US/surface/models/surface-pro-2-specs-and-features"
+ },
+ "Surface Pro 3": {
+  "screen": "12in",
+  "dims": "292 x 201 x 9.1 mm",
+  "source": "https://support.microsoft.com/en-us/surface/models/surface-pro-3-specs-and-features"
+ },
+ "Surface Pro 4": {
+  "screen": "12.3in",
+  "dims": "292.1 x 201.4 x 8.5 mm",
+  "source": "https://support.microsoft.com/en-US/Surface/models/surface-pro-4-specs-and-features"
+ },
+ "Surface Pro 5": {
+  "screen": "12.3in",
+  "dims": "292 x 201 x 8.5 mm",
+  "source": "https://support.microsoft.com/en-US/Surface/models/surface-pro-5th-gen-specs-and-features"
+ },
+ "Surface Pro 6": {
+  "screen": "12.3in",
+  "dims": "292 x 201 x 8.5 mm",
+  "source": "https://support.microsoft.com/surface/models/surface-pro-6-specs-and-features"
+ },
+ "Surface Pro 7": {
+  "screen": "12.3in",
+  "dims": "292 x 201 x 8.5 mm",
+  "source": "https://support.microsoft.com/help/4520376"
+ },
+ "Surface Pro 7+": {
+  "screen": "12.3in",
+  "dims": "292 x 201 x 8.5 mm",
+  "source": "https://support.microsoft.com/surface/models/surface-pro-7-features-and-specs"
+ },
+ "Surface Pro 8": {
+  "screen": "13in",
+  "dims": "287 x 208 x 9.3 mm",
+  "source": "https://support.microsoft.com/en-gb/surface/models/surface-pro-8-features-and-specs"
+ },
+ "Surface Pro 9": {
+  "screen": "13in",
+  "dims": "287 x 209 x 9.3 mm",
+  "source": "https://support.microsoft.com/surface/models/surface-pro-9-features-and-specs"
+ },
+ "Surface Pro X": {
+  "screen": "13in",
+  "dims": "287 x 208 x 7.3 mm",
+  "source": "https://support.microsoft.com/surface/models/surface-pro-x-features-and-specs"
+ },
+ "Surface RT": {
+  "screen": "10.6in",
+  "source": "https://en.wikipedia.org/wiki/Surface_RT"
+ },
+ "Suunto 3 Fitness": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 14 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-3-fitness"
+ },
+ "Suunto 5": {
+  "screen": "1.1in",
+  "dims": "46 x 46 x 14.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-5"
+ },
+ "Suunto 5 Peak": {
+  "screen": "1.1in",
+  "dims": "43 x 43 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-5-peak"
+ },
+ "Suunto 7": {
+  "screen": "1.39in",
+  "dims": "50 x 50 x 15.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-7"
+ },
+ "Suunto 9": {
+  "screen": "1.34in",
+  "dims": "50 x 50 x 16.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-9"
+ },
+ "Suunto 9 Peak": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 10.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-9-peak"
+ },
+ "Suunto 9 Peak Pro": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 10.8 mm",
+  "source": "https://us.suunto.com/products/suunto-9-peak-pro-all-black"
+ },
+ "Suunto Ambit3 Run": {
+  "screen": "1.2in",
+  "dims": "50 x 50 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-ambit3-run"
+ },
+ "Suunto Ambit3 Sport": {
+  "screen": "1.2in",
+  "dims": "50 x 50 x 15.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-ambit3-sport"
+ },
+ "Suunto Ocean": {
+  "screen": "1.43in",
+  "dims": "49.9 x 49.9 x 13.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-ocean"
+ },
+ "Suunto Race": {
+  "screen": "1.43in",
+  "dims": "49 x 49 x 13.3 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-race"
+ },
+ "Suunto Race 2": {
+  "screen": "1.5in",
+  "dims": "49 x 49 x 12.5 mm",
+  "source": "https://www.suunto.com/sports/News-Articles-container-page/suunto-race-s-vs-race-2/"
+ },
+ "Suunto Race S": {
+  "screen": "1.32in",
+  "dims": "45 x 45 x 11.4 mm",
+  "source": "https://www.suunto.com/sports/News-Articles-container-page/suunto-race-s-vs-race-2/"
+ },
+ "Suunto Run": {
+  "screen": "1.32in",
+  "dims": "46 x 46 x 11.5 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-run"
+ },
+ "Suunto Run 2": {
+  "screen": "1.32in",
+  "dims": "46 x 46 x 11.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-run-2"
+ },
+ "Suunto Spartan Sport": {
+  "screen": "1.2in",
+  "dims": "50 x 50 x 13.8 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-spartan-sport"
+ },
+ "Suunto Spartan Trainer Wrist HR": {
+  "screen": "1.2in",
+  "dims": "46 x 46 x 15.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-spartan-trainer-wrist-hr"
+ },
+ "Suunto Spartan Ultra": {
+  "screen": "1.2in",
+  "dims": "50 x 50 x 17 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-spartan-ultra"
+ },
+ "Suunto Vertical": {
+  "screen": "1.4in",
+  "dims": "49 x 49 x 13.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-vertical"
+ },
+ "Suunto Vertical 2": {
+  "screen": "1.5in",
+  "dims": "49 x 49 x 13.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/suunto-vertical-2"
+ },
+ "Telstra T-Elite 5G": {
+  "screen": "6.6in",
+  "dims": "163.6 x 74.9 x 8.95 mm",
+  "source": "https://ztemobiles.com.au/telstra-t-elite-5g/"
+ },
+ "Telstra T-Pro": {
+  "screen": "6.52in",
+  "dims": "165.5 x 75.8 x 9.07 mm",
+  "source": "https://ztemobiles.com.au/telstra-t-pro/"
+ },
+ "TicWatch C2": {
+  "screen": "1.3in",
+  "dims": "42.8 x 42.8 x 12.7 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-c2/"
+ },
+ "TicWatch E2": {
+  "screen": "1.39in",
+  "dims": "52.2 x 46.9 x 12.9 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-e2/"
+ },
+ "TicWatch E3": {
+  "screen": "1.3in",
+  "dims": "47 x 44 x 12.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-e3/"
+ },
+ "TicWatch Pro": {
+  "screen": "1.39in",
+  "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro/"
+ },
+ "TicWatch Pro 3 GPS": {
+  "screen": "1.4in",
+  "dims": "48 x 47 x 12.2 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-3-gps/"
+ },
+ "TicWatch Pro 5": {
+  "screen": "1.43in",
+  "dims": "50.1 x 48 x 12.2 mm",
+  "source": "https://www.mobvoi.com/us/pages/ticwatchpro5"
+ },
+ "Tiger Game.com": {
+  "screen": "3.5in",
+  "dims": "190 x 108 x 19 mm",
+  "source": "https://en.wikipedia.org/wiki/Game.com"
+ },
+ "Tiger Game.com Pocket Pro": {
+  "screen": "2.8in",
+  "dims": "140 x 86 x 28 mm",
+  "source": "https://en.wikipedia.org/wiki/Game.com"
+ },
+ "TrimUI Brick": {
+  "screen": "3.2in",
+  "dims": "109.9 x 73.2 x 11.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-brick"
+ },
+ "TrimUI Brick Hammer": {
+  "screen": "3.2in",
+  "dims": "109.9 x 73.2 x 11.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-brick-hammer"
+ },
+ "TrimUI Brick Hammer Pro U": {
+  "screen": "3.95in",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-brick-hammer-pro-u"
+ },
+ "TrimUI Brick Pro": {
+  "screen": "3.95in",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-brick-pro"
+ },
+ "TrimUI Model S": {
+  "screen": "2in",
+  "dims": "106.5 x 56.5 x 10 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-model-s"
+ },
+ "TrimUI Smart": {
+  "screen": "2.4in",
+  "dims": "110 x 58 x 15 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-smart"
+ },
+ "TrimUI Smart Pro": {
+  "screen": "4.96in",
+  "dims": "188 x 80 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-smart-pro"
+ },
+ "TrimUI Smart Pro S": {
+  "screen": "4.96in",
+  "dims": "187.4 x 79.8 x 17.2 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/trimui-smart-pro-s"
+ },
+ "Xiaomi Mi Band 2": {
+  "screen": "0.42in",
+  "dims": "40.3 x 15.7 x 10.5 mm",
+  "source": "https://en.wikipedia.org/wiki/Xiaomi_Mi_Band_2"
+ },
+ "Xiaomi Mi Band 3": {
+  "screen": "0.78in",
+  "dims": "46.9 x 17.9 x 12 mm",
+  "source": "https://mi.com/uk/mi-band-3/specs"
+ },
+ "Xiaomi Mi Band 4": {
+  "screen": "0.95in",
+  "source": "https://www.mi.com/uk/mi-smart-band-4/specs/"
+ },
+ "Xiaomi Mi Band 5": {
+  "screen": "1.1in",
+  "dims": "46.95 x 18.15 x 12.45 mm",
+  "source": "https://en.wikipedia.org/wiki/Xiaomi_Mi_Smart_Band_5"
+ },
+ "Xiaomi Mi Smart Band 6": {
+  "screen": "1.56in",
+  "dims": "47.4 x 18.6 x 12.7 mm",
+  "source": "https://www.mi.com/my/product/mi-smart-band-6/specs/"
+ },
+ "Xiaomi Mix Fold 2": {
+  "screen": "6.56in",
+  "cover": true,
+  "source": "https://m.gsmarena.com/xiaomi_mix_fold_2-11758.php"
+ },
+ "Xiaomi Smart Band 10": {
+  "screen": "1.72in",
+  "dims": "46.57 x 22.54 x 10.95 mm",
+  "source": "https://www.mi.com/global/product/xiaomi-smart-band-10/specs/"
+ },
+ "Xiaomi Smart Band 10 Pro": {
+  "screen": "1.74in",
+  "dims": "42.83 x 32.16 x 9.7 mm",
+  "source": "https://www.mi.com/sg/product/xiaomi-smart-band-10-pro/specs/"
+ },
+ "Xiaomi Smart Band 7": {
+  "screen": "1.62in",
+  "dims": "46.5 x 20.7 x 12.25 mm",
+  "source": "https://mi.com/uk/product/xiaomi-smart-band-7/specs"
+ },
+ "Xiaomi Smart Band 7 Pro": {
+  "screen": "1.64in",
+  "dims": "44.7 x 28.8 x 11 mm",
+  "source": "https://www.mi.com/uk/product/xiaomi-smart-band-7-pro/specs/"
+ },
+ "Xiaomi Smart Band 8": {
+  "screen": "1.62in",
+  "dims": "48 x 22.5 x 10.99 mm",
+  "source": "https://www.mi.com/global/product/xiaomi-smart-band-8/specs/"
+ },
+ "Xiaomi Smart Band 8 Pro": {
+  "screen": "1.74in",
+  "dims": "46 x 33.35 x 9.99 mm",
+  "source": "https://www.mi.com/global/product/xiaomi-smart-band-8-pro/specs/"
+ },
+ "Xiaomi Smart Band 9": {
+  "screen": "1.62in",
+  "dims": "46.53 x 21.63 x 10.95 mm",
+  "source": "https://www.mi.com/uk/product/xiaomi-smart-band-9/specs/"
+ },
+ "Xiaomi Smart Band 9 Pro": {
+  "screen": "1.74in",
+  "dims": "43.27 x 32.49 x 10.8 mm",
+  "source": "https://www.mi.com/sg/product/xiaomi-smart-band-9-pro/specs/"
+ },
+ "Xperia 10 VIII": {
+  "screen": "6.1in",
+  "dims": "153 x 72 x 8.3 mm",
+  "source": "https://www.sony.co.th/en/smartphones/products/xperia-10m8/spec"
+ },
+ "ZTE Blade A76 4G": {
+  "dims": "163.6 x 74.9 x 8.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/zte-blade-a76/specification"
+ },
+ "Zotac Zone": {
+  "screen": "7in",
+  "dims": "285 x 115 x 35 mm",
+  "source": "https://www.zotac.com/tn/product/handheld/zone-handheld-gaming-console"
+ },
+ "iPad (10th gen)": {
+  "screen": "10.9in",
+  "dims": "248.6 x 179.5 x 7 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (1st gen)": {
+  "screen": "9.7in",
+  "dims": "243 x 190 x 13 mm",
+  "source": "https://en.wikipedia.org/wiki/IPad_(1st_generation)"
+ },
+ "iPad (3rd gen)": {
+  "screen": "9.7in",
+  "dims": "241.3 x 185.7 x 9.4 mm",
+  "source": "https://en.wikipedia.org/wiki/IPad_(3rd_generation)"
+ },
+ "iPad (4th gen)": {
+  "screen": "9.7in",
+  "dims": "241 x 186 x 9.4 mm",
+  "source": "https://en.wikipedia.org/wiki/IPad_(4th_generation)"
+ },
+ "iPad (5th gen)": {
+  "screen": "9.7in",
+  "dims": "240 x 169.5 x 7.5 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (6th gen)": {
+  "screen": "9.7in",
+  "dims": "240 x 169.5 x 7.5 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (7th gen)": {
+  "screen": "10.2in",
+  "dims": "250.6 x 174.1 x 7.5 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (8th gen)": {
+  "screen": "10.2in",
+  "dims": "250.6 x 174.1 x 7.5 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (9th gen)": {
+  "screen": "10.2in",
+  "dims": "250.6 x 174.1 x 7.5 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad (A16)": {
+  "screen": "11in",
+  "dims": "248.6 x 179.5 x 7 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air (3rd gen)": {
+  "screen": "10.5in",
+  "dims": "250.6 x 174.1 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air (4th gen)": {
+  "screen": "10.9in",
+  "dims": "247.6 x 178.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air (5th gen)": {
+  "screen": "10.9in",
+  "dims": "247.6 x 178.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 11 (M2)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 11 (M3)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 11 (M4)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 13 (M2)": {
+  "screen": "13in",
+  "dims": "280.6 x 214.9 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 13 (M3)": {
+  "screen": "13in",
+  "dims": "280.6 x 214.9 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Air 13 (M4)": {
+  "screen": "13in",
+  "dims": "280.6 x 214.9 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 10.5": {
+  "screen": "10.5in",
+  "dims": "250.6 x 174.1 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (1st gen)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (2nd gen)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (3rd gen)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (4th gen)": {
+  "screen": "11in",
+  "dims": "247.6 x 178.5 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (M4)": {
+  "screen": "11in",
+  "dims": "249.7 x 177.5 x 5.3 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 11 (M5)": {
+  "screen": "11in",
+  "dims": "249.7 x 177.5 x 5.3 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (1st gen)": {
+  "screen": "12.9in",
+  "dims": "305.7 x 220.6 x 6.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (2nd gen)": {
+  "screen": "12.9in",
+  "dims": "305.7 x 220.6 x 6.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (3rd gen)": {
+  "screen": "12.9in",
+  "dims": "280.6 x 214.9 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (4th gen)": {
+  "screen": "12.9in",
+  "dims": "280.6 x 214.9 x 5.9 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (5th gen)": {
+  "screen": "12.9in",
+  "dims": "280.6 x 214.9 x 6.4 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 12.9 (6th gen)": {
+  "screen": "12.9in",
+  "dims": "280.6 x 214.9 x 6.4 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 13 (M4)": {
+  "screen": "13in",
+  "dims": "281.6 x 215.5 x 5.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 13 (M5)": {
+  "screen": "13in",
+  "dims": "281.6 x 215.5 x 5.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad Pro 9.7": {
+  "screen": "9.7in",
+  "dims": "240 x 169.5 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad mini (1st gen)": {
+  "screen": "7.9in",
+  "dims": "200 x 134.7 x 7.2 mm",
+  "source": "https://en.wikipedia.org/wiki/IPad_mini_(1st_generation)"
+ },
+ "iPad mini (5th gen)": {
+  "screen": "7.9in",
+  "dims": "203.2 x 134.8 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad mini (6th gen)": {
+  "screen": "8.3in",
+  "dims": "195.4 x 134.8 x 6.3 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad mini (A17 Pro)": {
+  "screen": "8.3in",
+  "dims": "195.4 x 134.8 x 6.3 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad mini (A20 Pro)": {
+  "screen": "8.5in",
+  "dims": "195.3 x 132.6 x 5.4 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad mini 4": {
+  "screen": "7.9in",
+  "dims": "203.2 x 134.8 x 6.1 mm",
+  "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPhone SE (1st gen)": {
+  "screen": "4in",
+  "dims": "123.8 x 58.6 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/IPhone_SE_(1st_generation)"
+ },
+ "iPhone SE (2nd gen)": {
+  "screen": "4.7in",
+  "dims": "138.4 x 67.3 x 7.3 mm",
+  "source": "https://www.apple.com/iphone/compare/"
+ },
+ "iPhone SE (3rd gen)": {
+  "screen": "4.7in",
+  "dims": "138.4 x 67.3 x 7.3 mm",
+  "source": "https://www.apple.com/iphone/compare/"
+ },
+ "iPod (1st gen)": {
+  "screen": "2in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod (2nd gen)": {
+  "screen": "2in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod (3rd gen)": {
+  "screen": "2in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod (4th gen)": {
+  "screen": "2in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod (5th gen, video)": {
+  "screen": "2.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod classic": {
+  "screen": "2.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod mini": {
+  "screen": "1.67in",
+  "dims": "91 x 51 x 13 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Mini"
+ },
+ "iPod nano (1st gen)": {
+  "screen": "1.5in",
+  "dims": "89 x 41 x 6.9 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (2nd gen)": {
+  "screen": "1.5in",
+  "dims": "89 x 41 x 6.6 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (3rd gen)": {
+  "screen": "2in",
+  "dims": "70 x 52 x 6.6 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (4th gen)": {
+  "screen": "2in",
+  "dims": "91 x 38 x 6.1 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (5th gen)": {
+  "screen": "2.2in",
+  "dims": "91 x 38 x 6.1 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (6th gen)": {
+  "screen": "1.55in",
+  "dims": "41 x 37.5 x 8.78 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod nano (7th gen)": {
+  "screen": "2.5in",
+  "dims": "76.5 x 39.6 x 5.4 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Nano"
+ },
+ "iPod photo": {
+  "screen": "2in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Classic"
+ },
+ "iPod touch (1st gen)": {
+  "screen": "3.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch"
+ },
+ "iPod touch (2nd gen)": {
+  "screen": "3.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch"
+ },
+ "iPod touch (3rd gen)": {
+  "screen": "3.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch"
+ },
+ "iPod touch (4th gen)": {
+  "screen": "3.5in",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch"
+ },
+ "iPod touch (5th gen)": {
+  "screen": "4in",
+  "dims": "123.4 x 58.6 x 6.1 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch_(5th_generation)"
+ },
+ "iPod touch (6th gen)": {
+  "screen": "4in",
+  "dims": "123.4 x 58.6 x 6.1 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch_(7th_generation)"
+ },
+ "iPod touch (7th gen)": {
+  "screen": "4in",
+  "dims": "123.4 x 58.6 x 6.1 mm",
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch_(7th_generation)"
+ },
+ "itel A23 Pro": {
+  "dims": "145.4 x 73.9 x 9.8 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-a23-pro/specification"
+ },
+ "itel A25": {
+  "dims": "146.7 x 74 x 9.3 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-a25/specification"
+ },
+ "itel A60s": {
+  "dims": "165 x 76 x 9 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-a60s/specification"
+ },
+ "itel A70": {
+  "dims": "164 x 75.5 x 8.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-a70/specification"
+ },
+ "itel P55": {
+  "dims": "164 x 75 x 8.4 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-p55/specification"
+ },
+ "itel S23+": {
+  "dims": "164.5 x 75.2 x 7.9 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-s23-plus/specification"
+ },
+ "itel Vision 2": {
+  "dims": "164.7 x 76.3 x 8.3 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-vision-2/specification"
+ },
+ "itel Vision 3": {
+  "dims": "164.5 x 76 x 8.85 mm",
+  "source": "https://www.mobiledokan.com/mobile/itel-vision-3/specification"
+ },
+ "nubia Red Magic 10 Pro": {
+  "screen": "6.85in",
+  "dims": "163.4 x 76.1 x 8.9 mm",
+  "source": "https://www.gsmarena.com/zte_nubia_red_magic_10_pro-13496.php"
+ },
+ "nubia Red Magic 10 Pro+": {
+  "screen": "6.85in",
+  "dims": "163.4 x 76.1 x 8.9 mm",
+  "source": "https://m.gsmarena.com/zte_nubia_red_magic_10_pro+-13495.php"
+ },
+ "nubia Red Magic 10S Pro": {
+  "screen": "6.85in",
+  "dims": "163.4 x 76.1 x 8.9 mm",
+  "source": "https://m.gsmarena.com/zte_nubia_redmagic_10spro_5g-13906.php"
+ },
+ "nubia Red Magic 11 Pro": {
+  "screen": "6.85in",
+  "dims": "163.82 x 76.54 x 8.9 mm",
+  "source": "https://global.redmagic.gg/pages/redmagic-11-pro-specs"
+ },
+ "nubia Red Magic 12 Pro": {
+  "screen": "6.85in",
+  "dims": "163.03 x 75.96 x 8.55 mm",
+  "source": "https://global.redmagic.gg/pages/redmagic-12-pro-specs"
+ },
+ "nubia Red Magic 8 Pro": {
+  "screen": "6.8in",
+  "dims": "164 x 76.4 x 8.9 mm",
+  "source": "https://m.gsmarena.com/zte_nubia_red_magic_8_pro-12015.php"
+ },
+ "nubia Red Magic 8S Pro": {
+  "screen": "6.8in",
+  "dims": "164 x 76.4 x 9.5 mm",
+  "source": "https://www.gsmarena.com/zte_nubia_red_magic_8s_pro-12398.php"
+ },
+ "nubia Red Magic 8S Pro+": {
+  "screen": "6.8in",
+  "dims": "164 x 76.4 x 8.9 mm",
+  "source": "https://www.gsmarena.com/zte_nubia_red_magic_8s_pro%2B-12399.php"
+ },
+ "nubia Red Magic 9 Pro": {
+  "screen": "6.8in",
+  "dims": "164 x 76.4 x 8.9 mm",
+  "source": "https://m.gsmarena.com/zte_nubia_red_magic_9_pro-12709.php"
+ },
+ "nubia Red Magic 9S Pro": {
+  "screen": "6.8in",
+  "dims": "164 x 76.4 x 8.9 mm",
+  "source": "https://m.gsmarena.com/zte_nubia_red_magic_9s_pro-13191.php"
+ },
+ "reMarkable Paper Pure": {
+  "screen": "10.3in",
+  "dims": "228.1 x 187.1 x 6 mm",
+  "source": "https://remarkable.com/store/compare"
+ }
+}
