@@ -16441,5 +16441,31 @@
    }
   ],
   "note": ""
+ },
+ {
+  "models": [
+   "Galaxy Tab S10 FE+"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Samsung Anti-Reflecting Screen Protector for Galaxy Tab S10 FE+ (EF-UX620)",
+    "url": "https://www.samsung.com/ie/mobile-accessories/galaxy-tab-s10-fe-plus-anti-reflecting-screen-protector-transparent-ef-ux620ctegww"
+   }
+  ],
+  "note": "Samsung makes a screen protector for the Tab S10 FE+ alone."
+ },
+ {
+  "models": [
+   "Galaxy Tab A8 10.5 (2021)"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Best Buy: SaharaCase ZeroDamage tempered glass for Galaxy Tab A8",
+    "url": "https://www.bestbuy.com/product/saharacase-zerodamage-ultra-strong-tempered-glass-screen-protector-for-samsung-galaxy-tab-a8-clear/J3GW2YSY3Q"
+   }
+  ],
+  "note": "SaharaCase sells tempered glass made for the Galaxy Tab A8 10.5."
  }
 ]
