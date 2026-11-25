@@ -135,11 +135,13 @@ Apple Watch Series 5 40mm,APP-3003,Apple,Wearable,2019-09,"A2092, A2094, A2156",
 Apple Watch Series 6 40mm,APP-3003,Apple,Wearable,2020-09,"A2291, A2293, A2375",,40 x 34 x 10.7
 Apple Watch SE (1st gen) 40mm,APP-3003,Apple,Wearable,2020-09,"A2351, A2353, A2355",,40 x 34 x 10.7
 Apple Watch SE (2nd gen) 40mm,APP-3003,Apple,Wearable,2022-09,"A2722, A2726, A2725, A2855",,40 x 34 x 10.7
+Apple Watch SE 3 40mm,APP-3003,Apple,Wearable,2025-09,"A3324, A3391, A3326, A3327",,40 x 34 x 10.7
 Apple Watch Series 4 44mm,APP-3004,Apple,Wearable,2018-09,"A1978, A1976, A2008",1.78in,44 x 38 x 10.7
 Apple Watch Series 5 44mm,APP-3004,Apple,Wearable,2019-09,"A2093, A2095, A2157",1.78in,44 x 38 x 10.7
 Apple Watch Series 6 44mm,APP-3004,Apple,Wearable,2020-09,"A2292, A2294, A2376",1.78in,44 x 38 x 10.7
 Apple Watch SE (1st gen) 44mm,APP-3004,Apple,Wearable,2020-09,"A2352, A2354, A2356",,44 x 38 x 10.7
 Apple Watch SE (2nd gen) 44mm,APP-3004,Apple,Wearable,2022-09,"A2723, A2727, A2724, A2856",,44 x 38 x 10.7
+Apple Watch SE 3 44mm,APP-3004,Apple,Wearable,2025-09,"A3325, A3392, A3328, A3329",1.78in,44 x 38 x 10.7
 Apple Watch Series 7 41mm,APP-3005,Apple,Wearable,2021-10,"A2473, A2475, A2476",,41 x 35 x 10.7
 Apple Watch Series 8 41mm,APP-3005,Apple,Wearable,2022-09,"A2770, A2772, A2773, A2857",,41 x 35 x 10.7
 Apple Watch Series 9 41mm,APP-3005,Apple,Wearable,2023-09,"A2978, A2982, A2983",,41 x 35 x 10.7
@@ -154,10 +156,8 @@ Apple Watch Series 10 42mm,APP-3008,Apple,Wearable,2024-09,"A2997, A2998, A3001,
 Apple Watch Series 11 42mm,APP-3008,Apple,Wearable,2025-09,"A3331, A3450, A3335, A3452",,42 x 36 x 9.7
 Apple Watch Series 10 46mm,APP-3009,Apple,Wearable,2024-09,"A2999, A3000, A3003, A3206",1.96in,46 x 39 x 9.7
 Apple Watch Series 11 46mm,APP-3009,Apple,Wearable,2025-09,"A3333, A3451, A3337, A3453",1.96in,46 x 39 x 9.7
-Apple Watch SE 3 40mm,APP-3010,Apple,Wearable,2025-09,"A3324, A3391, A3326, A3327",,40 x 34 x 10.7
-Apple Watch SE 3 44mm,APP-3011,Apple,Wearable,2025-09,"A3325, A3392, A3328, A3329",1.78in,44 x 38 x 10.7
-Apple Watch Series 12 42mm,APP-3012,Apple,Wearable,2026-09,"A3581, A3583, A3582, A3586",,42 x 37 x 9.7
-Apple Watch Series 12 46mm,APP-3013,Apple,Wearable,2026-09,"A3584, A3585, A3587, A3588",,46 x 40 x 9.7
+Apple Watch Series 12 42mm,APP-3010,Apple,Wearable,2026-09,"A3581, A3583, A3582, A3586",,42 x 37 x 9.7
+Apple Watch Series 12 46mm,APP-3011,Apple,Wearable,2026-09,"A3584, A3585, A3587, A3588",,46 x 40 x 9.7
 Samsung i700,SAM-1001,Samsung,Phone,2004-03,,,132 x 70 x 16
 Samsung i500,SAM-1002,Samsung,Phone,2004-03,,,92 x 54 x 23
 Samsung D720,SAM-1003,Samsung,Phone,2005-02,,1.8in,99 x 47 x 23

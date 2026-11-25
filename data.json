@@ -2768,28 +2768,38 @@
 "Apple Watch Series 5 40mm",
 "Apple Watch Series 6 40mm",
 "Apple Watch SE (1st gen) 40mm",
-"Apple Watch SE (2nd gen) 40mm"
+"Apple Watch SE (2nd gen) 40mm",
+"Apple Watch SE 3 40mm"
 ],
 "released": [
 "2018-09",
 "2019-09",
 "2020-09",
 "2020-09",
-"2022-09"
+"2022-09",
+"2025-09"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass, Belkin list Series 4/5/6/SE",
+"note": "MediaDevil makes one 40mm protector for the Apple Watch SE 3, SE 2, SE and Series 6, 5 and 4. PanzerGlass, Belkin list Series 4/5/6/SE",
 "device": "Wearable",
+"sources": [
+[
+"MediaDevil Magicscreen for Apple Watch 40mm (SE3, SE2, SE, Series 6/5/4)",
+"https://mediadevil.com/products/apple-watch-40mm-series-4-screen-protector-clear-magicscreen"
+]
+],
 "codes": [
 "A1977, A1975, A2007",
 "A2092, A2094, A2156",
 "A2291, A2293, A2375",
 "A2351, A2353, A2355",
-"A2722, A2726, A2725, A2855"
+"A2722, A2726, A2725, A2855",
+"A3324, A3391, A3326, A3327"
 ],
 "dims": [
 "40 x 34 x 10.7 mm",
 "40 x 34 x 10.74 mm",
+"40 x 34 x 10.7 mm",
 "40 x 34 x 10.7 mm",
 "40 x 34 x 10.7 mm",
 "40 x 34 x 10.7 mm"
@@ -2806,33 +2816,44 @@
 "Apple Watch Series 5 44mm",
 "Apple Watch Series 6 44mm",
 "Apple Watch SE (1st gen) 44mm",
-"Apple Watch SE (2nd gen) 44mm"
+"Apple Watch SE (2nd gen) 44mm",
+"Apple Watch SE 3 44mm"
 ],
 "released": [
 "2018-09",
 "2019-09",
 "2020-09",
 "2020-09",
-"2022-09"
+"2022-09",
+"2025-09"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass, Belkin list Series 4/5/6/SE",
+"note": "MediaDevil makes one 44mm protector for the Apple Watch SE 3, SE 2, SE and Series 6, 5 and 4. PanzerGlass, Belkin list Series 4/5/6/SE",
 "device": "Wearable",
+"sources": [
+[
+"MediaDevil Magicscreen for Apple Watch 44mm (SE3, SE2, SE, Series 6/5/4)",
+"https://mediadevil.com/products/apple-watch-44mm-series-4-screen-protector-clear-magicscreen"
+]
+],
 "codes": [
 "A1978, A1976, A2008",
 "A2093, A2095, A2157",
 "A2292, A2294, A2376",
 "A2352, A2354, A2356",
-"A2723, A2727, A2724, A2856"
+"A2723, A2727, A2724, A2856",
+"A3325, A3392, A3328, A3329"
 ],
 "screens": [
 "1.78in",
 "1.78in",
 "1.78in",
 "",
-""
+"",
+"1.78in"
 ],
 "dims": [
+"44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm",
@@ -2970,8 +2991,14 @@
 "2025-09"
 ],
 "check": "Confirmed",
-"note": "ZAGG list",
+"note": "Spigen's Series 12 42mm protector is only compatible with the Series 12 42mm, so don't assume Series 10/11 glass fits it. ZAGG list",
 "device": "Wearable",
+"sources": [
+[
+"JB Hi-Fi: Spigen EliteShield EZ Fit, \"Only compatible with Apple Watch Series 12 42mm\"",
+"https://www.jbhifi.com.au/products/spigen-apple-watch-series-12-42mm-eliteshield-ez-fit-screen-protector-clear"
+]
+],
 "codes": [
 "A2997, A2998, A3001, A3002",
 "A3331, A3450, A3335, A3452"
@@ -3018,61 +3045,20 @@
 "APP"
 ],
 "models": [
-"Apple Watch SE 3 40mm"
-],
-"released": [
-"2025-09"
-],
-"check": "Check",
-"note": "Same case size as Series 4-6/SE 40mm: test first",
-"device": "Wearable",
-"codes": [
-"A3324, A3391, A3326, A3327"
-],
-"dims": [
-"40 x 34 x 10.7 mm"
-]
-},
-{
-"id": "APP-3011",
-"brand": "Apple",
-"brands": [
-"APP"
-],
-"models": [
-"Apple Watch SE 3 44mm"
-],
-"released": [
-"2025-09"
-],
-"check": "Check",
-"note": "Same case size as Series 4-6/SE 44mm: test first",
-"device": "Wearable",
-"codes": [
-"A3325, A3392, A3328, A3329"
-],
-"screens": [
-"1.78in"
-],
-"dims": [
-"44 x 38 x 10.7 mm"
-]
-},
-{
-"id": "APP-3012",
-"brand": "Apple",
-"brands": [
-"APP"
-],
-"models": [
 "Apple Watch Series 12 42mm"
 ],
 "released": [
 "2026-09"
 ],
-"check": "Check",
-"note": "Looks the same as Series 10/11: test their 42mm glass first",
+"check": "Confirmed",
+"note": "Spigen's Series 12 42mm protector is only compatible with the Series 12 42mm, so don't assume Series 10/11 glass fits it. Looks the same as Series 10/11: test their 42mm glass first",
 "device": "Wearable",
+"sources": [
+[
+"JB Hi-Fi: Spigen EliteShield EZ Fit, \"Only compatible with Apple Watch Series 12 42mm\"",
+"https://www.jbhifi.com.au/products/spigen-apple-watch-series-12-42mm-eliteshield-ez-fit-screen-protector-clear"
+]
+],
 "codes": [
 "A3581, A3583, A3582, A3586"
 ],
@@ -3081,7 +3067,7 @@
 ]
 },
 {
-"id": "APP-3013",
+"id": "APP-3011",
 "brand": "Apple",
 "brands": [
 "APP"

@@ -16343,5 +16343,68 @@
    }
   ],
   "note": "Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names)."
+ },
+ {
+  "models": [
+   "Apple Watch SE 3 40mm",
+   "Apple Watch SE (2nd gen) 40mm",
+   "Apple Watch SE (1st gen) 40mm",
+   "Apple Watch Series 6 40mm",
+   "Apple Watch Series 5 40mm",
+   "Apple Watch Series 4 40mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MediaDevil Magicscreen for Apple Watch 40mm (SE3, SE2, SE, Series 6/5/4)",
+    "url": "https://mediadevil.com/products/apple-watch-40mm-series-4-screen-protector-clear-magicscreen"
+   }
+  ],
+  "note": "MediaDevil makes one 40mm protector for the Apple Watch SE 3, SE 2, SE and Series 6, 5 and 4."
+ },
+ {
+  "models": [
+   "Apple Watch SE 3 44mm",
+   "Apple Watch SE (2nd gen) 44mm",
+   "Apple Watch SE (1st gen) 44mm",
+   "Apple Watch Series 6 44mm",
+   "Apple Watch Series 5 44mm",
+   "Apple Watch Series 4 44mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MediaDevil Magicscreen for Apple Watch 44mm (SE3, SE2, SE, Series 6/5/4)",
+    "url": "https://mediadevil.com/products/apple-watch-44mm-series-4-screen-protector-clear-magicscreen"
+   }
+  ],
+  "note": "MediaDevil makes one 44mm protector for the Apple Watch SE 3, SE 2, SE and Series 6, 5 and 4."
+ },
+ {
+  "models": [
+   "Apple Watch Series 12 42mm"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "JB Hi-Fi: Spigen EliteShield EZ Fit, \"Only compatible with Apple Watch Series 12 42mm\"",
+    "url": "https://www.jbhifi.com.au/products/spigen-apple-watch-series-12-42mm-eliteshield-ez-fit-screen-protector-clear"
+   }
+  ],
+  "note": ""
+ },
+ {
+  "models": [
+   "Apple Watch Series 11 42mm",
+   "Apple Watch Series 12 42mm"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "JB Hi-Fi: Spigen EliteShield EZ Fit, \"Only compatible with Apple Watch Series 12 42mm\"",
+    "url": "https://www.jbhifi.com.au/products/spigen-apple-watch-series-12-42mm-eliteshield-ez-fit-screen-protector-clear"
+   }
+  ],
+  "note": "Spigen's Series 12 42mm protector is only compatible with the Series 12 42mm, so don't assume Series 10/11 glass fits it."
  }
 ]
