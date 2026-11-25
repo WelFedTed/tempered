@@ -16467,5 +16467,19 @@
    }
   ],
   "note": "SaharaCase sells tempered glass made for the Galaxy Tab A8 10.5."
+ },
+ {
+  "models": [
+   "Oppo A38",
+   "Oppo A18"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue: Just In Case tempered glass for OPPO A38 4G / A18 4G",
+    "url": "https://www.coolblue.de/en/product/960886/just-in-case-tempered-glass-oppo-a38-4g-a18-4g-screen-protector.html"
+   }
+  ],
+  "note": "Just In Case sells one tempered glass for the Oppo A38 and A18."
  }
 ]

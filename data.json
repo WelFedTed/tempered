@@ -26946,9 +26946,15 @@
 "2023-09",
 "2023-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Just In Case sells one tempered glass for the Oppo A38 and A18",
 "device": "Phone",
+"sources": [
+[
+"Coolblue: Just In Case tempered glass for OPPO A38 4G / A18 4G",
+"https://www.coolblue.de/en/product/960886/just-in-case-tempered-glass-oppo-a38-4g-a18-4g-screen-protector.html"
+]
+],
 "codes": [
 "CPH2579",
 "CPH2591"

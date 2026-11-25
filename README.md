@@ -46,7 +46,7 @@ How the numbers are assigned:
 
 Every group is marked **Confirmed** or **Check** (shown as "Unverified" on the site):
 
-- **Confirmed** (688 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
+- **Confirmed** (689 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
 - **Check**: either the models match on body size, screen size and resolution, or the model stands alone. Test the fit before swapping.
 
 Groups checked against protector brands, retailers and marketplaces carry their source links on the site. The findings live in [`build/verified.json`](build/verified.json); each entry is:
