@@ -3129,10 +3129,13 @@
    {
     "name": "Wowma (Japan) seller",
     "url": "https://wowma.jp/item/695658773"
+   },
+   {
+    "name": "PanzerGlass Sony Xperia 10 VI | 10 V (fits list: both)",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-sony-xperia-10-vi-ultra-wide-fit"
    }
   ],
-  "note": "A Japanese retailer sells one glass film for Xperia 10 VI SO-52E and Xperia 10 V SO-52D, case-friendly; single listing, Supershieldz sells them separately: test fit.",
-  "weak": true
+  "note": "PanzerGlass sells one glass for the Xperia 10 V and 10 VI."
  },
  {
   "models": [
@@ -6978,19 +6981,6 @@
  },
  {
   "models": [
-   "Galaxy S23+"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-plus-92038"
-   }
-  ],
-  "note": "Olixar sells S23 Plus-only tempered glass at MobileFun."
- },
- {
-  "models": [
    "Galaxy S22 Ultra 5G"
   ],
   "fit": "own",
@@ -7014,19 +7004,6 @@
    }
   ],
   "note": "Olixar sells S22-only tempered glass at MobileFun."
- },
- {
-  "models": [
-   "Galaxy S22+ 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s22-plus-88113"
-   }
-  ],
-  "note": "Olixar sells S22 Plus-only tempered glass at MobileFun."
  },
  {
   "models": [
@@ -10584,8 +10561,7 @@
     "url": "https://homescreen.pl/en/1685-moto-edge-60-series"
    }
   ],
-  "note": "MyScreen sells one 3D curved glass for Edge 60 and Edge 60 Fusion; only one brand seen, so test fit.",
-  "weak": true
+  "note": "MyScreen sells one 3D curved glass for the Edge 60 and Edge 60 Fusion."
  },
  {
   "models": [
@@ -10599,7 +10575,7 @@
     "url": "https://homescreen.pl/en/1685-moto-edge-60-series"
    }
   ],
-  "note": "MyScreen sells one 3D curved glass for Edge 60 Pro and Edge 60s; only one brand seen, so test fit.",
+  "note": "MyScreen lists the Edge 60s with the Edge 60 Pro (one brand only: test the 60s first).",
   "weak": true
  },
  {
@@ -16512,5 +16488,137 @@
    }
   ],
   "note": "PanzerGlass sells one SAFE glass for the Honor 600 and 600 Pro."
+ },
+ {
+  "models": [
+   "Galaxy S22+ 5G",
+   "Galaxy S23+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass SAFE Galaxy S22+ | S23+ (fits list: S22+, S23+)",
+    "url": "https://panzerglass.com/products/safe-samsung-galaxy-s22-5g-cf-1"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy S22+ and S23+."
+ },
+ {
+  "models": [
+   "OnePlus 9 Pro",
+   "OnePlus 10 Pro",
+   "OnePlus 11"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass OnePlus 9 Pro | 10 Pro | 11 (fits list: all three)",
+    "url": "https://panzerglass.com/products/panzerglass-oneplus-9-pro"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the OnePlus 9 Pro, 10 Pro and 11."
+ },
+ {
+  "models": [
+   "OnePlus Nord 3",
+   "OnePlus Nord 4"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass OnePlus Nord 4 | 3 (fits list: Nord 3, Nord 4)",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-oneplus-nord-4-3-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the OnePlus Nord 3 and Nord 4."
+ },
+ {
+  "models": [
+   "Motorola Edge 60",
+   "Motorola Edge 60 Pro",
+   "Motorola Edge 60 Fusion"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Motorola Edge 60 Pro | 60 | 60 Fusion",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-new-50-pro-ultra-wide-fit"
+   },
+   {
+    "name": "Multitronic: PanzerGlass SAFE Edge 60 Pro / Edge 60 / Edge 60 Fusion",
+    "url": "https://multitronic.fi/en/products/4607440/panzerglass-safe-ultra-wide-fit-alignerkit-moto-edge-60-pro---edge-60---edge-60-fusion---screen-protector"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Edge 60, Edge 60 Pro and Edge 60 Fusion."
+ },
+ {
+  "models": [
+   "Galaxy Z Fold4",
+   "Galaxy Z Fold5"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Galaxy Z Fold 4 | Fold 5",
+    "url": "https://panzerglass.com/products/panzerglass-samsung-galaxy-z-fold4"
+   },
+   {
+    "name": "Homescreen.pl: PanzerGlass Classic Fit, compatibility Z Fold5 F946 / Z Fold4 F936",
+    "url": "https://homescreen.pl/en/galaxy-z-fold-5/65731-panzerglass-classic-fit-samsung-galaxy-z-fold5-fold4-screen-protection-antibacterial-5711724073144.html"
+   }
+  ],
+  "note": "PanzerGlass sells one cover-screen glass for the Z Fold4 and Fold5."
+ },
+ {
+  "models": [
+   "Redmi Note 13 Pro",
+   "Poco X6",
+   "Poco X6 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Redmi Note 13 Pro 5G | Poco X6 | Poco X6 Pro (fits list: all three)",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro."
+ },
+ {
+  "models": [
+   "Xiaomi 17 Pro Max",
+   "Xiaomi 17 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Xiaomi 17 Pro Max | 17 Ultra",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-17-pro-max-17-ultra-ultra-wide-fit"
+   },
+   {
+    "name": "Proshop: PanzerGlass Xiaomi 17 Ultra | 17 Pro Max",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Xiaomi-17-Ultra-17-Pro-Max-Ultra-Wide-Fit/3453816"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Xiaomi 17 Pro Max and 17 Ultra."
+ },
+ {
+  "models": [
+   "Redmi Note 14 Pro 5G",
+   "Redmi Note 14 Pro+ 5G",
+   "Redmi Note 13 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Redmi Note 14 Pro | 14 Pro+ | 13 Pro+",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-14-pro-ultra-wide-fit"
+   },
+   {
+    "name": "Multitronic: PanzerGlass SAFE Redmi Note 14 Pro / 14 Pro+ / 13 Pro+",
+    "url": "https://multitronic.fi/en/products/4605325/panzerglass-safe-ultra-wide-fit-alignerkit-xiaomi-redmi-note-14-pro---note-14-pro----note-13-pro----skarmskydd"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+."
  }
 ]

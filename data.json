@@ -14693,28 +14693,33 @@
 "SAM"
 ],
 "models": [
-"Galaxy S22+ 5G"
+"Galaxy S22+ 5G",
+"Galaxy S23+"
 ],
 "released": [
-"2022-02"
+"2022-02",
+"2023-02"
 ],
 "check": "Confirmed",
-"note": "Olixar sells S22 Plus-only tempered glass at MobileFun",
+"note": "PanzerGlass sells one glass for the Galaxy S22+ and S23+",
 "device": "Phone",
 "sources": [
 [
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s22-plus-88113"
+"PanzerGlass SAFE Galaxy S22+ | S23+ (fits list: S22+, S23+)",
+"https://panzerglass.com/products/safe-samsung-galaxy-s22-5g-cf-1"
 ]
 ],
 "codes": [
-"SM-S906B, SM-S906B/DS, SM-S906U, SM-S906U1, SM-S906W, SM-S906N, SM-S9060, SM-S906E, SM-S906E/DS, SM-S906L"
+"SM-S906B, SM-S906B/DS, SM-S906U, SM-S906U1, SM-S906W, SM-S906N, SM-S9060, SM-S906E, SM-S906E/DS, SM-S906L",
+"SM-S916B, SM-S916B/DS, SM-S916U, SM-S916U1, SM-S916W, SM-S916N, SM-S9160, SM-S916E, SM-S916E/DS"
 ],
 "screens": [
+"6.6in",
 "6.6in"
 ],
 "dims": [
-"157.4 x 75.8 x 7.6 mm"
+"157.4 x 75.8 x 7.6 mm",
+"157.8 x 76.2 x 7.6 mm"
 ],
 "tags": [
 "fingerprint"
@@ -15060,22 +15065,37 @@
 "SAM"
 ],
 "models": [
-"Galaxy Z Fold4"
+"Galaxy Z Fold4",
+"Galaxy Z Fold5"
 ],
 "released": [
-"2022-08"
+"2022-08",
+"2023-07"
 ],
-"check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"check": "Confirmed",
+"note": "PanzerGlass sells one cover-screen glass for the Z Fold4 and Fold5. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass Galaxy Z Fold 4 | Fold 5",
+"https://panzerglass.com/products/panzerglass-samsung-galaxy-z-fold4"
+],
+[
+"Homescreen.pl: PanzerGlass Classic Fit, compatibility Z Fold5 F946 / Z Fold4 F936",
+"https://homescreen.pl/en/galaxy-z-fold-5/65731-panzerglass-classic-fit-samsung-galaxy-z-fold5-fold4-screen-protection-antibacterial-5711724073144.html"
+]
+],
 "codes": [
-"SM-F936B, SM-F936B/DS, SM-F936U, SM-F936U1, SM-F936N, SM-F936W, SM-F9360"
+"SM-F936B, SM-F936B/DS, SM-F936U, SM-F936U1, SM-F936N, SM-F936W, SM-F9360",
+"SM-F946B, SM-F946B/DS, SM-F946U, SM-F946U1, SM-F946N, SM-F946W, SM-F9460"
 ],
 "screens": [
+"6.2in",
 "6.2in"
 ],
 "dims": [
-"155.1 x 67.1 x 14.2 mm"
+"155.1 x 67.1 x 14.2 mm",
+"154.9 x 67.1 x 13.4 mm"
 ],
 "tags": [
 "cover"
@@ -15226,40 +15246,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy S23+"
-],
-"released": [
-"2023-02"
-],
-"check": "Confirmed",
-"note": "Olixar sells S23 Plus-only tempered glass at MobileFun",
-"device": "Phone",
-"sources": [
-[
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-plus-92038"
-]
-],
-"codes": [
-"SM-S916B, SM-S916B/DS, SM-S916U, SM-S916U1, SM-S916W, SM-S916N, SM-S9160, SM-S916E, SM-S916E/DS"
-],
-"screens": [
-"6.6in"
-],
-"dims": [
-"157.8 x 76.2 x 7.6 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "SAM-1450",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy S23 Ultra"
 ],
 "released": [
@@ -15298,7 +15284,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15337,7 +15323,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15385,7 +15371,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15429,7 +15415,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15454,7 +15440,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15506,7 +15492,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15558,35 +15544,7 @@
 ]
 },
 {
-"id": "SAM-1457",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy Z Fold5"
-],
-"released": [
-"2023-07"
-],
-"check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
-"device": "Phone",
-"codes": [
-"SM-F946B, SM-F946B/DS, SM-F946U, SM-F946U1, SM-F946N, SM-F946W, SM-F9460"
-],
-"screens": [
-"6.2in"
-],
-"dims": [
-"154.9 x 67.1 x 13.4 mm"
-],
-"tags": [
-"cover"
-]
-},
-{
-"id": "SAM-1458",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15646,7 +15604,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15692,7 +15650,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15731,7 +15689,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15787,7 +15745,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15834,7 +15792,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15859,7 +15817,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15904,7 +15862,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15954,7 +15912,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15982,7 +15940,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16083,7 +16041,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16153,7 +16111,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16259,7 +16217,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16287,7 +16245,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16329,7 +16287,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16392,7 +16350,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16430,7 +16388,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16489,7 +16447,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16540,7 +16498,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16568,7 +16526,7 @@
 ]
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16602,7 +16560,7 @@
 ]
 },
 {
-"id": "SAM-1478",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16641,7 +16599,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16675,7 +16633,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16710,7 +16668,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16735,7 +16693,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16766,7 +16724,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16788,7 +16746,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16810,7 +16768,7 @@
 ]
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16832,7 +16790,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16848,7 +16806,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -30162,22 +30120,38 @@
 "ONE"
 ],
 "models": [
-"OnePlus 9 Pro"
+"OnePlus 9 Pro",
+"OnePlus 10 Pro",
+"OnePlus 11"
 ],
 "released": [
-"2021-03"
+"2021-03",
+"2022-01",
+"2023-01"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "PanzerGlass sells one glass for the OnePlus 9 Pro, 10 Pro and 11",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass OnePlus 9 Pro | 10 Pro | 11 (fits list: all three)",
+"https://panzerglass.com/products/panzerglass-oneplus-9-pro"
+]
+],
 "codes": [
-"LE2121, LE2125, LE2123, LE2120, LE2127"
+"LE2121, LE2125, LE2123, LE2120, LE2127",
+"NE2210, NE2211, NE2213, NE2215, NE2217",
+"PHB110, CPH2449, CPH2447, CPH2451"
 ],
 "screens": [
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"163.2 x 73.6 x 8.7 mm"
+"163.2 x 73.6 x 8.7 mm",
+"163 x 73.9 x 8.6 mm",
+"163.1 x 74.1 x 8.5 mm"
 ]
 },
 {
@@ -30267,31 +30241,6 @@
 },
 {
 "id": "ONE-1024",
-"brand": "OnePlus",
-"brands": [
-"ONE"
-],
-"models": [
-"OnePlus 10 Pro"
-],
-"released": [
-"2022-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"NE2210, NE2211, NE2213, NE2215, NE2217"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"163 x 73.9 x 8.6 mm"
-]
-},
-{
-"id": "ONE-1025",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30327,7 +30276,7 @@
 ]
 },
 {
-"id": "ONE-1026",
+"id": "ONE-1025",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30362,7 +30311,7 @@
 ]
 },
 {
-"id": "ONE-1027",
+"id": "ONE-1026",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30393,7 +30342,7 @@
 ]
 },
 {
-"id": "ONE-1028",
+"id": "ONE-1027",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30428,7 +30377,7 @@
 ]
 },
 {
-"id": "ONE-1029",
+"id": "ONE-1028",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30464,32 +30413,7 @@
 ]
 },
 {
-"id": "ONE-1030",
-"brand": "OnePlus",
-"brands": [
-"ONE"
-],
-"models": [
-"OnePlus 11"
-],
-"released": [
-"2023-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"PHB110, CPH2449, CPH2447, CPH2451"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"163.1 x 74.1 x 8.5 mm"
-]
-},
-{
-"id": "ONE-1031",
+"id": "ONE-1029",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30519,7 +30443,7 @@
 ]
 },
 {
-"id": "ONE-1032",
+"id": "ONE-1030",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30544,32 +30468,43 @@
 ]
 },
 {
-"id": "ONE-1033",
+"id": "ONE-1031",
 "brand": "OnePlus",
 "brands": [
 "ONE"
 ],
 "models": [
-"OnePlus Nord 3"
+"OnePlus Nord 3",
+"OnePlus Nord 4"
 ],
 "released": [
-"2023-07"
+"2023-07",
+"2024-07"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "PanzerGlass sells one glass for the OnePlus Nord 3 and Nord 4",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass OnePlus Nord 4 | 3 (fits list: Nord 3, Nord 4)",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-oneplus-nord-4-3-ultra-wide-fit"
+]
+],
 "codes": [
-"CPH2491, CPH2493"
+"CPH2491, CPH2493",
+"CPH2663, CPH2661"
 ],
 "screens": [
+"6.74in",
 "6.74in"
 ],
 "dims": [
-"162 x 75.1 x 8.2 mm"
+"162 x 75.1 x 8.2 mm",
+"162.6 x 75 x 8 mm"
 ]
 },
 {
-"id": "ONE-1034",
+"id": "ONE-1032",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30594,7 +30529,7 @@
 ]
 },
 {
-"id": "ONE-1035",
+"id": "ONE-1033",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30619,7 +30554,7 @@
 ]
 },
 {
-"id": "ONE-1036",
+"id": "ONE-1034",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30653,7 +30588,7 @@
 ]
 },
 {
-"id": "ONE-1037",
+"id": "ONE-1035",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30678,7 +30613,7 @@
 ]
 },
 {
-"id": "ONE-1038",
+"id": "ONE-1036",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30714,7 +30649,7 @@
 ]
 },
 {
-"id": "ONE-1039",
+"id": "ONE-1037",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30739,7 +30674,7 @@
 ]
 },
 {
-"id": "ONE-1040",
+"id": "ONE-1038",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30775,7 +30710,7 @@
 ]
 },
 {
-"id": "ONE-1041",
+"id": "ONE-1039",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30800,32 +30735,7 @@
 ]
 },
 {
-"id": "ONE-1042",
-"brand": "OnePlus",
-"brands": [
-"ONE"
-],
-"models": [
-"OnePlus Nord 4"
-],
-"released": [
-"2024-07"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2663, CPH2661"
-],
-"screens": [
-"6.74in"
-],
-"dims": [
-"162.6 x 75 x 8 mm"
-]
-},
-{
-"id": "ONE-1043",
+"id": "ONE-1040",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30853,7 +30763,7 @@
 ]
 },
 {
-"id": "ONE-1044",
+"id": "ONE-1041",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30914,7 +30824,7 @@
 ]
 },
 {
-"id": "ONE-1045",
+"id": "ONE-1042",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30944,7 +30854,7 @@
 ]
 },
 {
-"id": "ONE-1046",
+"id": "ONE-1043",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30987,7 +30897,7 @@
 ]
 },
 {
-"id": "ONE-1047",
+"id": "ONE-1044",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31017,7 +30927,7 @@
 ]
 },
 {
-"id": "ONE-1048",
+"id": "ONE-1045",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31045,7 +30955,7 @@
 ]
 },
 {
-"id": "ONE-1049",
+"id": "ONE-1046",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31073,7 +30983,7 @@
 ]
 },
 {
-"id": "ONE-1050",
+"id": "ONE-1047",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31127,7 +31037,7 @@
 ]
 },
 {
-"id": "ONE-1051",
+"id": "ONE-1048",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31155,7 +31065,7 @@
 ]
 },
 {
-"id": "ONE-1052",
+"id": "ONE-1049",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31177,7 +31087,7 @@
 ]
 },
 {
-"id": "ONE-1053",
+"id": "ONE-1050",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31199,7 +31109,7 @@
 ]
 },
 {
-"id": "ONE-1054",
+"id": "ONE-1051",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31215,7 +31125,7 @@
 "device": "Phone"
 },
 {
-"id": "ONE-1055",
+"id": "ONE-1052",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31237,7 +31147,7 @@
 ]
 },
 {
-"id": "ONE-1056",
+"id": "ONE-1053",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31259,7 +31169,7 @@
 ]
 },
 {
-"id": "ONE-1057",
+"id": "ONE-1054",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31281,7 +31191,7 @@
 ]
 },
 {
-"id": "ONE-1058",
+"id": "ONE-1055",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31303,7 +31213,7 @@
 ]
 },
 {
-"id": "ONE-1059",
+"id": "ONE-1056",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31319,7 +31229,7 @@
 "device": "Phone"
 },
 {
-"id": "ONE-1060",
+"id": "ONE-1057",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31341,7 +31251,7 @@
 ]
 },
 {
-"id": "ONE-1061",
+"id": "ONE-1058",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -58150,28 +58060,46 @@
 "MOT"
 ],
 "models": [
-"Motorola Edge 60 Fusion"
+"Motorola Edge 60 Fusion",
+"Motorola Edge 60",
+"Motorola Edge 60 Pro"
 ],
 "released": [
-"2025-03"
+"2025-03",
+"2025-04",
+"2025-04"
 ],
-"check": "Check",
-"note": "MyScreen sells one 3D curved glass for Edge 60 and Edge 60 Fusion; only one brand seen, so test fit",
+"check": "Confirmed",
+"note": "MyScreen sells one 3D curved glass for the Edge 60 and Edge 60 Fusion. PanzerGlass sells one glass for the Edge 60, Edge 60 Pro and Edge 60 Fusion. MyScreen lists the Edge 60s with the Edge 60 Pro (one brand only: test the 60s first)",
 "device": "Phone",
 "sources": [
 [
 "MyScreen Diamond Glass edge3D (Home Screen)",
 "https://homescreen.pl/en/1685-moto-edge-60-series"
+],
+[
+"PanzerGlass Motorola Edge 60 Pro | 60 | 60 Fusion",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-new-50-pro-ultra-wide-fit"
+],
+[
+"Multitronic: PanzerGlass SAFE Edge 60 Pro / Edge 60 / Edge 60 Fusion",
+"https://multitronic.fi/en/products/4607440/panzerglass-safe-ultra-wide-fit-alignerkit-moto-edge-60-pro---edge-60---edge-60-fusion---screen-protector"
 ]
 ],
 "codes": [
-"XT2503-4"
+"XT2503-4",
+"XT2505-1, XT2505-4",
+"XT2507-1"
 ],
 "screens": [
-"6.67in"
+"6.67in",
+"6.67in",
+"6.7in"
 ],
 "dims": [
-"161 x 73 x 8.0 mm"
+"161 x 73 x 8.0 mm",
+"161.2 x 73.1 x 7.9 mm",
+"160.7 x 73.1 x 8.2 mm"
 ],
 "tags": [
 "curved"
@@ -58190,7 +58118,7 @@
 "2025-04"
 ],
 "check": "Check",
-"note": "MyScreen sells one 3D curved glass for Edge 60 Pro and Edge 60s; only one brand seen, so test fit",
+"note": "MyScreen lists the Edge 60s with the Edge 60 Pro (one brand only: test the 60s first)",
 "device": "Phone",
 "sources": [
 [
@@ -58203,9 +58131,6 @@
 ],
 "dims": [
 "161.2 x 73.1 x 8.2 mm"
-],
-"tags": [
-"curved"
 ]
 },
 {
@@ -58289,74 +58214,6 @@
 "MOT"
 ],
 "models": [
-"Motorola Edge 60"
-],
-"released": [
-"2025-04"
-],
-"check": "Check",
-"note": "MyScreen sells one 3D curved glass for Edge 60 and Edge 60 Fusion; only one brand seen, so test fit",
-"device": "Phone",
-"sources": [
-[
-"MyScreen Diamond Glass edge3D (Home Screen)",
-"https://homescreen.pl/en/1685-moto-edge-60-series"
-]
-],
-"codes": [
-"XT2505-1, XT2505-4"
-],
-"screens": [
-"6.67in"
-],
-"dims": [
-"161.2 x 73.1 x 7.9 mm"
-],
-"tags": [
-"curved"
-]
-},
-{
-"id": "MOT-1279",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola Edge 60 Pro"
-],
-"released": [
-"2025-04"
-],
-"check": "Check",
-"note": "MyScreen sells one 3D curved glass for Edge 60 Pro and Edge 60s; only one brand seen, so test fit",
-"device": "Phone",
-"sources": [
-[
-"MyScreen Diamond Glass edge3D (Home Screen)",
-"https://homescreen.pl/en/1685-moto-edge-60-series"
-]
-],
-"codes": [
-"XT2507-1"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"160.7 x 73.1 x 8.2 mm"
-],
-"tags": [
-"curved"
-]
-},
-{
-"id": "MOT-1280",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
 "Motorola Edge (2025)"
 ],
 "released": [
@@ -58376,7 +58233,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58407,7 +58264,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58455,7 +58312,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58477,7 +58334,7 @@
 ]
 },
 {
-"id": "MOT-1284",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58513,7 +58370,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58544,7 +58401,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58575,7 +58432,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58603,7 +58460,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58648,7 +58505,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58684,7 +58541,7 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58706,7 +58563,7 @@
 ]
 },
 {
-"id": "MOT-1291",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58731,7 +58588,7 @@
 ]
 },
 {
-"id": "MOT-1292",
+"id": "MOT-1290",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58753,7 +58610,7 @@
 ]
 },
 {
-"id": "MOT-1293",
+"id": "MOT-1291",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58786,7 +58643,7 @@
 ]
 },
 {
-"id": "MOT-1294",
+"id": "MOT-1292",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58814,7 +58671,7 @@
 ]
 },
 {
-"id": "MOT-1295",
+"id": "MOT-1293",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58840,7 +58697,7 @@
 ]
 },
 {
-"id": "MOT-1296",
+"id": "MOT-1294",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58862,7 +58719,7 @@
 ]
 },
 {
-"id": "MOT-1297",
+"id": "MOT-1295",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58890,7 +58747,7 @@
 ]
 },
 {
-"id": "MOT-1298",
+"id": "MOT-1296",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58912,7 +58769,7 @@
 ]
 },
 {
-"id": "MOT-1299",
+"id": "MOT-1297",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58934,7 +58791,7 @@
 ]
 },
 {
-"id": "MOT-1300",
+"id": "MOT-1298",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58956,7 +58813,7 @@
 ]
 },
 {
-"id": "MOT-1301",
+"id": "MOT-1299",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -64362,23 +64219,29 @@
 "models": [
 "Redmi Note 13 (China)",
 "Redmi Note 13 Pro",
+"Redmi K70E",
 "Poco X6",
+"Poco X6 Pro",
 "Redmi Note 13",
 "Redmi Note 13 Pro 4G",
 "Poco M6 Pro 4G",
+"Poco X7 Pro",
 "Redmi Note 14S"
 ],
 "released": [
 "2023-09",
 "2023-09",
+"2023-11",
 "2024-01",
 "2024-01",
 "2024-01",
 "2024-01",
+"2024-01",
+"2025-01",
 "2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro, Poco X6, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G",
+"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
 "device": "Phone",
 "sources": [
 [
@@ -64392,18 +64255,40 @@
 [
 "Displex via Digitec",
 "https://www.digitec.ch/en/s1/product/displex-real-glass-2d-panzerglas-1-piece-xiaomi-poco-m6-pro-xiaomi-redmi-note-13-pro-4g-xiaomi-redmi-42926810"
+],
+[
+"PanzerGlass Redmi Note 13 Pro 5G | Poco X6 | Poco X6 Pro (fits list: all three)",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit"
+],
+[
+"Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
+"https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html"
+],
+[
+"Bizon via Homescreen.pl",
+"https://homescreen.pl/en/1527-poco-x7-pro"
+],
+[
+"Bizon via Homescreen.pl",
+"https://homescreen.pl/en/1084-poco-x6-pro-5g"
 ]
 ],
 "codes": [
 "2312DRAABC",
 "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I",
+"2311DRK48C",
 "23122PCD1G, 23122PCD1I",
+"2311DRK48G, 2311DRK48I",
 "2312DRAABG, 2312DRAABI",
 "23117RA68G, 2312FPCA6G",
 "2312FPCA6G",
+"2412DPC0AG, 2412DPC0AI",
 "2502FRA65G"
 ],
 "screens": [
+"6.67in",
+"6.67in",
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in",
@@ -64415,10 +64300,13 @@
 "dims": [
 "161.1 x 75 x 7.6 mm",
 "161.2 x 74.2 x 8 mm",
+"160.5 x 74.3 x 8.1 mm",
 "161.2 x 74.3 x 8 mm",
+"160.5 x 74.3 x 8.3 mm",
 "161.1 x 75 x 7.6 mm",
 "161.1 x 75 x 8 mm",
 "161.1 x 75 x 8 mm",
+"160.8 x 75.2 x 8.3 mm",
 "161.1 x 75 x 8 mm"
 ]
 },
@@ -64445,7 +64333,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass",
+"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+. 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass",
 "device": "Phone",
 "sources": [
 [
@@ -64455,6 +64343,14 @@
 [
 "Displex via AIO.lv",
 "https://aio.lv/en/product--displex-02095--11464058.md"
+],
+[
+"PanzerGlass Redmi Note 14 Pro | 14 Pro+ | 13 Pro+",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-14-pro-ultra-wide-fit"
+],
+[
+"Multitronic: PanzerGlass SAFE Redmi Note 14 Pro / 14 Pro+ / 13 Pro+",
+"https://multitronic.fi/en/products/4605325/panzerglass-safe-ultra-wide-fit-alignerkit-xiaomi-redmi-note-14-pro---note-14-pro----note-13-pro----skarmskydd"
 ],
 [
 "3MK via Homescreen.pl",
@@ -64626,55 +64522,6 @@
 "XIA"
 ],
 "models": [
-"Redmi K70E",
-"Poco X6 Pro",
-"Poco X7 Pro"
-],
-"released": [
-"2023-11",
-"2024-01",
-"2025-01"
-],
-"check": "Confirmed",
-"note": "Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
-"device": "Phone",
-"sources": [
-[
-"Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
-"https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html"
-],
-[
-"Bizon via Homescreen.pl",
-"https://homescreen.pl/en/1527-poco-x7-pro"
-],
-[
-"Bizon via Homescreen.pl",
-"https://homescreen.pl/en/1084-poco-x6-pro-5g"
-]
-],
-"codes": [
-"2311DRK48C",
-"2311DRK48G, 2311DRK48I",
-"2412DPC0AG, 2412DPC0AI"
-],
-"screens": [
-"6.67in",
-"6.67in",
-"6.67in"
-],
-"dims": [
-"160.5 x 74.3 x 8.1 mm",
-"160.5 x 74.3 x 8.3 mm",
-"160.8 x 75.2 x 8.3 mm"
-]
-},
-{
-"id": "XIA-1157",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Redmi K70",
 "Redmi K70 Pro",
 "Poco F6 Pro"
@@ -64704,7 +64551,7 @@
 ]
 },
 {
-"id": "XIA-1158",
+"id": "XIA-1157",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64735,7 +64582,7 @@
 ]
 },
 {
-"id": "XIA-1159",
+"id": "XIA-1158",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64780,7 +64627,7 @@
 ]
 },
 {
-"id": "XIA-1160",
+"id": "XIA-1159",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64810,7 +64657,7 @@
 ]
 },
 {
-"id": "XIA-1161",
+"id": "XIA-1160",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64854,7 +64701,7 @@
 ]
 },
 {
-"id": "XIA-1162",
+"id": "XIA-1161",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64879,7 +64726,7 @@
 ]
 },
 {
-"id": "XIA-1163",
+"id": "XIA-1162",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64920,7 +64767,7 @@
 ]
 },
 {
-"id": "XIA-1164",
+"id": "XIA-1163",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64948,7 +64795,7 @@
 ]
 },
 {
-"id": "XIA-1165",
+"id": "XIA-1164",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65085,7 +64932,7 @@
 ]
 },
 {
-"id": "XIA-1166",
+"id": "XIA-1165",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65140,7 +64987,7 @@
 ]
 },
 {
-"id": "XIA-1167",
+"id": "XIA-1166",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65168,7 +65015,7 @@
 ]
 },
 {
-"id": "XIA-1168",
+"id": "XIA-1167",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65202,7 +65049,7 @@
 ]
 },
 {
-"id": "XIA-1169",
+"id": "XIA-1168",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65250,7 +65097,7 @@
 ]
 },
 {
-"id": "XIA-1170",
+"id": "XIA-1169",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65303,7 +65150,7 @@
 ]
 },
 {
-"id": "XIA-1171",
+"id": "XIA-1170",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65325,7 +65172,7 @@
 ]
 },
 {
-"id": "XIA-1172",
+"id": "XIA-1171",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65347,7 +65194,7 @@
 ]
 },
 {
-"id": "XIA-1173",
+"id": "XIA-1172",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65372,7 +65219,7 @@
 ]
 },
 {
-"id": "XIA-1174",
+"id": "XIA-1173",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65420,7 +65267,7 @@
 ]
 },
 {
-"id": "XIA-1175",
+"id": "XIA-1174",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65442,7 +65289,7 @@
 ]
 },
 {
-"id": "XIA-1176",
+"id": "XIA-1175",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65470,7 +65317,7 @@
 ]
 },
 {
-"id": "XIA-1177",
+"id": "XIA-1176",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65495,7 +65342,7 @@
 ]
 },
 {
-"id": "XIA-1178",
+"id": "XIA-1177",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65531,7 +65378,7 @@
 ]
 },
 {
-"id": "XIA-1179",
+"id": "XIA-1178",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65553,7 +65400,7 @@
 ]
 },
 {
-"id": "XIA-1180",
+"id": "XIA-1179",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65593,7 +65440,7 @@
 ]
 },
 {
-"id": "XIA-1181",
+"id": "XIA-1180",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65618,7 +65465,7 @@
 ]
 },
 {
-"id": "XIA-1182",
+"id": "XIA-1181",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65667,7 +65514,7 @@
 ]
 },
 {
-"id": "XIA-1183",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65692,7 +65539,7 @@
 ]
 },
 {
-"id": "XIA-1184",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65740,7 +65587,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65762,7 +65609,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65784,7 +65631,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65806,7 +65653,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65846,7 +65693,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65882,7 +65729,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65933,35 +65780,55 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
-"Xiaomi 17 Pro Max"
+"Xiaomi 17 Pro Max",
+"Xiaomi 17 Ultra",
+"Xiaomi 17 Ultra (China)"
 ],
 "released": [
-"2025-09"
+"2025-09",
+"2025-12",
+"2025-12"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Xiaomi 17 Pro Max, Xiaomi 17 Ultra. The rest match on specs: test before swapping. PanzerGlass sells one glass for the Xiaomi 17 Pro Max and 17 Ultra",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass Xiaomi 17 Pro Max | 17 Ultra",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-17-pro-max-17-ultra-ultra-wide-fit"
+],
+[
+"Proshop: PanzerGlass Xiaomi 17 Ultra | 17 Pro Max",
+"https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Xiaomi-17-Ultra-17-Pro-Max-Ultra-Wide-Fit/3453816"
+]
+],
 "codes": [
-"2509FPN0BC"
+"2509FPN0BC",
+"25128PNA1G, 2512BPNDAG",
+"25128PNA1C"
 ],
 "screens": [
+"6.9in",
+"6.9in",
 "6.9in"
 ],
 "dims": [
-"162.9 x 77.6 x 8 mm"
+"162.9 x 77.6 x 8 mm",
+"162.9 x 77.6 x 8.3 mm",
+"162.9 x 77.6 x 8.3 mm"
 ],
 "tags": [
 "fingerprint"
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65994,7 +65861,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66027,7 +65894,7 @@
 ]
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66072,7 +65939,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66094,40 +65961,7 @@
 ]
 },
 {
-"id": "XIA-1196",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 17 Ultra",
-"Xiaomi 17 Ultra (China)"
-],
-"released": [
-"2025-12",
-"2025-12"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"25128PNA1G, 2512BPNDAG",
-"25128PNA1C"
-],
-"screens": [
-"6.9in",
-"6.9in"
-],
-"dims": [
-"162.9 x 77.6 x 8.3 mm",
-"162.9 x 77.6 x 8.3 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "XIA-1197",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66152,7 +65986,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66180,7 +66014,7 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66229,7 +66063,7 @@
 ]
 },
 {
-"id": "XIA-1200",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66299,7 +66133,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66330,7 +66164,7 @@
 ]
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66352,7 +66186,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66377,7 +66211,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66399,7 +66233,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66427,7 +66261,7 @@
 ]
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66458,7 +66292,7 @@
 ]
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66489,7 +66323,7 @@
 ]
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66505,7 +66339,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66530,7 +66364,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66558,7 +66392,7 @@
 ]
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66586,7 +66420,7 @@
 ]
 },
 {
-"id": "XIA-1212",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66614,7 +66448,7 @@
 ]
 },
 {
-"id": "XIA-1213",
+"id": "XIA-1211",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66636,7 +66470,7 @@
 ]
 },
 {
-"id": "XIA-1214",
+"id": "XIA-1212",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66658,7 +66492,7 @@
 ]
 },
 {
-"id": "XIA-1215",
+"id": "XIA-1213",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66680,7 +66514,7 @@
 ]
 },
 {
-"id": "XIA-1216",
+"id": "XIA-1214",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66702,7 +66536,7 @@
 ]
 },
 {
-"id": "XIA-1217",
+"id": "XIA-1215",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66724,7 +66558,7 @@
 ]
 },
 {
-"id": "XIA-1218",
+"id": "XIA-1216",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66752,7 +66586,7 @@
 ]
 },
 {
-"id": "XIA-1219",
+"id": "XIA-1217",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66780,7 +66614,7 @@
 ]
 },
 {
-"id": "XIA-1220",
+"id": "XIA-1218",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66799,7 +66633,7 @@
 ]
 },
 {
-"id": "XIA-1221",
+"id": "XIA-1219",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66821,7 +66655,7 @@
 ]
 },
 {
-"id": "XIA-1222",
+"id": "XIA-1220",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66837,7 +66671,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1223",
+"id": "XIA-1221",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66859,7 +66693,7 @@
 ]
 },
 {
-"id": "XIA-1224",
+"id": "XIA-1222",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66881,7 +66715,7 @@
 ]
 },
 {
-"id": "XIA-1225",
+"id": "XIA-1223",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66903,7 +66737,7 @@
 ]
 },
 {
-"id": "XIA-1226",
+"id": "XIA-1224",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66925,7 +66759,7 @@
 ]
 },
 {
-"id": "XIA-1227",
+"id": "XIA-1225",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66947,7 +66781,7 @@
 ]
 },
 {
-"id": "XIA-1228",
+"id": "XIA-1226",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -210624,13 +210458,17 @@
 "2023-05",
 "2024-05"
 ],
-"check": "Check",
-"note": "A Japanese retailer sells one glass film for Xperia 10 VI SO-52E and Xperia 10 V SO-52D, case-friendly; single listing, Supershieldz sells them separately: test fit. Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "PanzerGlass sells one glass for the Xperia 10 V and 10 VI",
 "device": "Phone",
 "sources": [
 [
 "Wowma (Japan) seller",
 "https://wowma.jp/item/695658773"
+],
+[
+"PanzerGlass Sony Xperia 10 VI | 10 V (fits list: both)",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-sony-xperia-10-vi-ultra-wide-fit"
 ]
 ],
 "codes": [
@@ -210644,9 +210482,6 @@
 "dims": [
 "155 x 68 x 8.3 mm",
 "155 x 68 x 8.3 mm"
-],
-"tags": [
-"case-friendly"
 ]
 },
 {
