@@ -57529,22 +57529,33 @@
 "MOT"
 ],
 "models": [
-"Motorola Edge 50 Fusion"
+"Motorola Edge 50 Fusion",
+"Moto G85"
 ],
 "released": [
-"2024-04"
+"2024-04",
+"2024-06"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "PanzerGlass sells one Ultra-Wide Fit glass for the Motorola Edge 50 Fusion and Moto G85",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass Ultra-Wide Fit for Motorola Edge 50 Fusion / Moto G85 (Home Screen)",
+"https://homescreen.pl/en/edge-50-fusion/112817-panzerglass-ultra-wide-fit-motorola-edge-50-fusion-moto-g85-5715685005411.html"
+]
+],
 "codes": [
-"XT2429-1"
+"XT2429-1",
+"XT2427-3"
 ],
 "screens": [
-"6.7in"
+"6.7in",
+"6.67in"
 ],
 "dims": [
-"161.9 x 73.1 x 7.9 mm"
+"161.9 x 73.1 x 7.9 mm",
+"161.9 x 73.1 x 7.6 mm"
 ]
 },
 {
@@ -57674,31 +57685,6 @@
 "MOT"
 ],
 "models": [
-"Moto G85"
-],
-"released": [
-"2024-06"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2427-3"
-],
-"screens": [
-"6.67in"
-],
-"dims": [
-"161.9 x 73.1 x 7.6 mm"
-]
-},
-{
-"id": "MOT-1266",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
 "Motorola Razr 50",
 "Motorola Razr 2024",
 "Motorola Razr 2025",
@@ -57746,7 +57732,7 @@
 ]
 },
 {
-"id": "MOT-1267",
+"id": "MOT-1266",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57754,27 +57740,43 @@
 "models": [
 "Motorola Razr 50 Ultra",
 "Motorola Razr+ 2024",
-"Motorola Razr+ 2025"
+"Motorola Razr+ 2025",
+"Motorola Razr+ 2026",
+"Motorola Razr 70+"
 ],
 "released": [
 "2024-06",
 "2024-06",
-"2025-04"
+"2025-04",
+"2026-04",
+"2026-04"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping. Seller-confirmed for Motorola Razr 50 Ultra, Motorola Razr+ 2024; the rest match on specs. Same phone, two names. Glass is for the cover screen. Foldable: glass is for the outer (cover) screen",
+"note": "Sellers confirm Motorola Razr+ 2024, Motorola Razr+ 2025, Motorola Razr+ 2026. The rest match on specs: test before swapping. ZAGG sells one cover-screen protector for the Razr+ 2024, 2025 and 2026. Same phone, two names. Glass is for the cover screen. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"sources": [
+[
+"T-Mobile: ZAGG Fusion Curved Screen Protector for moto razr+ (2026/2025/2024)",
+"https://www.t-mobile.com/business/accessory/zagg-fusion-curved-screen-protector-for-moto-razrplus-2026-2025-2024-clear"
+]
+],
 "codes": [
 "XT2451-3",
 "",
-"XT2451-1"
+"XT2451-1",
+"",
+"XT2659-3"
 ],
 "screens": [
+"4in",
+"4in",
 "4in",
 "4in",
 "4in"
 ],
 "dims": [
+"88.1 x 74 x 15.3 mm",
+"88.1 x 74 x 15.3 mm",
 "88.1 x 74 x 15.3 mm",
 "88.1 x 74 x 15.3 mm",
 "88.1 x 74 x 15.3 mm"
@@ -57784,7 +57786,7 @@
 ]
 },
 {
-"id": "MOT-1268",
+"id": "MOT-1267",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57809,7 +57811,7 @@
 ]
 },
 {
-"id": "MOT-1269",
+"id": "MOT-1268",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57840,7 +57842,7 @@
 ]
 },
 {
-"id": "MOT-1270",
+"id": "MOT-1269",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57871,7 +57873,7 @@
 ]
 },
 {
-"id": "MOT-1271",
+"id": "MOT-1270",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57936,7 +57938,7 @@
 ]
 },
 {
-"id": "MOT-1272",
+"id": "MOT-1271",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57961,7 +57963,7 @@
 ]
 },
 {
-"id": "MOT-1273",
+"id": "MOT-1272",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57992,7 +57994,7 @@
 ]
 },
 {
-"id": "MOT-1274",
+"id": "MOT-1273",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58068,7 +58070,7 @@
 ]
 },
 {
-"id": "MOT-1275",
+"id": "MOT-1274",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58113,7 +58115,7 @@
 ]
 },
 {
-"id": "MOT-1276",
+"id": "MOT-1275",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58153,7 +58155,7 @@
 ]
 },
 {
-"id": "MOT-1277",
+"id": "MOT-1276",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58187,7 +58189,7 @@
 ]
 },
 {
-"id": "MOT-1278",
+"id": "MOT-1277",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58218,7 +58220,7 @@
 ]
 },
 {
-"id": "MOT-1279",
+"id": "MOT-1278",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58259,7 +58261,7 @@
 ]
 },
 {
-"id": "MOT-1280",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58292,7 +58294,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58326,7 +58328,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58360,7 +58362,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58385,7 +58387,7 @@
 ]
 },
 {
-"id": "MOT-1284",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58416,7 +58418,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58464,7 +58466,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58486,7 +58488,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58522,7 +58524,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58553,7 +58555,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58584,7 +58586,7 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58612,7 +58614,7 @@
 ]
 },
 {
-"id": "MOT-1291",
+"id": "MOT-1290",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58657,7 +58659,7 @@
 ]
 },
 {
-"id": "MOT-1292",
+"id": "MOT-1291",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58693,7 +58695,7 @@
 ]
 },
 {
-"id": "MOT-1293",
+"id": "MOT-1292",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58715,7 +58717,7 @@
 ]
 },
 {
-"id": "MOT-1294",
+"id": "MOT-1293",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58740,7 +58742,7 @@
 ]
 },
 {
-"id": "MOT-1295",
+"id": "MOT-1294",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58762,7 +58764,7 @@
 ]
 },
 {
-"id": "MOT-1296",
+"id": "MOT-1295",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58795,40 +58797,7 @@
 ]
 },
 {
-"id": "MOT-1297",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola Razr+ 2026",
-"Motorola Razr 70+"
-],
-"released": [
-"2026-04",
-"2026-04"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
-"device": "Phone",
-"codes": [
-"",
-"XT2659-3"
-],
-"screens": [
-"4in",
-"4in"
-],
-"dims": [
-"88.1 x 74 x 15.3 mm",
-"88.1 x 74 x 15.3 mm"
-],
-"tags": [
-"cover"
-]
-},
-{
-"id": "MOT-1298",
+"id": "MOT-1296",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58856,7 +58825,7 @@
 ]
 },
 {
-"id": "MOT-1299",
+"id": "MOT-1297",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58882,7 +58851,7 @@
 ]
 },
 {
-"id": "MOT-1300",
+"id": "MOT-1298",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58904,7 +58873,7 @@
 ]
 },
 {
-"id": "MOT-1301",
+"id": "MOT-1299",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58932,7 +58901,7 @@
 ]
 },
 {
-"id": "MOT-1302",
+"id": "MOT-1300",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58954,7 +58923,7 @@
 ]
 },
 {
-"id": "MOT-1303",
+"id": "MOT-1301",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58976,7 +58945,7 @@
 ]
 },
 {
-"id": "MOT-1304",
+"id": "MOT-1302",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58998,7 +58967,7 @@
 ]
 },
 {
-"id": "MOT-1305",
+"id": "MOT-1303",
 "brand": "Motorola",
 "brands": [
 "MOT"

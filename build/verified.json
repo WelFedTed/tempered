@@ -16271,5 +16271,34 @@
    }
   ],
   "note": "Samsung and PanzerGlass sell glass made for the Galaxy A33 5G."
+ },
+ {
+  "models": [
+   "Motorola Edge 50 Fusion",
+   "Moto G85"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit for Motorola Edge 50 Fusion / Moto G85 (Home Screen)",
+    "url": "https://homescreen.pl/en/edge-50-fusion/112817-panzerglass-ultra-wide-fit-motorola-edge-50-fusion-moto-g85-5715685005411.html"
+   }
+  ],
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Motorola Edge 50 Fusion and Moto G85."
+ },
+ {
+  "models": [
+   "Motorola Razr+ 2024",
+   "Motorola Razr+ 2025",
+   "Motorola Razr+ 2026"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "T-Mobile: ZAGG Fusion Curved Screen Protector for moto razr+ (2026/2025/2024)",
+    "url": "https://www.t-mobile.com/business/accessory/zagg-fusion-curved-screen-protector-for-moto-razrplus-2026-2025-2024-clear"
+   }
+  ],
+  "note": "ZAGG sells one cover-screen protector for the Razr+ 2024, 2025 and 2026."
  }
 ]
