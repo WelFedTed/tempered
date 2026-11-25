@@ -58,7 +58,45 @@ window.Tempered = (() => {
     });
     const brandOrder = d.brands.map(b => b[0]).filter(c => used.has(c))
       .sort((a, b) => brandNames[a].localeCompare(brandNames[b], 'en', {sensitivity: 'base'}));
-    return {built: d.built, groups, brandNames, brandNotes, brandOrder, modelCount, byId: Object.fromEntries(groups.map(g => [g.id, g]))};
+    // Groups that sellers show need different glass: never suggested as similar to each other
+    const apart = {};
+    for (const [a, b] of d.apart || []) { (apart[a] = apart[a] || new Set()).add(b); (apart[b] = apart[b] || new Set()).add(a); }
+    return {built: d.built, groups, brandNames, brandNotes, brandOrder, modelCount, apart, byId: Object.fromEntries(groups.map(g => [g.id, g]))};
+  }
+
+  // Similar sizes: groups whose glass may fit the given groups but isn't confirmed to.
+  // Same device type and screen shape, a screen within 0.05in, and a body within 1.5 mm in height and width.
+  const SIM = {screen: 0.05, body: 1.5};
+  const SHAPE = ['curved', 'cover', 'two-screens'];  // glass for these only fits its own kind
+  const shapeOf = g => SHAPE.filter(t => g.tags.includes(t)).join();
+  const sizeOf = m => {
+    const s = parseFloat(m[3]), d = /^([\d.]+) x ([\d.]+)/.exec(m[4] || '');
+    return s && d ? {name: m[0], s, h: +d[1], w: +d[2]} : null;
+  };
+  // Each result: {g, model (its closest model), to (the searched model it's compared with), ds, dh, dw}, closest first
+  function similar(cat, base, {tag = ''} = {}) {
+    const skip = new Set(base.map(g => g.id));
+    const kinds = new Set(base.map(g => g.dev + '|' + shapeOf(g)));
+    const from = base.flatMap(g => g.models.map(sizeOf).filter(Boolean).map(x => ({...x, gid: g.id})));
+    if (!from.length) return [];
+    const out = [];
+    for (const g of cat.groups) {
+      if (skip.has(g.id) || !kinds.has(g.dev + '|' + shapeOf(g)) || (tag && !g.tags.includes(tag))) continue;
+      let best = null;
+      for (const m of g.models) {
+        const x = sizeOf(m);
+        if (!x) continue;
+        for (const b of from) {
+          if (cat.apart[g.id] && cat.apart[g.id].has(b.gid)) continue;
+          const ds = x.s - b.s, dh = x.h - b.h, dw = x.w - b.w;
+          if (Math.abs(ds) > SIM.screen + 1e-9 || Math.abs(dh) > SIM.body + 1e-9 || Math.abs(dw) > SIM.body + 1e-9) continue;
+          const score = Math.abs(ds) * 20 + Math.abs(dh) + Math.abs(dw);
+          if (!best || score < best.score) best = {g, model: x, to: b, ds, dh, dw, score};
+        }
+      }
+      if (best) out.push(best);
+    }
+    return out.sort((a, b) => a.score - b.score || a.g.id.localeCompare(b.g.id));
   }
 
   // How the query matches one model's numbers, ignoring spaces and punctuation other than commas:
@@ -137,7 +175,8 @@ window.Tempered = (() => {
     return g.brands[0] === 'UNI' && best > 5 ? best - 5 : best;
   }
 
-  function search(cat, q, {dev = '', brand = ''} = {}) {
+  // The groups, best match first; with scores: true, [score, group] pairs
+  function search(cat, q, {dev = '', brand = '', scores = false} = {}) {
     // A search of only punctuation ("(", ",") matches nothing, rather than every group
     if (String(q).trim() && !terms(q).length) return [];
     q = tidy(q);
@@ -150,8 +189,16 @@ window.Tempered = (() => {
       if (s) out.push([s, g]);
     }
     out.sort((a, b) => b[0] - a[0] || b[1].latest.localeCompare(a[1].latest) || a[1].id.localeCompare(b[1].id));
-    return out.map(x => x[1]);
+    return scores ? out : out.map(x => x[1]);
+  }
+  // The groups a search is clearly about, for similar sizes: those scoring within 3 of the best, when the best
+  // matches a model name from its first word (40+), a model number or a code. Empty for a broad or unclear search.
+  function bestMatches(scored, max = 3) {
+    const top = scored.length ? scored[0][0] : 0;
+    if (top < 40) return [];
+    const best = scored.filter(x => x[0] >= top - 3).map(x => x[1]);
+    return best.length <= max ? best : [];
   }
 
-  return {TAGS, SITE, REPO, reportUrl, DEVICE, esc, norm, terms, month, highlight, linkCodes, load, search, codeMatches};
+  return {TAGS, SITE, REPO, reportUrl, DEVICE, SIM, esc, norm, terms, month, highlight, linkCodes, load, search, bestMatches, codeMatches, similar};
 })();

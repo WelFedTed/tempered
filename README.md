@@ -10,6 +10,7 @@
 **Site:** https://welfedted.github.io/tempered/
 
 - **Fit finder:** type a model or its model number (e.g. `A2221`, `SM-S938B`, `iphone a222`) and get its fit group code plus every other model that takes the same glass. Results show screen size and body dimensions for measuring, fit tags (ultrasonic fingerprint, cover screen only, two screens, measure first…), seller sources, and a **Report a fit** link that opens a pre-filled GitHub issue. Filter by device type, brand and fit tag, and sort the results.
+- **Similar Sized Protectors:** under the results for a specific model, other groups with the same screen size (within 0.05in) and a body within 1.5 mm, closest first, as glass to try when nothing confirmed is in stock. They're not confirmed to fit, and groups sellers have shown need different glass are left out.
 - **Label maker:** print divider tabs and pack stickers as PDFs for thermal label printers or A4 sheets, with a QR code in the top-right corner that opens the group in the fit finder, a Code 128 barcode of the label code (e.g. `APP-1014-C`) along the bottom, the fit tags in short form, and optionally a sell price you type in.
 - **Changes:** a changelog of every update to the fit groups (merged, split, new, renumbered, confirmed), with a button to print every label an update changed.
 - **Storage system:** a drawer layout and 3D-printable label dividers (STL and OpenSCAD).

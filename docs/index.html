@@ -84,6 +84,11 @@ main.band{padding-top:36px}
 table.ranges{border-collapse:collapse;font-size:15px;width:100%}
 table.ranges td{padding:6px 10px 6px 0;border-bottom:1px solid var(--line)}
 table.ranges .code{font-size:15px}
+.simsec{margin-top:44px;padding-top:28px;border-top:3px dashed var(--dash)}
+.simsec h2{margin:0 0 6px}
+.simsec .lead{margin:0 0 18px;color:var(--mute);font-size:15px;max-width:760px}
+.card.sim{border-style:dashed}
+.simdiff{margin:8px 0 0;padding:0 18px;font-size:14px;font-weight:700}
 .brandnote{background:var(--panel);border:2px solid var(--edge);border-radius:12px;padding:12px 16px;margin-bottom:16px;font-size:15px}
 </style>
 </head>
@@ -140,6 +145,13 @@ table.ranges .code{font-size:15px}
 <div id="results" class="results"></div>
 <button type="button" id="more" class="more" hidden>Show more</button>
 
+<section id="similar" class="simsec" aria-labelledby="simhead" hidden>
+<h2 id="simhead">Similar Sized Protectors</h2>
+<p class="lead" id="simlead"></p>
+<div id="simres" class="results"></div>
+<button type="button" id="simmore" class="more" hidden>Show more</button>
+</section>
+
 <section id="intro" hidden>
 <div class="explain">
 <div class="card"><h2>Number ranges</h2>
@@ -173,6 +185,9 @@ const $ = id => document.getElementById(id);
 const PAGE = 40;
 const TICK = '<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12l5 5L20 7"/></svg>';
 let CAT, NAMES, shownCount = PAGE, found = [], last = [];
+// Similar Sized Protectors: for searches clearly about SIM_MAX groups or fewer, SIM_PAGE at a time
+const SIM_MAX = 3, SIM_PAGE = 6;
+let similar = [], simBase = [], simShown = SIM_PAGE;
 // The catalogue with every model number removed, searched when "Include model numbers" is off
 const namesOnly = cat => ({...cat, groups: cat.groups.map(g => ({...g, ccodes: (g.ccodes || []).map(() => [])}))});
 const useCodes = () => $('mnos').checked;
@@ -191,7 +206,14 @@ $('q').value = params.get('q') || '';
 if (SORTS[params.get('sort')]) $('sort').value = params.get('sort');
 if (params.get('mno') === '0') $('mnos').checked = false;
 
-function cardHtml(g, terms, q = '') {
+// How a similar-size group differs from the searched model it's closest to
+function simDiff({model: x, to: b, ds, dh, dw}) {
+  const mm = (v, more, less) => Math.abs(v) < 0.05 ? '' : `${Math.abs(v).toFixed(1)} mm ${v > 0 ? more : less}`;
+  const body = [mm(dh, 'taller', 'shorter'), mm(dw, 'wider', 'narrower')].filter(Boolean);
+  return `vs ${b.name}: ${Math.abs(ds) < 0.005 ? `same ${b.s}in screen` : `${x.s}in screen (vs ${b.s}in)`}, ${body.length ? body.join(', ') : 'same body size'}`;
+}
+
+function cardHtml(g, terms, q = '', sim = null) {
   const hits = q ? Tempered.codeMatches(g, q) : [];
   const mno = h => h.slice(0, 4).map(c => Tempered.highlight(c, terms)).join(', ') + (h.length > 4 ? ` +${h.length - 4} more` : '');
   const size = (sc, dm) => sc || dm ? `<small class="size">${Tempered.esc([sc, dm && dm.replace(/ x /g, ' × ')].filter(Boolean).join(' · '))}</small>` : '';
@@ -200,10 +222,13 @@ function cardHtml(g, terms, q = '') {
   const report = `<p class="cnote rep"><a href="${Tempered.reportUrl(g)}" target="_blank" rel="noopener">Report a fit or a mistake</a></p>`;
   const src = g.sources.length ? `<p class="cnote srcs">Sources: ${g.sources.map(([n, u]) => /^https?:\/\//.test(u) ? `<a href="${Tempered.esc(u)}" rel="nofollow noopener" target="_blank">${Tempered.esc(n)}</a>` : Tempered.esc(n)).join(', ')}</p>` : '';
   const note = (g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '') + src;
-  return `<article class="card" id="${g.id}">
-<header><h3 class="code" style="margin:0">${g.id}</h3>${g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : '<span class="badge warn">Unverified</span>'}</header>
-<p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>${tags}
-<ul class="models">${ms}</ul>${note}${report}
+  // Similar-size cards: a dashed border, a "Similar size" badge and how the size differs, without the group's notes
+  const badge = sim ? '<span class="badge warn">Similar size</span>'
+    : g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : '<span class="badge warn">Unverified</span>';
+  return `<article class="card${sim ? ' sim' : ''}"${sim ? '' : ` id="${g.id}"`}>
+<header><h3 class="code" style="margin:0">${g.id}</h3>${badge}</header>
+<p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>${sim ? `<p class="simdiff">${Tempered.esc(simDiff(sim))}</p>` : ''}${tags}
+<ul class="models">${ms}</ul>${sim ? '' : note + report}
 <div class="acts"><a href="labels.html#${g.id}">Print labels</a><button type="button" data-copy="${g.id}">Copy code</button></div>
 </article>`;
 }
@@ -223,12 +248,29 @@ function run() {
   document.body.classList.toggle('searching', searching);
   $('resbar').hidden = !searching;
   if (!searching) {
-    $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true; return;
+    $('intro').hidden = false; $('results').innerHTML = ''; $('summary').textContent = ''; $('more').hidden = true;
+    similar = []; renderSimilar(); return;
   }
   $('intro').hidden = true;
   const tag = $('tag').value;
-  found = Tempered.search(useCodes() ? CAT : NAMES, q, {dev, brand}).filter(g => !tag || g.tags.includes(tag));
+  const scored = Tempered.search(useCodes() ? CAT : NAMES, q, {dev, brand, scores: true}).filter(([, g]) => !tag || g.tags.includes(tag));
+  found = scored.map(x => x[1]);
+  // Similar sizes only for the group(s) the search is clearly about: a broad search would suggest half the catalogue
+  simBase = Tempered.bestMatches(scored, SIM_MAX);
+  similar = simBase.length ? Tempered.similar(CAT, simBase, {tag}) : [];
+  simShown = SIM_PAGE;
   sortResults();
+  renderSimilar();
+}
+function renderSimilar() {
+  $('similar').hidden = !similar.length;
+  if (!similar.length) { $('simres').innerHTML = ''; return; }
+  const ids = simBase.map(g => g.id);
+  const list = ids.length > 1 ? ids.slice(0, -1).join(', ') + ' or ' + ids[ids.length - 1] : ids[0];
+  $('simlead').textContent = `Not confirmed to fit. These have the same screen size (within ${Tempered.SIM.screen}in) and a body within ${Tempered.SIM.body} mm of ${list}. Camera holes, notches and curved edges can still differ, so test the fit before you sell one as a match.`;
+  $('simres').innerHTML = similar.slice(0, simShown).map(s => cardHtml(s.g, [], '', s)).join('');
+  $('simmore').hidden = similar.length <= simShown;
+  $('simmore').textContent = `Show more (${similar.length - simShown} left)`;
 }
 function sortResults() {
   const cmp = SORTS[$('sort').value];
@@ -258,6 +300,7 @@ $('sort').addEventListener('change', () => {
   sortResults();
 });
 $('more').addEventListener('click', () => { shownCount += PAGE; render(); });
+$('simmore').addEventListener('click', () => { simShown += SIM_PAGE; renderSimilar(); });
 document.addEventListener('click', e => {
   const c = e.target.closest('[data-copy]');
   if (c) { navigator.clipboard?.writeText(c.dataset.copy).then(() => { c.textContent = 'Copied'; setTimeout(() => c.textContent = 'Copy code', 1200); }); return; }

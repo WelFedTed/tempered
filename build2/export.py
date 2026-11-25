@@ -17,6 +17,7 @@ groups, brands = d['groups'], d['brands']
 
 # Compact form, trailing empty fields dropped:
 # brands [[code, name, notes]]
+# apart  [[group id, group id]] known to need different glass
 # groups [[id, brand codes, device, check, note, models, sources, fit tags]]
 #   models  [[name, released, model numbers, screen size, body dimensions]]
 #   sources [[name, url]]
@@ -29,9 +30,19 @@ def per_model(g, key):
     return g.get(key) or [''] * len(g['models'])
 
 
+# Pairs of groups that sellers show need different glass ("separate" findings in build/verified.json),
+# so the site never suggests one as a similar-size glass to try for the other
+gid = {m: g['id'] for g in groups for m in g['models']}
+apart = set()
+for f in json.load(open(os.path.join(ROOT, 'build', 'verified.json'), encoding='utf-8')):
+    if f['fit'] != 'separate' or f.get('weak'): continue
+    ids = sorted({gid[m] for m in f['models'] if m in gid})
+    apart.update((x, y) for i, x in enumerate(ids) for y in ids[i + 1:])
+
 site = dict(
     built=datetime.date.today().isoformat(),
     brands=brands,
+    apart=sorted(list(x) for x in apart),
     groups=[trim([g['id'], g['brands'], g['device'], g['check'], g['note'],
                   [trim([m, r, c, sc, dm]) for m, r, c, sc, dm in
                    zip(g['models'], g['released'], per_model(g, 'codes'), per_model(g, 'screens'), per_model(g, 'dims'))],

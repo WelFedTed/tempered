@@ -1,7 +1,7 @@
 // Tempered offline support.
 // Pages, scripts and the catalogue are served network-first and fall back to the cache,
 // so the site works without internet once it has been opened, and updates show as soon as you're online.
-const CACHE = 'tempered-v5';
+const CACHE = 'tempered-v6';
 const CORE = [
   './', 'index.html', 'labels.html', 'storage.html', 'changes.html',
   'assets/site.css', 'assets/catalogue.js', 'data/catalogue.json', 'data/changelog.json',
