@@ -256,8 +256,8 @@ SHARED = [
 SINGLE = {
  ('APP', 'iPhone 15 Pro'): (C, 'Does not fit 16 Pro (bigger 6.3in screen)'),
  ('APP', 'iPhone 15 Pro Max'): (C, ''),
- ('APP', 'iPhone 12 mini'): (C, 'Belkin list'), ('APP', 'iPhone 12 Pro Max'): (C, 'Belkin list'),
- ('APP', 'iPhone 13 mini'): (C, 'Belkin list'), ('APP', 'iPhone 14 Pro'): (C, 'Belkin list'),
+ ('APP', 'iPhone 12 mini'): (C, ''), ('APP', 'iPhone 12 Pro Max'): (C, 'Belkin list'),
+ ('APP', 'iPhone 13 mini'): (C, ''), ('APP', 'iPhone 14 Pro'): (C, 'Belkin list'),
  ('APP', 'iPhone 14 Pro Max'): (C, 'Belkin list'),
  ('APP', 'iPhone 16 Pro Max'): (K, 'Some listings pair it with 17 Pro Max; Belkin sells separately'),
  ('APP', 'iPad Air 13 (M4)'): (K, 'May share the Air 13 M2/M3 group: test first'),

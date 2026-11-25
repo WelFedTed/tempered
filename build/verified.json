@@ -15432,5 +15432,47 @@
    }
   ],
   "note": "Gadget Guard, Deltaco, Selencia and AlzaGuard each sell one glass for the A54 5G and S23 FE: both are 6.4in with near-identical bodies."
+ },
+ {
+  "models": [
+   "iPhone 12 mini",
+   "iPhone 13 mini"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Belkin FAQ: separate glass for each iPhone 12 and 13 model",
+    "url": "https://www.belkin.com/cn/support-article/?articleNum=324596"
+   },
+   {
+    "name": "tech21 ImpactGlass for iPhone 13 mini (also fits 12 mini)",
+    "url": "https://uk.tech21.com/products/impact-glass-iphone-13-mini-screen-protector"
+   }
+  ],
+  "note": "Belkin, ZAGG, Spigen and ESR sell separate glass for the 12 mini and 13 mini. Belkin says 12-series glass won't fully cover a 13-series screen, and 13-series glass on a 12 can block Face ID. tech21 says its 13 mini ImpactGlass also fits the 12 mini."
+ },
+ {
+  "models": [
+   "iPhone 12 mini"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Belkin FAQ: separate glass for each iPhone 12 and 13 model",
+    "url": "https://www.belkin.com/cn/support-article/?articleNum=324596"
+   }
+  ]
+ },
+ {
+  "models": [
+   "iPhone 13 mini"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Belkin FAQ: separate glass for each iPhone 12 and 13 model",
+    "url": "https://www.belkin.com/cn/support-article/?articleNum=324596"
+   }
+  ]
  }
 ]

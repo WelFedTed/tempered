@@ -1480,8 +1480,18 @@
 "2020-10"
 ],
 "check": "Confirmed",
-"note": "Belkin list",
+"note": "Belkin, ZAGG, Spigen and ESR sell separate glass for the 12 mini and 13 mini. Belkin says 12-series glass won't fully cover a 13-series screen, and 13-series glass on a 12 can block Face ID. tech21 says its 13 mini ImpactGlass also fits the 12 mini",
 "device": "Phone",
+"sources": [
+[
+"Belkin FAQ: separate glass for each iPhone 12 and 13 model",
+"https://www.belkin.com/cn/support-article/?articleNum=324596"
+],
+[
+"tech21 ImpactGlass for iPhone 13 mini (also fits 12 mini)",
+"https://uk.tech21.com/products/impact-glass-iphone-13-mini-screen-protector"
+]
+],
 "codes": [
 "A2399, A2176, A2398, A2400, iPhone13,1"
 ],
@@ -1560,8 +1570,18 @@
 "2021-09"
 ],
 "check": "Confirmed",
-"note": "Belkin list",
+"note": "Belkin, ZAGG, Spigen and ESR sell separate glass for the 12 mini and 13 mini. Belkin says 12-series glass won't fully cover a 13-series screen, and 13-series glass on a 12 can block Face ID. tech21 says its 13 mini ImpactGlass also fits the 12 mini",
 "device": "Phone",
+"sources": [
+[
+"Belkin FAQ: separate glass for each iPhone 12 and 13 model",
+"https://www.belkin.com/cn/support-article/?articleNum=324596"
+],
+[
+"tech21 ImpactGlass for iPhone 13 mini (also fits 12 mini)",
+"https://uk.tech21.com/products/impact-glass-iphone-13-mini-screen-protector"
+]
+],
 "codes": [
 "A2628, A2481, A2626, A2629, A2630, iPhone14,4"
 ],
