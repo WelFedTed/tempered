@@ -5324,19 +5324,6 @@
  },
  {
   "models": [
-   "Xperia 10 VII"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-sony-xperia-10-vii-3mk-flexibleglass-pro"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass Pro hybrid glass for the Xperia 10 VII alone; hybrid glass, not tempered."
- },
- {
-  "models": [
    "Xperia 1 VIII"
   ],
   "fit": "own",
@@ -5347,19 +5334,6 @@
    }
   ],
   "note": "3MK sells FlexibleGlass hybrid glass for the Xperia 1 VIII alone; hybrid glass, not tempered."
- },
- {
-  "models": [
-   "Xperia 10 VIII"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-sony-xperia-10-viii-3mk-flexibleglass"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass hybrid glass for the Xperia 10 VIII alone; hybrid glass, not tempered."
  },
  {
   "models": [
@@ -9956,6 +9930,14 @@
    {
     "name": "Bizon Glass (Home Screen)",
     "url": "https://homescreen.pl/en/400-smart/125891-bizon-glass-clear-2-honor-x7d-honor-400-smart-5900415722595.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Honor X7d / Honor 400 Smart, black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/honor-x7/130523-bizon-glass-edge-duo-honor-x7d-honor-400-smart-black-frame-2-pack-5900415735700.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Honor X7d / Honor 400 Smart [2 PACK]",
+    "url": "https://homescreen.pl/en/honor-x7/130511-bizon-glass-clear-duo-honor-x7d-honor-400-smart-2-pack-5900415735526.html"
    }
   ],
   "note": "Bizon sells one glass for 'Honor X7d / Honor 400 Smart'; listing does not say 4G or 5G, so check the variant."
@@ -10427,10 +10409,17 @@
    {
     "name": "Bizon Smart Glass 2.5D (Home Screen)",
     "url": "https://homescreen.pl/en/741-moto-g50-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Smart Glass 2.5D Motorola Moto G15 / G15 Power / G05 / E15 / G56 5G",
+    "url": "https://homescreen.pl/en/moto-g15/130249-bizon-smart-glass-25d-motorola-moto-g15-g15-power-g05-e15-g56-5g-5900415734185.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Motorola Moto G15 / G15 Power / G05 / E15 / G56 5G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/moto-g15/125487-bizon-glass-edge-duo-motorola-moto-g15-g15-power-g05-e15-g56-5g-black-frame-2-pack-5900415719663.html"
    }
   ],
-  "note": "Bizon sells one glass listed for G15, G15 Power, G05, E15 and G56 5G; only one brand pairs the G56, so test fit.",
-  "weak": true
+  "note": "Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl)."
  },
  {
   "models": [
@@ -10530,6 +10519,14 @@
    {
     "name": "Bizon (Home Screen)",
     "url": "https://homescreen.pl/en/741-moto-g50-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Smart 2.5D Glass Motorola Moto G57 Power / G67 Power",
+    "url": "https://homescreen.pl/en/moto-g57/132589-bizon-smart-25d-glass-motorola-moto-g57-power-g67-power-5900415734673.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Motorola Moto G57 Power / G67 Power, black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/moto-g57/130525-bizon-glass-edge-duo-motorola-moto-g57-power-g67-power-black-frame-2-pack-5900415735724.html"
    }
   ],
   "note": "Bizon sells several glass SKUs each listed for G57 Power and G67 Power."
@@ -10544,10 +10541,13 @@
    {
     "name": "MyScreen Diamond Glass (Home Screen)",
     "url": "https://homescreen.pl/en/741-moto-g50-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G57 5G / G57 Power black",
+    "url": "https://homescreen.pl/en/moto-g57/139780-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g57-5g-g57-power-black-5904433274340.html"
    }
   ],
-  "note": "MyScreen Diamond Glass Edge Lite is listed for both G57 5G and G57 Power; 3MK sells separate SKUs, so test fit.",
-  "weak": true
+  "note": "MyScreen sells one glass for the Moto G57 and Moto G57 Power (Homescreen.pl)."
  },
  {
   "models": [
@@ -10633,6 +10633,10 @@
    {
     "name": "3MK HardGlass (Home Screen)",
     "url": "https://homescreen.pl/en/744-moto-g20-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Motorola Moto G04 / G24 / G34 5G",
+    "url": "https://homescreen.pl/en/moto-g24/73190-3mk-hardglass-motorola-moto-g04-g24-g34-5g-5903108559997.html"
    }
   ],
   "note": "3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34."
@@ -10647,6 +10651,14 @@
    {
     "name": "MyScreen Diamond Glass (Home Screen)",
     "url": "https://homescreen.pl/en/744-moto-g20-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Motorola Moto G13/G23 black Full Glue",
+    "url": "https://homescreen.pl/en/moto-g23/57365-myscreen-diamond-glass-edge-lite-fg-motorola-moto-g13-g23-black-full-glue-5904433218900.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Motorola Moto G13/G23",
+    "url": "https://homescreen.pl/en/moto-g23/51563-3mk-flexibleglass-motorola-moto-g13-g23-5903108513593.html"
    }
   ],
   "note": "MyScreen sells one glass for G13 and G23; G53 not confirmed."
@@ -10663,10 +10675,13 @@
    {
     "name": "Bizon Glass Clear Duo (Home Screen)",
     "url": "https://homescreen.pl/en/745-moto-g10-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Motorola Moto G14 4G / G54 5G / G54 Power 5G / G55 5G [2 PACK]",
+    "url": "https://homescreen.pl/en/moto-g14/125483-bizon-glass-clear-duo-motorola-moto-g14-4g-g54-5g-g54-power-5g-g55-5g-2-pack-5900415718437.html"
    }
   ],
-  "note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit.",
-  "weak": true
+  "note": "Bizon sells one glass for the Moto G14, Moto G54, Moto G54 Power and Moto G55 (Homescreen.pl)."
  },
  {
   "models": [
@@ -10748,6 +10763,10 @@
    {
     "name": "Bizon Glass Clear (Home Screen)",
     "url": "https://homescreen.pl/en/771-moto-e40"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Motorola Moto E40 / E30",
+    "url": "https://homescreen.pl/en/moto-e40/91560-bizon-glass-clear-motorola-moto-e40-e30-5904665303887.html"
    }
   ],
   "note": "Bizon sells one glass for E40 and E30; Lenovo K14 Plus not named."
@@ -10777,10 +10796,17 @@
    {
     "name": "MyScreen Diamond Glass (Home Screen)",
     "url": "https://homescreen.pl/en/865-moto-e22s"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Moto E22/E22s black Full Glue",
+    "url": "https://homescreen.pl/en/moto-e22s/57361-myscreen-diamond-glass-edge-lite-fg-moto-e22-e22s-black-full-glue-5904433213264.html"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Moto E22/E22s black Full Glue",
+    "url": "https://homescreen.pl/en/moto-e22s/57149-myscreen-diamond-glass-edge-fg-moto-e22-e22s-black-full-glue-5904433213134.html"
    }
   ],
-  "note": "MyScreen sells one full-glue glass for E22 and E22s; only one brand seen, so test fit.",
-  "weak": true
+  "note": "MyScreen sells one glass for the Moto E22 and Moto E22s (Homescreen.pl)."
  },
  {
   "models": [
@@ -10837,6 +10863,10 @@
    {
     "name": "PanzerGlass Screen Protector Motorola Edge 50 Pro | Ultra | Ultra-Wide Fit",
     "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-50-pro-ultra-ultra-wide-fit"
+   },
+   {
+    "name": "Homescreen.pl: PanzerGlass Ultra-Wide Fit Motorola Edge 50 Pro / 50 Ultra",
+    "url": "https://homescreen.pl/en/moto-edge-50-ultra/112818-panzerglass-ultra-wide-fit-motorola-edge-50-pro-50-ultra-5715685001024.html"
    }
   ],
   "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Edge 50 Pro and Edge 50 Ultra; both have curved screens."
@@ -10892,6 +10922,10 @@
    {
     "name": "MyScreen Diamond Glass (Home Screen)",
     "url": "https://homescreen.pl/en/1692-moto-edge-30-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Motorola Edge 30 Pro/Edge X30 black Full Glue",
+    "url": "https://homescreen.pl/en/moto-edge-30-pro/57362-myscreen-diamond-glass-edge-lite-fg-motorola-edge-30-pro-edge-x30-black-full-glue-5904433206686.html"
    }
   ],
   "note": "MyScreen sells one full-glue glass for Edge 30 Pro and Edge X30."
@@ -11726,6 +11760,10 @@
    {
     "name": "homescreen.pl (Bizon, 3MK)",
     "url": "https://homescreen.pl/en/2612-oppo-reno16-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Oppo Reno16 / Reno16 Pro 5G [2 PACK]",
+    "url": "https://homescreen.pl/en/oppo-reno16/148478-bizon-glass-clear-duo-oppo-reno16-reno16-pro-5g-2-pack-5900415764014.html"
    }
   ],
   "note": "Coolblue (Just in Case, BlueBuilt), Bizon and 3MK all sell one glass for Reno16 and Reno16 Pro."
@@ -11846,6 +11884,10 @@
    {
     "name": "Bizon (homescreen.pl)",
     "url": "https://homescreen.pl/en/realme-c50-series/92316-bizon-glass-clear-2-realme-c55-oneplus-nord-ce-3-lite-5904665361955.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Realme 14x 5G / C55 / C75 / OnePlus Nord CE 3 Lite / Oppo A60 4G [2 PACK]",
+    "url": "https://homescreen.pl/en/realme-14x/119210-bizon-glass-clear-duo-realme-14x-5g-c55-c75-oneplus-nord-ce-3-lite-oppo-a60-4g-2-pack-5900415718482.html"
    }
   ],
   "note": "Bizon sells Glass Clear Duo for Realme 14x 5G/C55/C75/Nord CE 3 Lite/Oppo A60 4G, and Clear 2 for C55/Nord CE 3 Lite. Case-friendly flat glass."
@@ -11879,6 +11921,14 @@
    {
     "name": "Bizon (homescreen.pl)",
     "url": "https://homescreen.pl/en/109191-bizon-glass-clear-2-realme-14-5g-14t-5g.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Smart 2.5D Glass Realme 14 5G / 14T 5G",
+    "url": "https://homescreen.pl/en/realme-14/132607-bizon-smart-25d-glass-realme-14-5g-14t-5g-5900415734550.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Realme 14 5G / 14T 5G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/realme-14/126312-bizon-glass-edge-duo-realme-14-5g-14t-5g-black-frame-2-pack-5900415719755.html"
    }
   ],
   "note": "Bizon Glass Clear 2 is sold for Realme 14 5G / 14T 5G."
@@ -11908,6 +11958,10 @@
    {
     "name": "digitec (3MK)",
     "url": "https://www.digitec.ch/en/s1/product/3mk-flexibleglass-pro-1-pcs-oppo-a57-5g-oppo-a57e-oppo-a57s-mobile-phone-screen-protectors-52429536"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Oppo A57/A57e/A57s",
+    "url": "https://homescreen.pl/en/oppo-a57/45391-3mk-flexibleglass-oppo-a57-a57e-a57s-5903108493406.html"
    }
   ],
   "note": "3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s."
@@ -14348,6 +14402,10 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/109731-bizon-edge-2-pack-2x-tempered-glass-lens-protection-xiaomi-redmi-a5-4g-poco-c71-4g.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi A5 4G / POCO C71 4G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/redmi-a5/125488-bizon-glass-edge-duo-xiaomi-redmi-a5-4g-poco-c71-4g-black-frame-2-pack-5900415720041.html"
    }
   ],
   "note": "Bizon sells one glass for Redmi A5 4G and Poco C71 (clear and edge versions)."
@@ -14569,6 +14627,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/redmi-note-14/130250-bizon-smart-glass-25d-xiaomi-redmi-note-14-poco-m7-pro-5g-5900415734192.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi Note 14 4G / 5G / POCO M7 Pro 5G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/redmi-note-14/120279-bizon-glass-edge-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-black-frame-2-pack-5900415720058.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Xiaomi Redmi Note 14 4G / 5G / POCO M7 Pro 5G [2 PACK]",
+    "url": "https://homescreen.pl/en/redmi-note-14/119406-bizon-glass-clear-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-2-pack-5900415718208.html"
    }
   ],
   "note": "Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G."
@@ -14584,6 +14650,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1342-redmi-note-14-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Redmi Note 14 Pro 4G / 5G / Pro+ Plus black",
+    "url": "https://homescreen.pl/en/redmi-note-14-pro/148542-3mk-hardglass-max-redmi-note-14-pro-4g-5g-pro-plus-black-5903108756044.html"
    }
   ],
   "note": "3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass."
@@ -14630,6 +14700,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/692-redmi-note-11-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi Note 11 / 11S 4G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/redmi-note-1111s/120243-bizon-glass-edge-duo-xiaomi-redmi-note-11-11s-4g-black-frame-2-pack-5900415719496.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Redmi Note 11 / 11s black",
+    "url": "https://homescreen.pl/en/redmi-note-1111s/95059-bizon-glass-edge-redmi-note-11-11s-black-5904665399538.html"
    }
   ],
   "note": "Bizon Glass Edge is sold for Redmi Note 11 / 11S as one product; Poco M4 Pro and Note 12S not confirmed."
@@ -14645,6 +14723,10 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/1013-redmi-note-10-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Poco M5s / Redmi Note 10 / 10s",
+    "url": "https://homescreen.pl/en/poco-m5s/94664-bizon-glass-clear-2-poco-m5s-redmi-note-10-10s-5904665315958.html"
    }
   ],
   "note": "Bizon Glass Clear 2 is sold for Poco M5s / Redmi Note 10 / 10S as one product."
@@ -14659,6 +14741,10 @@
    {
     "name": "MyScreen via Homescreen.pl",
     "url": "https://homescreen.pl/en/1044-redmi-10-series"
+   },
+   {
+    "name": "Homescreen.pl: Tempered glass MyScreen Diamond Glass Edge Full Glue Xiaomi Redmi 10C / 10 Power black",
+    "url": "https://homescreen.pl/en/redmi-10/80198-tempered-glass-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-10c-10-power-black-5904433209892.html"
    }
   ],
   "note": "MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product (catalogue has them in separate groups)."
@@ -14674,6 +14760,10 @@
    {
     "name": "MyScreen via Homescreen.pl",
     "url": "https://homescreen.pl/en/1043-redmi-9-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Xiaomi Redmi 9A/9C/9AT black Full Glue",
+    "url": "https://homescreen.pl/en/redmi-9a/56610-myscreen-diamond-glass-edge-fg-xiaomi-redmi-9a-9c-9at-black-full-glue-5901924981855.html"
    }
   ],
   "note": "MyScreen Diamond Glass is sold for Redmi 9A / 9C / 9AT; 3MK HardGlass also lists 9A and 9C together."
@@ -14689,6 +14779,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1043-redmi-9-series"
+   },
+   {
+    "name": "Homescreen.pl: Tempered glass 3MK HardGlass for Xiaomi Redmi 9 / 9A / 9C",
+    "url": "https://homescreen.pl/en/redmi-9/109005-tempered-glass-3mk-hardglass-for-xiaomi-redmi-9-9a-9c-5903108296267.html"
    }
   ],
   "note": "3MK HardGlass is sold for Redmi 9 / 9A / 9C as one product; PanzerGlass has separate 9 and 9A SKUs, so test before swapping."
@@ -14708,6 +14802,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1079-redmi-13-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Xiaomi Redmi 13C 4G / 13C 5G / POCO C65",
+    "url": "https://homescreen.pl/en/redmi-13c/75474-3mk-hardglass-xiaomi-redmi-13c-4g-13c-5g-poco-c65-5903108565905.html"
    }
   ],
   "note": "3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed."
@@ -14722,6 +14820,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1079-redmi-13-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi 13 4G / 5G",
+    "url": "https://homescreen.pl/en/redmi-13/101058-3mk-flexibleglass-xiaomi-redmi-13-4g-5g-5903108576642.html"
    }
   ],
   "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product."
@@ -14736,6 +14838,10 @@
    {
     "name": "MyScreen via Homescreen.pl",
     "url": "https://homescreen.pl/en/1046-redmi-12-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi 12 5G / 4G / 12R black",
+    "url": "https://homescreen.pl/en/redmi-12-series/67280-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-12-5g-4g-12r-black-5904433225311.html"
    }
   ],
   "note": "MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product."
@@ -14823,6 +14929,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/2324-xiaomi-14-series"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi 14T / 14T Pro black",
+    "url": "https://homescreen.pl/en/xiaomi-14t-14t-pro/139731-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-14t-14t-pro-black-5904433243049.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi 14T / 14T Pro",
+    "url": "https://homescreen.pl/en/xiaomi-14t-14t-pro/132820-bizon-smart-25d-glass-xiaomi-14t-14t-pro-5900415734161.html"
    }
   ],
   "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
@@ -14837,6 +14951,14 @@
    {
     "name": "PanzerGlass via Homescreen.pl",
     "url": "https://homescreen.pl/en/2325-xiaomi-13-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Xiaomi 13T Pro / 13T [2 PACK]",
+    "url": "https://homescreen.pl/en/xiaomi-13t-13t-pro/119952-bizon-glass-clear-duo-xiaomi-13t-pro-13t-2-pack-5900415718758.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Xiaomi 13T / 13T Pro",
+    "url": "https://homescreen.pl/en/xiaomi-13t-13t-pro/96215-bizon-glass-clear-2-xiaomi-13t-13t-pro-5904665348628.html"
    }
   ],
   "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
@@ -14851,6 +14973,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi 12T / 12T Pro black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/xiaomi-12tpro/120280-bizon-glass-edge-duo-xiaomi-12t-12t-pro-black-frame-2-pack-5900415719922.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge 2 Xiaomi 12T / 12T Pro black",
+    "url": "https://homescreen.pl/en/xiaomi-12tpro/94098-bizon-glass-edge-2-xiaomi-12t-12t-pro-black-5904665387061.html"
    }
   ],
   "note": "Bizon Glass Edge and 3MK FlexibleGlass are sold for Xiaomi 12T / 12T Pro; Redmi K50 Ultra not confirmed."
@@ -14879,10 +15009,13 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Xiaomi 13 Pro/12 Pro black",
+    "url": "https://homescreen.pl/en/xiaomi-13-pro/60050-3mk-hardglass-max-xiaomi-13-pro-12-pro-black-5903108529044.html"
    }
   ],
-  "note": "3MK HardGlass Max is sold for Xiaomi 13 Pro / 12 Pro as one product. Curved screens; only one brand seen.",
-  "weak": true
+  "note": "3MK sells one glass for the Xiaomi 12 Pro and Xiaomi 13 Pro (Homescreen.pl)."
  },
  {
   "models": [
@@ -14912,6 +15045,14 @@
    {
     "name": "3MK via AIO.lv",
     "url": "https://aio.lv/en/product--3mk-5903108653961--11419304.md"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Aplikator Edge Xiaomi POCO F7 Pro / F7 Ultra [2 PACK]",
+    "url": "https://homescreen.pl/en/poco-f7-pro/137706-bizon-glass-aplikator-edge-xiaomi-poco-f7-pro-f7-ultra-2-pack-5900415745884.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Aplikator Edge Xiaomi POCO F7 Pro / F7 Ultra",
+    "url": "https://homescreen.pl/en/poco-f7-pro/137692-bizon-glass-aplikator-edge-xiaomi-poco-f7-pro-f7-ultra-5900415747468.html"
    }
   ],
   "note": "3MK HardGlass and Bizon Clear/Edge/Smart glass are each sold for Poco F7 Pro / F7 Ultra as one product (catalogue has them in separate groups)."
@@ -14926,6 +15067,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/892-poco-f5-pro"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Xiaomi POCO F5 / F5 Pro [2 PACK]",
+    "url": "https://homescreen.pl/en/poco-f5/119944-bizon-glass-clear-duo-xiaomi-poco-f5-f5-pro-2-pack-5900415718505.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 POCO F5 / F5 Pro",
+    "url": "https://homescreen.pl/en/poco-f5-pro/94558-bizon-glass-clear-2-poco-f5-f5-pro-5904665357286.html"
    }
   ],
   "note": "Bizon Glass Clear 2 is sold for Poco F5 / F5 Pro; Bizon edge glass is model-specific and the bodies differ, so only the clear (non-edge) glass is shared."
@@ -14992,6 +15141,14 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/1084-poco-x6-pro-5g"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Smart Glass 2.5D Xiaomi POCO X6 Pro / X7 Pro",
+    "url": "https://homescreen.pl/en/poco-x6-pro-5g/130248-bizon-smart-glass-25d-xiaomi-poco-x6-pro-x7-pro-5900415734314.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi POCO X6 Pro / X7 Pro black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/poco-x6-pro-5g/120237-bizon-glass-edge-duo-xiaomi-poco-x6-pro-x7-pro-black-frame-2-pack-5900415720010.html"
    }
   ],
   "note": "Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)."
@@ -15051,6 +15208,10 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/792-poco-m4-pro-5g"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Poco M4 Pro 5G / Redmi Note 11S 5G black",
+    "url": "https://homescreen.pl/en/redmi-note-11s-5g/94596-bizon-glass-edge-poco-m4-pro-5g-redmi-note-11s-5g-black-5904665305133.html"
    }
   ],
   "note": "Bizon Glass Edge and Clear are sold for Poco M4 Pro 5G / Redmi Note 11S 5G as one product."
@@ -15065,6 +15226,10 @@
    {
     "name": "Hofi via Homescreen.pl",
     "url": "https://homescreen.pl/en/683-poco-m3-pro"
+   },
+   {
+    "name": "Homescreen.pl: Hofi Glass Pro+ POCO M3 Pro 5G/Redmi Note 10 5G Black",
+    "url": "https://homescreen.pl/en/poco-m3-pro/27038-hofi-glass-pro-poco-m3-pro-5gredmi-note-10-5g-black-6216990212222.html"
    }
   ],
   "note": "Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product."
@@ -15097,6 +15262,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1042-redmi-8-series"
+   },
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Lite Redmi 8/8A black",
+    "url": "https://homescreen.pl/en/redmi-8/15741-3mk-hardglass-max-lite-redmi-88a-black-5903108207218.html"
    }
   ],
   "note": "3MK HardGlass Max Lite is sold for Redmi 8 / 8A as one product."
@@ -15387,10 +15556,13 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/807-redmi-note-11-pro-5g"
+   },
+   {
+    "name": "Homescreen.pl: 3MK NeoGlass Redmi Note 11 Pro 5G/Pro+ 5G black",
+    "url": "https://homescreen.pl/en/redmi-note-11-pro-5g/30700-3mk-neoglass-redmi-note-11-pro-5gpro-5g-black-5903108449021.html"
    }
   ],
-  "note": "3MK NeoGlass, HardGlass Max and HardGlass Max Lite are each sold for Redmi Note 11 Pro 5G / Pro+ 5G; Bizon sells a separate Pro+ glass, so test first.",
-  "weak": true
+  "note": "3MK sells one glass for the Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (Homescreen.pl)."
  },
  {
   "models": [
@@ -15402,6 +15574,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/808-redmi-note-11t-5g"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi Note 11S 5G/11T 5G",
+    "url": "https://homescreen.pl/en/redmi-note-11t-5g/39615-3mk-flexibleglass-xiaomi-redmi-note-11s-5g11t-5g-5903108489768.html"
    }
   ],
   "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi Note 11S 5G / 11T 5G as one product."
@@ -16598,6 +16774,14 @@
    {
     "name": "Proshop: PanzerGlass Xiaomi 17 Ultra | 17 Pro Max",
     "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Xiaomi-17-Ultra-17-Pro-Max-Ultra-Wide-Fit/3453816"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Xiaomi 17 Ultra / 17 Pro Max [2 PACK]",
+    "url": "https://homescreen.pl/en/xiaomi-17-ultra/136584-bizon-glass-clear-duo-xiaomi-17-ultra-17-pro-max-2-pack-5900415744320.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi 17 Ultra / 17 Pro Max, black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/xiaomi-17-ultra/136571-bizon-glass-edge-duo-xiaomi-17-ultra-17-pro-max-black-frame-2-pack-5900415744252.html"
    }
   ],
   "note": "PanzerGlass sells one glass for the Xiaomi 17 Pro Max and 17 Ultra."
@@ -16649,5 +16833,944 @@
    }
   ],
   "note": "PanzerGlass sells one glass for the Galaxy Watch7 and Watch8 44mm."
+ },
+ {
+  "models": [
+   "Redmi A2",
+   "Redmi A2+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Xiaomi Redmi A2/A2+ Full Glue black",
+    "url": "https://homescreen.pl/en/redmi-a2/63349-myscreen-diamond-glass-edge-lite-fg-xiaomi-redmi-a2-a2-full-glue-black-5904433219020.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi A2/A2+",
+    "url": "https://homescreen.pl/en/redmi-a2/54386-3mk-flexibleglass-xiaomi-redmi-a2-a2-5903108520348.html"
+   }
+  ],
+  "note": "3MK and MyScreen sell one glass for the Redmi A2 and Redmi A2+ (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 5",
+   "Xiaomi Pad 5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: GrizzGlass HybridGlass Xiaomi Pad 5 / 5 Pro",
+    "url": "https://homescreen.pl/en/xiaomi-pad/44077-grizzglass-hybridglass-xiaomi-pad-5-pro-5904063535293.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 5 / 5 Pro",
+    "url": "https://homescreen.pl/en/xiaomi-pad/44685-3mk-flexibleglass-xiaomi-pad-5-pro-5903108490405.html"
+   }
+  ],
+  "note": "3MK and GrizzGlass sell one hybrid glass for the Xiaomi Pad 5 and Xiaomi Pad 5 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "OnePlus Pad 2",
+   "OnePlus Pad Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Hybrid glass 3MK FlexibleGlass OnePlus Pad 2 / Pad Pro",
+    "url": "https://homescreen.pl/en/oneplus-pad-2-pad-pro/79462-hybrid-glass-3mk-flexibleglass-oneplus-pad-pro-13-5903108590013.html"
+   },
+   {
+    "name": "Homescreen.pl: Hybrid glass 3MK FlexibleGlass OnePlus Pad 2 / Pad Pro",
+    "url": "https://homescreen.pl/en/oneplus-pad-2-pad-pro/79461-hybrid-glass-3mk-flexibleglass-oneplus-pad-2-13-5903108597562.html"
+   }
+  ],
+  "note": "3MK and GrizzGlass sell one hybrid glass for the OnePlus Pad 2 and OnePlus Pad Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy S25 FE",
+   "Galaxy S26 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Samsung Galaxy S25 FE / S26 FE black",
+    "url": "https://homescreen.pl/en/galaxy-s25-fe/150887-3mk-hardglass-max-samsung-galaxy-s25-fe-s26-fe-black-5903108789318.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A17",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
+   }
+  ],
+  "note": "Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A17",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Smart 2.5D Glass Samsung Galaxy A16 4G/5G / A17 5G / A26 5G",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/130579-bizon-smart-25d-glass-samsung-galaxy-a16-4g5g-a17-5g-a26-5g-5900415734130.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Samsung Galaxy A16 4G / 5G / A17 5G / A26 5G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/120204-bizon-glass-edge-duo-samsung-galaxy-a16-4g-5g-a17-5g-a26-5g-black-frame-2-pack-5900415719793.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A23",
+   "Galaxy A23 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Szkło hartowane Bizon Glass Clear Duo Samsung Galaxy A23 4G / 5G [2 PACK]",
+    "url": "https://homescreen.pl/en/galaxy-a23-5g/119990-szklo-hartowane-bizon-glass-clear-duo-samsung-galaxy-a23-4g-5g-2-pack-5900415718802.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Samsung Galaxy A23 4G / 5G",
+    "url": "https://homescreen.pl/en/galaxy-a23-5g/92647-bizon-glass-clear-2-samsung-galaxy-a23-4g-5g-5904665365922.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Galaxy A23 and Galaxy A23 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Samsung Galaxy A16 4G / 5G black",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/139726-myscreen-diamond-glass-edge-lite-full-glue-samsung-galaxy-a16-4g-5g-black-5904433241168.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A17"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Aplikator Shadow Samsung Galaxy A16 / A17",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/135653-bizon-glass-aplikator-shadow-samsung-galaxy-a16-a17-5900415743613.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Aplicator Edge Samsung Galaxy A16 / A17",
+    "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/135640-bizon-glass-aplicator-edge-samsung-galaxy-a16-a17-5900415743576.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A12",
+   "Galaxy M12"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Samsung Galaxy A12 / M12",
+    "url": "https://homescreen.pl/en/galaxy-a12/92451-bizon-glass-clear-samsung-galaxy-a12-m12-5904665303832.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Galaxy A12 and Galaxy M12 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi 14R"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Redmi 14C / 14R 5G black",
+    "url": "https://homescreen.pl/en/redmi-14c/139725-myscreen-diamond-glass-edge-lite-full-glue-redmi-14c-14r-5g-black-5904433240833.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Redmi 14C and Redmi 14R (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi 14C 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Mule Shadow Xiaomi Redmi 14C 4G / 5G matte",
+    "url": "https://homescreen.pl/en/redmi-14c/126710-bizon-glass-mule-shadow-xiaomi-redmi-14c-4g-5g-matte-5900415726234.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Redmi 14C and Redmi 14C 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi 14C",
+   "Redmi A5"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Xiaomi Redmi 14C / A5",
+    "url": "https://homescreen.pl/en/redmi-14c/112649-3mk-hardglass-xiaomi-redmi-14c-a5-5903108654920.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Redmi 14C and Redmi A5 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Poco C65",
+   "Redmi 13C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Xiaomi Redmi 13C / POCO C65",
+    "url": "https://homescreen.pl/en/redmi-13c/109004-3mk-hardglass-xiaomi-redmi-13c-poco-c65-5903108544597.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi 13C / POCO C65",
+    "url": "https://homescreen.pl/en/poco-c65/73005-3mk-flexibleglass-xiaomi-redmi-13c-poco-c65-5903108547031.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi K60",
+   "Redmi K60 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Redmi K60 / K60 Pro",
+    "url": "https://homescreen.pl/en/redmi-k60/77007-3mk-flexibleglass-redmi-k60-k60-pro-5903108580557.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Redmi K60 and Redmi K60 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi K50",
+   "Redmi K50 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Xiaomi Redmi K50/K50 Pro/50 Ultra black Full Glue",
+    "url": "https://homescreen.pl/en/redmi-k50/57502-myscreen-diamond-glass-edge-lite-fg-xiaomi-redmi-k50-k50-pro-50-ultra-black-full-glue-5904433213677.html"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Xiaomi Redmi K50/K50 Pro/50 Ultra black Full Glue",
+    "url": "https://homescreen.pl/en/redmi-k50/57320-myscreen-diamond-glass-edge-fg-xiaomi-redmi-k50-k50-pro-50-ultra-black-full-glue-5904433213684.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Redmi K50 and Redmi K50 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Poco C75",
+   "Redmi 14C",
+   "Redmi A4 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Lite Xiaomi Redmi 14C / POCO C75 / Redmi A4 5G",
+    "url": "https://homescreen.pl/en/redmi-14c/112187-3mk-flexibleglass-lite-xiaomi-redmi-14c-poco-c75-redmi-a4-5g-5903108610247.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Poco C75, Redmi 14C and Redmi A4 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi A3",
+   "Redmi A3x"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Full Glue Xiaomi Redmi A3 / A3x black",
+    "url": "https://homescreen.pl/en/redmi-a3/76215-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-a3-a3x-black-5904433231992.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Redmi A3 and Redmi A3x (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Redmi Note 14 4G",
+   "Redmi Note 14 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi Note 14 4G / 5G black",
+    "url": "https://homescreen.pl/en/redmi-note-14/139820-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-note-14-4g-5g-black-5904433245715.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Poco M6 Pro 4G",
+   "Poco X6",
+   "Redmi Note 13",
+   "Redmi Note 13 Pro",
+   "Redmi Note 13 Pro 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi POCO X6 / Redmi Note 13 5G / 13 Pro 4G/5G / POCO M6 Pro 4G",
+    "url": "https://homescreen.pl/en/poco-x6-5g/132603-bizon-smart-25d-glass-xiaomi-poco-x6-redmi-note-13-5g-13-pro-4g5g-poco-m6-pro-4g-5900415734246.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Xiaomi POCO X6 / M6 Pro 4G / Redmi Note 13 5G / 13 Pro 4G / 5G black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/poco-x6-5g/120236-bizon-glass-edge-duo-xiaomi-poco-x6-m6-pro-4g-redmi-note-13-5g-13-pro-4g-5g-black-frame-2-pack-5900415720003.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Poco X5",
+   "Redmi Note 12"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Tempered glass 3MK HardGlass Xiaomi Redmi Note 12 5G/POCO X5 5G",
+    "url": "https://homescreen.pl/en/poco-x5-5g/52976-tempered-glass-3mk-hardglass-xiaomi-redmi-note-12-5g-poco-x5-5g-5903108517782.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Poco X5 and Redmi Note 12 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 8",
+   "Xiaomi Pad 8 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 8 / Pad 8 Pro",
+    "url": "https://homescreen.pl/en/xiaomi-pad-8-8-pro-7-7-pro/149684-3mk-flexibleglass-xiaomi-pad-8-pad-8-pro-5903108758307.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Xiaomi Pad 8 and Xiaomi Pad 8 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 7",
+   "Xiaomi Pad 8",
+   "Xiaomi Pad 8 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Tech-Protect Glass Fit+ Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro 11.2 Clear [2 PACK]",
+    "url": "https://homescreen.pl/en/xiaomi-pad/129681-tech-protect-glass-fit-xiaomi-pad-7-7-pro-8-8-pro-112-clear-2-pack-5906302339440.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Xiaomi Pad 7, Xiaomi Pad 8 and Xiaomi Pad 8 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 6",
+   "Xiaomi Pad 6 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 6 / 6 Pro",
+    "url": "https://homescreen.pl/en/xiaomi-pad-6-6-pro/149683-3mk-flexibleglass-xiaomi-pad-6-6-pro-5903108525930.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Xiaomi Pad 6 and Xiaomi Pad 6 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G13",
+   "Moto G23",
+   "Moto G53"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Moto G13 / G23 / G53 5G",
+    "url": "https://homescreen.pl/en/moto-g53-5g/91579-bizon-glass-clear-2-moto-g13-g23-g53-5g-5904665364369.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge 2 Moto G13 / G23 / G53 5G black",
+    "url": "https://homescreen.pl/en/moto-g53-5g/91583-bizon-glass-edge-2-moto-g13-g23-g53-5g-black-5904665364376.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto G13, Moto G23 and Moto G53 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G24",
+   "Moto G24 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Hybrid glass 3MK FlexibleGlass for Motorola Moto G24/G24 Power",
+    "url": "https://homescreen.pl/en/moto-g24/109036-hybrid-glass-3mk-flexibleglass-for-motorola-moto-g24-g24-power-5903108567015.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Moto G24 and Moto G24 Power (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto E15",
+   "Moto G15",
+   "Moto G15 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Mule Duo Motorola Moto G15 / G15 Power / E15 [2 PACK]",
+    "url": "https://homescreen.pl/en/moto-g15/129023-bizon-glass-mule-duo-motorola-moto-g15-g15-power-e15-2-pack-5900415731962.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G04",
+   "Moto G24 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G04 / G24 Power black",
+    "url": "https://homescreen.pl/en/moto-g04/72363-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g04-g24-power-black-5904433231343.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Moto G04 and Moto G24 Power (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto E32",
+   "Moto E32s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Motorola Moto E32 / E32S",
+    "url": "https://homescreen.pl/en/moto-e32s/91556-bizon-glass-clear-motorola-moto-e32-e32s-5904665311936.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Motorola Moto E32 / E32s black",
+    "url": "https://homescreen.pl/en/moto-e32s/91558-bizon-glass-edge-motorola-moto-e32-e32s-black-5904665311967.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto E32 and Moto E32s (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "OnePlus Pad 2 Pro",
+   "OnePlus Pad 3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: GrizzGlass HybridGlass OnePlus Pad 3 / 2 Pro / OPPO Pad 4 / 4 Pro",
+    "url": "https://homescreen.pl/en/oneplus-pad-3-2-pro/112485-grizzglass-hybridglass-oneplus-pad-2-pro-5906146483453.html"
+   }
+  ],
+  "note": "GrizzGlass sells one hybrid glass for the OnePlus Pad 2 Pro and OnePlus Pad 3 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "OnePlus Pad Lite",
+   "Oppo Pad SE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: GrizzGlass HybridGlass OnePlus Pad Lite / Oppo Pad SE",
+    "url": "https://homescreen.pl/en/oneplus-pad-lite/113517-grizzglass-hybridglass-oneplus-pad-lite-5906146491748.html"
+   }
+  ],
+  "note": "GrizzGlass sells one hybrid glass for the OnePlus Pad Lite and Oppo Pad SE (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Honor 400 Smart",
+   "Honor 400 Smart 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Honor 400 Smart 4G / 5G",
+    "url": "https://homescreen.pl/en/honor-400-smart/149669-3mk-hardglass-honor-400-smart-4g-5g-5903108674652.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Honor 400 Smart and Honor 400 Smart 4G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Realme 10 5G",
+   "Realme 10s",
+   "Realme 9i 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Realme 10 5G/9i 5G/10s Full Glue Czarny/Black",
+    "url": "https://homescreen.pl/en/realme-10-series/57429-myscreen-diamond-glass-edge-lite-fg-realme-10-5g-9i-5g-10s-full-glue-czarny-black-5904433215046.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Realme 10 5G, Realme 10s and Realme 9i 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "OnePlus Nord CE 3 Lite",
+   "Realme C55"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Realme C55 / OnePlus Nord CE 3 Lite",
+    "url": "https://homescreen.pl/en/realme-c50-series/92316-bizon-glass-clear-2-realme-c55-oneplus-nord-ce-3-lite-5904665361955.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the OnePlus Nord CE 3 Lite and Realme C55 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Realme GT 5G",
+   "Realme GT Neo"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Realme GT 5G / GT Neo / GT ME black",
+    "url": "https://homescreen.pl/en/realme-gt5-series/69965-myscreen-diamond-glass-edge-lite-full-glue-realme-gt-5g-gt-neo-gt-me-black-5901924997825.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Realme GT 5G and Realme GT Neo (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo Reno15 F",
+   "Oppo Reno15 FS"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Oppo Reno 15 F 5G / Reno 15 FS 5G",
+    "url": "https://homescreen.pl/en/oppo-reno15-f-fs/147798-3mk-flexibleglass-oppo-reno-15-f-5g-reno-15-fs-5g-5903108746489.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Oppo Reno15 F and Oppo Reno15 FS (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A54 5G",
+   "Oppo A74 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Oppo A74 5G / A54 5G",
+    "url": "https://homescreen.pl/en/oppo-a74/75452-3mk-flexibleglass-oppo-a74-5g-a54-5g-5903108376785.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Oppo A54 5G and Oppo A74 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A57",
+   "Oppo A57 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A57 4G/5G black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a57/57424-myscreen-diamond-glass-edge-lite-fg-oppo-a57-4g-5g-black-full-glue-5904433213110.html"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A57 4G/5G black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a57/57152-myscreen-diamond-glass-edge-fg-oppo-a57-4g-5g-black-full-glue-5904433213127.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Oppo A57 and Oppo A57 4G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A36",
+   "Oppo A76"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A36/A76 black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a36/57150-myscreen-diamond-glass-edge-fg-oppo-a36-a76-black-full-glue-5904433210812.html"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A36/A76 black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a36/57367-myscreen-diamond-glass-edge-lite-fg-oppo-a36-a76-black-full-glue-5904433210829.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Oppo A36 and Oppo A76 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A16",
+   "Oppo A16s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Lite Oppo A16/A16s Black black",
+    "url": "https://homescreen.pl/en/oppo-a16/47890-3mk-hardglass-max-lite-oppo-a16-a16s-black-black-5903108497640.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Max Oppo A16/A16s black",
+    "url": "https://homescreen.pl/en/oppo-a16/27829-3mk-flexibleglass-max-oppo-a16a16s-black-5903108444644.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Oppo A16 and Oppo A16s (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "vivo V50 Lite",
+   "vivo V50 Lite 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Mule Vivo V50 Lite 4G / 5G",
+    "url": "https://homescreen.pl/en/vivo-v50/110221-bizon-glass-mule-vivo-v50-lite-4g-5g-5900415704331.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the vivo V50 Lite and vivo V50 Lite 4G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A80",
+   "Galaxy A90 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Crong 7D Nano Flexible Glass Samsung Galaxy A80/A90",
+    "url": "https://homescreen.pl/en/galaxy-a80/48505-crong-7d-nano-flexible-glass-samsung-galaxy-a80-a90-5907731981057.html"
+   }
+  ],
+  "note": "Crong sells one hybrid glass for the Galaxy A80 and Galaxy A90 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A30s",
+   "Galaxy A50",
+   "Galaxy A50s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3mk FlexibleGlass Max Samsung Galaxy A30s/A50/A50s",
+    "url": "https://homescreen.pl/en/galaxy-a50s/5371-3mk-flexible-glass-max-samsung-galaxy-a30sa50a50s-5903108073172.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Galaxy A30s, Galaxy A50 and Galaxy A50s (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A22",
+   "Galaxy M22"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Samsung Galaxy A22 4G / M22",
+    "url": "https://homescreen.pl/en/galaxy-a22-lte/93014-bizon-glass-clear-samsung-galaxy-a22-4g-m22-5904665303849.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Samsung Galaxy A22 4G / M22 black",
+    "url": "https://homescreen.pl/en/galaxy-a22-lte/93015-bizon-glass-edge-samsung-galaxy-a22-4g-m22-black-5904665303948.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Galaxy A22 and Galaxy M22 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A04",
+   "Galaxy A04e",
+   "Galaxy A04s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Tempered glass Nillkin Amazing CP+ PRO Samsung Galaxy A04/A04S/A04e",
+    "url": "https://homescreen.pl/en/galaxy-a04s/52747-tempered-glass-nillkin-amazing-cp-pro-samsung-galaxy-a04-a04s-a04e-6902048255548.html"
+   },
+   {
+    "name": "Homescreen.pl: Tempered glass Nillkin Amazing H Samsung Galaxy A04/A04S/A04e",
+    "url": "https://homescreen.pl/en/galaxy-a04s/52744-tempered-glass-nillkin-amazing-h-samsung-galaxy-a04-a04s-a04e-6902048257696.html"
+   }
+  ],
+  "note": "Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Poco M7 Pro 5G",
+   "Redmi Note 14"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Smart Glass 2.5D Xiaomi Redmi Note 14 / POCO M7 Pro 5G",
+    "url": "https://homescreen.pl/en/redmi-note-14/130250-bizon-smart-glass-25d-xiaomi-redmi-note-14-poco-m7-pro-5g-5900415734192.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Poco M7 Pro 5G and Redmi Note 14 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G52",
+   "Moto G82"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Motorola Moto G52/G82",
+    "url": "https://homescreen.pl/en/moto-g82/91728-bizon-glass-clear-motorola-moto-g52-g82-5904665392126.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto G52 and Moto G82 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G32",
+   "Moto G62 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Motorola Moto G62/G32 black Full Glue",
+    "url": "https://homescreen.pl/en/moto-g62/56433-myscreen-diamond-glass-edge-fg-motorola-moto-g62-g32-black-full-glue-5904433210126.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Moto G32 and Moto G62 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G60",
+   "Moto G60S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Lite Motorola Moto G60/G60s black",
+    "url": "https://homescreen.pl/en/moto-g60s/32818-3mk-hardglass-max-lite-motorola-moto-g60g60s-black-5903108441698.html"
+   },
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Lite Motorola Moto G60/G60s",
+    "url": "https://homescreen.pl/en/moto-g60s/32807-3mk-flexibleglass-lite-motorola-moto-g60g60s-5903108434850.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Moto G60 and Moto G60S (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G14",
+   "Moto G54",
+   "Moto G55"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear 2 Motorola Moto G14 / G54 / G55",
+    "url": "https://homescreen.pl/en/moto-g55/95971-bizon-glass-clear-2-motorola-moto-g14-g54-g55-5904665351437.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto G14, Moto G54 and Moto G55 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Moto G10",
+   "Moto G20",
+   "Moto G30",
+   "Moto G9 Play"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Moto G10 / G20 / G30 / G9 Play black",
+    "url": "https://homescreen.pl/en/moto-g30/91576-bizon-glass-edge-moto-g10-g20-g30-g9-play-black-5903896184371.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Moto G10, Moto G20, Moto G30 and Moto G9 Play (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Realme 13 Pro",
+   "Realme 13 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge 3D Realme 13 Pro / 13 Pro+ Plus black",
+    "url": "https://homescreen.pl/en/realme-13-pro/139694-myscreen-diamond-glass-edge-3d-realme-13-pro-13-pro-plus-black-5904433240772.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Realme 13 Pro and Realme 13 Pro+ (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo Find X3 Lite",
+   "Oppo Reno4 Lite",
+   "Oppo Reno5 5G",
+   "Realme 8",
+   "Realme 8 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Szkło hartowane Bizon Glass Clear Duo do Oppo Reno 4 Lite / Oppo Reno 5 / Oppo Find X3 Lite / Realme 8 / Realme 8 Pro, 2 sztuki",
+    "url": "https://homescreen.pl/en/realme-8-series/120522-szklo-hartowane-bizon-glass-clear-duo-do-oppo-reno-4-lite-oppo-reno-5-oppo-find-x3-lite-realme-8-realme-8-pro-2-sztuki-5900415718727.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Oppo Find X3 Lite, Oppo Reno4 Lite, Oppo Reno5 5G, Realme 8 and Realme 8 Pro (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Realme GT 7",
+   "Realme GT 7T"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Realme GT 7 / 7T black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/realme-gt7-series/120242-bizon-glass-edge-duo-realme-gt-7-7t-black-frame-2-pack-5900415719779.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Realme GT 7 and Realme GT 7T (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo Reno13 F 4G",
+   "Oppo Reno13 F 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK FlexibleGlass Oppo Reno 13F 4G / 5G",
+    "url": "https://homescreen.pl/en/oppo-reno13-f-fs/118644-3mk-flexibleglass-oppo-reno-13f-4g-5g-5903108639286.html"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Oppo Reno13 F 4G and Oppo Reno13 F 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A96",
+   "Realme 8i",
+   "Realme 9i"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Realme 9i / Realme 8i / Oppo A96",
+    "url": "https://homescreen.pl/en/oppo-a96/92231-bizon-glass-clear-realme-9i-realme-8i-oppo-a96-5904665397145.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Oppo A96, Realme 8i and Realme 9i (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A72",
+   "Oppo A92"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: 3MK HardGlass Max Lite Oppo A72/A92 black",
+    "url": "https://homescreen.pl/en/oppo-a72/15734-3mk-hardglass-max-lite-oppo-a72a92-black-5903108282611.html"
+   }
+  ],
+  "note": "3MK sells one glass for the Oppo A72 and Oppo A92 (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A53s 5G",
+   "Oppo A54s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A54s/A53s 5G black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a54/57423-myscreen-diamond-glass-edge-lite-fg-oppo-a54s-a53s-5g-black-full-glue-5904433210515.html"
+   },
+   {
+    "name": "Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A54s/A53s 5G black Full Glue",
+    "url": "https://homescreen.pl/en/oppo-a54/57151-myscreen-diamond-glass-edge-fg-oppo-a54s-a53s-5g-black-full-glue-5904433213608.html"
+   }
+  ],
+  "note": "MyScreen sells one glass for the Oppo A53s 5G and Oppo A54s (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Oppo A52",
+   "Oppo A54 5G",
+   "Oppo A72",
+   "Oppo A74 5G",
+   "Oppo A93 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Oppo A52 / A72 / A54 5G / A74 5G / A93 5G",
+    "url": "https://homescreen.pl/en/oppo-a52/91877-bizon-glass-clear-oppo-a52-a72-a54-5g-a74-5g-a93-5g-5904665306581.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Oppo A52, Oppo A54 5G, Oppo A72, Oppo A74 5G and Oppo A93 5G (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Xperia 10 VII",
+   "Xperia 10 VIII"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Homescreen.pl: Bizon Glass Edge Duo Sony Xperia 10 VIII / VII, black frame [2 PACK]",
+    "url": "https://homescreen.pl/en/xperia-10/148469-bizon-glass-edge-duo-sony-xperia-10-viii-vii-black-frame-2-pack-5900415761914.html"
+   },
+   {
+    "name": "Homescreen.pl: Bizon Glass Clear Duo Sony Xperia 10 VIII / VII [2 PACK]",
+    "url": "https://homescreen.pl/en/xperia-10/148468-bizon-glass-clear-duo-sony-xperia-10-viii-vii-2-pack-5900415761907.html"
+   }
+  ],
+  "note": "Bizon sells one glass for the Xperia 10 VII and Xperia 10 VIII (Homescreen.pl)."
  }
 ]

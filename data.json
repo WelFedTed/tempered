@@ -12125,15 +12125,17 @@
 "models": [
 "Galaxy A30",
 "Galaxy A50",
-"Galaxy A50s"
+"Galaxy A50s",
+"Galaxy A30s"
 ],
 "released": [
 "2019-02",
 "2019-02",
+"2019-08",
 "2019-08"
 ],
 "check": "Confirmed",
-"note": "AIV TECH and SNPD on Flipkart sell one glass for A30 and A50. AIV TECH and ambera on Flipkart sell one glass for A50 and A50s. The A8s has a round punch hole in the top-left corner, while the A30/A50 have a notch (Infinity-U). Different front cut-out, so do not swap glass",
+"note": "AIV TECH and SNPD on Flipkart sell one glass for A30 and A50. AIV TECH and ambera on Flipkart sell one glass for A50 and A50s. The A8s has a round punch hole in the top-left corner, while the A30/A50 have a notch (Infinity-U). Different front cut-out, so do not swap glass. 3MK sells one hybrid glass for the Galaxy A30s, Galaxy A50 and Galaxy A50s (Homescreen.pl). The A8s has a punch hole; the A30s has a notch. Different front cut-out, so not the same glass",
 "device": "Phone",
 "sources": [
 [
@@ -12155,14 +12157,28 @@
 [
 "Wikipedia, Galaxy A50 (Infinity-U display)",
 "https://en.wikipedia.org/wiki/Samsung_Galaxy_A50"
+],
+[
+"Homescreen.pl: 3mk FlexibleGlass Max Samsung Galaxy A30s/A50/A50s",
+"https://homescreen.pl/en/galaxy-a50s/5371-3mk-flexible-glass-max-samsung-galaxy-a30sa50a50s-5903108073172.html"
+],
+[
+"Wikipedia, Galaxy A8s (punch hole)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A30s (Infinity-V notch)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A30s"
 ]
 ],
 "codes": [
 "SM-A305F, SM-A305FN, SM-A305G, SM-A305GN, SM-A305YN, SM-A3050, SM-A305N, SM-A305GT",
 "SM-A505F, SM-A505FN, SM-A505GN, SM-A505G, SM-A505FM, SM-A505YN, SM-A505W, SM-A505X, SM-A505U, SM-A505GT, SM-A505U1, SM-A505N, SM-S506DL",
-"SM-A507F, SM-A507FN, SM-A5070"
+"SM-A507F, SM-A507FN, SM-A5070",
+"SM-A307F, SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT"
 ],
 "screens": [
+"6.4in",
 "6.4in",
 "6.4in",
 "6.4in"
@@ -12170,7 +12186,8 @@
 "dims": [
 "158.5 x 74.7 x 7.7 mm",
 "158.5 x 74.7 x 7.7 mm",
-"158.5 x 74.5 x 7.7 mm"
+"158.5 x 74.5 x 7.7 mm",
+"158.5 x 74.7 x 7.8 mm"
 ]
 },
 {
@@ -12543,22 +12560,33 @@
 "SAM"
 ],
 "models": [
-"Galaxy A80"
+"Galaxy A80",
+"Galaxy A90 5G"
 ],
 "released": [
-"2019-04"
+"2019-04",
+"2019-09"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Crong sells one hybrid glass for the Galaxy A80 and Galaxy A90 5G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Crong 7D Nano Flexible Glass Samsung Galaxy A80/A90",
+"https://homescreen.pl/en/galaxy-a80/48505-crong-7d-nano-flexible-glass-samsung-galaxy-a80-a90-5907731981057.html"
+]
+],
 "codes": [
-"SM-A805F, SM-A8050, SM-A805X, SM-A805N"
+"SM-A805F, SM-A8050, SM-A805X, SM-A805N",
+"SM-A908B, SM-A908N, SM-A9080"
 ],
 "screens": [
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"165.2 x 76.5 x 9.3 mm"
+"165.2 x 76.5 x 9.3 mm",
+"164.8 x 76.4 x 8.4 mm"
 ]
 },
 {
@@ -12746,66 +12774,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy A30s"
-],
-"released": [
-"2019-08"
-],
-"check": "Check",
-"note": "The A8s has a punch hole; the A30s has a notch. Different front cut-out, so not the same glass",
-"device": "Phone",
-"sources": [
-[
-"Wikipedia, Galaxy A8s (punch hole)",
-"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
-],
-[
-"Wikipedia, Galaxy A30s (Infinity-V notch)",
-"https://en.wikipedia.org/wiki/Samsung_Galaxy_A30s"
-]
-],
-"codes": [
-"SM-A307F, SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT"
-],
-"screens": [
-"6.4in"
-],
-"dims": [
-"158.5 x 74.7 x 7.8 mm"
-]
-},
-{
-"id": "SAM-1381",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A90 5G"
-],
-"released": [
-"2019-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-A908B, SM-A908N, SM-A9080"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"164.8 x 76.4 x 8.4 mm"
-]
-},
-{
-"id": "SAM-1382",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy M30s",
 "Galaxy M31",
 "Galaxy M21",
@@ -12868,7 +12836,7 @@
 ]
 },
 {
-"id": "SAM-1383",
+"id": "SAM-1381",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12893,7 +12861,7 @@
 ]
 },
 {
-"id": "SAM-1384",
+"id": "SAM-1382",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12918,7 +12886,7 @@
 ]
 },
 {
-"id": "SAM-1385",
+"id": "SAM-1383",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12949,7 +12917,7 @@
 ]
 },
 {
-"id": "SAM-1386",
+"id": "SAM-1384",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13017,7 +12985,7 @@
 ]
 },
 {
-"id": "SAM-1387",
+"id": "SAM-1385",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13042,7 +13010,7 @@
 ]
 },
 {
-"id": "SAM-1388",
+"id": "SAM-1386",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13067,7 +13035,7 @@
 ]
 },
 {
-"id": "SAM-1389",
+"id": "SAM-1387",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13092,7 +13060,7 @@
 ]
 },
 {
-"id": "SAM-1390",
+"id": "SAM-1388",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13125,7 +13093,7 @@
 ]
 },
 {
-"id": "SAM-1391",
+"id": "SAM-1389",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13177,7 +13145,7 @@
 ]
 },
 {
-"id": "SAM-1392",
+"id": "SAM-1390",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13218,7 +13186,7 @@
 ]
 },
 {
-"id": "SAM-1393",
+"id": "SAM-1391",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13266,7 +13234,7 @@
 ]
 },
 {
-"id": "SAM-1394",
+"id": "SAM-1392",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13291,7 +13259,7 @@
 ]
 },
 {
-"id": "SAM-1395",
+"id": "SAM-1393",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13322,7 +13290,7 @@
 ]
 },
 {
-"id": "SAM-1396",
+"id": "SAM-1394",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13347,7 +13315,7 @@
 ]
 },
 {
-"id": "SAM-1397",
+"id": "SAM-1395",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13372,7 +13340,7 @@
 ]
 },
 {
-"id": "SAM-1398",
+"id": "SAM-1396",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13397,7 +13365,7 @@
 ]
 },
 {
-"id": "SAM-1399",
+"id": "SAM-1397",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13422,7 +13390,7 @@
 ]
 },
 {
-"id": "SAM-1400",
+"id": "SAM-1398",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13452,7 +13420,7 @@
 ]
 },
 {
-"id": "SAM-1401",
+"id": "SAM-1399",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13491,7 +13459,7 @@
 ]
 },
 {
-"id": "SAM-1402",
+"id": "SAM-1400",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13516,7 +13484,7 @@
 ]
 },
 {
-"id": "SAM-1403",
+"id": "SAM-1401",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13541,7 +13509,7 @@
 ]
 },
 {
-"id": "SAM-1404",
+"id": "SAM-1402",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13566,7 +13534,7 @@
 ]
 },
 {
-"id": "SAM-1405",
+"id": "SAM-1403",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13602,7 +13570,7 @@
 ]
 },
 {
-"id": "SAM-1406",
+"id": "SAM-1404",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13627,7 +13595,7 @@
 ]
 },
 {
-"id": "SAM-1407",
+"id": "SAM-1405",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13660,7 +13628,7 @@
 ]
 },
 {
-"id": "SAM-1408",
+"id": "SAM-1406",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13700,7 +13668,7 @@
 ]
 },
 {
-"id": "SAM-1409",
+"id": "SAM-1407",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13728,7 +13696,7 @@
 ]
 },
 {
-"id": "SAM-1410",
+"id": "SAM-1408",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13753,7 +13721,7 @@
 ]
 },
 {
-"id": "SAM-1411",
+"id": "SAM-1409",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13789,7 +13757,7 @@
 ]
 },
 {
-"id": "SAM-1412",
+"id": "SAM-1410",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13838,7 +13806,7 @@
 ]
 },
 {
-"id": "SAM-1413",
+"id": "SAM-1411",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13850,6 +13818,8 @@
 "Galaxy A03s",
 "Galaxy A03 Core",
 "Galaxy A03",
+"Galaxy A04",
+"Galaxy A04s",
 "Galaxy A04e",
 "Galaxy M04",
 "Galaxy F04"
@@ -13861,12 +13831,14 @@
 "2021-08",
 "2021-11",
 "2021-11",
+"2022-08",
+"2022-08",
 "2022-10",
 "2022-12",
 "2023-01"
 ],
 "check": "Check",
-"note": "Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -13876,6 +13848,14 @@
 [
 "Flipkart GOLKI COVERS / ADI Creations",
 "https://www.flipkart.com/search?q=tempered+glass+samsung+galaxy+a03+a02s+a04e"
+],
+[
+"Homescreen.pl: Tempered glass Nillkin Amazing CP+ PRO Samsung Galaxy A04/A04S/A04e",
+"https://homescreen.pl/en/galaxy-a04s/52747-tempered-glass-nillkin-amazing-cp-pro-samsung-galaxy-a04-a04s-a04e-6902048255548.html"
+],
+[
+"Homescreen.pl: Tempered glass Nillkin Amazing H Samsung Galaxy A04/A04S/A04e",
+"https://homescreen.pl/en/galaxy-a04s/52744-tempered-glass-nillkin-amazing-h-samsung-galaxy-a04-a04s-a04e-6902048257696.html"
 ]
 ],
 "codes": [
@@ -13885,11 +13865,15 @@
 "SM-A037F, SM-A037F/DS, SM-A037M, SM-A037G, SM-A037U, SM-S134DL, SM-A037W, SM-A037U1, SM-S135DL",
 "SM-A032F, SM-A032F/DS, SM-A032M",
 "SM-A035F, SM-A035F/DS, SM-A035M, SM-A035G",
+"SM-A045F, SM-A045F/DS, SM-A045M",
+"SM-A047F, SM-A047F/DS, SM-A047F/DSN, SM-A047M",
 "SM-A042F, SM-A042F/DS, SM-A042M, SM-A042M/DS",
 "SM-M045F, SM-M045F/DS",
 "SM-E045F, SM-E045F/DS"
 ],
 "screens": [
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -13907,13 +13891,15 @@
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
+"164.4 x 76.3 x 9.1 mm",
+"164.7 x 76.7 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm"
 ]
 },
 {
-"id": "SAM-1414",
+"id": "SAM-1412",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13939,7 +13925,7 @@
 "2021-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A12, Galaxy A32 5G, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India), Galaxy M32 5G. The rest match on specs: test before swapping. Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only). MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass E2E Regular 7252 (case friendly) is titled for A32 5G/M12 in a search result (page blocked), suggesting the A32 5G and M12/F12 groups share glass: test fit",
+"note": "Sellers confirm Galaxy A12, Galaxy A32 5G, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India), Galaxy M32 5G. The rest match on specs: test before swapping. Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only). Bizon sells one glass for the Galaxy A12 and Galaxy M12 (Homescreen.pl). MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass E2E Regular 7252 (case friendly) is titled for A32 5G/M12 in a search result (page blocked), suggesting the A32 5G and M12/F12 groups share glass: test fit",
 "device": "Phone",
 "sources": [
 [
@@ -13961,6 +13947,10 @@
 [
 "Quill, cellhelmet tempered glass TEMP-A12 titled for A12/A32 5G",
 "https://quill.com/cellhelmet-tempered-glass-screen-protector-samsung-galaxy-a12-32-5g-temp-a12/cbs/55438490.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Samsung Galaxy A12 / M12",
+"https://homescreen.pl/en/galaxy-a12/92451-bizon-glass-clear-samsung-galaxy-a12-m12-5904665303832.html"
 ],
 [
 "MediaMarkt PL (MyScreen Diamond Glass AntiSpy A32 5G/M32 5G)",
@@ -14010,7 +14000,7 @@
 ]
 },
 {
-"id": "SAM-1415",
+"id": "SAM-1413",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14040,7 +14030,7 @@
 ]
 },
 {
-"id": "SAM-1416",
+"id": "SAM-1414",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14074,7 +14064,7 @@
 ]
 },
 {
-"id": "SAM-1417",
+"id": "SAM-1415",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14108,7 +14098,7 @@
 ]
 },
 {
-"id": "SAM-1418",
+"id": "SAM-1416",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14163,7 +14153,7 @@
 ]
 },
 {
-"id": "SAM-1419",
+"id": "SAM-1417",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14188,7 +14178,7 @@
 ]
 },
 {
-"id": "SAM-1420",
+"id": "SAM-1418",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14213,7 +14203,7 @@
 ]
 },
 {
-"id": "SAM-1421",
+"id": "SAM-1419",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14279,7 +14269,7 @@
 ]
 },
 {
-"id": "SAM-1422",
+"id": "SAM-1420",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14310,7 +14300,7 @@
 ]
 },
 {
-"id": "SAM-1423",
+"id": "SAM-1421",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14338,7 +14328,7 @@
 ]
 },
 {
-"id": "SAM-1424",
+"id": "SAM-1422",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14363,32 +14353,47 @@
 ]
 },
 {
-"id": "SAM-1425",
+"id": "SAM-1423",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
-"Galaxy A22"
+"Galaxy A22",
+"Galaxy M22"
 ],
 "released": [
-"2021-06"
+"2021-06",
+"2021-09"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Bizon sells one glass for the Galaxy A22 and Galaxy M22 (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Clear Samsung Galaxy A22 4G / M22",
+"https://homescreen.pl/en/galaxy-a22-lte/93014-bizon-glass-clear-samsung-galaxy-a22-4g-m22-5904665303849.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Samsung Galaxy A22 4G / M22 black",
+"https://homescreen.pl/en/galaxy-a22-lte/93015-bizon-glass-edge-samsung-galaxy-a22-4g-m22-black-5904665303948.html"
+]
+],
 "codes": [
-"SM-A225F, SM-A225F/DS, SM-A225M, SM-A225M/DS"
+"SM-A225F, SM-A225F/DS, SM-A225M, SM-A225M/DS",
+"SM-M225FV, SM-M225FV/DS"
 ],
 "screens": [
+"6.4in",
 "6.4in"
 ],
 "dims": [
-"159.3 x 73.6 x 8.4 mm"
+"159.3 x 73.6 x 8.4 mm",
+"159.9 x 74 x 8.4 mm"
 ]
 },
 {
-"id": "SAM-1426",
+"id": "SAM-1424",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14436,7 +14441,7 @@
 ]
 },
 {
-"id": "SAM-1427",
+"id": "SAM-1425",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14461,7 +14466,7 @@
 ]
 },
 {
-"id": "SAM-1428",
+"id": "SAM-1426",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14486,7 +14491,7 @@
 ]
 },
 {
-"id": "SAM-1429",
+"id": "SAM-1427",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14511,7 +14516,7 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1428",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14539,7 +14544,7 @@
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14567,32 +14572,7 @@
 ]
 },
 {
-"id": "SAM-1432",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M22"
-],
-"released": [
-"2021-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-M225FV, SM-M225FV/DS"
-],
-"screens": [
-"6.4in"
-],
-"dims": [
-"159.9 x 74 x 8.4 mm"
-]
-},
-{
-"id": "SAM-1433",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14622,7 +14602,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14653,7 +14633,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14687,7 +14667,7 @@
 ]
 },
 {
-"id": "SAM-1436",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14726,7 +14706,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14781,7 +14761,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14811,7 +14791,7 @@
 "2022-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India). The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
+"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India), Galaxy A23 5G. The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Bizon sells one glass for the Galaxy A23 and Galaxy A23 5G (Homescreen.pl). Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
 "device": "Phone",
 "sources": [
 [
@@ -14853,6 +14833,14 @@
 [
 "Spigen India Glas.tR (M13/M23 5G/M33 5G/F23 5G/A04s)",
 "https://spigen.in/products/galaxy-m14-f14-m13-m13-5g-m33-5g-m23-5g-f23-5g-a04s-glas-tr-screen-protector"
+],
+[
+"Homescreen.pl: Szk\u0142o hartowane Bizon Glass Clear Duo Samsung Galaxy A23 4G / 5G [2 PACK]",
+"https://homescreen.pl/en/galaxy-a23-5g/119990-szklo-hartowane-bizon-glass-clear-duo-samsung-galaxy-a23-4g-5g-2-pack-5900415718802.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 Samsung Galaxy A23 4G / 5G",
+"https://homescreen.pl/en/galaxy-a23-5g/92647-bizon-glass-clear-2-samsung-galaxy-a23-4g-5g-5904665365922.html"
 ],
 [
 "Flipkart MD care (A23/M23/F23/M33/M13 4G)",
@@ -14905,7 +14893,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14940,7 +14928,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14965,7 +14953,7 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14990,7 +14978,7 @@
 ]
 },
 {
-"id": "SAM-1442",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15031,7 +15019,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15059,7 +15047,7 @@
 ]
 },
 {
-"id": "SAM-1444",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15102,57 +15090,7 @@
 ]
 },
 {
-"id": "SAM-1445",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A04"
-],
-"released": [
-"2022-08"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-A045F, SM-A045F/DS, SM-A045M"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"164.4 x 76.3 x 9.1 mm"
-]
-},
-{
-"id": "SAM-1446",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A04s"
-],
-"released": [
-"2022-08"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-A047F, SM-A047F/DS, SM-A047F/DSN, SM-A047M"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"164.7 x 76.7 x 9.1 mm"
-]
-},
-{
-"id": "SAM-1447",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15206,7 +15144,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15240,7 +15178,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15284,7 +15222,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15323,7 +15261,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15371,7 +15309,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15415,7 +15353,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15440,7 +15378,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15492,7 +15430,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15544,7 +15482,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15604,7 +15542,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15650,7 +15588,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15689,7 +15627,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15745,7 +15683,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15792,7 +15730,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15817,7 +15755,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15862,7 +15800,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15912,7 +15850,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15940,7 +15878,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16041,7 +15979,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16111,7 +16049,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16145,7 +16083,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. ZAGG, PanzerGlass list",
+"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. ZAGG, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -16159,6 +16097,30 @@
 [
 "Alza (PanzerGlass A17 glass compatible with A16)",
 "https://m.alza.at/bewertungen/panzerglass-samsung-galaxy-a17a17-5g-mit-einbaurahmen-glas-kompatibel-mit-a16a16-5g-13070653.htm"
+],
+[
+"Homescreen.pl: Bizon Smart 2.5D Glass Samsung Galaxy A16 4G/5G / A17 5G / A26 5G",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/130579-bizon-smart-25d-glass-samsung-galaxy-a16-4g5g-a17-5g-a26-5g-5900415734130.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Samsung Galaxy A16 4G / 5G / A17 5G / A26 5G black frame [2 PACK]",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/120204-bizon-glass-edge-duo-samsung-galaxy-a16-4g-5g-a17-5g-a26-5g-black-frame-2-pack-5900415719793.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Samsung Galaxy A16 4G / 5G black",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/139726-myscreen-diamond-glass-edge-lite-full-glue-samsung-galaxy-a16-4g-5g-black-5904433241168.html"
+],
+[
+"Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
+],
+[
+"Homescreen.pl: Bizon Glass Aplikator Shadow Samsung Galaxy A16 / A17",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/135653-bizon-glass-aplikator-shadow-samsung-galaxy-a16-a17-5900415743613.html"
+],
+[
+"Homescreen.pl: Bizon Glass Aplicator Edge Samsung Galaxy A16 / A17",
+"https://homescreen.pl/en/galaxy-a16-4g-5g/135640-bizon-glass-aplicator-edge-samsung-galaxy-a16-a17-5900415743576.html"
 ],
 [
 "Wearesync (PanzerGlass Ultra-Wide Fit)",
@@ -16217,7 +16179,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16245,7 +16207,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16287,7 +16249,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16307,7 +16269,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. Samsung sells its own A57 glass",
+"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. 3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl). Samsung sells its own A57 glass",
 "device": "Phone",
 "sources": [
 [
@@ -16325,6 +16287,10 @@
 [
 "Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
 "https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Samsung Galaxy S25 FE / S26 FE black",
+"https://homescreen.pl/en/galaxy-s25-fe/150887-3mk-hardglass-max-samsung-galaxy-s25-fe-s26-fe-black-5903108789318.html"
 ]
 ],
 "codes": [
@@ -16350,7 +16316,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16388,7 +16354,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16447,7 +16413,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16498,7 +16464,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16526,7 +16492,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16560,7 +16526,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16599,7 +16565,7 @@
 ]
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16633,7 +16599,7 @@
 ]
 },
 {
-"id": "SAM-1478",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16668,7 +16634,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16693,7 +16659,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16724,7 +16690,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16746,7 +16712,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16768,7 +16734,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16790,7 +16756,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16806,7 +16772,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -24647,51 +24613,70 @@
 "OPP"
 ],
 "models": [
-"Oppo A52"
+"Oppo A52",
+"Oppo A72",
+"Oppo A92",
+"Oppo A93 5G",
+"Oppo A74 5G",
+"Oppo A54 5G",
+"Oppo A93s 5G"
 ],
 "released": [
-"2020-04"
+"2020-04",
+"2020-04",
+"2020-05",
+"2021-01",
+"2021-04",
+"2021-04",
+"2021-07"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Oppo A52, Oppo A72, Oppo A92, Oppo A93 5G, Oppo A74 5G, Oppo A54 5G. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo A52, Oppo A54 5G, Oppo A72, Oppo A74 5G and Oppo A93 5G (Homescreen.pl). 3MK sells one glass for the Oppo A72 and Oppo A92 (Homescreen.pl). 3MK sells one hybrid glass for the Oppo A54 5G and Oppo A74 5G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Clear Oppo A52 / A72 / A54 5G / A74 5G / A93 5G",
+"https://homescreen.pl/en/oppo-a52/91877-bizon-glass-clear-oppo-a52-a72-a54-5g-a74-5g-a93-5g-5904665306581.html"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Lite Oppo A72/A92 black",
+"https://homescreen.pl/en/oppo-a72/15734-3mk-hardglass-max-lite-oppo-a72a92-black-5903108282611.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Oppo A74 5G / A54 5G",
+"https://homescreen.pl/en/oppo-a74/75452-3mk-flexibleglass-oppo-a74-5g-a54-5g-5903108376785.html"
+]
+],
 "codes": [
-"CPH2061, CPH2069, PADM00, PDAM10"
+"CPH2061, CPH2069, PADM00, PDAM10",
+"CPH2067",
+"CPH2059",
+"PCGM00, PEHM00, PEHT00",
+"CPH2197, CPH2263",
+"CPH2195, OPG02",
+"PFGM00"
 ],
 "screens": [
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
 "6.5in"
 ],
 "dims": [
-"162 x 75.5 x 8.9 mm"
+"162 x 75.5 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
+"162.9 x 74.7 x 8.4 mm",
+"162.9 x 74.7 x 8.4 mm",
+"162.9 x 74.7 x 8.4 mm",
+"162.9 x 74.7 x 8.4 mm"
 ]
 },
 {
 "id": "OPP-1096",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo A72"
-],
-"released": [
-"2020-04"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2067"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"162 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "OPP-1097",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24721,32 +24706,7 @@
 ]
 },
 {
-"id": "OPP-1098",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo A92"
-],
-"released": [
-"2020-05"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2059"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"162 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "OPP-1099",
+"id": "OPP-1097",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24771,7 +24731,7 @@
 ]
 },
 {
-"id": "OPP-1100",
+"id": "OPP-1098",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24796,7 +24756,7 @@
 ]
 },
 {
-"id": "OPP-1101",
+"id": "OPP-1099",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24818,7 +24778,7 @@
 ]
 },
 {
-"id": "OPP-1102",
+"id": "OPP-1100",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24853,7 +24813,7 @@
 ]
 },
 {
-"id": "OPP-1103",
+"id": "OPP-1101",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24878,7 +24838,7 @@
 ]
 },
 {
-"id": "OPP-1104",
+"id": "OPP-1102",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24903,7 +24863,7 @@
 ]
 },
 {
-"id": "OPP-1105",
+"id": "OPP-1103",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24948,7 +24908,7 @@
 ]
 },
 {
-"id": "OPP-1106",
+"id": "OPP-1104",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -24973,7 +24933,7 @@
 ]
 },
 {
-"id": "OPP-1107",
+"id": "OPP-1105",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25008,7 +24968,7 @@
 ]
 },
 {
-"id": "OPP-1108",
+"id": "OPP-1106",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25033,32 +24993,81 @@
 ]
 },
 {
-"id": "OPP-1109",
-"brand": "Oppo",
+"id": "OPP-1107",
+"brand": "Oppo + Realme",
 "brands": [
-"OPP"
+"OPP",
+"REA"
 ],
 "models": [
-"Oppo Reno4 Lite"
+"Oppo Reno4 Lite",
+"Oppo Reno5 5G",
+"Oppo Reno5 K",
+"Oppo Find X3 Lite",
+"Realme 8",
+"Realme 8 Pro",
+"Oppo K9"
 ],
 "released": [
-"2020-09"
+"2020-09",
+"2020-12",
+"2021-02",
+"2021-03",
+"2021-03",
+"2021-03",
+"2021-05"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Oppo Reno4 Lite, Oppo Reno5 5G, Oppo Find X3 Lite, Realme 8, Realme 8 Pro. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo Find X3 Lite, Oppo Reno4 Lite, Oppo Reno5 5G, Realme 8 and Realme 8 Pro (Homescreen.pl). Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Szk\u0142o hartowane Bizon Glass Clear Duo do Oppo Reno 4 Lite / Oppo Reno 5 / Oppo Find X3 Lite / Realme 8 / Realme 8 Pro, 2 sztuki",
+"https://homescreen.pl/en/realme-8-series/120522-szklo-hartowane-bizon-glass-clear-duo-do-oppo-reno-4-lite-oppo-reno-5-oppo-find-x3-lite-realme-8-realme-8-pro-2-sztuki-5900415718727.html"
+],
+[
+"Alza glass with frame for Realme 8/8 Pro",
+"https://m.alza.cz/EN/tempered-glass-protector-frame-for-realme-88-pro-black-camera-glass-d6424023.htm"
+],
+[
+"KARTRAY at Flipkart (Realme 7 Pro, X7, 8, 8 Pro)",
+"https://www.flipkart.com/kartray-screen-guard-realme-7-pro-x7-8-8-matte-tempered-glass/p/itme91e00da4a3e6"
+],
+[
+"TMIC at eBay.de (Realme 8, 8 Pro)",
+"https://www.ebay.de/itm/175021136452"
+]
+],
 "codes": [
-"CPH2125"
+"CPH2125",
+"PEGM00, PEGT00, CPH2145",
+"PEGM10",
+"CPH2145",
+"RMX3085",
+"RMX3081",
+"PEXM00"
 ],
 "screens": [
+"6.43in",
+"6.43in",
+"6.43in",
+"6.43in",
+"6.4in",
+"6.4in",
 "6.43in"
 ],
 "dims": [
-"160.1 x 73.7 x 7.4 mm"
+"160.1 x 73.7 x 7.4 mm",
+"159.1 x 73.4 x 7.9 mm",
+"159.1 x 73.4 x 7.9 mm",
+"159.1 x 73.4 x 7.9 mm",
+"160.6 x 73.9 x 8 mm",
+"160.6 x 73.9 x 8.1 mm",
+"159.1 x 73.4 x 7.9 mm"
 ]
 },
 {
-"id": "OPP-1110",
+"id": "OPP-1108",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25083,7 +25092,7 @@
 ]
 },
 {
-"id": "OPP-1111",
+"id": "OPP-1109",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25128,47 +25137,7 @@
 ]
 },
 {
-"id": "OPP-1112",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo Reno5 5G",
-"Oppo Reno5 K",
-"Oppo Find X3 Lite",
-"Oppo K9"
-],
-"released": [
-"2020-12",
-"2021-02",
-"2021-03",
-"2021-05"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"PEGM00, PEGT00, CPH2145",
-"PEGM10",
-"CPH2145",
-"PEXM00"
-],
-"screens": [
-"6.43in",
-"6.43in",
-"6.43in",
-"6.43in"
-],
-"dims": [
-"159.1 x 73.4 x 7.9 mm",
-"159.1 x 73.4 x 7.9 mm",
-"159.1 x 73.4 x 7.9 mm",
-"159.1 x 73.4 x 7.9 mm"
-]
-},
-{
-"id": "OPP-1113",
+"id": "OPP-1110",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25193,7 +25162,7 @@
 ]
 },
 {
-"id": "OPP-1114",
+"id": "OPP-1111",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25223,7 +25192,7 @@
 ]
 },
 {
-"id": "OPP-1115",
+"id": "OPP-1112",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25248,47 +25217,7 @@
 ]
 },
 {
-"id": "OPP-1116",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo A93 5G",
-"Oppo A74 5G",
-"Oppo A54 5G",
-"Oppo A93s 5G"
-],
-"released": [
-"2021-01",
-"2021-04",
-"2021-04",
-"2021-07"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"PCGM00, PEHM00, PEHT00",
-"CPH2197, CPH2263",
-"CPH2195, OPG02",
-"PFGM00"
-],
-"screens": [
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in"
-],
-"dims": [
-"162.9 x 74.7 x 8.4 mm",
-"162.9 x 74.7 x 8.4 mm",
-"162.9 x 74.7 x 8.4 mm",
-"162.9 x 74.7 x 8.4 mm"
-]
-},
-{
-"id": "OPP-1117",
+"id": "OPP-1113",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25318,7 +25247,7 @@
 ]
 },
 {
-"id": "OPP-1118",
+"id": "OPP-1114",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25358,7 +25287,7 @@
 ]
 },
 {
-"id": "OPP-1119",
+"id": "OPP-1115",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25398,7 +25327,7 @@
 ]
 },
 {
-"id": "OPP-1120",
+"id": "OPP-1116",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25428,7 +25357,7 @@
 ]
 },
 {
-"id": "OPP-1121",
+"id": "OPP-1117",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25458,7 +25387,7 @@
 ]
 },
 {
-"id": "OPP-1122",
+"id": "OPP-1118",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25503,32 +25432,65 @@
 ]
 },
 {
-"id": "OPP-1123",
+"id": "OPP-1119",
 "brand": "Oppo",
 "brands": [
 "OPP"
 ],
 "models": [
-"Oppo A53s 5G"
+"Oppo A53s 5G",
+"Oppo A16",
+"Oppo A16s",
+"Oppo A54s"
 ],
 "released": [
-"2021-04"
+"2021-04",
+"2021-07",
+"2021-08",
+"2021-10"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Oppo A53s 5G, Oppo A54s; Oppo A16, Oppo A16s. The rest match on specs: test before swapping. MyScreen sells one glass for the Oppo A53s 5G and Oppo A54s (Homescreen.pl). 3MK sells one glass for the Oppo A16 and Oppo A16s (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A54s/A53s 5G black Full Glue",
+"https://homescreen.pl/en/oppo-a54/57423-myscreen-diamond-glass-edge-lite-fg-oppo-a54s-a53s-5g-black-full-glue-5904433210515.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A54s/A53s 5G black Full Glue",
+"https://homescreen.pl/en/oppo-a54/57151-myscreen-diamond-glass-edge-fg-oppo-a54s-a53s-5g-black-full-glue-5904433213608.html"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Lite Oppo A16/A16s Black black",
+"https://homescreen.pl/en/oppo-a16/47890-3mk-hardglass-max-lite-oppo-a16-a16s-black-black-5903108497640.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Max Oppo A16/A16s black",
+"https://homescreen.pl/en/oppo-a16/27829-3mk-flexibleglass-max-oppo-a16a16s-black-5903108444644.html"
+]
+],
 "codes": [
-"CPH2321"
+"CPH2321",
+"CPH2269",
+"CPH2271",
+"CPH2273"
 ],
 "screens": [
+"6.52in",
+"6.52in",
+"6.52in",
 "6.52in"
 ],
 "dims": [
-"164 x 75.7 x 8.4 mm"
+"164 x 75.7 x 8.4 mm",
+"163.8 x 75.6 x 8.4 mm",
+"163.8 x 75.6 x 8.4 mm",
+"163.8 x 75.6 x 8.4 mm"
 ]
 },
 {
-"id": "OPP-1124",
+"id": "OPP-1120",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25558,7 +25520,7 @@
 ]
 },
 {
-"id": "OPP-1125",
+"id": "OPP-1121",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25583,7 +25545,7 @@
 ]
 },
 {
-"id": "OPP-1126",
+"id": "OPP-1122",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25613,42 +25575,7 @@
 ]
 },
 {
-"id": "OPP-1127",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo A16",
-"Oppo A16s",
-"Oppo A54s"
-],
-"released": [
-"2021-07",
-"2021-08",
-"2021-10"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"CPH2269",
-"CPH2271",
-"CPH2273"
-],
-"screens": [
-"6.52in",
-"6.52in",
-"6.52in"
-],
-"dims": [
-"163.8 x 75.6 x 8.4 mm",
-"163.8 x 75.6 x 8.4 mm",
-"163.8 x 75.6 x 8.4 mm"
-]
-},
-{
-"id": "OPP-1128",
+"id": "OPP-1123",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25673,7 +25600,7 @@
 ]
 },
 {
-"id": "OPP-1129",
+"id": "OPP-1124",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25698,7 +25625,7 @@
 ]
 },
 {
-"id": "OPP-1130",
+"id": "OPP-1125",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25723,7 +25650,7 @@
 ]
 },
 {
-"id": "OPP-1131",
+"id": "OPP-1126",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25748,7 +25675,7 @@
 ]
 },
 {
-"id": "OPP-1132",
+"id": "OPP-1127",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25773,7 +25700,7 @@
 ]
 },
 {
-"id": "OPP-1133",
+"id": "OPP-1128",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25798,7 +25725,7 @@
 ]
 },
 {
-"id": "OPP-1134",
+"id": "OPP-1129",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25823,7 +25750,7 @@
 ]
 },
 {
-"id": "OPP-1135",
+"id": "OPP-1130",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25851,7 +25778,7 @@
 ]
 },
 {
-"id": "OPP-1136",
+"id": "OPP-1131",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25876,7 +25803,7 @@
 ]
 },
 {
-"id": "OPP-1137",
+"id": "OPP-1132",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25889,9 +25816,19 @@
 "2022-01",
 "2022-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "MyScreen sells one glass for the Oppo A36 and Oppo A76 (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A36/A76 black Full Glue",
+"https://homescreen.pl/en/oppo-a36/57150-myscreen-diamond-glass-edge-fg-oppo-a36-a76-black-full-glue-5904433210812.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A36/A76 black Full Glue",
+"https://homescreen.pl/en/oppo-a36/57367-myscreen-diamond-glass-edge-lite-fg-oppo-a36-a76-black-full-glue-5904433210829.html"
+]
+],
 "codes": [
 "PESM10",
 "CPH2375"
@@ -25906,7 +25843,7 @@
 ]
 },
 {
-"id": "OPP-1138",
+"id": "OPP-1133",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -25967,7 +25904,7 @@
 ]
 },
 {
-"id": "OPP-1139",
+"id": "OPP-1134",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25992,7 +25929,7 @@
 ]
 },
 {
-"id": "OPP-1140",
+"id": "OPP-1135",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26017,37 +25954,7 @@
 ]
 },
 {
-"id": "OPP-1141",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo A96",
-"Oppo K10"
-],
-"released": [
-"2022-03",
-"2022-03"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"CPH2333",
-"CPH2373"
-],
-"screens": [
-"6.59in",
-"6.59in"
-],
-"dims": [
-"164.4 x 75.7 x 8.4 mm",
-"164.4 x 75.7 x 8.4 mm"
-]
-},
-{
-"id": "OPP-1142",
+"id": "OPP-1136",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26088,12 +25995,24 @@
 "2023-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Oppo A57, Oppo A57s, Oppo A57e. The rest match on specs: test before swapping. 3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s. Press reports: Nord N300 is a rebranded Oppo A77 5G / K10 5G",
+"note": "Sellers confirm Oppo A57, Oppo A57 4G, Oppo A57s, Oppo A57e. The rest match on specs: test before swapping. 3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s. MyScreen sells one glass for the Oppo A57 and Oppo A57 4G (Homescreen.pl). Press reports: Nord N300 is a rebranded Oppo A77 5G / K10 5G",
 "device": "Phone",
 "sources": [
 [
 "digitec (3MK)",
 "https://www.digitec.ch/en/s1/product/3mk-flexibleglass-pro-1-pcs-oppo-a57-5g-oppo-a57e-oppo-a57s-mobile-phone-screen-protectors-52429536"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Oppo A57/A57e/A57s",
+"https://homescreen.pl/en/oppo-a57/45391-3mk-flexibleglass-oppo-a57-a57e-a57s-5903108493406.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Oppo A57 4G/5G black Full Glue",
+"https://homescreen.pl/en/oppo-a57/57424-myscreen-diamond-glass-edge-lite-fg-oppo-a57-4g-5g-black-full-glue-5904433213110.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Oppo A57 4G/5G black Full Glue",
+"https://homescreen.pl/en/oppo-a57/57152-myscreen-diamond-glass-edge-fg-oppo-a57-4g-5g-black-full-glue-5904433213127.html"
 ]
 ],
 "codes": [
@@ -26149,7 +26068,7 @@
 ]
 },
 {
-"id": "OPP-1143",
+"id": "OPP-1137",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26180,7 +26099,7 @@
 ]
 },
 {
-"id": "OPP-1144",
+"id": "OPP-1138",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26205,7 +26124,7 @@
 ]
 },
 {
-"id": "OPP-1145",
+"id": "OPP-1139",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26230,7 +26149,7 @@
 ]
 },
 {
-"id": "OPP-1146",
+"id": "OPP-1140",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26255,7 +26174,7 @@
 ]
 },
 {
-"id": "OPP-1147",
+"id": "OPP-1141",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26291,7 +26210,7 @@
 ]
 },
 {
-"id": "OPP-1148",
+"id": "OPP-1142",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26316,7 +26235,7 @@
 ]
 },
 {
-"id": "OPP-1149",
+"id": "OPP-1143",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26341,7 +26260,7 @@
 ]
 },
 {
-"id": "OPP-1150",
+"id": "OPP-1144",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26371,7 +26290,7 @@
 ]
 },
 {
-"id": "OPP-1151",
+"id": "OPP-1145",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26401,7 +26320,7 @@
 ]
 },
 {
-"id": "OPP-1152",
+"id": "OPP-1146",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26431,7 +26350,7 @@
 ]
 },
 {
-"id": "OPP-1153",
+"id": "OPP-1147",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26461,7 +26380,7 @@
 ]
 },
 {
-"id": "OPP-1154",
+"id": "OPP-1148",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26486,7 +26405,7 @@
 ]
 },
 {
-"id": "OPP-1155",
+"id": "OPP-1149",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26514,7 +26433,7 @@
 ]
 },
 {
-"id": "OPP-1156",
+"id": "OPP-1150",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26542,7 +26461,7 @@
 ]
 },
 {
-"id": "OPP-1157",
+"id": "OPP-1151",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26567,7 +26486,7 @@
 ]
 },
 {
-"id": "OPP-1158",
+"id": "OPP-1152",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26592,7 +26511,7 @@
 ]
 },
 {
-"id": "OPP-1159",
+"id": "OPP-1153",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26617,7 +26536,7 @@
 ]
 },
 {
-"id": "OPP-1160",
+"id": "OPP-1154",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26652,7 +26571,7 @@
 ]
 },
 {
-"id": "OPP-1161",
+"id": "OPP-1155",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26677,7 +26596,7 @@
 ]
 },
 {
-"id": "OPP-1162",
+"id": "OPP-1156",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26702,7 +26621,7 @@
 ]
 },
 {
-"id": "OPP-1163",
+"id": "OPP-1157",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26727,7 +26646,7 @@
 ]
 },
 {
-"id": "OPP-1164",
+"id": "OPP-1158",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26752,7 +26671,7 @@
 ]
 },
 {
-"id": "OPP-1165",
+"id": "OPP-1159",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26796,7 +26715,7 @@
 ]
 },
 {
-"id": "OPP-1166",
+"id": "OPP-1160",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26821,7 +26740,7 @@
 ]
 },
 {
-"id": "OPP-1167",
+"id": "OPP-1161",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26846,7 +26765,7 @@
 ]
 },
 {
-"id": "OPP-1168",
+"id": "OPP-1162",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26874,7 +26793,7 @@
 ]
 },
 {
-"id": "OPP-1169",
+"id": "OPP-1163",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26910,7 +26829,7 @@
 ]
 },
 {
-"id": "OPP-1170",
+"id": "OPP-1164",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26935,7 +26854,7 @@
 ]
 },
 {
-"id": "OPP-1171",
+"id": "OPP-1165",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26971,7 +26890,7 @@
 ]
 },
 {
-"id": "OPP-1172",
+"id": "OPP-1166",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27001,7 +26920,7 @@
 ]
 },
 {
-"id": "OPP-1173",
+"id": "OPP-1167",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27026,7 +26945,7 @@
 ]
 },
 {
-"id": "OPP-1174",
+"id": "OPP-1168",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27048,7 +26967,7 @@
 ]
 },
 {
-"id": "OPP-1175",
+"id": "OPP-1169",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27073,7 +26992,7 @@
 ]
 },
 {
-"id": "OPP-1176",
+"id": "OPP-1170",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27098,7 +27017,7 @@
 ]
 },
 {
-"id": "OPP-1177",
+"id": "OPP-1171",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27123,7 +27042,7 @@
 ]
 },
 {
-"id": "OPP-1178",
+"id": "OPP-1172",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27153,7 +27072,7 @@
 ]
 },
 {
-"id": "OPP-1179",
+"id": "OPP-1173",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -27189,7 +27108,7 @@
 ]
 },
 {
-"id": "OPP-1180",
+"id": "OPP-1174",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27214,7 +27133,7 @@
 ]
 },
 {
-"id": "OPP-1181",
+"id": "OPP-1175",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27239,7 +27158,7 @@
 ]
 },
 {
-"id": "OPP-1182",
+"id": "OPP-1176",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27264,7 +27183,7 @@
 ]
 },
 {
-"id": "OPP-1183",
+"id": "OPP-1177",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27289,7 +27208,7 @@
 ]
 },
 {
-"id": "OPP-1184",
+"id": "OPP-1178",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27314,7 +27233,7 @@
 ]
 },
 {
-"id": "OPP-1185",
+"id": "OPP-1179",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27339,7 +27258,7 @@
 ]
 },
 {
-"id": "OPP-1186",
+"id": "OPP-1180",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27379,7 +27298,7 @@
 ]
 },
 {
-"id": "OPP-1187",
+"id": "OPP-1181",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27404,7 +27323,7 @@
 ]
 },
 {
-"id": "OPP-1188",
+"id": "OPP-1182",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27429,7 +27348,7 @@
 ]
 },
 {
-"id": "OPP-1189",
+"id": "OPP-1183",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27454,7 +27373,7 @@
 ]
 },
 {
-"id": "OPP-1190",
+"id": "OPP-1184",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27476,7 +27395,7 @@
 ]
 },
 {
-"id": "OPP-1191",
+"id": "OPP-1185",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27501,7 +27420,7 @@
 ]
 },
 {
-"id": "OPP-1192",
+"id": "OPP-1186",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27526,7 +27445,7 @@
 ]
 },
 {
-"id": "OPP-1193",
+"id": "OPP-1187",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27551,7 +27470,7 @@
 ]
 },
 {
-"id": "OPP-1194",
+"id": "OPP-1188",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27576,7 +27495,7 @@
 ]
 },
 {
-"id": "OPP-1195",
+"id": "OPP-1189",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27606,7 +27525,7 @@
 ]
 },
 {
-"id": "OPP-1196",
+"id": "OPP-1190",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27636,59 +27555,48 @@
 ]
 },
 {
-"id": "OPP-1197",
+"id": "OPP-1191",
 "brand": "Oppo",
 "brands": [
 "OPP"
 ],
 "models": [
 "Oppo Reno13 F",
+"Oppo Reno13 F 5G",
 "Oppo Reno13 F 4G"
 ],
 "released": [
 "2025-01",
+"2025-01",
 "2025-01"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Oppo Reno13 F 5G, Oppo Reno13 F 4G. The rest match on specs: test before swapping. 3MK sells one hybrid glass for the Oppo Reno13 F 4G and Oppo Reno13 F 5G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: 3MK FlexibleGlass Oppo Reno 13F 4G / 5G",
+"https://homescreen.pl/en/oppo-reno13-f-fs/118644-3mk-flexibleglass-oppo-reno-13f-4g-5g-5903108639286.html"
+]
+],
 "codes": [
 "CPH2699",
+"",
 "CPH2701"
 ],
 "screens": [
+"6.67in",
 "6.67in",
 "6.67in"
 ],
 "dims": [
 "162.2 x 75.1 x 7.8 mm",
+"162.2 x 75.05 x 7.76 mm",
 "162.2 x 75.1 x 7.8 mm"
 ]
 },
 {
-"id": "OPP-1198",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
-"Oppo Reno13 F 5G"
-],
-"released": [
-"2025-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.67in"
-],
-"dims": [
-"162.2 x 75.05 x 7.76 mm"
-]
-},
-{
-"id": "OPP-1199",
+"id": "OPP-1192",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27716,7 +27624,7 @@
 ]
 },
 {
-"id": "OPP-1200",
+"id": "OPP-1193",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27746,7 +27654,7 @@
 ]
 },
 {
-"id": "OPP-1201",
+"id": "OPP-1194",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27771,7 +27679,7 @@
 ]
 },
 {
-"id": "OPP-1202",
+"id": "OPP-1195",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27799,7 +27707,7 @@
 ]
 },
 {
-"id": "OPP-1203",
+"id": "OPP-1196",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27824,7 +27732,7 @@
 ]
 },
 {
-"id": "OPP-1204",
+"id": "OPP-1197",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27849,7 +27757,7 @@
 ]
 },
 {
-"id": "OPP-1205",
+"id": "OPP-1198",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27874,7 +27782,7 @@
 ]
 },
 {
-"id": "OPP-1206",
+"id": "OPP-1199",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27899,7 +27807,7 @@
 ]
 },
 {
-"id": "OPP-1207",
+"id": "OPP-1200",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27924,7 +27832,7 @@
 ]
 },
 {
-"id": "OPP-1208",
+"id": "OPP-1201",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27949,7 +27857,7 @@
 ]
 },
 {
-"id": "OPP-1209",
+"id": "OPP-1202",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27979,7 +27887,7 @@
 ]
 },
 {
-"id": "OPP-1210",
+"id": "OPP-1203",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28013,7 +27921,7 @@
 "2026-04"
 ],
 "check": "Check",
-"note": "Sellers confirm Oppo A6 Pro, Oppo Reno15, Oppo Reno15 F, Oppo Reno15 FS. The rest match on specs: test before swapping. IMAK H-series glass (eBay listing) names A6 Pro 5G, F31 5G and F31 Pro 5G together; single marketplace listing, test fit. Bizon Glass Clear 2 lists Reno15, 15 F, 15 FS and A6 Pro 5G; 3MK lists Reno15 F/FS together. Flat-area glass, slightly smaller than the screen",
+"note": "Sellers confirm Oppo A6 Pro, Oppo Reno15, Oppo Reno15 F, Oppo Reno15 FS. The rest match on specs: test before swapping. IMAK H-series glass (eBay listing) names A6 Pro 5G, F31 5G and F31 Pro 5G together; single marketplace listing, test fit. Bizon Glass Clear 2 lists Reno15, 15 F, 15 FS and A6 Pro 5G; 3MK lists Reno15 F/FS together. Flat-area glass, slightly smaller than the screen. 3MK sells one hybrid glass for the Oppo Reno15 F and Oppo Reno15 FS (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -28027,6 +27935,10 @@
 [
 "3MK (aio.lv)",
 "https://aio.lv/en/product--3mk-w-3fxgl-op15ffs--11704703.md"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Oppo Reno 15 F 5G / Reno 15 FS 5G",
+"https://homescreen.pl/en/oppo-reno15-f-fs/147798-3mk-flexibleglass-oppo-reno-15-f-5g-reno-15-fs-5g-5903108746489.html"
 ]
 ],
 "codes": [
@@ -28073,7 +27985,7 @@
 ]
 },
 {
-"id": "OPP-1211",
+"id": "OPP-1204",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28103,7 +28015,7 @@
 ]
 },
 {
-"id": "OPP-1212",
+"id": "OPP-1205",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28122,7 +28034,7 @@
 ]
 },
 {
-"id": "OPP-1213",
+"id": "OPP-1206",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28155,7 +28067,7 @@
 ]
 },
 {
-"id": "OPP-1214",
+"id": "OPP-1207",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28183,7 +28095,7 @@
 ]
 },
 {
-"id": "OPP-1215",
+"id": "OPP-1208",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28218,7 +28130,7 @@
 ]
 },
 {
-"id": "OPP-1216",
+"id": "OPP-1209",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28243,7 +28155,7 @@
 ]
 },
 {
-"id": "OPP-1217",
+"id": "OPP-1210",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28362,7 +28274,7 @@
 ]
 },
 {
-"id": "OPP-1218",
+"id": "OPP-1211",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28392,7 +28304,7 @@
 ]
 },
 {
-"id": "OPP-1219",
+"id": "OPP-1212",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28420,7 +28332,7 @@
 ]
 },
 {
-"id": "OPP-1220",
+"id": "OPP-1213",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28448,7 +28360,7 @@
 ]
 },
 {
-"id": "OPP-1221",
+"id": "OPP-1214",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28464,7 +28376,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1222",
+"id": "OPP-1215",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28489,7 +28401,7 @@
 ]
 },
 {
-"id": "OPP-1223",
+"id": "OPP-1216",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28519,7 +28431,7 @@
 ]
 },
 {
-"id": "OPP-1224",
+"id": "OPP-1217",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28547,7 +28459,7 @@
 ]
 },
 {
-"id": "OPP-1225",
+"id": "OPP-1218",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28575,7 +28487,7 @@
 ]
 },
 {
-"id": "OPP-1226",
+"id": "OPP-1219",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28605,7 +28517,7 @@
 ]
 },
 {
-"id": "OPP-1227",
+"id": "OPP-1220",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28635,6 +28547,10 @@
 [
 "homescreen.pl (Bizon, 3MK)",
 "https://homescreen.pl/en/2612-oppo-reno16-series"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Oppo Reno16 / Reno16 Pro 5G [2 PACK]",
+"https://homescreen.pl/en/oppo-reno16/148478-bizon-glass-clear-duo-oppo-reno16-reno16-pro-5g-2-pack-5900415764014.html"
 ]
 ],
 "codes": [
@@ -28654,7 +28570,7 @@
 ]
 },
 {
-"id": "OPP-1228",
+"id": "OPP-1221",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28679,7 +28595,7 @@
 ]
 },
 {
-"id": "OPP-1229",
+"id": "OPP-1222",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28724,7 +28640,7 @@
 ]
 },
 {
-"id": "OPP-1230",
+"id": "OPP-1223",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28740,7 +28656,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1231",
+"id": "OPP-1224",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28762,7 +28678,7 @@
 ]
 },
 {
-"id": "OPP-1232",
+"id": "OPP-1225",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28784,7 +28700,7 @@
 ]
 },
 {
-"id": "OPP-1233",
+"id": "OPP-1226",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28800,7 +28716,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1234",
+"id": "OPP-1227",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28822,7 +28738,7 @@
 ]
 },
 {
-"id": "OPP-1235",
+"id": "OPP-1228",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28838,7 +28754,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1236",
+"id": "OPP-1229",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28860,7 +28776,7 @@
 ]
 },
 {
-"id": "OPP-1237",
+"id": "OPP-1230",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28879,7 +28795,7 @@
 ]
 },
 {
-"id": "OPP-1238",
+"id": "OPP-1231",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28901,7 +28817,7 @@
 ]
 },
 {
-"id": "OPP-1239",
+"id": "OPP-1232",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28923,7 +28839,7 @@
 ]
 },
 {
-"id": "OPP-1240",
+"id": "OPP-1233",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29073,8 +28989,14 @@
 "2025-06"
 ],
 "check": "Check",
-"note": "Press reports: OnePlus Pad 2 Pro is a rebranded Oppo Pad 4 Pro",
+"note": "Sellers confirm OnePlus Pad 2 Pro, OnePlus Pad 3. The rest match on specs: test before swapping. GrizzGlass sells one hybrid glass for the OnePlus Pad 2 Pro and OnePlus Pad 3 (Homescreen.pl). Press reports: OnePlus Pad 2 Pro is a rebranded Oppo Pad 4 Pro",
 "device": "Tablet",
+"sources": [
+[
+"Homescreen.pl: GrizzGlass HybridGlass OnePlus Pad 3 / 2 Pro / OPPO Pad 4 / 4 Pro",
+"https://homescreen.pl/en/oneplus-pad-3-2-pro/112485-grizzglass-hybridglass-oneplus-pad-2-pro-5906146483453.html"
+]
+],
 "codes": [
 "OPD2409",
 "OPD2413",
@@ -29106,9 +29028,15 @@
 "2025-05",
 "2025-06"
 ],
-"check": "Check",
-"note": "Press reports: OnePlus Pad Lite is nearly identical to the Oppo Pad SE",
+"check": "Confirmed",
+"note": "GrizzGlass sells one hybrid glass for the OnePlus Pad Lite and Oppo Pad SE (Homescreen.pl). Press reports: OnePlus Pad Lite is nearly identical to the Oppo Pad SE",
 "device": "Tablet",
+"sources": [
+[
+"Homescreen.pl: GrizzGlass HybridGlass OnePlus Pad Lite / Oppo Pad SE",
+"https://homescreen.pl/en/oneplus-pad-lite/113517-grizzglass-hybridglass-oneplus-pad-lite-5906146491748.html"
+]
+],
 "codes": [
 "OPD2417",
 "OPD2480"
@@ -31310,8 +31238,18 @@
 "2024-10"
 ],
 "check": "Check",
-"note": "Press reports: Oppo Pad 3 Pro is the OnePlus Pad 2 under a new name",
+"note": "Sellers confirm OnePlus Pad Pro, OnePlus Pad 2. The rest match on specs: test before swapping. 3MK and GrizzGlass sell one hybrid glass for the OnePlus Pad 2 and OnePlus Pad Pro (Homescreen.pl). Press reports: Oppo Pad 3 Pro is the OnePlus Pad 2 under a new name",
 "device": "Tablet",
+"sources": [
+[
+"Homescreen.pl: Hybrid glass 3MK FlexibleGlass OnePlus Pad 2 / Pad Pro",
+"https://homescreen.pl/en/oneplus-pad-2-pad-pro/79462-hybrid-glass-3mk-flexibleglass-oneplus-pad-pro-13-5903108590013.html"
+],
+[
+"Homescreen.pl: Hybrid glass 3MK FlexibleGlass OnePlus Pad 2 / Pad Pro",
+"https://homescreen.pl/en/oneplus-pad-2-pad-pro/79461-hybrid-glass-3mk-flexibleglass-oneplus-pad-2-13-5903108597562.html"
+]
+],
 "codes": [
 "OPD2404",
 "",
@@ -55038,22 +54976,32 @@
 "Moto G9 Play",
 "Moto E7 Plus",
 "Lenovo K12 (China)",
-"Moto G10"
+"Moto G10",
+"Moto G30",
+"Moto G20",
+"Lenovo K13 Note"
 ],
 "released": [
 "2020-08",
 "2020-08",
 "2020-09",
 "2020-12",
-"2021-02"
+"2021-02",
+"2021-02",
+"2021-04",
+"2021-06"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G9 Play, Moto E7 Plus. The rest match on specs: test before swapping. Dux Ducis 9D glass is listed for G9 Play and E7 Plus; other models in the group not checked",
+"note": "Sellers confirm Moto G9 Play, Moto E7 Plus, Moto G10, Moto G30, Moto G20. The rest match on specs: test before swapping. Dux Ducis 9D glass is listed for G9 Play and E7 Plus; other models in the group not checked. Bizon sells one glass for the Moto G10, Moto G20, Moto G30 and Moto G9 Play (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
 "Dux Ducis 9D (Home Screen)",
 "https://homescreen.pl/en/774-moto-e7-plus"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Moto G10 / G20 / G30 / G9 Play black",
+"https://homescreen.pl/en/moto-g30/91576-bizon-glass-edge-moto-g10-g20-g30-g9-play-black-5903896184371.html"
 ]
 ],
 "codes": [
@@ -55061,9 +55009,15 @@
 "XT2083, XT2083-1",
 "XT2081-1, XT2081-2",
 "",
-"XT2127-2"
+"XT2127-2",
+"XT2129-1, XT2129-2, PAML0000IN",
+"XT2128-1, XT2128-2",
+""
 ],
 "screens": [
+"6.5in",
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -55075,7 +55029,10 @@
 "165.2 x 75.7 x 9.2 mm",
 "165.2 x 75.7 x 9.2 mm",
 "165.2 x 75.7 x 9.2 mm",
-"165.2 x 75.7 x 9.2 mm"
+"165.2 x 75.7 x 9.2 mm",
+"165.2 x 75.7 x 9.1 mm",
+"165.2 x 75.7 x 9.1 mm",
+"165.2 x 75.7 x 9.1 mm"
 ]
 },
 {
@@ -55379,42 +55336,6 @@
 },
 {
 "id": "MOT-1194",
-"brand": "Motorola + Lenovo",
-"brands": [
-"MOT",
-"LEN"
-],
-"models": [
-"Moto G30",
-"Moto G20",
-"Lenovo K13 Note"
-],
-"released": [
-"2021-02",
-"2021-04",
-"2021-06"
-],
-"check": "Check",
-"note": "Same body size and screen specs, sold under several brands: test before swapping",
-"device": "Phone",
-"codes": [
-"XT2129-1, XT2129-2, PAML0000IN",
-"XT2128-1, XT2128-2",
-""
-],
-"screens": [
-"6.5in",
-"6.5in",
-"6.5in"
-],
-"dims": [
-"165.2 x 75.7 x 9.1 mm",
-"165.2 x 75.7 x 9.1 mm",
-"165.2 x 75.7 x 9.1 mm"
-]
-},
-{
-"id": "MOT-1195",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55450,7 +55371,7 @@
 ]
 },
 {
-"id": "MOT-1196",
+"id": "MOT-1195",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55475,7 +55396,7 @@
 ]
 },
 {
-"id": "MOT-1197",
+"id": "MOT-1196",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55500,7 +55421,7 @@
 ]
 },
 {
-"id": "MOT-1198",
+"id": "MOT-1197",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55509,16 +55430,18 @@
 "Moto G100",
 "Moto G100S",
 "Moto G67 Power",
+"Moto G57",
 "Moto G57 Power"
 ],
 "released": [
 "2021-03",
 "2025-10",
 "2025-11",
+"2025-11",
 "2025-11"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G67 Power, Moto G57 Power. The rest match on specs: test before swapping. Bizon sells several glass SKUs each listed for G57 Power and G67 Power. MyScreen Diamond Glass Edge Lite is listed for both G57 5G and G57 Power; 3MK sells separate SKUs, so test fit",
+"note": "Sellers confirm Moto G67 Power, Moto G57, Moto G57 Power. The rest match on specs: test before swapping. Bizon sells several glass SKUs each listed for G57 Power and G67 Power. MyScreen sells one glass for the Moto G57 and Moto G57 Power (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -55526,45 +55449,62 @@
 "https://homescreen.pl/en/741-moto-g50-series"
 ],
 [
+"Homescreen.pl: Bizon Smart 2.5D Glass Motorola Moto G57 Power / G67 Power",
+"https://homescreen.pl/en/moto-g57/132589-bizon-smart-25d-glass-motorola-moto-g57-power-g67-power-5900415734673.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Motorola Moto G57 Power / G67 Power, black frame [2 PACK]",
+"https://homescreen.pl/en/moto-g57/130525-bizon-glass-edge-duo-motorola-moto-g57-power-g67-power-black-frame-2-pack-5900415735724.html"
+],
+[
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/741-moto-g50-series"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G57 5G / G57 Power black",
+"https://homescreen.pl/en/moto-g57/139780-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g57-5g-g57-power-black-5904433274340.html"
 ]
 ],
 "codes": [
 "XT2533-4",
 "",
 "",
+"XT2537-2",
 "XT2537-5"
 ],
 "screens": [
 "6.72in",
 "6.72in",
 "6.7in",
+"6.72in",
 "6.72in"
 ],
 "dims": [
 "166.2 x 76.5 x 8.6 mm",
 "166.2 x 76.5 x 8.6 mm",
 "166.2 x 76.5 x 8.6 mm",
+"166 x 76.5 x 8.6 mm",
 "166.2 x 76.5 x 8.6 mm"
 ]
 },
 {
-"id": "MOT-1199",
+"id": "MOT-1198",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
 "Moto G40 Fusion",
-"Moto G60"
+"Moto G60",
+"Moto G60S"
 ],
 "released": [
 "2021-04",
-"2021-04"
+"2021-04",
+"2021-08"
 ],
 "check": "Confirmed",
-"note": "The AL5hafii chart groups the G40 Fusion and G60 at 169.6 x 75.9 mm, and a Flipkart Rhino Armour glass and an eBay.de glass both list them together",
+"note": "The AL5hafii chart groups the G40 Fusion and G60 at 169.6 x 75.9 mm, and a Flipkart Rhino Armour glass and an eBay.de glass both list them together. 3MK sells one glass for the Moto G60 and Moto G60S (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -55578,23 +55518,34 @@
 [
 "AL5hafii mobiles-compatibility-charts 5_169x75",
 "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_169x75.txt"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Lite Motorola Moto G60/G60s black",
+"https://homescreen.pl/en/moto-g60s/32818-3mk-hardglass-max-lite-motorola-moto-g60g60s-black-5903108441698.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Lite Motorola Moto G60/G60s",
+"https://homescreen.pl/en/moto-g60s/32807-3mk-flexibleglass-lite-motorola-moto-g60g60s-5903108434850.html"
 ]
 ],
 "codes": [
 "PANV0001IN, PANV0005IN, PANV0009IN",
-"PANB0001IN, PANB0013IN, PANB0015IN"
+"PANB0001IN, PANB0013IN, PANB0015IN",
+"XT2133-2, XT2133-1"
 ],
 "screens": [
+"6.8in",
 "6.8in",
 "6.8in"
 ],
 "dims": [
 "169.6 x 75.9 x 9.7 mm",
-"169.6 x 75.9 x 9.8 mm"
+"169.6 x 75.9 x 9.8 mm",
+"169.7 x 75.9 x 9.6 mm"
 ]
 },
 {
-"id": "MOT-1200",
+"id": "MOT-1199",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55619,7 +55570,7 @@
 ]
 },
 {
-"id": "MOT-1201",
+"id": "MOT-1200",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55644,7 +55595,7 @@
 ]
 },
 {
-"id": "MOT-1202",
+"id": "MOT-1201",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55675,7 +55626,7 @@
 ]
 },
 {
-"id": "MOT-1203",
+"id": "MOT-1202",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55714,7 +55665,7 @@
 ]
 },
 {
-"id": "MOT-1204",
+"id": "MOT-1203",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55753,32 +55704,7 @@
 ]
 },
 {
-"id": "MOT-1205",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G60S"
-],
-"released": [
-"2021-08"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2133-2, XT2133-1"
-],
-"screens": [
-"6.8in"
-],
-"dims": [
-"169.7 x 75.9 x 9.6 mm"
-]
-},
-{
-"id": "MOT-1206",
+"id": "MOT-1204",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55800,7 +55726,7 @@
 ]
 },
 {
-"id": "MOT-1207",
+"id": "MOT-1205",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55836,7 +55762,7 @@
 ]
 },
 {
-"id": "MOT-1208",
+"id": "MOT-1206",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55861,7 +55787,7 @@
 ]
 },
 {
-"id": "MOT-1209",
+"id": "MOT-1207",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55892,7 +55818,7 @@
 ]
 },
 {
-"id": "MOT-1210",
+"id": "MOT-1208",
 "brand": "Motorola + Lenovo",
 "brands": [
 "MOT",
@@ -55915,6 +55841,10 @@
 [
 "Bizon Glass Clear (Home Screen)",
 "https://homescreen.pl/en/771-moto-e40"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Motorola Moto E40 / E30",
+"https://homescreen.pl/en/moto-e40/91560-bizon-glass-clear-motorola-moto-e40-e30-5904665303887.html"
 ]
 ],
 "codes": [
@@ -55934,7 +55864,7 @@
 ]
 },
 {
-"id": "MOT-1211",
+"id": "MOT-1209",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55959,7 +55889,7 @@
 ]
 },
 {
-"id": "MOT-1212",
+"id": "MOT-1210",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -55989,7 +55919,7 @@
 ]
 },
 {
-"id": "MOT-1213",
+"id": "MOT-1211",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56025,7 +55955,7 @@
 ]
 },
 {
-"id": "MOT-1214",
+"id": "MOT-1212",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56050,7 +55980,7 @@
 ]
 },
 {
-"id": "MOT-1215",
+"id": "MOT-1213",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56075,7 +56005,7 @@
 ]
 },
 {
-"id": "MOT-1216",
+"id": "MOT-1214",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56111,7 +56041,7 @@
 ]
 },
 {
-"id": "MOT-1217",
+"id": "MOT-1215",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56133,6 +56063,10 @@
 [
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/1692-moto-edge-30-series"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Motorola Edge 30 Pro/Edge X30 black Full Glue",
+"https://homescreen.pl/en/moto-edge-30-pro/57362-myscreen-diamond-glass-edge-lite-fg-motorola-edge-30-pro-edge-x30-black-full-glue-5904433206686.html"
 ]
 ],
 "codes": [
@@ -56152,7 +56086,7 @@
 ]
 },
 {
-"id": "MOT-1218",
+"id": "MOT-1216",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56174,7 +56108,7 @@
 ]
 },
 {
-"id": "MOT-1219",
+"id": "MOT-1217",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56184,6 +56118,8 @@
 "Moto E32",
 "Moto E32s",
 "Moto E22s",
+"Moto E22",
+"Moto E22i",
 "Moto E32 (India)"
 ],
 "released": [
@@ -56191,10 +56127,12 @@
 "2022-05",
 "2022-05",
 "2022-08",
+"2022-09",
+"2022-09",
 "2022-10"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G22, Moto E32, Moto E32s. The rest match on specs: test before swapping. SAFE by PanzerGlass is listed for G22, E32 and E32s (also Lenovo K15 Plus); Bizon and 3MK also pair E32/E32s. MyScreen sells one full-glue glass for E22 and E22s; only one brand seen, so test fit",
+"note": "Sellers confirm Moto G22, Moto E32, Moto E32s; Moto E22s, Moto E22, Moto E22i. The rest match on specs: test before swapping. SAFE by PanzerGlass is listed for G22, E32 and E32s (also Lenovo K15 Plus); Bizon and 3MK also pair E32/E32s. Bizon sells one glass for the Moto E32 and Moto E32s (Homescreen.pl). MyScreen sells one glass for the Moto E22 and Moto E22s (Homescreen.pl). Hofi Glass Pro+ is listed for E22 and E22i",
 "device": "Phone",
 "sources": [
 [
@@ -56202,8 +56140,28 @@
 "https://homescreen.pl/en/837-moto-e32"
 ],
 [
+"Homescreen.pl: Bizon Glass Clear Motorola Moto E32 / E32S",
+"https://homescreen.pl/en/moto-e32s/91556-bizon-glass-clear-motorola-moto-e32-e32s-5904665311936.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Motorola Moto E32 / E32s black",
+"https://homescreen.pl/en/moto-e32s/91558-bizon-glass-edge-motorola-moto-e32-e32s-black-5904665311967.html"
+],
+[
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/865-moto-e22s"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Moto E22/E22s black Full Glue",
+"https://homescreen.pl/en/moto-e22s/57361-myscreen-diamond-glass-edge-lite-fg-moto-e22-e22s-black-full-glue-5904433213264.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Moto E22/E22s black Full Glue",
+"https://homescreen.pl/en/moto-e22s/57149-myscreen-diamond-glass-edge-fg-moto-e22-e22s-black-full-glue-5904433213134.html"
+],
+[
+"Hofi Glass Pro+ (Home Screen)",
+"https://homescreen.pl/en/857-moto-e22e22i"
 ]
 ],
 "codes": [
@@ -56211,9 +56169,13 @@
 "",
 "",
 "",
+"",
+"",
 ""
 ],
 "screens": [
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -56225,36 +56187,66 @@
 "164 x 75 x 8.5 mm",
 "164 x 75 x 8.5 mm",
 "164 x 75 x 8.5 mm",
+"163.6 x 74.7 x 8 mm",
+"163.6 x 74.7 x 8 mm",
 "164 x 75 x 8.5 mm"
 ]
 },
 {
-"id": "MOT-1220",
+"id": "MOT-1218",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
-"Moto G52"
+"Moto G52",
+"Moto G82",
+"Moto G71s"
 ],
 "released": [
-"2022-04"
+"2022-04",
+"2022-05",
+"2022-05"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Bizon sells one glass for the Moto G52 and Moto G82 (Homescreen.pl). TelForceOne (aio.lv) sells one glass for the Moto G71s and G82, and the AL5hafii chart groups both at 160.9 x 74.5 mm",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Clear Motorola Moto G52/G82",
+"https://homescreen.pl/en/moto-g82/91728-bizon-glass-clear-motorola-moto-g52-g82-5904665392126.html"
+],
+[
+"TelForceOne 9D glass G52 / G71s / G72 / G82 (aio.lv)",
+"https://aio.lv/en/product--telforceone-82296239--11714608.md"
+],
+[
+"eBay.de glass (Moto G82, G71s, G31, G52)",
+"https://www.ebay.de/itm/403951824269"
+],
+[
+"AL5hafii mobiles-compatibility-charts 47_160x74",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/47_160x74.txt"
+]
+],
 "codes": [
-"XT2221-1, XT2221-2"
+"XT2221-1, XT2221-2",
+"XT2225-1",
+""
 ],
 "screens": [
+"6.6in",
+"6.6in",
 "6.6in"
 ],
 "dims": [
-"160.1 x 74.5 x 8 mm"
+"160.1 x 74.5 x 8 mm",
+"160.9 x 74.5 x 8 mm",
+"160.9 x 74.5 x 8 mm"
 ]
 },
 {
-"id": "MOT-1221",
+"id": "MOT-1219",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56279,7 +56271,7 @@
 ]
 },
 {
-"id": "MOT-1222",
+"id": "MOT-1220",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56304,7 +56296,7 @@
 ]
 },
 {
-"id": "MOT-1223",
+"id": "MOT-1221",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56329,51 +56321,7 @@
 ]
 },
 {
-"id": "MOT-1224",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G82",
-"Moto G71s"
-],
-"released": [
-"2022-05",
-"2022-05"
-],
-"check": "Confirmed",
-"note": "TelForceOne (aio.lv) sells one glass for the Moto G71s and G82, and the AL5hafii chart groups both at 160.9 x 74.5 mm",
-"device": "Phone",
-"sources": [
-[
-"TelForceOne 9D glass G52 / G71s / G72 / G82 (aio.lv)",
-"https://aio.lv/en/product--telforceone-82296239--11714608.md"
-],
-[
-"eBay.de glass (Moto G82, G71s, G31, G52)",
-"https://www.ebay.de/itm/403951824269"
-],
-[
-"AL5hafii mobiles-compatibility-charts 47_160x74",
-"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/47_160x74.txt"
-]
-],
-"codes": [
-"XT2225-1",
-""
-],
-"screens": [
-"6.6in",
-"6.6in"
-],
-"dims": [
-"160.9 x 74.5 x 8 mm",
-"160.9 x 74.5 x 8 mm"
-]
-},
-{
-"id": "MOT-1225",
+"id": "MOT-1222",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56404,58 +56352,48 @@
 ]
 },
 {
-"id": "MOT-1226",
+"id": "MOT-1223",
 "brand": "Motorola",
 "brands": [
 "MOT"
 ],
 "models": [
 "Moto G62 5G",
+"Moto G32",
 "Moto G62 (India)"
 ],
 "released": [
 "2022-06",
+"2022-07",
 "2022-08"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Moto G62 5G, Moto G32. The rest match on specs: test before swapping. MyScreen sells one glass for the Moto G32 and Moto G62 5G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Motorola Moto G62/G32 black Full Glue",
+"https://homescreen.pl/en/moto-g62/56433-myscreen-diamond-glass-edge-fg-motorola-moto-g62-g32-black-full-glue-5904433210126.html"
+]
+],
+"codes": [
+"",
+"\u200eXT2235-2, XT2235-3",
+""
+],
 "screens": [
+"6.5in",
 "6.5in",
 "6.5in"
 ],
 "dims": [
 "161.8 x 74 x 8.6 mm",
+"161.8 x 73.8 x 8.5 mm",
 "161.8 x 74 x 8.6 mm"
 ]
 },
 {
-"id": "MOT-1227",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G32"
-],
-"released": [
-"2022-07"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"\u200eXT2235-2, XT2235-3"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"161.8 x 73.8 x 8.5 mm"
-]
-},
-{
-"id": "MOT-1228",
+"id": "MOT-1224",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56483,7 +56421,7 @@
 ]
 },
 {
-"id": "MOT-1229",
+"id": "MOT-1225",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56508,7 +56446,7 @@
 ]
 },
 {
-"id": "MOT-1230",
+"id": "MOT-1226",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56533,7 +56471,7 @@
 ]
 },
 {
-"id": "MOT-1231",
+"id": "MOT-1227",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56561,7 +56499,7 @@
 ]
 },
 {
-"id": "MOT-1232",
+"id": "MOT-1228",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56592,7 +56530,7 @@
 ]
 },
 {
-"id": "MOT-1233",
+"id": "MOT-1229",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56623,7 +56561,7 @@
 ]
 },
 {
-"id": "MOT-1234",
+"id": "MOT-1230",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56654,43 +56592,7 @@
 ]
 },
 {
-"id": "MOT-1235",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto E22",
-"Moto E22i"
-],
-"released": [
-"2022-09",
-"2022-09"
-],
-"check": "Confirmed",
-"note": "MyScreen sells one full-glue glass for E22 and E22s; only one brand seen, so test fit. Hofi Glass Pro+ is listed for E22 and E22i",
-"device": "Phone",
-"sources": [
-[
-"MyScreen Diamond Glass (Home Screen)",
-"https://homescreen.pl/en/865-moto-e22s"
-],
-[
-"Hofi Glass Pro+ (Home Screen)",
-"https://homescreen.pl/en/857-moto-e22e22i"
-]
-],
-"screens": [
-"6.5in",
-"6.5in"
-],
-"dims": [
-"163.6 x 74.7 x 8 mm",
-"163.6 x 74.7 x 8 mm"
-]
-},
-{
-"id": "MOT-1236",
+"id": "MOT-1231",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56726,7 +56628,7 @@
 ]
 },
 {
-"id": "MOT-1237",
+"id": "MOT-1232",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56751,7 +56653,7 @@
 ]
 },
 {
-"id": "MOT-1238",
+"id": "MOT-1233",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56766,13 +56668,29 @@
 "2023-01",
 "2023-01"
 ],
-"check": "Check",
-"note": "Sellers confirm Moto G13, Moto G23. The rest match on specs: test before swapping. MyScreen sells one glass for G13 and G23; G53 not confirmed",
+"check": "Confirmed",
+"note": "Bizon sells one glass for the Moto G13, Moto G23 and Moto G53 (Homescreen.pl). MyScreen sells one glass for G13 and G23; G53 not confirmed",
 "device": "Phone",
 "sources": [
 [
+"Homescreen.pl: Bizon Glass Clear 2 Moto G13 / G23 / G53 5G",
+"https://homescreen.pl/en/moto-g53-5g/91579-bizon-glass-clear-2-moto-g13-g23-g53-5g-5904665364369.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge 2 Moto G13 / G23 / G53 5G black",
+"https://homescreen.pl/en/moto-g53-5g/91583-bizon-glass-edge-2-moto-g13-g23-g53-5g-black-5904665364376.html"
+],
+[
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/744-moto-g20-series"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Motorola Moto G13/G23 black Full Glue",
+"https://homescreen.pl/en/moto-g23/57365-myscreen-diamond-glass-edge-lite-fg-motorola-moto-g13-g23-black-full-glue-5904433218900.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Motorola Moto G13/G23",
+"https://homescreen.pl/en/moto-g23/51563-3mk-flexibleglass-motorola-moto-g13-g23-5903108513593.html"
 ]
 ],
 "codes": [
@@ -56792,7 +56710,7 @@
 ]
 },
 {
-"id": "MOT-1239",
+"id": "MOT-1234",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56817,7 +56735,7 @@
 ]
 },
 {
-"id": "MOT-1240",
+"id": "MOT-1235",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56839,7 +56757,7 @@
 ]
 },
 {
-"id": "MOT-1241",
+"id": "MOT-1236",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56861,7 +56779,7 @@
 ]
 },
 {
-"id": "MOT-1242",
+"id": "MOT-1237",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56886,7 +56804,7 @@
 ]
 },
 {
-"id": "MOT-1243",
+"id": "MOT-1238",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56912,7 +56830,7 @@
 ]
 },
 {
-"id": "MOT-1244",
+"id": "MOT-1239",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56940,7 +56858,7 @@
 ]
 },
 {
-"id": "MOT-1245",
+"id": "MOT-1240",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56965,7 +56883,7 @@
 ]
 },
 {
-"id": "MOT-1246",
+"id": "MOT-1241",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -56987,7 +56905,7 @@
 ]
 },
 {
-"id": "MOT-1247",
+"id": "MOT-1242",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57012,7 +56930,7 @@
 ]
 },
 {
-"id": "MOT-1248",
+"id": "MOT-1243",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57043,7 +56961,7 @@
 ]
 },
 {
-"id": "MOT-1249",
+"id": "MOT-1244",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57071,7 +56989,7 @@
 ]
 },
 {
-"id": "MOT-1250",
+"id": "MOT-1245",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57099,7 +57017,7 @@
 ]
 },
 {
-"id": "MOT-1251",
+"id": "MOT-1246",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57108,16 +57026,18 @@
 "Moto G14",
 "Moto G54 Power",
 "Moto G54",
-"Moto G64"
+"Moto G64",
+"Moto G55"
 ],
 "released": [
 "2023-08",
 "2023-09",
 "2023-09",
-"2024-04"
+"2024-04",
+"2024-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G14, Moto G54 Power, Moto G54. The rest match on specs: test before swapping. PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54. Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit. 3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power",
+"note": "Sellers confirm Moto G14, Moto G54 Power, Moto G54, Moto G55. The rest match on specs: test before swapping. PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54. Bizon sells one glass for the Moto G14, Moto G54, Moto G54 Power and Moto G55 (Homescreen.pl). Bizon sells one glass for the Moto G14, Moto G54 and Moto G55 (Homescreen.pl). 3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power",
 "device": "Phone",
 "sources": [
 [
@@ -57141,6 +57061,14 @@
 "https://homescreen.pl/en/745-moto-g10-series"
 ],
 [
+"Homescreen.pl: Bizon Glass Clear Duo Motorola Moto G14 4G / G54 5G / G54 Power 5G / G55 5G [2 PACK]",
+"https://homescreen.pl/en/moto-g14/125483-bizon-glass-clear-duo-motorola-moto-g14-4g-g54-5g-g54-power-5g-g55-5g-2-pack-5900415718437.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 Motorola Moto G14 / G54 / G55",
+"https://homescreen.pl/en/moto-g55/95971-bizon-glass-clear-2-motorola-moto-g14-g54-g55-5904665351437.html"
+],
+[
 "3MK HardGlass Max Lite G54 / Power Edition at homescreen.pl",
 "https://homescreen.pl/en/g54/79727-tempered-glass-3mk-hardglass-max-lite-motorola-moto-g54-power-edition-black-5903108586085.html"
 ],
@@ -57153,23 +57081,26 @@
 "PAYF0010IN",
 "XT2343-6",
 "XT2343-1, XT2343-2",
-""
+"",
+"XT2435-2"
 ],
 "screens": [
 "6.5in",
 "6.5in",
 "6.5in",
-"6.5in"
+"6.5in",
+"6.49in"
 ],
 "dims": [
 "161.5 x 73.8 x 8 mm",
 "161.6 x 73.8 x 8.9 mm",
 "161.6 x 73.8 x 8 mm",
-"161.6 x 73.8 x 8.9 mm"
+"161.6 x 73.8 x 8.9 mm",
+"161.6 x 73.8 x 8.1 mm"
 ]
 },
 {
-"id": "MOT-1252",
+"id": "MOT-1247",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57200,7 +57131,7 @@
 ]
 },
 {
-"id": "MOT-1253",
+"id": "MOT-1248",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57222,7 +57153,7 @@
 ]
 },
 {
-"id": "MOT-1254",
+"id": "MOT-1249",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57246,7 +57177,7 @@
 "2024-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G34, Moto G04, Moto G24, Moto G24 Power, Moto E14. The rest match on specs: test before swapping. 3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34. Bizon sells one glass for G04, G24, G24 Power and E14; G04s not named",
+"note": "Sellers confirm Moto G34, Moto G04, Moto G24, Moto G24 Power, Moto E14. The rest match on specs: test before swapping. 3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34. Bizon sells one glass for G04, G24, G24 Power and E14; G04s not named. MyScreen sells one glass for the Moto G04 and Moto G24 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G24 and Moto G24 Power (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -57254,8 +57185,20 @@
 "https://homescreen.pl/en/744-moto-g20-series"
 ],
 [
+"Homescreen.pl: 3MK HardGlass Motorola Moto G04 / G24 / G34 5G",
+"https://homescreen.pl/en/moto-g24/73190-3mk-hardglass-motorola-moto-g04-g24-g34-5g-5903108559997.html"
+],
+[
 "Bizon Glass Clear 2 / Edge 2 (Home Screen)",
 "https://homescreen.pl/en/1204-moto-e14"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G04 / G24 Power black",
+"https://homescreen.pl/en/moto-g04/72363-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g04-g24-power-black-5904433231343.html"
+],
+[
+"Homescreen.pl: Hybrid glass 3MK FlexibleGlass for Motorola Moto G24/G24 Power",
+"https://homescreen.pl/en/moto-g24/109036-hybrid-glass-3mk-flexibleglass-for-motorola-moto-g24-g24-power-5903108567015.html"
 ]
 ],
 "codes": [
@@ -57287,7 +57230,7 @@
 ]
 },
 {
-"id": "MOT-1255",
+"id": "MOT-1250",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57318,7 +57261,7 @@
 ]
 },
 {
-"id": "MOT-1256",
+"id": "MOT-1251",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57349,7 +57292,7 @@
 ]
 },
 {
-"id": "MOT-1257",
+"id": "MOT-1252",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57380,7 +57323,7 @@
 ]
 },
 {
-"id": "MOT-1258",
+"id": "MOT-1253",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57406,6 +57349,10 @@
 [
 "PanzerGlass Screen Protector Motorola Edge 50 Pro | Ultra | Ultra-Wide Fit",
 "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-motorola-edge-50-pro-ultra-ultra-wide-fit"
+],
+[
+"Homescreen.pl: PanzerGlass Ultra-Wide Fit Motorola Edge 50 Pro / 50 Ultra",
+"https://homescreen.pl/en/moto-edge-50-ultra/112818-panzerglass-ultra-wide-fit-motorola-edge-50-pro-50-ultra-5715685001024.html"
 ]
 ],
 "codes": [
@@ -57428,7 +57375,7 @@
 ]
 },
 {
-"id": "MOT-1259",
+"id": "MOT-1254",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57464,7 +57411,7 @@
 ]
 },
 {
-"id": "MOT-1260",
+"id": "MOT-1255",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57495,7 +57442,7 @@
 ]
 },
 {
-"id": "MOT-1261",
+"id": "MOT-1256",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57520,7 +57467,7 @@
 ]
 },
 {
-"id": "MOT-1262",
+"id": "MOT-1257",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57545,7 +57492,7 @@
 ]
 },
 {
-"id": "MOT-1263",
+"id": "MOT-1258",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57598,7 +57545,7 @@
 ]
 },
 {
-"id": "MOT-1264",
+"id": "MOT-1259",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57652,7 +57599,7 @@
 ]
 },
 {
-"id": "MOT-1265",
+"id": "MOT-1260",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57677,7 +57624,7 @@
 ]
 },
 {
-"id": "MOT-1266",
+"id": "MOT-1261",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57708,38 +57655,7 @@
 ]
 },
 {
-"id": "MOT-1267",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G55"
-],
-"released": [
-"2024-08"
-],
-"check": "Check",
-"note": "Bizon sells one glass for G14, G54, G54 Power and G55; only one brand seen, so test fit",
-"device": "Phone",
-"sources": [
-[
-"Bizon Glass Clear Duo (Home Screen)",
-"https://homescreen.pl/en/745-moto-g10-series"
-]
-],
-"codes": [
-"XT2435-2"
-],
-"screens": [
-"6.49in"
-],
-"dims": [
-"161.6 x 73.8 x 8.1 mm"
-]
-},
-{
-"id": "MOT-1268",
+"id": "MOT-1262",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57804,7 +57720,7 @@
 ]
 },
 {
-"id": "MOT-1269",
+"id": "MOT-1263",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57829,7 +57745,7 @@
 ]
 },
 {
-"id": "MOT-1270",
+"id": "MOT-1264",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57860,7 +57776,7 @@
 ]
 },
 {
-"id": "MOT-1271",
+"id": "MOT-1265",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57870,6 +57786,7 @@
 "Moto G15 Power",
 "Moto G05",
 "Moto E15",
+"Moto G56",
 "Moto G17 Power",
 "Moto G17"
 ],
@@ -57878,11 +57795,12 @@
 "2024-12",
 "2024-12",
 "2024-12",
+"2025-06",
 "2026-01",
 "2026-02"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G15, Moto G15 Power, Moto G05, Moto E15; Moto G17 Power, Moto G17. The rest match on specs: test before swapping. 3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass listed for G15, G15 Power, G05, E15 and G56 5G; only one brand pairs the G56, so test fit. Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
+"note": "Sellers confirm Moto G15, Moto G15 Power, Moto G05, Moto E15, Moto G56; Moto G17 Power, Moto G17. The rest match on specs: test before swapping. 3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl). Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl). Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
 "device": "Phone",
 "sources": [
 [
@@ -57902,6 +57820,18 @@
 "https://homescreen.pl/en/741-moto-g50-series"
 ],
 [
+"Homescreen.pl: Bizon Smart Glass 2.5D Motorola Moto G15 / G15 Power / G05 / E15 / G56 5G",
+"https://homescreen.pl/en/moto-g15/130249-bizon-smart-glass-25d-motorola-moto-g15-g15-power-g05-e15-g56-5g-5900415734185.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Motorola Moto G15 / G15 Power / G05 / E15 / G56 5G black frame [2 PACK]",
+"https://homescreen.pl/en/moto-g15/125487-bizon-glass-edge-duo-motorola-moto-g15-g15-power-g05-e15-g56-5g-black-frame-2-pack-5900415719663.html"
+],
+[
+"Homescreen.pl: Bizon Glass Mule Duo Motorola Moto G15 / G15 Power / E15 [2 PACK]",
+"https://homescreen.pl/en/moto-g15/129023-bizon-glass-mule-duo-motorola-moto-g15-g15-power-e15-2-pack-5900415731962.html"
+],
+[
 "Just in Case (Coolblue)",
 "https://www.coolblue.de/en/product/979478/just-in-case-tempered-glass-motorola-moto-g17-g17-power-screen-protector.html"
 ],
@@ -57915,6 +57845,7 @@
 "XT2521-5",
 "XT2523-2, XT2523-3, XT2523-11",
 "XT2523-6, XT2523-8",
+"XT2529-2, XT2529-1",
 "",
 "XT2623-2"
 ],
@@ -57924,6 +57855,7 @@
 "6.67in",
 "6.67in",
 "6.72in",
+"6.72in",
 "6.72in"
 ],
 "dims": [
@@ -57931,12 +57863,13 @@
 "165.7 x 76 x 8.8 mm",
 "165.7 x 76 x 8.2 mm",
 "165.7 x 76 x 8.2 mm",
+"165.8 x 76.3 x 8.4 mm",
 "165.7 x 76 x 8.8 mm",
 "165.7 x 76 x 8.2 mm"
 ]
 },
 {
-"id": "MOT-1272",
+"id": "MOT-1266",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57981,7 +57914,7 @@
 ]
 },
 {
-"id": "MOT-1273",
+"id": "MOT-1267",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58021,7 +57954,7 @@
 ]
 },
 {
-"id": "MOT-1274",
+"id": "MOT-1268",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58073,7 +58006,7 @@
 ]
 },
 {
-"id": "MOT-1275",
+"id": "MOT-1269",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58101,7 +58034,7 @@
 ]
 },
 {
-"id": "MOT-1276",
+"id": "MOT-1270",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58142,7 +58075,7 @@
 ]
 },
 {
-"id": "MOT-1277",
+"id": "MOT-1271",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58175,7 +58108,7 @@
 ]
 },
 {
-"id": "MOT-1278",
+"id": "MOT-1272",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58200,38 +58133,7 @@
 ]
 },
 {
-"id": "MOT-1279",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G56"
-],
-"released": [
-"2025-06"
-],
-"check": "Check",
-"note": "Bizon sells one glass listed for G15, G15 Power, G05, E15 and G56 5G; only one brand pairs the G56, so test fit",
-"device": "Phone",
-"sources": [
-[
-"Bizon Smart Glass 2.5D (Home Screen)",
-"https://homescreen.pl/en/741-moto-g50-series"
-]
-],
-"codes": [
-"XT2529-2, XT2529-1"
-],
-"screens": [
-"6.72in"
-],
-"dims": [
-"165.8 x 76.3 x 8.4 mm"
-]
-},
-{
-"id": "MOT-1280",
+"id": "MOT-1273",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58279,7 +58181,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1274",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58301,7 +58203,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1275",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58337,7 +58239,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1276",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58368,38 +58270,7 @@
 ]
 },
 {
-"id": "MOT-1284",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto G57"
-],
-"released": [
-"2025-11"
-],
-"check": "Check",
-"note": "MyScreen Diamond Glass Edge Lite is listed for both G57 5G and G57 Power; 3MK sells separate SKUs, so test fit",
-"device": "Phone",
-"sources": [
-[
-"MyScreen Diamond Glass (Home Screen)",
-"https://homescreen.pl/en/741-moto-g50-series"
-]
-],
-"codes": [
-"XT2537-2"
-],
-"screens": [
-"6.72in"
-],
-"dims": [
-"166 x 76.5 x 8.6 mm"
-]
-},
-{
-"id": "MOT-1285",
+"id": "MOT-1277",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58427,7 +58298,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1278",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58472,7 +58343,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58508,7 +58379,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58530,7 +58401,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58555,7 +58426,7 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58577,7 +58448,7 @@
 ]
 },
 {
-"id": "MOT-1291",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58610,7 +58481,7 @@
 ]
 },
 {
-"id": "MOT-1292",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58638,7 +58509,7 @@
 ]
 },
 {
-"id": "MOT-1293",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58664,7 +58535,7 @@
 ]
 },
 {
-"id": "MOT-1294",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58686,7 +58557,7 @@
 ]
 },
 {
-"id": "MOT-1295",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58714,7 +58585,7 @@
 ]
 },
 {
-"id": "MOT-1296",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58736,7 +58607,7 @@
 ]
 },
 {
-"id": "MOT-1297",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58758,7 +58629,7 @@
 ]
 },
 {
-"id": "MOT-1298",
+"id": "MOT-1290",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58780,7 +58651,7 @@
 ]
 },
 {
-"id": "MOT-1299",
+"id": "MOT-1291",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -61237,6 +61108,10 @@
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1042-redmi-8-series"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Lite Redmi 8/8A black",
+"https://homescreen.pl/en/redmi-8/15741-3mk-hardglass-max-lite-redmi-88a-black-5903108207218.html"
 ]
 ],
 "codes": [
@@ -61721,8 +61596,16 @@
 "https://homescreen.pl/en/1043-redmi-9-series"
 ],
 [
+"Homescreen.pl: Tempered glass 3MK HardGlass for Xiaomi Redmi 9 / 9A / 9C",
+"https://homescreen.pl/en/redmi-9/109005-tempered-glass-3mk-hardglass-for-xiaomi-redmi-9-9a-9c-5903108296267.html"
+],
+[
 "MyScreen via Homescreen.pl",
 "https://homescreen.pl/en/1043-redmi-9-series"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Xiaomi Redmi 9A/9C/9AT black Full Glue",
+"https://homescreen.pl/en/redmi-9a/56610-myscreen-diamond-glass-edge-fg-xiaomi-redmi-9a-9c-9at-black-full-glue-5901924981855.html"
 ]
 ],
 "codes": [
@@ -62207,6 +62090,10 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/1013-redmi-note-10-series"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 Poco M5s / Redmi Note 10 / 10s",
+"https://homescreen.pl/en/poco-m5s/94664-bizon-glass-clear-2-poco-m5s-redmi-note-10-10s-5904665315958.html"
 ]
 ],
 "codes": [
@@ -62253,6 +62140,10 @@
 [
 "Hofi via Homescreen.pl",
 "https://homescreen.pl/en/683-poco-m3-pro"
+],
+[
+"Homescreen.pl: Hofi Glass Pro+ POCO M3 Pro 5G/Redmi Note 10 5G Black",
+"https://homescreen.pl/en/poco-m3-pro/27038-hofi-glass-pro-poco-m3-pro-5gredmi-note-10-5g-black-6216990212222.html"
 ]
 ],
 "codes": [
@@ -62744,8 +62635,16 @@
 "https://homescreen.pl/en/792-poco-m4-pro-5g"
 ],
 [
+"Homescreen.pl: Bizon Glass Edge Poco M4 Pro 5G / Redmi Note 11S 5G black",
+"https://homescreen.pl/en/redmi-note-11s-5g/94596-bizon-glass-edge-poco-m4-pro-5g-redmi-note-11s-5g-black-5904665305133.html"
+],
+[
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/808-redmi-note-11t-5g"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi Note 11S 5G/11T 5G",
+"https://homescreen.pl/en/redmi-note-11t-5g/39615-3mk-flexibleglass-xiaomi-redmi-note-11s-5g11t-5g-5903108489768.html"
 ]
 ],
 "codes": [
@@ -62777,30 +62676,62 @@
 "Redmi Note 11 Pro (China)",
 "Redmi Note 11 Pro+ 5G",
 "Xiaomi 11i",
-"Xiaomi 11i HyperCharge 5G"
+"Xiaomi 11i HyperCharge 5G",
+"Redmi Note 11 Pro",
+"Redmi Note 11 Pro 5G",
+"Poco X4 Pro 5G",
+"Redmi Note 11E Pro",
+"Redmi Note 11 Pro+ 5G (India)",
+"Redmi Note 12 Pro 4G"
 ],
 "released": [
 "2021-10",
 "2021-10",
 "2022-01",
-"2022-01"
+"2022-01",
+"2022-01",
+"2022-01",
+"2022-02",
+"2022-03",
+"2022-03",
+"2023-03"
 ],
 "check": "Check",
-"note": "3MK NeoGlass, HardGlass Max and HardGlass Max Lite are each sold for Redmi Note 11 Pro 5G / Pro+ 5G; Bizon sells a separate Pro+ glass, so test first. Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Redmi Note 11 Pro+ 5G, Redmi Note 11 Pro, Redmi Note 11 Pro 5G, Redmi Note 12 Pro 4G. The rest match on specs: test before swapping. 3MK sells one glass for the Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (Homescreen.pl). Bizon Clear 2 and Edge 2 glass are sold for Redmi Note 12 Pro 4G / 11 Pro 4G / 11 Pro 5G; 3MK HardGlass lists Note 11 Pro 4G/5G",
 "device": "Phone",
 "sources": [
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/807-redmi-note-11-pro-5g"
+],
+[
+"Homescreen.pl: 3MK NeoGlass Redmi Note 11 Pro 5G/Pro+ 5G black",
+"https://homescreen.pl/en/redmi-note-11-pro-5g/30700-3mk-neoglass-redmi-note-11-pro-5gpro-5g-black-5903108449021.html"
+],
+[
+"Bizon/3MK via Homescreen.pl",
+"https://homescreen.pl/en/806-redmi-note-11-pro-lte5g"
 ]
 ],
 "codes": [
 "21091116C",
 "21091116UG, 21091116UC",
 "\u200eMZB0A5EIN",
-"21091116UI, \u200eMZB0A55IN"
+"21091116UI, \u200eMZB0A55IN",
+"2201116TG, 2201116TI",
+"21091116I, 2201116SG",
+"2201116PG",
+"2201116SC",
+"2201116SI",
+"\u200e2209116AG, 2209116AG"
 ],
 "screens": [
+"6.67in",
+"6.67in",
+"6.67in",
+"6.67in",
+"6.67in",
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in",
@@ -62810,7 +62741,13 @@
 "163.7 x 76.2 x 8.3 mm",
 "163.7 x 76.2 x 8.3 mm",
 "163.7 x 76.2 x 8.3 mm",
-"163.7 x 76.2 x 8.3 mm"
+"163.7 x 76.2 x 8.3 mm",
+"164.2 x 76.1 x 8.1 mm",
+"164.2 x 76.1 x 8.1 mm",
+"164.2 x 76.1 x 8.1 mm",
+"164.2 x 76.1 x 8.1 mm",
+"164.2 x 76.1 x 8.1 mm",
+"164.2 x 76.1 x 8.1 mm"
 ]
 },
 {
@@ -62866,28 +62803,36 @@
 "models": [
 "Xiaomi 12 Pro",
 "Xiaomi 12 Pro (Dimensity)",
-"Xiaomi 12S Pro"
+"Xiaomi 12S Pro",
+"Xiaomi 13 Pro"
 ],
 "released": [
 "2021-12",
 "2022-07",
-"2022-07"
+"2022-07",
+"2022-12"
 ],
 "check": "Check",
-"note": "3MK HardGlass Max is sold for Xiaomi 13 Pro / 12 Pro as one product. Curved screens; only one brand seen. Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Xiaomi 12 Pro, Xiaomi 13 Pro. The rest match on specs: test before swapping. 3MK sells one glass for the Xiaomi 12 Pro and Xiaomi 13 Pro (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/2326-xiaomi-12-series"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Xiaomi 13 Pro/12 Pro black",
+"https://homescreen.pl/en/xiaomi-13-pro/60050-3mk-hardglass-max-xiaomi-13-pro-12-pro-black-5903108529044.html"
 ]
 ],
 "codes": [
 "2201122C, 2201122G",
 "2207122MC",
-"2206122SC"
+"2206122SC",
+"2210132G, 2210132C"
 ],
 "screens": [
+"6.73in",
 "6.73in",
 "6.73in",
 "6.73in"
@@ -62895,10 +62840,8 @@
 "dims": [
 "163.6 x 74.6 x 8.2 mm",
 "163.6 x 74.6 x 8.2 mm",
-"163.6 x 74.6 x 8.2 mm"
-],
-"tags": [
-"curved"
+"163.6 x 74.6 x 8.2 mm",
+"162.9 x 74.6 x 8.4 mm"
 ]
 },
 {
@@ -62926,6 +62869,14 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/692-redmi-note-11-series"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi Note 11 / 11S 4G black frame [2 PACK]",
+"https://homescreen.pl/en/redmi-note-1111s/120243-bizon-glass-edge-duo-xiaomi-redmi-note-11-11s-4g-black-frame-2-pack-5900415719496.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Redmi Note 11 / 11s black",
+"https://homescreen.pl/en/redmi-note-1111s/95059-bizon-glass-edge-redmi-note-11-11s-black-5904665399538.html"
 ]
 ],
 "codes": [
@@ -62949,66 +62900,6 @@
 },
 {
 "id": "XIA-1119",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi Note 11 Pro",
-"Redmi Note 11 Pro 5G",
-"Poco X4 Pro 5G",
-"Redmi Note 11E Pro",
-"Redmi Note 11 Pro+ 5G (India)",
-"Redmi Note 12 Pro 4G"
-],
-"released": [
-"2022-01",
-"2022-01",
-"2022-02",
-"2022-03",
-"2022-03",
-"2023-03"
-],
-"check": "Check",
-"note": "Sellers confirm Redmi Note 11 Pro, Redmi Note 11 Pro 5G, Redmi Note 12 Pro 4G. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass are sold for Redmi Note 12 Pro 4G / 11 Pro 4G / 11 Pro 5G; 3MK HardGlass lists Note 11 Pro 4G/5G. 3MK NeoGlass, HardGlass Max and HardGlass Max Lite are each sold for Redmi Note 11 Pro 5G / Pro+ 5G; Bizon sells a separate Pro+ glass, so test first",
-"device": "Phone",
-"sources": [
-[
-"Bizon/3MK via Homescreen.pl",
-"https://homescreen.pl/en/806-redmi-note-11-pro-lte5g"
-],
-[
-"3MK via Homescreen.pl",
-"https://homescreen.pl/en/807-redmi-note-11-pro-5g"
-]
-],
-"codes": [
-"2201116TG, 2201116TI",
-"21091116I, 2201116SG",
-"2201116PG",
-"2201116SC",
-"2201116SI",
-"\u200e2209116AG, 2209116AG"
-],
-"screens": [
-"6.67in",
-"6.67in",
-"6.67in",
-"6.67in",
-"6.67in",
-"6.67in"
-],
-"dims": [
-"164.2 x 76.1 x 8.1 mm",
-"164.2 x 76.1 x 8.1 mm",
-"164.2 x 76.1 x 8.1 mm",
-"164.2 x 76.1 x 8.1 mm",
-"164.2 x 76.1 x 8.1 mm",
-"164.2 x 76.1 x 8.1 mm"
-]
-},
-{
-"id": "XIA-1120",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63039,7 +62930,7 @@
 ]
 },
 {
-"id": "XIA-1121",
+"id": "XIA-1120",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63075,7 +62966,7 @@
 ]
 },
 {
-"id": "XIA-1122",
+"id": "XIA-1121",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63130,7 +63021,7 @@
 ]
 },
 {
-"id": "XIA-1123",
+"id": "XIA-1122",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63166,6 +63057,10 @@
 [
 "MyScreen via Homescreen.pl",
 "https://homescreen.pl/en/1044-redmi-10-series"
+],
+[
+"Homescreen.pl: Tempered glass MyScreen Diamond Glass Edge Full Glue Xiaomi Redmi 10C / 10 Power black",
+"https://homescreen.pl/en/redmi-10/80198-tempered-glass-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-10c-10-power-black-5904433209892.html"
 ]
 ],
 "codes": [
@@ -63188,7 +63083,7 @@
 ]
 },
 {
-"id": "XIA-1124",
+"id": "XIA-1123",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63218,7 +63113,7 @@
 ]
 },
 {
-"id": "XIA-1125",
+"id": "XIA-1124",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63234,8 +63129,18 @@
 "2022-12"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Redmi K50, Redmi K50 Pro. The rest match on specs: test before swapping. MyScreen sells one glass for the Redmi K50 and Redmi K50 Pro (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Xiaomi Redmi K50/K50 Pro/50 Ultra black Full Glue",
+"https://homescreen.pl/en/redmi-k50/57502-myscreen-diamond-glass-edge-lite-fg-xiaomi-redmi-k50-k50-pro-50-ultra-black-full-glue-5904433213677.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge FG Xiaomi Redmi K50/K50 Pro/50 Ultra black Full Glue",
+"https://homescreen.pl/en/redmi-k50/57320-myscreen-diamond-glass-edge-fg-xiaomi-redmi-k50-k50-pro-50-ultra-black-full-glue-5904433213684.html"
+]
+],
 "codes": [
 "22041211AC",
 "22021211RC, 22011211C",
@@ -63253,7 +63158,7 @@
 ]
 },
 {
-"id": "XIA-1126",
+"id": "XIA-1125",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63278,7 +63183,7 @@
 ]
 },
 {
-"id": "XIA-1127",
+"id": "XIA-1126",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63303,7 +63208,7 @@
 ]
 },
 {
-"id": "XIA-1128",
+"id": "XIA-1127",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63333,7 +63238,7 @@
 ]
 },
 {
-"id": "XIA-1129",
+"id": "XIA-1128",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63358,7 +63263,7 @@
 ]
 },
 {
-"id": "XIA-1130",
+"id": "XIA-1129",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63403,7 +63308,7 @@
 ]
 },
 {
-"id": "XIA-1131",
+"id": "XIA-1130",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63428,7 +63333,7 @@
 ]
 },
 {
-"id": "XIA-1132",
+"id": "XIA-1131",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63459,7 +63364,7 @@
 ]
 },
 {
-"id": "XIA-1133",
+"id": "XIA-1132",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63487,7 +63392,7 @@
 ]
 },
 {
-"id": "XIA-1134",
+"id": "XIA-1133",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63509,6 +63414,14 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/2326-xiaomi-12-series"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi 12T / 12T Pro black frame [2 PACK]",
+"https://homescreen.pl/en/xiaomi-12tpro/120280-bizon-glass-edge-duo-xiaomi-12t-12t-pro-black-frame-2-pack-5900415719922.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge 2 Xiaomi 12T / 12T Pro black",
+"https://homescreen.pl/en/xiaomi-12tpro/94098-bizon-glass-edge-2-xiaomi-12t-12t-pro-black-5904665387061.html"
 ]
 ],
 "codes": [
@@ -63528,7 +63441,7 @@
 ]
 },
 {
-"id": "XIA-1135",
+"id": "XIA-1134",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63550,8 +63463,18 @@
 "2023-04"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Redmi A2, Redmi A2+. The rest match on specs: test before swapping. 3MK and MyScreen sell one glass for the Redmi A2 and Redmi A2+ (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Xiaomi Redmi A2/A2+ Full Glue black",
+"https://homescreen.pl/en/redmi-a2/63349-myscreen-diamond-glass-edge-lite-fg-xiaomi-redmi-a2-a2-full-glue-black-5904433219020.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi A2/A2+",
+"https://homescreen.pl/en/redmi-a2/54386-3mk-flexibleglass-xiaomi-redmi-a2-a2-5903108520348.html"
+]
+],
 "codes": [
 "220733SI, 220733SG, 220733SL, 220743FI, 220733SH",
 "220733SFG",
@@ -63578,7 +63501,7 @@
 ]
 },
 {
-"id": "XIA-1136",
+"id": "XIA-1135",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63608,7 +63531,7 @@
 ]
 },
 {
-"id": "XIA-1137",
+"id": "XIA-1136",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63628,12 +63551,16 @@
 "2023-06"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 12, Poco X5, Redmi Note 12 4G. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass are sold for Poco X5 / Redmi Note 12 4G/5G; 3MK HardGlass also lists Note 12 5G / Poco X5. MyScreen Diamond Glass Edge Lite is sold for Poco X5 Pro 5G / X5 5G as one product; only one brand seen and cases differ, so test first",
+"note": "Sellers confirm Redmi Note 12, Poco X5, Redmi Note 12 4G. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass are sold for Poco X5 / Redmi Note 12 4G/5G; 3MK HardGlass also lists Note 12 5G / Poco X5. 3MK sells one glass for the Poco X5 and Redmi Note 12 (Homescreen.pl). MyScreen Diamond Glass Edge Lite is sold for Poco X5 Pro 5G / X5 5G as one product; only one brand seen and cases differ, so test first",
 "device": "Phone",
 "sources": [
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/878-poco-x5-5g"
+],
+[
+"Homescreen.pl: Tempered glass 3MK HardGlass Xiaomi Redmi Note 12 5G/POCO X5 5G",
+"https://homescreen.pl/en/poco-x5-5g/52976-tempered-glass-3mk-hardglass-xiaomi-redmi-note-12-5g-poco-x5-5g-5903108517782.html"
 ],
 [
 "MyScreen via Homescreen.pl",
@@ -63663,7 +63590,7 @@
 ]
 },
 {
-"id": "XIA-1138",
+"id": "XIA-1137",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63699,7 +63626,7 @@
 ]
 },
 {
-"id": "XIA-1139",
+"id": "XIA-1138",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63724,7 +63651,7 @@
 ]
 },
 {
-"id": "XIA-1140",
+"id": "XIA-1139",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63764,7 +63691,7 @@
 ]
 },
 {
-"id": "XIA-1141",
+"id": "XIA-1140",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63784,12 +63711,24 @@
 "2023-05"
 ],
 "check": "Check",
-"note": "Sellers confirm Poco F5, Poco F5 Pro. The rest match on specs: test before swapping. Bizon Glass Clear 2 is sold for Poco F5 / F5 Pro; Bizon edge glass is model-specific and the bodies differ, so only the clear (non-edge) glass is shared",
+"note": "Sellers confirm Redmi K60, Redmi K60 Pro; Poco F5, Poco F5 Pro. The rest match on specs: test before swapping. 3MK sells one hybrid glass for the Redmi K60 and Redmi K60 Pro (Homescreen.pl). Bizon Glass Clear 2 is sold for Poco F5 / F5 Pro; Bizon edge glass is model-specific and the bodies differ, so only the clear (non-edge) glass is shared",
 "device": "Phone",
 "sources": [
 [
+"Homescreen.pl: 3MK FlexibleGlass Redmi K60 / K60 Pro",
+"https://homescreen.pl/en/redmi-k60/77007-3mk-flexibleglass-redmi-k60-k60-pro-5903108580557.html"
+],
+[
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/892-poco-f5-pro"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Xiaomi POCO F5 / F5 Pro [2 PACK]",
+"https://homescreen.pl/en/poco-f5/119944-bizon-glass-clear-duo-xiaomi-poco-f5-f5-pro-2-pack-5900415718505.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 POCO F5 / F5 Pro",
+"https://homescreen.pl/en/poco-f5-pro/94558-bizon-glass-clear-2-poco-f5-f5-pro-5904665357286.html"
 ]
 ],
 "codes": [
@@ -63815,7 +63754,7 @@
 ]
 },
 {
-"id": "XIA-1142",
+"id": "XIA-1141",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63851,7 +63790,7 @@
 ]
 },
 {
-"id": "XIA-1143",
+"id": "XIA-1142",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63903,41 +63842,7 @@
 ]
 },
 {
-"id": "XIA-1144",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi 13 Pro"
-],
-"released": [
-"2022-12"
-],
-"check": "Check",
-"note": "3MK HardGlass Max is sold for Xiaomi 13 Pro / 12 Pro as one product. Curved screens; only one brand seen",
-"device": "Phone",
-"sources": [
-[
-"3MK via Homescreen.pl",
-"https://homescreen.pl/en/2326-xiaomi-12-series"
-]
-],
-"codes": [
-"2210132G, 2210132C"
-],
-"screens": [
-"6.73in"
-],
-"dims": [
-"162.9 x 74.6 x 8.4 mm"
-],
-"tags": [
-"curved"
-]
-},
-{
-"id": "XIA-1145",
+"id": "XIA-1143",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63962,7 +63867,7 @@
 ]
 },
 {
-"id": "XIA-1146",
+"id": "XIA-1144",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63987,7 +63892,7 @@
 ]
 },
 {
-"id": "XIA-1147",
+"id": "XIA-1145",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64045,8 +63950,16 @@
 "https://homescreen.pl/en/1046-redmi-12-series"
 ],
 [
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi 12 5G / 4G / 12R black",
+"https://homescreen.pl/en/redmi-12-series/67280-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-12-5g-4g-12r-black-5904433225311.html"
+],
+[
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1079-redmi-13-series"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi 13 4G / 5G",
+"https://homescreen.pl/en/redmi-13/101058-3mk-flexibleglass-xiaomi-redmi-13-4g-5g-5903108576642.html"
 ]
 ],
 "codes": [
@@ -64087,7 +64000,7 @@
 ]
 },
 {
-"id": "XIA-1148",
+"id": "XIA-1146",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64109,7 +64022,7 @@
 ]
 },
 {
-"id": "XIA-1149",
+"id": "XIA-1147",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64137,7 +64050,7 @@
 ]
 },
 {
-"id": "XIA-1150",
+"id": "XIA-1148",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64159,6 +64072,14 @@
 [
 "PanzerGlass via Homescreen.pl",
 "https://homescreen.pl/en/2325-xiaomi-13-series"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Xiaomi 13T Pro / 13T [2 PACK]",
+"https://homescreen.pl/en/xiaomi-13t-13t-pro/119952-bizon-glass-clear-duo-xiaomi-13t-pro-13t-2-pack-5900415718758.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 Xiaomi 13T / 13T Pro",
+"https://homescreen.pl/en/xiaomi-13t-13t-pro/96215-bizon-glass-clear-2-xiaomi-13t-13t-pro-5904665348628.html"
 ]
 ],
 "codes": [
@@ -64178,7 +64099,7 @@
 ]
 },
 {
-"id": "XIA-1151",
+"id": "XIA-1149",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64208,7 +64129,7 @@
 "2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
+"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
 "device": "Phone",
 "sources": [
 [
@@ -64228,6 +64149,14 @@
 "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit"
 ],
 [
+"Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi POCO X6 / Redmi Note 13 5G / 13 Pro 4G/5G / POCO M6 Pro 4G",
+"https://homescreen.pl/en/poco-x6-5g/132603-bizon-smart-25d-glass-xiaomi-poco-x6-redmi-note-13-5g-13-pro-4g5g-poco-m6-pro-4g-5900415734246.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi POCO X6 / M6 Pro 4G / Redmi Note 13 5G / 13 Pro 4G / 5G black frame [2 PACK]",
+"https://homescreen.pl/en/poco-x6-5g/120236-bizon-glass-edge-duo-xiaomi-poco-x6-m6-pro-4g-redmi-note-13-5g-13-pro-4g-5g-black-frame-2-pack-5900415720003.html"
+],
+[
 "Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
 "https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html"
 ],
@@ -64238,6 +64167,14 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/1084-poco-x6-pro-5g"
+],
+[
+"Homescreen.pl: Bizon Smart Glass 2.5D Xiaomi POCO X6 Pro / X7 Pro",
+"https://homescreen.pl/en/poco-x6-pro-5g/130248-bizon-smart-glass-25d-xiaomi-poco-x6-pro-x7-pro-5900415734314.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi POCO X6 Pro / X7 Pro black frame [2 PACK]",
+"https://homescreen.pl/en/poco-x6-pro-5g/120237-bizon-glass-edge-duo-xiaomi-poco-x6-pro-x7-pro-black-frame-2-pack-5900415720010.html"
 ]
 ],
 "codes": [
@@ -64278,7 +64215,7 @@
 ]
 },
 {
-"id": "XIA-1152",
+"id": "XIA-1150",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64322,6 +64259,10 @@
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1342-redmi-note-14-series"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Redmi Note 14 Pro 4G / 5G / Pro+ Plus black",
+"https://homescreen.pl/en/redmi-note-14-pro/148542-3mk-hardglass-max-redmi-note-14-pro-4g-5g-pro-plus-black-5903108756044.html"
 ]
 ],
 "codes": [
@@ -64354,7 +64295,7 @@
 ]
 },
 {
-"id": "XIA-1153",
+"id": "XIA-1151",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64398,7 +64339,7 @@
 ]
 },
 {
-"id": "XIA-1154",
+"id": "XIA-1152",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64418,7 +64359,7 @@
 "2023-12"
 ],
 "check": "Check",
-"note": "Sellers confirm Poco C65, Redmi 13C, Redmi 13C 5G. The rest match on specs: test before swapping. 3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed",
+"note": "Sellers confirm Poco C65, Redmi 13C, Redmi 13C 5G. The rest match on specs: test before swapping. 3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed. 3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -64428,6 +64369,18 @@
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1079-redmi-13-series"
+],
+[
+"Homescreen.pl: 3MK HardGlass Xiaomi Redmi 13C 4G / 13C 5G / POCO C65",
+"https://homescreen.pl/en/redmi-13c/75474-3mk-hardglass-xiaomi-redmi-13c-4g-13c-5g-poco-c65-5903108565905.html"
+],
+[
+"Homescreen.pl: 3MK HardGlass Xiaomi Redmi 13C / POCO C65",
+"https://homescreen.pl/en/redmi-13c/109004-3mk-hardglass-xiaomi-redmi-13c-poco-c65-5903108544597.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi 13C / POCO C65",
+"https://homescreen.pl/en/poco-c65/73005-3mk-flexibleglass-xiaomi-redmi-13c-poco-c65-5903108547031.html"
 ]
 ],
 "codes": [
@@ -64453,7 +64406,7 @@
 ]
 },
 {
-"id": "XIA-1155",
+"id": "XIA-1153",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64483,7 +64436,7 @@
 ]
 },
 {
-"id": "XIA-1156",
+"id": "XIA-1154",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64518,7 +64471,7 @@
 ]
 },
 {
-"id": "XIA-1157",
+"id": "XIA-1155",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64549,7 +64502,7 @@
 ]
 },
 {
-"id": "XIA-1158",
+"id": "XIA-1156",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64564,8 +64517,8 @@
 "2024-03",
 "2024-05"
 ],
-"check": "Check",
-"note": "Sellers confirm Redmi A3, Poco C61. The rest match on specs: test before swapping. Homescreen says glass fits both the Poco C61 and Redmi A3; an iZAP Flipkart glass lists C61, A3 and A3x. Redmi A3x only in that one marketplace listing",
+"check": "Confirmed",
+"note": "Homescreen says glass fits both the Poco C61 and Redmi A3; an iZAP Flipkart glass lists C61, A3 and A3x. Redmi A3x only in that one marketplace listing. MyScreen sells one glass for the Redmi A3 and Redmi A3x (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -64575,6 +64528,10 @@
 [
 "iZAP via Flipkart",
 "https://www.flipkart.com/izap-tempered-glass-guard-poco-c61/p/itmb7404fbe9d64d"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Full Glue Xiaomi Redmi A3 / A3x black",
+"https://homescreen.pl/en/redmi-a3/76215-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-a3-a3x-black-5904433231992.html"
 ]
 ],
 "codes": [
@@ -64594,7 +64551,7 @@
 ]
 },
 {
-"id": "XIA-1159",
+"id": "XIA-1157",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64624,7 +64581,7 @@
 ]
 },
 {
-"id": "XIA-1160",
+"id": "XIA-1158",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64668,7 +64625,7 @@
 ]
 },
 {
-"id": "XIA-1161",
+"id": "XIA-1159",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64693,7 +64650,7 @@
 ]
 },
 {
-"id": "XIA-1162",
+"id": "XIA-1160",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64715,6 +64672,14 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/2324-xiaomi-14-series"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi 14T / 14T Pro black",
+"https://homescreen.pl/en/xiaomi-14t-14t-pro/139731-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-14t-14t-pro-black-5904433243049.html"
+],
+[
+"Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi 14T / 14T Pro",
+"https://homescreen.pl/en/xiaomi-14t-14t-pro/132820-bizon-smart-25d-glass-xiaomi-14t-14t-pro-5900415734161.html"
 ]
 ],
 "codes": [
@@ -64734,7 +64699,7 @@
 ]
 },
 {
-"id": "XIA-1163",
+"id": "XIA-1161",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64762,7 +64727,7 @@
 ]
 },
 {
-"id": "XIA-1164",
+"id": "XIA-1162",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64802,7 +64767,7 @@
 "2026-06"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 14C, Redmi 14R, Redmi A4 5G, Poco C75, Redmi A3 Pro, Poco C75 5G, Redmi A5, Poco M7 5G, Poco C71. The rest match on specs: test before swapping. FIXED glass lists Redmi 14C, A4 5G, A3 Pro, Poco C75 4G/5G and M7 5G as one product; 3MK lists 14C, C75 and A4 5G together. MyScreen Diamond Glass is sold for Redmi 14C, 14R 5G and A4 5G as one product. 3MK HardGlass is sold for Redmi 14C / A5; Cool lists 14C, Poco C75 and A5; a WFTE marketplace pack adds Poco C71. Bizon Clear 2 and Edge Duo glass are sold for Redmi 14C 4G / Poco C75; 3MK FlexibleGlass Lite adds Redmi A4 5G. Bizon sells one glass for Redmi A5 4G and Poco C71 (clear and edge versions)",
+"note": "Sellers confirm Redmi 14C, Redmi 14R, Redmi A4 5G, Poco C75, Redmi A3 Pro, Poco C75 5G, Redmi 14C 5G, Redmi A5, Poco M7 5G, Poco C71. The rest match on specs: test before swapping. FIXED glass lists Redmi 14C, A4 5G, A3 Pro, Poco C75 4G/5G and M7 5G as one product; 3MK lists 14C, C75 and A4 5G together. MyScreen Diamond Glass is sold for Redmi 14C, 14R 5G and A4 5G as one product. 3MK HardGlass is sold for Redmi 14C / A5; Cool lists 14C, Poco C75 and A5; a WFTE marketplace pack adds Poco C71. Bizon Clear 2 and Edge Duo glass are sold for Redmi 14C 4G / Poco C75; 3MK FlexibleGlass Lite adds Redmi A4 5G. MyScreen sells one glass for the Redmi 14C and Redmi 14R (Homescreen.pl). Bizon sells one glass for the Redmi 14C and Redmi 14C 5G (Homescreen.pl). 3MK sells one glass for the Redmi 14C and Redmi A5 (Homescreen.pl). 3MK sells one hybrid glass for the Poco C75, Redmi 14C and Redmi A4 5G (Homescreen.pl). Bizon sells one glass for Redmi A5 4G and Poco C71 (clear and edge versions)",
 "device": "Phone",
 "sources": [
 [
@@ -64838,12 +64803,32 @@
 "https://homescreen.pl/en/1353-poco-c75"
 ],
 [
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Redmi 14C / 14R 5G black",
+"https://homescreen.pl/en/redmi-14c/139725-myscreen-diamond-glass-edge-lite-full-glue-redmi-14c-14r-5g-black-5904433240833.html"
+],
+[
+"Homescreen.pl: Bizon Glass Mule Shadow Xiaomi Redmi 14C 4G / 5G matte",
+"https://homescreen.pl/en/redmi-14c/126710-bizon-glass-mule-shadow-xiaomi-redmi-14c-4g-5g-matte-5900415726234.html"
+],
+[
+"Homescreen.pl: 3MK HardGlass Xiaomi Redmi 14C / A5",
+"https://homescreen.pl/en/redmi-14c/112649-3mk-hardglass-xiaomi-redmi-14c-a5-5903108654920.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Lite Xiaomi Redmi 14C / POCO C75 / Redmi A4 5G",
+"https://homescreen.pl/en/redmi-14c/112187-3mk-flexibleglass-lite-xiaomi-redmi-14c-poco-c75-redmi-a4-5g-5903108610247.html"
+],
+[
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/redmi-a5/109192-bizon-glass-clear-2-xiaomi-redmi-a5-4g-poco-c71-5900415703204.html"
 ],
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/109731-bizon-edge-2-pack-2x-tempered-glass-lens-protection-xiaomi-redmi-a5-4g-poco-c71-4g.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi A5 4G / POCO C71 4G black frame [2 PACK]",
+"https://homescreen.pl/en/redmi-a5/125488-bizon-glass-edge-duo-xiaomi-redmi-a5-4g-poco-c71-4g-black-frame-2-pack-5900415720041.html"
 ]
 ],
 "codes": [
@@ -64899,7 +64884,7 @@
 ]
 },
 {
-"id": "XIA-1165",
+"id": "XIA-1163",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64909,6 +64894,7 @@
 "Redmi Note 14 5G (China)",
 "Poco M7 Pro 5G",
 "Redmi Note 14 5G (India)",
+"Redmi Note 14",
 "Redmi Note 14 4G"
 ],
 "released": [
@@ -64916,10 +64902,11 @@
 "2024-09",
 "2024-12",
 "2024-12",
+"2025-01",
 "2025-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 14 5G, Poco M7 Pro 5G, Redmi Note 14 4G. The rest match on specs: test before swapping. Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G",
+"note": "Sellers confirm Redmi Note 14 5G, Poco M7 Pro 5G, Redmi Note 14, Redmi Note 14 4G. The rest match on specs: test before swapping. Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G. MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl). Bizon sells one glass for the Poco M7 Pro 5G and Redmi Note 14 (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -64929,6 +64916,22 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/redmi-note-14/130250-bizon-smart-glass-25d-xiaomi-redmi-note-14-poco-m7-pro-5g-5900415734192.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi Redmi Note 14 4G / 5G / POCO M7 Pro 5G black frame [2 PACK]",
+"https://homescreen.pl/en/redmi-note-14/120279-bizon-glass-edge-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-black-frame-2-pack-5900415720058.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Xiaomi Redmi Note 14 4G / 5G / POCO M7 Pro 5G [2 PACK]",
+"https://homescreen.pl/en/redmi-note-14/119406-bizon-glass-clear-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-2-pack-5900415718208.html"
+],
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi Note 14 4G / 5G black",
+"https://homescreen.pl/en/redmi-note-14/139820-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-note-14-4g-5g-black-5904433245715.html"
+],
+[
+"Homescreen.pl: Bizon Smart Glass 2.5D Xiaomi Redmi Note 14 / POCO M7 Pro 5G",
+"https://homescreen.pl/en/redmi-note-14/130250-bizon-smart-glass-25d-xiaomi-redmi-note-14-poco-m7-pro-5g-5900415734192.html"
 ]
 ],
 "codes": [
@@ -64936,9 +64939,11 @@
 "24094RAD4C",
 "2409FPCC4G, 2409FPCC4I",
 "24094RAD4I",
+"",
 "24117RN76G, 24117RN76O, 24117RN76E"
 ],
 "screens": [
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in",
@@ -64950,11 +64955,12 @@
 "162.4 x 75.7 x 8 mm",
 "162.4 x 75.7 x 8 mm",
 "162.4 x 75.7 x 8 mm",
+"162.4 x 75.7 x 8 mm",
 "163.3 x 76.6 x 8.2 mm"
 ]
 },
 {
-"id": "XIA-1166",
+"id": "XIA-1164",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64982,7 +64988,7 @@
 ]
 },
 {
-"id": "XIA-1167",
+"id": "XIA-1165",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65016,7 +65022,7 @@
 ]
 },
 {
-"id": "XIA-1168",
+"id": "XIA-1166",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65064,7 +65070,7 @@
 ]
 },
 {
-"id": "XIA-1169",
+"id": "XIA-1167",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65092,6 +65098,14 @@
 [
 "3MK via AIO.lv",
 "https://aio.lv/en/product--3mk-5903108653961--11419304.md"
+],
+[
+"Homescreen.pl: Bizon Glass Aplikator Edge Xiaomi POCO F7 Pro / F7 Ultra [2 PACK]",
+"https://homescreen.pl/en/poco-f7-pro/137706-bizon-glass-aplikator-edge-xiaomi-poco-f7-pro-f7-ultra-2-pack-5900415745884.html"
+],
+[
+"Homescreen.pl: Bizon Glass Aplikator Edge Xiaomi POCO F7 Pro / F7 Ultra",
+"https://homescreen.pl/en/poco-f7-pro/137692-bizon-glass-aplikator-edge-xiaomi-poco-f7-pro-f7-ultra-5900415747468.html"
 ]
 ],
 "codes": [
@@ -65117,29 +65131,7 @@
 ]
 },
 {
-"id": "XIA-1170",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi Note 14"
-],
-"released": [
-"2025-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.67in"
-],
-"dims": [
-"162.4 x 75.7 x 8 mm"
-]
-},
-{
-"id": "XIA-1171",
+"id": "XIA-1168",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65161,7 +65153,7 @@
 ]
 },
 {
-"id": "XIA-1172",
+"id": "XIA-1169",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65186,7 +65178,7 @@
 ]
 },
 {
-"id": "XIA-1173",
+"id": "XIA-1170",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65234,7 +65226,7 @@
 ]
 },
 {
-"id": "XIA-1174",
+"id": "XIA-1171",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65256,7 +65248,7 @@
 ]
 },
 {
-"id": "XIA-1175",
+"id": "XIA-1172",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65284,7 +65276,7 @@
 ]
 },
 {
-"id": "XIA-1176",
+"id": "XIA-1173",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65309,7 +65301,7 @@
 ]
 },
 {
-"id": "XIA-1177",
+"id": "XIA-1174",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65345,7 +65337,7 @@
 ]
 },
 {
-"id": "XIA-1178",
+"id": "XIA-1175",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65367,7 +65359,7 @@
 ]
 },
 {
-"id": "XIA-1179",
+"id": "XIA-1176",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65407,7 +65399,7 @@
 ]
 },
 {
-"id": "XIA-1180",
+"id": "XIA-1177",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65432,7 +65424,7 @@
 ]
 },
 {
-"id": "XIA-1181",
+"id": "XIA-1178",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65481,7 +65473,7 @@
 ]
 },
 {
-"id": "XIA-1182",
+"id": "XIA-1179",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65506,7 +65498,7 @@
 ]
 },
 {
-"id": "XIA-1183",
+"id": "XIA-1180",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65554,7 +65546,7 @@
 ]
 },
 {
-"id": "XIA-1184",
+"id": "XIA-1181",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65576,7 +65568,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65598,7 +65590,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65620,7 +65612,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65660,7 +65652,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65696,7 +65688,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65747,7 +65739,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65773,6 +65765,14 @@
 [
 "Proshop: PanzerGlass Xiaomi 17 Ultra | 17 Pro Max",
 "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Xiaomi-17-Ultra-17-Pro-Max-Ultra-Wide-Fit/3453816"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Xiaomi 17 Ultra / 17 Pro Max [2 PACK]",
+"https://homescreen.pl/en/xiaomi-17-ultra/136584-bizon-glass-clear-duo-xiaomi-17-ultra-17-pro-max-2-pack-5900415744320.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Xiaomi 17 Ultra / 17 Pro Max, black frame [2 PACK]",
+"https://homescreen.pl/en/xiaomi-17-ultra/136571-bizon-glass-edge-duo-xiaomi-17-ultra-17-pro-max-black-frame-2-pack-5900415744252.html"
 ]
 ],
 "codes": [
@@ -65795,7 +65795,7 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65828,7 +65828,7 @@
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65861,7 +65861,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65906,7 +65906,7 @@
 ]
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65928,7 +65928,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65953,7 +65953,7 @@
 ]
 },
 {
-"id": "XIA-1196",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65981,7 +65981,7 @@
 ]
 },
 {
-"id": "XIA-1197",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66030,7 +66030,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66100,7 +66100,7 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66131,7 +66131,7 @@
 ]
 },
 {
-"id": "XIA-1200",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66153,7 +66153,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66178,7 +66178,7 @@
 ]
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66200,7 +66200,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66228,7 +66228,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66259,7 +66259,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66290,7 +66290,7 @@
 ]
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66306,7 +66306,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66331,7 +66331,7 @@
 ]
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66359,7 +66359,7 @@
 ]
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66387,7 +66387,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66415,7 +66415,7 @@
 ]
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66437,7 +66437,7 @@
 ]
 },
 {
-"id": "XIA-1212",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66459,7 +66459,7 @@
 ]
 },
 {
-"id": "XIA-1213",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66481,7 +66481,7 @@
 ]
 },
 {
-"id": "XIA-1214",
+"id": "XIA-1211",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66503,7 +66503,7 @@
 ]
 },
 {
-"id": "XIA-1215",
+"id": "XIA-1212",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66525,7 +66525,7 @@
 ]
 },
 {
-"id": "XIA-1216",
+"id": "XIA-1213",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66553,7 +66553,7 @@
 ]
 },
 {
-"id": "XIA-1217",
+"id": "XIA-1214",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66581,7 +66581,7 @@
 ]
 },
 {
-"id": "XIA-1218",
+"id": "XIA-1215",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66600,7 +66600,7 @@
 ]
 },
 {
-"id": "XIA-1219",
+"id": "XIA-1216",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66622,7 +66622,7 @@
 ]
 },
 {
-"id": "XIA-1220",
+"id": "XIA-1217",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66638,7 +66638,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1221",
+"id": "XIA-1218",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66660,7 +66660,7 @@
 ]
 },
 {
-"id": "XIA-1222",
+"id": "XIA-1219",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66682,7 +66682,7 @@
 ]
 },
 {
-"id": "XIA-1223",
+"id": "XIA-1220",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66704,7 +66704,7 @@
 ]
 },
 {
-"id": "XIA-1224",
+"id": "XIA-1221",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66726,7 +66726,7 @@
 ]
 },
 {
-"id": "XIA-1225",
+"id": "XIA-1222",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66748,7 +66748,7 @@
 ]
 },
 {
-"id": "XIA-1226",
+"id": "XIA-1223",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66875,9 +66875,19 @@
 "2021-08",
 "2021-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "3MK and GrizzGlass sell one hybrid glass for the Xiaomi Pad 5 and Xiaomi Pad 5 Pro (Homescreen.pl)",
 "device": "Tablet",
+"sources": [
+[
+"Homescreen.pl: GrizzGlass HybridGlass Xiaomi Pad 5 / 5 Pro",
+"https://homescreen.pl/en/xiaomi-pad/44077-grizzglass-hybridglass-xiaomi-pad-5-pro-5904063535293.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 5 / 5 Pro",
+"https://homescreen.pl/en/xiaomi-pad/44685-3mk-flexibleglass-xiaomi-pad-5-pro-5903108490405.html"
+]
+],
 "codes": [
 "21051182G, 21051182C",
 "M2105K81AC, M2105K81C"
@@ -66952,9 +66962,15 @@
 "2023-04",
 "2023-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "3MK sells one hybrid glass for the Xiaomi Pad 6 and Xiaomi Pad 6 Pro (Homescreen.pl)",
 "device": "Tablet",
+"sources": [
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 6 / 6 Pro",
+"https://homescreen.pl/en/xiaomi-pad-6-6-pro/149683-3mk-flexibleglass-xiaomi-pad-6-6-pro-5903108525930.html"
+]
+],
 "codes": [
 "23043RP34C, 23043RP34G, 23043RP34I",
 "23046RP50C"
@@ -67126,7 +67142,7 @@
 "2025-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Xiaomi Pad 7, Xiaomi Pad 7 Pro, Xiaomi Pad 8, Xiaomi Pad 8 Pro. The rest match on specs: test before swapping. Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8",
+"note": "Sellers confirm Xiaomi Pad 7, Xiaomi Pad 7 Pro, Xiaomi Pad 8, Xiaomi Pad 8 Pro. The rest match on specs: test before swapping. Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8. Tech-Protect sells one glass for the Xiaomi Pad 7, Xiaomi Pad 8 and Xiaomi Pad 8 Pro (Homescreen.pl). 3MK sells one hybrid glass for the Xiaomi Pad 8 and Xiaomi Pad 8 Pro (Homescreen.pl)",
 "device": "Tablet",
 "sources": [
 [
@@ -67140,6 +67156,14 @@
 [
 "JETech 2-pack at Desertcart (Pad 8 / Pad 7)",
 "https://www.desertcart.ae/products/686823189-2-pack-screen-protector-for-xiaomi-pad-8-pad-7"
+],
+[
+"Homescreen.pl: Tech-Protect Glass Fit+ Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro 11.2 Clear [2 PACK]",
+"https://homescreen.pl/en/xiaomi-pad/129681-tech-protect-glass-fit-xiaomi-pad-7-7-pro-8-8-pro-112-clear-2-pack-5906302339440.html"
+],
+[
+"Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 8 / Pad 8 Pro",
+"https://homescreen.pl/en/xiaomi-pad-8-8-pro-7-7-pro/149684-3mk-flexibleglass-xiaomi-pad-8-pad-8-pro-5903108758307.html"
 ]
 ],
 "codes": [
@@ -82354,9 +82378,15 @@
 "2025-03",
 "2025-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Bizon sells one glass for the vivo V50 Lite and vivo V50 Lite 4G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Mule Vivo V50 Lite 4G / 5G",
+"https://homescreen.pl/en/vivo-v50/110221-bizon-glass-mule-vivo-v50-lite-4g-5g-5900415704331.html"
+]
+],
 "codes": [
 "V2440",
 "V2441"
@@ -85346,50 +85376,6 @@
 "REA"
 ],
 "models": [
-"Realme 8",
-"Realme 8 Pro"
-],
-"released": [
-"2021-03",
-"2021-03"
-],
-"check": "Confirmed",
-"note": "Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree",
-"device": "Phone",
-"sources": [
-[
-"Alza glass with frame for Realme 8/8 Pro",
-"https://m.alza.cz/EN/tempered-glass-protector-frame-for-realme-88-pro-black-camera-glass-d6424023.htm"
-],
-[
-"KARTRAY at Flipkart (Realme 7 Pro, X7, 8, 8 Pro)",
-"https://www.flipkart.com/kartray-screen-guard-realme-7-pro-x7-8-8-matte-tempered-glass/p/itme91e00da4a3e6"
-],
-[
-"TMIC at eBay.de (Realme 8, 8 Pro)",
-"https://www.ebay.de/itm/175021136452"
-]
-],
-"codes": [
-"RMX3085",
-"RMX3081"
-],
-"screens": [
-"6.4in",
-"6.4in"
-],
-"dims": [
-"160.6 x 73.9 x 8 mm",
-"160.6 x 73.9 x 8.1 mm"
-]
-},
-{
-"id": "REA-1033",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
 "Realme C25",
 "Realme C25s",
 "Realme Narzo 50A"
@@ -85419,7 +85405,7 @@
 ]
 },
 {
-"id": "REA-1034",
+"id": "REA-1033",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85441,8 +85427,14 @@
 "2021-10"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme GT 5G, Realme GT Neo. The rest match on specs: test before swapping. MyScreen sells one glass for the Realme GT 5G and Realme GT Neo (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Realme GT 5G / GT Neo / GT ME black",
+"https://homescreen.pl/en/realme-gt5-series/69965-myscreen-diamond-glass-edge-lite-full-glue-realme-gt-5g-gt-neo-gt-me-black-5901924997825.html"
+]
+],
 "codes": [
 "RMX2202",
 "RMX3031",
@@ -85469,7 +85461,7 @@
 ]
 },
 {
-"id": "REA-1035",
+"id": "REA-1034",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85509,7 +85501,7 @@
 ]
 },
 {
-"id": "REA-1036",
+"id": "REA-1035",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85539,7 +85531,7 @@
 ]
 },
 {
-"id": "REA-1037",
+"id": "REA-1036",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85564,7 +85556,7 @@
 ]
 },
 {
-"id": "REA-1038",
+"id": "REA-1037",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85586,7 +85578,7 @@
 ]
 },
 {
-"id": "REA-1039",
+"id": "REA-1038",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85611,7 +85603,7 @@
 ]
 },
 {
-"id": "REA-1040",
+"id": "REA-1039",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85641,7 +85633,7 @@
 ]
 },
 {
-"id": "REA-1041",
+"id": "REA-1040",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85666,7 +85658,7 @@
 ]
 },
 {
-"id": "REA-1042",
+"id": "REA-1041",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85691,37 +85683,59 @@
 ]
 },
 {
-"id": "REA-1043",
-"brand": "Realme",
+"id": "REA-1042",
+"brand": "Realme + Oppo",
 "brands": [
-"REA"
+"REA",
+"OPP"
 ],
 "models": [
 "Realme 8i",
-"Realme Narzo 50"
+"Realme 9i",
+"Realme Narzo 50",
+"Oppo A96",
+"Oppo K10"
 ],
 "released": [
 "2021-09",
-"2022-02"
+"2022-01",
+"2022-02",
+"2022-03",
+"2022-03"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme 8i, Realme 9i, Oppo A96. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo A96, Realme 8i and Realme 9i (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Clear Realme 9i / Realme 8i / Oppo A96",
+"https://homescreen.pl/en/oppo-a96/92231-bizon-glass-clear-realme-9i-realme-8i-oppo-a96-5904665397145.html"
+]
+],
 "codes": [
 "RMX3151",
-"RMX3286"
+"RMX3491",
+"RMX3286",
+"CPH2333",
+"CPH2373"
 ],
 "screens": [
 "6.6in",
-"6.6in"
+"6.6in",
+"6.6in",
+"6.59in",
+"6.59in"
 ],
 "dims": [
 "164.1 x 75.5 x 8.5 mm",
-"164.1 x 75.5 x 8.5 mm"
+"164.4 x 75.7 x 8.4 mm",
+"164.1 x 75.5 x 8.5 mm",
+"164.4 x 75.7 x 8.4 mm",
+"164.4 x 75.7 x 8.4 mm"
 ]
 },
 {
-"id": "REA-1044",
+"id": "REA-1043",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85771,7 +85785,7 @@
 ]
 },
 {
-"id": "REA-1045",
+"id": "REA-1044",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85801,7 +85815,7 @@
 ]
 },
 {
-"id": "REA-1046",
+"id": "REA-1045",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85820,32 +85834,7 @@
 ]
 },
 {
-"id": "REA-1047",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme 9i"
-],
-"released": [
-"2022-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3491"
-],
-"screens": [
-"6.6in"
-],
-"dims": [
-"164.4 x 75.7 x 8.4 mm"
-]
-},
-{
-"id": "REA-1048",
+"id": "REA-1046",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85870,7 +85859,7 @@
 ]
 },
 {
-"id": "REA-1049",
+"id": "REA-1047",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85905,7 +85894,7 @@
 ]
 },
 {
-"id": "REA-1050",
+"id": "REA-1048",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85945,7 +85934,7 @@
 ]
 },
 {
-"id": "REA-1051",
+"id": "REA-1049",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -85975,7 +85964,7 @@
 ]
 },
 {
-"id": "REA-1052",
+"id": "REA-1050",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86000,7 +85989,7 @@
 ]
 },
 {
-"id": "REA-1053",
+"id": "REA-1051",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86025,7 +86014,7 @@
 ]
 },
 {
-"id": "REA-1054",
+"id": "REA-1052",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86055,7 +86044,7 @@
 ]
 },
 {
-"id": "REA-1055",
+"id": "REA-1053",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86077,7 +86066,7 @@
 ]
 },
 {
-"id": "REA-1056",
+"id": "REA-1054",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86099,7 +86088,7 @@
 ]
 },
 {
-"id": "REA-1057",
+"id": "REA-1055",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86124,7 +86113,7 @@
 ]
 },
 {
-"id": "REA-1058",
+"id": "REA-1056",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86154,7 +86143,7 @@
 ]
 },
 {
-"id": "REA-1059",
+"id": "REA-1057",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86179,7 +86168,7 @@
 ]
 },
 {
-"id": "REA-1060",
+"id": "REA-1058",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86204,7 +86193,7 @@
 ]
 },
 {
-"id": "REA-1061",
+"id": "REA-1059",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86222,8 +86211,14 @@
 "2023-03"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme 9i 5G, Realme 10 5G, Realme 10s. The rest match on specs: test before swapping. MyScreen sells one glass for the Realme 10 5G, Realme 10s and Realme 9i 5G (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge Lite FG Realme 10 5G/9i 5G/10s Full Glue Czarny/Black",
+"https://homescreen.pl/en/realme-10-series/57429-myscreen-diamond-glass-edge-lite-fg-realme-10-5g-9i-5g-10s-full-glue-czarny-black-5904433215046.html"
+]
+],
 "codes": [
 "RMX3612",
 "RMX3663",
@@ -86244,7 +86239,7 @@
 ]
 },
 {
-"id": "REA-1062",
+"id": "REA-1060",
 "brand": "Realme + Oppo",
 "brands": [
 "REA",
@@ -86275,7 +86270,7 @@
 ]
 },
 {
-"id": "REA-1063",
+"id": "REA-1061",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86300,7 +86295,7 @@
 ]
 },
 {
-"id": "REA-1064",
+"id": "REA-1062",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86330,7 +86325,7 @@
 ]
 },
 {
-"id": "REA-1065",
+"id": "REA-1063",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86360,7 +86355,7 @@
 ]
 },
 {
-"id": "REA-1066",
+"id": "REA-1064",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86385,7 +86380,7 @@
 ]
 },
 {
-"id": "REA-1067",
+"id": "REA-1065",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86410,7 +86405,7 @@
 ]
 },
 {
-"id": "REA-1068",
+"id": "REA-1066",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86445,7 +86440,7 @@
 ]
 },
 {
-"id": "REA-1069",
+"id": "REA-1067",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86470,7 +86465,7 @@
 ]
 },
 {
-"id": "REA-1070",
+"id": "REA-1068",
 "brand": "Realme + OnePlus + Oppo",
 "brands": [
 "REA",
@@ -86516,11 +86511,19 @@
 "2025-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Realme C55, OnePlus Nord CE 3 Lite, Oppo A60, Realme 14x, Realme C75. The rest match on specs: test before swapping. Bizon sells Glass Clear Duo for Realme 14x 5G/C55/C75/Nord CE 3 Lite/Oppo A60 4G, and Clear 2 for C55/Nord CE 3 Lite. Case-friendly flat glass. Same phone, two names",
+"note": "Sellers confirm Realme C55, OnePlus Nord CE 3 Lite, Oppo A60, Realme 14x, Realme C75. The rest match on specs: test before swapping. Bizon sells Glass Clear Duo for Realme 14x 5G/C55/C75/Nord CE 3 Lite/Oppo A60 4G, and Clear 2 for C55/Nord CE 3 Lite. Case-friendly flat glass. Bizon sells one glass for the OnePlus Nord CE 3 Lite and Realme C55 (Homescreen.pl). Same phone, two names",
 "device": "Phone",
 "sources": [
 [
 "Bizon (homescreen.pl)",
+"https://homescreen.pl/en/realme-c50-series/92316-bizon-glass-clear-2-realme-c55-oneplus-nord-ce-3-lite-5904665361955.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Realme 14x 5G / C55 / C75 / OnePlus Nord CE 3 Lite / Oppo A60 4G [2 PACK]",
+"https://homescreen.pl/en/realme-14x/119210-bizon-glass-clear-duo-realme-14x-5g-c55-c75-oneplus-nord-ce-3-lite-oppo-a60-4g-2-pack-5900415718482.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear 2 Realme C55 / OnePlus Nord CE 3 Lite",
 "https://homescreen.pl/en/realme-c50-series/92316-bizon-glass-clear-2-realme-c55-oneplus-nord-ce-3-lite-5904665361955.html"
 ]
 ],
@@ -86586,7 +86589,7 @@
 ]
 },
 {
-"id": "REA-1071",
+"id": "REA-1069",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86611,7 +86614,7 @@
 ]
 },
 {
-"id": "REA-1072",
+"id": "REA-1070",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86641,7 +86644,7 @@
 ]
 },
 {
-"id": "REA-1073",
+"id": "REA-1071",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86671,7 +86674,7 @@
 ]
 },
 {
-"id": "REA-1074",
+"id": "REA-1072",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86696,7 +86699,7 @@
 ]
 },
 {
-"id": "REA-1075",
+"id": "REA-1073",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86754,7 +86757,7 @@
 ]
 },
 {
-"id": "REA-1076",
+"id": "REA-1074",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86779,7 +86782,7 @@
 ]
 },
 {
-"id": "REA-1077",
+"id": "REA-1075",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86804,7 +86807,7 @@
 ]
 },
 {
-"id": "REA-1078",
+"id": "REA-1076",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86844,7 +86847,7 @@
 ]
 },
 {
-"id": "REA-1079",
+"id": "REA-1077",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86874,7 +86877,7 @@
 ]
 },
 {
-"id": "REA-1080",
+"id": "REA-1078",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86904,7 +86907,7 @@
 ]
 },
 {
-"id": "REA-1081",
+"id": "REA-1079",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86929,7 +86932,7 @@
 ]
 },
 {
-"id": "REA-1082",
+"id": "REA-1080",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86959,7 +86962,7 @@
 ]
 },
 {
-"id": "REA-1083",
+"id": "REA-1081",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -86994,7 +86997,7 @@
 ]
 },
 {
-"id": "REA-1084",
+"id": "REA-1082",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87029,7 +87032,7 @@
 ]
 },
 {
-"id": "REA-1085",
+"id": "REA-1083",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87074,7 +87077,7 @@
 ]
 },
 {
-"id": "REA-1086",
+"id": "REA-1084",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87099,7 +87102,7 @@
 ]
 },
 {
-"id": "REA-1087",
+"id": "REA-1085",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87134,7 +87137,7 @@
 ]
 },
 {
-"id": "REA-1088",
+"id": "REA-1086",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87159,7 +87162,7 @@
 ]
 },
 {
-"id": "REA-1089",
+"id": "REA-1087",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87194,7 +87197,7 @@
 ]
 },
 {
-"id": "REA-1090",
+"id": "REA-1088",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87219,7 +87222,7 @@
 ]
 },
 {
-"id": "REA-1091",
+"id": "REA-1089",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87245,7 +87248,7 @@
 ]
 },
 {
-"id": "REA-1092",
+"id": "REA-1090",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87270,7 +87273,7 @@
 ]
 },
 {
-"id": "REA-1093",
+"id": "REA-1091",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87295,57 +87298,43 @@
 ]
 },
 {
-"id": "REA-1094",
+"id": "REA-1092",
 "brand": "Realme",
 "brands": [
 "REA"
 ],
 "models": [
-"Realme 13 Pro+"
-],
-"released": [
-"2024-07"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3920, RMX3921"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"161.3 x 73.9 x 8.2 mm"
-]
-},
-{
-"id": "REA-1095",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
+"Realme 13 Pro+",
 "Realme 13 Pro"
 ],
 "released": [
+"2024-07",
 "2024-07"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "MyScreen sells one glass for the Realme 13 Pro and Realme 13 Pro+ (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: MyScreen Diamond Glass Edge 3D Realme 13 Pro / 13 Pro+ Plus black",
+"https://homescreen.pl/en/realme-13-pro/139694-myscreen-diamond-glass-edge-3d-realme-13-pro-13-pro-plus-black-5904433240772.html"
+]
+],
 "codes": [
+"RMX3920, RMX3921",
 "RMX3990"
 ],
 "screens": [
+"6.7in",
 "6.7in"
 ],
 "dims": [
+"161.3 x 73.9 x 8.2 mm",
 "161.3 x 73.9 x 8.2 mm"
 ]
 },
 {
-"id": "REA-1096",
+"id": "REA-1093",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87385,7 +87374,7 @@
 ]
 },
 {
-"id": "REA-1097",
+"id": "REA-1094",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87407,7 +87396,7 @@
 ]
 },
 {
-"id": "REA-1098",
+"id": "REA-1095",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87447,7 +87436,7 @@
 ]
 },
 {
-"id": "REA-1099",
+"id": "REA-1096",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87472,7 +87461,7 @@
 ]
 },
 {
-"id": "REA-1100",
+"id": "REA-1097",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87498,7 +87487,7 @@
 ]
 },
 {
-"id": "REA-1101",
+"id": "REA-1098",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87523,7 +87512,7 @@
 ]
 },
 {
-"id": "REA-1102",
+"id": "REA-1099",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87556,7 +87545,7 @@
 ]
 },
 {
-"id": "REA-1103",
+"id": "REA-1100",
 "brand": "Realme + Oppo",
 "brands": [
 "REA",
@@ -87618,7 +87607,7 @@
 ]
 },
 {
-"id": "REA-1104",
+"id": "REA-1101",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87643,7 +87632,7 @@
 ]
 },
 {
-"id": "REA-1105",
+"id": "REA-1102",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87673,7 +87662,7 @@
 ]
 },
 {
-"id": "REA-1106",
+"id": "REA-1103",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87698,7 +87687,7 @@
 ]
 },
 {
-"id": "REA-1107",
+"id": "REA-1104",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87726,7 +87715,7 @@
 ]
 },
 {
-"id": "REA-1108",
+"id": "REA-1105",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87748,7 +87737,7 @@
 ]
 },
 {
-"id": "REA-1109",
+"id": "REA-1106",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87772,6 +87761,14 @@
 [
 "Bizon (homescreen.pl)",
 "https://homescreen.pl/en/109191-bizon-glass-clear-2-realme-14-5g-14t-5g.html"
+],
+[
+"Homescreen.pl: Bizon Smart 2.5D Glass Realme 14 5G / 14T 5G",
+"https://homescreen.pl/en/realme-14/132607-bizon-smart-25d-glass-realme-14-5g-14t-5g-5900415734550.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Realme 14 5G / 14T 5G black frame [2 PACK]",
+"https://homescreen.pl/en/realme-14/126312-bizon-glass-edge-duo-realme-14-5g-14t-5g-black-frame-2-pack-5900415719755.html"
 ]
 ],
 "codes": [
@@ -87794,7 +87791,7 @@
 ]
 },
 {
-"id": "REA-1110",
+"id": "REA-1107",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87824,7 +87821,7 @@
 ]
 },
 {
-"id": "REA-1111",
+"id": "REA-1108",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87849,32 +87846,43 @@
 ]
 },
 {
-"id": "REA-1112",
+"id": "REA-1109",
 "brand": "Realme",
 "brands": [
 "REA"
 ],
 "models": [
 "Realme GT7 (China)",
+"Realme GT 7",
 "Realme GT 7T"
 ],
 "released": [
 "2025-04",
+"2025-05",
 "2025-05"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme GT 7, Realme GT 7T. The rest match on specs: test before swapping. Bizon sells one glass for the Realme GT 7 and Realme GT 7T (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Homescreen.pl: Bizon Glass Edge Duo Realme GT 7 / 7T black frame [2 PACK]",
+"https://homescreen.pl/en/realme-gt7-series/120242-bizon-glass-edge-duo-realme-gt-7-7t-black-frame-2-pack-5900415719779.html"
+]
+],
 "codes": [
 "",
+"RMX5061",
 "RMX5085"
 ],
 "screens": [
 "6.8in",
+"6.78in",
 "6.8in"
 ],
 "dims": [
 "162.4 x 76 x 8.3 mm",
+"162.4 x 76.1 x 8.3 mm",
 "162.4 x 76 x 8.3 mm"
 ],
 "tags": [
@@ -87882,7 +87890,7 @@
 ]
 },
 {
-"id": "REA-1113",
+"id": "REA-1110",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87904,32 +87912,7 @@
 ]
 },
 {
-"id": "REA-1114",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme GT 7"
-],
-"released": [
-"2025-05"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX5061"
-],
-"screens": [
-"6.78in"
-],
-"dims": [
-"162.4 x 76.1 x 8.3 mm"
-]
-},
-{
-"id": "REA-1115",
+"id": "REA-1111",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87951,7 +87934,7 @@
 ]
 },
 {
-"id": "REA-1116",
+"id": "REA-1112",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87981,7 +87964,7 @@
 ]
 },
 {
-"id": "REA-1117",
+"id": "REA-1113",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88006,7 +87989,7 @@
 ]
 },
 {
-"id": "REA-1118",
+"id": "REA-1114",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88036,7 +88019,7 @@
 ]
 },
 {
-"id": "REA-1119",
+"id": "REA-1115",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88081,7 +88064,7 @@
 ]
 },
 {
-"id": "REA-1120",
+"id": "REA-1116",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88103,7 +88086,7 @@
 ]
 },
 {
-"id": "REA-1121",
+"id": "REA-1117",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88125,7 +88108,7 @@
 ]
 },
 {
-"id": "REA-1122",
+"id": "REA-1118",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88155,7 +88138,7 @@
 ]
 },
 {
-"id": "REA-1123",
+"id": "REA-1119",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88180,7 +88163,7 @@
 ]
 },
 {
-"id": "REA-1124",
+"id": "REA-1120",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88213,7 +88196,7 @@
 ]
 },
 {
-"id": "REA-1125",
+"id": "REA-1121",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88238,7 +88221,7 @@
 ]
 },
 {
-"id": "REA-1126",
+"id": "REA-1122",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88263,7 +88246,7 @@
 ]
 },
 {
-"id": "REA-1127",
+"id": "REA-1123",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88285,7 +88268,7 @@
 ]
 },
 {
-"id": "REA-1128",
+"id": "REA-1124",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88307,7 +88290,7 @@
 ]
 },
 {
-"id": "REA-1129",
+"id": "REA-1125",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88332,7 +88315,7 @@
 ]
 },
 {
-"id": "REA-1130",
+"id": "REA-1126",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88357,7 +88340,7 @@
 ]
 },
 {
-"id": "REA-1131",
+"id": "REA-1127",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88382,7 +88365,7 @@
 ]
 },
 {
-"id": "REA-1132",
+"id": "REA-1128",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88410,7 +88393,7 @@
 ]
 },
 {
-"id": "REA-1133",
+"id": "REA-1129",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88440,7 +88423,7 @@
 ]
 },
 {
-"id": "REA-1134",
+"id": "REA-1130",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88470,7 +88453,7 @@
 ]
 },
 {
-"id": "REA-1135",
+"id": "REA-1131",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88500,7 +88483,7 @@
 ]
 },
 {
-"id": "REA-1136",
+"id": "REA-1132",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88522,7 +88505,7 @@
 ]
 },
 {
-"id": "REA-1137",
+"id": "REA-1133",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88547,7 +88530,7 @@
 ]
 },
 {
-"id": "REA-1138",
+"id": "REA-1134",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88582,7 +88565,7 @@
 ]
 },
 {
-"id": "REA-1139",
+"id": "REA-1135",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88604,7 +88587,7 @@
 ]
 },
 {
-"id": "REA-1140",
+"id": "REA-1136",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88626,7 +88609,7 @@
 ]
 },
 {
-"id": "REA-1141",
+"id": "REA-1137",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88642,7 +88625,7 @@
 "device": "Phone"
 },
 {
-"id": "REA-1142",
+"id": "REA-1138",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -103297,12 +103280,24 @@
 "2025-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Honor 400 Smart, Honor X7d. The rest match on specs: test before swapping. Bizon sells one glass for 'Honor X7d / Honor 400 Smart'; listing does not say 4G or 5G, so check the variant",
+"note": "Sellers confirm Honor 400 Smart, Honor 400 Smart 4G, Honor X7d. The rest match on specs: test before swapping. Bizon sells one glass for 'Honor X7d / Honor 400 Smart'; listing does not say 4G or 5G, so check the variant. 3MK sells one glass for the Honor 400 Smart and Honor 400 Smart 4G (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
 "Bizon Glass (Home Screen)",
 "https://homescreen.pl/en/400-smart/125891-bizon-glass-clear-2-honor-x7d-honor-400-smart-5900415722595.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Duo Honor X7d / Honor 400 Smart, black frame [2 PACK]",
+"https://homescreen.pl/en/honor-x7/130523-bizon-glass-edge-duo-honor-x7d-honor-400-smart-black-frame-2-pack-5900415735700.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Honor X7d / Honor 400 Smart [2 PACK]",
+"https://homescreen.pl/en/honor-x7/130511-bizon-glass-clear-duo-honor-x7d-honor-400-smart-2-pack-5900415735526.html"
+],
+[
+"Homescreen.pl: 3MK HardGlass Honor 400 Smart 4G / 5G",
+"https://homescreen.pl/en/honor-400-smart/149669-3mk-hardglass-honor-400-smart-4g-5g-5903108674652.html"
 ]
 ],
 "codes": [
@@ -210573,55 +210568,36 @@
 "SON"
 ],
 "models": [
-"Xperia 10 VII"
-],
-"released": [
-"2025-09"
-],
-"check": "Confirmed",
-"note": "3MK sells FlexibleGlass Pro hybrid glass for the Xperia 10 VII alone; hybrid glass, not tempered",
-"device": "Phone",
-"sources": [
-[
-"3MK",
-"https://3mk.pl/p/nietlukace-sie-szklo-na-sony-xperia-10-vii-3mk-flexibleglass-pro"
-]
-],
-"codes": [
-"XQ-FE54, XQZ-CBFE, xqfe54eukcl.gc, xqfe54eukcw.gc, xqfe54eukcb.gc"
-],
-"screens": [
-"6.1in"
-],
-"dims": [
-"153 x 72 x 8.3 mm"
-]
-},
-{
-"id": "SON-1129",
-"brand": "Sony",
-"brands": [
-"SON"
-],
-"models": [
+"Xperia 10 VII",
 "Xperia 10 VIII"
 ],
 "released": [
+"2025-09",
 "2026-08"
 ],
 "check": "Confirmed",
-"note": "3MK sells FlexibleGlass hybrid glass for the Xperia 10 VIII alone; hybrid glass, not tempered",
+"note": "Bizon sells one glass for the Xperia 10 VII and Xperia 10 VIII (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
-"3MK",
-"https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-sony-xperia-10-viii-3mk-flexibleglass"
+"Homescreen.pl: Bizon Glass Edge Duo Sony Xperia 10 VIII / VII, black frame [2 PACK]",
+"https://homescreen.pl/en/xperia-10/148469-bizon-glass-edge-duo-sony-xperia-10-viii-vii-black-frame-2-pack-5900415761914.html"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Duo Sony Xperia 10 VIII / VII [2 PACK]",
+"https://homescreen.pl/en/xperia-10/148468-bizon-glass-clear-duo-sony-xperia-10-viii-vii-2-pack-5900415761907.html"
 ]
 ],
+"codes": [
+"XQ-FE54, XQZ-CBFE, xqfe54eukcl.gc, xqfe54eukcw.gc, xqfe54eukcb.gc",
+""
+],
 "screens": [
+"6.1in",
 "6.1in"
 ],
 "dims": [
+"153 x 72 x 8.3 mm",
 "153 x 72 x 8.3 mm"
 ]
 },
