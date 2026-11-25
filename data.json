@@ -63926,9 +63926,19 @@
 "2022-12",
 "2023-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Hurtel and Elkj\u00f8p each sell one glass for the Redmi 12C and Poco C55 (also the Redmi 11A)",
 "device": "Phone",
+"sources": [
+[
+"Proshop: Hurtel tempered glass for Xiaomi Redmi 11A / Poco C55 / Redmi 12C",
+"https://www.proshop.dk/Mobil-Beskyttelsesglas/Hurtel-Standard-Tempered-Glass-Envelope-Tempered-Glass-for-Xiaomi-Redmi-11A-Poco-C55-Redmi-12C-9H/3466369"
+],
+[
+"Elkj\u00f8p: Xiaomi Redmi 11A / Redmi 12C / Poco C55 screen protector",
+"https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/xiaomi-redmi-11a-redmi-12c-poco-c55-skjermbeskytter/718802"
+]
+],
 "codes": [
 "22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
 "22127PC95I"

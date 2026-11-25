@@ -16406,5 +16406,23 @@
    }
   ],
   "note": "Spigen's Series 12 42mm protector is only compatible with the Series 12 42mm, so don't assume Series 10/11 glass fits it."
+ },
+ {
+  "models": [
+   "Redmi 12C",
+   "Poco C55"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Proshop: Hurtel tempered glass for Xiaomi Redmi 11A / Poco C55 / Redmi 12C",
+    "url": "https://www.proshop.dk/Mobil-Beskyttelsesglas/Hurtel-Standard-Tempered-Glass-Envelope-Tempered-Glass-for-Xiaomi-Redmi-11A-Poco-C55-Redmi-12C-9H/3466369"
+   },
+   {
+    "name": "Elkjøp: Xiaomi Redmi 11A / Redmi 12C / Poco C55 screen protector",
+    "url": "https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/xiaomi-redmi-11a-redmi-12c-poco-c55-skjermbeskytter/718802"
+   }
+  ],
+  "note": "Hurtel and Elkjøp each sell one glass for the Redmi 12C and Poco C55 (also the Redmi 11A)."
  }
 ]
