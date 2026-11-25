@@ -13219,9 +13219,23 @@
 "2020-02",
 "2020-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "The same phone: the S20 Ultra listing shares model number SM-G988B/DS with the S20 Ultra 5G, with the same body and 6.9in screen; curved screen. The S21 Ultra has a smaller 6.8in screen (S20 Ultra: 6.9in) and a body 1.8 mm shorter, so their glass does not swap",
 "device": "Phone",
+"sources": [
+[
+"GSMArena Galaxy S20 Ultra (SM-G988B/DS, 166.9 x 76 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s20_ultra-10084.php"
+],
+[
+"GSMArena Galaxy S20 Ultra 5G (SM-G988B/DS and others, 166.9 x 76 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php"
+],
+[
+"GSMArena Galaxy S21 Ultra 5G (6.8in, 165.1 x 75.6 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php"
+]
+],
 "codes": [
 "SM-G988B/DS",
 "SM-G988, SM-G988U, SM-G988U1, SM-G9880, SM-G988B/DS, SM-G988N, SM-G988B, SM-G988W, SCG03"
@@ -13235,7 +13249,8 @@
 "166.9 x 76 x 8.8 mm"
 ],
 "tags": [
-"fingerprint"
+"fingerprint",
+"curved"
 ]
 },
 {
@@ -14074,7 +14089,7 @@
 "2021-01"
 ],
 "check": "Confirmed",
-"note": "Olixar sells S21 Ultra-only tempered glass at MobileFun; curved screen. The S22 Ultra moved to a squarer, Note-style shape: about 2 mm shorter and 2 mm wider than the S21 Ultra, so their glass doesn't swap",
+"note": "Olixar sells S21 Ultra-only tempered glass at MobileFun; curved screen. The S22 Ultra moved to a squarer, Note-style shape: about 2 mm shorter and 2 mm wider than the S21 Ultra, so their glass doesn't swap. The S21 Ultra has a smaller 6.8in screen (S20 Ultra: 6.9in) and a body 1.8 mm shorter, so their glass does not swap",
 "device": "Phone",
 "sources": [
 [
@@ -14092,6 +14107,14 @@
 [
 "Notebookcheck: the S22 Ultra needs a Galaxy Note-shaped screen protector",
 "https://www.notebookcheck.net/The-Galaxy-S22-Ultra-will-need-a-Galaxy-Note-shaped-screen-protector-according-to-a-new-leak.581850.0.html"
+],
+[
+"GSMArena Galaxy S20 Ultra 5G (SM-G988B/DS and others, 166.9 x 76 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php"
+],
+[
+"GSMArena Galaxy S21 Ultra 5G (6.8in, 165.1 x 75.6 mm)",
+"https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php"
 ]
 ],
 "codes": [

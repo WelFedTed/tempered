@@ -16047,5 +16047,41 @@
    }
   ],
   "note": "The S22 Ultra moved to a squarer, Note-style shape: about 2 mm shorter and 2 mm wider than the S21 Ultra, so their glass doesn't swap."
+ },
+ {
+  "models": [
+   "Galaxy S20 Ultra",
+   "Galaxy S20 Ultra 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "GSMArena Galaxy S20 Ultra (SM-G988B/DS, 166.9 x 76 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s20_ultra-10084.php"
+   },
+   {
+    "name": "GSMArena Galaxy S20 Ultra 5G (SM-G988B/DS and others, 166.9 x 76 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php"
+   }
+  ],
+  "note": "The same phone: the S20 Ultra listing shares model number SM-G988B/DS with the S20 Ultra 5G, with the same body and 6.9in screen; curved screen."
+ },
+ {
+  "models": [
+   "Galaxy S20 Ultra",
+   "Galaxy S21 Ultra 5G"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena Galaxy S20 Ultra 5G (SM-G988B/DS and others, 166.9 x 76 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php"
+   },
+   {
+    "name": "GSMArena Galaxy S21 Ultra 5G (6.8in, 165.1 x 75.6 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php"
+   }
+  ],
+  "note": "The S21 Ultra has a smaller 6.8in screen (S20 Ultra: 6.9in) and a body 1.8 mm shorter, so their glass does not swap."
  }
 ]
