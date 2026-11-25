@@ -506,6 +506,13 @@ for r in _cat:
 for m in models:
     if m.get('screen') and m.get('dims'): continue
     r = gs_lookup(m['name'])
+    # Watches listed once per family: "Apple Watch Series 9 45mm" -> GSMArena's "Apple Watch Series 9", used only when
+    # its case is that size (GSMArena lists one size, e.g. the 45mm)
+    sz = re.search(r'^(.*?)\s+(\d\d)mm$', m['name']) if not r and m['cat'] == 'Wearable' else None
+    if sz:
+        r2 = gs_lookup(sz.group(1)) or gs_lookup(sz.group(1) + ' Aluminum')
+        dm = re.match(r'\s*([\d.]+)\s*x\s*([\d.]+)', ((r2 or {}).get('specs', {}).get('Body') or {}).get('Dimensions') or '')
+        if dm and abs(float(dm.group(1)) - int(sz.group(2))) <= 1.5: r = r2
     if r:
         for k, v in _sizes(r).items(): m.setdefault(k, v)
 SIZES = json.load(open(ROOT + '/build/sizes.json', encoding='utf-8'))
@@ -592,7 +599,8 @@ def _clean_note(t):
     # Research notes are shown to shop staff: drop remarks about the catalogue's own grouping
     t = re.sub(r'^(possible )?missed merge:\s*|^partial:\s*', '', t.strip(), flags=re.I)
     t = re.sub(r'\s*\([^)]*catalog(ue)?[^)]*\)', '', t)
-    t = re.sub(r',?\s*merging [^.;]*catalog(ue)? groups?', '', t, flags=re.I)
+    t = re.sub(r',?\s*merging [^.;]*?(catalog(ue)? )?groups?\b', '', t, flags=re.I)
+    t = re.sub(r',?\s*merging [^.;]*\b[A-Z]{3}-\d{4}\b[^.;]*', '', t)  # group codes change when groups are renumbered
     t = re.sub(r',?\s*an? (possible )?missed merge[^.;]*', '', t, flags=re.I)
     parts = [x for x in re.split(r'(?<=[.;])\s+', t) if not re.search(r'catalog(ue)?|work list|TODO', x, re.I)]
     t = ' '.join(parts).strip().rstrip('.;')

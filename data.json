@@ -1817,56 +1817,42 @@
 "APP"
 ],
 "models": [
-"iPhone 14 Pro Max"
-],
-"released": [
-"2022-09"
-],
-"check": "Confirmed",
-"note": "Belkin list",
-"device": "Phone",
-"codes": [
-"A2894, A2651, A2893, A2895, A2896, iPhone15,3"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"160.7 x 77.6 x 7.9 mm"
-]
-},
-{
-"id": "APP-1018",
-"brand": "Apple",
-"brands": [
-"APP"
-],
-"models": [
+"iPhone 14 Pro Max",
 "iPhone 15 Plus",
 "iPhone 16 Plus"
 ],
 "released": [
+"2022-09",
 "2023-09",
 "2024-09"
 ],
 "check": "Confirmed",
-"note": "",
+"note": "Belkin sells one UltraGlass 2 glass for the iPhone 14 Pro Max, 15 Plus and 16 Plus. Belkin list",
 "device": "Phone",
+"sources": [
+[
+"Belkin UltraGlass 2 (OVA132) product page, compatibility list",
+"https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-plus-iphone-15-plus-iphone-14-pro-max/OVA132zz.html"
+]
+],
 "codes": [
+"A2894, A2651, A2893, A2895, A2896, iPhone15,3",
 "A3094, A2847, A3093, A3096, iPhone15,5",
 "A3290, A3082, A3289, A3291, iPhone17,4"
 ],
 "screens": [
 "6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
+"160.7 x 77.6 x 7.9 mm",
 "160.9 x 77.8 x 7.8 mm",
 "160.9 x 77.8 x 7.8 mm"
 ]
 },
 {
-"id": "APP-1019",
+"id": "APP-1018",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1891,7 +1877,7 @@
 ]
 },
 {
-"id": "APP-1020",
+"id": "APP-1019",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1916,7 +1902,7 @@
 ]
 },
 {
-"id": "APP-1021",
+"id": "APP-1020",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1946,7 +1932,7 @@
 ]
 },
 {
-"id": "APP-1022",
+"id": "APP-1021",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -1977,7 +1963,7 @@
 ]
 },
 {
-"id": "APP-1023",
+"id": "APP-1022",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -2008,7 +1994,7 @@
 ]
 },
 {
-"id": "APP-1024",
+"id": "APP-1023",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -2038,7 +2024,7 @@
 ]
 },
 {
-"id": "APP-1025",
+"id": "APP-1024",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -2074,7 +2060,7 @@
 ]
 },
 {
-"id": "APP-1026",
+"id": "APP-1025",
 "brand": "Apple",
 "brands": [
 "APP"
@@ -2762,13 +2748,13 @@
 "",
 "",
 "1.65in",
-""
+"1.65in"
 ],
 "dims": [
 "",
 "42 x 36.4 x 10.5 mm",
 "42.5 x 36.4 x 11.4 mm",
-"42 x 36.4 x 11.4 mm"
+"42.5 x 36.4 x 11.4 mm"
 ]
 },
 {
@@ -2839,9 +2825,16 @@
 "A2352, A2354, A2356",
 "A2723, A2727, A2724, A2856"
 ],
+"screens": [
+"1.78in",
+"1.78in",
+"1.78in",
+"",
+""
+],
 "dims": [
 "44 x 38 x 10.7 mm",
-"44 x 38 x 10.74 mm",
+"44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm",
 "44 x 38 x 10.7 mm"
@@ -2901,6 +2894,11 @@
 "A2771, A2774, A2775, A2858",
 "A2980, A2984, A2985"
 ],
+"screens": [
+"1.9in",
+"1.9in",
+"1.9in"
+],
 "dims": [
 "45 x 38 x 10.7 mm",
 "45 x 38 x 10.7 mm",
@@ -2944,9 +2942,15 @@
 "A3281, A3282",
 "A3579, A3580"
 ],
+"screens": [
+"1.92in",
+"1.92in",
+"1.98in",
+""
+],
 "dims": [
-"49 x 44 x 12 mm",
-"49 x 44 x 12 mm",
+"49 x 44 x 14.4 mm",
+"49 x 44 x 14.4 mm",
 "49 x 44 x 12 mm",
 "49 x 44 x 12 mm"
 ]
@@ -2998,6 +3002,10 @@
 "A2999, A3000, A3003, A3206",
 "A3333, A3451, A3337, A3453"
 ],
+"screens": [
+"1.96in",
+"1.96in"
+],
 "dims": [
 "46 x 39 x 9.7 mm",
 "46 x 39 x 9.7 mm"
@@ -3042,6 +3050,9 @@
 "device": "Wearable",
 "codes": [
 "A3325, A3392, A3328, A3329"
+],
+"screens": [
+"1.78in"
 ],
 "dims": [
 "44 x 38 x 10.7 mm"
@@ -11982,8 +11993,30 @@
 "2018-12"
 ],
 "check": "Check",
-"note": "",
+"note": "The A8s has a round punch hole in the top-left corner, while the A30/A50 have a notch (Infinity-U). Different front cut-out, so do not swap glass. The A8s has a punch hole; the A20 and M10s group has a notch. Different front cut-out, so not the same glass. The A8s has a punch hole; the A30s has a notch. Different front cut-out, so not the same glass",
 "device": "Phone",
+"sources": [
+[
+"Wikipedia, Galaxy A8s (Infinity-O punch hole, 6.7 mm)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A50 (Infinity-U display)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A50"
+],
+[
+"Wikipedia, Galaxy A8s (punch hole)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A20 (Infinity-V notch)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A20"
+],
+[
+"Wikipedia, Galaxy A30s (Infinity-V notch)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A30s"
+]
+],
 "codes": [
 "SM-G8870, SM-G887F, SM-G887N, SM-A8s"
 ],
@@ -12106,7 +12139,7 @@
 "2019-08"
 ],
 "check": "Confirmed",
-"note": "AIV TECH and SNPD on Flipkart sell one glass for A30 and A50. AIV TECH and ambera on Flipkart sell one glass for A50 and A50s, merging A50s into the A30/A50 group",
+"note": "AIV TECH and SNPD on Flipkart sell one glass for A30 and A50. AIV TECH and ambera on Flipkart sell one glass for A50 and A50s. The A8s has a round punch hole in the top-left corner, while the A30/A50 have a notch (Infinity-U). Different front cut-out, so do not swap glass",
 "device": "Phone",
 "sources": [
 [
@@ -12120,6 +12153,14 @@
 [
 "Flipkart ambera (A50/A50s)",
 "https://www.flipkart.com/ambera-edge-tempered-glass-samsung-galaxy-a50-a50s/p/itmf47183e09647f"
+],
+[
+"Wikipedia, Galaxy A8s (Infinity-O punch hole, 6.7 mm)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A50 (Infinity-U display)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A50"
 ]
 ],
 "codes": [
@@ -12334,12 +12375,20 @@
 "2019-09"
 ],
 "check": "Check",
-"note": "Only CEDO XPRO on Flipkart sells one glass for M10s, A20 and A30, while HQ Protection and Gorilla Ace pair M10s with A10s instead: test fit. Same body size and screen specs: test before swapping",
+"note": "Only CEDO XPRO on Flipkart sells one glass for M10s, A20 and A30, while HQ Protection and Gorilla Ace pair M10s with A10s instead: test fit. The A8s has a punch hole; the A20 and M10s group has a notch. Different front cut-out, so not the same glass. Same body size and screen specs: test before swapping",
 "device": "Phone",
 "sources": [
 [
 "Flipkart CEDO XPRO (M10s/A20/A30)",
 "https://www.flipkart.com/cedo-xpro-tempered-glass-guard-samsung-galaxy-m10s-a20-a30/p/itm0a5c8b8a08e80"
+],
+[
+"Wikipedia, Galaxy A8s (punch hole)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A20 (Infinity-V notch)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A20"
 ]
 ],
 "codes": [
@@ -12699,8 +12748,18 @@
 "2019-08"
 ],
 "check": "Check",
-"note": "",
+"note": "The A8s has a punch hole; the A30s has a notch. Different front cut-out, so not the same glass",
 "device": "Phone",
+"sources": [
+[
+"Wikipedia, Galaxy A8s (punch hole)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+],
+[
+"Wikipedia, Galaxy A30s (Infinity-V notch)",
+"https://en.wikipedia.org/wiki/Samsung_Galaxy_A30s"
+]
+],
 "codes": [
 "SM-A307F, SM-A307FN, SM-A307G, SM-A307GN, SM-A307GT"
 ],
@@ -12759,7 +12818,7 @@
 "2020-11"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy M30s, Galaxy M31, Galaxy M21, Galaxy F41. The rest match on specs: test before swapping. EASYBIZZ, MUHAYMIN, HQ Protection and GORILLA FIVE on Flipkart sell one glass for M31, F41, M30s and M21, merging the M31 and M30s/M21 groups; M21s not named. Only HQ Protection on Flipkart names M31 Prime with M31/F41; M31 Prime is an M31 edition so likely identical, but single listing: test fit",
+"note": "Sellers confirm Galaxy M30s, Galaxy M31, Galaxy M21, Galaxy F41. The rest match on specs: test before swapping. EASYBIZZ, MUHAYMIN, HQ Protection and GORILLA FIVE on Flipkart sell one glass for M31, F41, M30s and M21; M21s not named. Only HQ Protection on Flipkart names M31 Prime with M31/F41; M31 Prime is an M31 edition so likely identical, but single listing: test fit",
 "device": "Phone",
 "sources": [
 [
@@ -12892,28 +12951,65 @@
 "SAM"
 ],
 "models": [
-"Galaxy A71"
+"Galaxy A71",
+"Galaxy Note10 Lite",
+"Galaxy M51",
+"Galaxy F62",
+"Galaxy M62",
+"Galaxy M52 5G"
 ],
 "released": [
-"2019-12"
+"2019-12",
+"2020-01",
+"2020-08",
+"2021-02",
+"2021-02",
+"2021-09"
 ],
 "check": "Confirmed",
-"note": "Olixar sells A71-only tempered glass at MobileFun (Flipkart Gorilla sellers also pair it with M51/F62/M62)",
+"note": "Olixar sells A71 tempered glass at MobileFun (Flipkart Gorilla sellers also pair it with M51/F62/M62). Nillkin sells one CP+ Pro glass for the Galaxy A71, Note10 Lite, M51, F62, M62 and M52 5G. It also lists the A71 5G, whose body is about 1 mm shorter: test that one. Gorilla-branded Flipkart sellers sell one glass for M51, F62 and M62 (also naming A71, M52, S10 Lite, Note10 Lite); sellers may be related: test fit",
 "device": "Phone",
 "sources": [
 [
 "MobileFun (Olixar)",
 "https://www.mobilefun.co.uk/olixar-samsung-galaxy-a71-tempered-glass-screen-protector-88719"
+],
+[
+"Nillkin CP+ Pro (A71, Note10 Lite, A71 5G, M51, F62, M62, M52 5G)",
+"https://nillkin.org/smartphones-accessories/samsung-phones-accessories/samsung-galaxy-a71-accessories/nillkin-samsung-galaxy-a71-cp-pro"
+],
+[
+"Flipkart Gorilla Glass (F62/M62/M51/A71/M52 5G)",
+"https://www.flipkart.com/gorilla-glass-tempered-guard-samsung-galaxy-f62-galaxy-m62-m51-samsumg-a71-m52-5g/p/itm7066fa608b7df"
+],
+[
+"Flipkart GORILLA FIVE (F62/M62/M51/A71/S10 Lite/Note10 Lite)",
+"https://www.flipkart.com/gorilla-five-edge-tempered-glass-samsung-galaxy-f62-m62-m51-a71-s10-lite-note-10-lite/p/itmbbbea61bf8a9f"
 ]
 ],
 "codes": [
-"SM-A715F, SM-A715F/DS, SM-A715F/DSN, SM-A715F/DSM, SM-A715W, SM-A715X"
+"SM-A715F, SM-A715F/DS, SM-A715F/DSN, SM-A715F/DSM, SM-A715W, SM-A715X",
+"SM-N770F, SM-N770F/DS, SM-N770F/DSM",
+"SM-M515F, SM-M515F/DSN",
+"SM-E625F, SM-E625F/DS",
+"SM-M625F, SM-M625F/DS",
+"SM-M526BR, SM-M526BR/DS, SM-M526B, SM-M526B/DS"
 ],
 "screens": [
+"6.7in",
+"6.7in",
+"6.7in",
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"163.6 x 76 x 7.7 mm"
+"163.6 x 76 x 7.7 mm",
+"163.7 x 76.1 x 8.7 mm",
+"163.9 x 76.3 x 9.5 mm",
+"163.9 x 76.3 x 9.5 mm",
+"163.9 x 76.3 x 9.5 mm",
+"164.2 x 76.4 x 7.4 mm"
 ]
 },
 {
@@ -12973,31 +13069,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy Note10 Lite"
-],
-"released": [
-"2020-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-N770F, SM-N770F/DS, SM-N770F/DSM"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"163.7 x 76.1 x 8.7 mm"
-]
-},
-{
-"id": "SAM-1390",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy XCover Pro"
 ],
 "released": [
@@ -13017,7 +13088,7 @@
 ]
 },
 {
-"id": "SAM-1391",
+"id": "SAM-1390",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13050,7 +13121,7 @@
 ]
 },
 {
-"id": "SAM-1392",
+"id": "SAM-1391",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13094,7 +13165,7 @@
 ]
 },
 {
-"id": "SAM-1393",
+"id": "SAM-1392",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13135,7 +13206,7 @@
 ]
 },
 {
-"id": "SAM-1394",
+"id": "SAM-1393",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13168,7 +13239,7 @@
 ]
 },
 {
-"id": "SAM-1395",
+"id": "SAM-1394",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13193,7 +13264,7 @@
 ]
 },
 {
-"id": "SAM-1396",
+"id": "SAM-1395",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13224,7 +13295,7 @@
 ]
 },
 {
-"id": "SAM-1397",
+"id": "SAM-1396",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13249,7 +13320,7 @@
 ]
 },
 {
-"id": "SAM-1398",
+"id": "SAM-1397",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13274,7 +13345,7 @@
 ]
 },
 {
-"id": "SAM-1399",
+"id": "SAM-1398",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13299,7 +13370,7 @@
 ]
 },
 {
-"id": "SAM-1400",
+"id": "SAM-1399",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13324,7 +13395,7 @@
 ]
 },
 {
-"id": "SAM-1401",
+"id": "SAM-1400",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13354,7 +13425,7 @@
 ]
 },
 {
-"id": "SAM-1402",
+"id": "SAM-1401",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13382,7 +13453,7 @@
 ]
 },
 {
-"id": "SAM-1403",
+"id": "SAM-1402",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13407,7 +13478,7 @@
 ]
 },
 {
-"id": "SAM-1404",
+"id": "SAM-1403",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13432,7 +13503,7 @@
 ]
 },
 {
-"id": "SAM-1405",
+"id": "SAM-1404",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13457,7 +13528,7 @@
 ]
 },
 {
-"id": "SAM-1406",
+"id": "SAM-1405",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13493,7 +13564,7 @@
 ]
 },
 {
-"id": "SAM-1407",
+"id": "SAM-1406",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13518,7 +13589,7 @@
 ]
 },
 {
-"id": "SAM-1408",
+"id": "SAM-1407",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13551,7 +13622,7 @@
 ]
 },
 {
-"id": "SAM-1409",
+"id": "SAM-1408",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13591,7 +13662,7 @@
 ]
 },
 {
-"id": "SAM-1410",
+"id": "SAM-1409",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13619,7 +13690,7 @@
 ]
 },
 {
-"id": "SAM-1411",
+"id": "SAM-1410",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13644,52 +13715,7 @@
 ]
 },
 {
-"id": "SAM-1412",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M51",
-"Galaxy F62",
-"Galaxy M62"
-],
-"released": [
-"2020-08",
-"2021-02",
-"2021-02"
-],
-"check": "Check",
-"note": "Gorilla-branded Flipkart sellers sell one glass for M51, F62 and M62 (also naming A71, M52, S10 Lite, Note10 Lite); sellers may be related: test fit. Same body size and screen specs: test before swapping",
-"device": "Phone",
-"sources": [
-[
-"Flipkart Gorilla Glass (F62/M62/M51/A71/M52 5G)",
-"https://www.flipkart.com/gorilla-glass-tempered-guard-samsung-galaxy-f62-galaxy-m62-m51-samsumg-a71-m52-5g/p/itm7066fa608b7df"
-],
-[
-"Flipkart GORILLA FIVE (F62/M62/M51/A71/S10 Lite/Note10 Lite)",
-"https://www.flipkart.com/gorilla-five-edge-tempered-glass-samsung-galaxy-f62-m62-m51-a71-s10-lite-note-10-lite/p/itmbbbea61bf8a9f"
-]
-],
-"codes": [
-"SM-M515F, SM-M515F/DSN",
-"SM-E625F, SM-E625F/DS",
-"SM-M625F, SM-M625F/DS"
-],
-"screens": [
-"6.7in",
-"6.7in",
-"6.7in"
-],
-"dims": [
-"163.9 x 76.3 x 9.5 mm",
-"163.9 x 76.3 x 9.5 mm",
-"163.9 x 76.3 x 9.5 mm"
-]
-},
-{
-"id": "SAM-1413",
+"id": "SAM-1411",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13725,7 +13751,7 @@
 ]
 },
 {
-"id": "SAM-1414",
+"id": "SAM-1412",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13766,7 +13792,7 @@
 ]
 },
 {
-"id": "SAM-1415",
+"id": "SAM-1413",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13841,29 +13867,33 @@
 ]
 },
 {
-"id": "SAM-1416",
+"id": "SAM-1414",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
 "Galaxy A12",
+"Galaxy A32 5G",
 "Galaxy M12 (India)",
 "Galaxy F12",
 "Galaxy M12",
 "Galaxy A12 Nacho",
-"Galaxy A12 (India)"
+"Galaxy A12 (India)",
+"Galaxy M32 5G"
 ],
 "released": [
 "2020-11",
+"2021-01",
 "2021-02",
 "2021-04",
 "2021-04",
 "2021-08",
+"2021-08",
 "2021-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A12, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India). The rest match on specs: test before swapping. Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12, merging the A12 and M12/F12 groups; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. PanzerGlass E2E Regular 7252 (case friendly) is titled for A32 5G/M12 in a search result (page blocked), suggesting the A32 5G and M12/F12 groups share glass: test fit",
+"note": "Sellers confirm Galaxy A12, Galaxy A32 5G, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India), Galaxy M32 5G. The rest match on specs: test before swapping. Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only). MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass E2E Regular 7252 (case friendly) is titled for A32 5G/M12 in a search result (page blocked), suggesting the A32 5G and M12/F12 groups share glass: test fit",
 "device": "Phone",
 "sources": [
 [
@@ -13879,6 +13909,18 @@
 "https://www.flipkart.com/dashmesh-shopping-edge-tempered-glass-samsung-galaxy-a12-m12-f12/p/itmb5c85fee9bd22"
 ],
 [
+"Bechtle, articona glass listed for A12 and A32 5G",
+"https://www.bechtle.com/ie/shop/articona-galaxy-a12-a32-5g-screen-prot--4548195--p"
+],
+[
+"Quill, cellhelmet tempered glass TEMP-A12 titled for A12/A32 5G",
+"https://quill.com/cellhelmet-tempered-glass-screen-protector-samsung-galaxy-a12-32-5g-temp-a12/cbs/55438490.html"
+],
+[
+"MediaMarkt PL (MyScreen Diamond Glass AntiSpy A32 5G/M32 5G)",
+"https://mediamarkt.pl/pl/product/_szklo-hartowane-myscreen-prywatyzujace-do-samsung-galaxy-a32-5g-m32-5g-diamond-glass-antispy-przezroczysty-181733617.html"
+],
+[
 "e-katalog.pl (PanzerGlass 7252 A32 5G/M12)",
 "https://e-katalog.pl/gtin/5711724072529"
 ],
@@ -13889,13 +13931,17 @@
 ],
 "codes": [
 "SM-A125F/DSN, SM-A125F/DS, SM-A125F, SM-A125M, SM-A125U, SM-A125U1, SM-A125N, SM-A125W",
+"SM-A326B, SM-A326B/DS, SM-A326BR/DS, SM-A326BR, SM-A326U, SM-A326W, SM-A326U1, SM-A326K, SCG08, SM-S326DL",
 "SM-M127F, SM-M127F/DS, SM-F127G, SM-F127G/DS, SM-M127G, SM-M127G/DS",
 "SM-F127G, SM-F127G/DS, SM-F127F, SM-F127F/DS",
 "SM-M127F, SM-M127F/DSN, SM-M127N",
 "SM-A127F/DSN, SM-A127F/DS, SM-A127F, SM-A127M, SM-A127U",
-"SM-A127F, SM-A127F/DS"
+"SM-A127F, SM-A127F/DS",
+"SM-M326B, SM-M326B/DS"
 ],
 "screens": [
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -13905,18 +13951,20 @@
 ],
 "dims": [
 "164 x 75.8 x 8.9 mm",
+"164.2 x 76.1 x 9.1 mm",
 "164 x 75.9 x 9.7 mm",
 "164 x 75.9 x 9.7 mm",
 "164 x 75.9 x 9.7 mm",
 "164 x 75.8 x 8.9 mm",
-"164 x 75.8 x 8.9 mm"
+"164 x 75.8 x 8.9 mm",
+"164.2 x 76.1 x 9.1 mm"
 ],
 "tags": [
 "case-friendly"
 ]
 },
 {
-"id": "SAM-1417",
+"id": "SAM-1415",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13946,54 +13994,7 @@
 ]
 },
 {
-"id": "SAM-1418",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A32 5G",
-"Galaxy M32 5G"
-],
-"released": [
-"2021-01",
-"2021-08"
-],
-"check": "Confirmed",
-"note": "MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass E2E Regular 7252 (case friendly) is titled for A32 5G/M12 in a search result (page blocked), suggesting the A32 5G and M12/F12 groups share glass: test fit",
-"device": "Phone",
-"sources": [
-[
-"MediaMarkt PL (MyScreen Diamond Glass AntiSpy A32 5G/M32 5G)",
-"https://mediamarkt.pl/pl/product/_szklo-hartowane-myscreen-prywatyzujace-do-samsung-galaxy-a32-5g-m32-5g-diamond-glass-antispy-przezroczysty-181733617.html"
-],
-[
-"e-katalog.pl (PanzerGlass 7252 A32 5G/M12)",
-"https://e-katalog.pl/gtin/5711724072529"
-],
-[
-"homescreen.pl (PanzerGlass E2E Regular A32 5G, same EAN 5711724072529)",
-"https://homescreen.pl/galaxy-a32-5g/55600-panzerglass-e2e-regular-samsung-galaxy-a32-5g-case-friendly-black-5711724072529.html"
-]
-],
-"codes": [
-"SM-A326B, SM-A326B/DS, SM-A326BR/DS, SM-A326BR, SM-A326U, SM-A326W, SM-A326U1, SM-A326K, SCG08, SM-S326DL",
-"SM-M326B, SM-M326B/DS"
-],
-"screens": [
-"6.5in",
-"6.5in"
-],
-"dims": [
-"164.2 x 76.1 x 9.1 mm",
-"164.2 x 76.1 x 9.1 mm"
-],
-"tags": [
-"case-friendly"
-]
-},
-{
-"id": "SAM-1419",
+"id": "SAM-1416",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14027,7 +14028,7 @@
 ]
 },
 {
-"id": "SAM-1420",
+"id": "SAM-1417",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14061,7 +14062,7 @@
 ]
 },
 {
-"id": "SAM-1421",
+"id": "SAM-1418",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14096,7 +14097,7 @@
 ]
 },
 {
-"id": "SAM-1422",
+"id": "SAM-1419",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14121,7 +14122,7 @@
 ]
 },
 {
-"id": "SAM-1423",
+"id": "SAM-1420",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14146,7 +14147,7 @@
 ]
 },
 {
-"id": "SAM-1424",
+"id": "SAM-1421",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14154,15 +14155,17 @@
 "models": [
 "Galaxy A52",
 "Galaxy A52 5G",
-"Galaxy A52s 5G"
+"Galaxy A52s 5G",
+"Galaxy A53 5G"
 ],
 "released": [
 "2021-03",
 "2021-03",
-"2021-08"
+"2021-08",
+"2022-03"
 ],
-"check": "Check",
-"note": "Sellers confirm Galaxy A52, Galaxy A52 5G. The rest match on specs: test before swapping. Olixar A52 glass states it fits both A52 and A52 5G (same size). FAD-E, XYNITY and EITANSHA on Flipkart sell one glass for A52, A52s and A53 5G, merging A53 5G into the A52 group; marketplace-only: test fit for A53",
+"check": "Confirmed",
+"note": "Olixar A52 glass states it fits both A52 and A52 5G (same size). FAD-E, XYNITY and EITANSHA on Flipkart sell one glass for A52, A52s and A53 5G; marketplace-only: test fit for A53. PanzerGlass sells one SAFE. glass for the Galaxy A52, A52 5G, A52s 5G and A53 5G. Olixar sells A53 5G-only tempered glass at MobileFun (Flipkart sellers also pair it with A52/A52s)",
 "device": "Phone",
 "sources": [
 [
@@ -14180,14 +14183,24 @@
 [
 "Flipkart EITANSHA CREATION",
 "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-s20-fe-a52-a52s-a53/p/itm2a92b4ad52ce3"
+],
+[
+"SAFE. by PanzerGlass (A52, A52 5G, A52s 5G, A53 5G)",
+"https://panzerglass.com/products/safe-galaxy-a52-a52-5g-a52s-5g-a53-5g-cf-black"
+],
+[
+"MobileFun (Olixar)",
+"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-a53-5g-88228"
 ]
 ],
 "codes": [
 "SM-A525F, SM-A525F/DS, SM-A525M, SM-A525M/DS",
 "SM-A526B, SM-A526B/DS, SM-A5260, SM-A526W, SM-A526U, SM-A526U1",
-"SM-A528B, SM-A528B/DS, SM-A528N"
+"SM-A528B, SM-A528B/DS, SM-A528N",
+"SM-A536B, SM-A536B/DS, SM-A536U, SM-A536U1, SM-A5360, SM-A536E, SM-A536E/DS, SM-A536V, SM-A536W, SM-A536N, SM-S536DL"
 ],
 "screens": [
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in"
@@ -14195,11 +14208,12 @@
 "dims": [
 "159.9 x 75.1 x 8.4 mm",
 "159.9 x 75.1 x 8.4 mm",
-"159.9 x 75.1 x 8.4 mm"
+"159.9 x 75.1 x 8.4 mm",
+"159.6 x 74.8 x 8.1 mm"
 ]
 },
 {
-"id": "SAM-1425",
+"id": "SAM-1422",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14230,7 +14244,7 @@
 ]
 },
 {
-"id": "SAM-1426",
+"id": "SAM-1423",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14258,7 +14272,7 @@
 ]
 },
 {
-"id": "SAM-1427",
+"id": "SAM-1424",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14283,7 +14297,7 @@
 ]
 },
 {
-"id": "SAM-1428",
+"id": "SAM-1425",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14308,7 +14322,7 @@
 ]
 },
 {
-"id": "SAM-1429",
+"id": "SAM-1426",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14356,7 +14370,7 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1427",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14381,7 +14395,7 @@
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1428",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14406,7 +14420,7 @@
 ]
 },
 {
-"id": "SAM-1432",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14431,7 +14445,7 @@
 ]
 },
 {
-"id": "SAM-1433",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14459,7 +14473,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14487,7 +14501,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14512,32 +14526,7 @@
 ]
 },
 {
-"id": "SAM-1436",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M52 5G"
-],
-"released": [
-"2021-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-M526BR, SM-M526BR/DS, SM-M526B, SM-M526B/DS"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"164.2 x 76.4 x 7.4 mm"
-]
-},
-{
-"id": "SAM-1437",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14567,7 +14556,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14598,7 +14587,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14632,7 +14621,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14666,7 +14655,7 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14701,7 +14690,7 @@
 ]
 },
 {
-"id": "SAM-1442",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14731,7 +14720,7 @@
 "2022-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India). The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33, merging several groups; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
+"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India). The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
 "device": "Phone",
 "sources": [
 [
@@ -14825,7 +14814,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14850,50 +14839,7 @@
 ]
 },
 {
-"id": "SAM-1444",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A53 5G"
-],
-"released": [
-"2022-03"
-],
-"check": "Confirmed",
-"note": "FAD-E, XYNITY and EITANSHA on Flipkart sell one glass for A52, A52s and A53 5G, merging A53 5G into the A52 group; marketplace-only: test fit for A53. Olixar sells A53 5G-only tempered glass at MobileFun (Flipkart sellers also pair it with A52/A52s)",
-"device": "Phone",
-"sources": [
-[
-"Flipkart FAD-E (A52/A52s 5G/A53 5G)",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-a52-a52s-5g-a53-5g/p/itm945d22c9b76b5"
-],
-[
-"Flipkart XYNITY",
-"https://www.flipkart.com/xynity-edge-tempered-glass-samsung-galaxy-s20-fe-a52-a52s-a53-a53s/p/itm708e1605babee"
-],
-[
-"Flipkart EITANSHA CREATION",
-"https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-s20-fe-a52-a52s-a53/p/itm2a92b4ad52ce3"
-],
-[
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-a53-5g-88228"
-]
-],
-"codes": [
-"SM-A536B, SM-A536B/DS, SM-A536U, SM-A536U1, SM-A5360, SM-A536E, SM-A536E/DS, SM-A536V, SM-A536W, SM-A536N, SM-S536DL"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"159.6 x 74.8 x 8.1 mm"
-]
-},
-{
-"id": "SAM-1445",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14918,7 +14864,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14943,7 +14889,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14984,7 +14930,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15012,7 +14958,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15040,7 +14986,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15065,7 +15011,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15090,7 +15036,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15108,7 +15054,7 @@
 "2023-03"
 ],
 "check": "Confirmed",
-"note": "Many Flipkart sellers (Coyo, ArmourPro, TUFZ, mobinix, GORILLA PROTECT, iZAP) sell one glass for M14, F14 and A14 4G/5G, merging the M14/F14 and A14 groups",
+"note": "Many Flipkart sellers (Coyo, ArmourPro, TUFZ, mobinix, GORILLA PROTECT, iZAP) sell one glass for M14, F14 and A14 4G/5G",
 "device": "Phone",
 "sources": [
 [
@@ -15144,7 +15090,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15178,7 +15124,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15212,7 +15158,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15248,7 +15194,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15287,7 +15233,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15335,7 +15281,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15379,7 +15325,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15404,7 +15350,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15456,7 +15402,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15508,7 +15454,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15536,7 +15482,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15596,7 +15542,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15642,7 +15588,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15675,7 +15621,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15701,6 +15647,10 @@
 [
 "JB Hi-Fi (Spigen EZ Fit Privacy)",
 "https://www.jbhifi.com.au/products/spigen-ez-fit-privacy-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-black"
+],
+[
+"Belkin ScreenForce InvisiGlass FAQ",
+"https://www.belkin.com/support-article?articleNum=337046"
 ]
 ],
 "codes": [
@@ -15723,7 +15673,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15758,7 +15708,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15783,7 +15733,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15799,7 +15749,7 @@
 "2024-05"
 ],
 "check": "Confirmed",
-"note": "Bizon sells several tempered glasses (Edge Duo, Clear Shadow, Edge Shadow) for M35 5G, A35 5G and A55 5G as one fit, merging three single-model groups. Belkin sells A35 and A55 separately; AXS lists A35/A55/A36/A56 as one. See Galaxy A35 note",
+"note": "Bizon sells several tempered glasses (Edge Duo, Clear Shadow, Edge Shadow) for M35 5G, A35 5G and A55 5G as one fit. Belkin sells A35 and A55 separately; AXS lists A35/A55/A36/A56 as one. See Galaxy A35 note",
 "device": "Phone",
 "sources": [
 [
@@ -15828,7 +15778,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15878,7 +15828,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15906,7 +15856,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16007,19 +15957,25 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
-"Galaxy S24 FE"
+"Galaxy S24 FE",
+"Galaxy A36",
+"Galaxy A56",
+"Galaxy A37"
 ],
 "released": [
-"2024-09"
+"2024-09",
+"2025-03",
+"2025-03",
+"2026-03"
 ],
 "check": "Confirmed",
-"note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56), merging S24 FE into the A36/A56 and M56 groups; marketplace-only: test fit. Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass; no brand listing checked",
+"note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56); marketplace-only: test fit. Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass; no brand listing checked. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). OtterBox lists A36/A56; retailer lists A37 too",
 "device": "Phone",
 "sources": [
 [
@@ -16045,20 +16001,33 @@
 [
 "Flipkart Difoxy",
 "https://www.flipkart.com/difoxy-edge-tempered-glass-samsung-galaxy-s24-fe-5g/p/itm7ea7764aaa16a"
+],
+[
+"PanzerGlass Ultra-Wide Fit PGRNUWFG38495 (distributor listing, vb.net)",
+"https://shop.vb.net/en/PZGPGRNUWFG38495/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-s24-fe-a36-5g-a56-5g-ultra-wide-fit"
 ]
 ],
 "codes": [
-"SM-S721B, SM-S721B/DS, SM-S721U1, SM-S721U, SM-S721W, SM-S7210, SM-S721N"
+"SM-S721B, SM-S721B/DS, SM-S721U1, SM-S721U, SM-S721W, SM-S7210, SM-S721N",
+"SM-A366E, SM-A366E/DS, SM-A366B, SM-A366B/DS, SM-A366U, SM-A366U1, SM-A366W",
+"SM-A566V, SM-A566B, SM-A566B/DS, SM-A566E, SM-A566E/DS, SM-A5660, SM-A566U, SM-A566U1, SM-A566W, SM-A566S",
+"SM-A376E, SM-A376E/DS, SM-A376B, SM-A376B/DS, SM-A376U, SM-A376U1, SM-A376W, SM-A3760"
 ],
 "screens": [
+"6.7in",
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"162 x 77.3 x 8 mm"
+"162 x 77.3 x 8 mm",
+"162.9 x 78.2 x 7.4 mm",
+"162.2 x 77.5 x 7.4 mm",
+"162.9 x 78.2 x 7.4 mm"
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16155,7 +16124,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16183,7 +16152,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16211,60 +16180,7 @@
 ]
 },
 {
-"id": "SAM-1477",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A36",
-"Galaxy A56",
-"Galaxy A37"
-],
-"released": [
-"2025-03",
-"2025-03",
-"2026-03"
-],
-"check": "Confirmed",
-"note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56), merging S24 FE into the A36/A56 and M56 groups; marketplace-only: test fit. OtterBox lists A36/A56; retailer lists A37 too",
-"device": "Phone",
-"sources": [
-[
-"Flipkart EITANSHA CREATION (A36/A56/S24 FE)",
-"https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-a36-5g-a56-s24-fe-5g/p/itm6a85737629be4"
-],
-[
-"Flipkart ArmourPro (S24 FE/A36/A56/M56)",
-"https://www.flipkart.com/armourpro-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a36-a56-m56-300c-borderless-3d-curved/p/itm070a618a3e094"
-],
-[
-"Flipkart FAD-E (A36/A56/S24 FE)",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-a36-a56-s24-fe-5g/p/itm69d264c617a0a"
-],
-[
-"Flipkart MB SHILD (S24 FE/A56/A36)",
-"https://www.flipkart.com/mb-shild-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a56-a36-5g/p/itm1b1d278cb390c"
-]
-],
-"codes": [
-"SM-A366E, SM-A366E/DS, SM-A366B, SM-A366B/DS, SM-A366U, SM-A366U1, SM-A366W",
-"SM-A566V, SM-A566B, SM-A566B/DS, SM-A566E, SM-A566E/DS, SM-A5660, SM-A566U, SM-A566U1, SM-A566W, SM-A566S",
-"SM-A376E, SM-A376E/DS, SM-A376B, SM-A376B/DS, SM-A376U, SM-A376U1, SM-A376W, SM-A3760"
-],
-"screens": [
-"6.7in",
-"6.7in",
-"6.7in"
-],
-"dims": [
-"162.9 x 78.2 x 7.4 mm",
-"162.2 x 77.5 x 7.4 mm",
-"162.9 x 78.2 x 7.4 mm"
-]
-},
-{
-"id": "SAM-1478",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16272,15 +16188,19 @@
 "models": [
 "Galaxy M56",
 "Galaxy F56",
-"Galaxy S25 FE"
+"Galaxy S25 FE",
+"Galaxy A57",
+"Galaxy S26 FE"
 ],
 "released": [
 "2025-04",
 "2025-05",
-"2025-09"
+"2025-09",
+"2026-03",
+"2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy M56, Galaxy S25 FE. The rest match on specs: test before swapping. EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56), merging S24 FE into the A36/A56 and M56 groups; marketplace-only: test fit. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together",
+"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56); marketplace-only: test fit. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. Samsung: A57 only",
 "device": "Phone",
 "sources": [
 [
@@ -16310,26 +16230,36 @@
 [
 "Proshop (PanzerGlass)",
 "https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Samsung-Galaxy-S25-FE-5G-M56-5G-Ultra-Wide-Fit/3424257"
+],
+[
+"Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
+"https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
 ]
 ],
 "codes": [
 "SM-M566B, SM-M566B/DS",
 "SM-E566B, SM-E566B/DS",
-"SM-S731B, SM-S731B/DS"
+"SM-S731B, SM-S731B/DS",
+"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A576U1, SM-A576W, SM-A576Z, SM-A5760",
+""
 ],
 "screens": [
 "6.74in",
 "6.74in",
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
 "162 x 77.3 x 7.2 mm",
 "162 x 77.3 x 7.2 mm",
-"161.3 x 76.6 x 7.4 mm"
+"161.3 x 76.6 x 7.4 mm",
+"161.5 x 76.8 x 6.9 mm",
+""
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16367,19 +16297,21 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
-"Galaxy Z Fold7"
+"Galaxy Z Fold7",
+"Galaxy Z Fold8 Ultra"
 ],
 "released": [
-"2025-07"
+"2025-07",
+"2026-07"
 ],
 "check": "Confirmed",
-"note": "ZAGG, PanzerGlass, BodyGuardz and Spigen sell Z Fold7 cover-screen glass; cover screen only. PB Tech retitled its Spigen Z Fold7 cover glass as fitting Z Fold8 Ultra too (seen in search title; page blocked); single retailer: test fit, cover screen only. Foldable: glass is for the outer (cover) screen",
+"note": "ZAGG, PanzerGlass, BodyGuardz and Spigen sell Z Fold7 cover-screen glass; cover screen only. Spigen's Z Fold8 Ultra cover glass is listed as compatible with the Z Fold7 and Z Fold8 Ultra. Spigen says its Z Fold8 cover glass fits only the standard Z Fold8; the Z Fold8 Ultra takes the Z Fold7's glass. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "sources": [
 [
@@ -16397,15 +16329,26 @@
 [
 "PB Tech NZ (Spigen Galaxy Z Fold8 Ultra / Z Fold7 Premium Tempered Glass, MPPSGP09580)",
 "https://www.pbtech.co.nz/product/MPPSGP09580/Spigen-Galaxy-Z-Fold8-Ultra--Z-Fold7-Premium-Tempe"
+],
+[
+"Spigen GLAS.tR EZ Fit Pro (Z Fold 8 Ultra / Z Fold 7)",
+"https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro"
+],
+[
+"Spigen GLAS.tR EZ Fit Pro (Z Fold 8 series)",
+"https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro"
 ]
 ],
 "codes": [
-"SM-F966B, SM-F966B/DS, SM-F966U, SM-F966U1"
+"SM-F966B, SM-F966B/DS, SM-F966U, SM-F966U1",
+"SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1"
 ],
 "screens": [
+"6.5in",
 "6.5in"
 ],
 "dims": [
+"158.4 x 72.8 x 8.9 mm",
 "158.4 x 72.8 x 8.9 mm"
 ],
 "tags": [
@@ -16413,19 +16356,21 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
-"Galaxy Z Flip7"
+"Galaxy Z Flip7",
+"Galaxy Z Flip8"
 ],
 "released": [
-"2025-07"
+"2025-07",
+"2026-07"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass sells Flip7-only glass; Flip7 FE/Flip6 glass is marked not for Flip7. Foldable: glass is for the outer (cover) screen",
+"note": "PanzerGlass sells its own Flip7 glass; Flip7 FE/Flip6 glass is marked not for Flip7. Spigen's cover-screen glass lists the Z Flip7 and Z Flip8. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "sources": [
 [
@@ -16435,23 +16380,34 @@
 [
 "Best Buy Canada (Flip7 FE/Flip6 glass, not for Flip7)",
 "https://www.bestbuy.ca/en-ca/product/front-screen-protector-for-galaxy-z-flip7fe-2025-z-flip-6-2024-tempered-gl-film-with-easy-installation/19960265"
+],
+[
+"Spigen GLAS.tR EZ Fit (Z Flip 8 / Z Flip 7)",
+"https://www.spigen.com/products/galaxy-z-flip-8-series-glas-tr-ez-fit"
+],
+[
+"JB Hi-Fi: Spigen Galaxy Z Flip 8 / 7 GLAS.tR EZ Fit",
+"https://www.jbhifi.com.au/products/spigen-galaxy-z-flip-8-7-glas-tr-ez-fit-screen-protector-2pcs-clear"
 ]
 ],
 "codes": [
-"SM-F766B, SM-F766B/DS, SM-F766U, SM-F766U1"
+"SM-F766B, SM-F766B/DS, SM-F766U, SM-F766U1",
+"SM-F776B, SM-F776B/DS, SM-F776U, SM-F776U1"
 ],
 "screens": [
+"4.1in",
 "4.1in"
 ],
 "dims": [
-"85.5 x 75.2 x 13.7 mm"
+"85.5 x 75.2 x 13.7 mm",
+"85.7 x 75.4 x 13.1 mm"
 ],
 "tags": [
 "cover"
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16479,7 +16435,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16507,7 +16463,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16535,32 +16491,7 @@
 ]
 },
 {
-"id": "SAM-1485",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A57"
-],
-"released": [
-"2026-03"
-],
-"check": "Confirmed",
-"note": "Samsung: A57 only",
-"device": "Phone",
-"codes": [
-"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A576U1, SM-A576W, SM-A576Z, SM-A5760"
-],
-"screens": [
-"6.7in"
-],
-"dims": [
-"161.5 x 76.8 x 6.9 mm"
-]
-},
-{
-"id": "SAM-1486",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16585,7 +16516,7 @@
 ]
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16610,7 +16541,7 @@
 ]
 },
 {
-"id": "SAM-1488",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16622,8 +16553,14 @@
 "2026-07"
 ],
 "check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"note": "Spigen says its Z Fold8 cover glass fits only the standard Z Fold8; the Z Fold8 Ultra takes the Z Fold7's glass. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"sources": [
+[
+"Spigen GLAS.tR EZ Fit Pro (Z Fold 8 series)",
+"https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro"
+]
+],
 "codes": [
 "SM-F971B, SM-F971B/DS, SM-F971U, SM-F971U1"
 ],
@@ -16635,69 +16572,7 @@
 ]
 },
 {
-"id": "SAM-1489",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy Z Fold8 Ultra"
-],
-"released": [
-"2026-07"
-],
-"check": "Check",
-"note": "PB Tech retitled its Spigen Z Fold7 cover glass as fitting Z Fold8 Ultra too (seen in search title; page blocked); single retailer: test fit, cover screen only. Foldable: glass is for the outer (cover) screen",
-"device": "Phone",
-"sources": [
-[
-"PB Tech NZ (Spigen Galaxy Z Fold8 Ultra / Z Fold7 Premium Tempered Glass, MPPSGP09580)",
-"https://www.pbtech.co.nz/product/MPPSGP09580/Spigen-Galaxy-Z-Fold8-Ultra--Z-Fold7-Premium-Tempe"
-]
-],
-"codes": [
-"SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"158.4 x 72.8 x 8.9 mm"
-],
-"tags": [
-"cover"
-]
-},
-{
-"id": "SAM-1490",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy Z Flip8"
-],
-"released": [
-"2026-07"
-],
-"check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
-"device": "Phone",
-"codes": [
-"SM-F776B, SM-F776B/DS, SM-F776U, SM-F776U1"
-],
-"screens": [
-"4.1in"
-],
-"dims": [
-"85.7 x 75.4 x 13.1 mm"
-],
-"tags": [
-"cover"
-]
-},
-{
-"id": "SAM-1491",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16719,26 +16594,7 @@
 ]
 },
 {
-"id": "SAM-1492",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy S26 FE"
-],
-"released": [
-"2026-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.7in"
-]
-},
-{
-"id": "SAM-1493",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16760,7 +16616,7 @@
 ]
 },
 {
-"id": "SAM-1494",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16782,7 +16638,7 @@
 ]
 },
 {
-"id": "SAM-1495",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16804,7 +16660,7 @@
 ]
 },
 {
-"id": "SAM-1496",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16820,7 +16676,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1497",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -18570,8 +18426,18 @@
 "2020-09"
 ],
 "check": "Check",
-"note": "",
+"note": "Nuglas and InfoCase each sell one tempered glass for the Tab Active3 and Active5. Only retailer listings, not a brand compatibility page, so test fit",
 "device": "Tablet",
+"sources": [
+[
+"Nuglas tempered glass for Tab Active5/Active3 (Reebelo listing, compatible-model field names both)",
+"https://reebelo.ca/collections/nuglas-tempered-crystal-clear-glass-screen-protector-for-galaxy-tab-active5%2F-active3"
+],
+[
+"InfoCase tempered glass for Tab Active 5 and Tab Active 3 (Zoro; title names both, spec field lists only Active5)",
+"https://www.zoro.com/infocase-tempered-glass-screen-protector-for-samsung-tab-active-5-and-tab-active-3-inf-sg-sam-taba5/i/G322446965/"
+]
+],
 "codes": [
 "SM-T575"
 ],
@@ -18792,8 +18658,18 @@
 "2024-01"
 ],
 "check": "Check",
-"note": "",
+"note": "Nuglas and InfoCase each sell one tempered glass for the Tab Active3 and Active5. Only retailer listings, not a brand compatibility page, so test fit",
 "device": "Tablet",
+"sources": [
+[
+"Nuglas tempered glass for Tab Active5/Active3 (Reebelo listing, compatible-model field names both)",
+"https://reebelo.ca/collections/nuglas-tempered-crystal-clear-glass-screen-protector-for-galaxy-tab-active5%2F-active3"
+],
+[
+"InfoCase tempered glass for Tab Active 5 and Tab Active 3 (Zoro; title names both, spec field lists only Active5)",
+"https://www.zoro.com/infocase-tempered-glass-screen-protector-for-samsung-tab-active-5-and-tab-active-3-inf-sg-sam-taba5/i/G322446965/"
+]
+],
 "codes": [
 "SM-X306B"
 ],
@@ -19486,7 +19362,7 @@
 "1.4in"
 ],
 "dims": [
-"46.2 x 45.0 x 11.1 mm"
+"46.2 x 45 x 11.1 mm"
 ],
 "tags": [
 "measure"
@@ -19581,8 +19457,8 @@
 ]
 ],
 "screens": [
-"1.36in",
-"1.36in"
+"1.4in",
+"1.4in"
 ],
 "dims": [
 "44.4 x 43.3 x 9.8 mm",
@@ -19633,10 +19509,10 @@
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "screens": [
-"1.36in"
+"1.4in"
 ],
 "dims": [
-"45.5 x 45.5 x 11.0 mm"
+"45.5 x 45.5 x 11 mm"
 ],
 "tags": [
 "measure"
@@ -19693,7 +19569,7 @@
 "note": "Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "screens": [
-"1.36in"
+"1.4in"
 ],
 "dims": [
 "45.4 x 45.4 x 10.5 mm"
@@ -19773,7 +19649,7 @@
 "1.5in"
 ],
 "dims": [
-"44.4 x 42.8 x 9.0 mm",
+"42.8 x 44.4 x 9 mm",
 "44.4 x 44.4 x 9.7 mm"
 ],
 "tags": [
@@ -19947,6 +19823,12 @@
 "https://www.flipkart.com/tshientt-edge-tempered-glass-samsung-galaxy-watch-7-ultra-47mm-2024/p/itm869bf8407f0d0"
 ]
 ],
+"screens": [
+"1.5in"
+],
+"dims": [
+"47.4 x 47.4 x 12.1 mm"
+],
 "tags": [
 "measure"
 ]
@@ -20026,7 +19908,7 @@
 "1.34in"
 ],
 "dims": [
-"46.4 x 46.0 x 10.6 mm"
+"46.4 x 46 x 10.6 mm"
 ],
 "tags": [
 "measure"
@@ -48917,7 +48799,7 @@
 "2023-04"
 ],
 "check": "Check",
-"note": "Sellers confirm Asus ROG Phone 5, Asus ROG Phone 5 Pro, Asus ROG Phone 5 Ultimate, Asus ROG Phone 5s, Asus ROG Phone 5s Pro, Asus ROG Phone 6, Asus ROG Phone 6 Pro; Asus ROG Phone 7, Asus ROG Phone 7 Ultimate. The rest match on specs: test before swapping. Supershieldz sells one glass for ROG Phone 6/6 Pro/5/5s/5 Pro/5s Pro/5 Ultimate, merging ASU-1087, ASU-1091 and the ROG 6 half of ASU-1092. ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series, merging ASU-1092 and ASU-1094; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. 3MK sells one FlexibleGlass Pro for ROG Phone 7 / 7 Ultimate, agreeing with Supershieldz; hybrid glass",
+"note": "Sellers confirm Asus ROG Phone 5, Asus ROG Phone 5 Pro, Asus ROG Phone 5 Ultimate, Asus ROG Phone 5s, Asus ROG Phone 5s Pro, Asus ROG Phone 6, Asus ROG Phone 6 Pro; Asus ROG Phone 7, Asus ROG Phone 7 Ultimate. The rest match on specs: test before swapping. Supershieldz sells one glass for ROG Phone 6/6 Pro/5/5s/5 Pro/5s Pro/5 Ultimate. ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. 3MK sells one FlexibleGlass Pro for ROG Phone 7 / 7 Ultimate, agreeing with Supershieldz; hybrid glass",
 "device": "Phone",
 "sources": [
 [
@@ -49105,7 +48987,7 @@
 "2022-11"
 ],
 "check": "Check",
-"note": "ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series, merging ASU-1092 and ASU-1094; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. Same body size and screen specs: test before swapping",
+"note": "ASUS says its Antibacterial Glass Screen Protector fits the ROG Phone 7, ROG Phone 6 and ROG Phone 6D series; the Batman and Diablo special editions are assumed part of the 6 series: test fit for those. Same body size and screen specs: test before swapping",
 "device": "Phone",
 "sources": [
 [
@@ -73162,7 +73044,7 @@
 "2020-10"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells one glass for Nokia 2 V Tella / C2 Tava / C2 Tennen, merging NOK-1176 into NOK-1170",
+"note": "Supershieldz sells one glass for Nokia 2 V Tella / C2 Tava / C2 Tennen",
 "device": "Phone",
 "sources": [
 [
@@ -98944,7 +98826,7 @@
 "1.47in"
 ],
 "dims": [
-"46 x 46 x 10.95 mm"
+"46 x 46 x 11 mm"
 ],
 "tags": [
 "measure"
@@ -105227,6 +105109,9 @@
 ],
 "screens": [
 "1.39in"
+],
+"dims": [
+"45.9 x 45.9 x 10.7 mm"
 ],
 "tags": [
 "measure"
@@ -220344,7 +220229,7 @@
 "46 x 46 x 11.5 mm",
 "41.2 x 41.2 x 9.5 mm",
 "42.7 x 40.4 x 8.6 mm",
-"46.4 x 46.0 x 10.6 mm",
+"46.4 x 46 x 10.6 mm",
 "43.2 x 43.2 x 11 mm",
 "44.8 x 44.8 x 13.2 mm",
 "41.3 x 41.3 x 9.99 mm",
@@ -220684,8 +220569,8 @@
 "1.39in",
 "1.4in",
 "1.39in",
-"1.36in",
-"1.36in",
+"1.4in",
+"1.4in",
 "1.4in",
 "1.4in",
 "1.39in",
@@ -220693,8 +220578,8 @@
 "1.4in",
 "1.39in",
 "1.4in",
-"1.36in",
-"1.36in",
+"1.4in",
+"1.4in",
 "1.4in",
 "1.4in",
 "1.39in",
@@ -220739,12 +220624,12 @@
 "51 x 51 x 14.9 mm",
 "47.2 x 47.2 x 10.75 mm",
 "45.9 x 45.9 x 10.7 mm",
-"",
+"45.9 x 45.9 x 10.7 mm",
 "53.3 x 46.2 x 11.4 mm",
 "50 x 50 x 15.3 mm",
 "53 x 46.8 x 10.8 mm",
 "36.5 x 25.6 x 11.8 mm",
-"46.2 x 45.0 x 11.1 mm",
+"46.2 x 45 x 11.1 mm",
 "53.3 x 46.2 x 11.4 mm",
 "53.3 x 45.9 x 11.8 mm",
 "46.4 x 46.4 x 10.7 mm",
@@ -220764,7 +220649,7 @@
 "35.7 x 25.8 x 12.2 mm",
 "53.4 x 45.9 x 11.8 mm",
 "44.4 x 43.3 x 9.8 mm",
-"45.5 x 45.5 x 11.0 mm",
+"45.5 x 45.5 x 11 mm",
 "48 x 47 x 12.2 mm",
 "50.3 x 50.3 x 15.7 mm",
 "45.8 x 45.8 x 10.8 mm",
@@ -221209,7 +221094,7 @@
 "1.5in",
 "1.5in",
 "1.5in",
-"",
+"1.5in",
 "1.5in",
 "1.5in",
 "1.5in",
@@ -221242,13 +221127,13 @@
 "48.5 x 48.5 x 13 mm",
 "46.2 x 46.2 x 10.9 mm",
 "47.6 x 47.6 x 12.9 mm",
-"44.4 x 42.8 x 9.0 mm",
+"44.4 x 42.8 x 9 mm",
 "46.5 x 46.5 x 10.9 mm",
 "46 x 46 x 10.6 mm",
 "49.4 x 49.4 x 13 mm",
 "46.4 x 46.4 x 11.4 mm",
 "44.4 x 44.4 x 9.7 mm",
-"",
+"47.4 x 47.4 x 12.1 mm",
 "48.5 x 48.5 x 13.75 mm",
 "47.6 x 46.6 x 11.8 mm",
 "47.6 x 46.6 x 11.8 mm",
@@ -221259,7 +221144,7 @@
 "49 x 49 x 12.5 mm",
 "49 x 49 x 13.6 mm",
 "48 x 48 x 14 mm",
-"46 x 46 x 10.95 mm",
+"46 x 46 x 11 mm",
 "45.6 x 45.6 x 11.3 mm",
 "48.5 x 48.5 x 12.9 mm",
 "46.3 x 46.3 x 11.3 mm",
@@ -222635,7 +222520,7 @@
 "2017-01"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells tempered glass for the fenix 5S alone. Hofi Glass Pro+ tempered glass is sold for the fenix 5S/6S/6S Pro (title only); suggests merging the fenix 5S into the 6S group, test fit. Universal round glass: try UNI-0006 (28mm); measure first",
+"note": "Supershieldz sells tempered glass for the fenix 5S alone. Hofi Glass Pro+ tempered glass is sold for the fenix 5S/6S/6S Pro (title only); suggests, test fit. Universal round glass: try UNI-0006 (28mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -223518,7 +223403,7 @@
 "2019-08"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells one tempered glass for the fenix 6S, 6S Pro, 6S Sapphire and 6S Pro Solar. Hofi Glass Pro+ tempered glass is sold for the fenix 5S/6S/6S Pro (title only); suggests merging the fenix 5S into the 6S group, test fit. Universal round glass: try UNI-0009 (31mm); measure first",
+"note": "Supershieldz sells one tempered glass for the fenix 6S, 6S Pro, 6S Sapphire and 6S Pro Solar. Hofi Glass Pro+ tempered glass is sold for the fenix 5S/6S/6S Pro (title only); suggests, test fit. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -223808,7 +223693,7 @@
 "2022-01"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass SmartWatch glass 3652 is sold for the Venu 2, Venu 2 Plus and vivoactive 4; suggests merging the three groups. Flipkart seller DB lists tempered glass for the Venu 2 Plus. Universal round glass: try UNI-0011 (33mm); measure first",
+"note": "PanzerGlass SmartWatch glass 3652 is sold for the Venu 2, Venu 2 Plus and vivoactive 4; suggests. Flipkart seller DB lists tempered glass for the Venu 2 Plus. Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -223849,7 +223734,7 @@
 "2021-04"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass SmartWatch glass 3653 is sold for the Venu 2S and vivoactive 4S; suggests merging the two groups. Universal round glass: try UNI-0006 (28mm); measure first",
+"note": "PanzerGlass SmartWatch glass 3653 is sold for the Venu 2S and vivoactive 4S; suggests. Universal round glass: try UNI-0006 (28mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -224393,7 +224278,7 @@
 "2023-05"
 ],
 "check": "Check",
-"note": "Sellers confirm Garmin fenix 7X, Garmin fenix 7X Solar, Garmin fenix 7X Sapphire Solar, Garmin fenix 7X Pro, Garmin epix Pro (Gen 2) 51mm. The rest match on specs: test before swapping. Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests merging fenix 8 51mm groups into the 7X group; test fit on the fenix 8 AMOLED. Spigen's fenix 7X EZ Fit glass lists 7X Solar/Sapphire Solar, 7X Pro and epix Pro 51mm, and says it does not fit the fenix 7 or 7S. Spigen also names fenix 8 51mm (version not stated). Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Sellers confirm Garmin fenix 7X, Garmin fenix 7X Solar, Garmin fenix 7X Sapphire Solar, Garmin fenix 7X Pro, Garmin epix Pro (Gen 2) 51mm. The rest match on specs: test before swapping. Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests into the 7X group; test fit on the fenix 8 AMOLED. Spigen's fenix 7X EZ Fit glass lists 7X Solar/Sapphire Solar, 7X Pro and epix Pro 51mm, and says it does not fit the fenix 7 or 7S. Spigen also names fenix 8 51mm (version not stated). Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -225299,7 +225184,7 @@
 "2024-08"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests merging fenix 8 51mm groups into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -225330,7 +225215,7 @@
 "2024-08"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests merging fenix 8 51mm groups into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -225424,7 +225309,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for the Instinct 3 45mm (Solar/AMOLED); suggests merging the two 45mm groups, test fit as the display windows differ",
+"note": "Supershieldz sells one tempered glass for the Instinct 3 45mm (Solar/AMOLED); suggests, test fit as the display windows differ",
 "device": "Wearable",
 "sources": [
 [
@@ -225452,7 +225337,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for the Instinct 3 50mm (Solar/AMOLED); suggests merging the two 50mm groups, test fit as the display windows differ",
+"note": "Supershieldz sells one tempered glass for the Instinct 3 50mm (Solar/AMOLED); suggests, test fit as the display windows differ",
 "device": "Wearable",
 "sources": [
 [
@@ -225480,7 +225365,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for the Instinct 3 45mm (Solar/AMOLED); suggests merging the two 45mm groups, test fit as the display windows differ",
+"note": "Supershieldz sells one tempered glass for the Instinct 3 45mm (Solar/AMOLED); suggests, test fit as the display windows differ",
 "device": "Wearable",
 "sources": [
 [
@@ -225505,7 +225390,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for the Instinct 3 50mm (Solar/AMOLED); suggests merging the two 50mm groups, test fit as the display windows differ",
+"note": "Supershieldz sells one tempered glass for the Instinct 3 50mm (Solar/AMOLED); suggests, test fit as the display windows differ",
 "device": "Wearable",
 "sources": [
 [
@@ -225845,7 +225730,7 @@
 "2025-05"
 ],
 "check": "Confirmed",
-"note": "Tech-Protect Glass Flex+ (flexible hybrid) is sold for the Forerunner 970 / 570 47mm; suggests merging the two groups. Flipkart sellers ZIDZEE and DB list 1.4in tempered glass for the Forerunner 970. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Tech-Protect Glass Flex+ (flexible hybrid) is sold for the Forerunner 970 / 570 47mm; suggests. Flipkart sellers ZIDZEE and DB list 1.4in tempered glass for the Forerunner 970. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -225991,7 +225876,7 @@
 "2025-09"
 ],
 "check": "Check",
-"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests merging fenix 8 51mm groups into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 51mm, fenix E 51mm, fenix 7X / 7X Pro and epix Pro 51mm; suggests into the 7X group; test fit on the fenix 8 AMOLED. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -226321,7 +226206,7 @@
 "2026-05"
 ],
 "check": "Confirmed",
-"note": "Bizon Watch Glass Clear and 3MK FlexibleGlass (hybrid) are each sold for the Forerunner 70/170/170 Music; Tech-Protect also lists 70/170; suggests merging the Forerunner 70 into this group. Universal round glass: try UNI-0009 (31mm); measure first",
+"note": "Bizon Watch Glass Clear and 3MK FlexibleGlass (hybrid) are each sold for the Forerunner 70/170/170 Music; Tech-Protect also lists 70/170; suggests. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -227023,7 +226908,7 @@
 "2021-03"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells one tempered glass for the Amazfit T-Rex and T-Rex Pro; suggests merging the two single-model groups. Universal round glass: try UNI-0011 (33mm); measure first",
+"note": "Supershieldz sells one tempered glass for the Amazfit T-Rex and T-Rex Pro; suggests. Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -229044,7 +228929,7 @@
 "2022-07"
 ],
 "check": "Check",
-"note": "Sellers confirm TicWatch Pro 3 GPS, TicWatch Pro 3 Ultra. The rest match on specs: test before swapping. Supershieldz sells one tempered glass for the TicWatch Pro 3 and Pro 3 Ultra GPS; suggests merging Pro 3 Ultra into the Pro 3 group. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "Sellers confirm TicWatch Pro 3 GPS, TicWatch Pro 3 Ultra. The rest match on specs: test before swapping. Supershieldz sells one tempered glass for the TicWatch Pro 3 and Pro 3 Ultra GPS; suggests. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "sources": [
 [

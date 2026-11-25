@@ -7178,7 +7178,7 @@
     "url": "https://www.mobilefun.co.uk/olixar-samsung-galaxy-a71-tempered-glass-screen-protector-88719"
    }
   ],
-  "note": "Olixar sells A71-only tempered glass at MobileFun (Flipkart Gorilla sellers also pair it with M51/F62/M62)."
+  "note": "Olixar sells A71 tempered glass at MobileFun (Flipkart Gorilla sellers also pair it with M51/F62/M62)."
  },
  {
   "models": [
@@ -7287,10 +7287,13 @@
    {
     "name": "PB Tech NZ (Spigen Galaxy Z Fold8 Ultra / Z Fold7 Premium Tempered Glass, MPPSGP09580)",
     "url": "https://www.pbtech.co.nz/product/MPPSGP09580/Spigen-Galaxy-Z-Fold8-Ultra--Z-Fold7-Premium-Tempe"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro (Z Fold 8 Ultra / Z Fold 7)",
+    "url": "https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro"
    }
   ],
-  "note": "PB Tech retitled its Spigen Z Fold7 cover glass as fitting Z Fold8 Ultra too (seen in search title; page blocked); single retailer: test fit, cover screen only.",
-  "weak": true
+  "note": "Spigen's Z Fold8 Ultra cover glass is listed as compatible with the Z Fold7 and Z Fold8 Ultra."
  },
  {
   "models": [
@@ -12046,6 +12049,10 @@
    {
     "name": "JB Hi-Fi (Spigen EZ Fit Privacy)",
     "url": "https://www.jbhifi.com.au/products/spigen-ez-fit-privacy-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-black"
+   },
+   {
+    "name": "Belkin ScreenForce InvisiGlass FAQ",
+    "url": "https://www.belkin.com/support-article?articleNum=337046"
    }
   ],
   "note": "Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi; S26+ not confirmed."
@@ -12087,7 +12094,7 @@
     "url": "https://www.bestbuy.ca/en-ca/product/front-screen-protector-for-galaxy-z-flip7fe-2025-z-flip-6-2024-tempered-gl-film-with-easy-installation/19960265"
    }
   ],
-  "note": "PanzerGlass sells Flip7-only glass; Flip7 FE/Flip6 glass is marked not for Flip7."
+  "note": "PanzerGlass sells its own Flip7 glass; Flip7 FE/Flip6 glass is marked not for Flip7."
  },
  {
   "models": [
@@ -15697,5 +15704,207 @@
    }
   ],
   "note": "Three different 51mm screens: the fenix 9 has a 35.6mm (1.4in) AMOLED, the 9 Pro a larger 38.1mm (1.5in) AMOLED, and the 9 Pro Solar a 35.6mm MIP screen in a 16.6 mm thick case."
+ },
+ {
+  "models": [
+   "iPhone 14 Pro Max",
+   "iPhone 15 Plus",
+   "iPhone 16 Plus"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Belkin UltraGlass 2 (OVA132) product page, compatibility list",
+    "url": "https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-plus-iphone-15-plus-iphone-14-pro-max/OVA132zz.html"
+   }
+  ],
+  "note": "Belkin sells one UltraGlass 2 glass for the iPhone 14 Pro Max, 15 Plus and 16 Plus."
+ },
+ {
+  "models": [
+   "Galaxy Tab Active3",
+   "Galaxy Tab Active5"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nuglas tempered glass for Tab Active5/Active3 (Reebelo listing, compatible-model field names both)",
+    "url": "https://reebelo.ca/collections/nuglas-tempered-crystal-clear-glass-screen-protector-for-galaxy-tab-active5%2F-active3"
+   },
+   {
+    "name": "InfoCase tempered glass for Tab Active 5 and Tab Active 3 (Zoro; title names both, spec field lists only Active5)",
+    "url": "https://www.zoro.com/infocase-tempered-glass-screen-protector-for-samsung-tab-active-5-and-tab-active-3-inf-sg-sam-taba5/i/G322446965/"
+   }
+  ],
+  "note": "Nuglas and InfoCase each sell one tempered glass for the Tab Active3 and Active5. Only retailer listings, not a brand compatibility page, so test fit.",
+  "weak": true
+ },
+ {
+  "models": [
+   "Galaxy A52",
+   "Galaxy A52 5G",
+   "Galaxy A52s 5G",
+   "Galaxy A53 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE. by PanzerGlass (A52, A52 5G, A52s 5G, A53 5G)",
+    "url": "https://panzerglass.com/products/safe-galaxy-a52-a52-5g-a52s-5g-a53-5g-cf-black"
+   }
+  ],
+  "note": "PanzerGlass sells one SAFE. glass for the Galaxy A52, A52 5G, A52s 5G and A53 5G."
+ },
+ {
+  "models": [
+   "Galaxy Z Fold8",
+   "Galaxy Z Fold8 Ultra"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro (Z Fold 8 series)",
+    "url": "https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro"
+   }
+  ],
+  "note": "Spigen says its Z Fold8 cover glass fits only the standard Z Fold8; the Z Fold8 Ultra takes the Z Fold7's glass."
+ },
+ {
+  "models": [
+   "Galaxy Z Flip7",
+   "Galaxy Z Flip8"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit (Z Flip 8 / Z Flip 7)",
+    "url": "https://www.spigen.com/products/galaxy-z-flip-8-series-glas-tr-ez-fit"
+   },
+   {
+    "name": "JB Hi-Fi: Spigen Galaxy Z Flip 8 / 7 GLAS.tR EZ Fit",
+    "url": "https://www.jbhifi.com.au/products/spigen-galaxy-z-flip-8-7-glas-tr-ez-fit-screen-protector-2pcs-clear"
+   }
+  ],
+  "note": "Spigen's cover-screen glass lists the Z Flip7 and Z Flip8."
+ },
+ {
+  "models": [
+   "Galaxy A8s",
+   "Galaxy A50"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Wikipedia, Galaxy A8s (Infinity-O punch hole, 6.7 mm)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+   },
+   {
+    "name": "Wikipedia, Galaxy A50 (Infinity-U display)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A50"
+   }
+  ],
+  "note": "The A8s has a round punch hole in the top-left corner, while the A30/A50 have a notch (Infinity-U). Different front cut-out, so do not swap glass."
+ },
+ {
+  "models": [
+   "Galaxy A8s",
+   "Galaxy A20"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Wikipedia, Galaxy A8s (punch hole)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+   },
+   {
+    "name": "Wikipedia, Galaxy A20 (Infinity-V notch)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A20"
+   }
+  ],
+  "note": "The A8s has a punch hole; the A20 and M10s group has a notch. Different front cut-out, so not the same glass."
+ },
+ {
+  "models": [
+   "Galaxy A8s",
+   "Galaxy A30s"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Wikipedia, Galaxy A8s (punch hole)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A8s"
+   },
+   {
+    "name": "Wikipedia, Galaxy A30s (Infinity-V notch)",
+    "url": "https://en.wikipedia.org/wiki/Samsung_Galaxy_A30s"
+   }
+  ],
+  "note": "The A8s has a punch hole; the A30s has a notch. Different front cut-out, so not the same glass."
+ },
+ {
+  "models": [
+   "Galaxy A71",
+   "Galaxy Note10 Lite",
+   "Galaxy M51",
+   "Galaxy F62",
+   "Galaxy M62",
+   "Galaxy M52 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+ Pro (A71, Note10 Lite, A71 5G, M51, F62, M62, M52 5G)",
+    "url": "https://nillkin.org/smartphones-accessories/samsung-phones-accessories/samsung-galaxy-a71-accessories/nillkin-samsung-galaxy-a71-cp-pro"
+   }
+  ],
+  "note": "Nillkin sells one CP+ Pro glass for the Galaxy A71, Note10 Lite, M51, F62, M62 and M52 5G. It also lists the A71 5G, whose body is about 1 mm shorter: test that one."
+ },
+ {
+  "models": [
+   "Galaxy A12",
+   "Galaxy A32 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Bechtle, articona glass listed for A12 and A32 5G",
+    "url": "https://www.bechtle.com/ie/shop/articona-galaxy-a12-a32-5g-screen-prot--4548195--p"
+   },
+   {
+    "name": "Quill, cellhelmet tempered glass TEMP-A12 titled for A12/A32 5G",
+    "url": "https://quill.com/cellhelmet-tempered-glass-screen-protector-samsung-galaxy-a12-32-5g-temp-a12/cbs/55438490.html"
+   }
+  ],
+  "note": "Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only)."
+ },
+ {
+  "models": [
+   "Galaxy S24 FE",
+   "Galaxy A36",
+   "Galaxy A56"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Ultra-Wide Fit PGRNUWFG38495 (distributor listing, vb.net)",
+    "url": "https://shop.vb.net/en/PZGPGRNUWFG38495/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-s24-fe-a36-5g-a56-5g-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product)."
+ },
+ {
+  "models": [
+   "Galaxy S25 FE",
+   "Galaxy A57",
+   "Galaxy S26 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
+    "url": "https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
+   }
+  ],
+  "note": "Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE."
  }
 ]
