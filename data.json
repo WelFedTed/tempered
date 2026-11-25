@@ -7594,8 +7594,8 @@
 "2013-03",
 "2013-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "GT-I9502",
@@ -8410,8 +8410,8 @@
 "2014-01",
 "2014-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-N750, SM-N7505, SM-N750K, SM-N750S, SM-N7507, SM-N750L, SM-N7500Q, SM-N7506V, SM-N7505L",
@@ -8640,8 +8640,8 @@
 "2014-04",
 "2014-06"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "GT-I9300I, GT-I9300RWI",
@@ -8980,8 +8980,8 @@
 "2014-06",
 "2014-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-G800H, SM-G800F, SM-G800M, SM-G800Y",
@@ -9152,8 +9152,8 @@
 "2014-10",
 "2014-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-N910C, SM-N910S, SM-N910H, SM-N910F, SM-N910G, SM-N910U, SM-N910K, SM-N916S, SM-N910L, SM-N916L, SM-N916K, SM-N910T3",
@@ -9310,8 +9310,8 @@
 "2014-10",
 "2014-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-A300F, SM-A300FU, SM-A300G, SM-A300HQ, SM-A300M, SM-A300XU, SM-A300XZ, SM-A300Y, SM-A300YZ, SM-A300H",
@@ -9340,8 +9340,8 @@
 "2014-10",
 "2014-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-A5000, SM-A5009, SM-A500F, SM-A500F1, SM-A500FQ, SM-A500FU, SM-A500G, SM-A500H, SM-A500HQ, SM-A500K, SM-A500L, SM-A500S, SM-A500YZ, SM-A500Y, SM-A500W",
@@ -9495,8 +9495,8 @@
 "2015-01",
 "2015-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-A700F, SM-A700FD, SM-A700K, SM-A700L, SM-A700S, SM-A700X",
@@ -9550,8 +9550,8 @@
 "2015-01",
 "2015-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-J100F, SM-J100FN, SM-J100H, SM-J100H/DD, SM-J100M, SM-J100MU, SM-J100ML, SM-J100VPP, SM-J100Y",
@@ -9580,8 +9580,8 @@
 "2015-03",
 "2015-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
@@ -9790,8 +9790,8 @@
 "2015-07",
 "2015-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-A8000, SM-A800F",
@@ -9847,8 +9847,8 @@
 "2015-08",
 "2015-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-G9287C, SM-G9287, SM-G928A, SM-G928F",
@@ -9882,8 +9882,8 @@
 "2015-08",
 "2015-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-N920, SM-N9208, SM-N920CD, SM-N920C",
@@ -10200,8 +10200,8 @@
 "2016-02",
 "2016-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
@@ -10230,8 +10230,8 @@
 "2016-02",
 "2016-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
@@ -12352,8 +12352,8 @@
 "2019-02",
 "2019-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "SM-F900F, SM-F9000, SM-F900W, SM-F900U, SM-F900N, SM-F900U1",
@@ -12705,8 +12705,8 @@
 "2019-08",
 "2019-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-N970F, SM-N970U, SM-N970U1, SM-N9700, SM-N970W, SM-N970N, SM-N970X",
@@ -13073,8 +13073,8 @@
 "2020-02",
 "2020-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "SM-F700, SM-F700F, SM-F700F/DS, SM-F700U/DS, SM-F700U1/DS, SM-F700N, M-F7000, SM-F700W/DS, SM-F700U1",
@@ -13564,8 +13564,8 @@
 "2020-08",
 "2020-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "SM-N980F, SM-N980F/DS",
@@ -16916,8 +16916,8 @@
 "2011-06",
 "2011-09"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "",
@@ -16946,8 +16946,8 @@
 "2011-06",
 "2011-09"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "",
@@ -17120,8 +17120,8 @@
 "2013-02",
 "2013-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "GT-N5110",
@@ -17150,8 +17150,8 @@
 "2013-04",
 "2013-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "GT-P3200, SM-T211, SM-T215, SM-T217S, SM-T217T",
@@ -17295,8 +17295,8 @@
 "2014-01",
 "2014-01"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T520",
@@ -17417,8 +17417,8 @@
 "2014-04",
 "2014-04"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T535",
@@ -17452,8 +17452,8 @@
 "2014-04",
 "2014-04"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T335",
@@ -17487,8 +17487,8 @@
 "2014-04",
 "2014-04"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T235, SM-T235Y, SM-T239",
@@ -17520,8 +17520,8 @@
 "2014-06",
 "2014-06"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T800, T805S",
@@ -17550,8 +17550,8 @@
 "2014-06",
 "2014-06"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T700",
@@ -17580,8 +17580,8 @@
 "2014-09",
 "2014-09"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SM-T360",
@@ -19324,8 +19324,8 @@
 "2019-08",
 "2019-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit. Universal round glass: try UNI-0009 (31mm); measure first",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
 "screens": [
 "1.2in",
@@ -19353,8 +19353,8 @@
 "2019-08",
 "2019-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit. Universal round glass: try UNI-0014 (36mm); measure first",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
 "screens": [
 "1.4in",
@@ -27450,8 +27450,8 @@
 "2024-12",
 "2025-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "CPH2695",
@@ -27512,8 +27512,8 @@
 "2025-01",
 "2025-01"
 ],
-"check": "Check",
-"note": "Sellers confirm Oppo Reno13 F 5G, Oppo Reno13 F 4G. The rest match on specs: test before swapping. 3MK sells one hybrid glass for the Oppo Reno13 F 4G and Oppo Reno13 F 5G (Homescreen.pl)",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Sellers confirm Oppo Reno13 F 5G, Oppo Reno13 F 4G. The rest match on specs: test before swapping. 3MK sells one hybrid glass for the Oppo Reno13 F 4G and Oppo Reno13 F 5G (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -29762,8 +29762,8 @@
 "2020-04",
 "2020-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "",
@@ -40299,8 +40299,8 @@
 "2014-11",
 "2014-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -40325,8 +40325,8 @@
 "2015-01",
 "2015-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.0in",
@@ -40351,8 +40351,8 @@
 "2015-01",
 "2015-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.0in",
@@ -40379,8 +40379,8 @@
 "2015-03",
 "2015-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -40411,8 +40411,8 @@
 "2015-03",
 "2015-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.7in",
@@ -40507,8 +40507,8 @@
 "2015-10",
 "2015-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.2in",
@@ -40533,8 +40533,8 @@
 "2015-10",
 "2015-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.7in",
@@ -43762,8 +43762,8 @@
 "2019-04",
 "2019-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "L78051",
@@ -51795,8 +51795,8 @@
 "2011-01",
 "2011-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "MB860",
@@ -52992,8 +52992,8 @@
 "2014-01",
 "2014-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "X1032, XT1032, XT1034, XT1028",
@@ -53025,8 +53025,8 @@
 "2014-05",
 "2014-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "XT1022, XT1025",
@@ -53081,8 +53081,8 @@
 "2015-01",
 "2015-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "XT1068, XT1063, XT1064, XT1069, XT1077",
@@ -53192,8 +53192,8 @@
 "2015-02",
 "2015-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "XT1527, XT1511, XT1505, XT1524, XT1528, XT1526",
@@ -53756,8 +53756,8 @@
 "2017-06",
 "2017-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "XT1760",
@@ -59219,8 +59219,8 @@
 "2014-03",
 "2014-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "2014712",
@@ -59249,8 +59249,8 @@
 "2014-07",
 "2014-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "2014215",
@@ -69849,8 +69849,8 @@
 "2007-08",
 "2007-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "2.4in",
@@ -71214,8 +71214,8 @@
 "2011-10",
 "2011-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "3.7in",
@@ -71288,8 +71288,8 @@
 "2012-01",
 "2012-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.3in",
@@ -71314,8 +71314,8 @@
 "2012-02",
 "2012-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "3.7in",
@@ -71816,8 +71816,8 @@
 "2014-07",
 "2014-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.0in",
@@ -76765,8 +76765,8 @@
 "2019-08",
 "2019-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "V1922A",
@@ -77238,8 +77238,8 @@
 "2020-06",
 "2020-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "V2001A, 2005",
@@ -82711,8 +82711,8 @@
 "2025-09",
 "2025-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "V2530, V2549, V2441U",
@@ -93006,8 +93006,8 @@
 "2019-09",
 "2019-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "TAS-L09, TAS-L29, TAS-AL00, TAS-TL00",
@@ -93234,8 +93234,8 @@
 "2020-03",
 "2021-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "ANA-AN00, ANA-TN00, ANA-NX9, ANA-LX4",
@@ -93557,8 +93557,8 @@
 "2020-10",
 "2021-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "NOH-NX9, NOH-AN00, NOH-AN01",
@@ -93673,8 +93673,8 @@
 "2020-12",
 "2021-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "BRQ-AN00, BRQ-AL00",
@@ -93703,8 +93703,8 @@
 "2021-02",
 "2021-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
 "codes": [
 "TET-AN00",
@@ -95761,8 +95761,8 @@
 "2011-02",
 "2011-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "7.0in",
@@ -99171,8 +99171,8 @@
 "2013-12",
 "2014-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "H30-T00, H30-U10",
@@ -111141,8 +111141,8 @@
 "2015-03",
 "2016-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "8.0in",
@@ -114750,8 +114750,8 @@
 "2013-10",
 "2013-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D682",
@@ -115112,8 +115112,8 @@
 "2014-04",
 "2014-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -115328,8 +115328,8 @@
 "2014-07",
 "2014-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D722, D724, F470K",
@@ -117923,8 +117923,8 @@
 "2020-02",
 "2020-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "LM-V600, A001LG",
@@ -118028,8 +118028,8 @@
 "2020-05",
 "2020-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "LM-G900N, LM-G900EM, LM-G900, LM-G900TM",
@@ -118436,8 +118436,8 @@
 "2013-09",
 "2014-03"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "V500, V510",
@@ -118466,8 +118466,8 @@
 "2014-05",
 "2014-07"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "10.1in",
@@ -118492,8 +118492,8 @@
 "2014-05",
 "2014-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "",
@@ -118522,8 +118522,8 @@
 "2014-05",
 "2014-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "V480",
@@ -120755,8 +120755,8 @@
 "2011-09",
 "2011-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "3.7in",
@@ -121302,8 +121302,8 @@
 "2012-09",
 "2012-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.3in",
@@ -121401,8 +121401,8 @@
 "2012-11",
 "2012-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.3in",
@@ -121700,8 +121700,8 @@
 "2013-09",
 "2013-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.5in",
@@ -121751,8 +121751,8 @@
 "2013-11",
 "2013-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.3in",
@@ -121777,8 +121777,8 @@
 "2013-11",
 "2014-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -121888,8 +121888,8 @@
 "2014-02",
 "2014-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D816x",
@@ -122089,8 +122089,8 @@
 "2014-06",
 "2014-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "M8Sw",
@@ -123975,8 +123975,8 @@
 "2011-02",
 "2011-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "7.0in",
@@ -129426,8 +129426,8 @@
 "2012-09",
 "2012-09"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "8.9in",
@@ -136035,8 +136035,8 @@
 "2015-10",
 "2016-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.5in",
@@ -136929,8 +136929,8 @@
 "2016-08",
 "2016-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -137747,8 +137747,8 @@
 "2017-07",
 "2017-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.2in",
@@ -137773,8 +137773,8 @@
 "2017-07",
 "2017-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "",
@@ -137983,8 +137983,8 @@
 "2017-10",
 "2017-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.2in",
@@ -138119,8 +138119,8 @@
 "2017-12",
 "2017-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.0in",
@@ -146535,8 +146535,8 @@
 "2011-02",
 "2011-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "7.0in",
@@ -153832,8 +153832,8 @@
 "2011-02",
 "2011-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "2.6in",
@@ -156709,8 +156709,8 @@
 "2021-05",
 "2021-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "X695, X695D",
@@ -157875,8 +157875,8 @@
 "2023-09",
 "2023-10"
 ],
-"check": "Check",
-"note": "One Flipkart seller sells edge-to-edge glass for Infinix Zero 30 5G and Zero 30 4G; single seller: test fit. Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first. One Flipkart seller sells edge-to-edge glass for Infinix Zero 30 5G and Zero 30 4G; single seller: test fit",
 "device": "Phone",
 "sources": [
 [
@@ -176879,8 +176879,8 @@
 "2010-10",
 "2010-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "3.1in",
@@ -182805,8 +182805,8 @@
 "2013-06",
 "2013-06"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "10.1in",
@@ -182875,8 +182875,8 @@
 "2013-06",
 "2013-06"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "8.0in",
@@ -182901,8 +182901,8 @@
 "2013-06",
 "2014-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "10.1in",
@@ -196285,8 +196285,8 @@
 "2021-06",
 "2021-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "6.53in",
@@ -203656,8 +203656,8 @@
 "2015-07",
 "2015-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.5in",
@@ -204081,8 +204081,8 @@
 "2013-03",
 "2013-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.5in",
@@ -204107,8 +204107,8 @@
 "2013-03",
 "2013-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "5.0in",
@@ -204199,8 +204199,8 @@
 "2013-11",
 "2013-11"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "6.0in",
@@ -207604,8 +207604,8 @@
 "2011-02",
 "2011-02"
 ],
-"check": "Check",
-"note": "Same phone, CDMA version",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.0in",
@@ -208093,8 +208093,8 @@
 "2012-06",
 "2012-06"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "3.2in",
@@ -208138,8 +208138,8 @@
 "2012-08",
 "2012-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "screens": [
 "4.55in",
@@ -208239,8 +208239,8 @@
 "2012-12",
 "2012-12"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "C1505, C1504",
@@ -208563,8 +208563,8 @@
 "2014-01",
 "2014-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D5303, D5316",
@@ -208593,8 +208593,8 @@
 "2014-01",
 "2014-01"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D2004, D2005",
@@ -208648,8 +208648,8 @@
 "2014-02",
 "2014-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D2302",
@@ -208728,8 +208728,8 @@
 "2014-07",
 "2014-07"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D2533",
@@ -208867,8 +208867,8 @@
 "2014-09",
 "2014-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "D2203, D2206, D2243, D2202",
@@ -208922,8 +208922,8 @@
 "2015-02",
 "2015-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E2104, E2105",
@@ -208952,8 +208952,8 @@
 "2015-02",
 "2015-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E2033, E2043",
@@ -208982,8 +208982,8 @@
 "2015-03",
 "2015-03"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E2303, E2353, E2306",
@@ -209012,8 +209012,8 @@
 "2015-05",
 "2015-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E5303, E53063E5353, E5353, E5306",
@@ -209042,8 +209042,8 @@
 "2015-05",
 "2015-05"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E6553, SO-03G, 402SO",
@@ -209097,8 +209097,8 @@
 "2015-08",
 "2015-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E5553, E5506",
@@ -209127,8 +209127,8 @@
 "2015-08",
 "2015-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E5603, E5606, E5653",
@@ -209182,8 +209182,8 @@
 "2015-09",
 "2015-09"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "E6853, SO-03H",
@@ -209212,8 +209212,8 @@
 "2016-02",
 "2016-02"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Phone",
 "codes": [
 "F3111, F3113, F3115",
@@ -210522,8 +210522,8 @@
 "2011-08",
 "2011-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "sgpt111, sgpt112",
@@ -210552,8 +210552,8 @@
 "2011-08",
 "2012-09"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "5.5in",
@@ -210578,8 +210578,8 @@
 "2012-08",
 "2012-08"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "9.4in",
@@ -210604,8 +210604,8 @@
 "2013-02",
 "2013-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SGP321, SO-03E, SGP351",
@@ -210634,8 +210634,8 @@
 "2014-02",
 "2014-02"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "screens": [
 "10.1in",
@@ -210685,8 +210685,8 @@
 "2015-03",
 "2015-03"
 ],
-"check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"check": "Variant",
+"note": "Variants of one model (region, carrier, SIM or connectivity): test first",
 "device": "Tablet",
 "codes": [
 "SGP771",

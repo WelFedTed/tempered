@@ -44,9 +44,10 @@ How the numbers are assigned:
 
 ## How reliable are the fits?
 
-Every group is marked **Confirmed** or **Check** (shown as "Unverified" on the site):
+Every group is marked **Confirmed**, **Variant** (shown as "Same model" on the site) or **Check** (shown as "Unverified"):
 
 - **Confirmed** (705 groups): a glass maker or seller lists the models together, or sells glass for that one model alone.
+- **Variant** (129 groups): the models are one device sold in region, carrier, SIM, memory or connectivity versions (such as Duos, LTE, Wi-Fi or USA), and their bodies are within 1 mm. 4G/5G versions count only when both bodies are on record and match. They almost always take the same glass, but no seller has confirmed it.
 - **Check**: either the models match on body size, screen size and resolution, or the model stands alone. Test the fit before swapping.
 
 Groups checked against protector brands, retailers and marketplaces carry their source links on the site. The findings live in [`build/verified.json`](build/verified.json); each entry is:

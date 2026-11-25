@@ -163,8 +163,9 @@ table.ranges .code{font-size:15px}
 <tr><td class="code">4001+</td><td>Handheld consoles</td></tr>
 </tbody></table>
 <p class="note">Within a brand, groups are numbered oldest first.</p></div>
-<div class="card"><h2>Confirmed vs unverified</h2>
+<div class="card"><h2>Confirmed, same model or unverified</h2>
 <p><span class="badge ok">✓ Confirmed</span> means a glass maker or seller lists these models together, or sells glass for that model alone. Where we checked online listings, the sources are linked on the result.</p>
+<p><span class="badge var">Same model</span> means the models are one device sold in region, carrier, SIM or connectivity versions (for example Duos, LTE or USA), with the same body size. They almost always take the same glass, but no seller has confirmed it yet.</p>
 <p><span class="badge warn">Unverified</span> means the models match on body and screen specs, or the model stands alone. Test the fit before swapping.</p></div>
 </div>
 <h2>Latest releases</h2>
@@ -224,7 +225,7 @@ function cardHtml(g, terms, q = '', sim = null) {
   const note = (g.note ? `<p class="cnote">${Tempered.linkCodes(Tempered.esc(g.note))}</p>` : '') + src;
   // Similar-size cards: a dashed border, a "Similar size" badge and how the size differs, without the group's notes
   const badge = sim ? '<span class="badge warn">Similar size</span>'
-    : g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : '<span class="badge warn">Unverified</span>';
+    : g.check === 'Confirmed' ? `<span class="badge ok">${TICK}Confirmed</span>` : g.check === 'Variant' ? '<span class="badge var">Same model</span>' : '<span class="badge warn">Unverified</span>';
   return `<article class="card${sim ? ' sim' : ''}"${sim ? '' : ` id="${g.id}"`}>
 <header><h3 class="code" style="margin:0">${g.id}</h3>${badge}</header>
 <p class="meta">${Tempered.esc(g.brandName)} · ${Tempered.DEVICE[g.dev] || g.dev}</p>${sim ? `<p class="simdiff">${Tempered.esc(simDiff(sim))}</p>` : ''}${tags}

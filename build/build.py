@@ -913,6 +913,36 @@ def _per_model(g, key, out):
 def _mnfix(codes):
     fixed = re.sub(r'(?<![A-Za-z])(iphone|ipad|ipod|watch)(?=\d)', lambda x: {'iphone': 'iPhone', 'ipad': 'iPad', 'ipod': 'iPod', 'watch': 'Watch'}[x.group(1).lower()], codes, flags=re.I)
     return ', '.join(dict.fromkeys(c for c in fixed.split(', ') if c))
+# Same model: unconfirmed groups whose models differ only by region, carrier, SIM, memory or connectivity
+V = 'Variant'
+_VTOK = (r'\((USA|US|China|Global|India|Europe|EU|Japan|Korea|Asia|International|Intl|Canada|Verizon|AT&T|T-Mobile|Sprint|CDMA|GSM|eSIM|LTE|Wi-Fi|WiFi|Cellular)\)'
+         r'|Duos|Dual SIM|Dual|DS|CDMA|GSM|LTE|3G|UW|NFC|Wi-Fi|WiFi|Cellular|Verizon|AT&T|T-Mobile|Sprint|Aluminum|\d+GB')
+def _vbase(n, gen):
+    n = re.sub(r'^[A-Z]{1,2}\d{3,5}[A-Z]? (?=Galaxy)', '', n)
+    tok = _VTOK + ('|4G|5G' if gen else '')
+    prev = None
+    while prev != n:
+        prev = n; n = re.sub(r'(?:\s|\+|^)(?:' + tok + r')(?=\s|$)', ' ', n, flags=re.I); n = re.sub(r'\s+', ' ', n).strip()
+    return n.lower()
+def _sides(m):
+    n = [float(x) for x in re.findall(r'[\d.]+', m.get('dims') or '')[:2]]
+    return sorted(n, reverse=True) if len(n) == 2 else None
+def same_model(g):
+    mem = g['members']
+    if g['status'] != K or len(mem) < 2: return False
+    sides = [_sides(m) for m in mem]
+    known = [s for s in sides if s]
+    spread = max((max(s[i] for s in known) - min(s[i] for s in known) for i in (0, 1)), default=0) if known else 0
+    if spread >= 1: return False
+    if len({_vbase(m['name'], False) for m in mem}) == 1: return True
+    # 4G/5G names only when every body is on record and matches
+    return all(sides) and spread <= 0.3 and len({_vbase(m['name'], True) for m in mem}) == 1
+_VDROP = re.compile(r'^(Same body size and screen specs(, sold under several brands)?: test before swapping|Variants of one model \(region, carrier or connectivity\): check fit|Same phone, \w+ version)$')
+for g in groups:
+    if same_model(g):
+        g['status'] = V
+        g['note'] = '. '.join(['Variants of one model (region, carrier, SIM or connectivity): test first'] + [p for p in g['note'].split('. ') if p and not _VDROP.match(p)])
+print('Same model', sum(g['status'] == V for g in groups))
 out = []
 for g in groups:
     out.append(dict(id=g['id'], brand=' + '.join(NAME[c] for c in g['brands']), brands=g['brands'], models=[m['name'] for m in g['members']],

@@ -2,7 +2,7 @@
 :root{
   --bg:#f4f2ec;--panel:#fff;--field:#fff;--ink:#111;--mute:#4a463f;--line:#e3e0d8;--dash:#b9b4a8;
   --edge:#111;--shadow:#111;--acc:#e8590c;--accInk:#a8400a;--accHover:#7a2e06;--onAcc:#111;--mark:#ffd8bf;
-  --ok:#1d5e26;--okBg:#dcefdc;--warn:#6e4700;--warnBg:#f8ebc6;--chip:#e4e1d9;--sheet:#e4e1d9;
+  --ok:#1d5e26;--okBg:#dcefdc;--warn:#6e4700;--warnBg:#f8ebc6;--var:#1c4f7a;--varBg:#dce8f4;--chip:#e4e1d9;--sheet:#e4e1d9;
   --bar:#111;--barInk:#f4f2ec;--barMute:#c9c5bb;
   --sans:Archivo,system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"JetBrains Mono",ui-monospace,"Cascadia Mono",Consolas,monospace;
@@ -12,7 +12,7 @@
   :root:not([data-theme=light]){
     --bg:#161513;--panel:#201f1c;--field:#1a1917;--ink:#f1efe9;--mute:#b3afa5;--line:#34322d;--dash:#55524b;
     --edge:#d9d6cf;--shadow:#000;--accInk:#ff8c4a;--accHover:#ffb07f;--mark:rgba(232,89,12,.38);
-    --ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--chip:#2c2b27;--sheet:#2a2925;
+    --ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--var:#9cc4ec;--varBg:#1a2b3d;--chip:#2c2b27;--sheet:#2a2925;
     --bar:#0b0b0a;--barInk:#f1efe9;--barMute:#b3afa5;
     color-scheme:dark;
   }
@@ -20,7 +20,7 @@
 :root[data-theme=dark]{
   --bg:#161513;--panel:#201f1c;--field:#1a1917;--ink:#f1efe9;--mute:#b3afa5;--line:#34322d;--dash:#55524b;
   --edge:#d9d6cf;--shadow:#000;--accInk:#ff8c4a;--accHover:#ffb07f;--mark:rgba(232,89,12,.38);
-  --ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--chip:#2c2b27;--sheet:#2a2925;
+  --ok:#8fd492;--okBg:#1f3320;--warn:#f0c56a;--warnBg:#3a2f12;--var:#9cc4ec;--varBg:#1a2b3d;--chip:#2c2b27;--sheet:#2a2925;
   --bar:#0b0b0a;--barInk:#f1efe9;--barMute:#b3afa5;
   color-scheme:dark;
 }
@@ -72,6 +72,7 @@ button:disabled{opacity:.5;cursor:not-allowed}
 .badge svg{width:14px;height:14px;flex:none}
 .badge.ok{background:var(--okBg);color:var(--ok)}
 .badge.warn{background:var(--warnBg);color:var(--warn)}
+.badge.var{background:var(--varBg);color:var(--var)}
 .code{font-family:var(--mono);font-weight:800;letter-spacing:-.01em}
 
 /* Glass type keys: Clear outline, Privacy solid, Matte double outline (as printed) */
