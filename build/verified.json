@@ -16222,5 +16222,54 @@
    }
   ],
   "note": "Speck sells ShieldView glass for the Pixel Tablet on the Google Store."
+ },
+ {
+  "models": [
+   "Galaxy A17",
+   "Galaxy A17 4G",
+   "Galaxy A18"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Coolblue: BlueBuilt glass, suitable for Galaxy A17 4G, A17 5G and A18",
+    "url": "https://www.coolblue.nl/en/product/966911/bluebuilt-samsung-galaxy-a18-and-a17-glass-screen-protector.html"
+   }
+  ],
+  "note": "Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18."
+ },
+ {
+  "models": [
+   "Galaxy A27"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Samsung Screen Protector for Galaxy A27 (EF-UA276)",
+    "url": "https://www.samsung.com/uk/support/model/EF-UA276CTEGWW/"
+   },
+   {
+    "name": "JB Hi-Fi: SAFE by PanzerGlass Ultra Wide Fit for Galaxy A27",
+    "url": "https://www.jbhifi.com.au/products/safe-by-panzerglass-ultra-wide-fit-screen-protector-for-galaxy-a27"
+   }
+  ],
+  "note": "Samsung and PanzerGlass sell glass made for the Galaxy A27."
+ },
+ {
+  "models": [
+   "Galaxy A33 5G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Samsung Tempered Glass Screen Protector for Galaxy A33 5G (ET-FA336)",
+    "url": "https://www.samsung.com/nz/mobile-accessories/tempered-glass-screen-protector-for-galaxy-a33-5g-transparent-et-fa336ttegww"
+   },
+   {
+    "name": "SAFE. by PanzerGlass for Galaxy A33 5G",
+    "url": "https://panzerglass.com/products/safe-samsung-galaxy-a33-5g-cf-black"
+   }
+  ],
+  "note": "Samsung and PanzerGlass sell glass made for the Galaxy A33 5G."
  }
 ]

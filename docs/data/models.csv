@@ -810,6 +810,7 @@ Galaxy A17,SAM-1469,Samsung,Phone,2025-08,"SM-A176B, SM-A176B/DS",6.7in,164.4 x 
 Galaxy F17,SAM-1469,Samsung,Phone,2025-09,SM-E176B/DS,6.7in,164.4 x 77.9 x 7.5
 Galaxy A17 4G,SAM-1469,Samsung,Phone,2025-10,"SM-A175F, SM-A175F/DS, SM-A175M, SM-A175M/DS, SM-A175F/DSB",6.7in,164.4 x 77.9 x 7.5
 Galaxy M17,SAM-1469,Samsung,Phone,2025-10,"M-M176B, M-M176B/DS",6.7in,164.4 x 77.9 x 7.5
+Galaxy A18,SAM-1469,Samsung,Phone,2026-09,,6.7in,164.4 x 77.9 x 7.7
 Galaxy Z Fold Special,SAM-1470,Samsung,Phone,2024-10,SM-F958N,6.5in,157.9 x 72.8 x 10.6
 Galaxy S25 Ultra,SAM-1471,Samsung,Phone,2025-01,"SM-S938B, SM-S938B/DS, SM-S938U, SM-S938U1, SM-S938W, SM-S938N, SM-S9380, SM-S938E, SM-S938E/DS",6.9in,162.8 x 77.6 x 8.2
 Galaxy M56,SAM-1472,Samsung,Phone,2025-04,"SM-M566B, SM-M566B/DS",6.74in,162 x 77.3 x 7.2
@@ -830,11 +831,10 @@ Galaxy A27,SAM-1480,Samsung,Phone,2026-04,"SM-A276E, SM-A276E/DS, SM-A276E/DSN, 
 Galaxy M47,SAM-1481,Samsung,Phone,2026-06,"SM-M476B/DS, SM-M476B",6.7in,162.4 x 78.2 x 8.1
 Galaxy Z Fold8,SAM-1482,Samsung,Phone,2026-07,"SM-F971B, SM-F971B/DS, SM-F971U, SM-F971U1",,123.9 x 81.9 x 9.7
 Galaxy F70 Pro,SAM-1483,Samsung,Phone,2026-08,,6.7in,162.4 x 78.2 x 8.1
-Galaxy A18,SAM-1484,Samsung,Phone,2026-09,,6.7in,164.4 x 77.9 x 7.7
-Galaxy A07s,SAM-1485,Samsung,Phone,2026-09,,6.7in,167.4 x 77.4 x 7.6
-Galaxy F08,SAM-1486,Samsung,Phone,2026-10,,6.7in,167.4 x 77.4 x 8
-Galaxy F70,SAM-1487,Samsung,Phone,2026-10,,,
-Galaxy M08,SAM-1488,Samsung,Phone,2026-10,,,
+Galaxy A07s,SAM-1484,Samsung,Phone,2026-09,,6.7in,167.4 x 77.4 x 7.6
+Galaxy F08,SAM-1485,Samsung,Phone,2026-10,,6.7in,167.4 x 77.4 x 8
+Galaxy F70,SAM-1486,Samsung,Phone,2026-10,,,
+Galaxy M08,SAM-1487,Samsung,Phone,2026-10,,,
 Galaxy Tab CDMA P100,SAM-2001,Samsung,Tablet,2010-09,,7.0in,190.5 x 119.4 x 11.9
 P1000 Galaxy Tab,SAM-2002,Samsung,Tablet,2010-09,GT-P1000,7.0in,190.1 x 120.5 x 12
 Galaxy Tab T-Mobile T849,SAM-2002,Samsung,Tablet,2010-11,,7.0in,190.1 x 120.5 x 12

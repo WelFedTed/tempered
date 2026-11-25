@@ -14917,9 +14917,19 @@
 "released": [
 "2022-03"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Samsung and PanzerGlass sell glass made for the Galaxy A33 5G",
 "device": "Phone",
+"sources": [
+[
+"Samsung Tempered Glass Screen Protector for Galaxy A33 5G (ET-FA336)",
+"https://www.samsung.com/nz/mobile-accessories/tempered-glass-screen-protector-for-galaxy-a33-5g-transparent-et-fa336ttegww"
+],
+[
+"SAFE. by PanzerGlass for Galaxy A33 5G",
+"https://panzerglass.com/products/safe-samsung-galaxy-a33-5g-cf-black"
+]
+],
 "codes": [
 "SM-A336E, SM-A336B, SM-A336B/DS, SM-A336B/DSN, SM-A336E/DS, SM-A336M, SM-A3360"
 ],
@@ -16165,7 +16175,8 @@
 "Galaxy A17",
 "Galaxy F17",
 "Galaxy A17 4G",
-"Galaxy M17"
+"Galaxy M17",
+"Galaxy A18"
 ],
 "released": [
 "2024-10",
@@ -16178,10 +16189,11 @@
 "2025-08",
 "2025-09",
 "2025-10",
-"2025-10"
+"2025-10",
+"2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. ZAGG, PanzerGlass list",
+"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. ZAGG, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -16203,6 +16215,10 @@
 [
 "Multitronic (SAFE by PanzerGlass)",
 "https://multitronic.fi/en/products/4607437/safe--by-panzerglass-ultra-wide-fit-alignerkit-galaxy-a17---a17-5g---screen-protector"
+],
+[
+"Coolblue: BlueBuilt glass, suitable for Galaxy A17 4G, A17 5G and A18",
+"https://www.coolblue.nl/en/product/966911/bluebuilt-samsung-galaxy-a18-and-a17-glass-screen-protector.html"
 ]
 ],
 "codes": [
@@ -16216,9 +16232,11 @@
 "SM-A176B, SM-A176B/DS",
 "SM-E176B/DS",
 "SM-A175F, SM-A175F/DS, SM-A175M, SM-A175M/DS, SM-A175F/DSB",
-"M-M176B, M-M176B/DS"
+"M-M176B, M-M176B/DS",
+""
 ],
 "screens": [
+"6.7in",
 "6.7in",
 "6.7in",
 "6.7in",
@@ -16242,7 +16260,8 @@
 "164.4 x 77.9 x 7.5 mm",
 "164.4 x 77.9 x 7.5 mm",
 "164.4 x 77.9 x 7.5 mm",
-"164.4 x 77.9 x 7.5 mm"
+"164.4 x 77.9 x 7.5 mm",
+"164.4 x 77.9 x 7.7 mm"
 ]
 },
 {
@@ -16673,9 +16692,19 @@
 "released": [
 "2026-04"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Samsung and PanzerGlass sell glass made for the Galaxy A27",
 "device": "Phone",
+"sources": [
+[
+"Samsung Screen Protector for Galaxy A27 (EF-UA276)",
+"https://www.samsung.com/uk/support/model/EF-UA276CTEGWW/"
+],
+[
+"JB Hi-Fi: SAFE by PanzerGlass Ultra Wide Fit for Galaxy A27",
+"https://www.jbhifi.com.au/products/safe-by-panzerglass-ultra-wide-fit-screen-protector-for-galaxy-a27"
+]
+],
 "codes": [
 "SM-A276E, SM-A276E/DS, SM-A276E/DSN, SM-A276B, SM-A276B/DS, SM-A276B/DSN, SM-A276U, SM-A276U1, SM-A276W"
 ],
@@ -16771,28 +16800,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy A18"
-],
-"released": [
-"2026-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.7in"
-],
-"dims": [
-"164.4 x 77.9 x 7.7 mm"
-]
-},
-{
-"id": "SAM-1485",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy A07s"
 ],
 "released": [
@@ -16809,7 +16816,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16831,7 +16838,7 @@
 ]
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16847,7 +16854,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1488",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
