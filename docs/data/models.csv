@@ -12,7 +12,7 @@ iPod nano (2nd gen),APP-0009,Apple,Misc,2006-09,A1199,1.5in,89 x 41 x 6.6
 iPod nano (3rd gen),APP-0010,Apple,Misc,2007-09,A1236,2in,70 x 52 x 6.6
 iPod touch (1st gen),APP-0011,Apple,Misc,2007-09,A1213,3.5in,
 iPod nano (4th gen),APP-0012,Apple,Misc,2008-09,A1285,2in,91 x 38 x 6.1
-iPod touch (2nd gen),APP-0013,Apple,Misc,2008-09,"A1288, A1319",3.5in,
+iPod touch (2nd gen),APP-0013,Apple,Misc,2008-09,"A1288, A1319",3.5in,110 x 58 x 7.1
 iPod nano (5th gen),APP-0014,Apple,Misc,2009-09,A1320,2.2in,91 x 38 x 6.1
 iPod touch (3rd gen),APP-0015,Apple,Misc,2009-09,A1318,3.5in,
 iPod nano (6th gen),APP-0016,Apple,Misc,2010-09,A1366,1.55in,41 x 37.5 x 8.78
@@ -21,7 +21,7 @@ iPod nano (7th gen),APP-0018,Apple,Misc,2012-09,A1446,2.5in,76.5 x 39.6 x 5.4
 iPod touch (5th gen),APP-0019,Apple,Misc,2012-09,"A1509, A1421",4in,123.4 x 58.6 x 6.1
 iPod touch (6th gen),APP-0019,Apple,Misc,2012-09,A1574,4in,123.4 x 58.6 x 6.1
 iPod touch (7th gen),APP-0019,Apple,Misc,2012-09,A2178,4in,123.4 x 58.6 x 6.1
-iPhone (1st gen),APP-1001,Apple,Phone,2007-06,A1203,,
+iPhone (1st gen),APP-1001,Apple,Phone,2007-06,A1203,3.5in,115 x 61 x 11.6
 iPhone 3G,APP-1002,Apple,Phone,2008-07,"iPhone1,2, A1324, A1241",3.5in,115.5 x 62.1 x 12.3
 iPhone 3GS,APP-1002,Apple,Phone,2009-06,"A1325, A1303, iPhone2,1",3.5in,115.5 x 62.1 x 12.3
 iPhone 4,APP-1003,Apple,Phone,2010-06,"A1349, A1332, iPhone 3,1",3.5in,115.2 x 58.6 x 9.3
@@ -77,7 +77,7 @@ iPhone 17 Pro Max,APP-1025,Apple,Phone,2025-09,"iPhone18,2, A3526, A3257, A3527,
 iPhone 18 Pro Max,APP-1025,Apple,Phone,2026-09,"A3473, A3716, A3718, A3717",,
 iPhone Duo,APP-1026,Apple,Phone,2026-10,"A3447, A3719, A3721, A3720",,
 iPad (1st gen),APP-2001,Apple,Tablet,2010-04,"A1219, A1337",9.7in,243 x 190 x 13
-iPad 2,APP-2002,Apple,Tablet,2011-03,"A1395, A1396, A1397",,
+iPad 2,APP-2002,Apple,Tablet,2011-03,"A1395, A1396, A1397",9.7in,241 x 186 x 8.8
 iPad (3rd gen),APP-2002,Apple,Tablet,2012-03,"A1416, A1430, A1403",9.7in,241.3 x 185.7 x 9.4
 iPad (4th gen),APP-2002,Apple,Tablet,2012-10,"A1458, A1459, A1460",9.7in,241 x 186 x 9.4
 iPad mini (1st gen),APP-2003,Apple,Tablet,2012-10,"A1432, A1454, A1455",7.9in,200 x 134.7 x 7.2
@@ -758,7 +758,7 @@ Galaxy M34 5G,SAM-1458,Samsung,Phone,2023-07,"SM-M346B, SM-M346B/DS, SM-M346B1, 
 Galaxy F34,SAM-1458,Samsung,Phone,2023-08,"SM-E346B, SM-E346B/DS",6.5in,161.7 x 77.2 x 8.8
 Galaxy Z Flip5,SAM-1459,Samsung,Phone,2023-07,"SM-F731B, SM-F731B/DS, SM-F731U, SM-F731U1, SM-F731W, SM-F731N",3.4in,85.1 x 71.9 x 15.1
 Galaxy Z Flip6,SAM-1459,Samsung,Phone,2024-07,"SM-F741B, SM-F741B/DS, SM-F741U, SM-F741U1, SM-F741W, SM-F741N",3.4in,85.1 x 71.9 x 14.9
-Galaxy Z Flip7 FE,SAM-1459,Samsung,Phone,2025-07,"SM-F761B, SM-F761B/DS, SM-F761U1, SM-F761U",,85.1 x 71.9 x 14.9
+Galaxy Z Flip7 FE,SAM-1459,Samsung,Phone,2025-07,"SM-F761B, SM-F761B/DS, SM-F761U1, SM-F761U",3.4in,85.1 x 71.9 x 14.9
 Galaxy Z Fold5,SAM-1460,Samsung,Phone,2023-07,"SM-F946B, SM-F946B/DS, SM-F946U, SM-F946U1, SM-F946N, SM-F946W, SM-F9460",6.2in,154.9 x 67.1 x 13.4
 Galaxy A05,SAM-1461,Samsung,Phone,2023-09,"SM-A055F, SM-A055F/DS, SM-A055M, SM-A055M/DS",6.7in,168.8 x 78.2 x 8.8
 Galaxy A05s,SAM-1461,Samsung,Phone,2023-09,"SM-A057F, SM-A057F/DS, SM-A057M, SM-A057M/DS, SM-A057G/DSN, SM-A057G",6.7in,168 x 77.8 x 8.8
@@ -795,7 +795,7 @@ Galaxy F07,SAM-1470,Samsung,Phone,2025-10,"SM-E075F/DS, SM-E075F",6.7in,167.4 x 
 Galaxy A07,SAM-1470,Samsung,Phone,2025-12,"SM-A076B, SM-A076B/DS",6.7in,167.4 x 77.4 x 8.2
 Galaxy F70e,SAM-1470,Samsung,Phone,2026-01,"SM-E076B, SM-E076B/DS",6.7in,167.4 x 77.4 x 8.2
 Galaxy M17e,SAM-1470,Samsung,Phone,2026-03,"SM-M076B, SM-M076B/DS",6.7in,167.4 x 77.4 x 8.2
-Galaxy A08,SAM-1470,Samsung,Phone,2026-09,,,
+Galaxy A08,SAM-1470,Samsung,Phone,2026-09,,6.7in,167.4 x 77.4 x 8
 Galaxy S24 FE,SAM-1471,Samsung,Phone,2024-09,"SM-S721B, SM-S721B/DS, SM-S721U1, SM-S721U, SM-S721W, SM-S7210, SM-S721N",6.7in,162 x 77.3 x 8
 Galaxy A16 5G,SAM-1472,Samsung,Phone,2024-10,"SM-A166B, SM-A166B/DS, SM-A166P, SM-A166P/DS, SM-A166E, SM-A166E/DS, SM-A166W, SM-A166U, SM-A166U1",6.7in,164.4 x 77.9 x 7.9
 Galaxy A16,SAM-1472,Samsung,Phone,2024-12,"SM-A165F, SM-A165F/DS, SM-A165M, SM-A165M/DS, SM-A165F/DSB",6.7in,164.4 x 77.9 x 7.9
@@ -817,8 +817,8 @@ Galaxy M56,SAM-1476,Samsung,Phone,2025-04,"SM-M566B, SM-M566B/DS",6.74in,162 x 7
 Galaxy F56,SAM-1476,Samsung,Phone,2025-05,"SM-E566B, SM-E566B/DS",6.74in,162 x 77.3 x 7.2
 Galaxy S25 FE,SAM-1476,Samsung,Phone,2025-09,"SM-S731B, SM-S731B/DS",6.7in,161.3 x 76.6 x 7.4
 Galaxy S25 Edge,SAM-1477,Samsung,Phone,2025-05,"SM-S937U, SM-S937U1, SM-S937B, SM-S937B/DS, SM-S9370",6.7in,158.2 x 75.6 x 5.8
-Galaxy Z Fold7,SAM-1478,Samsung,Phone,2025-07,"SM-F966B, SM-F966B/DS, SM-F966U, SM-F966U1",,158.4 x 72.8 x 8.9
-Galaxy Z Flip7,SAM-1479,Samsung,Phone,2025-07,"SM-F766B, SM-F766B/DS, SM-F766U, SM-F766U1",,85.5 x 75.2 x 13.7
+Galaxy Z Fold7,SAM-1478,Samsung,Phone,2025-07,"SM-F966B, SM-F966B/DS, SM-F966U, SM-F966U1",6.5in,158.4 x 72.8 x 8.9
+Galaxy Z Flip7,SAM-1479,Samsung,Phone,2025-07,"SM-F766B, SM-F766B/DS, SM-F766U, SM-F766U1",4.1in,85.5 x 75.2 x 13.7
 Galaxy Z TriFold,SAM-1480,Samsung,Phone,2025-12,"SM-F968B, SM-F968B/DS, SM-D639B, SM-D639B/DS, SM-D639U, SM-D639U1, SM-D639N, SM-D6390",6.5in,159.2 x 75 x 12.9
 Galaxy S26,SAM-1481,Samsung,Phone,2026-02,"SM-S942B, SM-S942B/DS, SM-S942U, SM-S942U1, SM-S942W, SM-S942N, SM-S9420, SM-S942E, SM-S942E/DS",6.3in,149.6 x 71.7 x 7.2
 Galaxy S26 Ultra,SAM-1482,Samsung,Phone,2026-02,"SM-S948B, SM-S948B/DS, SM-S948U, SM-S948U1, SM-S948W, SM-S948N, SM-S9480, SM-S948E, SM-S948E/DS",6.9in,163.6 x 78.1 x 7.9
@@ -826,13 +826,13 @@ Galaxy A57,SAM-1483,Samsung,Phone,2026-03,"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A
 Galaxy A27,SAM-1484,Samsung,Phone,2026-04,"SM-A276E, SM-A276E/DS, SM-A276E/DSN, SM-A276B, SM-A276B/DS, SM-A276B/DSN, SM-A276U, SM-A276U1, SM-A276W",6.7in,162.4 x 78.2 x 7.8
 Galaxy M47,SAM-1485,Samsung,Phone,2026-06,"SM-M476B/DS, SM-M476B",6.7in,162.4 x 78.2 x 8.1
 Galaxy Z Fold8,SAM-1486,Samsung,Phone,2026-07,"SM-F971B, SM-F971B/DS, SM-F971U, SM-F971U1",,81.9 x 123.9 x 9.7
-Galaxy Z Fold8 Ultra,SAM-1487,Samsung,Phone,2026-07,"SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1",,158.4 x 72.8 x 8.9
-Galaxy Z Flip8,SAM-1488,Samsung,Phone,2026-07,"SM-F776B, SM-F776B/DS, SM-F776U, SM-F776U1",,85.7 x 75.4 x 13.1
-Galaxy F70 Pro,SAM-1489,Samsung,Phone,2026-08,,,
-Galaxy S26 FE,SAM-1490,Samsung,Phone,2026-09,,,
-Galaxy A18,SAM-1491,Samsung,Phone,2026-09,,,
-Galaxy A07s,SAM-1492,Samsung,Phone,2026-09,,,
-Galaxy F08,SAM-1493,Samsung,Phone,2026-10,,,
+Galaxy Z Fold8 Ultra,SAM-1487,Samsung,Phone,2026-07,"SM-F976B, SM-F976B/DS, SM-F976U, SM-F976U1",6.5in,158.4 x 72.8 x 8.9
+Galaxy Z Flip8,SAM-1488,Samsung,Phone,2026-07,"SM-F776B, SM-F776B/DS, SM-F776U, SM-F776U1",4.1in,85.7 x 75.4 x 13.1
+Galaxy F70 Pro,SAM-1489,Samsung,Phone,2026-08,,6.7in,162.4 x 78.2 x 8.1
+Galaxy S26 FE,SAM-1490,Samsung,Phone,2026-09,,6.7in,
+Galaxy A18,SAM-1491,Samsung,Phone,2026-09,,6.7in,164.4 x 77.9 x 7.7
+Galaxy A07s,SAM-1492,Samsung,Phone,2026-09,,6.7in,167.4 x 77.4 x 7.6
+Galaxy F08,SAM-1493,Samsung,Phone,2026-10,,6.7in,167.4 x 77.4 x 8
 Galaxy F70,SAM-1494,Samsung,Phone,2026-10,,,
 Galaxy M08,SAM-1495,Samsung,Phone,2026-10,,,
 Galaxy Tab CDMA P100,SAM-2001,Samsung,Tablet,2010-09,,7.0in,190.5 x 119.4 x 11.9
@@ -985,7 +985,7 @@ Gear Sport,SAM-3012,Samsung,Wearable,2017-08,SM-R600,1.2in,44.6 x 42.9 x 11.6
 Galaxy Watch 42mm,SAM-3013,Samsung,Wearable,2018-08,,1.2in,45.7 x 41.9 x 12.7
 Galaxy Watch 46mm,SAM-3014,Samsung,Wearable,2018-08,,1.3in,49 x 46 x 13
 Galaxy Watch Active 40mm,SAM-3015,Samsung,Wearable,2019-02,,1.1in,39.5 x 39.5 x 10.5
-Galaxy Fit,SAM-3016,Samsung,Wearable,2019-02,,,
+Galaxy Fit,SAM-3016,Samsung,Wearable,2019-02,,0.95in,45.1 x 18.3 x 11.2
 Galaxy Fit e,SAM-3017,Samsung,Wearable,2019-02,,0.95in,44.6 x 18.3 x 11.2
 Galaxy Watch Active2 Aluminum 40mm,SAM-3018,Samsung,Wearable,2019-08,,1.2in,40 x 40 x 10.9
 Galaxy Watch Active2 40mm,SAM-3018,Samsung,Wearable,2019-08,,1.2in,40 x 40 x 10.9
@@ -993,7 +993,7 @@ Galaxy Watch Active2 Aluminum 44mm,SAM-3019,Samsung,Wearable,2019-08,,1.4in,44 x
 Galaxy Watch Active2 44mm,SAM-3019,Samsung,Wearable,2019-08,,1.4in,44 x 44 x 10.9
 Galaxy Watch3 41mm,SAM-3020,Samsung,Wearable,2020-08,,1.2in,42.5 x 41.0 x 11.3
 Galaxy Watch3 45mm,SAM-3021,Samsung,Wearable,2020-08,,1.4in,46.2 x 45.0 x 11.1
-Galaxy Fit2,SAM-3022,Samsung,Wearable,2020-09,,,
+Galaxy Fit2,SAM-3022,Samsung,Wearable,2020-09,,1.1in,46.6 x 18.6 x 11.1
 Galaxy Watch4 40mm,SAM-3023,Samsung,Wearable,2021-08,,1.19in,40.4 x 39.3 x 9.8
 Galaxy Watch4 44mm,SAM-3024,Samsung,Wearable,2021-08,,1.36in,44.4 x 43.3 x 9.8
 Galaxy Watch5 44mm,SAM-3024,Samsung,Wearable,2022-08,,1.36in,44.4 x 43.3 x 9.8
@@ -1006,16 +1006,16 @@ Galaxy Watch6 44mm,SAM-3030,Samsung,Wearable,2023-07,,1.5in,44.4 x 42.8 x 9.0
 Galaxy Watch7 44mm,SAM-3030,Samsung,Wearable,2024-07,,1.5in,44.4 x 44.4 x 9.7
 Galaxy Watch6 Classic 43mm,SAM-3031,Samsung,Wearable,2023-07,,1.3in,42.5 x 42.5 x 10.9
 Galaxy Watch6 Classic 47mm,SAM-3032,Samsung,Wearable,2023-07,,1.5in,46.5 x 46.5 x 10.9
-Galaxy Fit3,SAM-3033,Samsung,Wearable,2024-02,,,
+Galaxy Fit3,SAM-3033,Samsung,Wearable,2024-02,,1.6in,42.9 x 28.8 x 9.9
 Galaxy Watch FE 40mm,SAM-3034,Samsung,Wearable,2024-06,,1.2in,40.4 x 39.3 x 9.8
 Galaxy Watch7 40mm,SAM-3035,Samsung,Wearable,2024-07,,1.3in,40.4 x 40.4 x 9.7
 Galaxy Watch Ultra 47mm,SAM-3036,Samsung,Wearable,2024-07,,,
 Galaxy Watch8 40mm,SAM-3037,Samsung,Wearable,2025-07,,1.34in,42.7 x 40.4 x 8.6
 Galaxy Watch8 44mm,SAM-3038,Samsung,Wearable,2025-07,,1.47in,46.0 x 43.7 x 8.6
 Galaxy Watch8 Classic 46mm,SAM-3039,Samsung,Wearable,2025-07,,1.34in,46.4 x 46.0 x 10.6
-Galaxy Watch9 40mm,SAM-3040,Samsung,Wearable,2026-07,,,
+Galaxy Watch9 40mm,SAM-3040,Samsung,Wearable,2026-07,,1.34in,42.7 x 40.4 x 8.6
 Galaxy Watch Ultra2,SAM-3041,Samsung,Wearable,2026-07,"SM-L715F, SM-L715U",1.52in,47.4 x 47.1 x 10.7
-Galaxy Watch9 44mm,SAM-3042,Samsung,Wearable,2026-07,,,
+Galaxy Watch9 44mm,SAM-3042,Samsung,Wearable,2026-07,,1.47in,46.0 x 43.7 x 8.6
 Nexus One,GOO-1001,Google,Phone,2010-01,,3.7in,119 x 59.8 x 11.5
 Nexus S,GOO-1002,Google,Phone,2010-12,,4in,123.9 x 63 x 10.9
 Galaxy Nexus,GOO-1003,Google,Phone,2011-10,,4.65in,135.5 x 67.9 x 8.9
@@ -1083,8 +1083,8 @@ Fitbit Charge 2,GOO-3010,Google,Wearable,2016-08,,,
 Fitbit Ionic,GOO-3011,Google,Wearable,2017-08,,1.42in,38.59 x 38.59 x 12.2
 Fitbit Versa,GOO-3012,Google,Wearable,2018-03,,1.34in,39.36 x 37.65 x 11.2
 Fitbit Ace,GOO-3013,Google,Wearable,2018-03,,,
-Fitbit Charge 3,GOO-3014,Google,Wearable,2018-08,,,35.8 x 22.7 x 11.8
-Fitbit Charge 4,GOO-3014,Google,Wearable,2018-08,,,42.7 x 28.8 x 12.5
+Fitbit Charge 3,GOO-3014,Google,Wearable,2018-08,,1.57in,35.8 x 22.7 x 11.8
+Fitbit Charge 4,GOO-3014,Google,Wearable,2018-08,,1.57in,42.7 x 28.8 x 12.5
 Fitbit Inspire,GOO-3015,Google,Wearable,2019-03,,,37 x 16.2 x 12.3
 Fitbit Inspire HR,GOO-3015,Google,Wearable,2019-03,,,37 x 16.2 x 12.6
 Fitbit Versa Lite,GOO-3016,Google,Wearable,2019-03,,1.34in,39.36 x 37.65 x 11.2
@@ -1093,14 +1093,14 @@ Fitbit Versa 2,GOO-3018,Google,Wearable,2019-08,,1.4in,40 x 40 x 12.14
 Fitbit Sense,GOO-3019,Google,Wearable,2020-08,,1.58in,40.48 x 40.48 x 12.35
 Fitbit Versa 3,GOO-3019,Google,Wearable,2020-08,,1.58in,40.48 x 40.48 x 12.35
 Fitbit Versa 4,GOO-3019,Google,Wearable,2022-08,,1.58in,40.5 x 40.5 x 11.2
-Fitbit Sense 2,GOO-3019,Google,Wearable,2022-08,,,
+Fitbit Sense 2,GOO-3019,Google,Wearable,2022-08,,1.58in,40.5 x 40.5 x 11.2
 Fitbit Inspire 2,GOO-3020,Google,Wearable,2020-08,,,37 x 16.8 x 12.9
 Fitbit Ace 3,GOO-3021,Google,Wearable,2021-03,,0.72in,37.33 x 16.76 x 12.7
 Fitbit Luxe,GOO-3022,Google,Wearable,2021-04,,0.76in,33.5 x 17.5 x 10.1
 Fitbit Charge 5,GOO-3023,Google,Wearable,2021-08,,1.04in,36.78 x 22.79 x 11.2
 Fitbit Charge 6,GOO-3023,Google,Wearable,2021-08,,1.04in,36.73 x 23.09 x 11.2
 Fitbit Inspire 3,GOO-3024,Google,Wearable,2022-08,,1.4in,39.32 x 18.6 x 11.75
-Pixel Watch 41mm,GOO-3025,Google,Wearable,2022-10,,,41 x 41 x 12.3
+Pixel Watch 41mm,GOO-3025,Google,Wearable,2022-10,,1.2in,41 x 41 x 12.3
 Pixel Watch 2 41mm,GOO-3026,Google,Wearable,2023-10,,1.2in,41 x 41 x 12.3
 Fitbit Ace LTE,GOO-3027,Google,Wearable,2024-05,,,41.04 x 44.89 x 13.35
 Pixel Watch 3 41mm,GOO-3028,Google,Wearable,2024-08,,1.2in,41 x 41 x 12.3
@@ -1127,7 +1127,7 @@ Oppo R1S,OPP-1013,Oppo,Phone,2014-04,"R8006, R8007",5.0in,142.7 x 70.4 x 7.1
 Oppo Find 5 Mini,OPP-1014,Oppo,Phone,2014-01,R827,4.7in,137 x 68 x 7.7
 Oppo Neo,OPP-1015,Oppo,Phone,2014-02,,4.5in,132 x 65.8 x 9.2
 Oppo Find 7a,OPP-1016,Oppo,Phone,2014-03,,,
-Oppo Find 7,OPP-1017,Oppo,Phone,2014-03,,,
+Oppo Find 7,OPP-1017,Oppo,Phone,2014-03,,5.5in,152.6 x 75 x 9.2
 Oppo Find 7 (2014),OPP-1018,Oppo,Phone,2014-03,"X9076, X9007, X9077",5.5in,152.6 x 75 x 9.2
 Oppo Find 7a (2014),OPP-1019,Oppo,Phone,2014-03,X9006,5.5in,152.6 x 75 x 9.2
 Oppo R1001 Joy,OPP-1020,Oppo,Phone,2014-05,R1001,4.0in,124 x 63 x 9.9
@@ -1425,7 +1425,7 @@ Oppo A5 Pro (China),OPP-1196,Oppo,Phone,2024-12,PKP110,6.7in,161.5 x 74.9 x 7.6
 Oppo F29 Pro,OPP-1196,Oppo,Phone,2025-03,CPH2705,6.7in,161.5 x 74.9 x 7.6
 Oppo Reno13 F,OPP-1197,Oppo,Phone,2025-01,CPH2699,6.67in,162.2 x 75.1 x 7.8
 Oppo Reno13 F 4G,OPP-1197,Oppo,Phone,2025-01,CPH2701,6.67in,162.2 x 75.1 x 7.8
-Oppo Reno13 F 5G,OPP-1198,Oppo,Phone,2025-01,,,
+Oppo Reno13 F 5G,OPP-1198,Oppo,Phone,2025-01,,6.67in,162.2 x 75.05 x 7.76
 Oppo Find N5,OPP-1199,Oppo,Phone,2025-02,"CPH2671, PKH110, PKH120",6.62in,160.9 x 74.4 x 8.9
 Oppo F29,OPP-1200,Oppo,Phone,2025-03,,6.7in,161.6 x 74.5 x 7.7
 Oppo A5 (China),OPP-1200,Oppo,Phone,2025-03,PKQ110,6.7in,161.6 x 74.5 x 7.7
@@ -1463,7 +1463,7 @@ Oppo Reno15 Pro Mini,OPP-1215,Oppo,Phone,2026-01,CPH2813,6.32in,151.2 x 72.4 x 8
 Oppo Reno15 Pro (China),OPP-1216,Oppo,Phone,2025-11,PLV110,6.78in,161.2 x 76.5 x 7.7
 Oppo A6x (India),OPP-1217,Oppo,Phone,2025-12,CPH2823,6.75in,166.6 x 78.5 x 8.6
 Oppo A6x 4G,OPP-1217,Oppo,Phone,2026-01,CPH2819,6.75in,166.6 x 78.5 x 8.6
-Oppo A6x 5G,OPP-1217,Oppo,Phone,2026-01,,,
+Oppo A6x 5G,OPP-1217,Oppo,Phone,2026-01,,6.75in,166.6 x 78.5 x 8.6
 Oppo A6s,OPP-1217,Oppo,Phone,2026-01,CPH2789,6.75in,166.6 x 78.5 x 8.6
 Oppo A6 4G,OPP-1217,Oppo,Phone,2026-01,CPH2817,6.75in,166.6 x 78.5 x 8.6
 Oppo A6,OPP-1217,Oppo,Phone,2026-01,"CPH2831, PLT120",6.75in,166.6 x 78.5 x 8.6
@@ -1498,16 +1498,16 @@ Oppo Reno16 F,OPP-1229,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.5 x 8.4
 Oppo Reno16 FS,OPP-1229,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.9 x 8.4
 Oppo Reno16c,OPP-1229,Oppo,Phone,2026-07,CPH2859,6.57in,158.2 x 74.9 x 8.4
 Oppo A7 Pro Max,OPP-1230,Oppo,Phone,2026-08,,,
-Oppo Find X10,OPP-1231,Oppo,Phone,2026-09,,,
-Oppo Find X10 Pro Max,OPP-1232,Oppo,Phone,2026-09,,,
+Oppo Find X10,OPP-1231,Oppo,Phone,2026-09,,6.59in,156.51 x 74.29 x 8.35
+Oppo Find X10 Pro Max,OPP-1232,Oppo,Phone,2026-09,,6.78in,161.32 x 76.57 x 8.4
 Oppo Find X10E,OPP-1233,Oppo,Phone,2026-09,,,
-Oppo A7 Pro,OPP-1234,Oppo,Phone,2026-09,,,
+Oppo A7 Pro,OPP-1234,Oppo,Phone,2026-09,,6.57in,159.08 x 75.81 x 8.8
 Oppo K14 Lite,OPP-1235,Oppo,Phone,2026-09,,,
-Oppo K14 Plus,OPP-1236,Oppo,Phone,2026-09,,,
-Oppo F35,OPP-1237,Oppo,Phone,2026-10,,,
-Oppo F35 Pro,OPP-1238,Oppo,Phone,2026-10,,,
-Oppo Reno17,OPP-1239,Oppo,Phone,2026-11,,,
-Oppo Reno17 Pro,OPP-1240,Oppo,Phone,2026-11,,,
+Oppo K14 Plus,OPP-1236,Oppo,Phone,2026-09,,6.78in,162.56 x 77.6 x 8.4
+Oppo F35,OPP-1237,Oppo,Phone,2026-10,,6.57in,
+Oppo F35 Pro,OPP-1238,Oppo,Phone,2026-10,,6.78in,162.6 x 77.6 x 8.4
+Oppo Reno17,OPP-1239,Oppo,Phone,2026-11,,6.56in,157.64 x 75.27 x 8.28
+Oppo Reno17 Pro,OPP-1240,Oppo,Phone,2026-11,,6.32in,151.21 x 72.42 x 8.32
 Oppo Pad,OPP-2001,Oppo,Tablet,2022-02,OPD2101,11.0in,252.2 x 163.8 x 7.1
 Oppo Pad Air,OPP-2002,Oppo,Tablet,2022-05,"OPD2102, X21N2",10.36in,245.1 x 154.8 x 6.9
 Oppo Pad Air2,OPP-2003,Oppo,Tablet,2023-11,,11.4in,255.1 x 188 x 6.9
@@ -1525,9 +1525,9 @@ Oppo Pad 5 Pro,OPP-2008,Oppo,Tablet,2026-04,OPD2511,13.2in,289.7 x 208.8 x 5.9
 Oppo Pad Mini,OPP-2009,Oppo,Tablet,2026-04,OPD2515,8.8in,194.4 x 132.4 x 5.4
 Oppo Pad Air 6,OPP-2010,Oppo,Tablet,2026-11,,,
 Oppo Watch,OPP-3001,Oppo,Wearable,2020-03,,1.91in,46 x 39 x 11.4
-Oppo Band,OPP-3002,Oppo,Wearable,2020-06,,,
+Oppo Band,OPP-3002,Oppo,Wearable,2020-06,,1.1in,40.4 x 17.6 x 11.45
 Oppo Watch 2,OPP-3003,Oppo,Wearable,2021-07,OW20W2,1.91in,46.4 x 38.5 x 11.6
-Oppo Band 2,OPP-3004,Oppo,Wearable,2022-05,,,
+Oppo Band 2,OPP-3004,Oppo,Wearable,2022-05,,1.57in,45.3 x 29.1 x 10.6
 Oppo Watch 3,OPP-3005,Oppo,Wearable,2022-08,,1.75in,43 x 37 x 11.7
 Oppo Watch SE,OPP-3005,Oppo,Wearable,2023-08,,1.75in,43 x 37 x 11.7
 Oppo Watch 3 Pro,OPP-3006,Oppo,Wearable,2022-08,,1.91in,50.4 x 38.5 x 12.8
@@ -1541,7 +1541,7 @@ OnePlus Watch Lite,OPP-3010,Oppo + OnePlus,Wearable,2025-12,,1.46in,45 x 45 x 8.
 Oppo Watch X3,OPP-3011,Oppo + OnePlus,Wearable,2026-03,OWW261,1.5in,47.4 x 47.4 x 11
 OnePlus Watch 4,OPP-3011,Oppo + OnePlus,Wearable,2026-04,,1.5in,47.4 x 47.4 x 11
 Oppo Watch X3 Mini,OPP-3012,Oppo,Wearable,2026-04,"OWW263, OWW264",1.32in,43.2 x 43.2 x 11.2
-Oppo Watch S2,OPP-3013,Oppo,Wearable,2026-09,,,
+Oppo Watch S2,OPP-3013,Oppo,Wearable,2026-09,,1.46in,
 Oppo Watch 5,OPP-3014,Oppo,Wearable,2026-11,,,
 OnePlus One,ONE-1001,OnePlus,Phone,2014-04,A0001,5.5in,152.9 x 75.9 x 8.9
 OnePlus 2,ONE-1002,OnePlus,Phone,2015-07,"ONE A2003, ONE A2005, ONE A2001",5.5in,151.8 x 74.9 x 9.9
@@ -1630,11 +1630,11 @@ OnePlus N6,ONE-1053,OnePlus,Phone,2026-06,,6.8in,166.5 x 78.2 x 8.9
 OnePlus N6 Lite,ONE-1054,OnePlus,Phone,2026-06,,,
 OnePlus Turbo 6X,ONE-1055,OnePlus,Phone,2026-06,,6.72in,165.9 x 76 x 9
 OnePlus Turbo 6X Pro,ONE-1056,OnePlus,Phone,2026-06,,6.78in,162.6 x 77.6 x 8.8
-OnePlus N6x,ONE-1057,OnePlus,Phone,2026-07,,,
-OnePlus 16,ONE-1058,OnePlus,Phone,2026-10,,,
+OnePlus N6x,ONE-1057,OnePlus,Phone,2026-07,,6.8in,166.4 x 78.13 x 8.65
+OnePlus 16,ONE-1058,OnePlus,Phone,2026-10,,6.78in,161.42 x 76.67 x 8.55
 OnePlus Ace 7 Pro,ONE-1059,OnePlus,Phone,2026-10,,,
-OnePlus Ace 7,ONE-1060,OnePlus,Phone,2026-10,,,
-OnePlus Turbo 6Vs,ONE-1061,OnePlus,Phone,2026-11,,,
+OnePlus Ace 7,ONE-1060,OnePlus,Phone,2026-10,,6.78in,162.3 x 77.37 x 8.5
+OnePlus Turbo 6Vs,ONE-1061,OnePlus,Phone,2026-11,,6.78in,162.46 x 77.45 x 8.5
 OnePlus Pad,ONE-2001,OnePlus + Oppo,Tablet,2023-02,,11.61in,258 x 189.4 x 6.5
 Oppo Pad 2,ONE-2001,OnePlus + Oppo,Tablet,2023-03,"OPD2201, X22N2",11.61in,258 x 189.4 x 6.5
 OnePlus Pad Go,ONE-2002,OnePlus,Tablet,2023-10,,11.35in,255.1 x 188 x 6.9
@@ -1645,7 +1645,7 @@ OnePlus Pad Go 2,ONE-2004,OnePlus + Oppo,Tablet,2025-10,"OPD2504, OPD2505",12.1i
 Oppo Pad 5 Matte Display,ONE-2004,OnePlus + Oppo,Tablet,2025-12,"OPD2501, OPD2502",12.1in,266 x 192.8 x 6.8
 OnePlus Pad 4,ONE-2005,OnePlus,Tablet,2026-04,,13.2in,289.7 x 209.8 x 5.9
 OnePlus Pad 3 Pro,ONE-2005,OnePlus,Tablet,2026-06,OPD2513,13.2in,289.7 x 209.8 x 5.9
-OnePlus Band,ONE-3001,OnePlus,Wearable,2021-01,,,
+OnePlus Band,ONE-3001,OnePlus,Wearable,2021-01,,1.1in,40.4 x 17.6 x 11.95
 OnePlus Watch,ONE-3002,OnePlus,Wearable,2021-03,,1.39in,46.4 x 46.4 x 10.9
 OnePlus Nord Watch,ONE-3003,OnePlus,Wearable,2022-10,OPBBE221,1.78in,45.2 x 37.2 x 10.4
 OnePlus Watch 2,ONE-3004,OnePlus + Oppo,Wearable,2024-02,,1.43in,47 x 46.6 x 12.1
@@ -2034,7 +2034,7 @@ nubia Neo 5,ZTE-1330,ZTE,Phone,2026-03,,6.8in,
 nubia Neo 5 GT,ZTE-1331,ZTE,Phone,2026-03,Z2570N,6.8in,
 nubia Neo 5 Pro,ZTE-1332,ZTE,Phone,2026-03,,6.8in,
 nubia Air Pro,ZTE-1333,ZTE,Phone,2026-06,Z2587N,6.77in,
-nubia Neo 5 Max,ZTE-1334,ZTE,Phone,2026-08,,,
+nubia Neo 5 Max,ZTE-1334,ZTE,Phone,2026-08,,7.5in,180.9 x 88.4 x 8
 nubia NaviX Ultra,ZTE-1335,ZTE,Phone,2026-09,,,
 nubia Red Magic 12 Pro+,ZTE-1336,ZTE,Phone,2026-10,,,
 nubia Red Magic 12 Pro,ZTE-1336,ZTE,Phone,2026-10,,6.85in,163.03 x 75.96 x 8.55
@@ -2090,12 +2090,12 @@ Microsoft Lumia 950 XL Dual SIM,MIC-1010,Microsoft,Phone,2015-10,,5.7in,151.9 x 
 Microsoft Lumia 650,MIC-1011,Microsoft,Phone,2016-02,,5.0in,142 x 70.9 x 6.9
 Surface Duo,MIC-1012,Microsoft,Phone,2020-09,,8.1in,186.9 x 145.2 x 4.8
 Surface Duo 2,MIC-1013,Microsoft,Phone,2021-10,,8.3in,184.5 x 145.2 x 5.5
-Surface RT,MIC-2001,Microsoft,Tablet,2012-10,,10.6in,
+Surface RT,MIC-2001,Microsoft,Tablet,2012-10,,10.6in,274.6 x 172 x 9.4
 Surface 2,MIC-2001,Microsoft,Tablet,2013-10,,10.6in,274.6 x 172.5 x 8.9
 Surface Pro,MIC-2002,Microsoft,Tablet,2013-02,,10.6in,274.6 x 173 x 13.5
 Surface Pro 2,MIC-2002,Microsoft,Tablet,2013-10,,10.6in,274.6 x 173 x 13.5
 Surface Pro 3,MIC-2003,Microsoft,Tablet,2014-06,,12in,292 x 201 x 9.1
-Surface 3,MIC-2004,Microsoft,Tablet,2015-05,,,
+Surface 3,MIC-2004,Microsoft,Tablet,2015-05,,10.8in,267 x 187 x 8.6
 Surface Pro 4,MIC-2005,Microsoft,Tablet,2015-10,,12.3in,292.1 x 201.4 x 8.5
 Surface Pro 5,MIC-2005,Microsoft,Tablet,2017-06,,12.3in,292 x 201 x 8.5
 Surface Pro 6,MIC-2005,Microsoft,Tablet,2018-10,,12.3in,292 x 201 x 8.5
@@ -2103,12 +2103,12 @@ Surface Pro 7,MIC-2005,Microsoft,Tablet,2019-10,,12.3in,292 x 201 x 8.5
 Surface Pro 7+,MIC-2005,Microsoft,Tablet,2021-01,,12.3in,292 x 201 x 8.5
 Surface Go,MIC-2006,Microsoft,Tablet,2018-08,,10in,245 x 175 x 8.3
 Surface Go 2,MIC-2006,Microsoft,Tablet,2020-05,,10.5in,245 x 175 x 8.3
-Surface Go 3,MIC-2006,Microsoft,Tablet,2021-10,,,
-Surface Go 4,MIC-2006,Microsoft,Tablet,2023-09,,,
+Surface Go 3,MIC-2006,Microsoft,Tablet,2021-10,,10.5in,245 x 175 x 8.3
+Surface Go 4,MIC-2006,Microsoft,Tablet,2023-09,,10.5in,245 x 175 x 8.3
 Surface Pro X,MIC-2007,Microsoft,Tablet,2019-10,,13in,287 x 208 x 7.3
 Surface Pro 8,MIC-2007,Microsoft,Tablet,2021-10,,13in,287 x 208 x 9.3
 Surface Pro 9,MIC-2007,Microsoft,Tablet,2022-10,,13in,287 x 209 x 9.3
-Surface Pro 10,MIC-2007,Microsoft,Tablet,2024-03,,,
+Surface Pro 10,MIC-2007,Microsoft,Tablet,2024-03,,13in,
 Surface Pro 11,MIC-2007,Microsoft,Tablet,2024-06,,13in,287 x 208 x 9.3
 Surface Pro 12-inch,MIC-2008,Microsoft,Tablet,2025-05,,12in,274 x 190 x 7.8
 Lenovo A60,LEN-1001,Lenovo,Phone,2011-06,,3.5in,116 x 59.9 x 12.6
@@ -2315,7 +2315,7 @@ Lenovo Tab M8 (HD),LEN-2044,Lenovo + Motorola,Tablet,2019-09,"TB-8505X, TB-8505F
 Lenovo Tab M8 (3rd Gen),LEN-2044,Lenovo + Motorola,Tablet,2021-06,,8.0in,199.1 x 121.8 x 8.2
 Motorola Tab G20,LEN-2044,Lenovo + Motorola,Tablet,2021-09,,8.0in,199.1 x 121.8 x 8.2
 Lenovo Tab M8 (FHD),LEN-2045,Lenovo,Tablet,2019-09,,8.0in,198.2 x 122.6 x 8.2
-Lenovo Yoga Smart Tab,LEN-2046,Lenovo,Tablet,2019-10,YT-X705X,10.1in,
+Lenovo Yoga Smart Tab,LEN-2046,Lenovo,Tablet,2019-10,YT-X705X,10.1in,242 x 166 x 5.5
 Lenovo M10 FHD REL,LEN-2047,Lenovo,Tablet,2020-01,"TB-X605FC, TB-X605LC, ZA4Y0079IN, TB-X605M, TB-X605L",10.1in,
 Lenovo M10 Plus,LEN-2048,Lenovo,Tablet,2020-03,"TB-X606, TB-X606F, TB-X606X, TB-X606V",10.3in,244.2 x 153.3 x 8.2
 Lenovo Tab M10 HD Gen 2,LEN-2049,Lenovo,Tablet,2020-08,TB-X306X,10.1in,241.5 x 149.4 x 8.3
@@ -2326,10 +2326,10 @@ Lenovo Tab P11 Plus,LEN-2051,Lenovo + Motorola,Tablet,2021-06,ZA940124SE,11.0in,
 Moto Tab G70,LEN-2051,Lenovo + Motorola,Tablet,2022-01,,11.0in,258.4 x 163 x 7.5
 Lenovo Pad Plus,LEN-2052,Lenovo,Tablet,2021-05,ZA900000CN,11.0in,258.4 x 163 x 7.9
 Lenovo Pad Pro,LEN-2053,Lenovo,Tablet,2021-05,"ZA910001CN, TB-J716F",11.5in,264.3 x 171.4 x 5.8
-Lenovo Yoga Tab 13,LEN-2054,Lenovo,Tablet,2021-05,ZA8E0018CN,13.0in,
+Lenovo Yoga Tab 13,LEN-2054,Lenovo,Tablet,2021-05,ZA8E0018CN,13.0in,293.35 x 203.98 x 6.2
 Lenovo Tab K10,LEN-2055,Lenovo,Tablet,2021-05,"TB-X6C6F, TB-X6C6X",10.3in,244 x 153 x 8.2
 Lenovo Tab M7 (3rd Gen),LEN-2056,Lenovo,Tablet,2021-06,"ZA8C0027US, TB-7306X",7.0in,176.2 x 102.3 x 8.3
-Lenovo Yoga Tab 11,LEN-2057,Lenovo,Tablet,2021-06,,11.0in,
+Lenovo Yoga Tab 11,LEN-2057,Lenovo,Tablet,2021-06,,11.0in,256.8 x 169.0 x 7.9
 Lenovo Tab P11 5G,LEN-2058,Lenovo,Tablet,2021-09,,11.0in,258 x 163 x 7.9
 Lenovo Tab P12 Pro,LEN-2059,Lenovo,Tablet,2021-09,"TB-Q706Z, TB-Q706F",12.6in,285.6 x 184.5 x 5.6
 Lenovo Legion Y700,LEN-2060,Lenovo,Tablet,2022-03,TB-9707F,8.8in,207.1 x 128.1 x 7.9
@@ -2347,9 +2347,9 @@ Lenovo Yoga Tab Plus,LEN-2070,Lenovo + Motorola,Tablet,2024-09,"ZAEG0096US, TB52
 Lenovo Idea Tab Pro,LEN-2070,Lenovo + Motorola,Tablet,2025-01,"ZAE40142GR, TB373FU",12.7in,291.8 x 189.1 x 6.9
 Moto Pad 60 Pro,LEN-2070,Lenovo + Motorola,Tablet,2025-04,,12.7in,291.8 x 189.1 x 6.9
 Lenovo Legion Y700 (2023),LEN-2071,Lenovo,Tablet,2023-07,,8.8in,208.9 x 129.5 x 7.6
-Lenovo Tab K11,LEN-2072,Lenovo,Tablet,2023-12,,,
+Lenovo Tab K11,LEN-2072,Lenovo,Tablet,2023-12,,11in,255.26 x 166.31 x 7.15
 Lenovo Tab M11,LEN-2072,Lenovo,Tablet,2024-01,"TB330FU, TB330KU",11.0in,166.3 x 255.3 x 7.2
-Lenovo Idea Tab 11,LEN-2072,Lenovo,Tablet,2025-06,,,
+Lenovo Idea Tab 11,LEN-2072,Lenovo,Tablet,2025-06,,11in,254.59 x 166.15 x 6.99
 Lenovo Tab Plus,LEN-2073,Lenovo,Tablet,2024-06,TB351FU,11.5in,268.3 x 174.3 x 7.7
 Lenovo Tab K11 Plus,LEN-2074,Lenovo,Tablet,2024-07,TB352FU,11.45in,169 x 268.7 x 7.2
 Lenovo Tab One,LEN-2075,Lenovo,Tablet,2024-07,TB305FU,8.7in,211 x 124.8 x 8.5
@@ -2373,13 +2373,13 @@ Lenovo Legion Y900 13,LEN-2089,Lenovo,Tablet,2026-05,TB522FU,13.0in,
 Lenovo Tab Plus Gen 2,LEN-2090,Lenovo,Tablet,2026-06,,12.1in,278.8 x 181.1 x 6.8
 Lenovo Legion Y700 Infinite,LEN-2091,Lenovo,Tablet,2026-08,,,
 Lenovo ThinkTab 11S,LEN-2092,Lenovo,Tablet,2026-08,,,
-Lenovo Yoga Tab Gen 2,LEN-2093,Lenovo,Tablet,2026-11,,,
-Lenovo Yoga Tab Plus Gen 2,LEN-2094,Lenovo,Tablet,2026-11,,,
-Legion Go,LEN-4001,Lenovo,Handheld,2023-10,,8.8in,
-Legion Go S,LEN-4002,Lenovo,Handheld,2025-01,,,
-Legion Go S (SteamOS),LEN-4002,Lenovo,Handheld,2025-05,,,
-Legion Go 2,LEN-4003,Lenovo,Handheld,2025-10,,,
-Legion Go 2 (SteamOS),LEN-4003,Lenovo,Handheld,2025-10,,,
+Lenovo Yoga Tab Gen 2,LEN-2093,Lenovo,Tablet,2026-11,,11.1in,250.6 x 172.98 x 6.2
+Lenovo Yoga Tab Plus Gen 2,LEN-2094,Lenovo,Tablet,2026-11,,13in,291.78 x 200.35 x 6.09
+Legion Go,LEN-4001,Lenovo,Handheld,2023-10,,8.8in,298.83 x 131 x 40.7
+Legion Go S,LEN-4002,Lenovo,Handheld,2025-01,,8in,298.5 x 127.55 x 22.6
+Legion Go S (SteamOS),LEN-4002,Lenovo,Handheld,2025-05,,8in,298.5 x 127.55 x 22.6
+Legion Go 2,LEN-4003,Lenovo,Handheld,2025-10,,8.8in,295.6 x 136.7 x 42.25
+Legion Go 2 (SteamOS),LEN-4003,Lenovo,Handheld,2025-10,,8.8in,295.6 x 136.7 x 42.25
 Legion C700,LEN-4004,Lenovo,Handheld,2026-08,,,
 Lenovo G700 Cloud Gaming Handheld,LEN-4005,Lenovo,Handheld,2026-08,,,
 Asus P505,ASU-1001,Asus,Phone,2006-03,,2.8in,108 x 60 x 22.5
@@ -2783,7 +2783,7 @@ Moto E5 Play,MOT-1150,Motorola,Phone,2018-04,,5.2in,151 x 74 x 9
 Moto E5 Cruise,MOT-1150,Motorola,Phone,2018-06,,5.2in,151 x 74 x 9
 Moto Z3 Play,MOT-1151,Motorola,Phone,2018-06,XT1929,6.01in,156.5 x 76.5 x 6.8
 Moto Z3,MOT-1151,Motorola,Phone,2018-08,,6.01in,156.5 x 76.5 x 6.8
-Moto E5 Play Go,MOT-1152,Motorola,Phone,2018-07,"XT1921, MOTXT19218PP",5.2in,
+Moto E5 Play Go,MOT-1152,Motorola,Phone,2018-07,"XT1921, MOTXT19218PP",5.2in,151 x 74 x 8.85
 Motorola P30,MOT-1153,Motorola,Phone,2018-08,XT1943-1,6.2in,155.5 x 76 x 7.7
 Motorola One Power (P30 Note),MOT-1154,Motorola,Phone,2018-08,"XT1942, XT1942-1",6.2in,156 x 76 x 8.4
 Motorola One (P30 Play),MOT-1155,Motorola,Phone,2018-08,"XT1941, One, XT1941-2",5.9in,149.9 x 72.2 x 8
@@ -2991,7 +2991,7 @@ Moto G96,MOT-1286,Motorola,Phone,2025-07,,6.67in,161.9 x 73.3 x 7.9
 Moto G06,MOT-1287,Motorola,Phone,2025-08,"XT2535-1, XT2535-2, XT2535-3, XT2535-14",6.88in,171.4 x 77.5 x 8.3
 Moto G06 Power,MOT-1287,Motorola,Phone,2025-08,XT2535-13,6.88in,171.4 x 77.5 x 8.8
 Motorola Edge 70,MOT-1288,Motorola,Phone,2025-11,XT2601-2,6.7in,159.9 x 74 x 6
-Moto G57,MOT-1289,Motorola,Phone,2025-11,XT2537-2,6.72in,
+Moto G57,MOT-1289,Motorola,Phone,2025-11,XT2537-2,6.72in,166 x 76.5 x 8.6
 Motorola Signature,MOT-1290,Motorola,Phone,2026-01,XT2603-2,6.8in,162.1 x 76.4 x 7
 Moto G67,MOT-1291,Motorola,Phone,2026-01,XT2621-2,6.78in,164.2 x 77.4 x 7.3
 Moto G77,MOT-1291,Motorola,Phone,2026-01,XT2621-4,6.78in,164.2 x 77.4 x 7.3
@@ -3012,9 +3012,9 @@ Motorola Edge 70 Pro+,MOT-1299,Motorola,Phone,2026-06,,6.78in,162.7 x 75.6 x 7.2
 Motorola Edge (2026),MOT-1300,Motorola,Phone,2026-05,,6.3in,152.3 x 72 x 7.2
 Motorola Edge 70 Max,MOT-1301,Motorola,Phone,2026-07,,6.82in,164 x 77 x 8.3
 Moto G77 Power,MOT-1302,Motorola,Phone,2026-07,,6.72in,166.2 x 76.5 x 8.9
-Motorola Signature 27,MOT-1303,Motorola,Phone,2026-09,,,
+Motorola Signature 27,MOT-1303,Motorola,Phone,2026-09,,6.78in,162.01 x 77.04 x 7.99
 Motorola Edge 70 Plus,MOT-1304,Motorola,Phone,2026-09,,6.78in,162.7 x 75.7 x 8.5
-Motorola Edge 70 Neo,MOT-1305,Motorola,Phone,2026-10,,,
+Motorola Edge 70 Neo,MOT-1305,Motorola,Phone,2026-10,,6.8in,162.7 x 75.7 x 8.49
 Motorola XOOM MZ600,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9
 Motorola XOOM MZ601,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9
 Motorola XOOM MZ604,MOT-2001,Motorola,Tablet,2011-02,,10.1in,249.1 x 167.8 x 12.9
@@ -3353,7 +3353,7 @@ Poco M6 4G,XIA-1147,Xiaomi / Redmi / Poco,Phone,2024-06,2404APC5FG,6.79in,168.6 
 Redmi 13 5G,XIA-1147,Xiaomi / Redmi / Poco,Phone,2024-07,2406ERN9CI,6.79in,168.6 x 76.3 x 8.3
 Poco M6 Plus,XIA-1147,Xiaomi / Redmi / Poco,Phone,2024-08,,6.79in,168.6 x 76.3 x 8.3
 Redmi 13x,XIA-1147,Xiaomi / Redmi / Poco,Phone,2025-03,24049RN28L,6.79in,168.6 x 76.3 x 8.3
-Poco M6 Pro 5G,XIA-1148,Xiaomi / Redmi / Poco,Phone,2023-08,,,
+Poco M6 Pro 5G,XIA-1148,Xiaomi / Redmi / Poco,Phone,2023-08,,6.79in,168.6 x 76.2 x 8.1
 Xiaomi Mix Fold 3,XIA-1149,Xiaomi / Redmi / Poco,Phone,2023-08,2308CPXD0C,6.56in,161.2 x 73.5 x 10.9
 Redmi K60 Ultra,XIA-1150,Xiaomi / Redmi / Poco,Phone,2023-08,23078RKD5C,6.67in,162.2 x 75.7 x 8.5
 Xiaomi 13T,XIA-1150,Xiaomi / Redmi / Poco,Phone,2023-09,2306EPN60G,6.67in,162.2 x 75.7 x 8.5
@@ -3437,18 +3437,18 @@ Redmi K80 Ultra,XIA-1174,Xiaomi / Redmi / Poco,Phone,2025-06,,6.83in,163.1 x 77.
 Xiaomi Civi 5 Pro,XIA-1175,Xiaomi / Redmi / Poco,Phone,2025-05,,6.55in,157.1 x 73.2 x 7.5
 Xiaomi Mix Flip 2,XIA-1176,Xiaomi / Redmi / Poco,Phone,2025-06,2505APX7BC,4in,86.1 x 73.8 x 15.9
 Redmi 15,XIA-1177,Xiaomi / Redmi / Poco,Phone,2025-08,25057RN09E,6.9in,169.5 x 80.5 x 8.4
-Redmi 15 5G,XIA-1178,Xiaomi / Redmi / Poco,Phone,2025-08,,,
+Redmi 15 5G,XIA-1178,Xiaomi / Redmi / Poco,Phone,2025-08,,6.9in,171.1 x 82.1 x 8.6
 Redmi 15 4G,XIA-1178,Xiaomi / Redmi / Poco,Phone,2025-08,"24129PN74G, 25062RN2DE, 25062RN2DA",6.9in,171.1 x 82.1 x 8.6
 Poco M7 Plus,XIA-1179,Xiaomi / Redmi / Poco,Phone,2025-08,,6.9in,168.5 x 80.5 x 8.4
 Redmi Note 15,XIA-1180,Xiaomi / Redmi / Poco,Phone,2025-08,"25096RA9BG, 25098RA98G",6.77in,164 x 75.4 x 7.4
 Poco M8,XIA-1180,Xiaomi / Redmi / Poco,Phone,2026-01,25118PC98G,6.77in,164 x 75.4 x 7.4
 Redmi Note 15 Pro,XIA-1181,Xiaomi / Redmi / Poco,Phone,2025-08,"25060RABDG, 25080RABDG",6.83in,163.6 x 78.1 x 8
 Redmi Note 15 Pro+,XIA-1182,Xiaomi / Redmi / Poco,Phone,2025-08,2510ERA8BG,6.83in,163.3 x 78.3 x 8.2
-Poco M8 Pro 5G,XIA-1182,Xiaomi / Redmi / Poco,Phone,2026-01,,,
+Poco M8 Pro 5G,XIA-1182,Xiaomi / Redmi / Poco,Phone,2026-01,,6.83in,163.34 x 78.31 x 8.31
 Poco M8 Pro,XIA-1182,Xiaomi / Redmi / Poco,Phone,2026-01,2510EPC8BG,6.83in,163.3 x 78.3 x 8.3
 Poco M7 4G,XIA-1183,Xiaomi / Redmi / Poco,Phone,2025-08,25062PC34E,6.9in,171.1 x 80.5 x 8.6
 Redmi 15C 4G,XIA-1184,Xiaomi / Redmi / Poco,Phone,2025-08,"25078RA3EA, 25078RA3EL, 25078RA3EY",6.9in,171.6 x 79.5 x 8
-Redmi 15C 5G,XIA-1184,Xiaomi / Redmi / Poco,Phone,2025-09,,,
+Redmi 15C 5G,XIA-1184,Xiaomi / Redmi / Poco,Phone,2025-09,,6.9in,173.2 x 81.1 x 8.2
 Poco C85 4G,XIA-1184,Xiaomi / Redmi / Poco,Phone,2025-09,25078PC3EE,6.9in,171.6 x 79.5 x 8
 Redmi Note 15 (China),XIA-1185,Xiaomi / Redmi / Poco,Phone,2025-08,,6.77in,165 x 75.4 x 7.4
 Redmi Note 15 Pro+ (China),XIA-1186,Xiaomi / Redmi / Poco,Phone,2025-08,,6.83in,163.3 x 78.3 x 7.9
@@ -3464,10 +3464,10 @@ Redmi K90,XIA-1192,Xiaomi / Redmi / Poco,Phone,2025-10,2510DRK44C,6.59in,157.5 x
 Poco F8 Pro,XIA-1192,Xiaomi / Redmi / Poco,Phone,2025-11,2510DPC44G,6.59in,157.5 x 75.3 x 8
 Redmi K90 Pro Max,XIA-1193,Xiaomi / Redmi / Poco,Phone,2025-10,,6.9in,163.3 x 77.8 x 7.9
 Poco F8 Ultra,XIA-1193,Xiaomi / Redmi / Poco,Phone,2025-11,25102PCBEG,6.9in,163.3 x 77.8 x 7.9
-Redmi Note 15 5G,XIA-1194,Xiaomi / Redmi / Poco,Phone,2025-12,,,
+Redmi Note 15 5G,XIA-1194,Xiaomi / Redmi / Poco,Phone,2025-12,,6.77in,164 x 75.42 x 7.35
 Redmi Note 15 4G,XIA-1194,Xiaomi / Redmi / Poco,Phone,2025-12,"2510DRA23E, 2510DRA23G",6.77in,164 x 75.4 x 7.9
-Poco M8 5G,XIA-1194,Xiaomi / Redmi / Poco,Phone,2026-01,,,
-Redmi Note 15 Pro 5G,XIA-1195,Xiaomi / Redmi / Poco,Phone,2025-12,,,
+Poco M8 5G,XIA-1194,Xiaomi / Redmi / Poco,Phone,2026-01,,6.77in,164 x 75.42 x 7.35
+Redmi Note 15 Pro 5G,XIA-1195,Xiaomi / Redmi / Poco,Phone,2025-12,,6.83in,163.6 x 78.1 x 8
 Xiaomi 17 Ultra,XIA-1196,Xiaomi / Redmi / Poco,Phone,2025-12,"25128PNA1G, 2512BPNDAG",6.9in,162.9 x 77.6 x 8.3
 Xiaomi 17 Ultra (China),XIA-1196,Xiaomi / Redmi / Poco,Phone,2025-12,25128PNA1C,6.9in,162.9 x 77.6 x 8.3
 Redmi Note 15 Pro 4G,XIA-1197,Xiaomi / Redmi / Poco,Phone,2025-12,25100RA69G,6.77in,163.2 x 76.3 x 8
@@ -3494,24 +3494,24 @@ Xiaomi 17T Pro,XIA-1207,Xiaomi / Redmi / Poco,Phone,2026-07,2602EPTC0G,6.83in,16
 Redmi 17C 4G,XIA-1208,Xiaomi / Redmi / Poco,Phone,2026-07,,,
 Redmi Note 17 (China),XIA-1209,Xiaomi / Redmi / Poco,Phone,2026-07,26021RN18C,7.0in,169.7 x 79.1 x 8.3
 Redmi Note 17 Pro (China),XIA-1210,Xiaomi / Redmi / Poco,Phone,2026-07,2607DRA18C,6.83in,163.5 x 78.3 x 8.5
-Poco F9 Pro,XIA-1211,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Poco F9 Ultra,XIA-1212,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Poco M8 Power,XIA-1213,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Poco M8x,XIA-1214,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Redmi K100 Pro,XIA-1215,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Redmi K100 Pro Max,XIA-1216,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Redmi Note 17,XIA-1217,Xiaomi / Redmi / Poco,Phone,2026-08,,,
-Xiaomi 18 Pro,XIA-1218,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Xiaomi 18 Pro Max,XIA-1219,Xiaomi / Redmi / Poco,Phone,2026-09,,,
+Poco F9 Pro,XIA-1211,Xiaomi / Redmi / Poco,Phone,2026-08,,6.59in,157.49 x 75.25 x 8.79
+Poco F9 Ultra,XIA-1212,Xiaomi / Redmi / Poco,Phone,2026-08,,6.9in,163.49 x 77.94 x 8.74
+Poco M8 Power,XIA-1213,Xiaomi / Redmi / Poco,Phone,2026-08,,7in,169.7 x 79.1 x 8.5
+Poco M8x,XIA-1214,Xiaomi / Redmi / Poco,Phone,2026-08,,6.9in,170.1 x 78.4 x 8.8
+Redmi K100 Pro,XIA-1215,Xiaomi / Redmi / Poco,Phone,2026-08,,6.59in,157.49 x 75.25 x 8.55
+Redmi K100 Pro Max,XIA-1216,Xiaomi / Redmi / Poco,Phone,2026-08,,6.9in,163.49 x 77.94 x 8.45
+Redmi Note 17,XIA-1217,Xiaomi / Redmi / Poco,Phone,2026-08,,6.99in,169.7 x 79.14 x 8.45
+Xiaomi 18 Pro,XIA-1218,Xiaomi / Redmi / Poco,Phone,2026-09,,6.4in,151.8 x 72 x 8.46
+Xiaomi 18 Pro Max,XIA-1219,Xiaomi / Redmi / Poco,Phone,2026-09,,6.9in,163.39 x 77.6 x 8.39
 Xiaomi 18 Fold,XIA-1220,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Poco X8,XIA-1221,Xiaomi / Redmi / Poco,Phone,2026-09,,,
+Poco X8,XIA-1221,Xiaomi / Redmi / Poco,Phone,2026-09,,6.83in,163.45 x 78.27 x 8.6
 Poco X8 Power,XIA-1222,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Redmi 17 5G,XIA-1223,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Redmi Note 17 Pro,XIA-1224,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Redmi Note 17 Pro Max,XIA-1225,Xiaomi / Redmi / Poco,Phone,2026-09,,,
-Poco X8s,XIA-1226,Xiaomi / Redmi / Poco,Phone,2026-10,,,
-Redmi 17C 5G,XIA-1227,Xiaomi / Redmi / Poco,Phone,2026-10,,,
-Redmi K100,XIA-1228,Xiaomi / Redmi / Poco,Phone,2026-10,,,
+Redmi 17 5G,XIA-1223,Xiaomi / Redmi / Poco,Phone,2026-09,,6.9in,170.12 x 78.42 x 8.8
+Redmi Note 17 Pro,XIA-1224,Xiaomi / Redmi / Poco,Phone,2026-09,,6.83in,163.45 x 78.27 x 8.6
+Redmi Note 17 Pro Max,XIA-1225,Xiaomi / Redmi / Poco,Phone,2026-09,,6.83in,163.44 x 78.27 x 8.65
+Poco X8s,XIA-1226,Xiaomi / Redmi / Poco,Phone,2026-10,,6.35in,151.1 x 71.8 x 8.06
+Redmi 17C 5G,XIA-1227,Xiaomi / Redmi / Poco,Phone,2026-10,,6.9in,171.6 x 79.5 x 8.1
+Redmi K100,XIA-1228,Xiaomi / Redmi / Poco,Phone,2026-10,,6.83in,162.91 x 77.93 x 8.65
 Xiaomi Mi Pad 7.9,XIA-2001,Xiaomi / Redmi / Poco,Tablet,2014-03,,7.9in,202 x 135.4 x 8.5
 Xiaomi Mi Pad 2,XIA-2002,Xiaomi / Redmi / Poco,Tablet,2015-11,,7.9in,200.4 x 132.6 x 7
 Xiaomi Mi Pad 3,XIA-2002,Xiaomi / Redmi / Poco,Tablet,2017-04,,7.9in,200.4 x 132.6 x 7
@@ -3552,8 +3552,8 @@ Redmi K Pad 2,XIA-2025,Xiaomi / Redmi / Poco,Tablet,2026-05,,8.8in,205 x 133.8 x
 Redmi Pad 2 9.7,XIA-2026,Xiaomi / Redmi / Poco,Tablet,2026-05,,9.7in,226.5 x 148 x 7.4
 Poco Pad C1,XIA-2026,Xiaomi / Redmi / Poco,Tablet,2026-05,,9.7in,226.5 x 148 x 7.4
 Xiaomi Pad 9 Pro Max,XIA-2027,Xiaomi / Redmi / Poco,Tablet,2026-09,,,
-Xiaomi Pad 9,XIA-2028,Xiaomi / Redmi / Poco,Tablet,2026-09,,,
-Xiaomi Pad 9 Pro,XIA-2029,Xiaomi / Redmi / Poco,Tablet,2026-09,,,
+Xiaomi Pad 9,XIA-2028,Xiaomi / Redmi / Poco,Tablet,2026-09,,11.2in,251.2 x 173.42 x 5.75
+Xiaomi Pad 9 Pro,XIA-2029,Xiaomi / Redmi / Poco,Tablet,2026-09,,12.5in,279.14 x 191.96 x 5.8
 Xiaomi Mi Band 2,XIA-3001,Xiaomi / Redmi / Poco,Wearable,2016-06,,0.42in,40.3 x 15.7 x 10.5
 Xiaomi Mi Band 3,XIA-3002,Xiaomi / Redmi / Poco,Wearable,2018-05,,0.78in,46.9 x 17.9 x 12
 Xiaomi Mi Band 4,XIA-3003,Xiaomi / Redmi / Poco,Wearable,2019-06,,0.95in,
@@ -3602,11 +3602,11 @@ Xiaomi Smart Band 10 Pro,XIA-3040,Xiaomi / Redmi / Poco,Wearable,2025-10,,1.74in
 Redmi Watch 6,XIA-3041,Xiaomi / Redmi / Poco,Wearable,2025-10,M2523W1,2.1in,46.5 x 40 x 9.9
 Xiaomi Watch 5,XIA-3042,Xiaomi / Redmi / Poco,Wearable,2025-12,,1.54in,47 x 47 x 12.3
 Xiaomi Watch S5 46mm,XIA-3043,Xiaomi / Redmi / Poco,Wearable,2026-06,"M2530W1, M2517W1",1.48in,46 x 46 x 11
-Redmi Watch 6 Active,XIA-3044,Xiaomi / Redmi / Poco,Wearable,2026-08,,,
-Redmi Watch 6 Lite,XIA-3045,Xiaomi / Redmi / Poco,Wearable,2026-08,,,
-Xiaomi Smart Band 11 Active,XIA-3046,Xiaomi / Redmi / Poco,Wearable,2026-08,,,
-Xiaomi Smart Band 11,XIA-3047,Xiaomi / Redmi / Poco,Wearable,2026-09,,,
-Xiaomi Watch S5 41mm,XIA-3048,Xiaomi / Redmi / Poco,Wearable,2026-09,,,
+Redmi Watch 6 Active,XIA-3044,Xiaomi / Redmi / Poco,Wearable,2026-08,,1.85in,44.5 x 39.4 x 9.9
+Redmi Watch 6 Lite,XIA-3045,Xiaomi / Redmi / Poco,Wearable,2026-08,,1.96in,47.1 x 39.6 x 9.9
+Xiaomi Smart Band 11 Active,XIA-3046,Xiaomi / Redmi / Poco,Wearable,2026-08,,1.47in,43.5 x 25.8 x 10.2
+Xiaomi Smart Band 11,XIA-3047,Xiaomi / Redmi / Poco,Wearable,2026-09,,1.72in,47.44 x 23.66 x 9.99
+Xiaomi Watch S5 41mm,XIA-3048,Xiaomi / Redmi / Poco,Wearable,2026-09,,1.32in,41.4 x 41.4 x 9.9
 Opel EasySmart,OPE-1001,Opel Mobile,Phone,2019-01,,,
 Opel EasySmart 2,OPE-1002,Opel Mobile,Phone,2020-01,,,
 Opel S55,OPE-1003,Opel Mobile,Phone,2021-01,,,
@@ -4453,7 +4453,7 @@ vivo Y500s,VIV-1220,vivo / iQOO,Phone,2026-04,V2531A,6.75in,166.6 x 78.4 x 8.4
 vivo Y6,VIV-1220,vivo / iQOO,Phone,2026-04,V2531A,6.75in,166.6 x 78.4 x 8.4
 vivo T5,VIV-1220,vivo / iQOO,Phone,2026-05,V2545,6.75in,166.6 x 78.4 x 8.4
 vivo Y600 Turbo,VIV-1220,vivo / iQOO,Phone,2026-05,V2553A,6.83in,163.7 x 76.2 x 8.3
-vivo S2,VIV-1220,vivo / iQOO,Phone,2026-08,,,
+vivo S2,VIV-1220,vivo / iQOO,Phone,2026-08,,6.83in,164.4 x 75.3 x 8
 vivo iQOO Z11,VIV-1220,vivo / iQOO,Phone,2026-08,,6.83in,163.7 x 76.2 x 8.3
 vivo iQOO 15 Ultra,VIV-1221,vivo / iQOO,Phone,2026-02,V2546A,6.85in,163.7 x 76.8 x 8.7
 vivo V70,VIV-1222,vivo / iQOO,Phone,2026-02,V2538,6.59in,157.5 x 74.3 x 7.4
@@ -4469,17 +4469,17 @@ vivo S60e,VIV-1230,vivo / iQOO,Phone,2026-05,V2572A,6.59in,157.5 x 74.3 x 7.8
 vivo X300 E,VIV-1230,vivo / iQOO,Phone,2026-07,V2612A,6.59in,157.5 x 74.3 x 7.8
 vivo V70 Lite,VIV-1231,vivo / iQOO,Phone,2026-06,,6.77in,163.8 x 76.3 x 7.7
 vivo X Fold6,VIV-1232,vivo / iQOO,Phone,2026-06,V2545A,6.51in,157.2 x 74.3 x 9.4
-vivo T5e,VIV-1233,vivo / iQOO,Phone,2026-07,,,
+vivo T5e,VIV-1233,vivo / iQOO,Phone,2026-07,,6.74in,167.3 x 77 x 8.2
 vivo Y500,VIV-1234,vivo / iQOO,Phone,2026-07,,6.83in,163.7 x 76.2 x 8.2
 vivo iQOO Z11s,VIV-1235,vivo / iQOO,Phone,2026-08,,,
-vivo iQOO Neo 11 Ultra,VIV-1236,vivo / iQOO,Phone,2026-08,,,
-vivo Y31t,VIV-1237,vivo / iQOO,Phone,2026-08,,,
-vivo iQOO 16,VIV-1238,vivo / iQOO,Phone,2026-09,,,
-vivo X500,VIV-1239,vivo / iQOO,Phone,2026-09,,,
-vivo X500 Pro,VIV-1240,vivo / iQOO,Phone,2026-09,,,
-vivo X500 Pro Max,VIV-1241,vivo / iQOO,Phone,2026-09,,,
+vivo iQOO Neo 11 Ultra,VIV-1236,vivo / iQOO,Phone,2026-08,,6.83in,163.4 x 75.9 x 8.6
+vivo Y31t,VIV-1237,vivo / iQOO,Phone,2026-08,,6.75in,166.6 x 78.4 x 8.4
+vivo iQOO 16,VIV-1238,vivo / iQOO,Phone,2026-09,,6.85in,163.75 x 76.9 x 8.3
+vivo X500,VIV-1239,vivo / iQOO,Phone,2026-09,,6.59in,157.01 x 74.49 x 8.15
+vivo X500 Pro,VIV-1240,vivo / iQOO,Phone,2026-09,,6.36in,151.78 x 71.92 x 7.95
+vivo X500 Pro Max,VIV-1241,vivo / iQOO,Phone,2026-09,,6.85in,163.32 x 76.82 x 7.95
 vivo iQOO Z11xa,VIV-1242,vivo / iQOO,Phone,2026-09,,,
-vivo V80,VIV-1243,vivo / iQOO,Phone,2026-10,,,
+vivo V80,VIV-1243,vivo / iQOO,Phone,2026-10,,6.59in,157.52 x 74.33 x 7.69
 vivo S2 FE,VIV-1244,vivo / iQOO,Phone,2026-10,,,
 vivo iQOO Neo12,VIV-1245,vivo / iQOO,Phone,2026-10,,,
 vivo Pad,VIV-2001,vivo / iQOO,Tablet,2022-04,,11.0in,253.2 x 164.7 x 6.6
@@ -4578,7 +4578,7 @@ Realme C20,REA-1030,Realme,Phone,2021-01,"RMX3063, RMX3061",6.5in,165.2 x 76.4 x
 Realme C21,REA-1030,Realme,Phone,2021-03,RMX3201,6.5in,165.2 x 76.4 x 8.9
 Realme C20A,REA-1030,Realme,Phone,2021-05,,6.5in,165.2 x 76.4 x 8.9
 Realme Narzo 50i,REA-1030,Realme,Phone,2021-09,RMX3235,6.5in,165.2 x 76.4 x 8.9
-Realme V11 5G,REA-1031,Realme,Phone,2021-02,"RMX3121, RMX3122",6.5in,
+Realme V11 5G,REA-1031,Realme,Phone,2021-02,"RMX3121, RMX3122",6.5in,164.4 x 76 x 8.4
 Realme 8,REA-1032,Realme,Phone,2021-03,RMX3085,6.4in,160.6 x 73.9 x 8
 Realme 8 Pro,REA-1032,Realme,Phone,2021-03,RMX3081,6.4in,160.6 x 73.9 x 8.1
 Realme C25,REA-1033,Realme,Phone,2021-03,"RMX3193, RMX3191",6.5in,164.5 x 75.9 x 9.6
@@ -4601,8 +4601,8 @@ Realme Q3 Pro Carnival,REA-1038,Realme,Phone,2021-05,RMX3142,6.43in,
 Realme C11 (2021),REA-1039,Realme,Phone,2021-06,RMX3231,6.52in,165.2 x 76.4 x 8.9
 Realme C21Y,REA-1040,Realme,Phone,2021-06,"RMX3261, RMX3263",6.5in,164.5 x 76 x 9.1
 Realme C25Y,REA-1040,Realme,Phone,2021-09,"RMX3265, RMX3268, RMX3269",6.5in,164.5 x 76 x 9.1
-Realme GT Explorer Master,REA-1041,Realme,Phone,2021-07,RMX3366,6.55in,
-Realme GT Master,REA-1042,Realme,Phone,2021-07,"RMX3363, RMX3360, RMX3361",6.43in,
+Realme GT Explorer Master,REA-1041,Realme,Phone,2021-07,RMX3366,6.55in,159.9 x 72.5 x 8
+Realme GT Master,REA-1042,Realme,Phone,2021-07,"RMX3363, RMX3360, RMX3361",6.43in,159.2 x 73.5 x 8
 Realme 8i,REA-1043,Realme,Phone,2021-09,RMX3151,6.6in,164.1 x 75.5 x 8.5
 Realme Narzo 50,REA-1043,Realme,Phone,2022-02,RMX3286,6.6in,164.1 x 75.5 x 8.5
 Realme GT Neo2,REA-1044,Realme,Phone,2021-09,RMX3370,6.62in,162.9 x 75.8 x 9
@@ -4650,7 +4650,7 @@ Realme 10 Pro,REA-1067,Realme,Phone,2022-11,"RMX3663, RMX3660, RMX3661",6.72in,1
 Realme GT3,REA-1068,Realme,Phone,2023-02,RMX3709,6.74in,163.9 x 75.8 x 8.9
 Realme GT Neo 5,REA-1068,Realme,Phone,2023-02,RMX3706,6.74in,163.9 x 75.8 x 8.9
 Realme GT Neo 5 240W,REA-1068,Realme,Phone,2023-02,RMX3708,6.74in,163.9 x 75.8 x 8.9
-Realme V30,REA-1069,Realme,Phone,2023-02,RMX3618,6.5in,
+Realme V30,REA-1069,Realme,Phone,2023-02,RMX3618,6.5in,164.4 x 75.1 x 8.1
 Realme C55,REA-1070,Realme + OnePlus + Oppo,Phone,2023-03,RMX3710,6.72in,165.6 x 75.9 x 7.9
 OnePlus Nord CE 3 Lite,REA-1070,Realme + OnePlus + Oppo,Phone,2023-04,"CPH2467, CPH2465",6.72in,165.5 x 76 x 8.3
 Realme Narzo N55,REA-1070,Realme + OnePlus + Oppo,Phone,2023-04,,6.72in,165.6 x 75.9 x 7.9
@@ -4795,7 +4795,7 @@ Realme 16T,REA-1138,Realme,Phone,2026-05,RMX5268,6.81in,166.4 x 78.2 x 8.8
 Realme P4R,REA-1138,Realme,Phone,2026-06,,6.81in,166.4 x 78.2 x 8.8
 Realme Narzo 100x,REA-1138,Realme,Phone,2026-07,,6.81in,166.4 x 78.2 x 8.8
 Realme P4x 4G,REA-1139,Realme,Phone,2026-06,,6.8in,166.5 x 78.2 x 8.8
-Realme 16x,REA-1140,Realme,Phone,2026-08,,,
+Realme 16x,REA-1140,Realme,Phone,2026-08,,6.81in,166.5 x 78.2 x 8.8
 Realme P4s,REA-1141,Realme,Phone,2026-08,,,
 Realme P4s Lite,REA-1142,Realme,Phone,2026-10,,,
 Realme Pad,REA-2001,Realme,Tablet,2021-09,"RMP2102, RMP2103",10.4in,246.1 x 155.9 x 6.9
@@ -4804,20 +4804,20 @@ Realme Pad X,REA-2003,Realme,Tablet,2022-05,"RMP2107, RMP2108",10.95in,256.5 x 1
 Realme Pad 2,REA-2004,Realme,Tablet,2023-07,,11.5in,268.2 x 168.5 x 7.2
 Realme Pad 2 Lite,REA-2005,Realme,Tablet,2024-09,RMP2402,10.95in,258 x 169.5 x 8.3
 Realme Pad 3,REA-2006,Realme,Tablet,2026-01,,11.6in,255.6 x 187 x 6.6
-Realme Band,REA-3001,Realme,Wearable,2020-03,,,
+Realme Band,REA-3001,Realme,Wearable,2020-03,,0.96in,
 Realme Watch,REA-3002,Realme,Wearable,2020-05,RMA161,1.4in,36.5 x 25.6 x 11.8
 Realme Watch S,REA-3003,Realme,Wearable,2020-11,,1.3in,47 x 47 x 12
-Realme Watch S Pro,REA-3004,Realme,Wearable,2020-12,RMA186,1.39in,
+Realme Watch S Pro,REA-3004,Realme,Wearable,2020-12,RMA186,1.39in,46.1 x 46.1 x 12.8
 Realme Watch 2,REA-3005,Realme,Wearable,2021-04,RMW2008,1.4in,35.7 x 25.8 x 12.2
 Realme Watch 2 Pro,REA-3006,Realme,Wearable,2021-05,,1.75in,38.9 x 25.2 x 12.7
-Realme Band 2,REA-3007,Realme,Wearable,2021-09,,,
+Realme Band 2,REA-3007,Realme,Wearable,2021-09,,1.4in,45.9 x 24.6 x 12.1
 Realme Watch T1,REA-3008,Realme,Wearable,2021-10,,1.3in,43.5 x 43.5 x 10.2
 Realme TechLife Watch S100,REA-3009,Realme,Wearable,2022-03,RMW2103,1.69in,35.8 x 25.1 x 11.6
 Realme TechLife Watch R100,REA-3010,Realme,Wearable,2022-06,"RMW2106, RMW2016",1.32in,54.1 x 46 x 12.2
 Realme Watch 3,REA-3011,Realme,Wearable,2022-07,,1.8in,45 x 37 x 11.5
 Realme Watch 3 Pro,REA-3012,Realme,Wearable,2022-09,,1.78in,45 x 36.8 x 11.7
 Realme Watch S2,REA-3013,Realme,Wearable,2024-07,,1.43in,46.5 x 46.5 x 11
-Realme Watch 5,REA-3014,Realme,Wearable,2025-09,RMW2501,1.97in,
+Realme Watch 5,REA-3014,Realme,Wearable,2025-09,RMW2501,1.97in,46.4 x 42.5 x 13.2
 Realme Watch S5,REA-3015,Realme,Wearable,2026-05,,1.43in,45.6 x 45.6 x 13.5
 Huawei U8230,HUA-1001,Huawei,Phone,2009-06,,3.5in,117 x 63 x 14
 Huawei U8220,HUA-1002,Huawei,Phone,2009-08,,3.5in,116 x 63 x 14
@@ -5084,8 +5084,8 @@ Huawei Mate 50 RS Porsche Design,HUA-1190,Huawei,Phone,2022-09,DCO-AL00,6.74in,1
 Huawei nova 10z,HUA-1191,Huawei,Phone,2022-09,CHA-AL80,6.6in,160.7 x 73.3 x 8.4
 Huawei Enjoy 50z,HUA-1192,Huawei,Phone,2022-12,EVE-AL00,6.52in,164.3 x 75.8 x 8.9
 Huawei Enjoy 60,HUA-1193,Huawei,Phone,2023-03,MGA-AL40,6.75in,168.3 x 77.7 x 9
-Huawei Mate X3,HUA-1194,Huawei,Phone,2023-03,"ALT-AL00, ALT-L29",,156.9 x 72.4 x 11.1
-Huawei Mate X5,HUA-1194,Huawei,Phone,2023-09,ALT-AL10,,156.9 x 72.4 x 11.1
+Huawei Mate X3,HUA-1194,Huawei,Phone,2023-03,"ALT-AL00, ALT-L29",6.4in,156.9 x 72.4 x 11.1
+Huawei Mate X5,HUA-1194,Huawei,Phone,2023-09,ALT-AL10,6.4in,156.9 x 72.4 x 11.1
 Huawei nova 10 Youth,HUA-1195,Huawei,Phone,2023-03,JLN-AL00,6.78in,164.6 x 75.6 x 7.9
 Huawei P60,HUA-1196,Huawei,Phone,2023-03,"LNA-AL00, LNA-LX9",6.67in,161 x 74.5 x 8.3
 Huawei P60 Art,HUA-1196,Huawei,Phone,2023-03,MNA-AL00,6.67in,161 x 74.5 x 8.3
@@ -5114,7 +5114,7 @@ Huawei Pura 70,HUA-1209,Huawei,Phone,2024-04,"ADY-LX9, ADY-AL00, ADY-AL10",6.6in
 Huawei Pura 70 Pro+,HUA-1210,Huawei,Phone,2024-04,"HBN-AL10, HBN-AL80",6.8in,162.6 x 75.1 x 8.4
 Huawei Pura 70 Pro,HUA-1210,Huawei,Phone,2024-04,"HBN-LX9, HBN-AL00",6.8in,162.6 x 75.1 x 8.4
 Huawei Pura 70 Ultra,HUA-1210,Huawei,Phone,2024-04,"HBP-LX9, HBP-AL00",6.8in,162.6 x 75.1 x 8.4
-Huawei nova Flip,HUA-1211,Huawei,Phone,2024-08,PSD-AL00,,87.6 x 75.4 x 15.1
+Huawei nova Flip,HUA-1211,Huawei,Phone,2024-08,PSD-AL00,2.14in,87.6 x 75.4 x 15.1
 Huawei nova Flip S,HUA-1211,Huawei,Phone,2025-10,PSD-AL80,,87.8 x 75.4 x 15.1
 Huawei Mate XT Ultimate,HUA-1212,Huawei,Phone,2024-09,"GRL-LX9, GRL-AL10",6.4in,156.7 x 73.5 x 12.8
 Huawei Mate XTs Ultimate,HUA-1212,Huawei,Phone,2025-09,GRL-AL20,6.4in,156.7 x 73.5 x 12.8
@@ -5306,7 +5306,7 @@ Huawei Watch GT 5 46mm,HUA-3047,Huawei,Wearable,2024-09,,1.43in,45.8 x 45.8 x 10
 Huawei Watch GT 5 Pro 42mm,HUA-3048,Huawei,Wearable,2024-09,,1.32in,42.49 x 42.49 x 9.6
 Huawei Watch GT 5 Pro 46mm,HUA-3049,Huawei,Wearable,2024-09,,1.43in,46.3 x 46.3 x 10.9
 Huawei Band 10,HUA-3050,Huawei,Wearable,2025-05,,1.47in,43.45 x 24.86 x 8.99
-Huawei Watch 5 (42mm),HUA-3051,Huawei,Wearable,2025-05,,,
+Huawei Watch 5 (42mm),HUA-3051,Huawei,Wearable,2025-05,,1.38in,42 x 42.5 x 10.5
 Huawei Watch 5,HUA-3052,Huawei,Wearable,2025-05,"RTS-AL00, SOC-AL00",1.5in,46 x 46.7 x 11.3
 Huawei Watch Fit 4,HUA-3053,Huawei,Wearable,2025-05,SYA-B19,1.82in,43 x 38 x 9.5
 Huawei Watch Fit 4 Pro,HUA-3054,Huawei,Wearable,2025-05,SYA-B29,1.82in,44.5 x 40 x 9.3
@@ -5609,10 +5609,10 @@ Honor 600 Smart,HON-1159,Honor,Phone,2026-06,"MRK-NX1, MRK-NX3",6.87in,168.3 x 7
 Honor X80 Pro Max,HON-1160,Honor,Phone,2026-06,BSN-AN00,6.8in,162.2 x 77 x 8.1
 Honor Robot Phone,HON-1161,Honor,Phone,2026-08,,,
 Honor Turbo,HON-1162,Honor,Phone,2026-08,,,
-Honor Magic9,HON-1163,Honor,Phone,2026-09,,,
+Honor Magic9,HON-1163,Honor,Phone,2026-09,,6.37in,151 x 72.28 x 8.49
 Honor Magic9 Super Edition,HON-1164,Honor,Phone,2026-09,,,
-Honor Magic9 Pro Max,HON-1165,Honor,Phone,2026-09,,,
-Honor X9e Pro,HON-1166,Honor,Phone,2026-09,,,
+Honor Magic9 Pro Max,HON-1165,Honor,Phone,2026-09,,6.8in,161.64 x 76.98 x 8.59
+Honor X9e Pro,HON-1166,Honor,Phone,2026-09,,6.8in,162.2 x 77 x 8.08
 Honor X9e s,HON-1167,Honor,Phone,2026-10,,,
 Honor 700,HON-1168,Honor,Phone,2026-11,,,
 Honor 700 Pro,HON-1169,Honor,Phone,2026-11,,,
@@ -5656,23 +5656,23 @@ Honor Pad X8b,HON-2026,Honor,Tablet,2026-02,NDL2-W09,11.0in,256.9 x 168.5 x 7.3
 Honor Pad 10 Pro,HON-2027,Honor,Tablet,2026-04,ROL-W00,11.5in,259.1 x 179.1 x 6.1
 Honor Pad 20,HON-2028,Honor,Tablet,2026-05,HEY4-W09,12.1in,277.1 x 179.3 x 6.3
 Honor Tablet X10 Mini,HON-2029,Honor,Tablet,2026-10,,,
-Honor Band 4,HON-3001,Honor,Wearable,2018-09,,,
-Honor Band 5,HON-3002,Honor,Wearable,2019-07,,,
+Honor Band 4,HON-3001,Honor,Wearable,2018-09,,0.95in,43 x 17.2 x 11.5
+Honor Band 5,HON-3002,Honor,Wearable,2019-07,,0.95in,43 x 17.2 x 11.5
 Honor MagicWatch 2 42mm,HON-3003,Honor,Wearable,2019-11,,1.2in,
 Honor MagicWatch 2 46mm,HON-3004,Honor,Wearable,2019-11,,1.39in,
 Honor Watch ES,HON-3005,Honor,Wearable,2020-09,,1.64in,46 x 30 x 12.3
 Honor Watch GS Pro,HON-3006,Honor,Wearable,2020-09,,1.39in,48 x 48 x 13.6
-Honor Band 6,HON-3007,Honor,Wearable,2020-11,,,
+Honor Band 6,HON-3007,Honor,Wearable,2020-11,,1.47in,43 x 25.4 x 11.45
 Honor Watch GS 3,HON-3008,Honor,Wearable,2022-01,MUS-B19,1.43in,45.9 x 45.9 x 10.5
 Honor Watch GS 4,HON-3008,Honor,Wearable,2024-03,MUS-B19,1.43in,45.9 x 45.9 x 10.5
-Honor Band 7,HON-3009,Honor,Wearable,2022-05,,,
+Honor Band 7,HON-3009,Honor,Wearable,2022-05,,1.47in,43 x 25.4 x 10.99
 Honor Watch 4,HON-3010,Honor,Wearable,2023-07,TMA-L19,1.75in,45.3 x 39.1 x 11.2
 Honor Watch 4 Pro,HON-3011,Honor,Wearable,2023-10,TUM-L19,1.5in,46.4 x 46.4 x 11.4
 Honor Choice Watch,HON-3012,Honor,Wearable,2024-02,,1.95in,49.7 x 39.9 x 10.2
-Honor Band 9,HON-3013,Honor,Wearable,2024-05,,,
+Honor Band 9,HON-3013,Honor,Wearable,2024-05,,1.57in,43 x 27.88 x 9.49
 Honor Watch 5,HON-3014,Honor,Wearable,2024-09,,1.85in,45.6 x 39.4 x 11
 Honor Watch 5 Ultra,HON-3015,Honor,Wearable,2025-03,,1.5in,46.3 x 46.3 x 11.4
-Honor Band 10,HON-3016,Honor,Wearable,2025-07,,,
+Honor Band 10,HON-3016,Honor,Wearable,2025-07,,1.57in,43.2 x 28.2 x 8.99
 Honor Watch 5 Pro,HON-3017,Honor,Wearable,2025-10,"HAL-L19, HAL-B19",1.5in,46.3 x 46.3 x 11.3
 Honor Watch X5,HON-3018,Honor,Wearable,2025-11,LWS-WB10,1.97in,45.7 x 40.2 x 10
 Honor Watch GS 5,HON-3019,Honor,Wearable,2026-01,IVY-B39,1.32in,44 x 44 x 9.9
@@ -6690,8 +6690,8 @@ BlackBerry Playbook,BLB-2001,BlackBerry,Tablet,2010-09,,7.0in,194 x 130 x 10
 BlackBerry Playbook Wimax,BLB-2001,BlackBerry,Tablet,2010-09,,7.0in,194 x 130 x 10
 BlackBerry 4G Playbook HSPA+,BLB-2001,BlackBerry,Tablet,2011-02,,7.0in,194 x 130 x 10
 BlackBerry 4G LTE Playbook,BLB-2001,BlackBerry,Tablet,2012-08,,7.0in,194 x 130 x 10
-Fairphone 1,FAI-1001,Fairphone,Phone,2013-12,,4.3in,
-Fairphone 2,FAI-1002,Fairphone,Phone,2015-12,,5in,
+Fairphone 1,FAI-1001,Fairphone,Phone,2013-12,,4.3in,126 x 63.5 x 10
+Fairphone 2,FAI-1002,Fairphone,Phone,2015-12,,5in,143 x 73 x 11
 Fairphone 3,FAI-1003,Fairphone,Phone,2019-08,,5.65in,158 x 71.8 x 9.9
 Fairphone 3+,FAI-1003,Fairphone,Phone,2020-08,,5.65in,158 x 71.8 x 9.9
 Fairphone 4,FAI-1004,Fairphone,Phone,2021-09,,6.3in,162 x 75.5 x 10.5
@@ -6702,7 +6702,7 @@ Kogan Agora,KOG-1001,Kogan,Phone,2008-12,,,
 Kogan Agora Pro,KOG-1001,Kogan,Phone,2008-12,,,
 Kogan Agora 5.0,KOG-1002,Kogan,Phone,2013-03,,,
 Kogan Agora 4G,KOG-1003,Kogan,Phone,2014-06,,,
-Kogan Agora 6,KOG-1004,Kogan,Phone,2016-02,,,
+Kogan Agora 6,KOG-1004,Kogan,Phone,2016-02,,5in,142 x 70 x 8
 Kogan Agora Lite,KOG-1005,Kogan,Phone,2016-09,,,
 Kogan Agora 8,KOG-1006,Kogan,Phone,2017-06,,,
 Kogan Agora 10 tablet,KOG-2001,Kogan,Tablet,2012-10,,,
@@ -6887,7 +6887,7 @@ Amazon Fire HD 7,AMZ-2011,Amazon,Tablet,2014-09,KFASWI,7.0in,191 x 128 x 10.6
 Amazon Kindle Fire HDX,AMZ-2012,Amazon,Tablet,2013-09,,7.0in,186 x 128 x 9
 Amazon Kindle Fire HDX 8.9,AMZ-2013,Amazon,Tablet,2013-09,,8.9in,231 x 158 x 7.8
 Amazon Fire HDX 8.9 (2014),AMZ-2013,Amazon,Tablet,2014-09,,8.9in,231 x 158 x 7.8
-Kindle (7th gen),AMZ-2014,Amazon,Tablet,2014-09,,6in,
+Kindle (7th gen),AMZ-2014,Amazon,Tablet,2014-09,,6in,170 x 120 x 10
 Kindle Voyage,AMZ-2015,Amazon,Tablet,2014-09,,6in,162 x 115 x 7.6
 Amazon Fire HD 6,AMZ-2016,Amazon,Tablet,2014-09,,6.0in,169 x 103 x 10.7
 Amazon Fire 7,AMZ-2017,Amazon,Tablet,2015-09,,7.0in,191 x 115 x 10.6
@@ -6902,8 +6902,8 @@ Amazon Fire HD 10 (2019),AMZ-2024,Amazon,Tablet,2019-09,KFMAWI,10.1in,262 x 159 
 Kindle Oasis (2nd gen),AMZ-2025,Amazon,Tablet,2017-10,,7in,159 x 141 x 3.4
 Kindle Oasis (3rd gen),AMZ-2025,Amazon,Tablet,2017-10,,7in,159 x 141 x 3.4
 Kindle Paperwhite (4th gen),AMZ-2026,Amazon,Tablet,2018-11,,6in,167 x 116 x 8.18
-Kindle (10th gen),AMZ-2027,Amazon,Tablet,2019-04,,6in,
-Kindle Kids Edition (10th gen),AMZ-2027,Amazon,Tablet,2019-04,,6in,
+Kindle (10th gen),AMZ-2027,Amazon,Tablet,2019-04,,6in,160 x 110 x 8.6
+Kindle Kids Edition (10th gen),AMZ-2027,Amazon,Tablet,2019-04,,6in,160 x 110 x 8.6
 Amazon Fire HD 8 (2020),AMZ-2028,Amazon,Tablet,2020-03,KFONWI,8.0in,202 x 137 x 9.7
 Amazon Fire HD 8 Plus (2020),AMZ-2028,Amazon,Tablet,2020-03,,8.0in,202 x 137 x 9.7
 Amazon Fire HD 8 (2022),AMZ-2028,Amazon,Tablet,2022-09,KFRAWI,8.0in,201.9 x 137.4 x 9.6
@@ -6927,11 +6927,11 @@ Kindle Colorsoft Kids,AMZ-2034,Amazon,Tablet,2024-10,,7in,176.7 x 127.6 x 7.8
 Kindle Scribe (3rd gen),AMZ-2035,Amazon,Tablet,2025-12,,11in,
 Kindle Scribe Colorsoft,AMZ-2035,Amazon,Tablet,2025-12,,11in,245 x 189 x 5.3
 Kindle Scribe (no front light),AMZ-2035,Amazon,Tablet,2025-12,,11in,
-Kindle (2026),AMZ-2036,Amazon,Tablet,2026-10,,6in,
-Kindle Kids (2026),AMZ-2036,Amazon,Tablet,2026-10,,6in,
-Kindle Paperwhite (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,
-Kindle Paperwhite Signature Edition (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,
-Kindle Paperwhite Kids (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,
+Kindle (2026),AMZ-2036,Amazon,Tablet,2026-10,,6in,152.8 x 108.0 x 6.85
+Kindle Kids (2026),AMZ-2036,Amazon,Tablet,2026-10,,6in,152.8 x 108.0 x 6.85
+Kindle Paperwhite (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,174.7 x 126.8 x 6.8
+Kindle Paperwhite Signature Edition (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,174.7 x 126.8 x 6.8
+Kindle Paperwhite Kids (2026),AMZ-2037,Amazon,Tablet,2026-10,,7in,174.7 x 126.8 x 6.8
 Kindle Colorsoft (2026),AMZ-2038,Amazon,Tablet,2026-10,,7in,
 Kindle Colorsoft Signature Edition (2026),AMZ-2038,Amazon,Tablet,2026-10,,7in,
 Kindle Colorsoft Kids (2026),AMZ-2038,Amazon,Tablet,2026-10,,7in,
@@ -8415,19 +8415,19 @@ Intex Aqua Craze,INX-1014,Intex,Phone,2016-01,,5.0in,143.5 x 71.4 x 9
 Intex IRist Smartwatch,INX-3001,Intex,Wearable,2015-07,,1.56in,44 x 44 x 14
 itel A25,ITE-1001,itel,Phone,2020-06,,5.0in,146.7 x 74 x 9.3
 itel A23 Pro,ITE-1002,itel,Phone,2021-06,,5.0in,145.4 x 73.9 x 9.8
-itel A48,ITE-1003,itel,Phone,2021-06,,6.1in,
+itel A48,ITE-1003,itel,Phone,2021-06,,6.1in,155.3 x 73.5 x 8.5
 itel Vision 2,ITE-1004,itel,Phone,2021-06,,6.6in,164.7 x 76.3 x 8.3
 itel Vision 2S,ITE-1005,itel,Phone,2021-06,,6.52in,166 x 76.3 x 8.9
 itel A23S,ITE-1006,itel,Phone,2022-06,,5.0in,
-itel A27,ITE-1007,itel,Phone,2022-06,,5.45in,
-itel A49,ITE-1008,itel,Phone,2022-06,,6.6in,
-itel A60,ITE-1009,itel,Phone,2022-06,,6.6in,
-itel P38,ITE-1010,itel,Phone,2022-06,,6.6in,
+itel A27,ITE-1007,itel,Phone,2022-06,,5.45in,153 x 74.6 x 11
+itel A49,ITE-1008,itel,Phone,2022-06,,6.6in,165.4 x 76.1 x 9.6
+itel A60,ITE-1009,itel,Phone,2022-06,,6.6in,165 x 76 x 9
+itel P38,ITE-1010,itel,Phone,2022-06,,6.6in,165.4 x 76.2 x 8.9
 itel P38 Pro,ITE-1011,itel,Phone,2022-06,,6.8in,
-itel S18,ITE-1012,itel,Phone,2022-06,,6.6in,
+itel S18,ITE-1012,itel,Phone,2022-06,,6.6in,164.6 x 76.3 x 8.7
 itel Vision 3,ITE-1013,itel,Phone,2022-06,,6.6in,164.5 x 76 x 8.85
-itel Vision 3 Turbo,ITE-1014,itel,Phone,2022-06,,6.6in,
-itel A04,ITE-1015,itel,Phone,2023-06,,6.3in,
+itel Vision 3 Turbo,ITE-1014,itel,Phone,2022-06,,6.6in,164.5 x 76 x 8.85
+itel A04,ITE-1015,itel,Phone,2023-06,,6.3in,163 x 75 x 8.6
 itel A05s,ITE-1016,itel,Phone,2023-06,A663LC,6.6in,
 itel A60s,ITE-1017,itel,Phone,2023-06,,6.6in,165 x 76 x 9
 itel P40+,ITE-1018,itel,Phone,2023-06,‎P683L,6.8in,
@@ -8445,13 +8445,13 @@ itel A50,ITE-1029,itel,Phone,2024-05,A507LXU,6.6in,163.9 x 75.7 x 8.7
 itel Color Pro,ITE-1030,itel,Phone,2024-07,,6.56in,
 itel A50C,ITE-1031,itel,Phone,2024-08,,6.56in,163.9 x 75.7 x 9.4
 itel P65,ITE-1032,itel,Phone,2024-08,P671L,6.7in,165.9 x 77.3 x 7.9
-itel A80,ITE-1033,itel,Phone,2024-09,"A671L, A671LC",6.7in,
+itel A80,ITE-1033,itel,Phone,2024-09,"A671L, A671LC",6.7in,165.9 x 77.3 x 8.54
 itel S25,ITE-1034,itel,Phone,2024-11,S685LN,6.78in,
 itel S25 Ultra,ITE-1035,itel,Phone,2024-11,S686LN,6.78in,
 itel Zeno 10,ITE-1036,itel,Phone,2025-01,,6.6in,164 x 76 x 9
 itel Power 70,ITE-1037,itel,Phone,2025-03,P673L,6.67in,
-itel A90,ITE-1038,itel,Phone,2025-04,A6610L,6.6in,
-itel A95,ITE-1039,itel,Phone,2025-04,,6.67in,
+itel A90,ITE-1038,itel,Phone,2025-04,A6610L,6.6in,164.2 x 76.3 x 8.6
+itel A95,ITE-1039,itel,Phone,2025-04,,6.67in,166 x 77 x 7.8
 itel City 100,ITE-1040,itel,Phone,2025-04,C671L,6.75in,167.7 x 77.5 x 7.7
 itel Zeno 20,ITE-1041,itel,Phone,2025-08,A6610L,6.6in,
 itel A100,ITE-1042,itel,Phone,2025-09,,6.75in,
@@ -8460,11 +8460,11 @@ itel Super 26 Ultra,ITE-1044,itel,Phone,2025-09,,6.8in,
 itel A100C,ITE-1045,itel,Phone,2025-10,,6.6in,
 itel TS Pro,ITE-1046,itel,Phone,2025-10,V651L,6.52in,165 x 76.7 x 9
 itel Zeno 20 Max,ITE-1047,itel,Phone,2025-12,,6.6in,
-itel A200+,ITE-1048,itel,Phone,2026-02,,6.75in,
-itel A200,ITE-1049,itel,Phone,2026-02,,6.75in,
+itel A200+,ITE-1048,itel,Phone,2026-02,,6.75in,167.6 x 78.6 x 8.3
+itel A200,ITE-1049,itel,Phone,2026-02,,6.75in,167.6 x 78.6 x 7.5
 itel City 200,ITE-1050,itel,Phone,2026-02,,6.78in,167.6 x 78.6 x 7.5
 itel City 200s,ITE-1050,itel,Phone,2026-06,,6.78in,167.6 x 78.6 x 7.5
-itel Zeno 100,ITE-1051,itel,Phone,2026-03,,6.6in,
+itel Zeno 100,ITE-1051,itel,Phone,2026-03,,6.6in,164 x 76 x 8.49
 itel Zeno 200,ITE-1052,itel,Phone,2026-05,,,
 itel A100 Pro,ITE-1053,itel,Phone,2026-05,,6.56in,
 itel A100Cs,ITE-1054,itel,Phone,2026-06,,6.6in,
@@ -8713,7 +8713,7 @@ Lava Yuva 4,LAV-1135,Lava,Phone,2024-11,,6.56in,164.2 x 76 x 8.5
 Lava Yuva 2 5G,LAV-1136,Lava,Phone,2024-12,,6.67in,165 x 75.8 x 8.7
 Lava Shark 4G,LAV-1137,Lava,Phone,2025-03,,6.67in,165.8 x 77.2 x 8.5
 Lava Shark,LAV-1138,Lava,Phone,2025-05,,6.75in,165.8 x 77.2 x 8.5
-Lava Yuva Star 2,LAV-1139,Lava,Phone,2025-05,,6.75in,
+Lava Yuva Star 2,LAV-1139,Lava,Phone,2025-05,,6.75in,164.96 x 76.1 x 8.8
 Lava Bold N1 Pro,LAV-1140,Lava,Phone,2025-06,,6.67in,165.8 x 77.2 x 8.4
 Lava Storm Lite,LAV-1141,Lava,Phone,2025-06,,6.75in,168.8 x 78.1 x 8.3
 Lava Storm Play,LAV-1141,Lava,Phone,2025-06,,6.75in,168.8 x 78.1 x 8.3
@@ -8723,23 +8723,23 @@ Lava Blaze Duo 3,LAV-1143,Lava,Phone,2026-01,,6.67in,163.2 x 76.1 x 7.6
 Lava Play Ultra,LAV-1144,Lava,Phone,2025-08,,6.67in,162.1 x 75.4 x 7.8
 Lava Bold N1,LAV-1145,Lava,Phone,2025-09,,6.75in,165.9 x 76.6 x 8.2
 Lava Agni 4,LAV-1146,Lava,Phone,2025-11,,6.67in,160.7 x 75.3 x 8.6
-Lava Play Max,LAV-1147,Lava,Phone,2025-12,,6.72in,
+Lava Play Max,LAV-1147,Lava,Phone,2025-12,,6.72in,166.6 x 77.4 x 8.4
 Lava Yuva Star 3,LAV-1148,Lava,Phone,2026-02,,6.75in,165 x 76.1 x 8.5
 Lava Smart 4 Plus,LAV-1148,Lava,Phone,2026-06,,6.75in,165 x 76.1 x 8.5
-Lava Bold 2,LAV-1149,Lava,Phone,2026-03,,,
-Lava Bold N2 Pro,LAV-1150,Lava,Phone,2026-03,,6.75in,
-Lava Bold N2 Lite,LAV-1151,Lava,Phone,2026-04,,6.75in,
+Lava Bold 2,LAV-1149,Lava,Phone,2026-03,,6.67in,163.2 x 76.05 x 7.55
+Lava Bold N2 Pro,LAV-1150,Lava,Phone,2026-03,,6.75in,165 x 76.1 x 8.8
+Lava Bold N2 Lite,LAV-1151,Lava,Phone,2026-04,,6.75in,164.96 x 76.1 x 8.8
 Lava Shark 2,LAV-1152,Lava,Phone,2026-05,,6.75in,165.9 x 76.8 x 8.8
-Lava Bold N2,LAV-1153,Lava,Phone,2026-06,,,
+Lava Bold N2,LAV-1153,Lava,Phone,2026-06,,6.75in,165 x 76.1 x 8.5
 Lava Smart 4,LAV-1154,Lava,Phone,2026-07,,,
 Lava Virat V1,LAV-1155,Lava,Phone,2026-07,,,
 Lava Virat V1 5G,LAV-1156,Lava,Phone,2026-07,,,
 Lava Bold N4 Lite,LAV-1157,Lava,Phone,2026-08,,,
 Lava Virat V1 Pro,LAV-1158,Lava,Phone,2026-08,,,
-Lava Bold N4 Pro,LAV-1159,Lava,Phone,2026-09,,,
+Lava Bold N4 Pro,LAV-1159,Lava,Phone,2026-09,,6.75in,168.29 x 77.64 x 8.68
 Lava Shark 2 Pro,LAV-1160,Lava,Phone,2026-09,,,
 Lava Virat Curve,LAV-1161,Lava,Phone,2026-09,,,
-Lava Aura Curve,LAV-1162,Lava,Phone,2026-10,,,
+Lava Aura Curve,LAV-1162,Lava,Phone,2026-10,,6.67in,162.26 x 73.51 x 8.55
 Lava Smart 4 Pro,LAV-1163,Lava,Phone,2026-11,,,
 Lava Prowatch VN,LAV-3001,Lava,Wearable,2024-04,,1.96in,
 Lava Prowatch ZN,LAV-3002,Lava,Wearable,2024-04,,1.43in,
@@ -8962,7 +8962,7 @@ Micromax Bolt Q324,MMX-1087,Micromax,Phone,2015-03,,4.0in,124 x 64.5 x 11.2
 Micromax Bolt S300,MMX-1088,Micromax,Phone,2015-03,,4.0in,124 x 65.8 x 11.2
 Micromax Canvas Fire 4 A107,MMX-1089,Micromax,Phone,2015-03,A107,4.5in,136 x 67 x 8.8
 Micromax Canvas Juice 2 AQ5001,MMX-1090,Micromax,Phone,2015-03,AQ5001,5.0in,144 x 72.7 x 9.7
-Micromax Canvas Play Q355,MMX-1091,Micromax,Phone,2015-04,Q355,5.5in,
+Micromax Canvas Play Q355,MMX-1091,Micromax,Phone,2015-04,Q355,5.5in,155 x 79 x 9.9
 Micromax Canvas Spark Q380,MMX-1092,Micromax,Phone,2015-04,Q380,4.7in,
 Micromax Canvas Nitro 2 E311,MMX-1093,Micromax,Phone,2015-05,E311,5.0in,143.5 x 72.1 x 7.5
 Micromax Q372 Unite 3,MMX-1094,Micromax,Phone,2015-05,Q372,4.7in,
@@ -8977,7 +8977,7 @@ Micromax Canvas Nitro 4G E455,MMX-1101,Micromax,Phone,2015-08,E455,5.0in,140.5 x
 Micromax Canvas Selfie 2 Q340,MMX-1102,Micromax,Phone,2015-08,Q340,5.0in,143 x 71.8 x 9
 Micromax Canvas Selfie 3 Q348,MMX-1103,Micromax,Phone,2015-08,,4.8in,141 x 68.4 x 7.8
 Micromax Bolt Q338,MMX-1104,Micromax,Phone,2015-09,,5.0in,142.5 x 71 x 9.3
-Micromax Canvas Fire 4G Q411,MMX-1105,Micromax,Phone,2015-09,,4.5in,
+Micromax Canvas Fire 4G Q411,MMX-1105,Micromax,Phone,2015-09,,4.5in,140.5 x 69.8 x 9.3
 Micromax Canvas Juice 3 Q392,MMX-1106,Micromax,Phone,2015-09,Q392,5.0in,141 x 70 x 8.9
 Micromax Canvas Spark 2 Q334,MMX-1107,Micromax,Phone,2015-09,,5.0in,145.2 x 73.2 x 9.1
 Micromax Bolt Q331,MMX-1108,Micromax,Phone,2015-10,,5.0in,
@@ -9086,8 +9086,8 @@ MWg Atom V,MWG-1003,MWg,Phone,2008-03,,2.8in,116 x 59 x 15
 MWg UBiQUiO 501,MWG-1004,MWg,Phone,2008-03,,2.5in,122 x 65 x 13.5
 MWg Zinc II,MWG-1005,MWg,Phone,2008-05,,2.8in,109.5 x 59 x 18
 NEC Terrain,NEC-1001,NEC,Phone,2013-06,,3.1in,127.5 x 64.5 x 14.5
-NEC TurboExpress,NEC-4001,NEC,Handheld,1990-12,,,
-NEC PC Engine GT,NEC-4001,NEC,Handheld,1990-12,,,
+NEC TurboExpress,NEC-4001,NEC,Handheld,1990-12,,2.6in,
+NEC PC Engine GT,NEC-4001,NEC,Handheld,1990-12,,2.6in,
 Neonode N1,NEO-1001,Neonode,Phone,2003-06,,2.2in,88 x 52 x 21
 Neonode N1m,NEO-1001,Neonode,Phone,2005-02,,2.2in,88 x 52 x 21
 NIU Niutek N109,NIU-1001,NIU,Phone,2012-01,,2.8in,107.8 x 58.2 x 13.7
@@ -9159,23 +9159,23 @@ Oscal Pad 90,OSC-2009,Oscal,Tablet,2025-01,,10.92in,258.1 x 169.6 x 8
 Oukitel WP17,OUK-1001,Oukitel,Phone,2021-10,,6.78in,
 Oukitel WP19,OUK-1002,Oukitel,Phone,2022-06,,6.78in,
 Oukitel WP20,OUK-1003,Oukitel,Phone,2022-06,,5.93in,166.2 x 81.2 x 15.5
-Oukitel C31,OUK-1004,Oukitel,Phone,2022-08,,6.52in,
+Oukitel C31,OUK-1004,Oukitel,Phone,2022-08,,6.52in,165.2 x 77.67 x 9.5
 Oukitel WP18 Pro,OUK-1005,Oukitel,Phone,2022-10,,5.93in,
 Oukitel C31 Pro,OUK-1006,Oukitel,Phone,2022-12,,6.52in,
 Oukitel C32,OUK-1007,Oukitel,Phone,2023-01,,6.52in,
 Oukitel K16,OUK-1008,Oukitel,Phone,2023-03,,3.5in,
-Oukitel WP21 Ultra,OUK-1009,Oukitel,Phone,2023-03,,6.78in,
+Oukitel WP21 Ultra,OUK-1009,Oukitel,Phone,2023-03,,6.78in,177.3 x 84.3 x 18.4
 Oukitel WP22,OUK-1010,Oukitel,Phone,2023-03,,6.58in,
-Oukitel WP23,OUK-1011,Oukitel,Phone,2023-04,,6.52in,
-Oukitel C33,OUK-1012,Oukitel,Phone,2023-05,,6.8in,
+Oukitel WP23,OUK-1011,Oukitel,Phone,2023-04,,6.52in,174.2 x 82.25 x 17.4
+Oukitel C33,OUK-1012,Oukitel,Phone,2023-05,,6.8in,173.8 x 77.7 x 8.9
 Oukitel WP23Pro,OUK-1013,Oukitel,Phone,2023-06,,6.52in,
-Oukitel WP26,OUK-1014,Oukitel,Phone,2023-06,,6.58in,
-Oukitel WP28,OUK-1015,Oukitel,Phone,2023-07,,6.52in,
+Oukitel WP26,OUK-1014,Oukitel,Phone,2023-06,,6.58in,174.8 x 83 x 18.3
+Oukitel WP28,OUK-1015,Oukitel,Phone,2023-07,,6.52in,174.2 x 82.3 x 17.1
 Oukitel WP28 E,OUK-1015,Oukitel,Phone,2024-07,,6.52in,174.2 x 82.3 x 17.4
 Oukitel WP28 S,OUK-1015,Oukitel,Phone,2024-07,,6.52in,174.2 x 82.3 x 17.4
 Oukitel C35,OUK-1016,Oukitel,Phone,2023-08,,6.56in,163.8 x 75.4 x 9.2
 Oukitel C36,OUK-1017,Oukitel,Phone,2023-09,,6.56in,163.8 x 75.4 x 9.2
-Oukitel WP27,OUK-1018,Oukitel,Phone,2023-09,,6.8in,
+Oukitel WP27,OUK-1018,Oukitel,Phone,2023-09,,6.8in,178.2 x 86.2 x 15.3
 Oukitel WP30 Pro,OUK-1019,Oukitel,Phone,2023-10,,6.78in,177.4 x 83.6 x 19
 Oukitel WP32,OUK-1020,Oukitel,Phone,2023-10,,5.93in,166 x 81.1 x 15.1
 Oukitel WP33 Pro,OUK-1021,Oukitel,Phone,2024-01,,6.6in,175.4 x 84 x 27.2
@@ -9366,7 +9366,7 @@ Panasonic Eluga Z1 Pro,PNS-1073,Panasonic,Phone,2018-10,,6.19in,157.2 x 76.3 x 8
 Panasonic P85 Nxt,PNS-1074,Panasonic,Phone,2018-10,,5.0in,141.7 x 70.8 x 9.3
 Panasonic Eluga Ray 800,PNS-1075,Panasonic,Phone,2019-03,,5.5in,152.8 x 75.3 x 8.6
 Panasonic Toughpad FZ-A1,PNS-2001,Panasonic,Tablet,2011-10,,10.1in,266.7 x 213.4 x 17.8
-Panasonic Toughpad JT-B1,PNS-2002,Panasonic,Tablet,2011-10,,7.0in,
+Panasonic Toughpad JT-B1,PNS-2002,Panasonic,Tablet,2011-10,,7.0in,220 x 129.5 x 17.8
 Pantech Matrix Pro,PNT-1001,Pantech,Phone,2009-02,,2.4in,105.9 x 50.8 x 21.6
 Pantech SKY Izar IM-A630K,PNT-1002,Pantech,Phone,2010-07,,3.2in,114.4 x 55.4 x 13.4
 Pantech Vega Xpress IM-A720L,PNT-1003,Pantech,Phone,2010-12,,4.0in,122.5 x 63.9 x 10.8
@@ -10042,8 +10042,8 @@ Tecno Spark 50 4G,TEC-1150,Tecno,Phone,2026-04,,6.78in,167.8 x 79.2 x 8.2
 Tecno Camon Slim,TEC-1151,Tecno,Phone,2026-06,CN6c,6.78in,162.8 x 77.7 x 6.4
 Tecno Pova 8,TEC-1152,Tecno,Phone,2026-06,LK6,6.76in,165.7 x 78.5 x 8.8
 Tecno Spark 50 Pro,TEC-1153,Tecno,Phone,2026-06,KO5,6.78in,167.8 x 79.2 x 7.8
-Tecno Pova 8 Pro,TEC-1154,Tecno,Phone,2026-08,,,
-Tecno Spark Go 3 Pro,TEC-1155,Tecno,Phone,2026-08,,,
+Tecno Pova 8 Pro,TEC-1154,Tecno,Phone,2026-08,,6.78in,162.48 x 77.27 x 7.39
+Tecno Spark Go 3 Pro,TEC-1155,Tecno,Phone,2026-08,,6.78in,168.32 x 79.22 x 8.04
 Tecno Spark 50s,TEC-1156,Tecno,Phone,2026-10,,,
 Tecno Megapad,TEC-2001,Tecno,Tablet,2024-10,,10.1in,240.7 x 159.5 x 7.4
 Tecno Megapad 11,TEC-2002,Tecno,Tablet,2024-12,,11.0in,257.1 x 168.7 x 7.6
@@ -10739,7 +10739,7 @@ Game Boy Advance SP,NIN-4007,Nintendo,Handheld,2003-02,,2.9in,84.6 x 82 x 24.3
 Nintendo DS,NIN-4008,Nintendo,Handheld,2004-11,,3in,148.7 x 84.7 x 28.9
 Game Boy Micro,NIN-4009,Nintendo,Handheld,2005-09,,2in,101 x 50 x 17.2
 Nintendo DS Lite,NIN-4010,Nintendo,Handheld,2006-03,,3.25in,133 x 73.9 x 21.5
-Nintendo DSi,NIN-4011,Nintendo,Handheld,2008-11,,,136.9 x 74.9 x 18.8
+Nintendo DSi,NIN-4011,Nintendo,Handheld,2008-11,,3.25in,136.9 x 74.9 x 18.8
 Nintendo DSi XL,NIN-4012,Nintendo,Handheld,2009-11,,4.2in,161 x 91.4 x 21
 Nintendo 3DS,NIN-4013,Nintendo,Handheld,2011-02,,3.53in,134 x 74 x 22
 Nintendo 3DS XL,NIN-4014,Nintendo,Handheld,2012-07,,4.88in,156 x 93 x 22
@@ -10977,7 +10977,7 @@ Razer Edge 5G,RAZ-4001,Razer,Handheld,2023-01,,6.8in,260 x 85 x 11
 Retroid Pocket,RET-4001,Retroid,Handheld,2020-01,,,
 Retroid Pocket 2,RET-4002,Retroid,Handheld,2020-09,,3.5in,150 x 81 x 17
 Retroid Pocket 2+,RET-4002,Retroid,Handheld,2021-12,,,
-Retroid Pocket 2S,RET-4002,Retroid,Handheld,2023-07,,,
+Retroid Pocket 2S,RET-4002,Retroid,Handheld,2023-07,,3.5in,155 x 80.6 x 16
 Retroid Pocket 3,RET-4003,Retroid,Handheld,2022-07,,4.7in,184.65 x 81.38 x 24.23
 Retroid Pocket 3+,RET-4003,Retroid,Handheld,2022-11,,4.7in,184.65 x 81.38 x 24.23
 Retroid Pocket Flip,RET-4004,Retroid,Handheld,2023-10,,4.7in,139 x 82 x 25.4
@@ -10990,18 +10990,18 @@ Retroid Pocket Flip 2,RET-4008,Retroid,Handheld,2025-04,,5.5in,199 x 78 x 15.6
 Retroid Pocket Classic,RET-4009,Retroid,Handheld,2025-04,,3.92in,138 x 89.9 x 26
 Retroid Pocket Mini V2,RET-4010,Retroid,Handheld,2025-06,,3.92in,165.28 x 77.62 x 16.5
 Retroid Pocket 6,RET-4011,Retroid,Handheld,2025-10,,5.5in,205.5 x 80.5 x 17.2
-Retroid Pocket Nova,RET-4012,Retroid,Handheld,2026-07,,,
-Retroid Pocket Duo,RET-4013,Retroid,Handheld,2026-09,,,
-Retroid Pocket Duo Lite,RET-4014,Retroid,Handheld,2026-09,,,
+Retroid Pocket Nova,RET-4012,Retroid,Handheld,2026-07,,4.5in,169.9 x 84.1 x 15.6
+Retroid Pocket Duo,RET-4013,Retroid,Handheld,2026-09,,5.5in,162 x 95.5 x 22.4
+Retroid Pocket Duo Lite,RET-4014,Retroid,Handheld,2026-09,,5.5in,158 x 95 x 23.2
 Retroid Pocket Duo Lite+,RET-4014,Retroid,Handheld,2026-09,,,
-Miyoo Mini (v1-v3),MIY-4001,Miyoo,Handheld,2022-01,,,
-Miyoo Mini Plus,MIY-4002,Miyoo,Handheld,2022-08,,,
+Miyoo Mini (v1-v3),MIY-4001,Miyoo,Handheld,2022-01,,2.8in,93.5 x 65 x 18
+Miyoo Mini Plus,MIY-4002,Miyoo,Handheld,2022-08,,3.5in,108 x 78.5 x 22.3
 Miyoo Mini Plus V2,MIY-4002,Miyoo,Handheld,2022-08,,,
 Miyoo Mini V4,MIY-4003,Miyoo,Handheld,2024-01,,,
-Miyoo A30,MIY-4004,Miyoo,Handheld,2024-05,,,
-Miyoo Flip,MIY-4005,Miyoo,Handheld,2025-01,,,
+Miyoo A30,MIY-4004,Miyoo,Handheld,2024-05,,2.8in,127.5 x 57 x 16
+Miyoo Flip,MIY-4005,Miyoo,Handheld,2025-01,,3.5in,84.02 x 80.35 x 24.5
 Miyoo Flip V2,MIY-4005,Miyoo,Handheld,2025-01,,,
-Miyoo Mini Flip,MIY-4006,Miyoo,Handheld,2025-10,,,
+Miyoo Mini Flip,MIY-4006,Miyoo,Handheld,2025-10,,2.8in,67.8 x 66.5 x 24.3
 AYN Odin (Base/Pro),AYN-4001,AYN,Handheld,2022-01,,6in,224 x 95 x 15
 AYN Odin Lite,AYN-4002,AYN,Handheld,2022-07,,6in,
 AYN Loki Zero,AYN-4003,AYN,Handheld,2023-05,,6in,248 x 98 x 20
@@ -11019,56 +11019,56 @@ Anbernic RG300,ANB-4001,Anbernic,Handheld,2019-05,,,
 Anbernic RG350,ANB-4002,Anbernic,Handheld,2019-12,,,
 Anbernic RG350P,ANB-4003,Anbernic,Handheld,2020-05,,,
 Anbernic RG350M,ANB-4004,Anbernic,Handheld,2020-06,,,
-Anbernic RG280V,ANB-4005,Anbernic,Handheld,2020-07,,,
-Anbernic RG351P,ANB-4006,Anbernic,Handheld,2020-09,,,
+Anbernic RG280V,ANB-4005,Anbernic,Handheld,2020-07,,2.8in,89 x 78 x 18
+Anbernic RG351P,ANB-4006,Anbernic,Handheld,2020-09,,3.5in,151.5 x 70 x 18
 Anbernic RG280M,ANB-4007,Anbernic,Handheld,2020-11,,,
-Anbernic RG351M,ANB-4008,Anbernic,Handheld,2021-01,,,
-Anbernic RG351V,ANB-4009,Anbernic,Handheld,2021-02,,,
-Anbernic RG351MP,ANB-4010,Anbernic,Handheld,2021-09,,,
-Anbernic RG552,ANB-4011,Anbernic,Handheld,2021-12,,,
-Anbernic RG503,ANB-4012,Anbernic,Handheld,2022-04,,,
-Anbernic RG353P,ANB-4013,Anbernic,Handheld,2022-06,,,
-Anbernic WIN600,ANB-4014,Anbernic,Handheld,2022-07,,,
-Anbernic RG353M,ANB-4015,Anbernic,Handheld,2022-08,,,
-Anbernic RG353V,ANB-4016,Anbernic,Handheld,2022-10,,,
-Anbernic RG353VS,ANB-4016,Anbernic,Handheld,2022-10,,,
-Anbernic RG505,ANB-4017,Anbernic,Handheld,2022-11,,,
-Anbernic RG35XX,ANB-4018,Anbernic,Handheld,2023-01,,,
-Anbernic RG35XX Plus,ANB-4018,Anbernic,Handheld,2023-11,,,
-Anbernic RG405M,ANB-4019,Anbernic,Handheld,2023-03,,,
-Anbernic RG353PS,ANB-4020,Anbernic,Handheld,2023-06,,,
-Anbernic RG Nano,ANB-4021,Anbernic,Handheld,2023-07,,,
-Anbernic RG ARC-D,ANB-4022,Anbernic,Handheld,2023-08,,,
-Anbernic RG ARC-S,ANB-4022,Anbernic,Handheld,2023-08,,,
-Anbernic RG405V,ANB-4023,Anbernic,Handheld,2023-09,,,
-Anbernic RG35XX H,ANB-4024,Anbernic,Handheld,2024-01,,,
+Anbernic RG351M,ANB-4008,Anbernic,Handheld,2021-01,,3.5in,151.5 x 70 x 18
+Anbernic RG351V,ANB-4009,Anbernic,Handheld,2021-02,,3.5in,140 x 94 x 26.8
+Anbernic RG351MP,ANB-4010,Anbernic,Handheld,2021-09,,3.5in,145 x 73 x 18
+Anbernic RG552,ANB-4011,Anbernic,Handheld,2021-12,,5.36in,198.1 x 85.6 x 20
+Anbernic RG503,ANB-4012,Anbernic,Handheld,2022-04,,4.95in,190 x 84 x 21
+Anbernic RG353P,ANB-4013,Anbernic,Handheld,2022-06,,3.5in,190 x 84 x 20
+Anbernic WIN600,ANB-4014,Anbernic,Handheld,2022-07,,5.94in,236 x 103 x 22
+Anbernic RG353M,ANB-4015,Anbernic,Handheld,2022-08,,3.5in,145 x 70.5 x 15.9
+Anbernic RG353V,ANB-4016,Anbernic,Handheld,2022-10,,3.5in,126 x 83 x 21
+Anbernic RG353VS,ANB-4016,Anbernic,Handheld,2022-10,,3.5in,126 x 83 x 21
+Anbernic RG505,ANB-4017,Anbernic,Handheld,2022-11,,4.95in,189 x 87 x 18
+Anbernic RG35XX,ANB-4018,Anbernic,Handheld,2023-01,,3.5in,117 x 81 x 20
+Anbernic RG35XX Plus,ANB-4018,Anbernic,Handheld,2023-11,,3.5in,117 x 81 x 22
+Anbernic RG405M,ANB-4019,Anbernic,Handheld,2023-03,,4in,162 x 73.6 x 15.8
+Anbernic RG353PS,ANB-4020,Anbernic,Handheld,2023-06,,3.5in,190 x 84 x 20
+Anbernic RG Nano,ANB-4021,Anbernic,Handheld,2023-07,,1.54in,71 x 43 x 17
+Anbernic RG ARC-D,ANB-4022,Anbernic,Handheld,2023-08,,4in,191 x 80 x 22
+Anbernic RG ARC-S,ANB-4022,Anbernic,Handheld,2023-08,,4in,191 x 80 x 22
+Anbernic RG405V,ANB-4023,Anbernic,Handheld,2023-09,,4in,145 x 105 x 35
+Anbernic RG35XX H,ANB-4024,Anbernic,Handheld,2024-01,,3.5in,145 x 69 x 16
 Anbernic RG35XX 2024,ANB-4025,Anbernic,Handheld,2024-02,,,
-Anbernic RG556,ANB-4026,Anbernic,Handheld,2024-03,,,
-Anbernic RG557,ANB-4026,Anbernic,Handheld,2025-04,,,
-Anbernic RG28XX,ANB-4027,Anbernic,Handheld,2024-04,,,
-Anbernic RG35XXSP,ANB-4028,Anbernic,Handheld,2024-05,,,
-Anbernic RG Cube,ANB-4029,Anbernic,Handheld,2024-06,,,
-Anbernic RG40XX H,ANB-4030,Anbernic,Handheld,2024-07,,,
-Anbernic RG40XX V,ANB-4031,Anbernic,Handheld,2024-08,,,
-Anbernic RG406V,ANB-4032,Anbernic,Handheld,2024-09,,,
-Anbernic RG CubeXX,ANB-4033,Anbernic,Handheld,2024-10,,,
-Anbernic RG406H,ANB-4034,Anbernic,Handheld,2024-11,,,
-Anbernic RG34XX,ANB-4035,Anbernic,Handheld,2024-12,,,
-Anbernic RG34XXSP,ANB-4036,Anbernic,Handheld,2025-05,,,
-Anbernic RG35XX Pro,ANB-4037,Anbernic,Handheld,2025-06,,,
-Anbernic RG Slide,ANB-4038,Anbernic,Handheld,2025-06,,,
-Anbernic RG477M,ANB-4039,Anbernic,Handheld,2025-08,,,
-Anbernic RG476H,ANB-4040,Anbernic,Handheld,2025-09,,,
-Anbernic RG477V,ANB-4041,Anbernic,Handheld,2025-12,,,
-Anbernic RG DS,ANB-4042,Anbernic,Handheld,2025-12,,,
-Anbernic RG Vita,ANB-4043,Anbernic,Handheld,2026-03,,,
-Anbernic RG Vita Pro,ANB-4044,Anbernic,Handheld,2026-03,,,
-Anbernic RG Rotate,ANB-4045,Anbernic,Handheld,2026-05,,,
-Anbernic RG SP,ANB-4046,Anbernic,Handheld,2026-08,,,
+Anbernic RG556,ANB-4026,Anbernic,Handheld,2024-03,,5.48in,223 x 90 x 15
+Anbernic RG557,ANB-4026,Anbernic,Handheld,2025-04,,5.48in,223 x 89 x 15
+Anbernic RG28XX,ANB-4027,Anbernic,Handheld,2024-04,,2.83in,125 x 56.5 x 16.5
+Anbernic RG35XXSP,ANB-4028,Anbernic,Handheld,2024-05,,3.5in,89 x 85 x 27.3
+Anbernic RG Cube,ANB-4029,Anbernic,Handheld,2024-06,,3.95in,153 x 86.3 x 18
+Anbernic RG40XX H,ANB-4030,Anbernic,Handheld,2024-07,,4in,163 x 79 x 16
+Anbernic RG40XX V,ANB-4031,Anbernic,Handheld,2024-08,,4in,139 x 92 x 13
+Anbernic RG406V,ANB-4032,Anbernic,Handheld,2024-09,,4in,145 x 105 x 29
+Anbernic RG CubeXX,ANB-4033,Anbernic,Handheld,2024-10,,3.95in,157.2 x 89.6 x 17.9
+Anbernic RG406H,ANB-4034,Anbernic,Handheld,2024-11,,4in,174 x 81 x 17.9
+Anbernic RG34XX,ANB-4035,Anbernic,Handheld,2024-12,,3.4in,144.6 x 81.8 x 24.8
+Anbernic RG34XXSP,ANB-4036,Anbernic,Handheld,2025-05,,3.4in,83 x 82 x 25
+Anbernic RG35XX Pro,ANB-4037,Anbernic,Handheld,2025-06,,3.5in,128 x 81 x 22
+Anbernic RG Slide,ANB-4038,Anbernic,Handheld,2025-06,,4.7in,154 x 90 x 26
+Anbernic RG477M,ANB-4039,Anbernic,Handheld,2025-08,,4.7in,176 x 89.4 x 15.5
+Anbernic RG476H,ANB-4040,Anbernic,Handheld,2025-09,,4.7in,176 x 86 x 16
+Anbernic RG477V,ANB-4041,Anbernic,Handheld,2025-12,,4.7in,153 x 105.7 x 23
+Anbernic RG DS,ANB-4042,Anbernic,Handheld,2025-12,,4in,160 x 91 x 21.5
+Anbernic RG Vita,ANB-4043,Anbernic,Handheld,2026-03,,5.46in,206 x 84 x 18.6
+Anbernic RG Vita Pro,ANB-4044,Anbernic,Handheld,2026-03,,5.5in,206 x 84 x 18.6
+Anbernic RG Rotate,ANB-4045,Anbernic,Handheld,2026-05,,3.5in,130 x 80 x 21
+Anbernic RG SP,ANB-4046,Anbernic,Handheld,2026-08,,3.4in,83 x 82 x 24
 Anbernic RG 55G1,ANB-4047,Anbernic,Handheld,2026-08,,,
 Anbernic RG 35,ANB-4048,Anbernic,Handheld,2026-09,,,
-Anbernic RG DS Plus,ANB-4049,Anbernic,Handheld,2026-09,,,
-Anbernic RG DDS,ANB-4050,Anbernic,Handheld,2026-11,,,
+Anbernic RG DS Plus,ANB-4049,Anbernic,Handheld,2026-09,,4.3in,166.5 x 95.5 x 23.5
+Anbernic RG DDS,ANB-4050,Anbernic,Handheld,2026-11,,,166 x 93 x 26
 TrimUI Model S,TRI-4001,TrimUI,Handheld,2021-06,,2in,106.5 x 56.5 x 10
 TrimUI Smart,TRI-4002,TrimUI,Handheld,2022-12,,2.4in,110 x 58 x 15
 TrimUI Smart Pro,TRI-4003,TrimUI,Handheld,2023-12,,4.96in,188 x 80 x 17
@@ -11111,27 +11111,27 @@ AYANEO Pocket S Mini,AYA-4023,AYANEO,Handheld,2025-09,,4.2in,167.1 x 77.85 x 18.
 AYANEO Pocket Vert,AYA-4024,AYANEO,Handheld,2025-10,,3.5in,143 x 86.4 x 20.5
 AYANEO Next II,AYA-4025,AYANEO,Handheld,2026-02,,9.06in,
 AYANEO Pocket Micro 2,AYA-4026,AYANEO,Handheld,2026-06,,3.5in,162 x 67.8 x 18
-KONKR Pocket FIT,KON-4001,KONKR,Handheld,2025-09,,,
-KONKR Pocket FIT Elite,KON-4001,KONKR,Handheld,2026-03,,,
-KONKR FIT,KON-4002,KONKR,Handheld,2026-06,,,
-KONKR Pocket Block,KON-4003,KONKR,Handheld,2026-09,,,
-KONKR Pocket Advance,KON-4004,KONKR,Handheld,2026-10,,,
+KONKR Pocket FIT,KON-4001,KONKR,Handheld,2025-09,,6in,225 x 96.7 x 17
+KONKR Pocket FIT Elite,KON-4001,KONKR,Handheld,2026-03,,6in,225 x 96.7 x 17
+KONKR FIT,KON-4002,KONKR,Handheld,2026-06,,7in,270.8 x 100.4 x 25.1
+KONKR Pocket Block,KON-4003,KONKR,Handheld,2026-09,,3.33in,113.2 x 77.4 x 19.8
+KONKR Pocket Advance,KON-4004,KONKR,Handheld,2026-10,,3.5in,151.3 x 82.4 x 22
 OneXPlayer,ONX-4001,OneXPlayer,Handheld,2021-02,,,
 OneXPlayer 1S,ONX-4001,OneXPlayer,Handheld,2021-08,,,
-OneXPlayer Mini,ONX-4002,OneXPlayer,Handheld,2021-11,,,
+OneXPlayer Mini,ONX-4002,OneXPlayer,Handheld,2021-11,,7in,262 x 108 x 23
 OneXPlayer Mini Pro,ONX-4002,OneXPlayer,Handheld,2023-02,,,
-OneXPlayer 2,ONX-4003,OneXPlayer,Handheld,2022-11,,,
+OneXPlayer 2,ONX-4003,OneXPlayer,Handheld,2022-11,,8.4in,310 x 127 x 22.5
 OneXPlayer 2 Pro,ONX-4003,OneXPlayer,Handheld,2023-05,,,
 OneXPlayer 2 Pro (2024),ONX-4003,OneXPlayer,Handheld,2024-02,,,
-OneXFly,ONX-4004,OneXPlayer,Handheld,2023-09,,,
+OneXFly,ONX-4004,OneXPlayer,Handheld,2023-09,,7in,263.6 x 98.25 x 22.6
 OneXFly (8840U),ONX-4004,OneXPlayer,Handheld,2024-07,,,
-OneXPlayer X1,ONX-4005,OneXPlayer,Handheld,2024-04,,,
-OneXPlayer X1 Pro,ONX-4005,OneXPlayer,Handheld,2025-05,,,
-OneXPlayer X1 Mini,ONX-4006,OneXPlayer,Handheld,2024-09,,,
-OneXFly F1 Pro,ONX-4007,OneXPlayer,Handheld,2024-12,,,
-OneXPlayer G1,ONX-4008,OneXPlayer,Handheld,2025-03,,,
+OneXPlayer X1,ONX-4005,OneXPlayer,Handheld,2024-04,,10.95in,252 x 163 x 13
+OneXPlayer X1 Pro,ONX-4005,OneXPlayer,Handheld,2025-05,,10.95in,252 x 163 x 13
+OneXPlayer X1 Mini,ONX-4006,OneXPlayer,Handheld,2024-09,,8.8in,210.6 x 129.2 x 20
+OneXFly F1 Pro,ONX-4007,OneXPlayer,Handheld,2024-12,,7in,263.6 x 98.2 x 22.6
+OneXPlayer G1,ONX-4008,OneXPlayer,Handheld,2025-03,,8.8in,208 x 146.5 x 32
 OneXPlayer X1 Air,ONX-4009,OneXPlayer,Handheld,2025-10,,,
-OneXFly Apex,ONX-4010,OneXPlayer,Handheld,2025-11,,,
+OneXFly Apex,ONX-4010,OneXPlayer,Handheld,2025-11,,8in,290.15 x 123.5 x 22.5
 OneXPlayer X2 Mini Pro,ONX-4011,OneXPlayer,Handheld,2026-05,,,
 OneXPlayer 3,ONX-4011,OneXPlayer,Handheld,2026-06,,,
 OneXPlayer X2,ONX-4012,OneXPlayer,Handheld,2026-06,,,
@@ -11145,19 +11145,19 @@ Bittboy Metal Pocket Go,BIT-4003,Bittboy,Handheld,2020-05,,,
 Bittboy PocketGo S30,BIT-4004,Bittboy,Handheld,2021-09,,,
 Powkiddy X18,POW-4001,Powkiddy,Handheld,2018-06,,,
 Powkiddy Q90,POW-4002,Powkiddy,Handheld,2019-06,,,
-Powkiddy V90,POW-4003,Powkiddy,Handheld,2020-03,,,
+Powkiddy V90,POW-4003,Powkiddy,Handheld,2020-03,,2.8in,82 x 80 x 24
 Powkiddy A19,POW-4004,Powkiddy,Handheld,2020-06,,,
 Powkiddy RGB10,POW-4005,Powkiddy,Handheld,2020-10,,,
 Powkiddy RGB10 Max,POW-4006,Powkiddy,Handheld,2021-06,,,
 Powkiddy RGB20,POW-4007,Powkiddy,Handheld,2021-09,,,
-Powkiddy RGB10S,POW-4008,Powkiddy,Handheld,2022-05,,,
+Powkiddy RGB10S,POW-4008,Powkiddy,Handheld,2022-05,,3.5in,144 x 63.8 x 16
 Powkiddy RGB10 Max 2,POW-4009,Powkiddy,Handheld,2022-09,,,
-Powkiddy RGB20S,POW-4010,Powkiddy,Handheld,2022-12,,,
-Powkiddy X55,POW-4011,Powkiddy,Handheld,2023-02,,,
+Powkiddy RGB20S,POW-4010,Powkiddy,Handheld,2022-12,,3.5in,120 x 83 x 20.8
+Powkiddy X55,POW-4011,Powkiddy,Handheld,2023-02,,5.5in,212.5 x 94.5 x 19
 Powkiddy RK2023,POW-4012,Powkiddy,Handheld,2023-03,,,
 Powkiddy RGB10 Max 3 Pro,POW-4013,Powkiddy,Handheld,2023-06,,,
-Powkiddy X28,POW-4014,Powkiddy,Handheld,2023-07,,,
-Powkiddy RGB30,POW-4015,Powkiddy,Handheld,2023-08,,,
+Powkiddy X28,POW-4014,Powkiddy,Handheld,2023-07,,5.5in,207.6 x 80.7 x 26.9
+Powkiddy RGB30,POW-4015,Powkiddy,Handheld,2023-08,,4in,145 x 86.5 x 18
 Powkiddy X39 Pro,POW-4016,Powkiddy,Handheld,2023-09,,,
 Powkiddy RGB10 Max 3,POW-4017,Powkiddy,Handheld,2024-01,,,
 Powkiddy RGB20SX,POW-4018,Powkiddy,Handheld,2024-05,,,
@@ -11188,18 +11188,18 @@ Sega Nomad,SEG-4002,SEGA,Handheld,1995-10,,,
 Sega Game Gear Micro,SEG-4003,SEGA,Handheld,2020-10,,1.14in,80 x 43 x 20
 Atari Lynx,ATA-4001,Atari,Handheld,1989-09,,3.5in,
 Atari Lynx II,ATA-4002,Atari,Handheld,1991-07,,,
-SNK Neo Geo Pocket,SNK-4001,SNK,Handheld,1998-10,,,
-SNK Neo Geo Pocket Color,SNK-4002,SNK,Handheld,1999-03,,,
+SNK Neo Geo Pocket,SNK-4001,SNK,Handheld,1998-10,,,122 x 74 x 24
+SNK Neo Geo Pocket Color,SNK-4002,SNK,Handheld,1999-03,,,130 x 80 x 30
 Bandai WonderSwan,BAN-4001,Bandai,Handheld,1999-03,,2.49in,
 Bandai WonderSwan Color,BAN-4002,Bandai,Handheld,2000-12,,2.9in,128 x 74.3 x 24.3
 Bandai SwanCrystal,BAN-4003,Bandai,Handheld,2002-07,,,
 Tiger Game.com,TIG-4001,Tiger,Handheld,1997-09,,3.5in,190 x 108 x 19
 Tiger Game.com Pocket Pro,TIG-4002,Tiger,Handheld,1999-09,,2.8in,140 x 86 x 28
-NVIDIA Tegra Note 7,NVI-2001,NVIDIA,Tablet,2013-11,,,
+NVIDIA Tegra Note 7,NVI-2001,NVIDIA,Tablet,2013-11,,7in,199 x 119 x 9.4
 NVIDIA Shield Tablet,NVI-2002,NVIDIA,Tablet,2014-07,,8in,221 x 126 x 9.2
 NVIDIA Shield Tablet LTE,NVI-2002,NVIDIA,Tablet,2014-07,,8in,221 x 126 x 9.2
 NVIDIA Shield Tablet K1,NVI-2002,NVIDIA,Tablet,2015-11,,8in,221 x 126 x 9.2
-NVIDIA Shield Portable,NVI-4001,NVIDIA,Handheld,2013-07,,,
+NVIDIA Shield Portable,NVI-4001,NVIDIA,Handheld,2013-07,,5in,
 Acer DX900,ACE-1001,Acer,Phone,2009-02,,2.8in,106 x 60.5 x 17
 Acer F900,ACE-1002,Acer,Phone,2009-02,,3.8in,117.5 x 63.5 x 15.8
 Acer M900,ACE-1003,Acer,Phone,2009-02,,3.8in,119 x 62 x 17.1
@@ -11325,32 +11325,32 @@ Acer Liquid Leap,ACE-3001,Acer,Wearable,2015-04,,,
 Acer Liquid Leap+,ACE-3002,Acer,Wearable,2015-09,,,
 Acer Leap Ware,ACE-3003,Acer,Wearable,2016-09,,,
 Acer Nitro Blaze 7,ACE-4001,Acer,Handheld,2024-09,,,
-Acer Nitro Blaze 8,ACE-4002,Acer,Handheld,2025-01,,,
-Acer Nitro Blaze 11,ACE-4003,Acer,Handheld,2025-01,,,
+Acer Nitro Blaze 8,ACE-4002,Acer,Handheld,2025-01,,8.8in,305 x 134 x 22
+Acer Nitro Blaze 11,ACE-4003,Acer,Handheld,2025-01,,10.95in,364 x 171 x 15.9
 Acer Predator Atlas 8,ACE-4004,Acer,Handheld,2026-05,,,
 MagicX XU10,MGX-4001,MagicX,Handheld,2023-01,,,
 MagicX XU Mini M,MGX-4002,MagicX,Handheld,2024-06,,,
 MagicX Mini Zero 28,MGX-4003,MagicX,Handheld,2025-01,,,
 MagicX Mini Zero 28 V2,MGX-4003,MagicX,Handheld,2025-01,,,
-MagicX Zero 40,MGX-4004,MagicX,Handheld,2025-06,,,
+MagicX Zero 40,MGX-4004,MagicX,Handheld,2025-06,,4in,136 x 105 x 17
 MagicX One 35,MGX-4005,MagicX,Handheld,2025-08,,,
 Mangmi Air X,MNG-4001,Mangmi,Handheld,2025-10,,5.5in,203.47 x 87.39 x 16.8
-Mangmi Pocket Max,MNG-4002,Mangmi,Handheld,2025-12,,,
+Mangmi Pocket Max,MNG-4002,Mangmi,Handheld,2025-12,,7in,254.87 x 101.06 x 17.45
 Mangmi Air Y,MNG-4003,Mangmi,Handheld,2026-08,,,
 Mangmi Air Y Pro,MNG-4003,Mangmi,Handheld,2026-08,,,
 GKD 350H,GKD-4001,GKD (Game Kiddy),Handheld,2019-12,,,
 GKD 350H Plus,GKD-4001,GKD (Game Kiddy),Handheld,2019-12,,,
 GKD Mini,GKD-4002,GKD (Game Kiddy),Handheld,2021-03,,,
-GKD Mini Plus,GKD-4003,GKD (Game Kiddy),Handheld,2022-08,,,
-GKD Pixel,GKD-4004,GKD (Game Kiddy),Handheld,2024-01,,,
-GKD Pixel 2,GKD-4005,GKD (Game Kiddy),Handheld,2025-01,,,
+GKD Mini Plus,GKD-4003,GKD (Game Kiddy),Handheld,2022-08,,3.5in,111 x 86 x 19
+GKD Pixel,GKD-4004,GKD (Game Kiddy),Handheld,2024-01,,2.31in,80 x 56 x 18
+GKD Pixel 2,GKD-4005,GKD (Game Kiddy),Handheld,2025-01,,2.4in,81 x 63 x 17
 GKD 350H Ultra,GKD-4006,GKD (Game Kiddy),Handheld,2026-09,,,
 Evercade (original handheld),EVC-4001,Evercade,Handheld,2020-05,,4.3in,
 Evercade EXP,EVC-4002,Evercade,Handheld,2022-12,,4.3in,
-Evercade EXP-R,EVC-4002,Evercade,Handheld,2022-12,,,
-Evercade Super Pocket,EVC-4003,Evercade,Handheld,2023-11,,,
-Evercade Nexus,EVC-4004,Evercade,Handheld,2026-10,,,
-Evercade Nexus 64 Edition,EVC-4004,Evercade,Handheld,2026-10,,,
+Evercade EXP-R,EVC-4002,Evercade,Handheld,2022-12,,4.3in,192.7 x 78.5 x 20.7
+Evercade Super Pocket,EVC-4003,Evercade,Handheld,2023-11,,2.8in,125 x 78 x 25
+Evercade Nexus,EVC-4004,Evercade,Handheld,2026-10,,5.89in,215 x 111 x 34
+Evercade Nexus 64 Edition,EVC-4004,Evercade,Handheld,2026-10,,5.89in,215 x 111 x 34
 Hyperkin SupaBoy,HYP-4001,Hyperkin,Handheld,2012-08,,,
 Hyperkin SupaBoy S,HYP-4002,Hyperkin,Handheld,2016-11,,,
 Hyperkin SupaBoy SFC,HYP-4002,Hyperkin,Handheld,2016-11,,,
@@ -11437,7 +11437,7 @@ Polar Ignite,UNI-0009,Universal,Misc,2019-08,,1.2in,43 x 43 x 8.5
 Garmin Venu,UNI-0009,Universal,Misc,2019-09,,1.2in,43.2 x 43.2 x 12.4
 Huawei Watch GT 2 42mm,UNI-0009,Universal,Misc,2019-09,,1.2in,41.8 x 41.8 x 9.4
 Honor MagicWatch 2 42mm,UNI-0009,Universal,Misc,2019-11,,1.2in,
-Polar Grit X,UNI-0009,Universal,Misc,2020-06,,,
+Polar Grit X,UNI-0009,Universal,Misc,2020-06,,1.28in,44.7 x 44.7 x 12.5
 Galaxy Watch3 41mm,UNI-0009,Universal,Misc,2020-08,,1.2in,42.5 x 41.0 x 11.3
 Fossil Gen 5E 42mm,UNI-0009,Universal,Misc,2020-08,,,
 Polar Unite,UNI-0009,Universal,Misc,2020-08,,1.22in,43.4 x 43.4 x 10.4
@@ -11760,19 +11760,19 @@ Garmin Forerunner 305,GAR-3004,Garmin,Wearable,2006-04,,,
 Garmin Forerunner 50,GAR-3005,Garmin,Wearable,2007-09,,,
 Garmin Forerunner 405,GAR-3006,Garmin,Wearable,2008-01,,,
 Garmin Forerunner 405CX,GAR-3006,Garmin,Wearable,2008-01,,,
-Garmin Forerunner 310XT,GAR-3007,Garmin,Wearable,2009-04,,,
+Garmin Forerunner 310XT,GAR-3007,Garmin,Wearable,2009-04,,1.52in,54 x 56 x 19
 Garmin Forerunner 60,GAR-3008,Garmin,Wearable,2009-08,,,
 Garmin Forerunner 110,GAR-3009,Garmin,Wearable,2010-04,,,
 Garmin Forerunner 410,GAR-3010,Garmin,Wearable,2010-10,,,
 Garmin Forerunner 210,GAR-3011,Garmin,Wearable,2011-02,,,
-Garmin Forerunner 610,GAR-3012,Garmin,Wearable,2011-04,,,46 x 46 x 14
+Garmin Forerunner 610,GAR-3012,Garmin,Wearable,2011-04,,1in,46 x 46 x 14
 Garmin Approach S1,GAR-3013,Garmin,Wearable,2011-09,,,
 Garmin Forerunner 910XT,GAR-3014,Garmin,Wearable,2011-10,,,54 x 61 x 15
 Garmin fenix,GAR-3015,Garmin,Wearable,2012-01,,1.2in,49 x 49 x 17
-Garmin Approach S3,GAR-3016,Garmin,Wearable,2012-06,,,
+Garmin Approach S3,GAR-3016,Garmin,Wearable,2012-06,,1in,
 Garmin Forerunner 10,GAR-3017,Garmin,Wearable,2012-09,,,45.5 x 57.2 x 15.7
 Garmin Swim,GAR-3018,Garmin,Wearable,2012-10,,1.45in,48.8 x 44.0 x 13.7
-Garmin Approach S2,GAR-3019,Garmin,Wearable,2013-01,,,
+Garmin Approach S2,GAR-3019,Garmin,Wearable,2013-01,,1in,
 Garmin tactix,GAR-3020,Garmin,Wearable,2013-05,,,
 Garmin Approach S4,GAR-3021,Garmin,Wearable,2013-07,,1in,46 x 61.3 x 14.8
 Garmin Forerunner 220,GAR-3022,Garmin,Wearable,2013-09,,1in,45 x 45 x 12
@@ -11792,7 +11792,7 @@ Garmin fenix 3 HR,GAR-3033,Garmin,Wearable,2015-01,,1.2in,51.5 x 51.5 x 16
 Garmin quatix 3,GAR-3033,Garmin,Wearable,2015-01,,1.2in,51.5 x 51.5 x 16.0
 Garmin tactix Bravo,GAR-3033,Garmin,Wearable,2015-01,,1.2in,51 x 51 x 15.5
 Garmin epix,GAR-3034,Garmin,Wearable,2015-02,,1.4in,53.3 x 50.8 x 17.8
-Garmin Forerunner 225,GAR-3035,Garmin,Wearable,2015-03,,,
+Garmin Forerunner 225,GAR-3035,Garmin,Wearable,2015-03,,1in,
 Garmin Forerunner 25,GAR-3036,Garmin,Wearable,2015-05,,,40.2 x 47 x 13.9
 Garmin Approach S5,GAR-3037,Garmin,Wearable,2015-05,,,
 Garmin Forerunner 230,GAR-3038,Garmin,Wearable,2015-09,,1in,45 x 45 x 11.8
@@ -11804,7 +11804,7 @@ Garmin vivosmart HR+,GAR-3041,Garmin,Wearable,2015-10,,,
 Garmin vivoactive HR,GAR-3042,Garmin,Wearable,2016-02,,1.39in,57.0 x 30.2 x 13.5
 Garmin Forerunner 735XT,GAR-3043,Garmin,Wearable,2016-04,,1.23in,44.5 x 44.5 x 11.9
 Garmin vivofit 3,GAR-3044,Garmin,Wearable,2016-04,,0.56in,
-Garmin Forerunner 35,GAR-3045,Garmin,Wearable,2016-06,,,
+Garmin Forerunner 35,GAR-3045,Garmin,Wearable,2016-06,,0.93in,35.5 x 40.7 x 13.3
 Garmin Approach S20,GAR-3046,Garmin,Wearable,2016-06,,,37.4 x 47.6 x 11.3
 Garmin vivomove,GAR-3047,Garmin,Wearable,2016-06,,,42 x 42 x 12
 Garmin vivofit jr,GAR-3048,Garmin,Wearable,2016-10,,0.56in,
@@ -11821,7 +11821,7 @@ Garmin vivoactive 3,GAR-3055,Garmin,Wearable,2017-08,,1.2in,43.4 x 43.4 x 11.7
 Garmin vivoactive 3 Music,GAR-3056,Garmin,Wearable,2017-08,,1.2in,43.1 x 43.1 x 13.6
 Garmin vivomove HR,GAR-3057,Garmin,Wearable,2017-09,,0.85in,43 x 43 x 11.6
 Garmin vivosport,GAR-3058,Garmin,Wearable,2017-09,,0.85in,
-Garmin Forerunner 30,GAR-3059,Garmin,Wearable,2017-09,,,
+Garmin Forerunner 30,GAR-3059,Garmin,Wearable,2017-09,,0.93in,35.5 x 40.7 x 13.3
 Garmin vivofit 4,GAR-3060,Garmin,Wearable,2017-09,,0.56in,
 Garmin vivofit jr 2,GAR-3061,Garmin,Wearable,2017-09,,0.61in,
 Garmin Descent Mk1,GAR-3062,Garmin,Wearable,2017-10,,1.2in,51 x 51 x 17.8
@@ -11831,7 +11831,7 @@ Garmin fenix 5S Plus,GAR-3064,Garmin,Wearable,2018-06,,1.2in,42 x 42 x 15.4
 Garmin fenix 5 Plus,GAR-3065,Garmin,Wearable,2018-06,,1.2in,47 x 47 x 15.8
 Garmin fenix 5X Plus,GAR-3066,Garmin,Wearable,2018-06,,1.2in,51 x 51 x 17.5
 Garmin vivosmart 4,GAR-3067,Garmin,Wearable,2018-08,,0.74in,
-Garmin Instinct,GAR-3068,Garmin,Wearable,2018-10,,,45 x 45 x 15.3
+Garmin Instinct,GAR-3068,Garmin,Wearable,2018-10,,1.27in,45 x 45 x 15.3
 Garmin Instinct Tactical,GAR-3068,Garmin,Wearable,2018-10,,1.27in,45 x 45 x 15.3
 Garmin Instinct Solar,GAR-3068,Garmin,Wearable,2018-10,,1.27in,45 x 45 x 15.3
 Garmin Instinct Esports,GAR-3068,Garmin,Wearable,2018-10,,,
@@ -11915,7 +11915,7 @@ Garmin Enduro 2,GAR-3104,Garmin,Wearable,2022-01,,1.4in,51 x 51 x 15.6
 Garmin fenix 7X Pro,GAR-3104,Garmin,Wearable,2023-05,,1.4in,51 x 51 x 14.9
 Garmin epix Pro (Gen 2) 51mm,GAR-3104,Garmin,Wearable,2023-05,,1.4in,51 x 51 x 14.9
 Garmin D2 Mach 1,GAR-3105,Garmin,Wearable,2022-01,,1.3in,47 x 47 x 15.2
-Garmin Instinct 2,GAR-3106,Garmin,Wearable,2022-02,,,45 x 45 x 14.5
+Garmin Instinct 2,GAR-3106,Garmin,Wearable,2022-02,,1.27in,45 x 45 x 14.5
 Garmin Instinct 2 Solar,GAR-3106,Garmin,Wearable,2022-02,,,45 x 45 x 14.5
 Garmin Instinct 2S,GAR-3107,Garmin,Wearable,2022-02,,1.12in,40 x 40 x 13.3
 Garmin Instinct 2S Solar,GAR-3107,Garmin,Wearable,2022-02,,1.12in,40 x 40 x 13.3
@@ -11967,7 +11967,7 @@ Garmin tactix 8 AMOLED 47mm,GAR-3146,Garmin,Wearable,2025-02,,1.4in,47 x 47 x 15
 Garmin tactix 8 AMOLED 51mm,GAR-3147,Garmin,Wearable,2025-02,,1.4in,51 x 51 x 14.7
 Garmin tactix 8 Solar 51mm,GAR-3148,Garmin,Wearable,2025-02,,1.4in,51 x 51 x 15.4
 Garmin Approach S44,GAR-3149,Garmin,Wearable,2025-03,,1.2in,43 x 43 x 11.4
-Garmin Approach S50,GAR-3150,Garmin,Wearable,2025-03,,,
+Garmin Approach S50,GAR-3150,Garmin,Wearable,2025-03,,1.2in,43 x 43 x 11.4
 Garmin vivoactive 6,GAR-3151,Garmin,Wearable,2025-04,,,42.2 x 42.2 x 10.9
 Garmin Instinct 3 Tactical Edition AMOLED 50mm,GAR-3152,Garmin,Wearable,2025-04,,1.3in,50 x 50 x 14.4
 Garmin Instinct 3 Tactical Edition Solar 45mm,GAR-3153,Garmin,Wearable,2025-04,,1.27in,45 x 45 x 14.9
@@ -12016,12 +12016,12 @@ Garmin MARQ (Gen 3) Golfer,GAR-3182,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
 Garmin Descent X10,GAR-3183,Garmin,Wearable,2026-11,,,
 Amazfit Pace,AMF-3001,Amazfit,Wearable,2016-09,,1.34in,
 Amazfit Bip,AMF-3002,Amazfit,Wearable,2017-06,,1.28in,39.4 x 34.1 x 9.5
-Amazfit Cor,AMF-3003,Amazfit,Wearable,2017-09,,,
+Amazfit Cor,AMF-3003,Amazfit,Wearable,2017-09,,1.23in,
 Amazfit Stratos,AMF-3004,Amazfit,Wearable,2017-11,,1.34in,46 x 46 x 13.9
 Amazfit Verge,AMF-3005,Amazfit,Wearable,2018-08,,1.3in,43 x 43 x 12.6
 Amazfit Bip Lite,AMF-3006,Amazfit,Wearable,2019-03,,1.28in,39.4 x 34.1 x 9.5
 Amazfit Verge Lite,AMF-3007,Amazfit,Wearable,2019-03,,1.3in,43 x 43 x 12.6
-Amazfit Cor 2,AMF-3008,Amazfit,Wearable,2019-06,,,
+Amazfit Cor 2,AMF-3008,Amazfit,Wearable,2019-06,,1.23in,
 Amazfit GTR 42mm,AMF-3009,Amazfit,Wearable,2019-08,,1.29in,42.6 x 42.6 x 9.2
 Amazfit GTR 47mm,AMF-3010,Amazfit,Wearable,2019-08,,1.39in,47.2 x 47.2 x 10.75
 Amazfit Stratos 3,AMF-3011,Amazfit,Wearable,2019-08,,1.34in,48.6 x 48.6 x 13.4
@@ -12031,7 +12031,7 @@ Amazfit Bip S Lite,AMF-3013,Amazfit,Wearable,2020-01,,1.28in,42 x 35.3 x 11.4
 Amazfit T-Rex,AMF-3014,Amazfit,Wearable,2020-01,,1.3in,47.7 x 47.7 x 13.5
 Amazfit T-Rex Pro,AMF-3014,Amazfit,Wearable,2021-03,,1.3in,47.7 x 47.7 x 13.5
 Amazfit Band 5,AMF-3015,Amazfit,Wearable,2020-06,,1.1in,47.2 x 18.5 x 12.4
-Amazfit X,AMF-3016,Amazfit,Wearable,2020-07,,,
+Amazfit X,AMF-3016,Amazfit,Wearable,2020-07,,2.07in,
 Amazfit GTR 2,AMF-3017,Amazfit,Wearable,2020-09,,1.39in,46.4 x 46.4 x 10.7
 Amazfit GTS 2,AMF-3018,Amazfit,Wearable,2020-09,,1.65in,42.8 x 35.6 x 9.7
 Amazfit Bip U,AMF-3019,Amazfit,Wearable,2020-09,,1.43in,40.9 x 35.5 x 11.4
@@ -12081,29 +12081,29 @@ Amazfit Bip Max,AMF-3057,Amazfit,Wearable,2026-05,,2.07in,49.58 x 42.76 x 13.24
 Amazfit Balance 3,AMF-3058,Amazfit,Wearable,2026-06,,1.5in,51.4 x 51.4 x 14.6
 Amazfit Balance Ultra,AMF-3059,Amazfit,Wearable,2026-06,,1.5in,51.8 x 51.8 x 15.5
 Amazfit T-Rex Dual Solar,AMF-3060,Amazfit,Wearable,2026-09,,,
-Fossil Q Founder,FOS-3001,Fossil Group,Wearable,2015-11,,,
+Fossil Q Founder,FOS-3001,Fossil Group,Wearable,2015-11,,1.5in,47 x 47 x 13
 Fossil Q Marshal,FOS-3002,Fossil Group,Wearable,2016-09,,,
 Fossil Q Wander,FOS-3002,Fossil Group,Wearable,2016-09,,,
 Michael Kors Access Bradshaw,FOS-3003,Fossil Group,Wearable,2016-11,,,
 Michael Kors Access Dylan,FOS-3003,Fossil Group,Wearable,2016-11,,,
-Fossil Q Explorist,FOS-3004,Fossil Group,Wearable,2017-08,,,
-Fossil Q Venture,FOS-3005,Fossil Group,Wearable,2017-08,,,
+Fossil Q Explorist,FOS-3004,Fossil Group,Wearable,2017-08,,1.44in,46 x 46 x 12.5
+Fossil Q Venture,FOS-3005,Fossil Group,Wearable,2017-08,,1.2in,42 x 42 x 11.5
 Michael Kors Access Sofie,FOS-3006,Fossil Group,Wearable,2017-09,,,
 Michael Kors Access Grayson,FOS-3007,Fossil Group,Wearable,2017-09,,,
 Skagen Falster,FOS-3008,Fossil Group,Wearable,2017-10,,,
 Emporio Armani Connected,FOS-3009,Fossil Group,Wearable,2018-01,,,
-Fossil Gen 4 Q Explorist HR,FOS-3010,Fossil Group,Wearable,2018-08,,,
-Fossil Gen 4 Q Venture HR,FOS-3011,Fossil Group,Wearable,2018-08,,,
+Fossil Gen 4 Q Explorist HR,FOS-3010,Fossil Group,Wearable,2018-08,,1.4in,45 x 45 x 13
+Fossil Gen 4 Q Venture HR,FOS-3011,Fossil Group,Wearable,2018-08,,1.2in,40 x 40 x 12
 Skagen Falster 2,FOS-3012,Fossil Group,Wearable,2018-09,,,
 Michael Kors Access Runway,FOS-3013,Fossil Group,Wearable,2018-09,,,
 Diesel On Full Guard 2.5,FOS-3014,Fossil Group,Wearable,2018-10,,,
-Fossil Sport 41mm,FOS-3015,Fossil Group,Wearable,2018-11,,,
+Fossil Sport 41mm,FOS-3015,Fossil Group,Wearable,2018-11,,1.2in,41 x 41 x 12
 Fossil Sport 43mm,FOS-3016,Fossil Group,Wearable,2018-11,,,
 Fossil Gen 5 Carlyle,FOS-3017,Fossil Group,Wearable,2019-08,,,
-Fossil Gen 5 Garrett,FOS-3017,Fossil Group,Wearable,2019-08,,,
-Fossil Gen 5 Julianna,FOS-3017,Fossil Group,Wearable,2019-08,,,
+Fossil Gen 5 Garrett,FOS-3017,Fossil Group,Wearable,2019-08,,1.28in,44 x 44 x 12
+Fossil Gen 5 Julianna,FOS-3017,Fossil Group,Wearable,2019-08,,1.28in,
 Michael Kors Access Gen 5 Lexington,FOS-3018,Fossil Group,Wearable,2019-08,,,
-Diesel On Axial,FOS-3019,Fossil Group,Wearable,2019-10,,,
+Diesel On Axial,FOS-3019,Fossil Group,Wearable,2019-10,,1.28in,
 Skagen Falster 3,FOS-3020,Fossil Group,Wearable,2020-03,,,
 Fossil Gen 5E 42mm,FOS-3021,Fossil Group,Wearable,2020-08,,,
 Fossil Gen 5E 44mm,FOS-3022,Fossil Group,Wearable,2020-08,,,
@@ -12114,36 +12114,36 @@ Fossil Gen 6 Wellness Edition,FOS-3025,Fossil Group,Wearable,2021-09,,,
 Michael Kors Access Gen 6 Bradshaw,FOS-3026,Fossil Group,Wearable,2021-10,,,
 Diesel Griffed,FOS-3027,Fossil Group,Wearable,2021-10,,,
 Skagen Falster Gen 6,FOS-3028,Fossil Group,Wearable,2021-11,,,
-TicWatch 2,TIC-3001,TicWatch (Mobvoi),Wearable,2016-05,,,
-TicWatch E,TIC-3002,TicWatch (Mobvoi),Wearable,2017-06,,,
-TicWatch S,TIC-3003,TicWatch (Mobvoi),Wearable,2017-06,,,
+TicWatch 2,TIC-3001,TicWatch (Mobvoi),Wearable,2016-05,,1.4in,44 x 44 x 12
+TicWatch E,TIC-3002,TicWatch (Mobvoi),Wearable,2017-06,,1.4in,44 x 44 x 13.55
+TicWatch S,TIC-3003,TicWatch (Mobvoi),Wearable,2017-06,,1.4in,45 x 45 x 13
 TicWatch Pro,TIC-3004,TicWatch (Mobvoi),Wearable,2018-07,,1.39in,
-TicWatch Pro 2020,TIC-3004,TicWatch (Mobvoi),Wearable,2018-07,,,
+TicWatch Pro 2020,TIC-3004,TicWatch (Mobvoi),Wearable,2018-07,,1.39in,45 x 45 x 12.6
 TicWatch Pro 4G,TIC-3004,TicWatch (Mobvoi),Wearable,2019-11,,,
 TicWatch C2,TIC-3005,TicWatch (Mobvoi),Wearable,2018-11,,1.3in,42.8 x 42.8 x 12.7
 TicWatch E2,TIC-3006,TicWatch (Mobvoi),Wearable,2019-01,,1.39in,52.2 x 46.9 x 12.9
-TicWatch S2,TIC-3007,TicWatch (Mobvoi),Wearable,2019-01,,,
-TicWatch GTX,TIC-3008,TicWatch (Mobvoi),Wearable,2020-07,,,
-TicWatch GTH,TIC-3009,TicWatch (Mobvoi),Wearable,2020-11,,,
+TicWatch S2,TIC-3007,TicWatch (Mobvoi),Wearable,2019-01,,1.39in,46.6 x 51.8 x 12.9
+TicWatch GTX,TIC-3008,TicWatch (Mobvoi),Wearable,2020-07,,1.28in,48.7 x 48.7 x 11
+TicWatch GTH,TIC-3009,TicWatch (Mobvoi),Wearable,2020-11,,1.55in,43.2 x 35.2 x 10.5
 TicWatch E3,TIC-3010,TicWatch (Mobvoi),Wearable,2021-06,,1.3in,47 x 44 x 12.6
 TicWatch Pro 3 GPS,TIC-3011,TicWatch (Mobvoi),Wearable,2021-08,,1.4in,48 x 47 x 12.2
-TicWatch Pro 3 LTE,TIC-3011,TicWatch (Mobvoi),Wearable,2021-08,,,
-TicWatch Pro 3 Ultra,TIC-3011,TicWatch (Mobvoi),Wearable,2022-07,,,
+TicWatch Pro 3 LTE,TIC-3011,TicWatch (Mobvoi),Wearable,2021-08,,1.4in,47 x 48 x 12.2
+TicWatch Pro 3 Ultra,TIC-3011,TicWatch (Mobvoi),Wearable,2022-07,,1.4in,47 x 48 x 12.3
 TicWatch Pro 5,TIC-3012,TicWatch (Mobvoi),Wearable,2023-05,,1.43in,50.1 x 48 x 12.2
-TicWatch Pro 5 Enduro,TIC-3012,TicWatch (Mobvoi),Wearable,2023-05,,,
-TicWatch Atlas,TIC-3012,TicWatch (Mobvoi),Wearable,2023-05,,,
+TicWatch Pro 5 Enduro,TIC-3012,TicWatch (Mobvoi),Wearable,2023-05,,1.43in,50.15 x 48.0 x 11.95
+TicWatch Atlas,TIC-3012,TicWatch (Mobvoi),Wearable,2023-05,,1.43in,52.2 x 47.8 x 12.05
 TicNote Watch,TIC-3013,TicWatch (Mobvoi),Wearable,2026-09,,,
 Polar RC3 GPS,POL-3001,Polar,Wearable,2012-11,,,
 Polar V800,POL-3002,Polar,Wearable,2014-04,,,
-Polar M400,POL-3003,Polar,Wearable,2014-11,,,
-Polar A360,POL-3004,Polar,Wearable,2015-09,,,
+Polar M400,POL-3003,Polar,Wearable,2014-11,,1.31in,38 x 50 x 11.5
+Polar A360,POL-3004,Polar,Wearable,2015-09,,1.1in,
 Polar M600,POL-3005,Polar,Wearable,2016-08,,,
-Polar M430,POL-3006,Polar,Wearable,2017-03,,,
-Polar A370,POL-3007,Polar,Wearable,2017-09,,,
+Polar M430,POL-3006,Polar,Wearable,2017-03,,1.3in,
+Polar A370,POL-3007,Polar,Wearable,2017-09,,1.1in,
 Polar Vantage V,POL-3008,Polar,Wearable,2018-09,,1.2in,46 x 46 x 13
 Polar Vantage M,POL-3009,Polar,Wearable,2018-12,,1.2in,46 x 46 x 12.5
 Polar Ignite,POL-3010,Polar,Wearable,2019-08,,1.2in,43 x 43 x 8.5
-Polar Grit X,POL-3011,Polar,Wearable,2020-06,,,
+Polar Grit X,POL-3011,Polar,Wearable,2020-06,,1.28in,44.7 x 44.7 x 12.5
 Polar Unite,POL-3012,Polar,Wearable,2020-08,,1.22in,43.4 x 43.4 x 10.4
 Polar Vantage V2,POL-3013,Polar,Wearable,2020-12,,1.2in,47 x 47 x 13
 Polar Vantage M2,POL-3014,Polar,Wearable,2021-05,,1.2in,46 x 46 x 12.5
@@ -12160,7 +12160,7 @@ Polar Street X,POL-3024,Polar,Wearable,2026-03,,,
 Suunto Ambit,SUU-3001,Suunto,Wearable,2012-05,,,
 Suunto Ambit2,SUU-3002,Suunto,Wearable,2013-05,,,
 Suunto Ambit2 S,SUU-3002,Suunto,Wearable,2013-05,,,
-Suunto Ambit3 Peak,SUU-3003,Suunto,Wearable,2014-06,,,
+Suunto Ambit3 Peak,SUU-3003,Suunto,Wearable,2014-06,,1.2in,50 x 50 x 18
 Suunto Ambit3 Sport,SUU-3004,Suunto,Wearable,2014-06,,1.2in,50 x 50 x 15.5
 Suunto Ambit3 Run,SUU-3004,Suunto,Wearable,2014-06,,1.2in,50 x 50 x 15.5
 Suunto Spartan Ultra,SUU-3005,Suunto,Wearable,2016-05,,1.2in,50 x 50 x 17
@@ -12199,15 +12199,15 @@ Coros Pace 4,COR-3015,Coros,Wearable,2025-11,,1.2in,43.4 x 43.4 x 11.8
 Coros Pace 4 Pro,COR-3016,Coros,Wearable,2026-09,,1.47in,47.6 x 47.6 x 11.8
 Withings Steel HR,WIT-3001,Withings + Nokia / HMD,Wearable,2016-09,,,
 Nokia Steel HR,WIT-3001,Withings + Nokia / HMD,Wearable,2017-06,,,
-Withings Pulse HR,WIT-3002,Withings,Wearable,2019-01,,,
-Withings ScanWatch 38mm,WIT-3003,Withings,Wearable,2020-10,,,
-Withings ScanWatch 2 38mm,WIT-3003,Withings,Wearable,2020-10,,,
-Withings ScanWatch 42mm,WIT-3004,Withings,Wearable,2020-10,,,
-Withings ScanWatch 2 42mm,WIT-3004,Withings,Wearable,2020-10,,,
-Withings ScanWatch Horizon,WIT-3005,Withings,Wearable,2021-07,,,
-Withings ScanWatch Light,WIT-3006,Withings,Wearable,2023-08,,,
-Withings ScanWatch Nova,WIT-3007,Withings,Wearable,2024-10,,,
-Withings ScanWatch Nova Brilliant,WIT-3008,Withings,Wearable,2025-09,,,
+Withings Pulse HR,WIT-3002,Withings,Wearable,2019-01,,0.75in,44.4 x 18.16 x 10.45
+Withings ScanWatch 38mm,WIT-3003,Withings,Wearable,2020-10,,0.54in,38.4 x 38.4 x 13.2
+Withings ScanWatch 2 38mm,WIT-3003,Withings,Wearable,2020-10,,0.63in,38.4 x 38.4 x 13.4
+Withings ScanWatch 42mm,WIT-3004,Withings,Wearable,2020-10,,0.54in,42 x 42 x 13.7
+Withings ScanWatch 2 42mm,WIT-3004,Withings,Wearable,2020-10,,0.63in,42 x 42 x 12.9
+Withings ScanWatch Horizon,WIT-3005,Withings,Wearable,2021-07,,0.54in,43 x 43 x 13.2
+Withings ScanWatch Light,WIT-3006,Withings,Wearable,2023-08,,0.63in,36.8 x 36.8 x 9.85
+Withings ScanWatch Nova,WIT-3007,Withings,Wearable,2024-10,,0.63in,42 x 42 x 12.8
+Withings ScanWatch Nova Brilliant,WIT-3008,Withings,Wearable,2025-09,,0.63in,39 x 39 x 12.99
 Spacetalk,SPT-3001,Spacetalk,Wearable,2017-05,,,
 Spacetalk Kids,SPT-3002,Spacetalk,Wearable,2019-08,,,
 Spacetalk Adventurer,SPT-3003,Spacetalk,Wearable,2021-03,,,
@@ -12244,8 +12244,8 @@ Kobo Clara Colour,KOB-2024,Kobo,Tablet,2022-09,,6in,160 x 112 x 9.2
 Kobo Elipsa 2E,KOB-2025,Kobo,Tablet,2023-04,,10.3in,227 x 193 x 7.5
 Kobo Libra Colour,KOB-2026,Kobo,Tablet,2024-04,,7in,161 x 144.6 x 8.3
 reMarkable (1st gen),RMK-2001,reMarkable,Tablet,2017-11,,,
-reMarkable 2,RMK-2002,reMarkable,Tablet,2020-03,,,
-reMarkable Paper Pro,RMK-2003,reMarkable,Tablet,2024-09,,,
+reMarkable 2,RMK-2002,reMarkable,Tablet,2020-03,,10.3in,246 x 187 x 4.7
+reMarkable Paper Pro,RMK-2003,reMarkable,Tablet,2024-09,,11.8in,
 reMarkable Paper Pro Move,RMK-2004,reMarkable,Tablet,2025-09,,,
 reMarkable Paper Pure,RMK-2005,reMarkable,Tablet,2026-05,,10.3in,228.1 x 187.1 x 6
 Boox Max2,BOX-2001,Onyx Boox,Tablet,2018-04,,13.3in,325 x 237 x 7.5
@@ -12303,40 +12303,40 @@ Boox Palma 3,BOX-2047,Onyx Boox,Tablet,2026-10,,6.13in,159 x 78 x 7.8
 Boox Picco,BOX-2048,Onyx Boox,Tablet,2026-10,,3.97in,105.5 x 62 x 5.5
 PocketBook 301,PKB-2001,PocketBook,Tablet,2008-10,,,
 PocketBook 360,PKB-2002,PocketBook,Tablet,2009-11,,,
-PocketBook 611 Basic,PKB-2003,PocketBook,Tablet,2011-06,,,
-PocketBook 622 Touch,PKB-2004,PocketBook,Tablet,2012-06,,,
-PocketBook 623 Touch Lux,PKB-2005,PocketBook,Tablet,2013-06,,,
-PocketBook 624 Basic Touch,PKB-2006,PocketBook,Tablet,2013-09,,,
-PocketBook 640 Aqua,PKB-2007,PocketBook,Tablet,2014-06,,,
-PocketBook 626 Touch Lux 2,PKB-2008,PocketBook,Tablet,2014-09,,,
-PocketBook 630 Sense,PKB-2009,PocketBook,Tablet,2015-06,,,
-PocketBook 650 Ultra,PKB-2010,PocketBook,Tablet,2015-09,,,
-PocketBook 840 InkPad,PKB-2011,PocketBook,Tablet,2015-10,,,
-PocketBook 631 Touch HD,PKB-2012,PocketBook,Tablet,2016-06,,,
-PocketBook 626 Plus Touch Lux 3,PKB-2013,PocketBook,Tablet,2016-09,,,
-PocketBook 740 InkPad 3,PKB-2014,PocketBook,Tablet,2017-06,,,
-PocketBook 616 Basic Lux 2,PKB-2015,PocketBook,Tablet,2017-09,,,
-PocketBook 627 Touch Lux 4,PKB-2016,PocketBook,Tablet,2018-06,,,
-PocketBook 628 Touch Lux 5,PKB-2016,PocketBook,Tablet,2018-06,,,
-PocketBook 632 Touch HD 3,PKB-2017,PocketBook,Tablet,2018-09,,,
-PocketBook 740 InkPad 3 Pro,PKB-2018,PocketBook,Tablet,2019-06,,,
-PocketBook 1040 InkPad X,PKB-2019,PocketBook,Tablet,2019-09,,,
-PocketBook 633 Color,PKB-2020,PocketBook,Tablet,2020-06,,,
+PocketBook 611 Basic,PKB-2003,PocketBook,Tablet,2011-06,,6in,176.38 x 122.6 x 9.7
+PocketBook 622 Touch,PKB-2004,PocketBook,Tablet,2012-06,,6in,175 x 114.5 x 9.5
+PocketBook 623 Touch Lux,PKB-2005,PocketBook,Tablet,2013-06,,6in,175 x 114.5 x 9.5
+PocketBook 624 Basic Touch,PKB-2006,PocketBook,Tablet,2013-09,,6in,174.4 x 114.6 x 8.3
+PocketBook 640 Aqua,PKB-2007,PocketBook,Tablet,2014-06,,6in,174.4 x 114.6 x 9
+PocketBook 626 Touch Lux 2,PKB-2008,PocketBook,Tablet,2014-09,,6in,174.4 x 114.6 x 8.3
+PocketBook 630 Sense,PKB-2009,PocketBook,Tablet,2015-06,,6in,151.4 x 110 x 7.5
+PocketBook 650 Ultra,PKB-2010,PocketBook,Tablet,2015-09,,6in,162.7 x 106.7 x 7.9
+PocketBook 840 InkPad,PKB-2011,PocketBook,Tablet,2015-10,,8in,
+PocketBook 631 Touch HD,PKB-2012,PocketBook,Tablet,2016-06,,6in,175 x 113.5 x 9
+PocketBook 626 Plus Touch Lux 3,PKB-2013,PocketBook,Tablet,2016-09,,6in,174.4 x 114.6 x 8.3
+PocketBook 740 InkPad 3,PKB-2014,PocketBook,Tablet,2017-06,,7.8in,195 x 136.5 x 8
+PocketBook 616 Basic Lux 2,PKB-2015,PocketBook,Tablet,2017-09,,6in,161.3 x 108 x 8
+PocketBook 627 Touch Lux 4,PKB-2016,PocketBook,Tablet,2018-06,,6in,161.3 x 108 x 8
+PocketBook 628 Touch Lux 5,PKB-2016,PocketBook,Tablet,2018-06,,6in,161.3 x 108 x 8
+PocketBook 632 Touch HD 3,PKB-2017,PocketBook,Tablet,2018-09,,6in,161.3 x 108 x 8
+PocketBook 740 InkPad 3 Pro,PKB-2018,PocketBook,Tablet,2019-06,,7.8in,195 x 136.5 x 8
+PocketBook 1040 InkPad X,PKB-2019,PocketBook,Tablet,2019-09,,10.3in,249.2 x 173.4 x 7.7
+PocketBook 633 Color,PKB-2020,PocketBook,Tablet,2020-06,,6in,161.3 x 108 x 8
 PocketBook 617 Basic Lux 3,PKB-2021,PocketBook,Tablet,2020-09,,,
-PocketBook 970 InkPad Lite,PKB-2022,PocketBook,Tablet,2021-06,,,
-PocketBook 741 InkPad Color,PKB-2023,PocketBook,Tablet,2021-09,,,
-PocketBook 743 InkPad 4,PKB-2024,PocketBook,Tablet,2022-06,,,
-PocketBook 743C InkPad Color 2,PKB-2024,PocketBook,Tablet,2022-06,,,
-PocketBook 743K3 InkPad Color 3,PKB-2024,PocketBook,Tablet,2022-06,,,
-PocketBook 629 Verse,PKB-2025,PocketBook,Tablet,2022-09,,,
-PocketBook 634 Verse Pro,PKB-2025,PocketBook,Tablet,2022-09,,,
-PocketBook 634K3 Verse Pro Color,PKB-2025,PocketBook,Tablet,2022-09,,,
-PocketBook 700 Era,PKB-2026,PocketBook,Tablet,2022-10,,,
-PocketBook 700K3 Era Color,PKB-2026,PocketBook,Tablet,2022-10,,,
+PocketBook 970 InkPad Lite,PKB-2022,PocketBook,Tablet,2021-06,,9.7in,236.2 x 173 x 7.9
+PocketBook 741 InkPad Color,PKB-2023,PocketBook,Tablet,2021-09,,7.8in,195 x 136.5 x 8
+PocketBook 743 InkPad 4,PKB-2024,PocketBook,Tablet,2022-06,,7.8in,189.5 x 134 x 7.95
+PocketBook 743C InkPad Color 2,PKB-2024,PocketBook,Tablet,2022-06,,7.8in,189.5 x 134 x 7.95
+PocketBook 743K3 InkPad Color 3,PKB-2024,PocketBook,Tablet,2022-06,,7.8in,189 x 134 x 7.9
+PocketBook 629 Verse,PKB-2025,PocketBook,Tablet,2022-09,,6in,156 x 108 x 7.6
+PocketBook 634 Verse Pro,PKB-2025,PocketBook,Tablet,2022-09,,6in,156 x 108 x 7.6
+PocketBook 634K3 Verse Pro Color,PKB-2025,PocketBook,Tablet,2022-09,,6in,156 x 108 x 7.6
+PocketBook 700 Era,PKB-2026,PocketBook,Tablet,2022-10,,7in,155 x 134.3 x 7.8
+PocketBook 700K3 Era Color,PKB-2026,PocketBook,Tablet,2022-10,,7in,155 x 134.3 x 7.8
 PocketBook 618 Basic Lux 4,PKB-2027,PocketBook,Tablet,2023-06,,6in,161.3 x 108 x 8
-PocketBook InkPad Eo,PKB-2028,PocketBook,Tablet,2024-06,,,
+PocketBook InkPad Eo,PKB-2028,PocketBook,Tablet,2024-06,,10.3in,226 x 191 x 7
 PocketBook Verse Lite,PKB-2029,PocketBook,Tablet,2025-04,,,
 PocketBook InkPad One,PKB-2030,PocketBook,Tablet,2026-02,,,
-PocketBook Era Lite,PKB-2031,PocketBook,Tablet,2026-06,,,
+PocketBook Era Lite,PKB-2031,PocketBook,Tablet,2026-06,,7in,155 x 134.3 x 7.8
 PocketBook InkPad Eo 2,PKB-2032,PocketBook,Tablet,2026-09,,,
-PocketBook Verta,PKB-2033,PocketBook,Tablet,2026-11,,,
+PocketBook Verta,PKB-2033,PocketBook,Tablet,2026-11,,6in,154 x 111 x 7

@@ -203,6 +203,16 @@
   "dims": "311 x 217.1 x 6.2 mm",
   "source": "https://news.acer.com/new-acer-tablets-plus-ai-and-ar-glasses-expand-on-the-go-capabilities"
  },
+ "Acer Nitro Blaze 11": {
+  "screen": "10.95in",
+  "dims": "364 x 171 x 15.9 mm",
+  "source": "https://news.acer.com/acer-expands-handheld-gaming-portfolio-with-new-nitro-blaze-8-and-nitro-blaze-11"
+ },
+ "Acer Nitro Blaze 8": {
+  "screen": "8.8in",
+  "dims": "305 x 134 x 22 mm",
+  "source": "https://news.acer.com/acer-expands-handheld-gaming-portfolio-with-new-nitro-blaze-8-and-nitro-blaze-11"
+ },
  "Amazfit Active": {
   "screen": "1.75in",
   "dims": "42.36 x 35.9 x 10.75 mm",
@@ -358,6 +368,14 @@
   "dims": "44.0 x 38.7 x 9.9 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/amazfit-cheetah-square/"
  },
+ "Amazfit Cor": {
+  "screen": "1.23in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/amazfit-cor/"
+ },
+ "Amazfit Cor 2": {
+  "screen": "1.23in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/amazfit-cor-2/"
+ },
  "Amazfit Falcon": {
   "screen": "1.28in",
   "dims": "49.45 x 47.2 x 12.95 mm",
@@ -507,10 +525,243 @@
   "dims": "43 x 43 x 12.6 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/amazfit-verge-lite/"
  },
+ "Amazfit X": {
+  "screen": "2.07in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/amazfit-x/"
+ },
  "Analogue Pocket": {
   "screen": "3.5in",
   "dims": "149 x 86 x 22 mm",
   "source": "https://en.wikipedia.org/wiki/Analogue_Pocket"
+ },
+ "Anbernic RG ARC-D": {
+  "screen": "4in",
+  "dims": "191 x 80 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-arc-d"
+ },
+ "Anbernic RG ARC-S": {
+  "screen": "4in",
+  "dims": "191 x 80 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-arc-s"
+ },
+ "Anbernic RG Cube": {
+  "screen": "3.95in",
+  "dims": "153 x 86.3 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-cube"
+ },
+ "Anbernic RG CubeXX": {
+  "screen": "3.95in",
+  "dims": "157.2 x 89.6 x 17.9 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-cube-xx"
+ },
+ "Anbernic RG DDS": {
+  "dims": "166 x 93 x 26 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-dds"
+ },
+ "Anbernic RG DS": {
+  "screen": "4in",
+  "dims": "160 x 91 x 21.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-ds"
+ },
+ "Anbernic RG DS Plus": {
+  "screen": "4.3in",
+  "dims": "166.5 x 95.5 x 23.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-ds-plus"
+ },
+ "Anbernic RG Nano": {
+  "screen": "1.54in",
+  "dims": "71 x 43 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-nano"
+ },
+ "Anbernic RG Rotate": {
+  "screen": "3.5in",
+  "dims": "130 x 80 x 21 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-rotate"
+ },
+ "Anbernic RG SP": {
+  "screen": "3.4in",
+  "dims": "83 x 82 x 24 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-sp"
+ },
+ "Anbernic RG Slide": {
+  "screen": "4.7in",
+  "dims": "154 x 90 x 26 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-slide"
+ },
+ "Anbernic RG Vita": {
+  "screen": "5.46in",
+  "dims": "206 x 84 x 18.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-vita"
+ },
+ "Anbernic RG Vita Pro": {
+  "screen": "5.5in",
+  "dims": "206 x 84 x 18.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/anbernic-rg-vita-pro"
+ },
+ "Anbernic RG280V": {
+  "screen": "2.8in",
+  "dims": "89 x 78 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-280v"
+ },
+ "Anbernic RG28XX": {
+  "screen": "2.83in",
+  "dims": "125 x 56.5 x 16.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-28xx"
+ },
+ "Anbernic RG34XX": {
+  "screen": "3.4in",
+  "dims": "144.6 x 81.8 x 24.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-34xx"
+ },
+ "Anbernic RG34XXSP": {
+  "screen": "3.4in",
+  "dims": "83 x 82 x 25 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-34xxsp"
+ },
+ "Anbernic RG351M": {
+  "screen": "3.5in",
+  "dims": "151.5 x 70 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-351m"
+ },
+ "Anbernic RG351MP": {
+  "screen": "3.5in",
+  "dims": "145 x 73 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-351mp"
+ },
+ "Anbernic RG351P": {
+  "screen": "3.5in",
+  "dims": "151.5 x 70 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-351p"
+ },
+ "Anbernic RG351V": {
+  "screen": "3.5in",
+  "dims": "140 x 94 x 26.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-351v"
+ },
+ "Anbernic RG353M": {
+  "screen": "3.5in",
+  "dims": "145 x 70.5 x 15.9 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-353m"
+ },
+ "Anbernic RG353P": {
+  "screen": "3.5in",
+  "dims": "190 x 84 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-353p"
+ },
+ "Anbernic RG353PS": {
+  "screen": "3.5in",
+  "dims": "190 x 84 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-353ps"
+ },
+ "Anbernic RG353V": {
+  "screen": "3.5in",
+  "dims": "126 x 83 x 21 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-353v"
+ },
+ "Anbernic RG353VS": {
+  "screen": "3.5in",
+  "dims": "126 x 83 x 21 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-353vs"
+ },
+ "Anbernic RG35XX": {
+  "screen": "3.5in",
+  "dims": "117 x 81 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-35xx"
+ },
+ "Anbernic RG35XX H": {
+  "screen": "3.5in",
+  "dims": "145 x 69 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-35xx-h"
+ },
+ "Anbernic RG35XX Plus": {
+  "screen": "3.5in",
+  "dims": "117 x 81 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-35xx-plus"
+ },
+ "Anbernic RG35XX Pro": {
+  "screen": "3.5in",
+  "dims": "128 x 81 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-35xx-pro"
+ },
+ "Anbernic RG35XXSP": {
+  "screen": "3.5in",
+  "dims": "89 x 85 x 27.3 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-35xx-sp"
+ },
+ "Anbernic RG405M": {
+  "screen": "4in",
+  "dims": "162 x 73.6 x 15.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-405m"
+ },
+ "Anbernic RG405V": {
+  "screen": "4in",
+  "dims": "145 x 105 x 35 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-405v"
+ },
+ "Anbernic RG406H": {
+  "screen": "4in",
+  "dims": "174 x 81 x 17.9 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-406h"
+ },
+ "Anbernic RG406V": {
+  "screen": "4in",
+  "dims": "145 x 105 x 29 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-406v"
+ },
+ "Anbernic RG40XX H": {
+  "screen": "4in",
+  "dims": "163 x 79 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-40xxh"
+ },
+ "Anbernic RG40XX V": {
+  "screen": "4in",
+  "dims": "139 x 92 x 13 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-40xxv"
+ },
+ "Anbernic RG476H": {
+  "screen": "4.7in",
+  "dims": "176 x 86 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-476h"
+ },
+ "Anbernic RG477M": {
+  "screen": "4.7in",
+  "dims": "176 x 89.4 x 15.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-477m"
+ },
+ "Anbernic RG477V": {
+  "screen": "4.7in",
+  "dims": "153 x 105.7 x 23 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-477v"
+ },
+ "Anbernic RG503": {
+  "screen": "4.95in",
+  "dims": "190 x 84 x 21 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-503"
+ },
+ "Anbernic RG505": {
+  "screen": "4.95in",
+  "dims": "189 x 87 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-505"
+ },
+ "Anbernic RG552": {
+  "screen": "5.36in",
+  "dims": "198.1 x 85.6 x 20 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-552"
+ },
+ "Anbernic RG556": {
+  "screen": "5.48in",
+  "dims": "223 x 90 x 15 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-556"
+ },
+ "Anbernic RG557": {
+  "screen": "5.48in",
+  "dims": "223 x 89 x 15 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/rg-557"
+ },
+ "Anbernic WIN600": {
+  "screen": "5.94in",
+  "dims": "236 x 103 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/win600"
  },
  "Apple Watch SE (1st gen) 40mm": {
   "dims": "40 x 34 x 10.7 mm",
@@ -1042,6 +1293,10 @@
   "dims": "50.3 x 50.3 x 16.3 mm",
   "source": "https://the5krunner.com/specs/coros/vertix-2s/"
  },
+ "Diesel On Axial": {
+  "screen": "1.28in",
+  "source": "https://duelvs.com/smartwatch/diesel-on-axial"
+ },
  "Evercade (original handheld)": {
   "screen": "4.3in",
   "source": "https://en.wikipedia.org/wiki/Evercade"
@@ -1050,13 +1305,35 @@
   "screen": "4.3in",
   "source": "https://en.wikipedia.org/wiki/Evercade"
  },
+ "Evercade EXP-R": {
+  "screen": "4.3in",
+  "dims": "192.7 x 78.5 x 20.7 mm",
+  "source": "https://evercade.info/evercade-exp-r/"
+ },
+ "Evercade Nexus": {
+  "screen": "5.89in",
+  "dims": "215 x 111 x 34 mm",
+  "source": "https://evercade.info/evercade-nexus/"
+ },
+ "Evercade Nexus 64 Edition": {
+  "screen": "5.89in",
+  "dims": "215 x 111 x 34 mm",
+  "source": "https://evercade.info/evercade-nexus/"
+ },
+ "Evercade Super Pocket": {
+  "screen": "2.8in",
+  "dims": "125 x 78 x 25 mm",
+  "source": "https://evercade.info/evercade-super-pocket/"
+ },
  "Fairphone 1": {
   "screen": "4.3in",
-  "source": "https://en.wikipedia.org/wiki/Fairphone_1"
+  "source": "https://handwiki.org/wiki/Engineering:Fairphone_1",
+  "dims": "126 x 63.5 x 10 mm"
  },
  "Fairphone 2": {
   "screen": "5in",
-  "source": "https://en.wikipedia.org/wiki/Fairphone_2"
+  "source": "https://en.wikipedia.org/wiki/Fairphone_2",
+  "dims": "143 x 73 x 11 mm"
  },
  "Fitbit Ace 3": {
   "screen": "0.72in",
@@ -1069,11 +1346,13 @@
  },
  "Fitbit Charge 3": {
   "dims": "35.8 x 22.7 x 11.8 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-3/"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/fitbit-charge-3/",
+  "screen": "1.57in"
  },
  "Fitbit Charge 4": {
   "dims": "42.7 x 28.8 x 12.5 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/fitbit-charge-4/"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/fitbit-charge-4/",
+  "screen": "1.57in"
  },
  "Fitbit Charge 5": {
   "screen": "1.04in",
@@ -1117,6 +1396,11 @@
   "dims": "40.48 x 40.48 x 12.35 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/fitbit-sense/"
  },
+ "Fitbit Sense 2": {
+  "screen": "1.58in",
+  "dims": "40.5 x 40.5 x 11.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/fitbit-sense-2/"
+ },
  "Fitbit Versa": {
   "screen": "1.34in",
   "dims": "39.36 x 37.65 x 11.2 mm",
@@ -1141,6 +1425,60 @@
   "screen": "1.34in",
   "dims": "39.36 x 37.65 x 11.2 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/fitbit-versa-lite/"
+ },
+ "Fossil Gen 4 Q Explorist HR": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 13 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-4-explorist"
+ },
+ "Fossil Gen 4 Q Venture HR": {
+  "screen": "1.2in",
+  "dims": "40 x 40 x 12 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-4-venture"
+ },
+ "Fossil Gen 5 Garrett": {
+  "screen": "1.28in",
+  "dims": "44 x 44 x 12 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-5-garrett"
+ },
+ "Fossil Gen 5 Julianna": {
+  "screen": "1.28in",
+  "source": "https://www.alphachooser.com/smart_watches--fossil_gen_5_julianna--smartwatch-specs-and-profile"
+ },
+ "Fossil Q Explorist": {
+  "screen": "1.44in",
+  "dims": "46 x 46 x 12.5 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-3-explorist"
+ },
+ "Fossil Q Founder": {
+  "screen": "1.5in",
+  "dims": "47 x 47 x 13 mm",
+  "source": "https://www.alphachooser.com/smart_watches--fossil_q_founder--smartwatch-specs-and-profile"
+ },
+ "Fossil Q Venture": {
+  "screen": "1.2in",
+  "dims": "42 x 42 x 11.5 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-3-venture"
+ },
+ "Fossil Sport 41mm": {
+  "screen": "1.2in",
+  "dims": "41 x 41 x 12 mm",
+  "source": "https://www.devicesfaq.com/en/characteristics/fossil-gen-4-sport"
+ },
+ "GKD Mini Plus": {
+  "screen": "3.5in",
+  "dims": "111 x 86 x 19 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/gkd-mini-plus"
+ },
+ "GKD Pixel": {
+  "screen": "2.31in",
+  "dims": "80 x 56 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/gkd-pixel"
+ },
+ "GKD Pixel 2": {
+  "screen": "2.4in",
+  "dims": "81 x 63 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/gkd-pixel-2"
  },
  "GPD Win": {
   "screen": "5.5in",
@@ -1247,15 +1585,59 @@
   "dims": "233 x 83 x 18 mm",
   "source": "https://liliputing.com/gpd-xp-plus-is-a-modular-handheld-game-console-with-mediatek-dimensity-1200-wifi-6-and-android/"
  },
+ "Galaxy A07s": {
+  "screen": "6.7in",
+  "dims": "167.4 x 77.4 x 7.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-a07s"
+ },
+ "Galaxy A08": {
+  "screen": "6.7in",
+  "dims": "167.4 x 77.4 x 8 mm",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-a08"
+ },
+ "Galaxy A18": {
+  "screen": "6.7in",
+  "dims": "164.4 x 77.9 x 7.7 mm",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-a18"
+ },
+ "Galaxy F08": {
+  "screen": "6.7in",
+  "dims": "167.4 x 77.4 x 8 mm",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-f08"
+ },
+ "Galaxy F70 Pro": {
+  "screen": "6.7in",
+  "dims": "162.4 x 78.2 x 8.1 mm",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-f70-pro"
+ },
+ "Galaxy Fit": {
+  "screen": "0.95in",
+  "dims": "45.1 x 18.3 x 11.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/samsung-galaxy-fit/"
+ },
  "Galaxy Fit e": {
   "screen": "0.95in",
   "dims": "44.6 x 18.3 x 11.2 mm",
   "source": "https://en.wikipedia.org/wiki/Samsung_Galaxy_Fit_series"
  },
+ "Galaxy Fit2": {
+  "screen": "1.1in",
+  "dims": "46.6 x 18.6 x 11.1 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/samsung-galaxy-fit-2/"
+ },
+ "Galaxy Fit3": {
+  "screen": "1.6in",
+  "dims": "42.9 x 28.8 x 9.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/samsung-galaxy-fit3/"
+ },
  "Galaxy Nexus": {
   "screen": "4.65in",
   "dims": "135.5 x 67.9 x 8.9 mm",
   "source": "https://www.gsmarena.com/samsung_galaxy_nexus_i9250-4219.php"
+ },
+ "Galaxy S26 FE": {
+  "screen": "6.7in",
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-s26-fe"
  },
  "Galaxy Watch 42mm": {
   "screen": "1.2in",
@@ -1387,6 +1769,41 @@
   "dims": "46.4 x 46.0 x 10.6 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-8-classic/"
  },
+ "Galaxy Watch9 40mm": {
+  "screen": "1.34in",
+  "dims": "42.7 x 40.4 x 8.6 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-9/"
+ },
+ "Galaxy Watch9 44mm": {
+  "screen": "1.47in",
+  "dims": "46.0 x 43.7 x 8.6 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/samsung-galaxy-watch-9/"
+ },
+ "Galaxy Z Flip7": {
+  "screen": "4.1in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-flip7"
+ },
+ "Galaxy Z Flip7 FE": {
+  "screen": "3.4in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-flip7-fe"
+ },
+ "Galaxy Z Flip8": {
+  "screen": "4.1in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-flip8"
+ },
+ "Galaxy Z Fold7": {
+  "screen": "6.5in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-fold7"
+ },
+ "Galaxy Z Fold8 Ultra": {
+  "screen": "6.5in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/samsung-galaxy-z-fold8-ultra"
+ },
  "Game & Watch: Super Mario Bros.": {
   "screen": "2.36in",
   "dims": "112 x 67 x 12.5 mm",
@@ -1435,9 +1852,17 @@
   "dims": "43.7 x 43.7 x 11.5 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s12/"
  },
+ "Garmin Approach S2": {
+  "screen": "1in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-approach-s2/"
+ },
  "Garmin Approach S20": {
   "dims": "37.4 x 47.6 x 11.3 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s20/"
+ },
+ "Garmin Approach S3": {
+  "screen": "1in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-approach-s3/"
  },
  "Garmin Approach S4": {
   "screen": "1in",
@@ -1458,6 +1883,11 @@
   "screen": "1.2in",
   "dims": "43 x 43 x 11.4 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-approach-s44/"
+ },
+ "Garmin Approach S50": {
+  "screen": "1.2in",
+  "dims": "43 x 43 x 11.4 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-approach-s50/"
  },
  "Garmin Approach S6": {
   "screen": "1in",
@@ -1645,6 +2075,10 @@
   "dims": "45 x 45 x 12 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-220/"
  },
+ "Garmin Forerunner 225": {
+  "screen": "1in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-forerunner-225/"
+ },
  "Garmin Forerunner 230": {
   "dims": "45 x 45 x 11.8 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-230/",
@@ -1699,6 +2133,21 @@
   "dims": "41.7 x 41.7 x 12.9 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-265s/"
  },
+ "Garmin Forerunner 30": {
+  "screen": "0.93in",
+  "dims": "35.5 x 40.7 x 13.3 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-forerunner-30/"
+ },
+ "Garmin Forerunner 310XT": {
+  "screen": "1.52in",
+  "dims": "54 x 56 x 19 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-forerunner-310xt/"
+ },
+ "Garmin Forerunner 35": {
+  "screen": "0.93in",
+  "dims": "35.5 x 40.7 x 13.3 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-forerunner-35/"
+ },
  "Garmin Forerunner 45": {
   "screen": "1.04in",
   "dims": "42 x 42 x 11.4 mm",
@@ -1725,7 +2174,8 @@
  },
  "Garmin Forerunner 610": {
   "dims": "46 x 46 x 14 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-610/"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-forerunner-610/",
+  "screen": "1in"
  },
  "Garmin Forerunner 620": {
   "screen": "1in",
@@ -1806,11 +2256,15 @@
  },
  "Garmin Instinct": {
   "dims": "45 x 45 x 15.3 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct/"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-instinct/",
+  "screen": "1.27in",
+  "side": true
  },
  "Garmin Instinct 2": {
   "dims": "45 x 45 x 14.5 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/garmin-instinct-2/"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/garmin-instinct-2/",
+  "screen": "1.27in",
+  "side": true
  },
  "Garmin Instinct 2 Solar": {
   "dims": "45 x 45 x 14.5 mm",
@@ -2560,6 +3014,36 @@
   "dims": "57.4 x 23.4 x 11.95 mm",
   "source": "https://en.wikipedia.org/wiki/Samsung_Gear_Fit"
  },
+ "Honor Band 10": {
+  "screen": "1.57in",
+  "dims": "43.2 x 28.2 x 8.99 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-10/"
+ },
+ "Honor Band 4": {
+  "screen": "0.95in",
+  "dims": "43 x 17.2 x 11.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-4/"
+ },
+ "Honor Band 5": {
+  "screen": "0.95in",
+  "dims": "43 x 17.2 x 11.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-5/"
+ },
+ "Honor Band 6": {
+  "screen": "1.47in",
+  "dims": "43 x 25.4 x 11.45 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-6/"
+ },
+ "Honor Band 7": {
+  "screen": "1.47in",
+  "dims": "43 x 25.4 x 10.99 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-7/"
+ },
+ "Honor Band 9": {
+  "screen": "1.57in",
+  "dims": "43 x 27.88 x 9.49 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/honor-band-9/"
+ },
  "Honor Magic V Flip": {
   "screen": "4in",
   "cover": true,
@@ -2590,6 +3074,16 @@
   "cover": true,
   "source": "https://m.gsmarena.com/honor_magic_vs3-13203.php"
  },
+ "Honor Magic9": {
+  "screen": "6.37in",
+  "dims": "151 x 72.28 x 8.49 mm",
+  "source": "https://gadgets.beebom.com/mobile/honor-magic-9"
+ },
+ "Honor Magic9 Pro Max": {
+  "screen": "6.8in",
+  "dims": "161.64 x 76.98 x 8.59 mm",
+  "source": "https://gadgets.beebom.com/mobile/honor-magic-9-pro-max"
+ },
  "Honor MagicWatch 2 42mm": {
   "screen": "1.2in",
   "source": "https://gadgetsandwearables.com/technical-specs/honor-magicwatch-2/"
@@ -2597,6 +3091,11 @@
  "Honor MagicWatch 2 46mm": {
   "screen": "1.39in",
   "source": "https://gadgetsandwearables.com/technical-specs/honor-magicwatch-2-46mm/"
+ },
+ "Honor X9e Pro": {
+  "screen": "6.8in",
+  "dims": "162.2 x 77 x 8.08 mm",
+  "source": "https://gadgets.beebom.com/mobile/honor-x9e-pro"
  },
  "Huawei Band 10": {
   "screen": "1.47in",
@@ -2653,10 +3152,25 @@
   "dims": "43.45 x 24.86 x 8.99 mm",
   "source": "https://consumer.huawei.com/ie/wearables/band9/specs"
  },
+ "Huawei Mate X3": {
+  "screen": "6.4in",
+  "cover": true,
+  "source": "https://en.wikipedia.org/wiki/Huawei_Mate_X3"
+ },
+ "Huawei Mate X5": {
+  "screen": "6.4in",
+  "cover": true,
+  "source": "https://en.wikipedia.org/wiki/Huawei_Mate_X5"
+ },
  "Huawei TalkBand B3": {
   "screen": "0.7in",
   "dims": "43.08 x 18.44 x 10.53 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/huawei-talkband-b3/"
+ },
+ "Huawei Watch 5 (42mm)": {
+  "screen": "1.38in",
+  "dims": "42 x 42.5 x 10.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/huawei-watch-5/"
  },
  "Huawei Watch 6 42mm": {
   "screen": "1.38in",
@@ -2778,9 +3292,40 @@
   "dims": "45.6 x 45.6 x 11.25 mm",
   "source": "https://consumer.huawei.com/en/wearables/watch-gt7-pro/specs/"
  },
+ "Huawei nova Flip": {
+  "screen": "2.14in",
+  "cover": true,
+  "source": "https://www.mobiledokan.com/mobile/huawei-nova-flip"
+ },
+ "KONKR FIT": {
+  "screen": "7in",
+  "dims": "270.8 x 100.4 x 25.1 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/konkr-fit"
+ },
+ "KONKR Pocket Advance": {
+  "screen": "3.5in",
+  "dims": "151.3 x 82.4 x 22 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/konkr-pocket-advance"
+ },
+ "KONKR Pocket Block": {
+  "screen": "3.33in",
+  "dims": "113.2 x 77.4 x 19.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/konkr-pocket-block"
+ },
+ "KONKR Pocket FIT": {
+  "screen": "6in",
+  "dims": "225 x 96.7 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/konkr-pocket-fit"
+ },
+ "KONKR Pocket FIT Elite": {
+  "screen": "6in",
+  "dims": "225 x 96.7 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/konkr-pocket-fit-elite"
+ },
  "Kindle (10th gen)": {
   "screen": "6in",
-  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "160 x 110 x 8.6 mm"
  },
  "Kindle (11th gen)": {
   "screen": "6in",
@@ -2799,11 +3344,13 @@
  },
  "Kindle (2026)": {
   "screen": "6in",
-  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "152.8 x 108.0 x 6.85 mm"
  },
  "Kindle (7th gen)": {
   "screen": "6in",
-  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "170 x 120 x 10 mm"
  },
  "Kindle (8th gen)": {
   "screen": "6in",
@@ -2869,11 +3416,13 @@
  },
  "Kindle Kids (2026)": {
   "screen": "6in",
-  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "152.8 x 108.0 x 6.85 mm"
  },
  "Kindle Kids Edition (10th gen)": {
   "screen": "6in",
-  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "160 x 110 x 8.6 mm"
  },
  "Kindle Oasis (1st gen)": {
   "screen": "6in",
@@ -2902,7 +3451,8 @@
  },
  "Kindle Paperwhite (2026)": {
   "screen": "7in",
-  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "174.7 x 126.8 x 6.8 mm"
  },
  "Kindle Paperwhite (2nd gen)": {
   "screen": "6in",
@@ -2931,7 +3481,8 @@
  },
  "Kindle Paperwhite Kids (2026)": {
   "screen": "7in",
-  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "174.7 x 126.8 x 6.8 mm"
  },
  "Kindle Paperwhite Kids (5th gen)": {
   "screen": "6.8in",
@@ -2945,7 +3496,8 @@
  },
  "Kindle Paperwhite Signature Edition (2026)": {
   "screen": "7in",
-  "source": "https://www.techrepublic.com/article/news-kindle-paperwhite-colorsoft-comparison/"
+  "source": "https://en.wikipedia.org/wiki/Amazon_Kindle",
+  "dims": "174.7 x 126.8 x 6.8 mm"
  },
  "Kindle Paperwhite Signature Edition (5th gen)": {
   "screen": "6.8in",
@@ -3120,13 +3672,107 @@
   "dims": "184 x 120 x 10 mm",
   "source": "https://en.wikipedia.org/wiki/Kobo_eReader"
  },
+ "Kogan Agora 6": {
+  "screen": "5in",
+  "dims": "142 x 70 x 8 mm",
+  "source": "https://trak.in/stories/smartphone/kogan-agora-6-4g"
+ },
+ "Lava Aura Curve": {
+  "screen": "6.67in",
+  "dims": "162.26 x 73.51 x 8.55 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-aura-curve"
+ },
+ "Lava Bold 2": {
+  "screen": "6.67in",
+  "dims": "163.2 x 76.05 x 7.55 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-bold-2"
+ },
+ "Lava Bold N2": {
+  "screen": "6.75in",
+  "dims": "165 x 76.1 x 8.5 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-bold-n2"
+ },
+ "Lava Bold N2 Lite": {
+  "dims": "164.96 x 76.1 x 8.8 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-bold-n2-lite"
+ },
+ "Lava Bold N2 Pro": {
+  "dims": "165 x 76.1 x 8.8 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-bold-n2-pro"
+ },
+ "Lava Bold N4 Pro": {
+  "screen": "6.75in",
+  "dims": "168.29 x 77.64 x 8.68 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-bold-n4-pro"
+ },
+ "Lava Play Max": {
+  "dims": "166.6 x 77.4 x 8.4 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-play-max"
+ },
  "Lava Shark": {
   "dims": "165.8 x 77.2 x 8.5 mm",
   "source": "https://www.gsmarena.com/lava_shark-13758.php"
  },
+ "Lava Yuva Star 2": {
+  "dims": "164.96 x 76.1 x 8.8 mm",
+  "source": "https://gadgets.beebom.com/mobile/lava-yuva-star-2"
+ },
  "Legion Go": {
   "screen": "8.8in",
-  "source": "https://en.wikipedia.org/wiki/Lenovo_Legion_Go"
+  "source": "https://en.wikipedia.org/wiki/Lenovo_Legion_Go",
+  "dims": "298.83 x 131 x 40.7 mm"
+ },
+ "Legion Go 2": {
+  "screen": "8.8in",
+  "dims": "295.6 x 136.7 x 42.25 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8AHP2/Legion_Go_8AHP2_Spec.PDF"
+ },
+ "Legion Go 2 (SteamOS)": {
+  "screen": "8.8in",
+  "dims": "295.6 x 136.7 x 42.25 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_8AHP2/Legion_Go_8AHP2_Spec.PDF"
+ },
+ "Legion Go S": {
+  "screen": "8in",
+  "dims": "298.5 x 127.55 x 22.6 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_S_8ARP1/Legion_Go_S_8ARP1_Spec.PDF"
+ },
+ "Legion Go S (SteamOS)": {
+  "screen": "8in",
+  "dims": "298.5 x 127.55 x 22.6 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Legion/Legion_Go_S_8ARP1/Legion_Go_S_8ARP1_Spec.PDF"
+ },
+ "Lenovo Idea Tab 11": {
+  "screen": "11in",
+  "dims": "254.59 x 166.15 x 6.99 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Idea_Tab/Idea_Tab_Spec.pdf"
+ },
+ "Lenovo Tab K11": {
+  "screen": "11in",
+  "dims": "255.26 x 166.31 x 7.15 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Tab_K11/Tab_K11_Spec.PDF"
+ },
+ "Lenovo Yoga Smart Tab": {
+  "dims": "242 x 166 x 5.5 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Smart_Tab/Yoga_Smart_Tab_Spec.PDF"
+ },
+ "Lenovo Yoga Tab 11": {
+  "dims": "256.8 x 169.0 x 7.9 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_11/Yoga_Tab_11_Spec.PDF"
+ },
+ "Lenovo Yoga Tab 13": {
+  "dims": "293.35 x 203.98 x 6.2 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_13/Yoga_Tab_13_Spec.PDF"
+ },
+ "Lenovo Yoga Tab Gen 2": {
+  "screen": "11.1in",
+  "dims": "250.6 x 172.98 x 6.2 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Gen_2/Yoga_Tab_Gen_2_Spec.PDF"
+ },
+ "Lenovo Yoga Tab Plus Gen 2": {
+  "screen": "13in",
+  "dims": "291.78 x 200.35 x 6.09 mm",
+  "source": "https://psref.lenovo.com/syspool/Sys/PDF/Lenovo_Tablets/Yoga_Tab_Plus_Gen_2/Yoga_Tab_Plus_Gen_2_Spec.PDF"
  },
  "Logitech G Cloud": {
   "screen": "7in",
@@ -3151,10 +3797,53 @@
   "dims": "299.5 x 126.2 x 24 mm",
   "source": "https://www.msi.com/Handheld/Claw-A8-BZ2EMX/Specification"
  },
+ "MagicX Zero 40": {
+  "screen": "4in",
+  "dims": "136 x 105 x 17 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/zero-40"
+ },
  "Mangmi Air X": {
   "screen": "5.5in",
   "dims": "203.47 x 87.39 x 16.8 mm",
   "source": "https://www.notebookcheck.net/Mangmi-Air-X-budget-handheld-launched-at-79-with-Snapdragon-662-Hall-effect-controls-and-5-000-mAh-battery.1092938.0.html"
+ },
+ "Mangmi Pocket Max": {
+  "screen": "7in",
+  "dims": "254.87 x 101.06 x 17.45 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/mangmi-pocket-max"
+ },
+ "Micromax Canvas Fire 4G Q411": {
+  "dims": "140.5 x 69.8 x 9.3 mm",
+  "source": "https://www.cashify.in/micromax-canvas-fire-4g-price-in-india"
+ },
+ "Micromax Canvas Play Q355": {
+  "dims": "155 x 79 x 9.9 mm",
+  "source": "https://www.cashify.in/micromax-canvas-play-price-in-india"
+ },
+ "Miyoo A30": {
+  "screen": "2.8in",
+  "dims": "127.5 x 57 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/miyoo-a30"
+ },
+ "Miyoo Flip": {
+  "screen": "3.5in",
+  "dims": "84.02 x 80.35 x 24.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/miyoo-flip"
+ },
+ "Miyoo Mini (v1-v3)": {
+  "screen": "2.8in",
+  "dims": "93.5 x 65 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/miyoo-mini"
+ },
+ "Miyoo Mini Flip": {
+  "screen": "2.8in",
+  "dims": "67.8 x 66.5 x 24.3 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/miyoo-mini-flip"
+ },
+ "Miyoo Mini Plus": {
+  "screen": "3.5in",
+  "dims": "108 x 78.5 x 22.3 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/miyoo-mini-plus"
  },
  "ModRetro Chromatic": {
   "screen": "2.56in",
@@ -3166,6 +3855,14 @@
   "dims": "42.8 x 42.8 x 11.68 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/moto-360-3rd-gen/"
  },
+ "Moto E5 Play Go": {
+  "dims": "151 x 74 x 8.85 mm",
+  "source": "https://www.notebookcheck.net/Motorola-Moto-E5-Play-Go.330434.0.html"
+ },
+ "Moto G57": {
+  "dims": "166 x 76.5 x 8.6 mm",
+  "source": "https://www.newmobile.com/global/phones/motorola/moto-g57-5g/specifications"
+ },
  "Moto G96": {
   "screen": "6.67in",
   "dims": "161.9 x 73.3 x 7.9 mm",
@@ -3175,6 +3872,11 @@
   "screen": "1.5in",
   "dims": "46.3 x 46.3 x 12.1 mm",
   "source": "https://www.phonearena.com/phones/Motorola-Watch-Ultra_id13102"
+ },
+ "Motorola Edge 70 Neo": {
+  "screen": "6.8in",
+  "dims": "162.7 x 75.7 x 8.49 mm",
+  "source": "https://www.mobiledokan.com/mobile/motorola-edge-70-neo"
  },
  "Motorola Edge 70 Plus": {
   "screen": "6.78in",
@@ -3211,6 +3913,23 @@
   "cover": true,
   "source": "https://m.gsmarena.com/motorola_razr_fold_5g-14402.php"
  },
+ "Motorola Signature 27": {
+  "screen": "6.78in",
+  "dims": "162.01 x 77.04 x 7.99 mm",
+  "source": "https://www.mobiledokan.com/mobile/motorola-signature-27"
+ },
+ "NEC PC Engine GT": {
+  "screen": "2.6in",
+  "source": "https://en.wikipedia.org/wiki/TurboExpress"
+ },
+ "NEC TurboExpress": {
+  "screen": "2.6in",
+  "source": "https://en.wikipedia.org/wiki/TurboExpress"
+ },
+ "NVIDIA Shield Portable": {
+  "screen": "5in",
+  "source": "https://en.wikipedia.org/wiki/Nvidia_Shield_Portable"
+ },
  "NVIDIA Shield Tablet": {
   "screen": "8in",
   "dims": "221 x 126 x 9.2 mm",
@@ -3225,6 +3944,11 @@
   "screen": "8in",
   "dims": "221 x 126 x 9.2 mm",
   "source": "https://en.wikipedia.org/wiki/Nvidia_Shield_Tablet"
+ },
+ "NVIDIA Tegra Note 7": {
+  "screen": "7in",
+  "dims": "199 x 119 x 9.4 mm",
+  "source": "https://en.wikipedia.org/wiki/Nvidia_Tegra_Note_7"
  },
  "New Nintendo 2DS XL": {
   "screen": "4.88in",
@@ -3298,7 +4022,8 @@
  },
  "Nintendo DSi": {
   "dims": "136.9 x 74.9 x 18.8 mm",
-  "source": "https://en.wikipedia.org/wiki/Nintendo_DS_family"
+  "source": "https://en.wikipedia.org/wiki/Nintendo_DSi",
+  "screen": "3.25in"
  },
  "Nintendo DSi XL": {
   "screen": "4.2in",
@@ -3323,10 +4048,148 @@
   "screen": "7in",
   "source": "https://en.wikipedia.org/wiki/Nintendo_Switch_Lite"
  },
+ "OnePlus 16": {
+  "screen": "6.78in",
+  "dims": "161.42 x 76.67 x 8.55 mm",
+  "source": "https://www.mobiledokan.com/mobile/oneplus-16"
+ },
+ "OnePlus Ace 7": {
+  "screen": "6.78in",
+  "dims": "162.3 x 77.37 x 8.5 mm",
+  "source": "https://www.mobiledokan.com/mobile/oneplus-ace-7"
+ },
+ "OnePlus Band": {
+  "screen": "1.1in",
+  "dims": "40.4 x 17.6 x 11.95 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/oneplus-band/"
+ },
+ "OnePlus N6x": {
+  "screen": "6.8in",
+  "dims": "166.4 x 78.13 x 8.65 mm",
+  "source": "https://www.mobiledokan.com/mobile/oneplus-n6x"
+ },
+ "OnePlus Turbo 6Vs": {
+  "screen": "6.78in",
+  "dims": "162.46 x 77.45 x 8.5 mm",
+  "source": "https://www.mobiledokan.com/mobile/oneplus-turbo-6vs"
+ },
+ "OneXFly": {
+  "screen": "7in",
+  "dims": "263.6 x 98.25 x 22.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexfly"
+ },
+ "OneXFly Apex": {
+  "screen": "8in",
+  "dims": "290.15 x 123.5 x 22.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexfly-apex"
+ },
+ "OneXFly F1 Pro": {
+  "screen": "7in",
+  "dims": "263.6 x 98.2 x 22.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexfly-f1-pro"
+ },
+ "OneXPlayer 2": {
+  "screen": "8.4in",
+  "dims": "310 x 127 x 22.5 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexplayer-2"
+ },
+ "OneXPlayer G1": {
+  "screen": "8.8in",
+  "dims": "208 x 146.5 x 32 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexplayer-g1"
+ },
+ "OneXPlayer Mini": {
+  "screen": "7in",
+  "dims": "262 x 108 x 23 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/one-xplayer-mini"
+ },
+ "OneXPlayer X1": {
+  "screen": "10.95in",
+  "dims": "252 x 163 x 13 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexplayer-x1"
+ },
+ "OneXPlayer X1 Mini": {
+  "screen": "8.8in",
+  "dims": "210.6 x 129.2 x 20 mm",
+  "source": "https://droix.net/product/onexplayer-x1-mini"
+ },
+ "OneXPlayer X1 Pro": {
+  "screen": "10.95in",
+  "dims": "252 x 163 x 13 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/onexplayer-x1-pro"
+ },
  "Oppo A5 5G": {
   "screen": "6.67in",
   "dims": "165.7 x 76.2 x 8 mm",
   "source": "https://m.gsmarena.com/oppo_a5_5g-13872.php"
+ },
+ "Oppo A6x 5G": {
+  "screen": "6.75in",
+  "dims": "166.6 x 78.5 x 8.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-a6x-5g"
+ },
+ "Oppo A7 Pro": {
+  "screen": "6.57in",
+  "dims": "159.08 x 75.81 x 8.8 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-a7-pro"
+ },
+ "Oppo Band": {
+  "screen": "1.1in",
+  "dims": "40.4 x 17.6 x 11.45 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/oppo-band/"
+ },
+ "Oppo Band 2": {
+  "screen": "1.57in",
+  "dims": "45.3 x 29.1 x 10.6 mm",
+  "source": "https://gadgetsandwearables.com/technical-specs/oppo-band-2/"
+ },
+ "Oppo F35": {
+  "screen": "6.57in",
+  "source": "https://www.mobiledokan.com/mobile/oppo-f35"
+ },
+ "Oppo F35 Pro": {
+  "screen": "6.78in",
+  "dims": "162.6 x 77.6 x 8.4 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-f35-pro"
+ },
+ "Oppo Find 7": {
+  "screen": "5.5in",
+  "dims": "152.6 x 75 x 9.2 mm",
+  "source": "https://phonesdata.com/en/smartphones/oppo/find-7-1639/"
+ },
+ "Oppo Find X10": {
+  "screen": "6.59in",
+  "dims": "156.51 x 74.29 x 8.35 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-find-x10"
+ },
+ "Oppo Find X10 Pro Max": {
+  "screen": "6.78in",
+  "dims": "161.32 x 76.57 x 8.4 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-find-x10-pro-max"
+ },
+ "Oppo K14 Plus": {
+  "screen": "6.78in",
+  "dims": "162.56 x 77.6 x 8.4 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-k14-plus"
+ },
+ "Oppo Reno13 F 5G": {
+  "screen": "6.67in",
+  "dims": "162.2 x 75.05 x 7.76 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-reno13-f-5g"
+ },
+ "Oppo Reno17": {
+  "screen": "6.56in",
+  "dims": "157.64 x 75.27 x 8.28 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-reno17"
+ },
+ "Oppo Reno17 Pro": {
+  "screen": "6.32in",
+  "dims": "151.21 x 72.42 x 8.32 mm",
+  "source": "https://www.mobiledokan.com/mobile/oppo-reno17-pro"
+ },
+ "Oppo Watch S2": {
+  "screen": "1.46in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/oppo-watch-s2/"
  },
  "Optus X Pro 2 5G": {
   "screen": "6.7in",
@@ -3337,6 +4200,34 @@
   "screen": "6.75in",
   "dims": "167.74 x 77.44 x 8.8 mm",
   "source": "https://ztemobiles.com.au/optus-x-total/"
+ },
+ "Oukitel C31": {
+  "dims": "165.2 x 77.67 x 9.5 mm",
+  "source": "https://www.notebookcheck.net/Oukitel-C31.685419.0.html"
+ },
+ "Oukitel C33": {
+  "dims": "173.8 x 77.7 x 8.9 mm",
+  "source": "https://www.notebookcheck.net/Oukitel-C33.730706.0.html"
+ },
+ "Oukitel WP21 Ultra": {
+  "dims": "177.3 x 84.3 x 18.4 mm",
+  "source": "https://www.notebookcheck.net/Oukitel-WP21-Ultra.730896.0.html"
+ },
+ "Oukitel WP23": {
+  "dims": "174.2 x 82.25 x 17.4 mm",
+  "source": "https://oukitel.com/pages/oukitel-wp23-specs"
+ },
+ "Oukitel WP26": {
+  "dims": "174.8 x 83 x 18.3 mm",
+  "source": "https://oukitel.com/pages/oukitel-wp26-specs"
+ },
+ "Oukitel WP27": {
+  "dims": "178.2 x 86.2 x 15.3 mm",
+  "source": "https://oukitel.com/pages/oukitel-wp27-specs"
+ },
+ "Oukitel WP28": {
+  "dims": "174.2 x 82.3 x 17.1 mm",
+  "source": "https://oukitel.com/pages/oukitel-wp28-specs"
  },
  "PS Vita (PCH-1000)": {
   "screen": "5in",
@@ -3372,6 +4263,10 @@
   "screen": "4.3in",
   "dims": "169 x 71 x 19 mm",
   "source": "https://en.wikipedia.org/wiki/PlayStation_Portable_hardware"
+ },
+ "Panasonic Toughpad JT-B1": {
+  "dims": "220 x 129.5 x 17.8 mm",
+  "source": "https://www.teltarif.de/tablet/panasonic/toughpad-jt-b1/"
  },
  "Pixel 10 Pro Fold": {
   "screen": "6.4in",
@@ -3436,7 +4331,8 @@
  },
  "Pixel Watch 41mm": {
   "dims": "41 x 41 x 12.3 mm",
-  "source": "https://m.gsmarena.com/google_pixel_watch-11546.php"
+  "source": "https://www.gadgetsandwearables.com/technical-specs/google-pixel-watch/",
+  "screen": "1.2in"
  },
  "Pixel Watch 5 41mm": {
   "screen": "1.2in",
@@ -3457,14 +4353,231 @@
   "dims": "76 x 74 x 9 mm",
   "source": "https://en.wikipedia.org/wiki/Playdate_(console)"
  },
+ "PocketBook 1040 InkPad X": {
+  "screen": "10.3in",
+  "dims": "249.2 x 173.4 x 7.7 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 611 Basic": {
+  "screen": "6in",
+  "dims": "176.38 x 122.6 x 9.7 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 616 Basic Lux 2": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
  "PocketBook 618 Basic Lux 4": {
   "screen": "6in",
   "dims": "161.3 x 108 x 8 mm",
   "source": "https://edshop.edsystem.cz/pocketbook-618-basic-lux-4/product-1663934"
  },
+ "PocketBook 622 Touch": {
+  "screen": "6in",
+  "dims": "175 x 114.5 x 9.5 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 623 Touch Lux": {
+  "screen": "6in",
+  "dims": "175 x 114.5 x 9.5 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 624 Basic Touch": {
+  "screen": "6in",
+  "dims": "174.4 x 114.6 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 626 Plus Touch Lux 3": {
+  "screen": "6in",
+  "dims": "174.4 x 114.6 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 626 Touch Lux 2": {
+  "screen": "6in",
+  "dims": "174.4 x 114.6 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 627 Touch Lux 4": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 628 Touch Lux 5": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 629 Verse": {
+  "screen": "6in",
+  "dims": "156 x 108 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 630 Sense": {
+  "screen": "6in",
+  "dims": "151.4 x 110 x 7.5 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 631 Touch HD": {
+  "screen": "6in",
+  "dims": "175 x 113.5 x 9 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 632 Touch HD 3": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 633 Color": {
+  "screen": "6in",
+  "dims": "161.3 x 108 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 634 Verse Pro": {
+  "screen": "6in",
+  "dims": "156 x 108 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 634K3 Verse Pro Color": {
+  "screen": "6in",
+  "dims": "156 x 108 x 7.6 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 640 Aqua": {
+  "screen": "6in",
+  "dims": "174.4 x 114.6 x 9 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 650 Ultra": {
+  "screen": "6in",
+  "dims": "162.7 x 106.7 x 7.9 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 700 Era": {
+  "screen": "7in",
+  "dims": "155 x 134.3 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 700K3 Era Color": {
+  "screen": "7in",
+  "dims": "155 x 134.3 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 740 InkPad 3": {
+  "screen": "7.8in",
+  "dims": "195 x 136.5 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 740 InkPad 3 Pro": {
+  "screen": "7.8in",
+  "dims": "195 x 136.5 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 741 InkPad Color": {
+  "screen": "7.8in",
+  "dims": "195 x 136.5 x 8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 743 InkPad 4": {
+  "screen": "7.8in",
+  "dims": "189.5 x 134 x 7.95 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 743C InkPad Color 2": {
+  "screen": "7.8in",
+  "dims": "189.5 x 134 x 7.95 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 743K3 InkPad Color 3": {
+  "screen": "7.8in",
+  "dims": "189 x 134 x 7.9 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 840 InkPad": {
+  "screen": "8in",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook 970 InkPad Lite": {
+  "screen": "9.7in",
+  "dims": "236.2 x 173 x 7.9 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook Era Lite": {
+  "screen": "7in",
+  "dims": "155 x 134.3 x 7.8 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook InkPad Eo": {
+  "screen": "10.3in",
+  "dims": "226 x 191 x 7 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "PocketBook Verta": {
+  "screen": "6in",
+  "dims": "154 x 111 x 7 mm",
+  "source": "https://en.wikipedia.org/wiki/PocketBook_International"
+ },
+ "Poco F9 Pro": {
+  "screen": "6.59in",
+  "dims": "157.49 x 75.25 x 8.79 mm",
+  "source": "https://www.po.co/global/product/poco-f9-pro/specs/"
+ },
+ "Poco F9 Ultra": {
+  "screen": "6.9in",
+  "dims": "163.49 x 77.94 x 8.74 mm",
+  "source": "https://www.po.co/global/product/poco-f9-ultra/specs/"
+ },
+ "Poco M6 Pro 5G": {
+  "screen": "6.79in",
+  "dims": "168.6 x 76.2 x 8.1 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-poco-m6-pro-5g"
+ },
+ "Poco M8 5G": {
+  "screen": "6.77in",
+  "dims": "164 x 75.42 x 7.35 mm",
+  "source": "https://www.po.co/global/product/poco-m8-5g/specs/"
+ },
+ "Poco M8 Power": {
+  "screen": "7in",
+  "dims": "169.7 x 79.1 x 8.5 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-poco-m8-power"
+ },
+ "Poco M8 Pro 5G": {
+  "screen": "6.83in",
+  "dims": "163.34 x 78.31 x 8.31 mm",
+  "source": "https://www.po.co/global/product/poco-m8-pro-5g/specs/"
+ },
+ "Poco M8x": {
+  "screen": "6.9in",
+  "dims": "170.1 x 78.4 x 8.8 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-poco-m8x"
+ },
+ "Poco X8": {
+  "screen": "6.83in",
+  "dims": "163.45 x 78.27 x 8.6 mm",
+  "source": "https://www.po.co/global/product/poco-x8/specs/"
+ },
+ "Poco X8s": {
+  "screen": "6.35in",
+  "dims": "151.1 x 71.8 x 8.06 mm",
+  "source": "https://www.po.co/global/product/poco-x8s/specs/"
+ },
  "Pokémon mini": {
   "dims": "74 x 58 x 23 mm",
   "source": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini"
+ },
+ "Polar A360": {
+  "screen": "1.1in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/polar-a360/"
+ },
+ "Polar A370": {
+  "screen": "1.1in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/polar-a370/"
+ },
+ "Polar Grit X": {
+  "screen": "1.28in",
+  "dims": "44.7 x 44.7 x 12.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/polar-grit-x/"
  },
  "Polar Grit X Pro": {
   "screen": "1.2in",
@@ -3495,6 +4608,15 @@
   "screen": "1.28in",
   "dims": "43 x 43 x 9.5 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/polar-ignite-3/"
+ },
+ "Polar M400": {
+  "screen": "1.31in",
+  "dims": "38 x 50 x 11.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/polar-m400/"
+ },
+ "Polar M430": {
+  "screen": "1.3in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/polar-m430/"
  },
  "Polar Pacer": {
   "screen": "1.2in",
@@ -3541,6 +4663,36 @@
   "dims": "47.3 x 47.3 x 13.5 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/polar-vantage-v3/"
  },
+ "Powkiddy RGB10S": {
+  "screen": "3.5in",
+  "dims": "144 x 63.8 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-rgb10s"
+ },
+ "Powkiddy RGB20S": {
+  "screen": "3.5in",
+  "dims": "120 x 83 x 20.8 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-rgb20s"
+ },
+ "Powkiddy RGB30": {
+  "screen": "4in",
+  "dims": "145 x 86.5 x 18 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-rgb30"
+ },
+ "Powkiddy V90": {
+  "screen": "2.8in",
+  "dims": "82 x 80 x 24 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-v90"
+ },
+ "Powkiddy X28": {
+  "screen": "5.5in",
+  "dims": "207.6 x 80.7 x 26.9 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-x28"
+ },
+ "Powkiddy X55": {
+  "screen": "5.5in",
+  "dims": "212.5 x 94.5 x 19 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/powkiddy-x55"
+ },
  "ROG Ally": {
   "screen": "7in",
   "dims": "280 x 111 x 21.2 mm",
@@ -3571,6 +4723,79 @@
   "dims": "260 x 85 x 11 mm",
   "source": "https://razer.com/mobile-handhelds/razer-edge/choose-your-loadout"
  },
+ "Realme 16x": {
+  "screen": "6.81in",
+  "dims": "166.5 x 78.2 x 8.8 mm",
+  "source": "https://www.mobiledokan.com/mobile/realme-16x"
+ },
+ "Realme Band": {
+  "screen": "0.96in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/realme-band/"
+ },
+ "Realme Band 2": {
+  "screen": "1.4in",
+  "dims": "45.9 x 24.6 x 12.1 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/realme-band-2/"
+ },
+ "Realme GT Explorer Master": {
+  "dims": "159.9 x 72.5 x 8 mm",
+  "source": "https://gadgets.beebom.com/mobile/realme-gt-explorer-master?view=specs"
+ },
+ "Realme GT Master": {
+  "dims": "159.2 x 73.5 x 8 mm",
+  "source": "https://www.mobiledokan.com/mobile/realme-gt-master-edition"
+ },
+ "Realme V11 5G": {
+  "dims": "164.4 x 76 x 8.4 mm",
+  "source": "https://gadgets.beebom.com/mobile/realme-v11-5g?view=specs"
+ },
+ "Realme V30": {
+  "dims": "164.4 x 75.1 x 8.1 mm",
+  "source": "https://gadgets.beebom.com/mobile/realme-v30?view=specs"
+ },
+ "Realme Watch 5": {
+  "dims": "46.4 x 42.5 x 13.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/realme-watch-5/"
+ },
+ "Realme Watch S Pro": {
+  "dims": "46.1 x 46.1 x 12.8 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/realme-watch-s-pro/"
+ },
+ "Redmi 15 5G": {
+  "screen": "6.9in",
+  "dims": "171.1 x 82.1 x 8.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15-5g"
+ },
+ "Redmi 15C 5G": {
+  "screen": "6.9in",
+  "dims": "173.2 x 81.1 x 8.2 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-15c-5g"
+ },
+ "Redmi 17 5G": {
+  "screen": "6.9in",
+  "dims": "170.12 x 78.42 x 8.8 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-17-5g"
+ },
+ "Redmi 17C 5G": {
+  "screen": "6.9in",
+  "dims": "171.6 x 79.5 x 8.1 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-17c-5g"
+ },
+ "Redmi K100": {
+  "screen": "6.83in",
+  "dims": "162.91 x 77.93 x 8.65 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k100"
+ },
+ "Redmi K100 Pro": {
+  "screen": "6.59in",
+  "dims": "157.49 x 75.25 x 8.55 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k100-pro"
+ },
+ "Redmi K100 Pro Max": {
+  "screen": "6.9in",
+  "dims": "163.49 x 77.94 x 8.45 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-k100-pro-max"
+ },
  "Redmi Note 14": {
   "screen": "6.67in",
   "dims": "162.4 x 75.7 x 8 mm",
@@ -3580,6 +4805,31 @@
   "screen": "6.67in",
   "dims": "162.16 x 74.92 x 8.24 mm",
   "source": "https://www.mi.com/uk/product/redmi-note-14-pro/specs/"
+ },
+ "Redmi Note 15 5G": {
+  "screen": "6.77in",
+  "dims": "164 x 75.42 x 7.35 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-5g"
+ },
+ "Redmi Note 15 Pro 5G": {
+  "screen": "6.83in",
+  "dims": "163.6 x 78.1 x 8 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-15-pro-5g"
+ },
+ "Redmi Note 17": {
+  "screen": "6.99in",
+  "dims": "169.7 x 79.14 x 8.45 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-17"
+ },
+ "Redmi Note 17 Pro": {
+  "screen": "6.83in",
+  "dims": "163.45 x 78.27 x 8.6 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-17-pro"
+ },
+ "Redmi Note 17 Pro Max": {
+  "screen": "6.83in",
+  "dims": "163.44 x 78.27 x 8.65 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-redmi-note-17-pro-max"
  },
  "Redmi Smart Band": {
   "screen": "1.08in",
@@ -3595,10 +4845,25 @@
   "dims": "42.05 x 24.45 x 10.15 mm",
   "source": "https://www.mi.com/uk/product/redmi-smart-band-pro/specs/"
  },
+ "Redmi Watch 6 Active": {
+  "screen": "1.85in",
+  "dims": "44.5 x 39.4 x 9.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/redmi-watch-6-active/"
+ },
+ "Redmi Watch 6 Lite": {
+  "screen": "1.96in",
+  "dims": "47.1 x 39.6 x 9.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/redmi-watch-6-lite/"
+ },
  "Retroid Pocket 2": {
   "screen": "3.5in",
   "dims": "150 x 81 x 17 mm",
   "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-2"
+ },
+ "Retroid Pocket 2S": {
+  "screen": "3.5in",
+  "dims": "155 x 80.6 x 16 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-2s"
  },
  "Retroid Pocket 3": {
   "screen": "4.7in",
@@ -3635,6 +4900,16 @@
   "dims": "138 x 89.9 x 26 mm",
   "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-classic"
  },
+ "Retroid Pocket Duo": {
+  "screen": "5.5in",
+  "dims": "162 x 95.5 x 22.4 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-duo"
+ },
+ "Retroid Pocket Duo Lite": {
+  "screen": "5.5in",
+  "dims": "158 x 95 x 23.2 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-duo-lite"
+ },
  "Retroid Pocket Flip": {
   "screen": "4.7in",
   "dims": "139 x 82 x 25.4 mm",
@@ -3659,6 +4934,19 @@
   "screen": "3.92in",
   "dims": "165.28 x 77.62 x 16.5 mm",
   "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-mini-v2"
+ },
+ "Retroid Pocket Nova": {
+  "screen": "4.5in",
+  "dims": "169.9 x 84.1 x 15.6 mm",
+  "source": "https://retrocatalog.com/retro-handhelds/retroid-pocket-nova"
+ },
+ "SNK Neo Geo Pocket": {
+  "dims": "122 x 74 x 24 mm",
+  "source": "https://en.wikipedia.org/wiki/Neo_Geo_Pocket"
+ },
+ "SNK Neo Geo Pocket Color": {
+  "dims": "130 x 80 x 30 mm",
+  "source": "https://en.wikipedia.org/wiki/Neo_Geo_Pocket"
  },
  "Sega Game Gear": {
   "screen": "3.2in",
@@ -3685,6 +4973,11 @@
   "dims": "298 x 117 x 49 mm",
   "source": "https://en.wikipedia.org/wiki/Steam_Deck"
  },
+ "Surface 3": {
+  "screen": "10.8in",
+  "dims": "267 x 187 x 8.6 mm",
+  "source": "https://en.wikipedia.org/wiki/Surface_3"
+ },
  "Surface Go": {
   "screen": "10in",
   "dims": "245 x 175 x 8.3 mm",
@@ -3695,10 +4988,24 @@
   "dims": "245 x 175 x 8.3 mm",
   "source": "https://support.microsoft.com/en-us/surface/models/surface-go-2-specs-and-features"
  },
+ "Surface Go 3": {
+  "screen": "10.5in",
+  "dims": "245 x 175 x 8.3 mm",
+  "source": "https://en.wikipedia.org/wiki/Surface_Go_3"
+ },
+ "Surface Go 4": {
+  "screen": "10.5in",
+  "dims": "245 x 175 x 8.3 mm",
+  "source": "https://www.techradar.com/pro/microsoft-surface-go-4-for-business-review"
+ },
  "Surface Pro": {
   "screen": "10.6in",
   "dims": "274.6 x 173 x 13.5 mm",
   "source": "https://support.microsoft.com/en-US/surface/models/surface-pro-1st-gen-specifications"
+ },
+ "Surface Pro 10": {
+  "screen": "13in",
+  "source": "https://www.pcworld.com/article/2270470/microsofts-new-business-surfaces-actually-seem-truly-business-y.html"
  },
  "Surface Pro 11": {
   "screen": "13in",
@@ -3762,7 +5069,8 @@
  },
  "Surface RT": {
   "screen": "10.6in",
-  "source": "https://en.wikipedia.org/wiki/Surface_RT"
+  "source": "https://en.wikipedia.org/wiki/Surface_(2012_tablet)",
+  "dims": "274.6 x 172 x 9.4 mm"
  },
  "Suunto 3 Fitness": {
   "screen": "1.2in",
@@ -3798,6 +5106,11 @@
   "screen": "1.2in",
   "dims": "43 x 43 x 10.8 mm",
   "source": "https://us.suunto.com/products/suunto-9-peak-pro-all-black"
+ },
+ "Suunto Ambit3 Peak": {
+  "screen": "1.2in",
+  "dims": "50 x 50 x 18 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/suunto-ambit3-peak/"
  },
  "Suunto Ambit3 Run": {
   "screen": "1.2in",
@@ -3864,6 +5177,16 @@
   "dims": "49 x 49 x 13.6 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/suunto-vertical-2"
  },
+ "Tecno Pova 8 Pro": {
+  "screen": "6.78in",
+  "dims": "162.48 x 77.27 x 7.39 mm",
+  "source": "https://www.mobiledokan.com/mobile/tecno-pova-8-pro"
+ },
+ "Tecno Spark Go 3 Pro": {
+  "screen": "6.78in",
+  "dims": "168.32 x 79.22 x 8.04 mm",
+  "source": "https://www.mobiledokan.com/mobile/tecno-spark-go-3-pro"
+ },
  "Telstra T-Elite 5G": {
   "screen": "6.6in",
   "dims": "163.6 x 74.9 x 8.95 mm",
@@ -3874,10 +5197,25 @@
   "dims": "165.5 x 75.8 x 9.07 mm",
   "source": "https://ztemobiles.com.au/telstra-t-pro/"
  },
+ "TicWatch 2": {
+  "screen": "1.4in",
+  "dims": "44 x 44 x 12 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-2/"
+ },
+ "TicWatch Atlas": {
+  "screen": "1.43in",
+  "dims": "52.2 x 47.8 x 12.05 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-atlas/"
+ },
  "TicWatch C2": {
   "screen": "1.3in",
   "dims": "42.8 x 42.8 x 12.7 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-c2/"
+ },
+ "TicWatch E": {
+  "screen": "1.4in",
+  "dims": "44 x 44 x 13.55 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-e/"
  },
  "TicWatch E2": {
   "screen": "1.39in",
@@ -3889,19 +5227,59 @@
   "dims": "47 x 44 x 12.6 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-e3/"
  },
+ "TicWatch GTH": {
+  "screen": "1.55in",
+  "dims": "43.2 x 35.2 x 10.5 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-gth/"
+ },
+ "TicWatch GTX": {
+  "screen": "1.28in",
+  "dims": "48.7 x 48.7 x 11 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-gtx/"
+ },
  "TicWatch Pro": {
   "screen": "1.39in",
   "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro/"
+ },
+ "TicWatch Pro 2020": {
+  "screen": "1.39in",
+  "dims": "45 x 45 x 12.6 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-2020/"
  },
  "TicWatch Pro 3 GPS": {
   "screen": "1.4in",
   "dims": "48 x 47 x 12.2 mm",
   "source": "https://gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-3-gps/"
  },
+ "TicWatch Pro 3 LTE": {
+  "screen": "1.4in",
+  "dims": "47 x 48 x 12.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-3/"
+ },
+ "TicWatch Pro 3 Ultra": {
+  "screen": "1.4in",
+  "dims": "47 x 48 x 12.3 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-3-ultra/"
+ },
  "TicWatch Pro 5": {
   "screen": "1.43in",
   "dims": "50.1 x 48 x 12.2 mm",
   "source": "https://www.mobvoi.com/us/pages/ticwatchpro5"
+ },
+ "TicWatch Pro 5 Enduro": {
+  "screen": "1.43in",
+  "dims": "50.15 x 48.0 x 11.95 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-pro-5-enduro/"
+ },
+ "TicWatch S": {
+  "screen": "1.4in",
+  "dims": "45 x 45 x 13 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-s/"
+ },
+ "TicWatch S2": {
+  "screen": "1.39in",
+  "dims": "46.6 x 51.8 x 12.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/mobvoi-ticwatch-s2/"
  },
  "Tiger Game.com": {
   "screen": "3.5in",
@@ -3951,6 +5329,61 @@
   "dims": "187.4 x 79.8 x 17.2 mm",
   "source": "https://retrocatalog.com/retro-handhelds/trimui-smart-pro-s"
  },
+ "Withings Pulse HR": {
+  "screen": "0.75in",
+  "dims": "44.4 x 18.16 x 10.45 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-pulse-hr/"
+ },
+ "Withings ScanWatch 2 38mm": {
+  "screen": "0.63in",
+  "dims": "38.4 x 38.4 x 13.4 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-2/"
+ },
+ "Withings ScanWatch 2 42mm": {
+  "screen": "0.63in",
+  "dims": "42 x 42 x 12.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-2/"
+ },
+ "Withings ScanWatch 38mm": {
+  "screen": "0.54in",
+  "dims": "38.4 x 38.4 x 13.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch/"
+ },
+ "Withings ScanWatch 42mm": {
+  "screen": "0.54in",
+  "dims": "42 x 42 x 13.7 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch/"
+ },
+ "Withings ScanWatch Horizon": {
+  "screen": "0.54in",
+  "dims": "43 x 43 x 13.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-horizon/"
+ },
+ "Withings ScanWatch Light": {
+  "screen": "0.63in",
+  "dims": "36.8 x 36.8 x 9.85 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-light/"
+ },
+ "Withings ScanWatch Nova": {
+  "screen": "0.63in",
+  "dims": "42 x 42 x 12.8 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-nova/"
+ },
+ "Withings ScanWatch Nova Brilliant": {
+  "screen": "0.63in",
+  "dims": "39 x 39 x 12.99 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/withings-scanwatch-nova-brilliant/"
+ },
+ "Xiaomi 18 Pro": {
+  "screen": "6.4in",
+  "dims": "151.8 x 72 x 8.46 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-18-pro"
+ },
+ "Xiaomi 18 Pro Max": {
+  "screen": "6.9in",
+  "dims": "163.39 x 77.6 x 8.39 mm",
+  "source": "https://www.mobiledokan.com/mobile/xiaomi-18-pro-max"
+ },
  "Xiaomi Mi Band 2": {
   "screen": "0.42in",
   "dims": "40.3 x 15.7 x 10.5 mm",
@@ -3980,6 +5413,16 @@
   "cover": true,
   "source": "https://m.gsmarena.com/xiaomi_mix_fold_2-11758.php"
  },
+ "Xiaomi Pad 9": {
+  "screen": "11.2in",
+  "dims": "251.2 x 173.42 x 5.75 mm",
+  "source": "https://www.fonearena.com/blog/?p=493246"
+ },
+ "Xiaomi Pad 9 Pro": {
+  "screen": "12.5in",
+  "dims": "279.14 x 191.96 x 5.8 mm",
+  "source": "https://www.fonearena.com/blog/?p=493246"
+ },
  "Xiaomi Smart Band 10": {
   "screen": "1.72in",
   "dims": "46.57 x 22.54 x 10.95 mm",
@@ -3989,6 +5432,16 @@
   "screen": "1.74in",
   "dims": "42.83 x 32.16 x 9.7 mm",
   "source": "https://www.mi.com/sg/product/xiaomi-smart-band-10-pro/specs/"
+ },
+ "Xiaomi Smart Band 11": {
+  "screen": "1.72in",
+  "dims": "47.44 x 23.66 x 9.99 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/xiaomi-smart-band-11/"
+ },
+ "Xiaomi Smart Band 11 Active": {
+  "screen": "1.47in",
+  "dims": "43.5 x 25.8 x 10.2 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/xiaomi-smart-band-11-active/"
  },
  "Xiaomi Smart Band 7": {
   "screen": "1.62in",
@@ -4019,6 +5472,11 @@
   "screen": "1.74in",
   "dims": "43.27 x 32.49 x 10.8 mm",
   "source": "https://www.mi.com/sg/product/xiaomi-smart-band-9-pro/specs/"
+ },
+ "Xiaomi Watch S5 41mm": {
+  "screen": "1.32in",
+  "dims": "41.4 x 41.4 x 9.9 mm",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/xiaomi-watch-s5/"
  },
  "Xperia 10 VIII": {
   "screen": "6.1in",
@@ -4083,6 +5541,11 @@
   "screen": "11in",
   "dims": "248.6 x 179.5 x 7 mm",
   "source": "https://www.apple.com/ipad/compare/"
+ },
+ "iPad 2": {
+  "screen": "9.7in",
+  "dims": "241 x 186 x 8.8 mm",
+  "source": "https://en.wikipedia.org/wiki/IPad_2"
  },
  "iPad Air (3rd gen)": {
   "screen": "10.5in",
@@ -4239,6 +5702,11 @@
   "dims": "203.2 x 134.8 x 6.1 mm",
   "source": "https://www.apple.com/ipad/compare/"
  },
+ "iPhone (1st gen)": {
+  "screen": "3.5in",
+  "dims": "115 x 61 x 11.6 mm",
+  "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+ },
  "iPhone SE (1st gen)": {
   "screen": "4in",
   "dims": "123.8 x 58.6 x 7.6 mm",
@@ -4328,7 +5796,8 @@
  },
  "iPod touch (2nd gen)": {
   "screen": "3.5in",
-  "source": "https://en.wikipedia.org/wiki/IPod_Touch"
+  "source": "https://en.wikipedia.org/wiki/IPod_Touch_(2nd_generation)",
+  "dims": "110 x 58 x 7.1 mm"
  },
  "iPod touch (3rd gen)": {
   "screen": "3.5in",
@@ -4353,6 +5822,18 @@
   "dims": "123.4 x 58.6 x 6.1 mm",
   "source": "https://en.wikipedia.org/wiki/IPod_Touch_(7th_generation)"
  },
+ "itel A04": {
+  "dims": "163 x 75 x 8.6 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a04"
+ },
+ "itel A200": {
+  "dims": "167.6 x 78.6 x 7.5 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a200"
+ },
+ "itel A200+": {
+  "dims": "167.6 x 78.6 x 8.3 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a200-plus"
+ },
  "itel A23 Pro": {
   "dims": "145.4 x 73.9 x 9.8 mm",
   "source": "https://www.mobiledokan.com/mobile/itel-a23-pro/specification"
@@ -4360,6 +5841,22 @@
  "itel A25": {
   "dims": "146.7 x 74 x 9.3 mm",
   "source": "https://www.mobiledokan.com/mobile/itel-a25/specification"
+ },
+ "itel A27": {
+  "dims": "153 x 74.6 x 11 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a27"
+ },
+ "itel A48": {
+  "dims": "155.3 x 73.5 x 8.5 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a48"
+ },
+ "itel A49": {
+  "dims": "165.4 x 76.1 x 9.6 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a49"
+ },
+ "itel A60": {
+  "dims": "165 x 76 x 9 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a60"
  },
  "itel A60s": {
   "dims": "165 x 76 x 9 mm",
@@ -4369,9 +5866,29 @@
   "dims": "164 x 75.5 x 8.6 mm",
   "source": "https://www.mobiledokan.com/mobile/itel-a70/specification"
  },
+ "itel A80": {
+  "dims": "165.9 x 77.3 x 8.54 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a80"
+ },
+ "itel A90": {
+  "dims": "164.2 x 76.3 x 8.6 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a90"
+ },
+ "itel A95": {
+  "dims": "166 x 77 x 7.8 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-a95-5g"
+ },
+ "itel P38": {
+  "dims": "165.4 x 76.2 x 8.9 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-p38"
+ },
  "itel P55": {
   "dims": "164 x 75 x 8.4 mm",
   "source": "https://www.mobiledokan.com/mobile/itel-p55/specification"
+ },
+ "itel S18": {
+  "dims": "164.6 x 76.3 x 8.7 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-s18"
  },
  "itel S23+": {
   "dims": "164.5 x 75.2 x 7.9 mm",
@@ -4384,6 +5901,19 @@
  "itel Vision 3": {
   "dims": "164.5 x 76 x 8.85 mm",
   "source": "https://www.mobiledokan.com/mobile/itel-vision-3/specification"
+ },
+ "itel Vision 3 Turbo": {
+  "dims": "164.5 x 76 x 8.85 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-vision-3-turbo"
+ },
+ "itel Zeno 100": {
+  "dims": "164 x 76 x 8.49 mm",
+  "source": "https://gadgets.beebom.com/mobile/itel-zeno-100"
+ },
+ "nubia Neo 5 Max": {
+  "screen": "7.5in",
+  "dims": "180.9 x 88.4 x 8 mm",
+  "source": "https://www.notebookcheck.net/Nubia-Neo-5-Max-Reviews-and-Specs.1391478.0.html"
  },
  "nubia Red Magic 10 Pro": {
   "screen": "6.85in",
@@ -4435,9 +5965,63 @@
   "dims": "164 x 76.4 x 8.9 mm",
   "source": "https://m.gsmarena.com/zte_nubia_red_magic_9s_pro-13191.php"
  },
+ "reMarkable 2": {
+  "screen": "10.3in",
+  "dims": "246 x 187 x 4.7 mm",
+  "source": "https://remarkable.com/store/remarkable-2"
+ },
+ "reMarkable Paper Pro": {
+  "screen": "11.8in",
+  "source": "https://remarkable.com/store/remarkable-paper/pro"
+ },
  "reMarkable Paper Pure": {
   "screen": "10.3in",
   "dims": "228.1 x 187.1 x 6 mm",
   "source": "https://remarkable.com/store/compare"
+ },
+ "vivo S2": {
+  "screen": "6.83in",
+  "dims": "164.4 x 75.3 x 8 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-s2"
+ },
+ "vivo T5e": {
+  "screen": "6.74in",
+  "dims": "167.3 x 77 x 8.2 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-t5e"
+ },
+ "vivo V80": {
+  "screen": "6.59in",
+  "dims": "157.52 x 74.33 x 7.69 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-v80"
+ },
+ "vivo X500": {
+  "screen": "6.59in",
+  "dims": "157.01 x 74.49 x 8.15 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-x500"
+ },
+ "vivo X500 Pro": {
+  "screen": "6.36in",
+  "dims": "151.78 x 71.92 x 7.95 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-x500-pro"
+ },
+ "vivo X500 Pro Max": {
+  "screen": "6.85in",
+  "dims": "163.32 x 76.82 x 7.95 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-x500-pro-max"
+ },
+ "vivo Y31t": {
+  "screen": "6.75in",
+  "dims": "166.6 x 78.4 x 8.4 mm",
+  "source": "https://www.mobiledokan.com/mobile/vivo-y31t"
+ },
+ "vivo iQOO 16": {
+  "screen": "6.85in",
+  "dims": "163.75 x 76.9 x 8.3 mm",
+  "source": "https://www.mobiledokan.com/mobile/iqoo-16"
+ },
+ "vivo iQOO Neo 11 Ultra": {
+  "screen": "6.83in",
+  "dims": "163.4 x 75.9 x 8.6 mm",
+  "source": "https://www.notebookcheck.net/Vivo-iQOO-Neo-11-Ultra-Reviews-and-Specs.1391752.0.html"
  }
 }
