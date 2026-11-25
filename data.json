@@ -12716,9 +12716,19 @@
 "2019-08",
 "2019-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Gadget Guard and SaharaCase each sell one protector for the Galaxy Note10+ and Note10+ 5G",
 "device": "Phone",
+"sources": [
+[
+"Gadget Guard Black Ice Cornice FLEX at Best Buy (Note10+ / Note10+ 5G)",
+"https://www.bestbuy.com/product/gadget-guard-screen-protector-for-samsung-galaxy-note10-and-note10-5g-clear/J3LCR4H294"
+],
+[
+"SaharaCase ZeroDamage at Best Buy (Note10+ / Note10+ 5G)",
+"https://www.bestbuy.com/product/saharacase-zerodamage-film-screen-protector-for-samsung-galaxy-note10-and-note10-5g-transparent/J3L53JLKP6"
+]
+],
 "codes": [
 "SM-N975F, SM-N975U, SM-N9750, SM-N975U1, SM-N975W, SM-N975N, SM-N975X, SCV45",
 "SM-N976F, SM-N976U, SM-N976, SM-N976B, SM-N976N, SM-N976V, SM-N9760, SM-N976Q"

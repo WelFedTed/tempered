@@ -16120,5 +16120,23 @@
   ],
   "note": "The S20 5G UW is Verizon's mmWave S20 5G (model SM-G981V) with the same 6.2in curved screen, 0.2 mm thicker. A Best Buy customer reports ZAGG's S20/S20 5G protector fit it, but ZAGG also sells UW-specific glass: test first.",
   "weak": true
+ },
+ {
+  "models": [
+   "Galaxy Note10+",
+   "Galaxy Note10+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gadget Guard Black Ice Cornice FLEX at Best Buy (Note10+ / Note10+ 5G)",
+    "url": "https://www.bestbuy.com/product/gadget-guard-screen-protector-for-samsung-galaxy-note10-and-note10-5g-clear/J3LCR4H294"
+   },
+   {
+    "name": "SaharaCase ZeroDamage at Best Buy (Note10+ / Note10+ 5G)",
+    "url": "https://www.bestbuy.com/product/saharacase-zerodamage-film-screen-protector-for-samsung-galaxy-note10-and-note10-5g-transparent/J3L53JLKP6"
+   }
+  ],
+  "note": "Gadget Guard and SaharaCase each sell one protector for the Galaxy Note10+ and Note10+ 5G."
  }
 ]
