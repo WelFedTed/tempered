@@ -15507,19 +15507,6 @@
  },
  {
   "models": [
-   "Xiaomi Mi A3"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK via Homescreen.pl",
-    "url": "https://homescreen.pl/en/589-other-mi"
-   }
-  ],
-  "note": "3MK HardGlass and HardGlass Max are sold for Mi A3 alone."
- },
- {
-  "models": [
    "Pocophone F1"
   ],
   "fit": "own",
@@ -16275,10 +16262,13 @@
    {
     "name": "GSMArena Galaxy S20 5G UW (SM-G981V, 0.2 mm thicker)",
     "url": "https://www.gsmarena.com/samsung_galaxy_s20_5g_uw-10254.php"
+   },
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Samsung Galaxy S20 5G / Galaxy S20 5G UW Tempered Glass Screen Protector with (Easy Installati",
+    "url": "https://www.supershieldz.com/tg-2p-s-galaxy-s20-it-bk-3d"
    }
   ],
-  "note": "The S20 5G UW is Verizon's mmWave S20 5G (model SM-G981V) with the same 6.2in curved screen, 0.2 mm thicker. A Best Buy customer reports ZAGG's S20/S20 5G protector fit it, but ZAGG also sells UW-specific glass: test first.",
-  "weak": true
+  "note": "Supershieldz sells one tempered glass for the Galaxy S20 5G and Galaxy S20 5G UW."
  },
  {
   "models": [
@@ -17772,5 +17762,177 @@
    }
   ],
   "note": "Bizon sells one glass for the Xperia 10 VII and Xperia 10 VIII (Homescreen.pl)."
+ },
+ {
+  "models": [
+   "Huawei nova 5i Pro",
+   "Huawei nova 5z"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Huawei Nova 5i Pro / Nova 5Z Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint,",
+    "url": "https://www.supershieldz.com/tg-2p-hw-nova-5i-pro-nova-5z"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Huawei nova 5i Pro and Huawei nova 5z."
+ },
+ {
+  "models": [
+   "Redmi 6",
+   "Redmi 6A"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Xiaomi Redmi 6 / Redmi 6A Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bub",
+    "url": "https://www.supershieldz.com/tg-xm-redmi-6-2p"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Redmi 6 and Redmi 6A."
+ },
+ {
+  "models": [
+   "OnePlus 8T",
+   "OnePlus 8T+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [3-Pack] Supershieldz for OnePlus 8T / OnePlus 8T Plus 5G Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprin",
+    "url": "https://www.supershieldz.com/tg-3p-oneplus-8t"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the OnePlus 8T and OnePlus 8T+ 5G."
+ },
+ {
+  "models": [
+   "Moto G10",
+   "Moto G20"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Moto G10 / Moto G20 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint,",
+    "url": "https://www.supershieldz.com/tg-2p-m-moto-g10"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Moto G10 and Moto G20."
+ },
+ {
+  "models": [
+   "Redmi Note 10",
+   "Redmi Note 10S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [3-Pack] Supershieldz for Xiaomi Redmi Note 10 / Redmi Note 10s Tempered Glass Screen Protector, Anti-Scratch, Anti-Fing",
+    "url": "https://www.supershieldz.com/tg-3p-xm-redmi-note-10-redmi-note-10s"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Redmi Note 10 and Redmi Note 10S."
+ },
+ {
+  "models": [
+   "Huawei nova 6 SE",
+   "Huawei nova 7i"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [3-Pack] Supershieldz for Huawei Nova 7i / Nova 6 SE Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bu",
+    "url": "https://www.supershieldz.com/tg-3p-hw-nova-7i"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Huawei nova 6 SE and Huawei nova 7i."
+ },
+ {
+  "models": [
+   "Xiaomi Mi A3",
+   "Xiaomi Mi CC9e"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Xiaomi Mi A3 / Mi CC9e Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
+    "url": "https://www.supershieldz.com/tg-xm-mi-a3-2p"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Xiaomi Mi A3 and Xiaomi Mi CC9e."
+ },
+ {
+  "models": [
+   "Galaxy Tab S2 9.7",
+   "Galaxy Tab S3 9.7"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Samsung Galaxy Tab S2 9.7 / Tab S3 9.7 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fin",
+    "url": "https://www.supershieldz.com/tg-2p-s-tab-s2-9-7-l"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Galaxy Tab S2 9.7 and Galaxy Tab S3 9.7."
+ },
+ {
+  "models": [
+   "Moto G30",
+   "Moto G50"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Moto G30 / Moto G50 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint,",
+    "url": "https://www.supershieldz.com/tg-2p-m-moto-g30"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Moto G30 and Moto G50."
+ },
+ {
+  "models": [
+   "OnePlus Nord 2 5G",
+   "OnePlus Nord CE 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for OnePlus Nord 2 5G/ Nord CE 5G Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint,",
+    "url": "https://www.supershieldz.com/tg-2p-oneplus-nord-ce-2"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the OnePlus Nord 2 5G and OnePlus Nord CE 5G."
+ },
+ {
+  "models": [
+   "Black Shark 4",
+   "Black Shark 4 Pro",
+   "Poco F3",
+   "Redmi K40",
+   "Redmi K40 Pro",
+   "Redmi K40 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Xiaomi Poco F3 / Black Shark 4/ Black Shark 4 Pro/ Redmi K40 / Redmi K40 Pro/ Redmi K40 Pro Pl",
+    "url": "https://www.supershieldz.com/tg-2p-xm-black-shark-4-4-pro-redmi-k40"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Black Shark 4, Black Shark 4 Pro, Poco F3, Redmi K40, Redmi K40 Pro and Redmi K40 Pro+."
+ },
+ {
+  "models": [
+   "Galaxy A71 5G",
+   "Galaxy A71 5G UW"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Supershieldz: [2-Pack] Supershieldz for Samsung Galaxy A71 5G / A71 5G UW Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerpr",
+    "url": "https://www.supershieldz.com/tg-2p-s-galaxy-a71-5g-version"
+   }
+  ],
+  "note": "Supershieldz sells one tempered glass for the Galaxy A71 5G and Galaxy A71 5G UW."
  }
 ]
