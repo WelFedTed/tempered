@@ -7197,8 +7197,7 @@
   "models": [
    "Galaxy S24 FE",
    "Galaxy A36",
-   "Galaxy A56",
-   "Galaxy M56"
+   "Galaxy A56"
   ],
   "fit": "same",
   "sources": [
@@ -7219,7 +7218,7 @@
     "url": "https://www.flipkart.com/mb-shild-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a56-a36-5g/p/itm1b1d278cb390c"
    }
   ],
-  "note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56), merging S24 FE into the A36/A56 and M56 groups; marketplace-only: test fit.",
+  "note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56; some also name the M56/F56, but PanzerGlass sells M56 glass with the S25 FE instead.",
   "weak": true
  },
  {
@@ -7237,7 +7236,7 @@
     "url": "https://www.flipkart.com/difoxy-edge-tempered-glass-samsung-galaxy-s24-fe-5g/p/itm7ea7764aaa16a"
    }
   ],
-  "note": "Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass; no brand listing checked."
+  "note": "Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass."
  },
  {
   "models": [
@@ -15936,5 +15935,32 @@
     "url": "https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247"
    }
   ]
+ },
+ {
+  "models": [
+   "Galaxy S24",
+   "Galaxy S25"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit (Galaxy S25 / S24; not S25+ or S24+)",
+    "url": "https://www.spigen.com/products/galaxy-s25-series-screen-protector-glas-tr-ez-fit"
+   }
+  ],
+  "note": "Spigen sells one EZ Fit glass for the Galaxy S24 and S25, and says it does not fit the S24+ or S25+."
+ },
+ {
+  "models": [
+   "Galaxy S26"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro for Galaxy S26 (\"designed exclusively for Galaxy S26\")",
+    "url": "https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209620015"
+   }
+  ],
+  "note": "Spigen makes S26-only glass: the S26 has a larger 6.3in screen than the S24/S25 (6.2in)."
  }
 ]

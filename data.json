@@ -15602,8 +15602,14 @@
 "2025-01"
 ],
 "check": "Confirmed",
-"note": "Belkin, OtterBox, PanzerGlass list",
+"note": "Spigen sells one EZ Fit glass for the Galaxy S24 and S25, and says it does not fit the S24+ or S25+. Belkin, OtterBox, PanzerGlass list",
 "device": "Phone",
+"sources": [
+[
+"Spigen GLAS.tR EZ Fit (Galaxy S25 / S24; not S25+ or S24+)",
+"https://www.spigen.com/products/galaxy-s25-series-screen-protector-glas-tr-ez-fit"
+]
+],
 "codes": [
 "SM-S921B, SM-S921B/DS, SM-S921U, SM-S921U1, SM-S921W, SM-S921N, SM-S9210, SM-S921E, SM-S921E/DS",
 "SM-S931B, SM-S931B/DS, SM-S931U, SM-S931U1, SM-S931W, SM-S931N, SM-S9310, SM-S931E, SM-S931E/DS"
@@ -15979,7 +15985,7 @@
 "2026-03"
 ],
 "check": "Confirmed",
-"note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56); marketplace-only: test fit. Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass; no brand listing checked. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). OtterBox lists A36/A56; retailer lists A37 too",
+"note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56; some also name the M56/F56, but PanzerGlass sells M56 glass with the S25 FE instead. Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). OtterBox lists A36/A56; retailer lists A37 too",
 "device": "Phone",
 "sources": [
 [
@@ -16204,25 +16210,9 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56 (some add M56/F56); marketplace-only: test fit. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. Samsung: A57 only",
+"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. Samsung sells its own A57 glass",
 "device": "Phone",
 "sources": [
-[
-"Flipkart EITANSHA CREATION (A36/A56/S24 FE)",
-"https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-a36-5g-a56-s24-fe-5g/p/itm6a85737629be4"
-],
-[
-"Flipkart ArmourPro (S24 FE/A36/A56/M56)",
-"https://www.flipkart.com/armourpro-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a36-a56-m56-300c-borderless-3d-curved/p/itm070a618a3e094"
-],
-[
-"Flipkart FAD-E (A36/A56/S24 FE)",
-"https://www.flipkart.com/fad-e-tempered-glass-guard-samsung-galaxy-a36-a56-s24-fe-5g/p/itm69d264c617a0a"
-],
-[
-"Flipkart MB SHILD (S24 FE/A56/A36)",
-"https://www.flipkart.com/mb-shild-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a56-a36-5g/p/itm1b1d278cb390c"
-],
 [
 "Digitec (PanzerGlass)",
 "https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-samsung-galaxy-new-s25-fe-m56-5g-ultra-wide-fit-1-pcs-mobile-phone-scre-59935393"
@@ -16259,7 +16249,7 @@
 "162 x 77.3 x 7.2 mm",
 "161.3 x 76.6 x 7.4 mm",
 "161.5 x 76.8 x 6.9 mm",
-""
+"161.6 x 76.9 x 7.4 mm"
 ]
 },
 {
@@ -16450,9 +16440,15 @@
 "released": [
 "2026-02"
 ],
-"check": "Check",
-"note": "Brands sell S26-specific glass",
+"check": "Confirmed",
+"note": "Spigen makes S26-only glass: the S26 has a larger 6.3in screen than the S24/S25 (6.2in). Brands sell S26-specific glass",
 "device": "Phone",
+"sources": [
+[
+"Spigen GLAS.tR EZ Fit Pro for Galaxy S26 (\"designed exclusively for Galaxy S26\")",
+"https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209620015"
+]
+],
 "codes": [
 "SM-S942B, SM-S942B/DS, SM-S942U, SM-S942U1, SM-S942W, SM-S942N, SM-S9420, SM-S942E, SM-S942E/DS"
 ],

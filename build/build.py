@@ -269,7 +269,7 @@ SINGLE = {
  ('SAM', 'Galaxy S26 Ultra'): (C, 'S25 Ultra glass does not fit'),
  ('SAM', 'Galaxy A35'): (K, 'Belkin sells A35 and A55 separately; AXS lists A35/A55/A36/A56 as one'),
  ('SAM', 'Galaxy A55'): (K, 'See Galaxy A35 note'),
- ('SAM', 'Galaxy A57'): (C, 'Samsung: A57 only'),
+ ('SAM', 'Galaxy A57'): (C, 'Samsung sells its own A57 glass'),
  ('SAM', 'Galaxy Tab S8 Ultra'): (K, 'Spigen: S9/S10 Ultra glass is not for S8 Ultra'),
  ('SAM', 'Galaxy Tab S11 Ultra'): (K, 'Some listings group it with S9/S10 Ultra'),
  ('SAM', 'Galaxy Watch9 40mm'): (C, 'Spigen makes size-specific Watch9 glass'),
