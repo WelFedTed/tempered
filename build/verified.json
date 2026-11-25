@@ -16138,5 +16138,89 @@
    }
   ],
   "note": "Gadget Guard and SaharaCase each sell one protector for the Galaxy Note10+ and Note10+ 5G."
+ },
+ {
+  "models": [
+   "Pixel 9",
+   "Pixel 9 Pro",
+   "Pixel 10",
+   "Pixel 10 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi: Spigen EZ Fit GLAS.tR Slim for Pixel 9 / 9 Pro / 10 / 10 Pro",
+    "url": "https://www.jbhifi.com.au/products/spigen-google-pixel-10-10-pro-9-9-pro-ez-fit-glas-tr-slim-2pcs-glass-screen-protector-clear"
+   }
+  ],
+  "note": "Spigen sells one EZ Fit glass for the Pixel 9, 9 Pro, 10 and 10 Pro."
+ },
+ {
+  "models": [
+   "Pixel 9 Pro XL",
+   "Pixel 10 Pro XL",
+   "Pixel 11 Pro XL"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi: Spigen GLAS.tR EZ Fit Pro Privacy for Pixel 11 Pro XL / 10 Pro XL / 9 Pro XL",
+    "url": "https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-xl-10-pro-xl-9-pro-xl-glas-tr-ez-fit-pro-privacy-2pcs-glass-screen-protector-black"
+   }
+  ],
+  "note": "Spigen's EZ Fit Pro privacy glass is listed as compatible with the Pixel 9 Pro XL, 10 Pro XL and 11 Pro XL (same body size); its clear glass for the 11 Pro XL is sold on its own."
+ },
+ {
+  "models": [
+   "Pixel 11",
+   "Pixel 11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "JB Hi-Fi: PanzerGlass Ultra-Wide Fit for Pixel 11 / 11 Pro",
+    "url": "https://www.jbhifi.com.au/products/panzerglass-ultra-wide-fit-screen-protector-for-pixel-11-11-pro"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Pixel 11 and 11 Pro."
+ },
+ {
+  "models": [
+   "Pixel 7 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store: ZAGG InvisibleShield Fusion Curve, compatible with Pixel 7 Pro",
+    "url": "https://store.google.com/us/product/fusion_curve_pixel_7_pro?hl=en-US"
+   }
+  ],
+  "note": "ZAGG's curved Fusion Curve protector on the Google Store is listed for the Pixel 7 Pro only; curved screen."
+ },
+ {
+  "models": [
+   "Pixel Fold"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store: Case-Mate Ultra Glass, compatible with Pixel Fold",
+    "url": "https://store.google.com/us/product/casemate_ultra_glass_screen_protector_pixel_fold"
+   }
+  ],
+  "note": "Case-Mate's Ultra Glass on the Google Store is listed for the Pixel Fold only."
+ },
+ {
+  "models": [
+   "Pixel Tablet"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Google Store: Speck ShieldView Glass for Google Pixel Tablet",
+    "url": "https://store.google.com/us/product/speck_shieldview_glass_pixel_tablet"
+   }
+  ],
+  "note": "Speck sells ShieldView glass for the Pixel Tablet on the Google Store."
  }
 ]

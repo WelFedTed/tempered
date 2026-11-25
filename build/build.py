@@ -198,7 +198,7 @@ SHARED = [
  ('SAM', ['Galaxy Tab S7', 'Galaxy Tab S8', 'Galaxy Tab S9', 'Galaxy Tab S9 FE', 'Galaxy Tab S10 FE', 'Galaxy Tab S10 Lite', 'Galaxy Tab S11'], C, 'Samsung lists S9, S9 FE, S10 FE, S10 Lite; others add S7, S8, S11'),
  ('SAM', ['Galaxy Tab S7+', 'Galaxy Tab S7 FE', 'Galaxy Tab S8+', 'Galaxy Tab S9+', 'Galaxy Tab S9 FE+', 'Galaxy Tab S10+'], C, 'PanzerGlass list'),
  ('SAM', ['Galaxy Tab S9 Ultra', 'Galaxy Tab S10 Ultra'], C, 'Spigen list'),
- ('GOO', ['Pixel 9', 'Pixel 9 Pro', 'Pixel 10', 'Pixel 10 Pro'], C, 'Spigen lists all four'),
+ ('GOO', ['Pixel 9', 'Pixel 9 Pro', 'Pixel 10', 'Pixel 10 Pro'], C, ''),
  ('GOO', ['Pixel 9 Pro XL', 'Pixel 10 Pro XL'], C, 'PanzerGlass list'),
  ('GOO', ['Pixel 11', 'Pixel 11 Pro'], C, 'Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass'),
  ('OPP', ['Oppo A5 4G', 'Oppo A5 5G'], C, 'Blueshift lists both'),
@@ -275,6 +275,7 @@ SINGLE = {
  ('SAM', 'Galaxy Watch9 40mm'): (C, 'Spigen makes size-specific Watch9 glass'),
  ('SAM', 'Galaxy Watch9 44mm'): (C, 'Spigen makes size-specific Watch9 glass'),
  ('GOO', 'Pixel 11 Pro XL'): (C, 'Case-Mate, Mous, dbrand sell it separately from 11/11 Pro'),
+ ('GOO', 'Pixel 6 Pro'): (K, 'Curved screen'),
 
  ('NIN', 'Nintendo Switch'): (C, '6.2in. Nintendo: each Switch model needs its own protector'),
  ('NIN', 'Nintendo Switch Lite'): (C, '5.5in'),

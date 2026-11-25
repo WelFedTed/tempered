@@ -20732,7 +20732,7 @@
 "2021-10"
 ],
 "check": "Check",
-"note": "",
+"note": "Curved screen",
 "device": "Phone",
 "codes": [
 "GLUOG, G8VOU, GF5KQ"
@@ -20742,6 +20742,9 @@
 ],
 "dims": [
 "163.9 x 75.9 x 8.9 mm"
+],
+"tags": [
+"curved"
 ]
 },
 {
@@ -20822,9 +20825,15 @@
 "released": [
 "2022-10"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "ZAGG's curved Fusion Curve protector on the Google Store is listed for the Pixel 7 Pro only; curved screen",
 "device": "Phone",
+"sources": [
+[
+"Google Store: ZAGG InvisibleShield Fusion Curve, compatible with Pixel 7 Pro",
+"https://store.google.com/us/product/fusion_curve_pixel_7_pro?hl=en-US"
+]
+],
 "codes": [
 "GP4BC, GE2AE, GFE4J"
 ],
@@ -20833,6 +20842,9 @@
 ],
 "dims": [
 "162.9 x 76.6 x 8.9 mm"
+],
+"tags": [
+"curved"
 ]
 },
 {
@@ -20882,9 +20894,15 @@
 "released": [
 "2023-05"
 ],
-"check": "Check",
-"note": "Foldable: glass is for the outer (cover) screen",
+"check": "Confirmed",
+"note": "Case-Mate's Ultra Glass on the Google Store is listed for the Pixel Fold only. Foldable: glass is for the outer (cover) screen",
 "device": "Phone",
+"sources": [
+[
+"Google Store: Case-Mate Ultra Glass, compatible with Pixel Fold",
+"https://store.google.com/us/product/casemate_ultra_glass_screen_protector_pixel_fold"
+]
+],
 "codes": [
 "G9FPL"
 ],
@@ -21022,8 +21040,14 @@
 "2025-08"
 ],
 "check": "Confirmed",
-"note": "Spigen lists all four",
+"note": "Spigen sells one EZ Fit glass for the Pixel 9, 9 Pro, 10 and 10 Pro",
 "device": "Phone",
+"sources": [
+[
+"JB Hi-Fi: Spigen EZ Fit GLAS.tR Slim for Pixel 9 / 9 Pro / 10 / 10 Pro",
+"https://www.jbhifi.com.au/products/spigen-google-pixel-10-10-pro-9-9-pro-ez-fit-glas-tr-slim-2pcs-glass-screen-protector-clear"
+]
+],
 "codes": [
 "G2YBB, GUR25, G1B60",
 "GR83Y, GEC77, GWVK6",
@@ -21054,26 +21078,37 @@
 ],
 "models": [
 "Pixel 9 Pro XL",
-"Pixel 10 Pro XL"
+"Pixel 10 Pro XL",
+"Pixel 11 Pro XL"
 ],
 "released": [
 "2024-08",
-"2025-08"
+"2025-08",
+"2026-08"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass list",
+"note": "Spigen's EZ Fit Pro privacy glass is listed as compatible with the Pixel 9 Pro XL, 10 Pro XL and 11 Pro XL (same body size); its clear glass for the 11 Pro XL is sold on its own. PanzerGlass list. Case-Mate, Mous, dbrand sell it separately from 11/11 Pro",
 "device": "Phone",
+"sources": [
+[
+"JB Hi-Fi: Spigen GLAS.tR EZ Fit Pro Privacy for Pixel 11 Pro XL / 10 Pro XL / 9 Pro XL",
+"https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-xl-10-pro-xl-9-pro-xl-glas-tr-ez-fit-pro-privacy-2pcs-glass-screen-protector-black"
+]
+],
 "codes": [
 "GGX8B, GZC4K, GQ57S",
-"G45RY, GUL82, GYPW4"
+"G45RY, GUL82, GYPW4",
+""
 ],
 "screens": [
+"6.8in",
 "6.8in",
 "6.8in"
 ],
 "dims": [
 "162.8 x 76.6 x 8.5 mm",
-"162.8 x 76.6 x 8.5 mm"
+"162.8 x 76.6 x 8.5 mm",
+"162.7 x 76.5 x 8.5 mm"
 ],
 "tags": [
 "fingerprint"
@@ -21236,8 +21271,14 @@
 "2026-08"
 ],
 "check": "Confirmed",
-"note": "Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass",
+"note": "PanzerGlass sells one glass for the Pixel 11 and 11 Pro. Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass",
 "device": "Phone",
+"sources": [
+[
+"JB Hi-Fi: PanzerGlass Ultra-Wide Fit for Pixel 11 / 11 Pro",
+"https://www.jbhifi.com.au/products/panzerglass-ultra-wide-fit-screen-protector-for-pixel-11-11-pro"
+]
+],
 "screens": [
 "6.3in",
 "6.3in"
@@ -21249,28 +21290,6 @@
 },
 {
 "id": "GOO-1040",
-"brand": "Google",
-"brands": [
-"GOO"
-],
-"models": [
-"Pixel 11 Pro XL"
-],
-"released": [
-"2026-08"
-],
-"check": "Confirmed",
-"note": "Case-Mate, Mous, dbrand sell it separately from 11/11 Pro",
-"device": "Phone",
-"screens": [
-"6.8in"
-],
-"dims": [
-"162.7 x 76.5 x 8.5 mm"
-]
-},
-{
-"id": "GOO-1041",
 "brand": "Google",
 "brands": [
 "GOO"
@@ -21448,9 +21467,15 @@
 "released": [
 "2023-05"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Speck sells ShieldView glass for the Pixel Tablet on the Google Store",
 "device": "Tablet",
+"sources": [
+[
+"Google Store: Speck ShieldView Glass for Google Pixel Tablet",
+"https://store.google.com/us/product/speck_shieldview_glass_pixel_tablet"
+]
+],
 "codes": [
 "GA06156-EU, GA06157-EU, GA06158-EU"
 ],

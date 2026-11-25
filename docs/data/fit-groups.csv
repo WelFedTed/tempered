@@ -693,31 +693,30 @@ GOO-1020,Google,Phone,Check,Pixel 4a 5G,2020-09,,,
 GOO-1021,Google,Phone,Check,Pixel 5,2020-09,,,
 GOO-1022,Google,Phone,Check,Pixel 5a,2021-08,,,
 GOO-1023,Google,Phone,Confirmed,Pixel 6,2021-10,ZAGG glass is sold for Pixel 6; Best Buy Q&A says it only fits the regular Pixel 6,,https://store.google.com/product/zagg_screen_protector_pixel_6?hl=en-US https://www.bestbuy.com/product/zagg-glass-elite-maximum-impact-scratch-screen-protector-for-google-pixel-6-clear/J39Q4WW5QY
-GOO-1024,Google,Phone,Check,Pixel 6 Pro,2021-10,,,
+GOO-1024,Google,Phone,Check,Pixel 6 Pro,2021-10,Curved screen,curved,
 GOO-1025,Google,Phone,Confirmed,Pixel 6a,2022-05,ZAGG Glass Elite is sold for Pixel 6a only,,https://store.google.com/product/invisible_shield_glass_elite_pixel?hl=en-US
 GOO-1026,Google,Phone,Confirmed,Pixel 7,2022-10,ZAGG and Spigen sell Pixel 7-only glass,,https://store.google.com/product/glass_elite_case https://www.spigen.com/products/pixel-7-screen-protector-alignmaster-glas-tr
-GOO-1027,Google,Phone,Check,Pixel 7 Pro,2022-10,,,
+GOO-1027,Google,Phone,Confirmed,Pixel 7 Pro,2022-10,ZAGG's curved Fusion Curve protector on the Google Store is listed for the Pixel 7 Pro only; curved screen,curved,https://store.google.com/us/product/fusion_curve_pixel_7_pro?hl=en-US
 GOO-1028,Google,Phone,Confirmed,Pixel 7a,2023-05,ZAGG and OtterBox sell 7a-only glass; listings say it does not fit Pixel 7,,https://store.google.com/us/product/zagg_invisible_shield_glass_elite_pixel_7a?hl=en-US https://store.google.com/us/product/otterbox_trusted_glass_pixel_7a?hl=en-US
-GOO-1029,Google,Phone,Check,Pixel Fold,2023-05,Foldable: glass is for the outer (cover) screen,cover,
+GOO-1029,Google,Phone,Confirmed,Pixel Fold,2023-05,Case-Mate's Ultra Glass on the Google Store is listed for the Pixel Fold only. Foldable: glass is for the outer (cover) screen,cover,https://store.google.com/us/product/casemate_ultra_glass_screen_protector_pixel_fold
 GOO-1030,Google,Phone,Confirmed,Pixel 8,2023-10,Case-Mate sells Pixel 8 glass; Spigen says its glass is only for Pixel 8,,https://store.google.com/us/product/casemate_glass_screen_protector_pixel_8?hl=en-US https://www.spigen.com/products/pixel-8-series-screen-protector-alignmaster
 GOO-1031,Google,Phone,Confirmed,Pixel 8 Pro,2023-10,Case-Mate and ZAGG sell Pixel 8 Pro-only glass,,https://store.google.com/us/product/casemate_glass_screen_protector_pixel_8_pro?hl=en-US https://store.google.com/product/zagg_invisible_shield_glass_elite_pixel_8_pro?hl=en-US
 GOO-1032,Google,Phone,Confirmed,Pixel 8a,2024-05,Case-Mate and ZAGG sell Pixel 8a-only glass,,https://store.google.com/product/casemate_glass_screen_protector_pixel_8a?hl=en-US https://store.google.com/us/product/zagg_glass_elite_invisibleshield_pixel_8a?hl=en-US
-GOO-1033,Google,Phone,Confirmed,Pixel 9; Pixel 9 Pro; Pixel 10; Pixel 10 Pro,2024-08,Spigen lists all four,fingerprint,
-GOO-1034,Google,Phone,Confirmed,Pixel 9 Pro XL; Pixel 10 Pro XL,2024-08,PanzerGlass list,fingerprint,
+GOO-1033,Google,Phone,Confirmed,Pixel 9; Pixel 9 Pro; Pixel 10; Pixel 10 Pro,2024-08,"Spigen sells one EZ Fit glass for the Pixel 9, 9 Pro, 10 and 10 Pro",fingerprint,https://www.jbhifi.com.au/products/spigen-google-pixel-10-10-pro-9-9-pro-ez-fit-glas-tr-slim-2pcs-glass-screen-protector-clear
+GOO-1034,Google,Phone,Confirmed,Pixel 9 Pro XL; Pixel 10 Pro XL; Pixel 11 Pro XL,2024-08,"Spigen's EZ Fit Pro privacy glass is listed as compatible with the Pixel 9 Pro XL, 10 Pro XL and 11 Pro XL (same body size); its clear glass for the 11 Pro XL is sold on its own. PanzerGlass list. Case-Mate, Mous, dbrand sell it separately from 11/11 Pro",fingerprint,https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-xl-10-pro-xl-9-pro-xl-glas-tr-ez-fit-pro-privacy-2pcs-glass-screen-protector-black
 GOO-1035,Google,Phone,Confirmed,Pixel 9 Pro Fold,2024-08,Case-Mate and ZAGG sell cover-screen glass for 9 Pro Fold only. Foldable: glass is for the outer (cover) screen,cover,https://store.google.com/us/product/casemate_glass_screen_protector_pixel_9_pro_fold?hl=en-US https://store.google.com/gb/product/zagg_invisible_shield_glass_xtr3_pixel_9_pro_fold?hl=en-GB
 GOO-1036,Google,Phone,Confirmed,Pixel 9a,2025-03,Case-Mate glass lists Pixel 9a as its only compatible phone,,https://store.google.com/product/casemate_ultra_glass_screen_protector_pixel_9a?hl=en-US
 GOO-1037,Google,Phone,Confirmed,Pixel 10 Pro Fold,2025-08,Case-Mate and ZAGG sell cover-screen glass for 10 Pro Fold only. Foldable: glass is for the outer (cover) screen,cover,https://store.google.com/us/product/casemate_ultra_glass_screen_protector_pixel_10_pro_fold?hl=en-US https://store.google.com/product/zagg_invisibleshield_glass_xtr4_pixel_10_pro_fold?hl=en-US
 GOO-1038,Google,Phone,Confirmed,Pixel 10a,2026-03,Case-Mate and Spigen sell 10a-only glass; Case-Mate sells a separate 9a SKU,,https://store.google.com/product/casemate_ultra_glass_screen_protector_pixel_10a?hl=en-US https://www.jbhifi.com.au/products/spigen-google-pixel-10a-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear
-GOO-1039,Google,Phone,Confirmed,Pixel 11; Pixel 11 Pro,2026-08,"Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass",,
-GOO-1040,Google,Phone,Confirmed,Pixel 11 Pro XL,2026-08,"Case-Mate, Mous, dbrand sell it separately from 11/11 Pro",,
-GOO-1041,Google,Phone,Confirmed,Pixel 11 Pro Fold,2026-08,"Dbrand, ZAGG and Spigen sell cover-screen glass for 11 Pro Fold only. Foldable: glass is for the outer (cover) screen",cover,https://store.google.com/us/product/dbrand_prism_pixel_11_pro_fold?hl=en-US https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-fold-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear
+GOO-1039,Google,Phone,Confirmed,Pixel 11; Pixel 11 Pro,2026-08,"PanzerGlass sells one glass for the Pixel 11 and 11 Pro. Case-Mate, Mous, dbrand list both. Not the same size as Pixel 10 glass",,https://www.jbhifi.com.au/products/panzerglass-ultra-wide-fit-screen-protector-for-pixel-11-11-pro
+GOO-1040,Google,Phone,Confirmed,Pixel 11 Pro Fold,2026-08,"Dbrand, ZAGG and Spigen sell cover-screen glass for 11 Pro Fold only. Foldable: glass is for the outer (cover) screen",cover,https://store.google.com/us/product/dbrand_prism_pixel_11_pro_fold?hl=en-US https://www.jbhifi.com.au/products/spigen-google-pixel-11-pro-fold-glas-tr-ez-fit-pro-2pcs-glass-screen-protector-clear
 GOO-2001,Google,Tablet,Check,Nexus 7 (2012),2012-06,,,
 GOO-2002,Google,Tablet,Check,Nexus 10,2012-10,,,
 GOO-2003,Google,Tablet,Check,Nexus 7 (2013),2013-07,,,
 GOO-2004,Google,Tablet,Check,Nexus 9,2014-10,,,
 GOO-2005,Google,Tablet,Check,Pixel C,2015-09,,,
 GOO-2006,Google,Tablet,Check,Pixel Slate,2018-10,,,
-GOO-2007,Google,Tablet,Check,Pixel Tablet,2023-05,,,
+GOO-2007,Google,Tablet,Confirmed,Pixel Tablet,2023-05,Speck sells ShieldView glass for the Pixel Tablet on the Google Store,,https://store.google.com/us/product/speck_shieldview_glass_pixel_tablet
 GOO-3001,Google,Wearable,Check,Fitbit Ultra,2011-10,,,
 GOO-3002,Google,Wearable,Check,Fitbit One,2012-09,,,
 GOO-3003,Google,Wearable,Check,Fitbit Zip,2012-09,,,
