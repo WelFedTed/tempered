@@ -219945,7 +219945,8 @@
 "Coros Pace Pro",
 "Polar Grit X2",
 "Garmin fenix 9 43mm",
-"Garmin fenix 9 Pro 43mm"
+"Garmin fenix 9 Pro 43mm",
+"Garmin fenix 9 Pro Solar 47mm"
 ],
 "released": [
 "1900-01",
@@ -220005,6 +220006,7 @@
 "2024-10",
 "2025-06",
 "2026-08",
+"2026-08",
 "2026-08"
 ],
 "check": "Check",
@@ -220034,6 +220036,7 @@
 "",
 "",
 "ES43C",
+"",
 "",
 "",
 "",
@@ -220128,6 +220131,7 @@
 "1.3in",
 "1.28in",
 "1.3in",
+"1.3in",
 "1.3in"
 ],
 "dims": [
@@ -220188,7 +220192,8 @@
 "46 x 46 x 12.25 mm",
 "44.7 x 44.7 x 12.5 mm",
 "43 x 43 x 13.8 mm",
-"43 x 43 x 13.3 mm"
+"43 x 43 x 13.3 mm",
+"47 x 47 x 15.8 mm"
 ],
 "tags": [
 "measure"
@@ -220476,6 +220481,8 @@
 "Garmin quatix 8 Pro 47mm",
 "Garmin fenix 9 47mm",
 "Garmin fenix 9 Pro 47mm",
+"Garmin fenix 9 51mm",
+"Garmin fenix 9 Pro Solar 51mm",
 "Garmin Enduro 4"
 ],
 "released": [
@@ -220553,6 +220560,8 @@
 "2026-01",
 "2026-08",
 "2026-08",
+"2026-08",
+"2026-08",
 "2026-10"
 ],
 "check": "Check",
@@ -220596,6 +220605,8 @@
 "",
 "RMW2008",
 "XMWTCL02",
+"",
+"",
 "",
 "",
 "",
@@ -220710,6 +220721,8 @@
 "1.4in",
 "1.4in",
 "1.4in",
+"1.4in",
+"1.4in",
 "1.4in"
 ],
 "dims": [
@@ -220787,6 +220800,8 @@
 "47 x 47 x 15.2 mm",
 "47 x 47 x 13.8 mm",
 "47 x 47 x 13.8 mm",
+"51 x 51 x 14.7 mm",
+"51 x 51 x 16.6 mm",
 "51 x 51 x 15.7 mm"
 ],
 "tags": [
@@ -221098,7 +221113,6 @@
 "Xiaomi Watch S5 46mm",
 "Amazfit Balance 3",
 "Amazfit Balance Ultra",
-"Garmin fenix 9 51mm",
 "Garmin fenix 9 Pro 51mm",
 "Coros Pace 4 Pro"
 ],
@@ -221138,7 +221152,6 @@
 "2026-06",
 "2026-06",
 "2026-06",
-"2026-08",
 "2026-08",
 "2026-09"
 ],
@@ -221182,7 +221195,6 @@
 "",
 "",
 "",
-"",
 ""
 ],
 "screens": [
@@ -221221,7 +221233,6 @@
 "1.48in",
 "1.5in",
 "1.5in",
-"1.4in",
 "1.5in",
 "1.47in"
 ],
@@ -221261,7 +221272,6 @@
 "46 x 46 x 11 mm",
 "51.4 x 51.4 x 14.6 mm",
 "51.8 x 51.8 x 15.5 mm",
-"51 x 51 x 14.7 mm",
 "51 x 51 x 15.8 mm",
 "47.6 x 47.6 x 11.8 mm"
 ],
@@ -226374,26 +226384,32 @@
 ],
 "models": [
 "Garmin fenix 9 47mm",
-"Garmin fenix 9 Pro 47mm",
-"Garmin fenix 9 Pro Solar 47mm"
+"Garmin fenix 9 Pro 47mm"
 ],
 "released": [
-"2026-08",
 "2026-08",
 "2026-08"
 ],
 "check": "Check",
-"note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0014 (36mm); measure first",
+"note": "The fenix 9 Pro Solar 47mm has a smaller 33mm (1.3in) MIP screen and a thicker 15.8 mm case; the fenix 9 and 9 Pro AMOLED 47mm have a 35.6mm (1.4in) screen. Same case and screen size: test before swapping. Universal round glass: try UNI-0014 (36mm); measure first",
 "device": "Wearable",
+"sources": [
+[
+"the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+"https://the5krunner.com/specs/garmin/fenix-9/"
+],
+[
+"the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+"https://the5krunner.com/specs/garmin/fenix-9-pro/"
+]
+],
 "screens": [
 "1.4in",
-"1.4in",
-"1.3in"
+"1.4in"
 ],
 "dims": [
 "47 x 47 x 13.8 mm",
-"47 x 47 x 13.8 mm",
-"47 x 47 x 15.8 mm"
+"47 x 47 x 13.8 mm"
 ],
 "tags": [
 "measure"
@@ -226406,27 +226422,29 @@
 "GAR"
 ],
 "models": [
-"Garmin fenix 9 51mm",
-"Garmin fenix 9 Pro 51mm",
-"Garmin fenix 9 Pro Solar 51mm"
+"Garmin fenix 9 Pro Solar 47mm"
 ],
 "released": [
-"2026-08",
-"2026-08",
 "2026-08"
 ],
 "check": "Check",
-"note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0016 (38mm); measure first",
+"note": "The fenix 9 Pro Solar 47mm has a smaller 33mm (1.3in) MIP screen and a thicker 15.8 mm case; the fenix 9 and 9 Pro AMOLED 47mm have a 35.6mm (1.4in) screen. Universal round glass: try UNI-0011 (33mm); measure first",
 "device": "Wearable",
+"sources": [
+[
+"the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+"https://the5krunner.com/specs/garmin/fenix-9/"
+],
+[
+"the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+"https://the5krunner.com/specs/garmin/fenix-9-pro/"
+]
+],
 "screens": [
-"1.4in",
-"1.5in",
-"1.4in"
+"1.3in"
 ],
 "dims": [
-"51 x 51 x 14.7 mm",
-"51 x 51 x 15.8 mm",
-"51 x 51 x 16.6 mm"
+"47 x 47 x 15.8 mm"
 ],
 "tags": [
 "measure"
@@ -226434,6 +226452,111 @@
 },
 {
 "id": "GAR-3181",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin fenix 9 51mm"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "Three different 51mm screens: the fenix 9 has a 35.6mm (1.4in) AMOLED, the 9 Pro a larger 38.1mm (1.5in) AMOLED, and the 9 Pro Solar a 35.6mm MIP screen in a 16.6 mm thick case. Universal round glass: try UNI-0014 (36mm); measure first",
+"device": "Wearable",
+"sources": [
+[
+"the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+"https://the5krunner.com/specs/garmin/fenix-9/"
+],
+[
+"the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+"https://the5krunner.com/specs/garmin/fenix-9-pro/"
+]
+],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 14.7 mm"
+],
+"tags": [
+"measure"
+]
+},
+{
+"id": "GAR-3182",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin fenix 9 Pro 51mm"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "Three different 51mm screens: the fenix 9 has a 35.6mm (1.4in) AMOLED, the 9 Pro a larger 38.1mm (1.5in) AMOLED, and the 9 Pro Solar a 35.6mm MIP screen in a 16.6 mm thick case. Universal round glass: try UNI-0016 (38mm); measure first",
+"device": "Wearable",
+"sources": [
+[
+"the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+"https://the5krunner.com/specs/garmin/fenix-9/"
+],
+[
+"the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+"https://the5krunner.com/specs/garmin/fenix-9-pro/"
+]
+],
+"screens": [
+"1.5in"
+],
+"dims": [
+"51 x 51 x 15.8 mm"
+],
+"tags": [
+"measure"
+]
+},
+{
+"id": "GAR-3183",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin fenix 9 Pro Solar 51mm"
+],
+"released": [
+"2026-08"
+],
+"check": "Check",
+"note": "Three different 51mm screens: the fenix 9 has a 35.6mm (1.4in) AMOLED, the 9 Pro a larger 38.1mm (1.5in) AMOLED, and the 9 Pro Solar a 35.6mm MIP screen in a 16.6 mm thick case. Universal round glass: try UNI-0014 (36mm); measure first",
+"device": "Wearable",
+"sources": [
+[
+"the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+"https://the5krunner.com/specs/garmin/fenix-9/"
+],
+[
+"the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+"https://the5krunner.com/specs/garmin/fenix-9-pro/"
+]
+],
+"screens": [
+"1.4in"
+],
+"dims": [
+"51 x 51 x 16.6 mm"
+],
+"tags": [
+"measure"
+]
+},
+{
+"id": "GAR-3184",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226458,7 +226581,7 @@
 ]
 },
 {
-"id": "GAR-3182",
+"id": "GAR-3185",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226480,7 +226603,7 @@
 ]
 },
 {
-"id": "GAR-3183",
+"id": "GAR-3186",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226496,7 +226619,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3184",
+"id": "GAR-3187",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226538,7 +226661,7 @@
 ]
 },
 {
-"id": "GAR-3185",
+"id": "GAR-3188",
 "brand": "Garmin",
 "brands": [
 "GAR"

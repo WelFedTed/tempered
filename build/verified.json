@@ -15660,5 +15660,42 @@
    }
   ],
   "note": "Different case sizes: vivomove 3 44 mm, vivomove Luxe 42 mm."
+ },
+ {
+  "models": [
+   "Garmin fenix 9 47mm",
+   "Garmin fenix 9 Pro Solar 47mm"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+    "url": "https://the5krunner.com/specs/garmin/fenix-9/"
+   },
+   {
+    "name": "the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+    "url": "https://the5krunner.com/specs/garmin/fenix-9-pro/"
+   }
+  ],
+  "note": "The fenix 9 Pro Solar 47mm has a smaller 33mm (1.3in) MIP screen and a thicker 15.8 mm case; the fenix 9 and 9 Pro AMOLED 47mm have a 35.6mm (1.4in) screen."
+ },
+ {
+  "models": [
+   "Garmin fenix 9 51mm",
+   "Garmin fenix 9 Pro 51mm",
+   "Garmin fenix 9 Pro Solar 51mm"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "the5krunner fenix 9 specs (47mm 1.4in; 51mm 35.6mm / 1.4in)",
+    "url": "https://the5krunner.com/specs/garmin/fenix-9/"
+   },
+   {
+    "name": "the5krunner fenix 9 Pro specs (51mm 38.1mm / 1.5in; Solar 47mm 33mm MIP, 51mm 35.6mm MIP)",
+    "url": "https://the5krunner.com/specs/garmin/fenix-9-pro/"
+   }
+  ],
+  "note": "Three different 51mm screens: the fenix 9 has a 35.6mm (1.4in) AMOLED, the 9 Pro a larger 38.1mm (1.5in) AMOLED, and the 9 Pro Solar a 35.6mm MIP screen in a 16.6 mm thick case."
  }
 ]

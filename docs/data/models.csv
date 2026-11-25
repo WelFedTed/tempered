@@ -11535,6 +11535,7 @@ Coros Pace Pro,UNI-0011,Universal,Misc,2024-10,,1.3in,46 x 46 x 12.25
 Polar Grit X2,UNI-0011,Universal,Misc,2025-06,,1.28in,44.7 x 44.7 x 12.5
 Garmin fenix 9 43mm,UNI-0011,Universal,Misc,2026-08,,1.3in,43 x 43 x 13.8
 Garmin fenix 9 Pro 43mm,UNI-0011,Universal,Misc,2026-08,,1.3in,43 x 43 x 13.3
+Garmin fenix 9 Pro Solar 47mm,UNI-0011,Universal,Misc,2026-08,,1.3in,47 x 47 x 15.8
 Universal round glass 34mm,UNI-0012,Universal,Misc,,,,
 Amazfit Pace,UNI-0012,Universal,Misc,2016-09,,1.34in,
 Amazfit Stratos,UNI-0012,Universal,Misc,2017-11,,1.34in,46 x 46 x 13.9
@@ -11640,6 +11641,8 @@ Garmin D2 Mach 2 47mm,UNI-0014,Universal,Misc,2025-10,,1.4in,47 x 47 x 13.8
 Garmin quatix 8 Pro 47mm,UNI-0014,Universal,Misc,2026-01,,1.4in,47 x 47 x 15.2
 Garmin fenix 9 47mm,UNI-0014,Universal,Misc,2026-08,,1.4in,47 x 47 x 13.8
 Garmin fenix 9 Pro 47mm,UNI-0014,Universal,Misc,2026-08,,1.4in,47 x 47 x 13.8
+Garmin fenix 9 51mm,UNI-0014,Universal,Misc,2026-08,,1.4in,51 x 51 x 14.7
+Garmin fenix 9 Pro Solar 51mm,UNI-0014,Universal,Misc,2026-08,,1.4in,51 x 51 x 16.6
 Garmin Enduro 4,UNI-0014,Universal,Misc,2026-10,,1.4in,51 x 51 x 15.7
 Universal round glass 37mm,UNI-0015,Universal,Misc,,,,
 Asus Zenwatch 2 WI502Q,UNI-0015,Universal,Misc,2015-09,,1.45in,45.2 x 37.2 x 11.8
@@ -11724,7 +11727,6 @@ OnePlus Watch 4,UNI-0016,Universal,Misc,2026-04,,1.5in,47.4 x 47.4 x 11
 Xiaomi Watch S5 46mm,UNI-0016,Universal,Misc,2026-06,"M2530W1, M2517W1",1.48in,46 x 46 x 11
 Amazfit Balance 3,UNI-0016,Universal,Misc,2026-06,,1.5in,51.4 x 51.4 x 14.6
 Amazfit Balance Ultra,UNI-0016,Universal,Misc,2026-06,,1.5in,51.8 x 51.8 x 15.5
-Garmin fenix 9 51mm,UNI-0016,Universal,Misc,2026-08,,1.4in,51 x 51 x 14.7
 Garmin fenix 9 Pro 51mm,UNI-0016,Universal,Misc,2026-08,,1.5in,51 x 51 x 15.8
 Coros Pace 4 Pro,UNI-0016,Universal,Misc,2026-09,,1.47in,47.6 x 47.6 x 11.8
 Universal round glass 39mm,UNI-0017,Universal,Misc,,,,
@@ -12000,20 +12002,20 @@ Garmin fenix 9 43mm,GAR-3178,Garmin,Wearable,2026-08,,1.3in,43 x 43 x 13.8
 Garmin fenix 9 Pro 43mm,GAR-3178,Garmin,Wearable,2026-08,,1.3in,43 x 43 x 13.3
 Garmin fenix 9 47mm,GAR-3179,Garmin,Wearable,2026-08,,1.4in,47 x 47 x 13.8
 Garmin fenix 9 Pro 47mm,GAR-3179,Garmin,Wearable,2026-08,,1.4in,47 x 47 x 13.8
-Garmin fenix 9 Pro Solar 47mm,GAR-3179,Garmin,Wearable,2026-08,,1.3in,47 x 47 x 15.8
-Garmin fenix 9 51mm,GAR-3180,Garmin,Wearable,2026-08,,1.4in,51 x 51 x 14.7
-Garmin fenix 9 Pro 51mm,GAR-3180,Garmin,Wearable,2026-08,,1.5in,51 x 51 x 15.8
-Garmin fenix 9 Pro Solar 51mm,GAR-3180,Garmin,Wearable,2026-08,,1.4in,51 x 51 x 16.6
-Garmin Enduro 4,GAR-3181,Garmin,Wearable,2026-10,,1.4in,51 x 51 x 15.7
-Garmin Approach S72 43mm,GAR-3182,Garmin,Wearable,2026-10,,1.3in,43 x 43 x 12.93
-Garmin Approach S72 47mm,GAR-3183,Garmin,Wearable,2026-10,,,
-Garmin MARQ (Gen 3) Adventurer,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin MARQ (Gen 3) Athlete,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin MARQ (Gen 3) Aviator,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin MARQ (Gen 3) Commander,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin MARQ (Gen 3) Diver,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin MARQ (Gen 3) Golfer,GAR-3184,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
-Garmin Descent X10,GAR-3185,Garmin,Wearable,2026-11,,,
+Garmin fenix 9 Pro Solar 47mm,GAR-3180,Garmin,Wearable,2026-08,,1.3in,47 x 47 x 15.8
+Garmin fenix 9 51mm,GAR-3181,Garmin,Wearable,2026-08,,1.4in,51 x 51 x 14.7
+Garmin fenix 9 Pro 51mm,GAR-3182,Garmin,Wearable,2026-08,,1.5in,51 x 51 x 15.8
+Garmin fenix 9 Pro Solar 51mm,GAR-3183,Garmin,Wearable,2026-08,,1.4in,51 x 51 x 16.6
+Garmin Enduro 4,GAR-3184,Garmin,Wearable,2026-10,,1.4in,51 x 51 x 15.7
+Garmin Approach S72 43mm,GAR-3185,Garmin,Wearable,2026-10,,1.3in,43 x 43 x 12.93
+Garmin Approach S72 47mm,GAR-3186,Garmin,Wearable,2026-10,,,
+Garmin MARQ (Gen 3) Adventurer,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin MARQ (Gen 3) Athlete,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin MARQ (Gen 3) Aviator,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin MARQ (Gen 3) Commander,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin MARQ (Gen 3) Diver,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin MARQ (Gen 3) Golfer,GAR-3187,Garmin,Wearable,2026-10,,1.4in,47 x 47 x 15
+Garmin Descent X10,GAR-3188,Garmin,Wearable,2026-11,,,
 Amazfit Pace,AMF-3001,Amazfit,Wearable,2016-09,,1.34in,
 Amazfit Bip,AMF-3002,Amazfit,Wearable,2017-06,,1.28in,39.4 x 34.1 x 9.5
 Amazfit Cor,AMF-3003,Amazfit,Wearable,2017-09,,1.23in,

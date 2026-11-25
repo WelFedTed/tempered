@@ -675,7 +675,7 @@ GARMIN_IN = {'Forerunner 45': 1.04, 'Forerunner 45S': 1.04, 'Forerunner 55': 1.0
  'epix Pro (Gen 2) 42mm': 1.2, 'epix Pro (Gen 2) 47mm': 1.3, 'epix Pro (Gen 2) 51mm': 1.4, 'fenix 8 AMOLED 43mm': 1.3,
  'fenix 8 AMOLED 47mm': 1.4, 'fenix 8 AMOLED 51mm': 1.4, 'fenix 8 Solar 47mm': 1.3, 'fenix 8 Solar 51mm': 1.4, 'fenix E 47mm': 1.3,
  'fenix 8 Pro AMOLED 47mm': 1.4, 'fenix 8 Pro AMOLED 51mm': 1.4, 'fenix 9 43mm': 1.3, 'fenix 9 Pro 43mm': 1.3, 'fenix 9 47mm': 1.4,
- 'fenix 9 Pro 47mm': 1.4, 'fenix 9 51mm': 1.5, 'fenix 9 Pro 51mm': 1.5, 'Venu': 1.2, 'Venu 2': 1.3, 'Venu 2S': 1.1, 'Venu 2 Plus': 1.3,
+ 'fenix 9 Pro 47mm': 1.4, 'fenix 9 51mm': 1.4, 'fenix 9 Pro 51mm': 1.5, 'fenix 9 Pro Solar 47mm': 1.3, 'fenix 9 Pro Solar 51mm': 1.4, 'Venu': 1.2, 'Venu 2': 1.3, 'Venu 2S': 1.1, 'Venu 2 Plus': 1.3,
  'Venu 3': 1.4, 'Venu 3S': 1.2, 'Venu 4 41mm': 1.2, 'Venu 4 45mm': 1.4, 'vivoactive 3': 1.2, 'vivoactive 3 Music': 1.2,
  'vivoactive 4': 1.3, 'vivoactive 4S': 1.1, 'vivoactive 5': 1.2, 'vivoactive 6': 1.2, 'Enduro': 1.4, 'Enduro 2': 1.4, 'Enduro 3': 1.4,
  'Enduro 4': 1.4, 'MARQ (Gen 2)': 1.3, 'Approach S62': 1.3, 'Approach S60': 1.2, 'Approach S70 42mm': 1.1, 'Approach S70 47mm': 1.4,
