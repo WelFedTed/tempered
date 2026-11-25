@@ -12055,7 +12055,7 @@
     "url": "https://www.belkin.com/support-article?articleNum=337046"
    }
   ],
-  "note": "Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi; S26+ not confirmed."
+  "note": "Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi."
  },
  {
   "models": [
@@ -15906,5 +15906,35 @@
    }
   ],
   "note": "Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE."
+ },
+ {
+  "models": [
+   "Galaxy S25+",
+   "Galaxy S26+"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Spigen EZ Fit for Galaxy S25 Plus / S24 Plus (\"Designed for Galaxy S25 Plus / S24 Plus only\")",
+    "url": "https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro for Galaxy S26+ (\"designed exclusively for Galaxy S26+\")",
+    "url": "https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247"
+   }
+  ],
+  "note": "Spigen's S24+/S25+ glass is for those two only, and its S26+ glass is made for the S26+ alone, even though the bodies measure the same. Buy S26+ glass for the S26+."
+ },
+ {
+  "models": [
+   "Galaxy S26+"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro for Galaxy S26+ (\"designed exclusively for Galaxy S26+\")",
+    "url": "https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247"
+   }
+  ]
  }
 ]

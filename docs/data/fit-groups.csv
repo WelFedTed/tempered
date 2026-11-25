@@ -532,7 +532,7 @@ SAM-1457,Samsung,Phone,Check,Galaxy Z Fold5,2023-07,Foldable: glass is for the o
 SAM-1458,Samsung,Phone,Check,Galaxy A05; Galaxy A05s; Galaxy M14 4G; Galaxy F14 4G; Galaxy M05; Galaxy F05,2023-09,"Sellers confirm Galaxy A05, Galaxy A05s. The rest match on specs: test before swapping. Tactical and nemo glass are each sold for A05 and A05s together; M05, F05, M14 4G and F14 4G not confirmed",,https://aio.lv/en/product--tactical-8596311237362--11016785.md https://aio.lv/en/product--nemo-34391--11712330.md
 SAM-1459,Samsung,Phone,Confirmed,Galaxy A15; Galaxy A15 5G; Galaxy A25; Galaxy M15,2023-12,"Bizon Glass Edge Duo is sold as one tempered glass for A15 4G/5G, A25 5G and M15 5G",,https://homescreen.pl/szklo-folia-etui-galaxy-m15-5g/120203-szklo-hartowane-bizon-glass-edge-duo-do-samsung-galaxy-a15-4g-5g-a25-5g-m15-5g-czarna-ramka-2-pack-5900415719786.html
 SAM-1460,Samsung,Phone,Confirmed,Galaxy S24; Galaxy S25,2024-01,"Belkin, OtterBox, PanzerGlass list",fingerprint,
-SAM-1461,Samsung,Phone,Check,Galaxy S24+; Galaxy S25+; Galaxy S26+,2024-01,"Sellers confirm Galaxy S24+, Galaxy S25+. The rest match on specs: test before swapping. Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi; S26+ not confirmed. Belkin, PanzerGlass list",fingerprint,https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear https://www.jbhifi.com.au/products/spigen-ez-fit-privacy-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-black https://www.belkin.com/support-article?articleNum=337046
+SAM-1461,Samsung,Phone,Confirmed,Galaxy S24+; Galaxy S25+,2024-01,"Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi. Spigen's S24+/S25+ glass is for those two only, and its S26+ glass is made for the S26+ alone, even though the bodies measure the same. Buy S26+ glass for the S26+. Belkin, PanzerGlass list",fingerprint measure,https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear https://www.jbhifi.com.au/products/spigen-ez-fit-privacy-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-black https://www.belkin.com/support-article?articleNum=337046 https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247
 SAM-1462,Samsung,Phone,Confirmed,Galaxy S24 Ultra,2024-01,"Olixar sells S24 Ultra-only tempered glass at MobileFun, and Whitestone Dome sells S24 Ultra UV-glue glass there",fingerprint uv,https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s24-ultra-98374
 SAM-1463,Samsung,Phone,Check,Galaxy F15,2024-03,,,
 SAM-1464,Samsung,Phone,Confirmed,Galaxy A35; Galaxy A55; Galaxy M35,2024-03,"Bizon sells several tempered glasses (Edge Duo, Clear Shadow, Edge Shadow) for M35 5G, A35 5G and A55 5G as one fit. Belkin sells A35 and A55 separately; AXS lists A35/A55/A36/A56 as one. See Galaxy A35 note",,https://homescreen.pl/szklo-folia-etui-galaxy-m35-5g/120207-szklo-hartowane-bizon-glass-edge-duo-do-samsung-galaxy-m35-5g-a35-5g-a55-5g-czarna-ramka-2-pack-5900415719823.html https://homescreen.pl/szklo-folia-etui-galaxy-m35-5g/119992-prywatyzujace-szklo-hartowane-bizon-glass-clear-shadow-do-samsung-galaxy-m35-5g-a35-5g-a55-5g-przyciemniane-2-pack-5900415718550.html
@@ -549,16 +549,17 @@ SAM-1474,Samsung,Phone,Confirmed,Galaxy Z Fold7; Galaxy Z Fold8 Ultra,2025-07,"Z
 SAM-1475,Samsung,Phone,Confirmed,Galaxy Z Flip7; Galaxy Z Flip8,2025-07,PanzerGlass sells its own Flip7 glass; Flip7 FE/Flip6 glass is marked not for Flip7. Spigen's cover-screen glass lists the Z Flip7 and Z Flip8. Foldable: glass is for the outer (cover) screen,cover,https://www.jbhifi.com.au/products/panzerglass-ultrawide-fit-screen-protector-for-galaxy-z-flip7 https://www.bestbuy.ca/en-ca/product/front-screen-protector-for-galaxy-z-flip7fe-2025-z-flip-6-2024-tempered-gl-film-with-easy-installation/19960265 https://www.spigen.com/products/galaxy-z-flip-8-series-glas-tr-ez-fit https://www.jbhifi.com.au/products/spigen-galaxy-z-flip-8-7-glas-tr-ez-fit-screen-protector-2pcs-clear
 SAM-1476,Samsung,Phone,Check,Galaxy Z TriFold,2025-12,Foldable: glass is for the outer (cover) screen,cover,
 SAM-1477,Samsung,Phone,Check,Galaxy S26,2026-02,Brands sell S26-specific glass,fingerprint,
-SAM-1478,Samsung,Phone,Confirmed,Galaxy S26 Ultra,2026-02,S25 Ultra glass does not fit,fingerprint,
-SAM-1479,Samsung,Phone,Check,Galaxy A27,2026-04,,,
-SAM-1480,Samsung,Phone,Check,Galaxy M47,2026-06,,,
-SAM-1481,Samsung,Phone,Check,Galaxy Z Fold8,2026-07,Spigen says its Z Fold8 cover glass fits only the standard Z Fold8; the Z Fold8 Ultra takes the Z Fold7's glass. Foldable: glass is for the outer (cover) screen,cover,https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro
-SAM-1482,Samsung,Phone,Check,Galaxy F70 Pro,2026-08,,,
-SAM-1483,Samsung,Phone,Check,Galaxy A18,2026-09,,,
-SAM-1484,Samsung,Phone,Check,Galaxy A07s,2026-09,,,
-SAM-1485,Samsung,Phone,Check,Galaxy F08,2026-10,,,
-SAM-1486,Samsung,Phone,Check,Galaxy F70,2026-10,,,
-SAM-1487,Samsung,Phone,Check,Galaxy M08,2026-10,,,
+SAM-1478,Samsung,Phone,Confirmed,Galaxy S26+,2026-02,"Spigen's S24+/S25+ glass is for those two only, and its S26+ glass is made for the S26+ alone, even though the bodies measure the same. Buy S26+ glass for the S26+",fingerprint measure,https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247
+SAM-1479,Samsung,Phone,Confirmed,Galaxy S26 Ultra,2026-02,S25 Ultra glass does not fit,fingerprint,
+SAM-1480,Samsung,Phone,Check,Galaxy A27,2026-04,,,
+SAM-1481,Samsung,Phone,Check,Galaxy M47,2026-06,,,
+SAM-1482,Samsung,Phone,Check,Galaxy Z Fold8,2026-07,Spigen says its Z Fold8 cover glass fits only the standard Z Fold8; the Z Fold8 Ultra takes the Z Fold7's glass. Foldable: glass is for the outer (cover) screen,cover,https://www.spigen.com/products/galaxy-z-fold-8-series-glas-tr-ez-fit-pro
+SAM-1483,Samsung,Phone,Check,Galaxy F70 Pro,2026-08,,,
+SAM-1484,Samsung,Phone,Check,Galaxy A18,2026-09,,,
+SAM-1485,Samsung,Phone,Check,Galaxy A07s,2026-09,,,
+SAM-1486,Samsung,Phone,Check,Galaxy F08,2026-10,,,
+SAM-1487,Samsung,Phone,Check,Galaxy F70,2026-10,,,
+SAM-1488,Samsung,Phone,Check,Galaxy M08,2026-10,,,
 SAM-2001,Samsung,Tablet,Check,Galaxy Tab CDMA P100,2010-09,,,
 SAM-2002,Samsung,Tablet,Check,P1000 Galaxy Tab; Galaxy Tab T-Mobile T849; Galaxy Tab 4G LTE; P1010 Galaxy Tab Wi-Fi,2010-09,Same body size and screen specs: test before swapping,,
 SAM-2003,Samsung,Tablet,Check,P7100 Galaxy Tab 10.1v,2011-02,,,

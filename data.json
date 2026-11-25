@@ -15628,16 +15628,14 @@
 ],
 "models": [
 "Galaxy S24+",
-"Galaxy S25+",
-"Galaxy S26+"
+"Galaxy S25+"
 ],
 "released": [
 "2024-01",
-"2025-01",
-"2026-02"
+"2025-01"
 ],
-"check": "Check",
-"note": "Sellers confirm Galaxy S24+, Galaxy S25+. The rest match on specs: test before swapping. Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi; S26+ not confirmed. Belkin, PanzerGlass list",
+"check": "Confirmed",
+"note": "Spigen EZ Fit glass is sold for S25+ and S24+ together at JB Hi-Fi. Spigen's S24+/S25+ glass is for those two only, and its S26+ glass is made for the S26+ alone, even though the bodies measure the same. Buy S26+ glass for the S26+. Belkin, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -15651,25 +15649,31 @@
 [
 "Belkin ScreenForce InvisiGlass FAQ",
 "https://www.belkin.com/support-article?articleNum=337046"
+],
+[
+"Spigen EZ Fit for Galaxy S25 Plus / S24 Plus (\"Designed for Galaxy S25 Plus / S24 Plus only\")",
+"https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear"
+],
+[
+"Spigen GLAS.tR EZ Fit Pro for Galaxy S26+ (\"designed exclusively for Galaxy S26+\")",
+"https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247"
 ]
 ],
 "codes": [
 "SM-S926B, SM-S926B/DS, SM-S926U, SM-S926U1, SM-S926W, SM-S926N, SM-S9260, SM-S926E, SM-S926E/DS",
-"SM-S936B, SM-S936B/DS, SM-S936U, SM-S936U1, SM-S936W, SM-S936N, SM-S9360, SM-S936E, SM-S936E/DS",
-"SM-S947B, SM-S947B/DS, SM-S947U, SM-S947U1, SM-S947W, SM-S947N, SM-S9470, SM-S947E, SM-S947E/DS"
+"SM-S936B, SM-S936B/DS, SM-S936U, SM-S936U1, SM-S936W, SM-S936N, SM-S9360, SM-S936E, SM-S936E/DS"
 ],
 "screens": [
-"6.7in",
 "6.7in",
 "6.7in"
 ],
 "dims": [
 "158.5 x 75.9 x 7.7 mm",
-"158.4 x 75.8 x 7.3 mm",
 "158.4 x 75.8 x 7.3 mm"
 ],
 "tags": [
-"fingerprint"
+"fingerprint",
+"measure"
 ]
 },
 {
@@ -16469,6 +16473,45 @@
 "SAM"
 ],
 "models": [
+"Galaxy S26+"
+],
+"released": [
+"2026-02"
+],
+"check": "Confirmed",
+"note": "Spigen's S24+/S25+ glass is for those two only, and its S26+ glass is made for the S26+ alone, even though the bodies measure the same. Buy S26+ glass for the S26+",
+"device": "Phone",
+"sources": [
+[
+"Spigen EZ Fit for Galaxy S25 Plus / S24 Plus (\"Designed for Galaxy S25 Plus / S24 Plus only\")",
+"https://www.jbhifi.com.au/products/spigen-ez-fit-2pcs-glass-screen-protector-for-galaxy-s25-plus-s24-plus-clear"
+],
+[
+"Spigen GLAS.tR EZ Fit Pro for Galaxy S26+ (\"designed exclusively for Galaxy S26+\")",
+"https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector?variant=44850209587247"
+]
+],
+"codes": [
+"SM-S947B, SM-S947B/DS, SM-S947U, SM-S947U1, SM-S947W, SM-S947N, SM-S9470, SM-S947E, SM-S947E/DS"
+],
+"screens": [
+"6.7in"
+],
+"dims": [
+"158.4 x 75.8 x 7.3 mm"
+],
+"tags": [
+"fingerprint",
+"measure"
+]
+},
+{
+"id": "SAM-1479",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
 "Galaxy S26 Ultra"
 ],
 "released": [
@@ -16491,7 +16534,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16516,7 +16559,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16541,7 +16584,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16572,7 +16615,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16594,7 +16637,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16616,7 +16659,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16638,7 +16681,7 @@
 ]
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16660,7 +16703,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16676,7 +16719,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1488",
 "brand": "Samsung",
 "brands": [
 "SAM"
