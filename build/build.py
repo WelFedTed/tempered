@@ -894,6 +894,11 @@ def fit_tags(g):
 def _per_model(g, key, out):
     cover = 'cover' in fit_tags(g)  # foldables: cover glass fits the cover screen and the folded body
     vals = [m.get('c' + key, '') if cover else m.get(key, '') for m in g['members']]
+    if key == 'dims' and g['cat'] != 'Wearable':  # longest side first, so sizes compare (some tablets are listed landscape)
+        def _long(v):
+            n = re.findall(r'[\d.]+', v)
+            return f'{n[1]} x {n[0]} x {n[2]} mm' if len(n) == 3 and float(n[1]) > float(n[0]) else v
+        vals = [_long(v) if v else v for v in vals]
     return {out: vals} if any(vals) else {}
 # Apple identifiers in one spelling (GSMArena has both iphone15,2 and iPhone15,2)
 def _mnfix(codes):

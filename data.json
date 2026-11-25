@@ -3849,23 +3849,29 @@
 "SAM"
 ],
 "models": [
-"I7500 Galaxy",
-"I6500U Galaxy"
+"I7500 Galaxy"
 ],
 "released": [
-"2009-04",
-"2010-03"
+"2009-04"
 ],
 "check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"note": "Two different phones: the I7500 Galaxy is 115.9 x 56 mm, the I6500U Galaxy 117 x 59 mm",
 "device": "Phone",
+"sources": [
+[
+"GSMArena I7500 Galaxy",
+"https://www.gsmarena.com/samsung_i7500_galaxy-2791.php"
+],
+[
+"GSMArena I6500U Galaxy",
+"https://www.gsmarena.com/samsung_i6500u_galaxy-3002.php"
+]
+],
 "screens": [
-"3.2in",
 "3.2in"
 ],
 "dims": [
-"115.9 x 56 x 11.9 mm",
-"117 x 59 x 13.3 mm"
+"115.9 x 56 x 11.9 mm"
 ]
 },
 {
@@ -4166,27 +4172,29 @@
 "SAM"
 ],
 "models": [
-"I8520 Galaxy Beam",
-"I8530 Galaxy Beam"
+"I8520 Galaxy Beam"
 ],
 "released": [
-"2010-02",
-"2012-02"
+"2010-02"
 ],
 "check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"note": "Two different Galaxy Beam phones: the 2010 I8520 has a 3.7in screen and 59.8 mm wide body, the 2012 I8530 a 4.0in screen and 64.2 mm wide body",
 "device": "Phone",
-"codes": [
-"",
-"GT-I8530"
+"sources": [
+[
+"GSMArena I8520 Galaxy Beam",
+"https://www.gsmarena.com/samsung_i8520_galaxy_beam-3150.php"
+],
+[
+"GSMArena I8530 Galaxy Beam",
+"https://www.gsmarena.com/samsung_i8530_galaxy_beam-4566.php"
+]
 ],
 "screens": [
-"3.7in",
-"4.0in"
+"3.7in"
 ],
 "dims": [
-"123 x 59.8 x 14.9 mm",
-"124 x 64.2 x 12.5 mm"
+"123 x 59.8 x 14.9 mm"
 ]
 },
 {
@@ -4213,6 +4221,38 @@
 },
 {
 "id": "SAM-1051",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"I6500U Galaxy"
+],
+"released": [
+"2010-03"
+],
+"check": "Check",
+"note": "Two different phones: the I7500 Galaxy is 115.9 x 56 mm, the I6500U Galaxy 117 x 59 mm",
+"device": "Phone",
+"sources": [
+[
+"GSMArena I7500 Galaxy",
+"https://www.gsmarena.com/samsung_i7500_galaxy-2791.php"
+],
+[
+"GSMArena I6500U Galaxy",
+"https://www.gsmarena.com/samsung_i6500u_galaxy-3002.php"
+]
+],
+"screens": [
+"3.2in"
+],
+"dims": [
+"117 x 59 x 13.3 mm"
+]
+},
+{
+"id": "SAM-1052",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4257,7 +4297,7 @@
 ]
 },
 {
-"id": "SAM-1052",
+"id": "SAM-1053",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4279,7 +4319,7 @@
 ]
 },
 {
-"id": "SAM-1053",
+"id": "SAM-1054",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4301,7 +4341,7 @@
 ]
 },
 {
-"id": "SAM-1054",
+"id": "SAM-1055",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4323,7 +4363,7 @@
 ]
 },
 {
-"id": "SAM-1055",
+"id": "SAM-1056",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4345,7 +4385,7 @@
 ]
 },
 {
-"id": "SAM-1056",
+"id": "SAM-1057",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4367,7 +4407,7 @@
 ]
 },
 {
-"id": "SAM-1057",
+"id": "SAM-1058",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4389,7 +4429,7 @@
 ]
 },
 {
-"id": "SAM-1058",
+"id": "SAM-1059",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4415,7 +4455,7 @@
 ]
 },
 {
-"id": "SAM-1059",
+"id": "SAM-1060",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4437,7 +4477,7 @@
 ]
 },
 {
-"id": "SAM-1060",
+"id": "SAM-1061",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4459,7 +4499,7 @@
 ]
 },
 {
-"id": "SAM-1061",
+"id": "SAM-1062",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4481,7 +4521,7 @@
 ]
 },
 {
-"id": "SAM-1062",
+"id": "SAM-1063",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4503,7 +4543,7 @@
 ]
 },
 {
-"id": "SAM-1063",
+"id": "SAM-1064",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4525,7 +4565,7 @@
 ]
 },
 {
-"id": "SAM-1064",
+"id": "SAM-1065",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4551,7 +4591,7 @@
 ]
 },
 {
-"id": "SAM-1065",
+"id": "SAM-1066",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4573,7 +4613,7 @@
 ]
 },
 {
-"id": "SAM-1066",
+"id": "SAM-1067",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4595,7 +4635,7 @@
 ]
 },
 {
-"id": "SAM-1067",
+"id": "SAM-1068",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4617,7 +4657,7 @@
 ]
 },
 {
-"id": "SAM-1068",
+"id": "SAM-1069",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4643,7 +4683,7 @@
 ]
 },
 {
-"id": "SAM-1069",
+"id": "SAM-1070",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4665,7 +4705,7 @@
 ]
 },
 {
-"id": "SAM-1070",
+"id": "SAM-1071",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4687,7 +4727,7 @@
 ]
 },
 {
-"id": "SAM-1071",
+"id": "SAM-1072",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4709,7 +4749,7 @@
 ]
 },
 {
-"id": "SAM-1072",
+"id": "SAM-1073",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4731,7 +4771,7 @@
 ]
 },
 {
-"id": "SAM-1073",
+"id": "SAM-1074",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4757,7 +4797,7 @@
 ]
 },
 {
-"id": "SAM-1074",
+"id": "SAM-1075",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4779,7 +4819,7 @@
 ]
 },
 {
-"id": "SAM-1075",
+"id": "SAM-1076",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4801,7 +4841,7 @@
 ]
 },
 {
-"id": "SAM-1076",
+"id": "SAM-1077",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4823,7 +4863,7 @@
 ]
 },
 {
-"id": "SAM-1077",
+"id": "SAM-1078",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4845,7 +4885,7 @@
 ]
 },
 {
-"id": "SAM-1078",
+"id": "SAM-1079",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4867,7 +4907,7 @@
 ]
 },
 {
-"id": "SAM-1079",
+"id": "SAM-1080",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4889,7 +4929,7 @@
 ]
 },
 {
-"id": "SAM-1080",
+"id": "SAM-1081",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4911,7 +4951,7 @@
 ]
 },
 {
-"id": "SAM-1081",
+"id": "SAM-1082",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4933,7 +4973,7 @@
 ]
 },
 {
-"id": "SAM-1082",
+"id": "SAM-1083",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4955,7 +4995,7 @@
 ]
 },
 {
-"id": "SAM-1083",
+"id": "SAM-1084",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -4980,7 +5020,7 @@
 ]
 },
 {
-"id": "SAM-1084",
+"id": "SAM-1085",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5002,7 +5042,7 @@
 ]
 },
 {
-"id": "SAM-1085",
+"id": "SAM-1086",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5027,7 +5067,7 @@
 ]
 },
 {
-"id": "SAM-1086",
+"id": "SAM-1087",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5057,7 +5097,7 @@
 ]
 },
 {
-"id": "SAM-1087",
+"id": "SAM-1088",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5079,7 +5119,7 @@
 ]
 },
 {
-"id": "SAM-1088",
+"id": "SAM-1089",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5101,7 +5141,7 @@
 ]
 },
 {
-"id": "SAM-1089",
+"id": "SAM-1090",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5127,7 +5167,7 @@
 ]
 },
 {
-"id": "SAM-1090",
+"id": "SAM-1091",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5167,7 +5207,7 @@
 ]
 },
 {
-"id": "SAM-1091",
+"id": "SAM-1092",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5189,7 +5229,7 @@
 ]
 },
 {
-"id": "SAM-1092",
+"id": "SAM-1093",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5211,7 +5251,7 @@
 ]
 },
 {
-"id": "SAM-1093",
+"id": "SAM-1094",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5236,7 +5276,7 @@
 ]
 },
 {
-"id": "SAM-1094",
+"id": "SAM-1095",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5258,7 +5298,7 @@
 ]
 },
 {
-"id": "SAM-1095",
+"id": "SAM-1096",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5280,7 +5320,7 @@
 ]
 },
 {
-"id": "SAM-1096",
+"id": "SAM-1097",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5302,7 +5342,7 @@
 ]
 },
 {
-"id": "SAM-1097",
+"id": "SAM-1098",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5324,7 +5364,7 @@
 ]
 },
 {
-"id": "SAM-1098",
+"id": "SAM-1099",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5346,7 +5386,7 @@
 ]
 },
 {
-"id": "SAM-1099",
+"id": "SAM-1100",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5368,7 +5408,7 @@
 ]
 },
 {
-"id": "SAM-1100",
+"id": "SAM-1101",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5390,7 +5430,7 @@
 ]
 },
 {
-"id": "SAM-1101",
+"id": "SAM-1102",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5412,7 +5452,7 @@
 ]
 },
 {
-"id": "SAM-1102",
+"id": "SAM-1103",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5434,7 +5474,7 @@
 ]
 },
 {
-"id": "SAM-1103",
+"id": "SAM-1104",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5456,7 +5496,7 @@
 ]
 },
 {
-"id": "SAM-1104",
+"id": "SAM-1105",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5478,7 +5518,7 @@
 ]
 },
 {
-"id": "SAM-1105",
+"id": "SAM-1106",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5500,7 +5540,7 @@
 ]
 },
 {
-"id": "SAM-1106",
+"id": "SAM-1107",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5525,7 +5565,7 @@
 ]
 },
 {
-"id": "SAM-1107",
+"id": "SAM-1108",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5547,7 +5587,7 @@
 ]
 },
 {
-"id": "SAM-1108",
+"id": "SAM-1109",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5569,7 +5609,7 @@
 ]
 },
 {
-"id": "SAM-1109",
+"id": "SAM-1110",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5594,7 +5634,7 @@
 ]
 },
 {
-"id": "SAM-1110",
+"id": "SAM-1111",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5620,7 +5660,7 @@
 ]
 },
 {
-"id": "SAM-1111",
+"id": "SAM-1112",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5642,7 +5682,7 @@
 ]
 },
 {
-"id": "SAM-1112",
+"id": "SAM-1113",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5664,7 +5704,7 @@
 ]
 },
 {
-"id": "SAM-1113",
+"id": "SAM-1114",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5686,7 +5726,7 @@
 ]
 },
 {
-"id": "SAM-1114",
+"id": "SAM-1115",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5708,7 +5748,7 @@
 ]
 },
 {
-"id": "SAM-1115",
+"id": "SAM-1116",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5730,7 +5770,7 @@
 ]
 },
 {
-"id": "SAM-1116",
+"id": "SAM-1117",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5752,7 +5792,7 @@
 ]
 },
 {
-"id": "SAM-1117",
+"id": "SAM-1118",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5774,7 +5814,7 @@
 ]
 },
 {
-"id": "SAM-1118",
+"id": "SAM-1119",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5799,7 +5839,7 @@
 ]
 },
 {
-"id": "SAM-1119",
+"id": "SAM-1120",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5821,7 +5861,7 @@
 ]
 },
 {
-"id": "SAM-1120",
+"id": "SAM-1121",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5843,7 +5883,7 @@
 ]
 },
 {
-"id": "SAM-1121",
+"id": "SAM-1122",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5865,7 +5905,7 @@
 ]
 },
 {
-"id": "SAM-1122",
+"id": "SAM-1123",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5887,7 +5927,7 @@
 ]
 },
 {
-"id": "SAM-1123",
+"id": "SAM-1124",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5909,7 +5949,7 @@
 ]
 },
 {
-"id": "SAM-1124",
+"id": "SAM-1125",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5931,7 +5971,7 @@
 ]
 },
 {
-"id": "SAM-1125",
+"id": "SAM-1126",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5953,7 +5993,7 @@
 ]
 },
 {
-"id": "SAM-1126",
+"id": "SAM-1127",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5975,7 +6015,7 @@
 ]
 },
 {
-"id": "SAM-1127",
+"id": "SAM-1128",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -5997,7 +6037,7 @@
 ]
 },
 {
-"id": "SAM-1128",
+"id": "SAM-1129",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6019,7 +6059,7 @@
 ]
 },
 {
-"id": "SAM-1129",
+"id": "SAM-1130",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6041,7 +6081,7 @@
 ]
 },
 {
-"id": "SAM-1130",
+"id": "SAM-1131",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6063,7 +6103,7 @@
 ]
 },
 {
-"id": "SAM-1131",
+"id": "SAM-1132",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6085,7 +6125,7 @@
 ]
 },
 {
-"id": "SAM-1132",
+"id": "SAM-1133",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6107,7 +6147,7 @@
 ]
 },
 {
-"id": "SAM-1133",
+"id": "SAM-1134",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6132,7 +6172,7 @@
 ]
 },
 {
-"id": "SAM-1134",
+"id": "SAM-1135",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6157,7 +6197,7 @@
 ]
 },
 {
-"id": "SAM-1135",
+"id": "SAM-1136",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6179,7 +6219,7 @@
 ]
 },
 {
-"id": "SAM-1136",
+"id": "SAM-1137",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6201,7 +6241,7 @@
 ]
 },
 {
-"id": "SAM-1137",
+"id": "SAM-1138",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6223,7 +6263,7 @@
 ]
 },
 {
-"id": "SAM-1138",
+"id": "SAM-1139",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6245,7 +6285,7 @@
 ]
 },
 {
-"id": "SAM-1139",
+"id": "SAM-1140",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6267,7 +6307,7 @@
 ]
 },
 {
-"id": "SAM-1140",
+"id": "SAM-1141",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6286,7 +6326,7 @@
 ]
 },
 {
-"id": "SAM-1141",
+"id": "SAM-1142",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6308,7 +6348,7 @@
 ]
 },
 {
-"id": "SAM-1142",
+"id": "SAM-1143",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6330,7 +6370,7 @@
 ]
 },
 {
-"id": "SAM-1143",
+"id": "SAM-1144",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6352,7 +6392,7 @@
 ]
 },
 {
-"id": "SAM-1144",
+"id": "SAM-1145",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6374,7 +6414,7 @@
 ]
 },
 {
-"id": "SAM-1145",
+"id": "SAM-1146",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6399,7 +6439,7 @@
 ]
 },
 {
-"id": "SAM-1146",
+"id": "SAM-1147",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6424,7 +6464,7 @@
 ]
 },
 {
-"id": "SAM-1147",
+"id": "SAM-1148",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6446,7 +6486,7 @@
 ]
 },
 {
-"id": "SAM-1148",
+"id": "SAM-1149",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6468,7 +6508,7 @@
 ]
 },
 {
-"id": "SAM-1149",
+"id": "SAM-1150",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6493,7 +6533,7 @@
 ]
 },
 {
-"id": "SAM-1150",
+"id": "SAM-1151",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6515,7 +6555,42 @@
 ]
 },
 {
-"id": "SAM-1151",
+"id": "SAM-1152",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"I8530 Galaxy Beam"
+],
+"released": [
+"2012-02"
+],
+"check": "Check",
+"note": "Two different Galaxy Beam phones: the 2010 I8520 has a 3.7in screen and 59.8 mm wide body, the 2012 I8530 a 4.0in screen and 64.2 mm wide body",
+"device": "Phone",
+"sources": [
+[
+"GSMArena I8520 Galaxy Beam",
+"https://www.gsmarena.com/samsung_i8520_galaxy_beam-3150.php"
+],
+[
+"GSMArena I8530 Galaxy Beam",
+"https://www.gsmarena.com/samsung_i8530_galaxy_beam-4566.php"
+]
+],
+"codes": [
+"GT-I8530"
+],
+"screens": [
+"4.0in"
+],
+"dims": [
+"124 x 64.2 x 12.5 mm"
+]
+},
+{
+"id": "SAM-1153",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6540,7 +6615,7 @@
 ]
 },
 {
-"id": "SAM-1152",
+"id": "SAM-1154",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6562,7 +6637,7 @@
 ]
 },
 {
-"id": "SAM-1153",
+"id": "SAM-1155",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6602,7 +6677,7 @@
 ]
 },
 {
-"id": "SAM-1154",
+"id": "SAM-1156",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6624,7 +6699,7 @@
 ]
 },
 {
-"id": "SAM-1155",
+"id": "SAM-1157",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6646,7 +6721,7 @@
 ]
 },
 {
-"id": "SAM-1156",
+"id": "SAM-1158",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6668,7 +6743,7 @@
 ]
 },
 {
-"id": "SAM-1157",
+"id": "SAM-1159",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6690,7 +6765,7 @@
 ]
 },
 {
-"id": "SAM-1158",
+"id": "SAM-1160",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6712,7 +6787,7 @@
 ]
 },
 {
-"id": "SAM-1159",
+"id": "SAM-1161",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6742,7 +6817,7 @@
 ]
 },
 {
-"id": "SAM-1160",
+"id": "SAM-1162",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6767,7 +6842,7 @@
 ]
 },
 {
-"id": "SAM-1161",
+"id": "SAM-1163",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6789,7 +6864,7 @@
 ]
 },
 {
-"id": "SAM-1162",
+"id": "SAM-1164",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6814,7 +6889,7 @@
 ]
 },
 {
-"id": "SAM-1163",
+"id": "SAM-1165",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6839,7 +6914,7 @@
 ]
 },
 {
-"id": "SAM-1164",
+"id": "SAM-1166",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6869,7 +6944,7 @@
 ]
 },
 {
-"id": "SAM-1165",
+"id": "SAM-1167",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6891,7 +6966,7 @@
 ]
 },
 {
-"id": "SAM-1166",
+"id": "SAM-1168",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6913,7 +6988,7 @@
 ]
 },
 {
-"id": "SAM-1167",
+"id": "SAM-1169",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6935,7 +7010,7 @@
 ]
 },
 {
-"id": "SAM-1168",
+"id": "SAM-1170",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6957,7 +7032,7 @@
 ]
 },
 {
-"id": "SAM-1169",
+"id": "SAM-1171",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -6979,7 +7054,7 @@
 ]
 },
 {
-"id": "SAM-1170",
+"id": "SAM-1172",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7009,7 +7084,7 @@
 ]
 },
 {
-"id": "SAM-1171",
+"id": "SAM-1173",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7034,7 +7109,7 @@
 ]
 },
 {
-"id": "SAM-1172",
+"id": "SAM-1174",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7056,7 +7131,7 @@
 ]
 },
 {
-"id": "SAM-1173",
+"id": "SAM-1175",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7078,7 +7153,7 @@
 ]
 },
 {
-"id": "SAM-1174",
+"id": "SAM-1176",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7100,7 +7175,7 @@
 ]
 },
 {
-"id": "SAM-1175",
+"id": "SAM-1177",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7122,7 +7197,7 @@
 ]
 },
 {
-"id": "SAM-1176",
+"id": "SAM-1178",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7152,7 +7227,7 @@
 ]
 },
 {
-"id": "SAM-1177",
+"id": "SAM-1179",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7182,7 +7257,7 @@
 ]
 },
 {
-"id": "SAM-1178",
+"id": "SAM-1180",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7207,7 +7282,7 @@
 ]
 },
 {
-"id": "SAM-1179",
+"id": "SAM-1181",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7229,7 +7304,7 @@
 ]
 },
 {
-"id": "SAM-1180",
+"id": "SAM-1182",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7251,7 +7326,7 @@
 ]
 },
 {
-"id": "SAM-1181",
+"id": "SAM-1183",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7273,7 +7348,7 @@
 ]
 },
 {
-"id": "SAM-1182",
+"id": "SAM-1184",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7295,7 +7370,7 @@
 ]
 },
 {
-"id": "SAM-1183",
+"id": "SAM-1185",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7325,7 +7400,7 @@
 ]
 },
 {
-"id": "SAM-1184",
+"id": "SAM-1186",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7350,7 +7425,7 @@
 ]
 },
 {
-"id": "SAM-1185",
+"id": "SAM-1187",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7372,7 +7447,7 @@
 ]
 },
 {
-"id": "SAM-1186",
+"id": "SAM-1188",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7397,7 +7472,7 @@
 ]
 },
 {
-"id": "SAM-1187",
+"id": "SAM-1189",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7422,7 +7497,7 @@
 ]
 },
 {
-"id": "SAM-1188",
+"id": "SAM-1190",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7447,7 +7522,7 @@
 ]
 },
 {
-"id": "SAM-1189",
+"id": "SAM-1191",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7472,7 +7547,7 @@
 ]
 },
 {
-"id": "SAM-1190",
+"id": "SAM-1192",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7497,7 +7572,7 @@
 ]
 },
 {
-"id": "SAM-1191",
+"id": "SAM-1193",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7537,7 +7612,7 @@
 ]
 },
 {
-"id": "SAM-1192",
+"id": "SAM-1194",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7562,7 +7637,7 @@
 ]
 },
 {
-"id": "SAM-1193",
+"id": "SAM-1195",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7587,7 +7662,7 @@
 ]
 },
 {
-"id": "SAM-1194",
+"id": "SAM-1196",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7612,7 +7687,7 @@
 ]
 },
 {
-"id": "SAM-1195",
+"id": "SAM-1197",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7637,7 +7712,7 @@
 ]
 },
 {
-"id": "SAM-1196",
+"id": "SAM-1198",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7662,7 +7737,7 @@
 ]
 },
 {
-"id": "SAM-1197",
+"id": "SAM-1199",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7687,7 +7762,7 @@
 ]
 },
 {
-"id": "SAM-1198",
+"id": "SAM-1200",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7712,7 +7787,7 @@
 ]
 },
 {
-"id": "SAM-1199",
+"id": "SAM-1201",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7737,7 +7812,7 @@
 ]
 },
 {
-"id": "SAM-1200",
+"id": "SAM-1202",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7762,7 +7837,7 @@
 ]
 },
 {
-"id": "SAM-1201",
+"id": "SAM-1203",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7792,7 +7867,7 @@
 ]
 },
 {
-"id": "SAM-1202",
+"id": "SAM-1204",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7822,7 +7897,7 @@
 ]
 },
 {
-"id": "SAM-1203",
+"id": "SAM-1205",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7852,7 +7927,7 @@
 ]
 },
 {
-"id": "SAM-1204",
+"id": "SAM-1206",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7877,7 +7952,7 @@
 ]
 },
 {
-"id": "SAM-1205",
+"id": "SAM-1207",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7899,7 +7974,7 @@
 ]
 },
 {
-"id": "SAM-1206",
+"id": "SAM-1208",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7921,7 +7996,7 @@
 ]
 },
 {
-"id": "SAM-1207",
+"id": "SAM-1209",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7946,7 +8021,7 @@
 ]
 },
 {
-"id": "SAM-1208",
+"id": "SAM-1210",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -7971,7 +8046,7 @@
 ]
 },
 {
-"id": "SAM-1209",
+"id": "SAM-1211",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8001,7 +8076,7 @@
 ]
 },
 {
-"id": "SAM-1210",
+"id": "SAM-1212",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8026,7 +8101,7 @@
 ]
 },
 {
-"id": "SAM-1211",
+"id": "SAM-1213",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8051,7 +8126,7 @@
 ]
 },
 {
-"id": "SAM-1212",
+"id": "SAM-1214",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8076,7 +8151,7 @@
 ]
 },
 {
-"id": "SAM-1213",
+"id": "SAM-1215",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8101,7 +8176,7 @@
 ]
 },
 {
-"id": "SAM-1214",
+"id": "SAM-1216",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8126,7 +8201,7 @@
 ]
 },
 {
-"id": "SAM-1215",
+"id": "SAM-1217",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8148,7 +8223,7 @@
 ]
 },
 {
-"id": "SAM-1216",
+"id": "SAM-1218",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8173,7 +8248,7 @@
 ]
 },
 {
-"id": "SAM-1217",
+"id": "SAM-1219",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8198,7 +8273,7 @@
 ]
 },
 {
-"id": "SAM-1218",
+"id": "SAM-1220",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8223,7 +8298,7 @@
 ]
 },
 {
-"id": "SAM-1219",
+"id": "SAM-1221",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8248,7 +8323,7 @@
 ]
 },
 {
-"id": "SAM-1220",
+"id": "SAM-1222",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8270,7 +8345,7 @@
 ]
 },
 {
-"id": "SAM-1221",
+"id": "SAM-1223",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8292,7 +8367,7 @@
 ]
 },
 {
-"id": "SAM-1222",
+"id": "SAM-1224",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8317,7 +8392,7 @@
 ]
 },
 {
-"id": "SAM-1223",
+"id": "SAM-1225",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8347,7 +8422,7 @@
 ]
 },
 {
-"id": "SAM-1224",
+"id": "SAM-1226",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8372,7 +8447,7 @@
 ]
 },
 {
-"id": "SAM-1225",
+"id": "SAM-1227",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8397,7 +8472,7 @@
 ]
 },
 {
-"id": "SAM-1226",
+"id": "SAM-1228",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8447,7 +8522,7 @@
 ]
 },
 {
-"id": "SAM-1227",
+"id": "SAM-1229",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8472,7 +8547,7 @@
 ]
 },
 {
-"id": "SAM-1228",
+"id": "SAM-1230",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8497,7 +8572,7 @@
 ]
 },
 {
-"id": "SAM-1229",
+"id": "SAM-1231",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8522,7 +8597,7 @@
 ]
 },
 {
-"id": "SAM-1230",
+"id": "SAM-1232",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8547,7 +8622,7 @@
 ]
 },
 {
-"id": "SAM-1231",
+"id": "SAM-1233",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8577,7 +8652,7 @@
 ]
 },
 {
-"id": "SAM-1232",
+"id": "SAM-1234",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8602,7 +8677,7 @@
 ]
 },
 {
-"id": "SAM-1233",
+"id": "SAM-1235",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8627,7 +8702,7 @@
 ]
 },
 {
-"id": "SAM-1234",
+"id": "SAM-1236",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8652,7 +8727,7 @@
 ]
 },
 {
-"id": "SAM-1235",
+"id": "SAM-1237",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8677,7 +8752,7 @@
 ]
 },
 {
-"id": "SAM-1236",
+"id": "SAM-1238",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8702,7 +8777,7 @@
 ]
 },
 {
-"id": "SAM-1237",
+"id": "SAM-1239",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8727,7 +8802,7 @@
 ]
 },
 {
-"id": "SAM-1238",
+"id": "SAM-1240",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8752,7 +8827,7 @@
 ]
 },
 {
-"id": "SAM-1239",
+"id": "SAM-1241",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8777,7 +8852,7 @@
 ]
 },
 {
-"id": "SAM-1240",
+"id": "SAM-1242",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8802,7 +8877,7 @@
 ]
 },
 {
-"id": "SAM-1241",
+"id": "SAM-1243",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8832,7 +8907,7 @@
 ]
 },
 {
-"id": "SAM-1242",
+"id": "SAM-1244",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8862,7 +8937,7 @@
 ]
 },
 {
-"id": "SAM-1243",
+"id": "SAM-1245",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8887,7 +8962,7 @@
 ]
 },
 {
-"id": "SAM-1244",
+"id": "SAM-1246",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8917,7 +8992,7 @@
 ]
 },
 {
-"id": "SAM-1245",
+"id": "SAM-1247",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8942,7 +9017,7 @@
 ]
 },
 {
-"id": "SAM-1246",
+"id": "SAM-1248",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -8977,7 +9052,7 @@
 ]
 },
 {
-"id": "SAM-1247",
+"id": "SAM-1249",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9002,7 +9077,7 @@
 ]
 },
 {
-"id": "SAM-1248",
+"id": "SAM-1250",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9032,7 +9107,7 @@
 ]
 },
 {
-"id": "SAM-1249",
+"id": "SAM-1251",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9057,7 +9132,7 @@
 ]
 },
 {
-"id": "SAM-1250",
+"id": "SAM-1252",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9092,7 +9167,7 @@
 ]
 },
 {
-"id": "SAM-1251",
+"id": "SAM-1253",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9117,7 +9192,7 @@
 ]
 },
 {
-"id": "SAM-1252",
+"id": "SAM-1254",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9142,7 +9217,7 @@
 ]
 },
 {
-"id": "SAM-1253",
+"id": "SAM-1255",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9167,7 +9242,7 @@
 ]
 },
 {
-"id": "SAM-1254",
+"id": "SAM-1256",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9192,7 +9267,7 @@
 ]
 },
 {
-"id": "SAM-1255",
+"id": "SAM-1257",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9217,7 +9292,7 @@
 ]
 },
 {
-"id": "SAM-1256",
+"id": "SAM-1258",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9247,7 +9322,7 @@
 ]
 },
 {
-"id": "SAM-1257",
+"id": "SAM-1259",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9277,7 +9352,7 @@
 ]
 },
 {
-"id": "SAM-1258",
+"id": "SAM-1260",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9302,7 +9377,7 @@
 ]
 },
 {
-"id": "SAM-1259",
+"id": "SAM-1261",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9327,7 +9402,7 @@
 ]
 },
 {
-"id": "SAM-1260",
+"id": "SAM-1262",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9352,7 +9427,7 @@
 ]
 },
 {
-"id": "SAM-1261",
+"id": "SAM-1263",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9377,7 +9452,7 @@
 ]
 },
 {
-"id": "SAM-1262",
+"id": "SAM-1264",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9402,7 +9477,7 @@
 ]
 },
 {
-"id": "SAM-1263",
+"id": "SAM-1265",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9432,7 +9507,7 @@
 ]
 },
 {
-"id": "SAM-1264",
+"id": "SAM-1266",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9457,7 +9532,7 @@
 ]
 },
 {
-"id": "SAM-1265",
+"id": "SAM-1267",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9487,7 +9562,7 @@
 ]
 },
 {
-"id": "SAM-1266",
+"id": "SAM-1268",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9517,7 +9592,7 @@
 ]
 },
 {
-"id": "SAM-1267",
+"id": "SAM-1269",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9542,7 +9617,7 @@
 ]
 },
 {
-"id": "SAM-1268",
+"id": "SAM-1270",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9567,7 +9642,7 @@
 ]
 },
 {
-"id": "SAM-1269",
+"id": "SAM-1271",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9592,7 +9667,7 @@
 ]
 },
 {
-"id": "SAM-1270",
+"id": "SAM-1272",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9622,7 +9697,7 @@
 ]
 },
 {
-"id": "SAM-1271",
+"id": "SAM-1273",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9647,7 +9722,7 @@
 ]
 },
 {
-"id": "SAM-1272",
+"id": "SAM-1274",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9672,7 +9747,7 @@
 ]
 },
 {
-"id": "SAM-1273",
+"id": "SAM-1275",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9697,7 +9772,7 @@
 ]
 },
 {
-"id": "SAM-1274",
+"id": "SAM-1276",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9727,7 +9802,7 @@
 ]
 },
 {
-"id": "SAM-1275",
+"id": "SAM-1277",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9752,7 +9827,7 @@
 ]
 },
 {
-"id": "SAM-1276",
+"id": "SAM-1278",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9787,7 +9862,7 @@
 ]
 },
 {
-"id": "SAM-1277",
+"id": "SAM-1279",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9822,7 +9897,7 @@
 ]
 },
 {
-"id": "SAM-1278",
+"id": "SAM-1280",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9847,7 +9922,7 @@
 ]
 },
 {
-"id": "SAM-1279",
+"id": "SAM-1281",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9877,7 +9952,7 @@
 ]
 },
 {
-"id": "SAM-1280",
+"id": "SAM-1282",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9902,7 +9977,7 @@
 ]
 },
 {
-"id": "SAM-1281",
+"id": "SAM-1283",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9932,7 +10007,7 @@
 ]
 },
 {
-"id": "SAM-1282",
+"id": "SAM-1284",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9957,7 +10032,7 @@
 ]
 },
 {
-"id": "SAM-1283",
+"id": "SAM-1285",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -9982,7 +10057,7 @@
 ]
 },
 {
-"id": "SAM-1284",
+"id": "SAM-1286",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10007,7 +10082,7 @@
 ]
 },
 {
-"id": "SAM-1285",
+"id": "SAM-1287",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10032,7 +10107,7 @@
 ]
 },
 {
-"id": "SAM-1286",
+"id": "SAM-1288",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10057,7 +10132,7 @@
 ]
 },
 {
-"id": "SAM-1287",
+"id": "SAM-1289",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10082,7 +10157,7 @@
 ]
 },
 {
-"id": "SAM-1288",
+"id": "SAM-1290",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10107,7 +10182,7 @@
 ]
 },
 {
-"id": "SAM-1289",
+"id": "SAM-1291",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10137,7 +10212,7 @@
 ]
 },
 {
-"id": "SAM-1290",
+"id": "SAM-1292",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10167,7 +10242,7 @@
 ]
 },
 {
-"id": "SAM-1291",
+"id": "SAM-1293",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10192,7 +10267,7 @@
 ]
 },
 {
-"id": "SAM-1292",
+"id": "SAM-1294",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10217,7 +10292,7 @@
 ]
 },
 {
-"id": "SAM-1293",
+"id": "SAM-1295",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10242,7 +10317,7 @@
 ]
 },
 {
-"id": "SAM-1294",
+"id": "SAM-1296",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10267,7 +10342,7 @@
 ]
 },
 {
-"id": "SAM-1295",
+"id": "SAM-1297",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10292,7 +10367,7 @@
 ]
 },
 {
-"id": "SAM-1296",
+"id": "SAM-1298",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10317,7 +10392,7 @@
 ]
 },
 {
-"id": "SAM-1297",
+"id": "SAM-1299",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10342,7 +10417,7 @@
 ]
 },
 {
-"id": "SAM-1298",
+"id": "SAM-1300",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10367,7 +10442,7 @@
 ]
 },
 {
-"id": "SAM-1299",
+"id": "SAM-1301",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10392,7 +10467,7 @@
 ]
 },
 {
-"id": "SAM-1300",
+"id": "SAM-1302",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10414,7 +10489,7 @@
 ]
 },
 {
-"id": "SAM-1301",
+"id": "SAM-1303",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10444,7 +10519,7 @@
 ]
 },
 {
-"id": "SAM-1302",
+"id": "SAM-1304",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10469,7 +10544,7 @@
 ]
 },
 {
-"id": "SAM-1303",
+"id": "SAM-1305",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10494,7 +10569,7 @@
 ]
 },
 {
-"id": "SAM-1304",
+"id": "SAM-1306",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10529,7 +10604,7 @@
 ]
 },
 {
-"id": "SAM-1305",
+"id": "SAM-1307",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10554,7 +10629,7 @@
 ]
 },
 {
-"id": "SAM-1306",
+"id": "SAM-1308",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10599,7 +10674,7 @@
 ]
 },
 {
-"id": "SAM-1307",
+"id": "SAM-1309",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10624,7 +10699,7 @@
 ]
 },
 {
-"id": "SAM-1308",
+"id": "SAM-1310",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10649,7 +10724,7 @@
 ]
 },
 {
-"id": "SAM-1309",
+"id": "SAM-1311",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10674,7 +10749,7 @@
 ]
 },
 {
-"id": "SAM-1310",
+"id": "SAM-1312",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10699,7 +10774,7 @@
 ]
 },
 {
-"id": "SAM-1311",
+"id": "SAM-1313",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10729,7 +10804,7 @@
 ]
 },
 {
-"id": "SAM-1312",
+"id": "SAM-1314",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10754,7 +10829,7 @@
 ]
 },
 {
-"id": "SAM-1313",
+"id": "SAM-1315",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10779,7 +10854,7 @@
 ]
 },
 {
-"id": "SAM-1314",
+"id": "SAM-1316",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10804,7 +10879,7 @@
 ]
 },
 {
-"id": "SAM-1315",
+"id": "SAM-1317",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10829,7 +10904,7 @@
 ]
 },
 {
-"id": "SAM-1316",
+"id": "SAM-1318",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10854,7 +10929,7 @@
 ]
 },
 {
-"id": "SAM-1317",
+"id": "SAM-1319",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10879,7 +10954,7 @@
 ]
 },
 {
-"id": "SAM-1318",
+"id": "SAM-1320",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10923,7 +10998,7 @@
 ]
 },
 {
-"id": "SAM-1319",
+"id": "SAM-1321",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10948,7 +11023,7 @@
 ]
 },
 {
-"id": "SAM-1320",
+"id": "SAM-1322",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10973,7 +11048,7 @@
 ]
 },
 {
-"id": "SAM-1321",
+"id": "SAM-1323",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -10998,7 +11073,7 @@
 ]
 },
 {
-"id": "SAM-1322",
+"id": "SAM-1324",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11023,7 +11098,7 @@
 ]
 },
 {
-"id": "SAM-1323",
+"id": "SAM-1325",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11048,7 +11123,7 @@
 ]
 },
 {
-"id": "SAM-1324",
+"id": "SAM-1326",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11073,7 +11148,7 @@
 ]
 },
 {
-"id": "SAM-1325",
+"id": "SAM-1327",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11098,7 +11173,7 @@
 ]
 },
 {
-"id": "SAM-1326",
+"id": "SAM-1328",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11134,7 +11209,7 @@
 ]
 },
 {
-"id": "SAM-1327",
+"id": "SAM-1329",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11159,7 +11234,7 @@
 ]
 },
 {
-"id": "SAM-1328",
+"id": "SAM-1330",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11184,7 +11259,7 @@
 ]
 },
 {
-"id": "SAM-1329",
+"id": "SAM-1331",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11209,7 +11284,7 @@
 ]
 },
 {
-"id": "SAM-1330",
+"id": "SAM-1332",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11234,7 +11309,7 @@
 ]
 },
 {
-"id": "SAM-1331",
+"id": "SAM-1333",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11259,7 +11334,7 @@
 ]
 },
 {
-"id": "SAM-1332",
+"id": "SAM-1334",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11284,7 +11359,7 @@
 ]
 },
 {
-"id": "SAM-1333",
+"id": "SAM-1335",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11309,7 +11384,7 @@
 ]
 },
 {
-"id": "SAM-1334",
+"id": "SAM-1336",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11334,7 +11409,7 @@
 ]
 },
 {
-"id": "SAM-1335",
+"id": "SAM-1337",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11359,7 +11434,7 @@
 ]
 },
 {
-"id": "SAM-1336",
+"id": "SAM-1338",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11384,7 +11459,7 @@
 ]
 },
 {
-"id": "SAM-1337",
+"id": "SAM-1339",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11409,7 +11484,7 @@
 ]
 },
 {
-"id": "SAM-1338",
+"id": "SAM-1340",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11434,7 +11509,7 @@
 ]
 },
 {
-"id": "SAM-1339",
+"id": "SAM-1341",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11459,7 +11534,7 @@
 ]
 },
 {
-"id": "SAM-1340",
+"id": "SAM-1342",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11484,7 +11559,7 @@
 ]
 },
 {
-"id": "SAM-1341",
+"id": "SAM-1343",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11509,7 +11584,7 @@
 ]
 },
 {
-"id": "SAM-1342",
+"id": "SAM-1344",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11545,7 +11620,7 @@
 ]
 },
 {
-"id": "SAM-1343",
+"id": "SAM-1345",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11570,7 +11645,7 @@
 ]
 },
 {
-"id": "SAM-1344",
+"id": "SAM-1346",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11595,7 +11670,7 @@
 ]
 },
 {
-"id": "SAM-1345",
+"id": "SAM-1347",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11620,7 +11695,7 @@
 ]
 },
 {
-"id": "SAM-1346",
+"id": "SAM-1348",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11645,7 +11720,7 @@
 ]
 },
 {
-"id": "SAM-1347",
+"id": "SAM-1349",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11670,7 +11745,7 @@
 ]
 },
 {
-"id": "SAM-1348",
+"id": "SAM-1350",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11700,7 +11775,7 @@
 ]
 },
 {
-"id": "SAM-1349",
+"id": "SAM-1351",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11735,7 +11810,7 @@
 ]
 },
 {
-"id": "SAM-1350",
+"id": "SAM-1352",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11779,7 +11854,7 @@
 ]
 },
 {
-"id": "SAM-1351",
+"id": "SAM-1353",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11804,7 +11879,7 @@
 ]
 },
 {
-"id": "SAM-1352",
+"id": "SAM-1354",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11829,7 +11904,7 @@
 ]
 },
 {
-"id": "SAM-1353",
+"id": "SAM-1355",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11845,7 +11920,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1354",
+"id": "SAM-1356",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11870,7 +11945,7 @@
 ]
 },
 {
-"id": "SAM-1355",
+"id": "SAM-1357",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11895,7 +11970,7 @@
 ]
 },
 {
-"id": "SAM-1356",
+"id": "SAM-1358",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11920,7 +11995,7 @@
 ]
 },
 {
-"id": "SAM-1357",
+"id": "SAM-1359",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11955,7 +12030,7 @@
 ]
 },
 {
-"id": "SAM-1358",
+"id": "SAM-1360",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -11980,7 +12055,7 @@
 ]
 },
 {
-"id": "SAM-1359",
+"id": "SAM-1361",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12015,7 +12090,7 @@
 ]
 },
 {
-"id": "SAM-1360",
+"id": "SAM-1362",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12064,7 +12139,7 @@
 ]
 },
 {
-"id": "SAM-1361",
+"id": "SAM-1363",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12089,7 +12164,7 @@
 ]
 },
 {
-"id": "SAM-1362",
+"id": "SAM-1364",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12120,7 +12195,7 @@
 ]
 },
 {
-"id": "SAM-1363",
+"id": "SAM-1365",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12156,7 +12231,7 @@
 ]
 },
 {
-"id": "SAM-1364",
+"id": "SAM-1366",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12184,7 +12259,7 @@
 ]
 },
 {
-"id": "SAM-1365",
+"id": "SAM-1367",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12212,7 +12287,7 @@
 ]
 },
 {
-"id": "SAM-1366",
+"id": "SAM-1368",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12245,7 +12320,7 @@
 ]
 },
 {
-"id": "SAM-1367",
+"id": "SAM-1369",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12281,7 +12356,7 @@
 ]
 },
 {
-"id": "SAM-1368",
+"id": "SAM-1370",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12306,7 +12381,7 @@
 ]
 },
 {
-"id": "SAM-1369",
+"id": "SAM-1371",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12350,7 +12425,7 @@
 ]
 },
 {
-"id": "SAM-1370",
+"id": "SAM-1372",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12375,7 +12450,7 @@
 ]
 },
 {
-"id": "SAM-1371",
+"id": "SAM-1373",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12419,7 +12494,7 @@
 ]
 },
 {
-"id": "SAM-1372",
+"id": "SAM-1374",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12444,7 +12519,7 @@
 ]
 },
 {
-"id": "SAM-1373",
+"id": "SAM-1375",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12469,7 +12544,7 @@
 ]
 },
 {
-"id": "SAM-1374",
+"id": "SAM-1376",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12494,7 +12569,7 @@
 ]
 },
 {
-"id": "SAM-1375",
+"id": "SAM-1377",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12546,7 +12621,7 @@
 ]
 },
 {
-"id": "SAM-1376",
+"id": "SAM-1378",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12579,7 +12654,7 @@
 ]
 },
 {
-"id": "SAM-1377",
+"id": "SAM-1379",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12612,7 +12687,7 @@
 ]
 },
 {
-"id": "SAM-1378",
+"id": "SAM-1380",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12637,7 +12712,7 @@
 ]
 },
 {
-"id": "SAM-1379",
+"id": "SAM-1381",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12662,7 +12737,7 @@
 ]
 },
 {
-"id": "SAM-1380",
+"id": "SAM-1382",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12730,7 +12805,7 @@
 ]
 },
 {
-"id": "SAM-1381",
+"id": "SAM-1383",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12755,7 +12830,7 @@
 ]
 },
 {
-"id": "SAM-1382",
+"id": "SAM-1384",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12780,7 +12855,7 @@
 ]
 },
 {
-"id": "SAM-1383",
+"id": "SAM-1385",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12811,7 +12886,7 @@
 ]
 },
 {
-"id": "SAM-1384",
+"id": "SAM-1386",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12842,7 +12917,7 @@
 ]
 },
 {
-"id": "SAM-1385",
+"id": "SAM-1387",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12867,7 +12942,7 @@
 ]
 },
 {
-"id": "SAM-1386",
+"id": "SAM-1388",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12892,7 +12967,7 @@
 ]
 },
 {
-"id": "SAM-1387",
+"id": "SAM-1389",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12917,7 +12992,7 @@
 ]
 },
 {
-"id": "SAM-1388",
+"id": "SAM-1390",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12942,7 +13017,7 @@
 ]
 },
 {
-"id": "SAM-1389",
+"id": "SAM-1391",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -12975,7 +13050,7 @@
 ]
 },
 {
-"id": "SAM-1390",
+"id": "SAM-1392",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13019,7 +13094,7 @@
 ]
 },
 {
-"id": "SAM-1391",
+"id": "SAM-1393",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13060,7 +13135,7 @@
 ]
 },
 {
-"id": "SAM-1392",
+"id": "SAM-1394",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13093,7 +13168,7 @@
 ]
 },
 {
-"id": "SAM-1393",
+"id": "SAM-1395",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13118,7 +13193,7 @@
 ]
 },
 {
-"id": "SAM-1394",
+"id": "SAM-1396",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13149,7 +13224,7 @@
 ]
 },
 {
-"id": "SAM-1395",
+"id": "SAM-1397",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13174,7 +13249,7 @@
 ]
 },
 {
-"id": "SAM-1396",
+"id": "SAM-1398",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13199,7 +13274,7 @@
 ]
 },
 {
-"id": "SAM-1397",
+"id": "SAM-1399",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13224,7 +13299,7 @@
 ]
 },
 {
-"id": "SAM-1398",
+"id": "SAM-1400",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13249,7 +13324,7 @@
 ]
 },
 {
-"id": "SAM-1399",
+"id": "SAM-1401",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13279,7 +13354,7 @@
 ]
 },
 {
-"id": "SAM-1400",
+"id": "SAM-1402",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13307,7 +13382,7 @@
 ]
 },
 {
-"id": "SAM-1401",
+"id": "SAM-1403",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13332,7 +13407,7 @@
 ]
 },
 {
-"id": "SAM-1402",
+"id": "SAM-1404",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13357,7 +13432,7 @@
 ]
 },
 {
-"id": "SAM-1403",
+"id": "SAM-1405",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13382,7 +13457,7 @@
 ]
 },
 {
-"id": "SAM-1404",
+"id": "SAM-1406",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13418,7 +13493,7 @@
 ]
 },
 {
-"id": "SAM-1405",
+"id": "SAM-1407",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13443,7 +13518,7 @@
 ]
 },
 {
-"id": "SAM-1406",
+"id": "SAM-1408",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13476,7 +13551,7 @@
 ]
 },
 {
-"id": "SAM-1407",
+"id": "SAM-1409",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13516,7 +13591,7 @@
 ]
 },
 {
-"id": "SAM-1408",
+"id": "SAM-1410",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13544,7 +13619,7 @@
 ]
 },
 {
-"id": "SAM-1409",
+"id": "SAM-1411",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13569,7 +13644,7 @@
 ]
 },
 {
-"id": "SAM-1410",
+"id": "SAM-1412",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13614,7 +13689,7 @@
 ]
 },
 {
-"id": "SAM-1411",
+"id": "SAM-1413",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13650,7 +13725,7 @@
 ]
 },
 {
-"id": "SAM-1412",
+"id": "SAM-1414",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13691,7 +13766,7 @@
 ]
 },
 {
-"id": "SAM-1413",
+"id": "SAM-1415",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13766,7 +13841,7 @@
 ]
 },
 {
-"id": "SAM-1414",
+"id": "SAM-1416",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13841,7 +13916,7 @@
 ]
 },
 {
-"id": "SAM-1415",
+"id": "SAM-1417",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13871,7 +13946,7 @@
 ]
 },
 {
-"id": "SAM-1416",
+"id": "SAM-1418",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13918,7 +13993,7 @@
 ]
 },
 {
-"id": "SAM-1417",
+"id": "SAM-1419",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13952,7 +14027,7 @@
 ]
 },
 {
-"id": "SAM-1418",
+"id": "SAM-1420",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -13986,7 +14061,7 @@
 ]
 },
 {
-"id": "SAM-1419",
+"id": "SAM-1421",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14021,7 +14096,7 @@
 ]
 },
 {
-"id": "SAM-1420",
+"id": "SAM-1422",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14046,7 +14121,7 @@
 ]
 },
 {
-"id": "SAM-1421",
+"id": "SAM-1423",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14071,7 +14146,7 @@
 ]
 },
 {
-"id": "SAM-1422",
+"id": "SAM-1424",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14124,7 +14199,7 @@
 ]
 },
 {
-"id": "SAM-1423",
+"id": "SAM-1425",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14155,7 +14230,7 @@
 ]
 },
 {
-"id": "SAM-1424",
+"id": "SAM-1426",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14183,7 +14258,7 @@
 ]
 },
 {
-"id": "SAM-1425",
+"id": "SAM-1427",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14208,7 +14283,7 @@
 ]
 },
 {
-"id": "SAM-1426",
+"id": "SAM-1428",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14233,7 +14308,7 @@
 ]
 },
 {
-"id": "SAM-1427",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14281,7 +14356,7 @@
 ]
 },
 {
-"id": "SAM-1428",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14306,7 +14381,7 @@
 ]
 },
 {
-"id": "SAM-1429",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14331,7 +14406,7 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14356,7 +14431,7 @@
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14384,7 +14459,7 @@
 ]
 },
 {
-"id": "SAM-1432",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14412,7 +14487,7 @@
 ]
 },
 {
-"id": "SAM-1433",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14437,7 +14512,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14462,7 +14537,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14492,7 +14567,7 @@
 ]
 },
 {
-"id": "SAM-1436",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14523,7 +14598,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14557,7 +14632,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14591,7 +14666,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14626,7 +14701,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14750,7 +14825,7 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14775,7 +14850,7 @@
 ]
 },
 {
-"id": "SAM-1442",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14818,7 +14893,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14843,7 +14918,7 @@
 ]
 },
 {
-"id": "SAM-1444",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14868,7 +14943,7 @@
 ]
 },
 {
-"id": "SAM-1445",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14909,7 +14984,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14937,7 +15012,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14965,7 +15040,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14990,7 +15065,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15015,7 +15090,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15069,7 +15144,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15103,7 +15178,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15137,7 +15212,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15173,7 +15248,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15212,7 +15287,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15260,7 +15335,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15304,7 +15379,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15329,7 +15404,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15381,7 +15456,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15433,7 +15508,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15461,7 +15536,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15521,7 +15596,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15567,7 +15642,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15600,7 +15675,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15648,7 +15723,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15683,7 +15758,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15708,7 +15783,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15753,7 +15828,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15803,7 +15878,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15831,7 +15906,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15932,7 +16007,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15983,7 +16058,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16080,7 +16155,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16108,7 +16183,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16136,7 +16211,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16189,7 +16264,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16254,7 +16329,7 @@
 ]
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16292,7 +16367,7 @@
 ]
 },
 {
-"id": "SAM-1478",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16338,7 +16413,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16376,7 +16451,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16404,7 +16479,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16432,7 +16507,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16460,7 +16535,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16485,7 +16560,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16510,7 +16585,7 @@
 ]
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16535,7 +16610,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1488",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16553,14 +16628,14 @@
 "SM-F971B, SM-F971B/DS, SM-F971U, SM-F971U1"
 ],
 "dims": [
-"81.9 x 123.9 x 9.7 mm"
+"123.9 x 81.9 x 9.7 mm"
 ],
 "tags": [
 "cover"
 ]
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1489",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16594,7 +16669,7 @@
 ]
 },
 {
-"id": "SAM-1488",
+"id": "SAM-1490",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16622,7 +16697,7 @@
 ]
 },
 {
-"id": "SAM-1489",
+"id": "SAM-1491",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16644,7 +16719,7 @@
 ]
 },
 {
-"id": "SAM-1490",
+"id": "SAM-1492",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16663,7 +16738,7 @@
 ]
 },
 {
-"id": "SAM-1491",
+"id": "SAM-1493",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16685,7 +16760,7 @@
 ]
 },
 {
-"id": "SAM-1492",
+"id": "SAM-1494",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16707,7 +16782,7 @@
 ]
 },
 {
-"id": "SAM-1493",
+"id": "SAM-1495",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16729,7 +16804,7 @@
 ]
 },
 {
-"id": "SAM-1494",
+"id": "SAM-1496",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16745,7 +16820,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1495",
+"id": "SAM-1497",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -17970,7 +18045,7 @@
 "8.0in"
 ],
 "dims": [
-"127.6 x 214.7 x 9.9 mm"
+"214.7 x 127.6 x 9.9 mm"
 ]
 },
 {
@@ -19035,27 +19110,32 @@
 "SAM"
 ],
 "models": [
-"Gear S2 classic",
-"Gear S2 classic 3G"
+"Gear S2 classic"
 ],
 "released": [
-"2015-08",
-"2016-02"
+"2015-08"
 ],
 "check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit. Universal round glass: try UNI-0009 (31mm); measure first",
+"note": "Different cases: the Gear S2 classic is 43.6 x 39.9 mm, the classic 3G 44 x 46.9 mm. Universal round glass: try UNI-0009 (31mm); measure first",
 "device": "Wearable",
+"sources": [
+[
+"GSMArena Gear S2 classic",
+"https://www.gsmarena.com/samsung_gear_s2_classic-7677.php"
+],
+[
+"GSMArena Gear S2 classic 3G",
+"https://www.gsmarena.com/samsung_gear_s2_classic_3g-7934.php"
+]
+],
 "codes": [
-"SM-R720, SM-R732",
-""
+"SM-R720, SM-R732"
 ],
 "screens": [
-"1.2in",
 "1.2in"
 ],
 "dims": [
-"43.6 x 39.9 x 11.4 mm",
-"44 x 46.9 x 13.4 mm"
+"43.6 x 39.9 x 11.4 mm"
 ],
 "tags": [
 "measure"
@@ -19063,6 +19143,41 @@
 },
 {
 "id": "SAM-3010",
+"brand": "Samsung",
+"brands": [
+"SAM"
+],
+"models": [
+"Gear S2 classic 3G"
+],
+"released": [
+"2016-02"
+],
+"check": "Check",
+"note": "Different cases: the Gear S2 classic is 43.6 x 39.9 mm, the classic 3G 44 x 46.9 mm. Universal round glass: try UNI-0009 (31mm); measure first",
+"device": "Wearable",
+"sources": [
+[
+"GSMArena Gear S2 classic",
+"https://www.gsmarena.com/samsung_gear_s2_classic-7677.php"
+],
+[
+"GSMArena Gear S2 classic 3G",
+"https://www.gsmarena.com/samsung_gear_s2_classic_3g-7934.php"
+]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"44 x 46.9 x 13.4 mm"
+],
+"tags": [
+"measure"
+]
+},
+{
+"id": "SAM-3011",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19080,7 +19195,7 @@
 "device": "Wearable"
 },
 {
-"id": "SAM-3011",
+"id": "SAM-3012",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19123,7 +19238,7 @@
 ]
 },
 {
-"id": "SAM-3012",
+"id": "SAM-3013",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19151,7 +19266,7 @@
 ]
 },
 {
-"id": "SAM-3013",
+"id": "SAM-3014",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19176,7 +19291,7 @@
 ]
 },
 {
-"id": "SAM-3014",
+"id": "SAM-3015",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19201,7 +19316,7 @@
 ]
 },
 {
-"id": "SAM-3015",
+"id": "SAM-3016",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19226,7 +19341,7 @@
 ]
 },
 {
-"id": "SAM-3016",
+"id": "SAM-3017",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19248,7 +19363,7 @@
 ]
 },
 {
-"id": "SAM-3017",
+"id": "SAM-3018",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19270,7 +19385,7 @@
 ]
 },
 {
-"id": "SAM-3018",
+"id": "SAM-3019",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19299,7 +19414,7 @@
 ]
 },
 {
-"id": "SAM-3019",
+"id": "SAM-3020",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19328,7 +19443,7 @@
 ]
 },
 {
-"id": "SAM-3020",
+"id": "SAM-3021",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19353,7 +19468,7 @@
 ]
 },
 {
-"id": "SAM-3021",
+"id": "SAM-3022",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19378,7 +19493,7 @@
 ]
 },
 {
-"id": "SAM-3022",
+"id": "SAM-3023",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19400,7 +19515,7 @@
 ]
 },
 {
-"id": "SAM-3023",
+"id": "SAM-3024",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19435,7 +19550,7 @@
 ]
 },
 {
-"id": "SAM-3024",
+"id": "SAM-3025",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19478,7 +19593,7 @@
 ]
 },
 {
-"id": "SAM-3025",
+"id": "SAM-3026",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19503,7 +19618,7 @@
 ]
 },
 {
-"id": "SAM-3026",
+"id": "SAM-3027",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19528,7 +19643,7 @@
 ]
 },
 {
-"id": "SAM-3027",
+"id": "SAM-3028",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19563,7 +19678,7 @@
 ]
 },
 {
-"id": "SAM-3028",
+"id": "SAM-3029",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19588,7 +19703,7 @@
 ]
 },
 {
-"id": "SAM-3029",
+"id": "SAM-3030",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19623,7 +19738,7 @@
 ]
 },
 {
-"id": "SAM-3030",
+"id": "SAM-3031",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19666,7 +19781,7 @@
 ]
 },
 {
-"id": "SAM-3031",
+"id": "SAM-3032",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19691,7 +19806,7 @@
 ]
 },
 {
-"id": "SAM-3032",
+"id": "SAM-3033",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19716,7 +19831,7 @@
 ]
 },
 {
-"id": "SAM-3033",
+"id": "SAM-3034",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19738,7 +19853,7 @@
 ]
 },
 {
-"id": "SAM-3034",
+"id": "SAM-3035",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19773,7 +19888,7 @@
 ]
 },
 {
-"id": "SAM-3035",
+"id": "SAM-3036",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19808,7 +19923,7 @@
 ]
 },
 {
-"id": "SAM-3036",
+"id": "SAM-3037",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19837,7 +19952,7 @@
 ]
 },
 {
-"id": "SAM-3037",
+"id": "SAM-3038",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19868,7 +19983,7 @@
 ]
 },
 {
-"id": "SAM-3038",
+"id": "SAM-3039",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19893,7 +20008,7 @@
 ]
 },
 {
-"id": "SAM-3039",
+"id": "SAM-3040",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19918,7 +20033,7 @@
 ]
 },
 {
-"id": "SAM-3040",
+"id": "SAM-3041",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19940,7 +20055,7 @@
 ]
 },
 {
-"id": "SAM-3041",
+"id": "SAM-3042",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -19978,7 +20093,7 @@
 ]
 },
 {
-"id": "SAM-3042",
+"id": "SAM-3043",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -21550,7 +21665,7 @@
 ],
 "dims": [
 "35.8 x 22.7 x 11.8 mm",
-"42.7 x 28.8 x 12.5 mm"
+""
 ]
 },
 {
@@ -45834,7 +45949,7 @@
 "10.6in"
 ],
 "dims": [
-"160.3 x 252.7 x 8.3 mm"
+"252.7 x 160.3 x 8.3 mm"
 ]
 },
 {
@@ -45931,7 +46046,7 @@
 ],
 "dims": [
 "255.26 x 166.31 x 7.15 mm",
-"166.3 x 255.3 x 7.2 mm",
+"255.3 x 166.3 x 7.2 mm",
 "254.59 x 166.15 x 6.99 mm"
 ]
 },
@@ -45982,7 +46097,7 @@
 "11.45in"
 ],
 "dims": [
-"169 x 268.7 x 7.2 mm"
+"268.7 x 169 x 7.2 mm"
 ]
 },
 {
@@ -83059,13 +83174,9 @@
 "vivo iQOO Z11x (China)",
 "vivo T5x",
 "vivo Y51 Pro",
-"vivo T5 Pro",
 "vivo Y500s",
 "vivo Y6",
-"vivo T5",
-"vivo Y600 Turbo",
-"vivo S2",
-"vivo iQOO Z11"
+"vivo T5"
 ],
 "released": [
 "2026-01",
@@ -83076,14 +83187,10 @@
 "2026-03",
 "2026-04",
 "2026-04",
-"2026-04",
-"2026-05",
-"2026-05",
-"2026-08",
-"2026-08"
+"2026-05"
 ],
 "check": "Check",
-"note": "Sellers confirm vivo Y31d, vivo Y500i, vivo iQOO Z11x, vivo T5x, vivo Y51 Pro; vivo T5, vivo S2, vivo iQOO Z11. The rest match on specs: test before swapping. Flipkart sellers GORILLA PRO, GORILLA FIVE and MOBITEK sell one glass for all five; many more sellers pair iQOO Z11x with T5x. Merges with Y51 Pro, Y31d and Y500i from the T5 group. Flipkart sellers WonReza and ArmourPro sell one glass for iQOO Z11, T5 and S2 (Gadget Glow also pairs Z11 with S2); ArmourPro's is UV glass. No listing pairs iQOO Z11 with T5 Pro",
+"note": "Sellers confirm vivo Y31d, vivo Y500i, vivo iQOO Z11x, vivo T5x, vivo Y51 Pro. The rest match on specs: test before swapping. Flipkart sellers GORILLA PRO, GORILLA FIVE and MOBITEK sell one glass for all five; many more sellers pair iQOO Z11x with T5x. Merges with Y51 Pro, Y31d and Y500i from the T5 group",
 "device": "Phone",
 "sources": [
 [
@@ -83105,18 +83212,6 @@
 [
 "Flipkart (MOBINIX ULTRA)",
 "https://www.flipkart.com/mobinix-ultra-edge-tempered-glass-vivo-t5x-5g-iqoo-z11x-5g/p/itm8cc8664e243f1?pid=ACCHRYE2RFNXVHZF"
-],
-[
-"Flipkart (WonReza)",
-"https://www.flipkart.com/wonreza-edge-screen-guard-iqoo-z11-5g-vivo-t5-s2-5g/p/itm22bf9f9a9c745?pid=ACCHQRYAEDNGRCPA"
-],
-[
-"Flipkart (ArmourPro)",
-"https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-t5-5g-s2-iqoo-z11-privacy-anti-spy-uv-cable-protector/p/itm5f08cdfa5cd17?pid=ACCHS3XWHRCF2QXN"
-],
-[
-"Flipkart (Gadget Glow)",
-"https://www.flipkart.com/gadget-glow-edge-tempered-glass-iqoo-z11-5g-z11-vivo-s2-5g/p/itm2a78b6c288d50?pid=ACCHRF3QTHFFM5ZH"
 ]
 ],
 "codes": [
@@ -83126,13 +83221,9 @@
 "V2532A",
 "V2545",
 "",
-"V2568",
 "V2531A",
 "V2531A",
-"V2545",
-"V2553A",
-"",
-""
+"V2545"
 ],
 "screens": [
 "6.75in",
@@ -83141,13 +83232,9 @@
 "6.76in",
 "6.76in",
 "6.75in",
-"6.83in",
 "6.75in",
 "6.75in",
-"6.75in",
-"6.83in",
-"6.83in",
-"6.83in"
+"6.75in"
 ],
 "dims": [
 "166.6 x 78.4 x 8.4 mm",
@@ -83156,16 +83243,9 @@
 "166.6 x 78.4 x 8.4 mm",
 "166.6 x 78.4 x 8.4 mm",
 "166.6 x 78.4 x 8.4 mm",
-"163.7 x 76.2 x 8.3 mm",
 "166.6 x 78.4 x 8.4 mm",
 "166.6 x 78.4 x 8.4 mm",
-"166.6 x 78.4 x 8.4 mm",
-"163.7 x 76.2 x 8.3 mm",
-"164.4 x 75.3 x 8 mm",
-"163.7 x 76.2 x 8.3 mm"
-],
-"tags": [
-"uv"
+"166.6 x 78.4 x 8.4 mm"
 ]
 },
 {
@@ -83390,6 +83470,63 @@
 "VIV"
 ],
 "models": [
+"vivo T5 Pro",
+"vivo Y600 Turbo",
+"vivo S2",
+"vivo iQOO Z11"
+],
+"released": [
+"2026-04",
+"2026-05",
+"2026-08",
+"2026-08"
+],
+"check": "Check",
+"note": "Sellers confirm vivo S2, vivo iQOO Z11. The rest match on specs: test before swapping. Flipkart sellers WonReza, ArmourPro and Gadget Glow sell one glass for the iQOO Z11 and S2; ArmourPro's is UV glass. WonReza and ArmourPro also name the vivo T5, but GSMArena gives the T5 a 6.75in screen and 166.6 mm body (Z11: 6.83in, 163.7 mm), so test that one first. No listing pairs iQOO Z11 with T5 Pro",
+"device": "Phone",
+"sources": [
+[
+"Flipkart (WonReza)",
+"https://www.flipkart.com/wonreza-edge-screen-guard-iqoo-z11-5g-vivo-t5-s2-5g/p/itm22bf9f9a9c745?pid=ACCHQRYAEDNGRCPA"
+],
+[
+"Flipkart (ArmourPro)",
+"https://www.flipkart.com/armourpro-edge-tempered-glass-vivo-t5-5g-s2-iqoo-z11-privacy-anti-spy-uv-cable-protector/p/itm5f08cdfa5cd17?pid=ACCHS3XWHRCF2QXN"
+],
+[
+"Flipkart (Gadget Glow)",
+"https://www.flipkart.com/gadget-glow-edge-tempered-glass-iqoo-z11-5g-z11-vivo-s2-5g/p/itm2a78b6c288d50?pid=ACCHRF3QTHFFM5ZH"
+]
+],
+"codes": [
+"V2568",
+"V2553A",
+"",
+""
+],
+"screens": [
+"6.83in",
+"6.83in",
+"6.83in",
+"6.83in"
+],
+"dims": [
+"163.7 x 76.2 x 8.3 mm",
+"163.7 x 76.2 x 8.3 mm",
+"164.4 x 75.3 x 8 mm",
+"163.7 x 76.2 x 8.3 mm"
+],
+"tags": [
+"uv"
+]
+},
+{
+"id": "VIV-1228",
+"brand": "vivo / iQOO",
+"brands": [
+"VIV"
+],
+"models": [
 "vivo Y600 Pro"
 ],
 "released": [
@@ -83419,7 +83556,7 @@
 ]
 },
 {
-"id": "VIV-1228",
+"id": "VIV-1229",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83457,7 +83594,7 @@
 ]
 },
 {
-"id": "VIV-1229",
+"id": "VIV-1230",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83485,7 +83622,7 @@
 ]
 },
 {
-"id": "VIV-1230",
+"id": "VIV-1231",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83518,7 +83655,7 @@
 ]
 },
 {
-"id": "VIV-1231",
+"id": "VIV-1232",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83546,7 +83683,7 @@
 ]
 },
 {
-"id": "VIV-1232",
+"id": "VIV-1233",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83574,7 +83711,7 @@
 ]
 },
 {
-"id": "VIV-1233",
+"id": "VIV-1234",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83596,7 +83733,7 @@
 ]
 },
 {
-"id": "VIV-1234",
+"id": "VIV-1235",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83628,7 +83765,7 @@
 ]
 },
 {
-"id": "VIV-1235",
+"id": "VIV-1236",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83654,7 +83791,7 @@
 ]
 },
 {
-"id": "VIV-1236",
+"id": "VIV-1237",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83676,7 +83813,7 @@
 ]
 },
 {
-"id": "VIV-1237",
+"id": "VIV-1238",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83698,7 +83835,7 @@
 ]
 },
 {
-"id": "VIV-1238",
+"id": "VIV-1239",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83730,7 +83867,7 @@
 ]
 },
 {
-"id": "VIV-1239",
+"id": "VIV-1240",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83762,7 +83899,7 @@
 ]
 },
 {
-"id": "VIV-1240",
+"id": "VIV-1241",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83794,7 +83931,7 @@
 ]
 },
 {
-"id": "VIV-1241",
+"id": "VIV-1242",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83826,7 +83963,7 @@
 ]
 },
 {
-"id": "VIV-1242",
+"id": "VIV-1243",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83842,7 +83979,7 @@
 "device": "Phone"
 },
 {
-"id": "VIV-1243",
+"id": "VIV-1244",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83878,7 +84015,7 @@
 ]
 },
 {
-"id": "VIV-1244",
+"id": "VIV-1245",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -83894,7 +84031,7 @@
 "device": "Phone"
 },
 {
-"id": "VIV-1245",
+"id": "VIV-1246",
 "brand": "vivo / iQOO",
 "brands": [
 "VIV"
@@ -128625,23 +128762,29 @@
 "ALL"
 ],
 "models": [
-"Allview Viva H8",
-"Allview Viva H8 LTE"
+"Allview Viva H8"
 ],
 "released": [
-"2013-08",
-"2014-06"
+"2013-08"
 ],
 "check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"note": "Different tablets: the Viva H8 is 7.9in and 200 x 135.7 mm, the Viva H8 LTE 8.0in and 210 x 122 mm",
 "device": "Tablet",
+"sources": [
+[
+"GSMArena Viva H8",
+"https://www.gsmarena.com/allview_viva_h8-6113.php"
+],
+[
+"GSMArena Viva H8 LTE",
+"https://www.gsmarena.com/allview_viva_h8_lte-7636.php"
+]
+],
 "screens": [
-"7.9in",
-"8.0in"
+"7.9in"
 ],
 "dims": [
-"200 x 135.7 x 7.9 mm",
-"210 x 122 x 9 mm"
+"200 x 135.7 x 7.9 mm"
 ]
 },
 {
@@ -128849,6 +128992,38 @@
 "ALL"
 ],
 "models": [
+"Allview Viva H8 LTE"
+],
+"released": [
+"2014-06"
+],
+"check": "Check",
+"note": "Different tablets: the Viva H8 is 7.9in and 200 x 135.7 mm, the Viva H8 LTE 8.0in and 210 x 122 mm",
+"device": "Tablet",
+"sources": [
+[
+"GSMArena Viva H8",
+"https://www.gsmarena.com/allview_viva_h8-6113.php"
+],
+[
+"GSMArena Viva H8 LTE",
+"https://www.gsmarena.com/allview_viva_h8_lte-7636.php"
+]
+],
+"screens": [
+"8.0in"
+],
+"dims": [
+"210 x 122 x 9 mm"
+]
+},
+{
+"id": "ALL-2014",
+"brand": "Allview",
+"brands": [
+"ALL"
+],
+"models": [
 "Allview Viva i10G"
 ],
 "released": [
@@ -128865,7 +129040,7 @@
 ]
 },
 {
-"id": "ALL-2014",
+"id": "ALL-2015",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128887,7 +129062,7 @@
 ]
 },
 {
-"id": "ALL-2015",
+"id": "ALL-2016",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128909,7 +129084,7 @@
 ]
 },
 {
-"id": "ALL-2016",
+"id": "ALL-2017",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128931,7 +129106,7 @@
 ]
 },
 {
-"id": "ALL-2017",
+"id": "ALL-2018",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128953,7 +129128,7 @@
 ]
 },
 {
-"id": "ALL-2018",
+"id": "ALL-2019",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128975,7 +129150,7 @@
 ]
 },
 {
-"id": "ALL-2019",
+"id": "ALL-2020",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -128997,7 +129172,7 @@
 ]
 },
 {
-"id": "ALL-2020",
+"id": "ALL-2021",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129019,7 +129194,7 @@
 ]
 },
 {
-"id": "ALL-2021",
+"id": "ALL-2022",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129041,7 +129216,7 @@
 ]
 },
 {
-"id": "ALL-2022",
+"id": "ALL-2023",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129063,7 +129238,7 @@
 ]
 },
 {
-"id": "ALL-2023",
+"id": "ALL-2024",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129085,7 +129260,7 @@
 ]
 },
 {
-"id": "ALL-2024",
+"id": "ALL-2025",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129111,7 +129286,7 @@
 ]
 },
 {
-"id": "ALL-2025",
+"id": "ALL-2026",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -129133,7 +129308,7 @@
 ]
 },
 {
-"id": "ALL-2026",
+"id": "ALL-2027",
 "brand": "Allview",
 "brands": [
 "ALL"
@@ -140343,23 +140518,29 @@
 "BLU"
 ],
 "models": [
-"BLU Studio 7.0",
-"BLU Studio 7.0 LTE"
+"BLU Studio 7.0"
 ],
 "released": [
-"2014-11",
-"2015-10"
+"2014-11"
 ],
 "check": "Check",
-"note": "Variants of one model (region, carrier or connectivity): check fit",
+"note": "Different bodies: the Studio 7.0 is 187.5 x 103 mm, the Studio 7.0 LTE 190 x 99.8 mm",
 "device": "Tablet",
+"sources": [
+[
+"GSMArena Studio 7.0",
+"https://www.gsmarena.com/blu_studio_7_0-6838.php"
+],
+[
+"GSMArena Studio 7.0 LTE",
+"https://www.gsmarena.com/blu_studio_7_0_lte-7726.php"
+]
+],
 "screens": [
-"7.0in",
 "7.0in"
 ],
 "dims": [
-"187.5 x 103 x 9.4 mm",
-"190 x 99.8 x 8.5 mm"
+"187.5 x 103 x 9.4 mm"
 ]
 },
 {
@@ -140413,6 +140594,38 @@
 "BLU"
 ],
 "models": [
+"BLU Studio 7.0 LTE"
+],
+"released": [
+"2015-10"
+],
+"check": "Check",
+"note": "Different bodies: the Studio 7.0 is 187.5 x 103 mm, the Studio 7.0 LTE 190 x 99.8 mm",
+"device": "Tablet",
+"sources": [
+[
+"GSMArena Studio 7.0",
+"https://www.gsmarena.com/blu_studio_7_0-6838.php"
+],
+[
+"GSMArena Studio 7.0 LTE",
+"https://www.gsmarena.com/blu_studio_7_0_lte-7726.php"
+]
+],
+"screens": [
+"7.0in"
+],
+"dims": [
+"190 x 99.8 x 8.5 mm"
+]
+},
+{
+"id": "BLU-2011",
+"brand": "BLU",
+"brands": [
+"BLU"
+],
+"models": [
 "BLU Touch Book M7"
 ],
 "released": [
@@ -140429,7 +140642,7 @@
 ]
 },
 {
-"id": "BLU-2011",
+"id": "BLU-2012",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -140451,7 +140664,7 @@
 ]
 },
 {
-"id": "BLU-2012",
+"id": "BLU-2013",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -140473,7 +140686,7 @@
 ]
 },
 {
-"id": "BLU-2013",
+"id": "BLU-2014",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -140495,7 +140708,7 @@
 ]
 },
 {
-"id": "BLU-2014",
+"id": "BLU-2015",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -140517,7 +140730,7 @@
 ]
 },
 {
-"id": "BLU-2015",
+"id": "BLU-2016",
 "brand": "BLU",
 "brands": [
 "BLU"
@@ -182835,8 +183048,8 @@
 "10.1in"
 ],
 "dims": [
-"175 x 256.8 x 10.2 mm",
-"175 x 256.8 x 10.2 mm"
+"256.8 x 175 x 10.2 mm",
+"256.8 x 175 x 10.2 mm"
 ]
 },
 {
@@ -183056,31 +183269,33 @@
 "PRE"
 ],
 "models": [
-"Prestigio MultiPad 7.0 Prime",
-"Prestigio MultiPad 7.0 Prime 3G",
-"Prestigio MultiPad 7.0 Prime Duo",
-"Prestigio MultiPad 7.0 Prime Duo 3G"
+"Prestigio MultiPad 7.0 Prime"
 ],
 "released": [
-"2013-06",
-"2013-06",
-"2013-06",
 "2013-06"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Three different bodies: Prime 197 x 113 mm, Prime Duo 191 x 120 mm, and the Prime 3G and Prime Duo 3G 198 x 123 mm",
 "device": "Tablet",
+"sources": [
+[
+"GSMArena MultiPad 7.0 Prime",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime-5562.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime 3G",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_3g-5577.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime Duo",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php"
+]
+],
 "screens": [
-"7.0in",
-"7.0in",
-"7.0in",
 "7.0in"
 ],
 "dims": [
-"197 x 113 x 10.5 mm",
-"198 x 123 x 11.8 mm",
-"191 x 120 x 8.9 mm",
-"198 x 123 x 11.8 mm"
+"197 x 113 x 10.5 mm"
 ]
 },
 {
@@ -183112,6 +183327,82 @@
 "PRE"
 ],
 "models": [
+"Prestigio MultiPad 7.0 Prime 3G",
+"Prestigio MultiPad 7.0 Prime Duo 3G"
+],
+"released": [
+"2013-06",
+"2013-06"
+],
+"check": "Check",
+"note": "Three different bodies: Prime 197 x 113 mm, Prime Duo 191 x 120 mm, and the Prime 3G and Prime Duo 3G 198 x 123 mm. Same body size and screen specs: test before swapping",
+"device": "Tablet",
+"sources": [
+[
+"GSMArena MultiPad 7.0 Prime",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime-5562.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime 3G",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_3g-5577.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime Duo",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php"
+]
+],
+"screens": [
+"7.0in",
+"7.0in"
+],
+"dims": [
+"198 x 123 x 11.8 mm",
+"198 x 123 x 11.8 mm"
+]
+},
+{
+"id": "PRE-2014",
+"brand": "Prestigio",
+"brands": [
+"PRE"
+],
+"models": [
+"Prestigio MultiPad 7.0 Prime Duo"
+],
+"released": [
+"2013-06"
+],
+"check": "Check",
+"note": "Three different bodies: Prime 197 x 113 mm, Prime Duo 191 x 120 mm, and the Prime 3G and Prime Duo 3G 198 x 123 mm",
+"device": "Tablet",
+"sources": [
+[
+"GSMArena MultiPad 7.0 Prime",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime-5562.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime 3G",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_3g-5577.php"
+],
+[
+"GSMArena MultiPad 7.0 Prime Duo",
+"https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php"
+]
+],
+"screens": [
+"7.0in"
+],
+"dims": [
+"191 x 120 x 8.9 mm"
+]
+},
+{
+"id": "PRE-2015",
+"brand": "Prestigio",
+"brands": [
+"PRE"
+],
+"models": [
 "Prestigio MultiPad 7.0 Pro"
 ],
 "released": [
@@ -183128,7 +183419,7 @@
 ]
 },
 {
-"id": "PRE-2014",
+"id": "PRE-2016",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183150,7 +183441,7 @@
 ]
 },
 {
-"id": "PRE-2015",
+"id": "PRE-2017",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183172,7 +183463,7 @@
 ]
 },
 {
-"id": "PRE-2016",
+"id": "PRE-2018",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183198,7 +183489,7 @@
 ]
 },
 {
-"id": "PRE-2017",
+"id": "PRE-2019",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183220,7 +183511,7 @@
 ]
 },
 {
-"id": "PRE-2018",
+"id": "PRE-2020",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183242,7 +183533,7 @@
 ]
 },
 {
-"id": "PRE-2019",
+"id": "PRE-2021",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183264,7 +183555,7 @@
 ]
 },
 {
-"id": "PRE-2020",
+"id": "PRE-2022",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183290,7 +183581,7 @@
 ]
 },
 {
-"id": "PRE-2021",
+"id": "PRE-2023",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -183312,7 +183603,7 @@
 ]
 },
 {
-"id": "PRE-2022",
+"id": "PRE-2024",
 "brand": "Prestigio",
 "brands": [
 "PRE"
@@ -219471,13 +219762,13 @@
 "51.8 x 44 x 13.4 mm",
 "49.8 x 42.3 x 11.4 mm",
 "43.6 x 39.9 x 11.4 mm",
-"44 x 46.9 x 13.4 mm",
+"46.9 x 44 x 13.4 mm",
 "47 x 47 x 15.5 mm",
 "51 x 51 x 17.5 mm",
 "46 x 46 x 14.5 mm",
 "48.9 x 45 x 12.6 mm",
 "48.9 x 45 x 12.6 mm",
-"42.3 x 45.7 x 10.8 mm",
+"45.7 x 42.3 x 10.8 mm",
 "47 x 47 x 13.9 mm",
 "44.6 x 42.9 x 11.6 mm",
 "43.4 x 43.4 x 11.7 mm",
@@ -219574,7 +219865,7 @@
 "device": "Misc",
 "screens": [
 "",
-"1in",
+"",
 "1.23in",
 "1.23in",
 "1.23in"
@@ -219841,8 +220132,8 @@
 ],
 "dims": [
 "",
-"46.4 x 53.6 x 9.7 mm",
-"45.5 x 52.2 x 10.9 mm",
+"53.6 x 46.4 x 9.7 mm",
+"52.2 x 45.5 x 10.9 mm",
 "49 x 46 x 12.9 mm",
 "49 x 46 x 12.9 mm",
 "49 x 46 x 12.9 mm",
@@ -219870,12 +220161,12 @@
 "50 x 45 x 9.6 mm",
 "",
 "43.5 x 43.5 x 10.2 mm",
-"42 x 46 x 11.9 mm",
+"46 x 42 x 11.9 mm",
 "",
 "47 x 47 x 14.5 mm",
 "47 x 47 x 14.5 mm",
 "43.6 x 43.6 x 12.6 mm",
-"46.1 x 46.5 x 14.0 mm",
+"46.5 x 46.1 x 14.0 mm",
 "45.6 x 45.6 x 12.9 mm",
 "45.6 x 45.6 x 12.9 mm",
 "46.5 x 46.5 x 14.4 mm",
@@ -220097,7 +220388,7 @@
 "dims": [
 "",
 "44.5 x 44.5 x 14.2 mm",
-"45.4 x 51.2 x 14.2 mm",
+"51.2 x 45.4 x 14.2 mm",
 "42.9 x 42.9 x 10.8 mm"
 ],
 "tags": [
@@ -220715,21 +221006,21 @@
 "",
 "45.2 x 37.2 x 11.8 mm",
 "46.2 x 46.2 x 12.2 mm",
-"48 x 49.6 x 14 mm",
-"46.5 x 47.3 x 11 mm",
+"49.6 x 48 x 14 mm",
+"47.3 x 46.5 x 11 mm",
 "46 x 46 x 10.7 mm",
 "45.9 x 45.9 x 11 mm",
 "46.4 x 46.4 x 11 mm",
 "46.5 x 46.5 x 11 mm",
 "46.4 x 46.4 x 11 mm",
 "45.9 x 45.9 x 10.5 mm",
-"46.5 x 47.3 x 11 mm",
+"47.3 x 46.5 x 11 mm",
 "46.6 x 46.6 x 10.9 mm",
 "46.6 x 46.6 x 10.9 mm",
 "46 x 46 x 10.6 mm",
 "46.4 x 46.4 x 11 mm",
 "46 x 46 x 10.7 mm",
-"47 x 47.5 x 15 mm",
+"47.5 x 47 x 15 mm",
 "50.1 x 48 x 12.2 mm",
 "47 x 47 x 11.8 mm",
 "47.6 x 45.9 x 11.8 mm",
@@ -220951,7 +221242,7 @@
 "47.6 x 46.6 x 11.8 mm",
 "47.6 x 46.6 x 11.8 mm",
 "46.3 x 46.3 x 11.4 mm",
-"46 x 46.7 x 11.3 mm",
+"46.7 x 46 x 11.3 mm",
 "47.4 x 47.4 x 12.3 mm",
 "46.0 x 43.7 x 8.6 mm",
 "49 x 49 x 12.5 mm",
@@ -222078,7 +222369,7 @@
 "note": "Same case and screen size: test before swapping. Universal round glass: try UNI-0010 (32mm); measure first",
 "device": "Wearable",
 "screens": [
-"1in",
+"",
 "1.23in"
 ],
 "dims": [
@@ -223344,23 +223635,29 @@
 "GAR"
 ],
 "models": [
-"Garmin vivomove 3S",
-"Garmin vivomove Style"
+"Garmin vivomove 3S"
 ],
 "released": [
-"2019-09",
 "2019-09"
 ],
 "check": "Check",
-"note": "Same case and screen size: test before swapping",
+"note": "Different case sizes: vivomove 3S 39 mm, vivomove Style 42 mm",
 "device": "Wearable",
+"sources": [
+[
+"vivomove 3S specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3s/"
+],
+[
+"vivomove Style specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-style/"
+]
+],
 "screens": [
-"0.8in",
-"1.2in"
+"0.8in"
 ],
 "dims": [
-"39 x 39 x 10.9 mm",
-"42 x 42 x 11.9 mm"
+"39 x 39 x 10.9 mm"
 ]
 },
 {
@@ -223370,27 +223667,97 @@
 "GAR"
 ],
 "models": [
-"Garmin vivomove 3",
-"Garmin vivomove Luxe"
+"Garmin vivomove Style"
 ],
 "released": [
-"2019-09",
 "2019-09"
 ],
 "check": "Check",
-"note": "Same case and screen size: test before swapping",
+"note": "Different case sizes: vivomove 3S 39 mm, vivomove Style 42 mm",
 "device": "Wearable",
+"sources": [
+[
+"vivomove 3S specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3s/"
+],
+[
+"vivomove Style specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-style/"
+]
+],
 "screens": [
-"0.8in",
 "1.2in"
 ],
 "dims": [
-"44 x 44 x 11.3 mm",
 "42 x 42 x 11.9 mm"
 ]
 },
 {
 "id": "GAR-3085",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin vivomove 3"
+],
+"released": [
+"2019-09"
+],
+"check": "Check",
+"note": "Different case sizes: vivomove 3 44 mm, vivomove Luxe 42 mm",
+"device": "Wearable",
+"sources": [
+[
+"vivomove 3 specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3/"
+],
+[
+"vivomove Luxe specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-luxe/"
+]
+],
+"screens": [
+"0.8in"
+],
+"dims": [
+"44 x 44 x 11.3 mm"
+]
+},
+{
+"id": "GAR-3086",
+"brand": "Garmin",
+"brands": [
+"GAR"
+],
+"models": [
+"Garmin vivomove Luxe"
+],
+"released": [
+"2019-09"
+],
+"check": "Check",
+"note": "Different case sizes: vivomove 3 44 mm, vivomove Luxe 42 mm",
+"device": "Wearable",
+"sources": [
+[
+"vivomove 3 specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3/"
+],
+[
+"vivomove Luxe specs",
+"https://gadgetsandwearables.com/technical-specs/garmin-vivomove-luxe/"
+]
+],
+"screens": [
+"1.2in"
+],
+"dims": [
+"42 x 42 x 11.9 mm"
+]
+},
+{
+"id": "GAR-3087",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223415,7 +223782,7 @@
 ]
 },
 {
-"id": "GAR-3086",
+"id": "GAR-3088",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223458,7 +223825,7 @@
 ]
 },
 {
-"id": "GAR-3087",
+"id": "GAR-3089",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223493,7 +223860,7 @@
 ]
 },
 {
-"id": "GAR-3088",
+"id": "GAR-3090",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223521,7 +223888,7 @@
 ]
 },
 {
-"id": "GAR-3089",
+"id": "GAR-3091",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223552,7 +223919,7 @@
 ]
 },
 {
-"id": "GAR-3090",
+"id": "GAR-3092",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223583,7 +223950,7 @@
 ]
 },
 {
-"id": "GAR-3091",
+"id": "GAR-3093",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223615,7 +223982,7 @@
 ]
 },
 {
-"id": "GAR-3092",
+"id": "GAR-3094",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223644,7 +224011,7 @@
 ]
 },
 {
-"id": "GAR-3093",
+"id": "GAR-3095",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223663,7 +224030,7 @@
 ]
 },
 {
-"id": "GAR-3094",
+"id": "GAR-3096",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223685,7 +224052,7 @@
 ]
 },
 {
-"id": "GAR-3095",
+"id": "GAR-3097",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223716,7 +224083,7 @@
 ]
 },
 {
-"id": "GAR-3096",
+"id": "GAR-3098",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223738,7 +224105,7 @@
 ]
 },
 {
-"id": "GAR-3097",
+"id": "GAR-3099",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223763,7 +224130,7 @@
 ]
 },
 {
-"id": "GAR-3098",
+"id": "GAR-3100",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223791,7 +224158,7 @@
 ]
 },
 {
-"id": "GAR-3099",
+"id": "GAR-3101",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223813,7 +224180,7 @@
 ]
 },
 {
-"id": "GAR-3100",
+"id": "GAR-3102",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223844,7 +224211,7 @@
 ]
 },
 {
-"id": "GAR-3101",
+"id": "GAR-3103",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223866,7 +224233,7 @@
 ]
 },
 {
-"id": "GAR-3102",
+"id": "GAR-3104",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223905,7 +224272,7 @@
 ]
 },
 {
-"id": "GAR-3103",
+"id": "GAR-3105",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -223992,7 +224359,7 @@
 ]
 },
 {
-"id": "GAR-3104",
+"id": "GAR-3106",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224051,7 +224418,7 @@
 ]
 },
 {
-"id": "GAR-3105",
+"id": "GAR-3107",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224073,7 +224440,7 @@
 ]
 },
 {
-"id": "GAR-3106",
+"id": "GAR-3108",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224109,7 +224476,7 @@
 ]
 },
 {
-"id": "GAR-3107",
+"id": "GAR-3109",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224141,7 +224508,7 @@
 ]
 },
 {
-"id": "GAR-3108",
+"id": "GAR-3110",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224169,7 +224536,7 @@
 ]
 },
 {
-"id": "GAR-3109",
+"id": "GAR-3111",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224188,7 +224555,7 @@
 ]
 },
 {
-"id": "GAR-3110",
+"id": "GAR-3112",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224223,7 +224590,7 @@
 ]
 },
 {
-"id": "GAR-3111",
+"id": "GAR-3113",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224266,7 +224633,7 @@
 ]
 },
 {
-"id": "GAR-3112",
+"id": "GAR-3114",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224305,7 +224672,7 @@
 ]
 },
 {
-"id": "GAR-3113",
+"id": "GAR-3115",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224341,7 +224708,7 @@
 ]
 },
 {
-"id": "GAR-3114",
+"id": "GAR-3116",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224366,7 +224733,7 @@
 ]
 },
 {
-"id": "GAR-3115",
+"id": "GAR-3117",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224391,7 +224758,7 @@
 ]
 },
 {
-"id": "GAR-3116",
+"id": "GAR-3118",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224422,7 +224789,7 @@
 ]
 },
 {
-"id": "GAR-3117",
+"id": "GAR-3119",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224447,7 +224814,7 @@
 ]
 },
 {
-"id": "GAR-3118",
+"id": "GAR-3120",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224469,7 +224836,7 @@
 ]
 },
 {
-"id": "GAR-3119",
+"id": "GAR-3121",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224500,7 +224867,7 @@
 ]
 },
 {
-"id": "GAR-3120",
+"id": "GAR-3122",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224531,7 +224898,7 @@
 ]
 },
 {
-"id": "GAR-3121",
+"id": "GAR-3123",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224562,7 +224929,7 @@
 ]
 },
 {
-"id": "GAR-3122",
+"id": "GAR-3124",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224590,7 +224957,7 @@
 ]
 },
 {
-"id": "GAR-3123",
+"id": "GAR-3125",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224612,7 +224979,7 @@
 ]
 },
 {
-"id": "GAR-3124",
+"id": "GAR-3126",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224647,7 +225014,7 @@
 ]
 },
 {
-"id": "GAR-3125",
+"id": "GAR-3127",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224678,7 +225045,7 @@
 ]
 },
 {
-"id": "GAR-3126",
+"id": "GAR-3128",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224709,7 +225076,7 @@
 ]
 },
 {
-"id": "GAR-3127",
+"id": "GAR-3129",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224737,7 +225104,7 @@
 ]
 },
 {
-"id": "GAR-3128",
+"id": "GAR-3130",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224762,7 +225129,7 @@
 ]
 },
 {
-"id": "GAR-3129",
+"id": "GAR-3131",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224781,7 +225148,7 @@
 ]
 },
 {
-"id": "GAR-3130",
+"id": "GAR-3132",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224809,7 +225176,7 @@
 ]
 },
 {
-"id": "GAR-3131",
+"id": "GAR-3133",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224848,7 +225215,7 @@
 ]
 },
 {
-"id": "GAR-3132",
+"id": "GAR-3134",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224879,7 +225246,7 @@
 ]
 },
 {
-"id": "GAR-3133",
+"id": "GAR-3135",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224910,7 +225277,7 @@
 ]
 },
 {
-"id": "GAR-3134",
+"id": "GAR-3136",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224941,7 +225308,7 @@
 ]
 },
 {
-"id": "GAR-3135",
+"id": "GAR-3137",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224972,7 +225339,7 @@
 ]
 },
 {
-"id": "GAR-3136",
+"id": "GAR-3138",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -224997,7 +225364,7 @@
 ]
 },
 {
-"id": "GAR-3137",
+"id": "GAR-3139",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225019,7 +225386,7 @@
 ]
 },
 {
-"id": "GAR-3138",
+"id": "GAR-3140",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225035,7 +225402,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3139",
+"id": "GAR-3141",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225063,7 +225430,7 @@
 ]
 },
 {
-"id": "GAR-3140",
+"id": "GAR-3142",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225091,7 +225458,7 @@
 ]
 },
 {
-"id": "GAR-3141",
+"id": "GAR-3143",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225116,7 +225483,7 @@
 ]
 },
 {
-"id": "GAR-3142",
+"id": "GAR-3144",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225144,7 +225511,7 @@
 ]
 },
 {
-"id": "GAR-3143",
+"id": "GAR-3145",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225172,7 +225539,7 @@
 ]
 },
 {
-"id": "GAR-3144",
+"id": "GAR-3146",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225200,7 +225567,7 @@
 ]
 },
 {
-"id": "GAR-3145",
+"id": "GAR-3147",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225222,7 +225589,7 @@
 ]
 },
 {
-"id": "GAR-3146",
+"id": "GAR-3148",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225244,7 +225611,7 @@
 ]
 },
 {
-"id": "GAR-3147",
+"id": "GAR-3149",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225266,7 +225633,7 @@
 ]
 },
 {
-"id": "GAR-3148",
+"id": "GAR-3150",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225288,7 +225655,7 @@
 ]
 },
 {
-"id": "GAR-3149",
+"id": "GAR-3151",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225310,7 +225677,7 @@
 ]
 },
 {
-"id": "GAR-3150",
+"id": "GAR-3152",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225332,7 +225699,7 @@
 ]
 },
 {
-"id": "GAR-3151",
+"id": "GAR-3153",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225360,7 +225727,7 @@
 ]
 },
 {
-"id": "GAR-3152",
+"id": "GAR-3154",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225382,7 +225749,7 @@
 ]
 },
 {
-"id": "GAR-3153",
+"id": "GAR-3155",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225404,7 +225771,7 @@
 ]
 },
 {
-"id": "GAR-3154",
+"id": "GAR-3156",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225426,7 +225793,7 @@
 ]
 },
 {
-"id": "GAR-3155",
+"id": "GAR-3157",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225454,7 +225821,7 @@
 ]
 },
 {
-"id": "GAR-3156",
+"id": "GAR-3158",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225493,7 +225860,7 @@
 ]
 },
 {
-"id": "GAR-3157",
+"id": "GAR-3159",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225518,7 +225885,7 @@
 ]
 },
 {
-"id": "GAR-3158",
+"id": "GAR-3160",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225543,7 +225910,7 @@
 ]
 },
 {
-"id": "GAR-3159",
+"id": "GAR-3161",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225571,7 +225938,7 @@
 ]
 },
 {
-"id": "GAR-3160",
+"id": "GAR-3162",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225602,7 +225969,7 @@
 ]
 },
 {
-"id": "GAR-3161",
+"id": "GAR-3163",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225633,7 +226000,7 @@
 ]
 },
 {
-"id": "GAR-3162",
+"id": "GAR-3164",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225655,7 +226022,7 @@
 ]
 },
 {
-"id": "GAR-3163",
+"id": "GAR-3165",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225686,7 +226053,7 @@
 ]
 },
 {
-"id": "GAR-3164",
+"id": "GAR-3166",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225717,7 +226084,7 @@
 ]
 },
 {
-"id": "GAR-3165",
+"id": "GAR-3167",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225745,7 +226112,7 @@
 ]
 },
 {
-"id": "GAR-3166",
+"id": "GAR-3168",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225767,7 +226134,7 @@
 ]
 },
 {
-"id": "GAR-3167",
+"id": "GAR-3169",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225783,7 +226150,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3168",
+"id": "GAR-3170",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225805,7 +226172,7 @@
 ]
 },
 {
-"id": "GAR-3169",
+"id": "GAR-3171",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225830,7 +226197,7 @@
 ]
 },
 {
-"id": "GAR-3170",
+"id": "GAR-3172",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225846,7 +226213,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3171",
+"id": "GAR-3173",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225871,7 +226238,7 @@
 ]
 },
 {
-"id": "GAR-3172",
+"id": "GAR-3174",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225887,7 +226254,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3173",
+"id": "GAR-3175",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225906,7 +226273,7 @@
 ]
 },
 {
-"id": "GAR-3174",
+"id": "GAR-3176",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225928,7 +226295,7 @@
 ]
 },
 {
-"id": "GAR-3175",
+"id": "GAR-3177",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -225971,7 +226338,7 @@
 ]
 },
 {
-"id": "GAR-3176",
+"id": "GAR-3178",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226000,7 +226367,7 @@
 ]
 },
 {
-"id": "GAR-3177",
+"id": "GAR-3179",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226033,7 +226400,7 @@
 ]
 },
 {
-"id": "GAR-3178",
+"id": "GAR-3180",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226066,7 +226433,7 @@
 ]
 },
 {
-"id": "GAR-3179",
+"id": "GAR-3181",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226091,7 +226458,7 @@
 ]
 },
 {
-"id": "GAR-3180",
+"id": "GAR-3182",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226113,7 +226480,7 @@
 ]
 },
 {
-"id": "GAR-3181",
+"id": "GAR-3183",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226129,7 +226496,7 @@
 "device": "Wearable"
 },
 {
-"id": "GAR-3182",
+"id": "GAR-3184",
 "brand": "Garmin",
 "brands": [
 "GAR"
@@ -226171,7 +226538,7 @@
 ]
 },
 {
-"id": "GAR-3183",
+"id": "GAR-3185",
 "brand": "Garmin",
 "brands": [
 "GAR"

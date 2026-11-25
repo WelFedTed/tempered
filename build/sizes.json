@@ -1350,9 +1350,8 @@
   "screen": "1.57in"
  },
  "Fitbit Charge 4": {
-  "dims": "42.7 x 28.8 x 12.5 mm",
-  "source": "https://www.gadgetsandwearables.com/technical-specs/fitbit-charge-4/",
-  "screen": "1.57in"
+  "screen": "1.57in",
+  "source": "https://www.gadgetsandwearables.com/technical-specs/fitbit-charge-4/"
  },
  "Fitbit Charge 5": {
   "screen": "1.04in",
@@ -2081,8 +2080,7 @@
  },
  "Garmin Forerunner 230": {
   "dims": "45 x 45 x 11.8 mm",
-  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-230/",
-  "screen": "1in"
+  "source": "https://gadgetsandwearables.com/technical-specs/garmin-forerunner-230/"
  },
  "Garmin Forerunner 235": {
   "screen": "1.23in",

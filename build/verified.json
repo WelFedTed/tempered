@@ -12447,7 +12447,6 @@
  {
   "models": [
    "vivo iQOO Z11",
-   "vivo T5",
    "vivo S2"
   ],
   "fit": "same",
@@ -12465,7 +12464,7 @@
     "url": "https://www.flipkart.com/gadget-glow-edge-tempered-glass-iqoo-z11-5g-z11-vivo-s2-5g/p/itm2a78b6c288d50?pid=ACCHRF3QTHFFM5ZH"
    }
   ],
-  "note": "Flipkart sellers WonReza and ArmourPro sell one glass for iQOO Z11, T5 and S2 (Gadget Glow also pairs Z11 with S2); ArmourPro's is UV glass. No listing pairs iQOO Z11 with T5 Pro."
+  "note": "Flipkart sellers WonReza, ArmourPro and Gadget Glow sell one glass for the iQOO Z11 and S2; ArmourPro's is UV glass. WonReza and ArmourPro also name the vivo T5, but GSMArena gives the T5 a 6.75in screen and 166.6 mm body (Z11: 6.83in, 163.7 mm), so test that one first. No listing pairs iQOO Z11 with T5 Pro."
  },
  {
   "models": [
@@ -15512,5 +15511,154 @@
    }
   ],
   "note": "Targus sells one glass for the Surface Go, Go 2, Go 3 and Go 4: same body, though the original Go has a 10in screen and the others 10.5in. Buy glass listed for the Go 2 or later: reports say some glass made only for the original Go can cover the Go 2 microphone."
+ },
+ {
+  "models": [
+   "I8520 Galaxy Beam",
+   "I8530 Galaxy Beam"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena I8520 Galaxy Beam",
+    "url": "https://www.gsmarena.com/samsung_i8520_galaxy_beam-3150.php"
+   },
+   {
+    "name": "GSMArena I8530 Galaxy Beam",
+    "url": "https://www.gsmarena.com/samsung_i8530_galaxy_beam-4566.php"
+   }
+  ],
+  "note": "Two different Galaxy Beam phones: the 2010 I8520 has a 3.7in screen and 59.8 mm wide body, the 2012 I8530 a 4.0in screen and 64.2 mm wide body."
+ },
+ {
+  "models": [
+   "I7500 Galaxy",
+   "I6500U Galaxy"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena I7500 Galaxy",
+    "url": "https://www.gsmarena.com/samsung_i7500_galaxy-2791.php"
+   },
+   {
+    "name": "GSMArena I6500U Galaxy",
+    "url": "https://www.gsmarena.com/samsung_i6500u_galaxy-3002.php"
+   }
+  ],
+  "note": "Two different phones: the I7500 Galaxy is 115.9 x 56 mm, the I6500U Galaxy 117 x 59 mm."
+ },
+ {
+  "models": [
+   "Allview Viva H8",
+   "Allview Viva H8 LTE"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena Viva H8",
+    "url": "https://www.gsmarena.com/allview_viva_h8-6113.php"
+   },
+   {
+    "name": "GSMArena Viva H8 LTE",
+    "url": "https://www.gsmarena.com/allview_viva_h8_lte-7636.php"
+   }
+  ],
+  "note": "Different tablets: the Viva H8 is 7.9in and 200 x 135.7 mm, the Viva H8 LTE 8.0in and 210 x 122 mm."
+ },
+ {
+  "models": [
+   "BLU Studio 7.0",
+   "BLU Studio 7.0 LTE"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena Studio 7.0",
+    "url": "https://www.gsmarena.com/blu_studio_7_0-6838.php"
+   },
+   {
+    "name": "GSMArena Studio 7.0 LTE",
+    "url": "https://www.gsmarena.com/blu_studio_7_0_lte-7726.php"
+   }
+  ],
+  "note": "Different bodies: the Studio 7.0 is 187.5 x 103 mm, the Studio 7.0 LTE 190 x 99.8 mm."
+ },
+ {
+  "models": [
+   "Gear S2 classic",
+   "Gear S2 classic 3G"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena Gear S2 classic",
+    "url": "https://www.gsmarena.com/samsung_gear_s2_classic-7677.php"
+   },
+   {
+    "name": "GSMArena Gear S2 classic 3G",
+    "url": "https://www.gsmarena.com/samsung_gear_s2_classic_3g-7934.php"
+   }
+  ],
+  "note": "Different cases: the Gear S2 classic is 43.6 x 39.9 mm, the classic 3G 44 x 46.9 mm."
+ },
+ {
+  "models": [
+   "Prestigio MultiPad 7.0 Prime 3G",
+   "Prestigio MultiPad 7.0 Prime",
+   "Prestigio MultiPad 7.0 Prime Duo"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena MultiPad 7.0 Prime",
+    "url": "https://www.gsmarena.com/prestigio_multipad_7_0_prime-5562.php"
+   },
+   {
+    "name": "GSMArena MultiPad 7.0 Prime 3G",
+    "url": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_3g-5577.php"
+   },
+   {
+    "name": "GSMArena MultiPad 7.0 Prime Duo",
+    "url": "https://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php"
+   }
+  ],
+  "note": "Three different bodies: Prime 197 x 113 mm, Prime Duo 191 x 120 mm, and the Prime 3G and Prime Duo 3G 198 x 123 mm."
+ },
+ {
+  "models": [
+   "Garmin vivomove 3S",
+   "Garmin vivomove Style"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "vivomove 3S specs",
+    "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3s/"
+   },
+   {
+    "name": "vivomove Style specs",
+    "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-style/"
+   }
+  ],
+  "note": "Different case sizes: vivomove 3S 39 mm, vivomove Style 42 mm."
+ },
+ {
+  "models": [
+   "Garmin vivomove 3",
+   "Garmin vivomove Luxe"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "vivomove 3 specs",
+    "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-3/"
+   },
+   {
+    "name": "vivomove Luxe specs",
+    "url": "https://gadgetsandwearables.com/technical-specs/garmin-vivomove-luxe/"
+   }
+  ],
+  "note": "Different case sizes: vivomove 3 44 mm, vivomove Luxe 42 mm."
  }
 ]
