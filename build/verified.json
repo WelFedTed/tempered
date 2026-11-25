@@ -16025,5 +16025,27 @@
   ],
   "note": "Major brands (Spigen, Whitestone, Olixar) sell separate S22 Ultra and S23 Ultra glass, and the S23 Ultra's screen is flatter at the edges. Some budget brands list both, and one owner reports Whitestone's S22 Ultra Dome Glass fitted their S23 Ultra: test first.",
   "weak": true
+ },
+ {
+  "models": [
+   "Galaxy S21 Ultra 5G",
+   "Galaxy S22 Ultra 5G"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "GSMArena S21 Ultra 5G specs (165.1 x 75.6 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php"
+   },
+   {
+    "name": "GSMArena S22 Ultra 5G specs (163.3 x 77.9 mm)",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php"
+   },
+   {
+    "name": "Notebookcheck: the S22 Ultra needs a Galaxy Note-shaped screen protector",
+    "url": "https://www.notebookcheck.net/The-Galaxy-S22-Ultra-will-need-a-Galaxy-Note-shaped-screen-protector-according-to-a-new-leak.581850.0.html"
+   }
+  ],
+  "note": "The S22 Ultra moved to a squarer, Note-style shape: about 2 mm shorter and 2 mm wider than the S21 Ultra, so their glass doesn't swap."
  }
 ]
