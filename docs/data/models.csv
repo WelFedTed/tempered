@@ -1004,6 +1004,7 @@ Galaxy Watch5 Pro 45mm,SAM-3029,Samsung,Wearable,2022-08,,1.4in,45.4 x 45.4 x 10
 Galaxy Watch6 40mm,SAM-3030,Samsung,Wearable,2023-07,,1.3in,40.4 x 38.8 x 9.0
 Galaxy Watch6 44mm,SAM-3031,Samsung,Wearable,2023-07,,1.5in,42.8 x 44.4 x 9
 Galaxy Watch7 44mm,SAM-3031,Samsung,Wearable,2024-07,,1.5in,44.4 x 44.4 x 9.7
+Galaxy Watch8 44mm,SAM-3031,Samsung,Wearable,2025-07,,1.47in,46.0 x 43.7 x 8.6
 Galaxy Watch6 Classic 43mm,SAM-3032,Samsung,Wearable,2023-07,,1.3in,42.5 x 42.5 x 10.9
 Galaxy Watch6 Classic 47mm,SAM-3033,Samsung,Wearable,2023-07,,1.5in,46.5 x 46.5 x 10.9
 Galaxy Fit3,SAM-3034,Samsung,Wearable,2024-02,,1.6in,42.9 x 28.8 x 9.9
@@ -1011,11 +1012,10 @@ Galaxy Watch FE 40mm,SAM-3035,Samsung,Wearable,2024-06,,1.2in,40.4 x 39.3 x 9.8
 Galaxy Watch7 40mm,SAM-3036,Samsung,Wearable,2024-07,,1.3in,40.4 x 40.4 x 9.7
 Galaxy Watch Ultra 47mm,SAM-3037,Samsung,Wearable,2024-07,,1.5in,47.4 x 47.4 x 12.1
 Galaxy Watch8 40mm,SAM-3038,Samsung,Wearable,2025-07,,1.34in,42.7 x 40.4 x 8.6
-Galaxy Watch8 44mm,SAM-3039,Samsung,Wearable,2025-07,,1.47in,46.0 x 43.7 x 8.6
-Galaxy Watch8 Classic 46mm,SAM-3040,Samsung,Wearable,2025-07,,1.34in,46.4 x 46 x 10.6
-Galaxy Watch9 40mm,SAM-3041,Samsung,Wearable,2026-07,,1.34in,42.7 x 40.4 x 8.6
-Galaxy Watch Ultra2,SAM-3042,Samsung,Wearable,2026-07,"SM-L715F, SM-L715U",1.52in,47.4 x 47.1 x 10.7
-Galaxy Watch9 44mm,SAM-3043,Samsung,Wearable,2026-07,,1.47in,46.0 x 43.7 x 8.6
+Galaxy Watch8 Classic 46mm,SAM-3039,Samsung,Wearable,2025-07,,1.34in,46.4 x 46 x 10.6
+Galaxy Watch9 40mm,SAM-3040,Samsung,Wearable,2026-07,,1.34in,42.7 x 40.4 x 8.6
+Galaxy Watch Ultra2,SAM-3041,Samsung,Wearable,2026-07,"SM-L715F, SM-L715U",1.52in,47.4 x 47.1 x 10.7
+Galaxy Watch9 44mm,SAM-3042,Samsung,Wearable,2026-07,,1.47in,46.0 x 43.7 x 8.6
 Nexus One,GOO-1001,Google,Phone,2010-01,,3.7in,119 x 59.8 x 11.5
 Nexus S,GOO-1002,Google,Phone,2010-12,,4in,123.9 x 63 x 10.9
 Galaxy Nexus,GOO-1003,Google,Phone,2011-10,,4.65in,135.5 x 67.9 x 8.9
@@ -1583,58 +1583,58 @@ Oppo Find X5 Lite,ONE-1024,OnePlus + Oppo,Phone,2022-02,CPH2371,6.43in,160.6 x 7
 OnePlus Ace,ONE-1025,OnePlus,Phone,2022-04,PGKM10,6.7in,163.3 x 75.5 x 8.2
 OnePlus 10R,ONE-1025,OnePlus,Phone,2022-04,CPH2411,6.7in,163.3 x 75.5 x 8.2
 OnePlus 10R 150W,ONE-1025,OnePlus,Phone,2022-04,,6.7in,163.3 x 75.5 x 8.2
+OnePlus 10T,ONE-1025,OnePlus,Phone,2022-08,"CPH2415, CPH2413, CPH2417, CPH2419",6.7in,163 x 75.4 x 8.8
+OnePlus Ace Pro,ONE-1025,OnePlus,Phone,2022-08,PGP110,6.7in,163 x 75.4 x 8.8
 OnePlus Nord CE 2 Lite 5G,ONE-1026,OnePlus + Oppo,Phone,2022-04,"CPH2381, CPH2409",6.59in,164.3 x 75.6 x 8.5
 Oppo K10x,ONE-1026,OnePlus + Oppo,Phone,2022-09,PGGM10,6.59in,164.3 x 75.6 x 8.5
 OnePlus Nord 2T,ONE-1027,OnePlus,Phone,2022-05,"CPH2399, CPH2401",6.43in,159.1 x 73.2 x 8.2
-OnePlus 10T,ONE-1028,OnePlus,Phone,2022-08,"CPH2415, CPH2413, CPH2417, CPH2419",6.7in,163 x 75.4 x 8.8
-OnePlus Ace Pro,ONE-1028,OnePlus,Phone,2022-08,PGP110,6.7in,163 x 75.4 x 8.8
-OnePlus Ace 2,ONE-1029,OnePlus,Phone,2023-02,PHK110,6.74in,163.4 x 74.3 x 8.7
-OnePlus 11R,ONE-1029,OnePlus,Phone,2023-02,CPH2487,6.74in,163.4 x 74.3 x 8.7
-OnePlus Ace 2V,ONE-1030,OnePlus,Phone,2023-03,PHP110,6.74in,162.6 x 75.1 x 8.2
-OnePlus Nord 3,ONE-1031,OnePlus,Phone,2023-07,"CPH2491, CPH2493",6.74in,162 x 75.1 x 8.2
-OnePlus Nord 4,ONE-1031,OnePlus,Phone,2024-07,"CPH2663, CPH2661",6.74in,162.6 x 75 x 8
-OnePlus Nord CE3,ONE-1032,OnePlus,Phone,2023-07,CPH2569,6.7in,162.7 x 75.5 x 8.2
-OnePlus Ace 2 Pro,ONE-1033,OnePlus,Phone,2023-08,PJA110,6.74in,163.1 x 74.2 x 9
-OnePlus Open,ONE-1034,OnePlus + Oppo,Phone,2023-10,CPH2551,6.31in,153.4 x 73.3 x 11.7
-Oppo Find N3,ONE-1034,OnePlus + Oppo,Phone,2023-10,"CPH2499, PHN110",6.31in,153.4 x 73.3 x 11.7
-OnePlus 12,ONE-1035,OnePlus,Phone,2023-12,"PJD110, CPH2573, CPH2581, CPH2583",6.82in,164.3 x 75.8 x 9.2
-OnePlus Ace 3,ONE-1036,OnePlus,Phone,2024-01,PJE110,6.78in,163.3 x 75.3 x 8.8
-OnePlus 12R,ONE-1036,OnePlus,Phone,2024-01,"CPH2609, CPH2585, CPH2611",6.78in,163.3 x 75.3 x 8.8
-OnePlus Ace 3V,ONE-1037,OnePlus,Phone,2024-03,PJF110,6.74in,162.7 x 75.2 x 8.5
-OnePlus Nord CE4,ONE-1038,OnePlus + Oppo,Phone,2024-04,CPH2613,6.7in,162.5 x 75.3 x 8.4
-Oppo K12,ONE-1038,OnePlus + Oppo,Phone,2024-04,PJR110,6.7in,162.5 x 75.3 x 8.4
-Oppo K12 Plus,ONE-1038,OnePlus + Oppo,Phone,2024-10,PKS110,6.7in,162.5 x 75.3 x 8.4
-OnePlus Ace 3 Pro,ONE-1039,OnePlus,Phone,2024-06,PJX110,6.78in,163.3 x 75.3 x 8.7
-OnePlus 13,ONE-1040,OnePlus,Phone,2024-10,"CPH2655, CPH2653, PJZ110, CPH2649",6.82in,162.9 x 76.5 x 8.5
-OnePlus Ace 5,ONE-1041,OnePlus,Phone,2024-12,PKG110,6.78in,161.7 x 75.8 x 8.1
-OnePlus Ace 5 Pro,ONE-1041,OnePlus,Phone,2024-12,PKR110,6.78in,161.7 x 75.8 x 8.1
-OnePlus 13R,ONE-1041,OnePlus,Phone,2025-01,"CPH2645, CPH2691, CPH2647",6.78in,161.7 x 75.8 x 8
-OnePlus 13T,ONE-1042,OnePlus,Phone,2025-04,PKX110,6.32in,150.8 x 71.7 x 8.2
-OnePlus 13s,ONE-1042,OnePlus,Phone,2025-06,CPH2723,6.32in,150.8 x 71.7 x 8.2
-OnePlus Ace 5 Ultra,ONE-1043,OnePlus,Phone,2025-05,PLC110,6.83in,163.4 x 77 x 8.1
-OnePlus Nord 5,ONE-1043,OnePlus,Phone,2025-07,"CPH2709, CPH2707",6.83in,163.4 x 77 x 8.1
-OnePlus 15R,ONE-1043,OnePlus,Phone,2025-12,"CPH2769, CPH2767",6.83in,163.4 x 77 x 8.1
-OnePlus Ace 6T,ONE-1043,OnePlus,Phone,2025-12,PLR110,6.83in,163.4 x 77 x 8.1
-OnePlus Ace 5 Racing,ONE-1044,OnePlus,Phone,2025-05,PLF110,6.77in,163.6 x 76 x 8.2
-OnePlus Nord CE5,ONE-1044,OnePlus,Phone,2025-07,CPH2719,6.77in,163.6 x 76 x 8.2
-OnePlus 15,ONE-1045,OnePlus,Phone,2025-10,"CPH2747, CPH2745, PLK110, CPH2749",6.78in,161.4 x 76.7 x 8.1
-OnePlus Ace 6,ONE-1046,OnePlus,Phone,2025-10,PLQ110,6.83in,163.4 x 77 x 8.3
-OnePlus Turbo 6,ONE-1047,OnePlus,Phone,2026-01,PLU110,6.78in,162.5 x 77.5 x 8.5
-OnePlus Turbo 6V,ONE-1047,OnePlus,Phone,2026-01,PLY110,6.78in,162.5 x 77.5 x 8.5
-OnePlus Nord 6,ONE-1047,OnePlus,Phone,2026-04,"CPH2795, CPH2793",6.78in,162.5 x 77.5 x 8.5
-OnePlus Ace 6 Ultra,ONE-1047,OnePlus,Phone,2026-04,,6.78in,162.5 x 77.5 x 8.5
-OnePlus Nord CE6,ONE-1047,OnePlus,Phone,2026-05,,6.78in,162.5 x 77.5 x 8.5
-OnePlus 15T,ONE-1048,OnePlus,Phone,2026-03,PLZ110,6.32in,150.6 x 71.8 x 8.4
-OnePlus Nord CE6 Lite,ONE-1049,OnePlus,Phone,2026-05,,6.72in,165.9 x 76 x 8.5
-OnePlus N6,ONE-1050,OnePlus,Phone,2026-06,,6.8in,166.5 x 78.2 x 8.9
-OnePlus N6 Lite,ONE-1051,OnePlus,Phone,2026-06,,,
-OnePlus Turbo 6X,ONE-1052,OnePlus,Phone,2026-06,,6.72in,165.9 x 76 x 9
-OnePlus Turbo 6X Pro,ONE-1053,OnePlus,Phone,2026-06,,6.78in,162.6 x 77.6 x 8.8
-OnePlus N6x,ONE-1054,OnePlus,Phone,2026-07,,6.8in,166.4 x 78.13 x 8.65
-OnePlus 16,ONE-1055,OnePlus,Phone,2026-10,,6.78in,161.42 x 76.67 x 8.55
-OnePlus Ace 7 Pro,ONE-1056,OnePlus,Phone,2026-10,,,
-OnePlus Ace 7,ONE-1057,OnePlus,Phone,2026-10,,6.78in,162.3 x 77.37 x 8.5
-OnePlus Turbo 6Vs,ONE-1058,OnePlus,Phone,2026-11,,6.78in,162.46 x 77.45 x 8.5
+OnePlus Ace 2,ONE-1028,OnePlus,Phone,2023-02,PHK110,6.74in,163.4 x 74.3 x 8.7
+OnePlus 11R,ONE-1028,OnePlus,Phone,2023-02,CPH2487,6.74in,163.4 x 74.3 x 8.7
+OnePlus Ace 2V,ONE-1029,OnePlus,Phone,2023-03,PHP110,6.74in,162.6 x 75.1 x 8.2
+OnePlus Nord 3,ONE-1030,OnePlus,Phone,2023-07,"CPH2491, CPH2493",6.74in,162 x 75.1 x 8.2
+OnePlus Nord 4,ONE-1030,OnePlus,Phone,2024-07,"CPH2663, CPH2661",6.74in,162.6 x 75 x 8
+OnePlus Nord CE3,ONE-1031,OnePlus,Phone,2023-07,CPH2569,6.7in,162.7 x 75.5 x 8.2
+OnePlus Ace 2 Pro,ONE-1032,OnePlus,Phone,2023-08,PJA110,6.74in,163.1 x 74.2 x 9
+OnePlus Open,ONE-1033,OnePlus + Oppo,Phone,2023-10,CPH2551,6.31in,153.4 x 73.3 x 11.7
+Oppo Find N3,ONE-1033,OnePlus + Oppo,Phone,2023-10,"CPH2499, PHN110",6.31in,153.4 x 73.3 x 11.7
+OnePlus 12,ONE-1034,OnePlus,Phone,2023-12,"PJD110, CPH2573, CPH2581, CPH2583",6.82in,164.3 x 75.8 x 9.2
+OnePlus Ace 3,ONE-1035,OnePlus,Phone,2024-01,PJE110,6.78in,163.3 x 75.3 x 8.8
+OnePlus 12R,ONE-1035,OnePlus,Phone,2024-01,"CPH2609, CPH2585, CPH2611",6.78in,163.3 x 75.3 x 8.8
+OnePlus Ace 3V,ONE-1036,OnePlus,Phone,2024-03,PJF110,6.74in,162.7 x 75.2 x 8.5
+OnePlus Nord CE4,ONE-1037,OnePlus + Oppo,Phone,2024-04,CPH2613,6.7in,162.5 x 75.3 x 8.4
+Oppo K12,ONE-1037,OnePlus + Oppo,Phone,2024-04,PJR110,6.7in,162.5 x 75.3 x 8.4
+Oppo K12 Plus,ONE-1037,OnePlus + Oppo,Phone,2024-10,PKS110,6.7in,162.5 x 75.3 x 8.4
+OnePlus Ace 3 Pro,ONE-1038,OnePlus,Phone,2024-06,PJX110,6.78in,163.3 x 75.3 x 8.7
+OnePlus 13,ONE-1039,OnePlus,Phone,2024-10,"CPH2655, CPH2653, PJZ110, CPH2649",6.82in,162.9 x 76.5 x 8.5
+OnePlus Ace 5,ONE-1040,OnePlus,Phone,2024-12,PKG110,6.78in,161.7 x 75.8 x 8.1
+OnePlus Ace 5 Pro,ONE-1040,OnePlus,Phone,2024-12,PKR110,6.78in,161.7 x 75.8 x 8.1
+OnePlus 13R,ONE-1040,OnePlus,Phone,2025-01,"CPH2645, CPH2691, CPH2647",6.78in,161.7 x 75.8 x 8
+OnePlus 13T,ONE-1041,OnePlus,Phone,2025-04,PKX110,6.32in,150.8 x 71.7 x 8.2
+OnePlus 13s,ONE-1041,OnePlus,Phone,2025-06,CPH2723,6.32in,150.8 x 71.7 x 8.2
+OnePlus Ace 5 Ultra,ONE-1042,OnePlus,Phone,2025-05,PLC110,6.83in,163.4 x 77 x 8.1
+OnePlus Nord 5,ONE-1042,OnePlus,Phone,2025-07,"CPH2709, CPH2707",6.83in,163.4 x 77 x 8.1
+OnePlus 15R,ONE-1042,OnePlus,Phone,2025-12,"CPH2769, CPH2767",6.83in,163.4 x 77 x 8.1
+OnePlus Ace 6T,ONE-1042,OnePlus,Phone,2025-12,PLR110,6.83in,163.4 x 77 x 8.1
+OnePlus Ace 5 Racing,ONE-1043,OnePlus,Phone,2025-05,PLF110,6.77in,163.6 x 76 x 8.2
+OnePlus Nord CE5,ONE-1043,OnePlus,Phone,2025-07,CPH2719,6.77in,163.6 x 76 x 8.2
+OnePlus 15,ONE-1044,OnePlus,Phone,2025-10,"CPH2747, CPH2745, PLK110, CPH2749",6.78in,161.4 x 76.7 x 8.1
+OnePlus Ace 6,ONE-1045,OnePlus,Phone,2025-10,PLQ110,6.83in,163.4 x 77 x 8.3
+OnePlus Turbo 6,ONE-1046,OnePlus,Phone,2026-01,PLU110,6.78in,162.5 x 77.5 x 8.5
+OnePlus Turbo 6V,ONE-1046,OnePlus,Phone,2026-01,PLY110,6.78in,162.5 x 77.5 x 8.5
+OnePlus Nord 6,ONE-1046,OnePlus,Phone,2026-04,"CPH2795, CPH2793",6.78in,162.5 x 77.5 x 8.5
+OnePlus Ace 6 Ultra,ONE-1046,OnePlus,Phone,2026-04,,6.78in,162.5 x 77.5 x 8.5
+OnePlus Nord CE6,ONE-1046,OnePlus,Phone,2026-05,,6.78in,162.5 x 77.5 x 8.5
+OnePlus 15T,ONE-1047,OnePlus,Phone,2026-03,PLZ110,6.32in,150.6 x 71.8 x 8.4
+OnePlus Nord CE6 Lite,ONE-1048,OnePlus,Phone,2026-05,,6.72in,165.9 x 76 x 8.5
+OnePlus N6,ONE-1049,OnePlus,Phone,2026-06,,6.8in,166.5 x 78.2 x 8.9
+OnePlus N6 Lite,ONE-1050,OnePlus,Phone,2026-06,,,
+OnePlus Turbo 6X,ONE-1051,OnePlus,Phone,2026-06,,6.72in,165.9 x 76 x 9
+OnePlus Turbo 6X Pro,ONE-1052,OnePlus,Phone,2026-06,,6.78in,162.6 x 77.6 x 8.8
+OnePlus N6x,ONE-1053,OnePlus,Phone,2026-07,,6.8in,166.4 x 78.13 x 8.65
+OnePlus 16,ONE-1054,OnePlus,Phone,2026-10,,6.78in,161.42 x 76.67 x 8.55
+OnePlus Ace 7 Pro,ONE-1055,OnePlus,Phone,2026-10,,,
+OnePlus Ace 7,ONE-1056,OnePlus,Phone,2026-10,,6.78in,162.3 x 77.37 x 8.5
+OnePlus Turbo 6Vs,ONE-1057,OnePlus,Phone,2026-11,,6.78in,162.46 x 77.45 x 8.5
 OnePlus Pad,ONE-2001,OnePlus + Oppo,Tablet,2023-02,,11.61in,258 x 189.4 x 6.5
 Oppo Pad 2,ONE-2001,OnePlus + Oppo,Tablet,2023-03,"OPD2201, X22N2",11.61in,258 x 189.4 x 6.5
 OnePlus Pad Go,ONE-2002,OnePlus,Tablet,2023-10,,11.35in,255.1 x 188 x 6.9

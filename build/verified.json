@@ -16620,5 +16620,34 @@
    }
   ],
   "note": "PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+."
+ },
+ {
+  "models": [
+   "OnePlus 10R",
+   "OnePlus 10R 150W",
+   "OnePlus 10T"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass OnePlus 10T | 10R | 10R 150W (fits list: all three)",
+    "url": "https://panzerglass.com/products/panzerglass-oneplus-10t-10r-10r-150w-uwf-black-ab"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the OnePlus 10R, 10R 150W and 10T."
+ },
+ {
+  "models": [
+   "Galaxy Watch7 44mm",
+   "Galaxy Watch8 44mm"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "PanzerGlass Galaxy Watch8 | Watch7 44mm (fits list: both)",
+    "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-samsung-galaxy-watch7-44mm-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy Watch7 and Watch8 44mm."
  }
 ]

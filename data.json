@@ -19763,14 +19763,16 @@
 ],
 "models": [
 "Galaxy Watch6 44mm",
-"Galaxy Watch7 44mm"
+"Galaxy Watch7 44mm",
+"Galaxy Watch8 44mm"
 ],
 "released": [
 "2023-07",
-"2024-07"
+"2024-07",
+"2025-07"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass sells one glass for Watch 7 and Watch 6 44mm (Coolblue title seen in search); note JB Hi-Fi says the Spigen EZ Fit Watch 7 44mm kit does not fit Watch 6/5/4, likely an applicator-tray difference. Diamondvisions and TSHIENTT on Flipkart sell one 44mm glass for Watch4 to Watch7, but Spigen sells separate SKUs per generation: test fit. Universal round glass: try UNI-0016 (38mm); measure first",
+"note": "PanzerGlass sells one glass for Watch 7 and Watch 6 44mm (Coolblue title seen in search); note JB Hi-Fi says the Spigen EZ Fit Watch 7 44mm kit does not fit Watch 6/5/4, likely an applicator-tray difference. Diamondvisions and TSHIENTT on Flipkart sell one 44mm glass for Watch4 to Watch7, but Spigen sells separate SKUs per generation: test fit. PanzerGlass sells one glass for the Galaxy Watch7 and Watch8 44mm. Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
 "sources": [
 [
@@ -19784,15 +19786,21 @@
 [
 "Flipkart TSHIENTT (Watch 4/5/6/7/8/9 44mm)",
 "https://www.flipkart.com/tshientt-edge-tempered-glass-tshientt-military-grade-gorilla-samsung-galaxy-watch-4-5-6-7-8-9-44mm-1-4-inch-friendly-scratch-resistant-hd-clarity-bubble-free/p/itmc2e613736d5bb"
+],
+[
+"PanzerGlass Galaxy Watch8 | Watch7 44mm (fits list: both)",
+"https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-samsung-galaxy-watch7-44mm-ultra-wide-fit"
 ]
 ],
 "screens": [
 "1.5in",
-"1.5in"
+"1.5in",
+"1.47in"
 ],
 "dims": [
 "42.8 x 44.4 x 9 mm",
-"44.4 x 44.4 x 9.7 mm"
+"44.4 x 44.4 x 9.7 mm",
+"46.0 x 43.7 x 8.6 mm"
 ],
 "tags": [
 "measure"
@@ -20013,31 +20021,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy Watch8 44mm"
-],
-"released": [
-"2025-07"
-],
-"check": "Check",
-"note": "Universal round glass: try UNI-0016 (38mm); measure first",
-"device": "Wearable",
-"screens": [
-"1.47in"
-],
-"dims": [
-"46.0 x 43.7 x 8.6 mm"
-],
-"tags": [
-"measure"
-]
-},
-{
-"id": "SAM-3040",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy Watch8 Classic 46mm"
 ],
 "released": [
@@ -20057,7 +20040,7 @@
 ]
 },
 {
-"id": "SAM-3041",
+"id": "SAM-3040",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -20079,7 +20062,7 @@
 ]
 },
 {
-"id": "SAM-3042",
+"id": "SAM-3041",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -20117,7 +20100,7 @@
 ]
 },
 {
-"id": "SAM-3043",
+"id": "SAM-3042",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -30284,22 +30267,40 @@
 "models": [
 "OnePlus Ace",
 "OnePlus 10R",
-"OnePlus 10R 150W"
+"OnePlus 10R 150W",
+"OnePlus 10T",
+"OnePlus Ace Pro"
 ],
 "released": [
 "2022-04",
 "2022-04",
-"2022-04"
+"2022-04",
+"2022-08",
+"2022-08"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm OnePlus 10R, OnePlus 10R 150W, OnePlus 10T, OnePlus Ace Pro. The rest match on specs: test before swapping. PanzerGlass sells one glass for the OnePlus 10R, 10R 150W and 10T. Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names)",
 "device": "Phone",
+"sources": [
+[
+"PanzerGlass OnePlus 10T | 10R | 10R 150W (fits list: all three)",
+"https://panzerglass.com/products/panzerglass-oneplus-10t-10r-10r-150w-uwf-black-ab"
+],
+[
+"MediaMarkt: Cadorabo tempered glass for OnePlus 10T / Ace Pro",
+"https://www.mediamarkt.es/es/product/_protector-pantalla-pelicula-protectora-de-pantalla-cadorabo-oneplus-10t-ace-pro-vidrio-templado-136088967.html"
+]
+],
 "codes": [
 "PGKM10",
 "CPH2411",
-""
+"",
+"CPH2415, CPH2413, CPH2417, CPH2419",
+"PGP110"
 ],
 "screens": [
+"6.7in",
+"6.7in",
 "6.7in",
 "6.7in",
 "6.7in"
@@ -30307,7 +30308,9 @@
 "dims": [
 "163.3 x 75.5 x 8.2 mm",
 "163.3 x 75.5 x 8.2 mm",
-"163.3 x 75.5 x 8.2 mm"
+"163.3 x 75.5 x 8.2 mm",
+"163 x 75.4 x 8.8 mm",
+"163 x 75.4 x 8.8 mm"
 ]
 },
 {
@@ -30383,42 +30386,6 @@
 "ONE"
 ],
 "models": [
-"OnePlus 10T",
-"OnePlus Ace Pro"
-],
-"released": [
-"2022-08",
-"2022-08"
-],
-"check": "Confirmed",
-"note": "Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names)",
-"device": "Phone",
-"sources": [
-[
-"MediaMarkt: Cadorabo tempered glass for OnePlus 10T / Ace Pro",
-"https://www.mediamarkt.es/es/product/_protector-pantalla-pelicula-protectora-de-pantalla-cadorabo-oneplus-10t-ace-pro-vidrio-templado-136088967.html"
-]
-],
-"codes": [
-"CPH2415, CPH2413, CPH2417, CPH2419",
-"PGP110"
-],
-"screens": [
-"6.7in",
-"6.7in"
-],
-"dims": [
-"163 x 75.4 x 8.8 mm",
-"163 x 75.4 x 8.8 mm"
-]
-},
-{
-"id": "ONE-1029",
-"brand": "OnePlus",
-"brands": [
-"ONE"
-],
-"models": [
 "OnePlus Ace 2",
 "OnePlus 11R"
 ],
@@ -30443,7 +30410,7 @@
 ]
 },
 {
-"id": "ONE-1030",
+"id": "ONE-1029",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30468,7 +30435,7 @@
 ]
 },
 {
-"id": "ONE-1031",
+"id": "ONE-1030",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30504,7 +30471,7 @@
 ]
 },
 {
-"id": "ONE-1032",
+"id": "ONE-1031",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30529,7 +30496,7 @@
 ]
 },
 {
-"id": "ONE-1033",
+"id": "ONE-1032",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30554,7 +30521,7 @@
 ]
 },
 {
-"id": "ONE-1034",
+"id": "ONE-1033",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30588,7 +30555,7 @@
 ]
 },
 {
-"id": "ONE-1035",
+"id": "ONE-1034",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30613,7 +30580,7 @@
 ]
 },
 {
-"id": "ONE-1036",
+"id": "ONE-1035",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30649,7 +30616,7 @@
 ]
 },
 {
-"id": "ONE-1037",
+"id": "ONE-1036",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30674,7 +30641,7 @@
 ]
 },
 {
-"id": "ONE-1038",
+"id": "ONE-1037",
 "brand": "OnePlus + Oppo",
 "brands": [
 "ONE",
@@ -30710,7 +30677,7 @@
 ]
 },
 {
-"id": "ONE-1039",
+"id": "ONE-1038",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30735,7 +30702,7 @@
 ]
 },
 {
-"id": "ONE-1040",
+"id": "ONE-1039",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30763,7 +30730,7 @@
 ]
 },
 {
-"id": "ONE-1041",
+"id": "ONE-1040",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30824,7 +30791,7 @@
 ]
 },
 {
-"id": "ONE-1042",
+"id": "ONE-1041",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30854,7 +30821,7 @@
 ]
 },
 {
-"id": "ONE-1043",
+"id": "ONE-1042",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30897,7 +30864,7 @@
 ]
 },
 {
-"id": "ONE-1044",
+"id": "ONE-1043",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30927,7 +30894,7 @@
 ]
 },
 {
-"id": "ONE-1045",
+"id": "ONE-1044",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30955,7 +30922,7 @@
 ]
 },
 {
-"id": "ONE-1046",
+"id": "ONE-1045",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -30983,7 +30950,7 @@
 ]
 },
 {
-"id": "ONE-1047",
+"id": "ONE-1046",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31037,7 +31004,7 @@
 ]
 },
 {
-"id": "ONE-1048",
+"id": "ONE-1047",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31065,7 +31032,7 @@
 ]
 },
 {
-"id": "ONE-1049",
+"id": "ONE-1048",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31087,7 +31054,7 @@
 ]
 },
 {
-"id": "ONE-1050",
+"id": "ONE-1049",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31109,7 +31076,7 @@
 ]
 },
 {
-"id": "ONE-1051",
+"id": "ONE-1050",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31125,7 +31092,7 @@
 "device": "Phone"
 },
 {
-"id": "ONE-1052",
+"id": "ONE-1051",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31147,7 +31114,7 @@
 ]
 },
 {
-"id": "ONE-1053",
+"id": "ONE-1052",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31169,7 +31136,7 @@
 ]
 },
 {
-"id": "ONE-1054",
+"id": "ONE-1053",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31191,7 +31158,7 @@
 ]
 },
 {
-"id": "ONE-1055",
+"id": "ONE-1054",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31213,7 +31180,7 @@
 ]
 },
 {
-"id": "ONE-1056",
+"id": "ONE-1055",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31229,7 +31196,7 @@
 "device": "Phone"
 },
 {
-"id": "ONE-1057",
+"id": "ONE-1056",
 "brand": "OnePlus",
 "brands": [
 "ONE"
@@ -31251,7 +31218,7 @@
 ]
 },
 {
-"id": "ONE-1058",
+"id": "ONE-1057",
 "brand": "OnePlus",
 "brands": [
 "ONE"
