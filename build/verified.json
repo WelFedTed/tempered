@@ -16300,5 +16300,48 @@
    }
   ],
   "note": "ZAGG sells one cover-screen protector for the Razr+ 2024, 2025 and 2026."
+ },
+ {
+  "models": [
+   "OnePlus 12R",
+   "OnePlus Ace 3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SAFE. by PanzerGlass Ultra-Wide Fit (OnePlus 12R 5G, Ace 3 5G)",
+    "url": "https://shop.vb.net/en/PZGSAFE95732/mobile-phone-screen-protectors/panzerglass-safe-by-panzerglass-screen-protector-oneplus-12r-ultra-wide-fit"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the OnePlus 12R and Ace 3."
+ },
+ {
+  "models": [
+   "OnePlus 13R",
+   "OnePlus Ace 5",
+   "OnePlus Ace 5 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nillkin CP+ Pro for OnePlus 13R / Ace 5 / Ace 5 Pro (Vopmart)",
+    "url": "https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html"
+   }
+  ],
+  "note": "Nillkin's CP+ Pro glass is sold for the OnePlus 13R, Ace 5 and Ace 5 Pro."
+ },
+ {
+  "models": [
+   "OnePlus 10T",
+   "OnePlus Ace Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MediaMarkt: Cadorabo tempered glass for OnePlus 10T / Ace Pro",
+    "url": "https://www.mediamarkt.es/es/product/_protector-pantalla-pelicula-protectora-de-pantalla-cadorabo-oneplus-10t-ace-pro-vidrio-templado-136088967.html"
+   }
+  ],
+  "note": "Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names)."
  }
 ]

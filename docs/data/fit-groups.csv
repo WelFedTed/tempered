@@ -1042,7 +1042,7 @@ ONE-1025,OnePlus + Oppo,Phone,Check,OnePlus Nord CE 2 5G; Oppo Reno7 5G; Oppo Fi
 ONE-1026,OnePlus,Phone,Check,OnePlus Ace; OnePlus 10R; OnePlus 10R 150W,2022-04,Same body size and screen specs: test before swapping,,
 ONE-1027,OnePlus + Oppo,Phone,Check,OnePlus Nord CE 2 Lite 5G; Oppo K10x,2022-04,"Same body size and screen specs, sold under several brands: test before swapping",,
 ONE-1028,OnePlus,Phone,Check,OnePlus Nord 2T,2022-05,"Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit",,https://www.ebay.de/itm/285619360060 https://www.ebay.de/itm/176370257965
-ONE-1029,OnePlus,Phone,Check,OnePlus 10T; OnePlus Ace Pro,2022-08,Same body size and screen specs: test before swapping,,
+ONE-1029,OnePlus,Phone,Confirmed,OnePlus 10T; OnePlus Ace Pro,2022-08,Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names),,https://www.mediamarkt.es/es/product/_protector-pantalla-pelicula-protectora-de-pantalla-cadorabo-oneplus-10t-ace-pro-vidrio-templado-136088967.html
 ONE-1030,OnePlus,Phone,Check,OnePlus 11,2023-01,,,
 ONE-1031,OnePlus,Phone,Check,OnePlus Ace 2; OnePlus 11R,2023-02,Same body size and screen specs: test before swapping,,
 ONE-1032,OnePlus,Phone,Check,OnePlus Ace 2V,2023-03,,,
@@ -1051,13 +1051,13 @@ ONE-1034,OnePlus,Phone,Check,OnePlus Nord CE3,2023-07,,,
 ONE-1035,OnePlus,Phone,Check,OnePlus Ace 2 Pro,2023-08,,,
 ONE-1036,OnePlus + Oppo,Phone,Check,OnePlus Open; Oppo Find N3,2023-10,OnePlus Open and Oppo Find N3 are the same foldable. Foldable: glass is for the outer (cover) screen,cover,
 ONE-1037,OnePlus,Phone,Check,OnePlus 12,2023-12,,,
-ONE-1038,OnePlus,Phone,Check,OnePlus Ace 3; OnePlus 12R,2024-01,Same body size and screen specs: test before swapping,,
+ONE-1038,OnePlus,Phone,Confirmed,OnePlus Ace 3; OnePlus 12R,2024-01,PanzerGlass sells one glass for the OnePlus 12R and Ace 3,,https://shop.vb.net/en/PZGSAFE95732/mobile-phone-screen-protectors/panzerglass-safe-by-panzerglass-screen-protector-oneplus-12r-ultra-wide-fit
 ONE-1039,OnePlus,Phone,Check,OnePlus Ace 3V,2024-03,,,
 ONE-1040,OnePlus + Oppo,Phone,Check,OnePlus Nord CE4; Oppo K12; Oppo K12 Plus,2024-04,"Same body size and screen specs, sold under several brands: test before swapping",,
 ONE-1041,OnePlus,Phone,Check,OnePlus Ace 3 Pro,2024-06,,,
 ONE-1042,OnePlus,Phone,Check,OnePlus Nord 4,2024-07,,,
 ONE-1043,OnePlus,Phone,Check,OnePlus 13,2024-10,,fingerprint,
-ONE-1044,OnePlus,Phone,Check,OnePlus Ace 5; OnePlus Ace 5 Pro; OnePlus 13R,2024-12,"Sellers confirm OnePlus Ace 5, OnePlus 13R. The rest match on specs: test before swapping. Vopmart sells Nillkin CP+ Pro glass for the OnePlus 13R and Ace 5, and the AL5hafii chart groups both at 161.7 x 75.8 mm",,https://www.ebay.de/itm/177224609120 https://www.ebay.de/itm/127004507868 https://www.daraz.pk/products/13r-ace-5-i936376512.html https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt
+ONE-1044,OnePlus,Phone,Confirmed,OnePlus Ace 5; OnePlus Ace 5 Pro; OnePlus 13R,2024-12,"Vopmart sells Nillkin CP+ Pro glass for the OnePlus 13R and Ace 5, and the AL5hafii chart groups both at 161.7 x 75.8 mm. Nillkin's CP+ Pro glass is sold for the OnePlus 13R, Ace 5 and Ace 5 Pro",,https://www.ebay.de/itm/177224609120 https://www.ebay.de/itm/127004507868 https://www.daraz.pk/products/13r-ace-5-i936376512.html https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/50_161x75.txt https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-13r.html
 ONE-1045,OnePlus,Phone,Check,OnePlus 13T; OnePlus 13s,2025-04,Same body size and screen specs: test before swapping,,
 ONE-1046,OnePlus,Phone,Check,OnePlus Ace 5 Ultra; OnePlus Nord 5; OnePlus 15R; OnePlus Ace 6T,2025-05,Same body size and screen specs: test before swapping,fingerprint,
 ONE-1047,OnePlus,Phone,Check,OnePlus Ace 5 Racing; OnePlus Nord CE5,2025-05,Same body size and screen specs: test before swapping,,
