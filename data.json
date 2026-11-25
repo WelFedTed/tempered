@@ -14848,28 +14848,45 @@
 "SAM"
 ],
 "models": [
-"Galaxy A54"
+"Galaxy A54",
+"Galaxy S23 FE"
 ],
 "released": [
-"2023-03"
+"2023-03",
+"2023-10"
 ],
 "check": "Confirmed",
-"note": "Olixar sells A54 5G-only tempered glass at MobileFun",
+"note": "Gadget Guard, Deltaco, Selencia and AlzaGuard each sell one glass for the A54 5G and S23 FE: both are 6.4in with near-identical bodies",
 "device": "Phone",
 "sources": [
 [
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-a54-5g-93180"
+"Gadget Guard Plus at uBreakiFix (A54 5G/S23 FE)",
+"https://shop.ubreakifix.com/products/gadget-guard-plus-150-guarantee-glass-screen-protector-for-samsung-galaxy-a54-5g-galaxy-s23-fe-clear"
+],
+[
+"Deltaco SCRN-A54 (A54 5G/S23 FE)",
+"https://aio.lv/en/product--deltaco-scrn-a54--9740456"
+],
+[
+"Selencia at MediaMarkt (A54 5G/S23 FE)",
+"https://www.mediamarkt.be/fr/product/_selencia-protecteur-decran-protecteur-decran-voor-samsung-samsung-galaxy-a54-5g-samsung-galaxy-s23-fe-transparent-143096624.html"
+],
+[
+"AlzaGuard 2.5D Case Friendly (A54/S23 FE)",
+"https://www.alza.at/EN/reviews/alzaguard-25d-case-friendly-glass-for-samsung-galaxy-a54-s23-fe-12804678.htm"
 ]
 ],
 "codes": [
-"SM-A546V, SM-A546U, SM-A546U1, SM-A546B, SM-A546B/DS, SM-A546E, SM-A546E/DS, SM-A5460, SM-A546M, SM-A546M/DS, SM-A546W"
+"SM-A546V, SM-A546U, SM-A546U1, SM-A546B, SM-A546B/DS, SM-A546E, SM-A546E/DS, SM-A5460, SM-A546M, SM-A546M/DS, SM-A546W",
+"SM-S711B, SM-S711B/DS, SM-S711U1, SM-S711U, SM-S711W, SM-S7110, SM-S711N"
 ],
 "screens": [
+"6.4in",
 "6.4in"
 ],
 "dims": [
-"158.2 x 76.7 x 8.2 mm"
+"158.2 x 76.7 x 8.2 mm",
+"158 x 76.5 x 8.2 mm"
 ]
 },
 {
@@ -15124,37 +15141,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy S23 FE"
-],
-"released": [
-"2023-10"
-],
-"check": "Confirmed",
-"note": "Olixar sells S23 FE-only tempered glass at MobileFun",
-"device": "Phone",
-"sources": [
-[
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-fe-97453"
-]
-],
-"codes": [
-"SM-S711B, SM-S711B/DS, SM-S711U1, SM-S711U, SM-S711W, SM-S7110, SM-S711N"
-],
-"screens": [
-"6.4in"
-],
-"dims": [
-"158 x 76.5 x 8.2 mm"
-]
-},
-{
-"id": "SAM-1463",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy A15",
 "Galaxy A15 5G",
 "Galaxy A25",
@@ -15195,7 +15181,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15228,7 +15214,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15276,7 +15262,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15311,7 +15297,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15336,7 +15322,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15381,7 +15367,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15431,7 +15417,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15453,7 +15439,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15554,7 +15540,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15605,7 +15591,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15702,7 +15688,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15724,7 +15710,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15752,7 +15738,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15805,7 +15791,7 @@
 ]
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1476",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15870,7 +15856,7 @@
 ]
 },
 {
-"id": "SAM-1478",
+"id": "SAM-1477",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15908,7 +15894,7 @@
 ]
 },
 {
-"id": "SAM-1479",
+"id": "SAM-1478",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15948,7 +15934,7 @@
 ]
 },
 {
-"id": "SAM-1480",
+"id": "SAM-1479",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15980,7 +15966,7 @@
 ]
 },
 {
-"id": "SAM-1481",
+"id": "SAM-1480",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16002,7 +15988,7 @@
 ]
 },
 {
-"id": "SAM-1482",
+"id": "SAM-1481",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16030,7 +16016,7 @@
 ]
 },
 {
-"id": "SAM-1483",
+"id": "SAM-1482",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16058,7 +16044,7 @@
 ]
 },
 {
-"id": "SAM-1484",
+"id": "SAM-1483",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16083,7 +16069,7 @@
 ]
 },
 {
-"id": "SAM-1485",
+"id": "SAM-1484",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16108,7 +16094,7 @@
 ]
 },
 {
-"id": "SAM-1486",
+"id": "SAM-1485",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16133,7 +16119,7 @@
 ]
 },
 {
-"id": "SAM-1487",
+"id": "SAM-1486",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16155,7 +16141,7 @@
 ]
 },
 {
-"id": "SAM-1488",
+"id": "SAM-1487",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16183,7 +16169,7 @@
 ]
 },
 {
-"id": "SAM-1489",
+"id": "SAM-1488",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16205,7 +16191,7 @@
 ]
 },
 {
-"id": "SAM-1490",
+"id": "SAM-1489",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16221,7 +16207,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1491",
+"id": "SAM-1490",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16237,7 +16223,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1492",
+"id": "SAM-1491",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16253,7 +16239,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1493",
+"id": "SAM-1492",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16269,7 +16255,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1494",
+"id": "SAM-1493",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16285,7 +16271,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1495",
+"id": "SAM-1494",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16301,7 +16287,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1496",
+"id": "SAM-1495",
 "brand": "Samsung",
 "brands": [
 "SAM"

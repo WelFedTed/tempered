@@ -6948,19 +6948,6 @@
  },
  {
   "models": [
-   "Galaxy S23 FE"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-fe-97453"
-   }
-  ],
-  "note": "Olixar sells S23 FE-only tempered glass at MobileFun."
- },
- {
-  "models": [
    "Galaxy S23 Ultra"
   ],
   "fit": "own",
@@ -7127,19 +7114,6 @@
    }
   ],
   "note": "Olixar sells Note 9-only case-compatible glass at MobileFun; curved screen, case-friendly only."
- },
- {
-  "models": [
-   "Galaxy A54"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-a54-5g-93180"
-   }
-  ],
-  "note": "Olixar sells A54 5G-only tempered glass at MobileFun."
  },
  {
   "models": [
@@ -15432,5 +15406,31 @@
    }
   ],
   "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi Note 11S 5G / 11T 5G as one product."
+ },
+ {
+  "models": [
+   "Galaxy A54",
+   "Galaxy S23 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gadget Guard Plus at uBreakiFix (A54 5G/S23 FE)",
+    "url": "https://shop.ubreakifix.com/products/gadget-guard-plus-150-guarantee-glass-screen-protector-for-samsung-galaxy-a54-5g-galaxy-s23-fe-clear"
+   },
+   {
+    "name": "Deltaco SCRN-A54 (A54 5G/S23 FE)",
+    "url": "https://aio.lv/en/product--deltaco-scrn-a54--9740456"
+   },
+   {
+    "name": "Selencia at MediaMarkt (A54 5G/S23 FE)",
+    "url": "https://www.mediamarkt.be/fr/product/_selencia-protecteur-decran-protecteur-decran-voor-samsung-samsung-galaxy-a54-5g-samsung-galaxy-s23-fe-transparent-143096624.html"
+   },
+   {
+    "name": "AlzaGuard 2.5D Case Friendly (A54/S23 FE)",
+    "url": "https://www.alza.at/EN/reviews/alzaguard-25d-case-friendly-glass-for-samsung-galaxy-a54-s23-fe-12804678.htm"
+   }
+  ],
+  "note": "Gadget Guard, Deltaco, Selencia and AlzaGuard each sell one glass for the A54 5G and S23 FE: both are 6.4in with near-identical bodies."
  }
 ]
