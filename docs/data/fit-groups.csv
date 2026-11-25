@@ -1476,7 +1476,7 @@ MIC-2002,Microsoft,Tablet,Check,Surface Pro; Surface Pro 2,2013-02,Same body siz
 MIC-2003,Microsoft,Tablet,Check,Surface Pro 3,2014-06,,,
 MIC-2004,Microsoft,Tablet,Check,Surface 3,2015-05,,,
 MIC-2005,Microsoft,Tablet,Confirmed,Surface Pro 4; Surface Pro 5; Surface Pro 6; Surface Pro 7; Surface Pro 7+,2015-10,12.3in. amFilm list,,
-MIC-2006,Microsoft,Tablet,Confirmed,Surface Go; Surface Go 2; Surface Go 3; Surface Go 4,2018-08,"Targus, Supershieldz list",,
+MIC-2006,Microsoft,Tablet,Confirmed,Surface Go; Surface Go 2; Surface Go 3; Surface Go 4,2018-08,"Targus sells one glass for the Surface Go, Go 2, Go 3 and Go 4: same body, though the original Go has a 10in screen and the others 10.5in. Buy glass listed for the Go 2 or later: reports say some glass made only for the original Go can cover the Go 2 microphone. Supershieldz also lists all four",,https://us.targus.com/products/microsoft-surface-go-tempered-glass-screen-protector-awv1310tgl
 MIC-2007,Microsoft,Tablet,Confirmed,Surface Pro X; Surface Pro 8; Surface Pro 9; Surface Pro 10; Surface Pro 11,2019-10,"13in. amFilm, Fintie list",,
 MIC-2008,Microsoft,Tablet,Confirmed,Surface Pro 12-inch,2025-05,UAG and SaharaCase sell 12-inch-only glass; does not fit the 13-inch Surface Pro,,https://www.bestbuy.com/product/uag-tempered-glass-screen-protector-shield-for-microsoft-surface-pro-12-clear/J39HZJZFPG https://www.staples.com/saharacase-ultra-strong-tempered-glass-screen-protector-for-microsoft-surface-pro-12-clear-zd-t00073/product_24646364
 LEN-1001,Lenovo,Phone,Check,Lenovo A60; Lenovo A65,2011-06,Same body size and screen specs: test before swapping,,
@@ -8799,12 +8799,12 @@ AMF-3044,Amazfit,Wearable,Check,Amazfit Bip 5 Unity,2024-01,,,
 AMF-3045,Amazfit,Wearable,Check,Amazfit T-Rex 3,2024-08,"Supershieldz sells one tempered glass for the T-Rex 3 and T-Rex 3 Pro without naming a Pro size; 48mm assumed, test fit. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p
 AMF-3046,Amazfit,Wearable,Check,Amazfit Active 2; Amazfit Active 2 Premium,2025-01,Same case and screen size: test before swapping. Universal round glass: try UNI-0012 (34mm); measure first,measure,
 AMF-3047,Amazfit,Wearable,Check,Amazfit Bip 6,2025-03,"Flipkart seller SAIFIANDSONS lists tempered glass for the Amazfit Bip 6; single small seller, test fit",,https://www.flipkart.com/search?q=amazfit+tempered+glass
-AMF-3048,Amazfit,Wearable,Confirmed,Amazfit Balance 2; Amazfit Active 3 Premium,2025-06,"Supershieldz sells one tempered glass for the Amazfit Active 3 Premium, Balance 2 XT and Balance 2; suggests merging these groups. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p
+AMF-3048,Amazfit,Wearable,Confirmed,Amazfit Balance 2; Amazfit Balance 2 XT,2025-06,"Supershieldz sells one glass for the Balance 2 and Balance 2 XT, which share a 1.5in screen and 47.4 mm case. Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p https://us.amazfit.com/products/balance-2 https://us.amazfit.com/products/active-3-premium
 AMF-3049,Amazfit,Wearable,Check,Amazfit Active 2 Square,2025-06,,,
-AMF-3050,Amazfit,Wearable,Check,Amazfit Balance 2 XT,2025-08,,,
-AMF-3051,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 44mm,2025-09,Universal round glass: try UNI-0012 (34mm); measure first,measure,
-AMF-3052,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 48mm,2025-09,"Supershieldz sells one tempered glass for the T-Rex 3 and T-Rex 3 Pro without naming a Pro size; 48mm assumed, test fit. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p
-AMF-3053,Amazfit,Wearable,Check,Amazfit Active Max,2025-12,Universal round glass: try UNI-0016 (38mm); measure first,measure,
+AMF-3050,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 44mm,2025-09,Universal round glass: try UNI-0012 (34mm); measure first,measure,
+AMF-3051,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 48mm,2025-09,"Supershieldz sells one tempered glass for the T-Rex 3 and T-Rex 3 Pro without naming a Pro size; 48mm assumed, test fit. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p
+AMF-3052,Amazfit,Wearable,Check,Amazfit Active Max,2025-12,Universal round glass: try UNI-0016 (38mm); measure first,measure,
+AMF-3053,Amazfit,Wearable,Check,Amazfit Active 3 Premium,2026-02,"Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it",,https://us.amazfit.com/products/active-3-premium https://us.amazfit.com/products/balance-2
 AMF-3054,Amazfit,Wearable,Check,Amazfit T-Rex Ultra 2,2026-02,Universal round glass: try UNI-0016 (38mm); measure first,measure,
 AMF-3055,Amazfit,Wearable,Check,Amazfit Cheetah 2 Pro,2026-04,,,
 AMF-3056,Amazfit,Wearable,Check,Amazfit Cheetah 2 Ultra,2026-04,,,

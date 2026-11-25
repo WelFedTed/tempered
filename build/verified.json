@@ -7618,17 +7618,21 @@
  },
  {
   "models": [
-   "Amazfit Active 3 Premium",
-   "Amazfit Balance 2"
+   "Amazfit Balance 2",
+   "Amazfit Balance 2 XT"
   ],
   "fit": "same",
   "sources": [
    {
-    "name": "Supershieldz",
+    "name": "Supershieldz (Balance 2 / Balance 2 XT)",
     "url": "https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p"
+   },
+   {
+    "name": "Amazfit Balance 2 specs (1.5in, 47.4 mm case)",
+    "url": "https://us.amazfit.com/products/balance-2"
    }
   ],
-  "note": "Supershieldz sells one tempered glass for the Amazfit Active 3 Premium, Balance 2 XT and Balance 2; suggests merging these groups."
+  "note": "Supershieldz sells one glass for the Balance 2 and Balance 2 XT, which share a 1.5in screen and 47.4 mm case."
  },
  {
   "models": [
@@ -15474,5 +15478,39 @@
     "url": "https://www.belkin.com/cn/support-article/?articleNum=324596"
    }
   ]
+ },
+ {
+  "models": [
+   "Amazfit Active 3 Premium",
+   "Amazfit Balance 2"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Amazfit Active 3 Premium specs (1.32in, 45 mm case)",
+    "url": "https://us.amazfit.com/products/active-3-premium"
+   },
+   {
+    "name": "Amazfit Balance 2 specs (1.5in, 47.4 mm case)",
+    "url": "https://us.amazfit.com/products/balance-2"
+   }
+  ],
+  "note": "Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it."
+ },
+ {
+  "models": [
+   "Surface Go",
+   "Surface Go 2",
+   "Surface Go 3",
+   "Surface Go 4"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Targus AWV1310TGL (Surface Go 4, 3, 2 and Go)",
+    "url": "https://us.targus.com/products/microsoft-surface-go-tempered-glass-screen-protector-awv1310tgl"
+   }
+  ],
+  "note": "Targus sells one glass for the Surface Go, Go 2, Go 3 and Go 4: same body, though the original Go has a 10in screen and the others 10.5in. Buy glass listed for the Go 2 or later: reports say some glass made only for the original Go can cover the Go 2 microphone."
  }
 ]

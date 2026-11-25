@@ -213,7 +213,7 @@ SHARED = [
  ('MOT', ['Motorola Razr 70 Ultra', 'Motorola Razr Ultra 2026'], C, 'Same phone, two names. Glass is for the cover screen'),
  ('MIC', ['Surface RT', 'Surface 2'], K, 'Same body size: test before swapping'),
  ('MIC', ['Surface Pro', 'Surface Pro 2'], K, 'Same body size: test before swapping'),
- ('MIC', ['Surface Go', 'Surface Go 2', 'Surface Go 3', 'Surface Go 4'], C, 'Targus, Supershieldz list'),
+ ('MIC', ['Surface Go', 'Surface Go 2', 'Surface Go 3', 'Surface Go 4'], C, 'Supershieldz also lists all four'),
  ('MIC', ['Surface Pro 4', 'Surface Pro 5', 'Surface Pro 6', 'Surface Pro 7', 'Surface Pro 7+'], C, '12.3in. amFilm list'),
  ('MIC', ['Surface Pro 8', 'Surface Pro 9', 'Surface Pro 10', 'Surface Pro 11', 'Surface Pro X'], C, '13in. amFilm, Fintie list'),
  ('LEN', ['Lenovo Tab P11', 'Lenovo Tab P11 Plus'], C, 'Retailer lists both'),

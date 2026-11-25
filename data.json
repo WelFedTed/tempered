@@ -40795,8 +40795,14 @@
 "2023-09"
 ],
 "check": "Confirmed",
-"note": "Targus, Supershieldz list",
+"note": "Targus sells one glass for the Surface Go, Go 2, Go 3 and Go 4: same body, though the original Go has a 10in screen and the others 10.5in. Buy glass listed for the Go 2 or later: reports say some glass made only for the original Go can cover the Go 2 microphone. Supershieldz also lists all four",
 "device": "Tablet",
+"sources": [
+[
+"Targus AWV1310TGL (Surface Go 4, 3, 2 and Go)",
+"https://us.targus.com/products/microsoft-surface-go-tempered-glass-screen-protector-awv1310tgl"
+]
+],
 "screens": [
 "10in",
 "10.5in",
@@ -227379,28 +227385,36 @@
 ],
 "models": [
 "Amazfit Balance 2",
-"Amazfit Active 3 Premium"
+"Amazfit Balance 2 XT"
 ],
 "released": [
 "2025-06",
-"2026-02"
+"2025-08"
 ],
 "check": "Confirmed",
-"note": "Supershieldz sells one tempered glass for the Amazfit Active 3 Premium, Balance 2 XT and Balance 2; suggests merging these groups. Universal round glass: try UNI-0016 (38mm); measure first",
+"note": "Supershieldz sells one glass for the Balance 2 and Balance 2 XT, which share a 1.5in screen and 47.4 mm case. Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it. Universal round glass: try UNI-0016 (38mm); measure first",
 "device": "Wearable",
 "sources": [
 [
-"Supershieldz",
+"Supershieldz (Balance 2 / Balance 2 XT)",
 "https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p"
+],
+[
+"Amazfit Balance 2 specs (1.5in, 47.4 mm case)",
+"https://us.amazfit.com/products/balance-2"
+],
+[
+"Amazfit Active 3 Premium specs (1.32in, 45 mm case)",
+"https://us.amazfit.com/products/active-3-premium"
 ]
 ],
 "screens": [
 "1.5in",
-"1.32in"
+"1.5in"
 ],
 "dims": [
 "47.4 x 47.4 x 12.3 mm",
-"45 x 45 x 11 mm"
+"47.4 x 47.4 x 12.3 mm"
 ],
 "tags": [
 "measure"
@@ -227435,28 +227449,6 @@
 "AMF"
 ],
 "models": [
-"Amazfit Balance 2 XT"
-],
-"released": [
-"2025-08"
-],
-"check": "Check",
-"note": "",
-"device": "Wearable",
-"screens": [
-"1.5in"
-],
-"dims": [
-"47.4 x 47.4 x 12.3 mm"
-]
-},
-{
-"id": "AMF-3051",
-"brand": "Amazfit",
-"brands": [
-"AMF"
-],
-"models": [
 "Amazfit T-Rex 3 Pro 44mm"
 ],
 "released": [
@@ -227476,7 +227468,7 @@
 ]
 },
 {
-"id": "AMF-3052",
+"id": "AMF-3051",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -227507,7 +227499,7 @@
 ]
 },
 {
-"id": "AMF-3053",
+"id": "AMF-3052",
 "brand": "Amazfit",
 "brands": [
 "AMF"
@@ -227529,6 +227521,38 @@
 ],
 "tags": [
 "measure"
+]
+},
+{
+"id": "AMF-3053",
+"brand": "Amazfit",
+"brands": [
+"AMF"
+],
+"models": [
+"Amazfit Active 3 Premium"
+],
+"released": [
+"2026-02"
+],
+"check": "Check",
+"note": "Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it",
+"device": "Wearable",
+"sources": [
+[
+"Amazfit Active 3 Premium specs (1.32in, 45 mm case)",
+"https://us.amazfit.com/products/active-3-premium"
+],
+[
+"Amazfit Balance 2 specs (1.5in, 47.4 mm case)",
+"https://us.amazfit.com/products/balance-2"
+]
+],
+"screens": [
+"1.32in"
+],
+"dims": [
+"45 x 45 x 11 mm"
 ]
 },
 {
