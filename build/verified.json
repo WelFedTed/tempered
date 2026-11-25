@@ -9587,6 +9587,10 @@
    {
     "name": "ESR",
     "url": "https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors"
+   },
+   {
+    "name": "Belkin UltraGlass 2 for iPhone 16 Pro Max (separate from its iPhone 18 Pro Max / 17 Pro Max version)",
+    "url": "https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html"
    }
   ],
   "note": "ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway."
@@ -16424,5 +16428,18 @@
    }
   ],
   "note": "Hurtel and Elkjøp each sell one glass for the Redmi 12C and Poco C55 (also the Redmi 11A)."
+ },
+ {
+  "models": [
+   "iPhone 16 Pro Max"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Belkin UltraGlass 2 for iPhone 16 Pro Max (separate from its iPhone 18 Pro Max / 17 Pro Max version)",
+    "url": "https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html"
+   }
+  ],
+  "note": ""
  }
 ]

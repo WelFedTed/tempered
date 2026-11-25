@@ -38,10 +38,10 @@ APP-1017,Apple,Phone,Confirmed,iPhone 14 Pro Max; iPhone 15 Plus; iPhone 16 Plus
 APP-1018,Apple,Phone,Confirmed,iPhone 15 Pro,2023-09,Does not fit 16 Pro (bigger 6.3in screen),,
 APP-1019,Apple,Phone,Confirmed,iPhone 15 Pro Max,2023-09,,,
 APP-1020,Apple,Phone,Confirmed,iPhone 16 Pro; iPhone 17,2024-09,Belkin sells one SKU for both,,
-APP-1021,Apple,Phone,Check,iPhone 16 Pro Max,2024-09,ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway. Some listings pair it with 17 Pro Max; Belkin sells separately,,https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors
+APP-1021,Apple,Phone,Confirmed,iPhone 16 Pro Max,2024-09,ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway. Some listings pair it with 17 Pro Max; Belkin sells separately,,https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html
 APP-1022,Apple,Phone,Confirmed,iPhone Air,2025-09,Belkin sells several iPhone Air-only glass SKUs,,https://www.belkin.com/p/temperedglass-screen-protector-for-iphone-air/OVA219fq.html
 APP-1023,Apple,Phone,Confirmed,iPhone 17 Pro; iPhone 18 Pro,2025-09,Anker list. Some brands also list 17 Pro with 16 Pro/17: test first,,
-APP-1024,Apple,Phone,Confirmed,iPhone 17 Pro Max; iPhone 18 Pro Max,2025-09,ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway. Anker list,,https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors
+APP-1024,Apple,Phone,Confirmed,iPhone 17 Pro Max; iPhone 18 Pro Max,2025-09,ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway. Anker list,,https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html
 APP-1025,Apple,Phone,Confirmed,iPhone Duo,2026-10,"Spigen, ZAGG and PanzerGlass sell outer-screen glass for iPhone Duo only. Foldable: glass is for the 5.4in outer (cover) screen",cover,https://www.spigen.com/products/iphone-duo-screen-protector-glas-tr-ez-fit-pro https://www.jbhifi.com.au/products/zagg-invisibleshield-glass-privacy-xtr-external-protector-for-iphone-duo
 APP-2001,Apple,Tablet,Check,iPad (1st gen),2010-04,,,
 APP-2002,Apple,Tablet,Confirmed,iPad 2; iPad (3rd gen); iPad (4th gen),2011-03,"JETech, SuperGuardZ list all three",,

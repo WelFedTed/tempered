@@ -1943,13 +1943,17 @@
 "released": [
 "2024-09"
 ],
-"check": "Check",
+"check": "Confirmed",
 "note": "ESR says 16 Pro Max glass should not be used on 17 Pro Max; some marketplace listings pair them anyway. Some listings pair it with 17 Pro Max; Belkin sells separately",
 "device": "Phone",
 "sources": [
 [
 "ESR",
 "https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors"
+],
+[
+"Belkin UltraGlass 2 for iPhone 16 Pro Max (separate from its iPhone 18 Pro Max / 17 Pro Max version)",
+"https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html"
 ]
 ],
 "codes": [
@@ -2044,6 +2048,10 @@
 [
 "ESR",
 "https://www.esrtech.com/en-ca/collections/iphone-17-pro-max-screen-protectors"
+],
+[
+"Belkin UltraGlass 2 for iPhone 16 Pro Max (separate from its iPhone 18 Pro Max / 17 Pro Max version)",
+"https://www.belkin.com/p/ultraglass-2-treated-screen-protector-for-iphone-16-pro-max/OVA158fq.html"
 ]
 ],
 "codes": [
