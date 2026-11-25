@@ -6942,6 +6942,10 @@
    {
     "name": "MobileFun (Olixar)",
     "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s24-ultra-98374"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit for Galaxy S24 Ultra (lists S24 Ultra only)",
+    "url": "https://www.spigen.com/products/galaxy-s24-series-glas-tr-ez-fit?variant=41993517432879"
    }
   ],
   "note": "Olixar sells S24 Ultra-only tempered glass at MobileFun, and Whitestone Dome sells S24 Ultra UV-glue glass there."
@@ -7216,10 +7220,13 @@
    {
     "name": "Flipkart MB SHILD (S24 FE/A56/A36)",
     "url": "https://www.flipkart.com/mb-shild-edge-tempered-glass-samsung-galaxy-s24-fe-5g-a56-a36-5g/p/itm1b1d278cb390c"
+   },
+   {
+    "name": "PanzerGlass Ultra-Wide Fit PGRNUWFG38495 (distributor listing, vb.net)",
+    "url": "https://shop.vb.net/en/PZGPGRNUWFG38495/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-s24-fe-a36-5g-a56-5g-ultra-wide-fit"
    }
   ],
-  "note": "EITANSHA, ArmourPro, FAD-E, MB SHILD and DD SON on Flipkart sell one glass for S24 FE with A36/A56; some also name the M56/F56, but PanzerGlass sells M56 glass with the S25 FE instead.",
-  "weak": true
+  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product)."
  },
  {
   "models": [
@@ -15878,21 +15885,6 @@
  },
  {
   "models": [
-   "Galaxy S24 FE",
-   "Galaxy A36",
-   "Galaxy A56"
-  ],
-  "fit": "same",
-  "sources": [
-   {
-    "name": "PanzerGlass Ultra-Wide Fit PGRNUWFG38495 (distributor listing, vb.net)",
-    "url": "https://shop.vb.net/en/PZGPGRNUWFG38495/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-s24-fe-a36-5g-a56-5g-ultra-wide-fit"
-   }
-  ],
-  "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product)."
- },
- {
-  "models": [
    "Galaxy S25 FE",
    "Galaxy A57",
    "Galaxy S26 FE"
@@ -15962,5 +15954,57 @@
    }
   ],
   "note": "Spigen makes S26-only glass: the S26 has a larger 6.3in screen than the S24/S25 (6.2in)."
+ },
+ {
+  "models": [
+   "Galaxy S24 Ultra",
+   "Galaxy S25 Ultra"
+  ],
+  "fit": "separate",
+  "sources": [
+   {
+    "name": "Belkin InvisiGlass FAQ (S25 with S24, S25+ with S24+, S25 Ultra alone)",
+    "url": "https://www.belkin.com/support-article?articleNum=337046"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit for Galaxy S24 Ultra (lists S24 Ultra only)",
+    "url": "https://www.spigen.com/products/galaxy-s24-series-glas-tr-ez-fit?variant=41993517432879"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit for Galaxy S25 Ultra (lists S25 Ultra only)",
+    "url": "https://www.spigen.com/products/galaxy-s25-series-screen-protector-glas-tr-ez-fit"
+   }
+  ],
+  "note": "Belkin pairs the S25 with the S24 and the S25+ with the S24+, but lists its S25 Ultra glass for the S25 Ultra alone; Spigen also sells separate S24 Ultra and S25 Ultra glass. The S25 Ultra's screen is larger (6.9in vs 6.8in) with rounder corners."
+ },
+ {
+  "models": [
+   "Galaxy S25 Ultra"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Belkin InvisiGlass FAQ (S25 with S24, S25+ with S24+, S25 Ultra alone)",
+    "url": "https://www.belkin.com/support-article?articleNum=337046"
+   },
+   {
+    "name": "Spigen GLAS.tR EZ Fit for Galaxy S25 Ultra (lists S25 Ultra only)",
+    "url": "https://www.spigen.com/products/galaxy-s25-series-screen-protector-glas-tr-ez-fit"
+   }
+  ],
+  "note": ""
+ },
+ {
+  "models": [
+   "Galaxy S26 Ultra"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Spigen GLAS.tR EZ Fit Pro for Galaxy S26 Ultra (\"designed exclusively for Galaxy S26 Ultra\")",
+    "url": "https://www.spigen.com/products/galaxy-s26-series-glas-tr-ez-fit-pro-screen-protector"
+   }
+  ],
+  "note": "Spigen makes S26 Ultra-only glass."
  }
 ]
