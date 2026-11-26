@@ -24383,5 +24383,35 @@
    }
   ],
   "note": "PanzerGlass and Mobilize each sell one glass for the Find X3 Neo and Reno5 Pro+ 5G."
+ },
+ {
+  "models": [
+   "Xiaomi Mi CC9 Pro",
+   "Xiaomi Mi Note 10",
+   "Xiaomi Mi Note 10 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Subtel (Cellonic): Screen Protector for Xiaomi Mi Note 10, Note 10 Pro, CC9 Pro - Glass 9H",
+    "url": "https://www.subtel.de/en/screen-protector-glass-xiaomi-mi-note-10-mi-note-10-pro-3d-full-cover-9h-0-33mm-edge-glue-tem-929490.html"
+   }
+  ],
+  "note": "Cellonic (Subtel) sells one 3D tempered glass for the Mi Note 10, Mi Note 10 Pro and Mi CC9 Pro, the China name of the same phone."
+ },
+ {
+  "models": [
+   "Huawei Y6 Prime (2018)",
+   "Huawei Y6 (2018)",
+   "Honor 7A"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Digitec (Cellularline): Cellularline Capsule Screen Protector Huawei Y6 2018 / Y6 Prime 2018 / Honor 7A",
+    "url": "https://www.digitec.ch/en/s1/product/cellularline-capsule-screen-protector-huawei-y6-2018-black-1-piece-huawei-y6-prime-2018-huawei-y6-20-60734087"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Huawei Y6 (2018), Y6 Prime (2018) and Honor 7A (Digitec)."
  }
 ]

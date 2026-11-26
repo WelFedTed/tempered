@@ -61828,10 +61828,14 @@
 "2019-11",
 "2020-04"
 ],
-"check": "Check",
-"note": "Sellers confirm Xiaomi Mi Note 10, Xiaomi Mi Note 10 Pro, Xiaomi Mi Note 10 Lite. The rest match on specs: test before swapping. Cellularline sells one glass for the Xiaomi Mi Note 10, Xiaomi Mi Note 10 Lite and Xiaomi Mi Note 10 Pro (cellularline.com)",
+"check": "Confirmed",
+"note": "Cellonic (Subtel) sells one 3D tempered glass for the Mi Note 10, Mi Note 10 Pro and Mi CC9 Pro, the China name of the same phone. Cellularline sells one glass for the Xiaomi Mi Note 10, Xiaomi Mi Note 10 Lite and Xiaomi Mi Note 10 Pro (cellularline.com)",
 "device": "Phone",
 "sources": [
+[
+"Subtel (Cellonic): Screen Protector for Xiaomi Mi Note 10, Note 10 Pro, CC9 Pro - Glass 9H",
+"https://www.subtel.de/en/screen-protector-glass-xiaomi-mi-note-10-mi-note-10-pro-3d-full-cover-9h-0-33mm-edge-glue-tem-929490.html"
+],
 [
 "Cellularline: Impact/Second Glass for Xiaomi Mi Note 10/Mi Note 10 Pro/Mi Note 10 Lite",
 "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Curved---Mi-Note-10-Mi-Note-10-Pro-Mi-Note-10-Lite/p/TEMPGCUXIAOMINO10K"
@@ -101148,8 +101152,8 @@
 "2018-04",
 "2018-04"
 ],
-"check": "Check",
-"note": "Sellers confirm Honor 7A, Huawei Y6 (2018). The rest match on specs: test before swapping. Avizar and Revive each sell one glass for Honor 7A / Y6 2018; flat glass leaves the edges uncovered",
+"check": "Confirmed",
+"note": "Avizar and Revive each sell one glass for Honor 7A / Y6 2018; flat glass leaves the edges uncovered. Cellularline sells one glass for the Huawei Y6 (2018), Y6 Prime (2018) and Honor 7A (Digitec)",
 "device": "Phone",
 "sources": [
 [
@@ -101159,6 +101163,10 @@
 [
 "Revive",
 "https://reviveonline.co.uk/products/honor-7a-2-5d-tempered-glass-screen-protector"
+],
+[
+"Digitec (Cellularline): Cellularline Capsule Screen Protector Huawei Y6 2018 / Y6 Prime 2018 / Honor 7A",
+"https://www.digitec.ch/en/s1/product/cellularline-capsule-screen-protector-huawei-y6-2018-black-1-piece-huawei-y6-prime-2018-huawei-y6-20-60734087"
 ]
 ],
 "codes": [
