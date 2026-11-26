@@ -238,6 +238,10 @@
    {
     "name": "Digitec (Techsuit ESD Glass G14 / G54 / G54 Power / G64)",
     "url": "https://www.digitec.ch/en/s1/product/techsuit-esd-glass-motorola-moto-g14-moto-g54-moto-g54-power-edition-moto-g64-black-motorola-moto-g1-60230396"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Motorola Moto G14/G54 5G/G54 Power Edition",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-motorola-moto-g14-g54-5g-g54-power-edition-p-212058"
    }
   ],
   "note": "PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54."
@@ -455,6 +459,10 @@
    {
     "name": "JETech 2-pack at Desertcart (Pad 8 / Pad 7)",
     "url": "https://www.desertcart.ae/products/686823189-2-pack-screen-protector-for-xiaomi-pad-8-pad-7"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Pad 8/8Pro/7/7Pro , čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-pad-7-7pro-cire"
    }
   ],
   "note": "Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8."
@@ -499,6 +507,10 @@
    {
     "name": "TMIC at eBay.de (Realme 8, 8 Pro)",
     "url": "https://www.ebay.de/itm/175021136452"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Realme 8 / 8 Pro",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-realme-8-8-pro-p-126590"
    }
   ],
   "note": "Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree."
@@ -5002,19 +5014,6 @@
  },
  {
   "models": [
-   "Infinix Hot 50i"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-infinix-hot-50i-3mk-flexibleglass-pro"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass Pro hybrid glass for the Infinix Hot 50i alone; hybrid glass, not tempered."
- },
- {
-  "models": [
    "Infinix Note 60 Pro"
   ],
   "fit": "own",
@@ -6945,19 +6944,6 @@
  },
  {
   "models": [
-   "Galaxy S23"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-92037"
-   }
-  ],
-  "note": "Olixar sells S23-only tempered glass at MobileFun."
- },
- {
-  "models": [
    "Galaxy S22 Ultra 5G"
   ],
   "fit": "own",
@@ -6968,19 +6954,6 @@
    }
   ],
   "note": "Olixar and Whitestone Dome sell glass made for the S22 Ultra at MobileFun; curved screen."
- },
- {
-  "models": [
-   "Galaxy S22 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s22-88112"
-   }
-  ],
-  "note": "Olixar sells S22-only tempered glass at MobileFun."
  },
  {
   "models": [
@@ -10892,19 +10865,6 @@
  },
  {
   "models": [
-   "Motorola Edge 50 Neo"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK / MyScreen (Home Screen)",
-    "url": "https://homescreen.pl/en/1686-moto-edge-50-series"
-   }
-  ],
-  "note": "3MK and MyScreen sell glass for the Edge 50 Neo alone."
- },
- {
-  "models": [
    "HMD Pulse+",
    "HMD Pulse"
   ],
@@ -12225,6 +12185,10 @@
    {
     "name": "aio.lv (nemo A05/A05s)",
     "url": "https://aio.lv/en/product--nemo-34391--11712330.md"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Samsung Galaxy A05s/A05",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a05s-a05-p-194772"
    }
   ],
   "note": "Tactical and nemo glass are each sold for A05 and A05s together; M05, F05, M14 4G and F14 4G not confirmed."
@@ -14376,6 +14340,14 @@
    {
     "name": "3MK via AIO.lv",
     "url": "https://aio.lv/en/product--3mk-5903108750653--12473411.md"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi 14C/A4 5G/A3 Pro/POCO C75 4G/5G/M7 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-14c-a4-5g-a3-pro-poco-c75-4g-5g-cerne"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Redmi 14C/A4 5G/A3 Pro/POCO C75 4G/5G/M7 5G, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-14c-a4-5g-a3-pro-poco-c75-4g-5g-cire"
    }
   ],
   "note": "FIXED glass lists Redmi 14C, A4 5G, A3 Pro, Poco C75 4G/5G and M7 5G as one product; 3MK lists 14C, C75 and A4 5G together."
@@ -14743,6 +14715,14 @@
    {
     "name": "Homescreen.pl: Bizon Glass Edge Redmi Note 11 / 11s black",
     "url": "https://homescreen.pl/en/redmi-note-1111s/95059-bizon-glass-edge-redmi-note-11-11s-black-5904665399538.html"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 11/Note 11S",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-11-note-11s-p-140993"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Xiaomi Redmi Note 11/11S",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-note-11-11s-p-168350"
    }
   ],
   "note": "Bizon Glass Edge is sold for Redmi Note 11 / 11S as one product; Poco M4 Pro and Note 12S not confirmed."
@@ -14881,6 +14861,10 @@
    {
     "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi 12 5G / 4G / 12R black",
     "url": "https://homescreen.pl/en/redmi-12-series/67280-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-12-5g-4g-12r-black-5904433225311.html"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi 12/12 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-12-12-5g-p-179485"
    }
   ],
   "note": "MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product."
@@ -14940,6 +14924,10 @@
    {
     "name": "3MK via Homescreen.pl",
     "url": "https://homescreen.pl/en/1011-redmi-note-9-series"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi Note 9 Pro/9 Pro Max/Note 9S, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-9-pro-9-pro-max-note-9s-cerne"
    }
   ],
   "note": "3MK FlexibleGlass (hybrid glass) is sold for Redmi Note 9S / 9 Pro / 9 Pro Max as one product."
@@ -14984,6 +14972,14 @@
    {
     "name": "Hurtel: Tempered glass 9H 3mk HardGlass™ for Xiaomi 14T / 14T Pro",
     "url": "https://hurtel.com/en/products/tempered-glass-9h-3mk-hardglass-tm-for-xiaomi-14t-14t-pro-182789"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi 14T/14T Pro, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-14t-14t-pro-cerne"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi 14T/14T Pro",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-14t-14t-pro-p-246278"
    }
   ],
   "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
@@ -15010,6 +15006,14 @@
    {
     "name": "Hurtel: Xiaomi 13T/13T Pro - 3mk FlexibleGlass™",
     "url": "https://hurtel.com/en/products/xiaomi-13t-13t-pro-3mk-flexibleglass-tm-155674"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi 13T/13T Pro, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-13t-13t-pro-cerne"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi 13T/13T Pro",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-13t-13t-pro-p-183325"
    }
   ],
   "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
@@ -15080,6 +15084,10 @@
    {
     "name": "Hurtel: 3mk HardGlass Max Black Tempered Glass for Xiaomi 12 Pro / 13 Pro",
     "url": "https://hurtel.com/en/products/3mk-hardglass-max-black-tempered-glass-for-xiaomi-12-pro-13-pro-169862"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi 12 Pro/13 Pro",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-12-pro-13-pro-p-137537"
    }
   ],
   "note": "3MK sells one glass for the Xiaomi 12 Pro and Xiaomi 13 Pro (Homescreen.pl)."
@@ -15305,6 +15313,10 @@
    {
     "name": "Homescreen.pl: Hofi Glass Pro+ POCO M3 Pro 5G/Redmi Note 10 5G Black",
     "url": "https://homescreen.pl/en/poco-m3-pro/27038-hofi-glass-pro-poco-m3-pro-5gredmi-note-10-5g-black-6216990212222.html"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 10 5G / POCO M3 Pro 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-p-126602"
    }
   ],
   "note": "Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product."
@@ -15355,6 +15367,10 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/1353-poco-c75"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi 14C/POCO C75",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-14c-poco-c75-p-248008"
    }
   ],
   "note": "Bizon Clear 2 and Edge Duo glass are sold for Redmi 14C 4G / Poco C75; 3MK FlexibleGlass Lite adds Redmi A4 5G."
@@ -15553,19 +15569,6 @@
    }
   ],
   "note": "PanzerGlass E2E (case friendly) is sold for Redmi Note 8T alone, separate from Note 8 and 8 Pro."
- },
- {
-  "models": [
-   "Redmi 10 2022"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK via Homescreen.pl",
-    "url": "https://homescreen.pl/en/1044-redmi-10-series"
-   }
-  ],
-  "note": "3MK HardGlass Max Lite is sold for Redmi 10 2022 alone."
  },
  {
   "models": [
@@ -16821,6 +16824,10 @@
    {
     "name": "PanzerGlass Redmi Note 13 Pro 5G | Poco X6 | Poco X6 Pro (fits list: all three)",
     "url": "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 13 Pro 5G/POCO X6 5G/X6 Pro 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-x6-pro-5g-p-198832"
    }
   ],
   "note": "PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro."
@@ -17146,6 +17153,10 @@
    {
     "name": "Hurtel: 9H 3mk HardGlass™ Glass for Redmi 13C / Poco C65",
     "url": "https://hurtel.com/en/products/9h-3mk-hardglass-tm-glass-for-redmi-13c-poco-c65-158100"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi 13C/POCO C65",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-13c-poco-c65-p-196818"
    }
   ],
   "note": "3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl)."
@@ -17373,6 +17384,10 @@
    {
     "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G04 / G24 Power black",
     "url": "https://homescreen.pl/en/moto-g04/72363-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g04-g24-power-black-5904433231343.html"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Motorola Moto G04/G24 Power",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-motorola-moto-g04-g24-power-p-215501"
    }
   ],
   "note": "MyScreen sells one glass for the Moto G04 and Moto G24 Power (Homescreen.pl)."
@@ -17956,6 +17971,14 @@
    {
     "name": "Hurtel: Reinforced Full Screen Tempered Glass 3mk HardGlass Max Black for Xiaomi Redmi Note 10/10s 4G",
     "url": "https://hurtel.com/en/products/reinforced-full-screen-tempered-glass-3mk-hardglass-max-black-for-xiaomi-redmi-note-10-10s-4g-209659"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi Note 10/Note 10S, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-10-note-10s-cerne"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 10 / Note 10S",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-note-10s-p-126601"
    }
   ],
   "note": "Supershieldz sells one tempered glass for the Redmi Note 10 and Redmi Note 10S."
@@ -18149,6 +18172,10 @@
    {
     "name": "Hurtel: Motorola Moto G30 / G10 - 3mk FlexibleGlass ™",
     "url": "https://hurtel.com/en/products/motorola-moto-g30-g10-3mk-flexibleglass-tm-85020"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Motorola Moto G10/G30",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-motorola-moto-g10-g30-p-126586"
    }
   ],
   "note": "3MK sells one hybrid glass for the Moto G10 and Moto G30 (Hurtel)."
@@ -18163,6 +18190,14 @@
    {
     "name": "Hurtel: 3mk FlexibleGlass™ Hybrid Glass for Xiaomi Redmi Note 11 Pro 4G / 5G",
     "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-for-xiaomi-redmi-note-11-pro-4g-5g-89448"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Redmi Note 11 Pro/Note 11 Pro 5G, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-note-11-pro-note-11-pro-5g-cire"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 11 Pro/Note 11 Pro 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-11-pro-note-11-pro-5g-p-140994"
    }
   ],
   "note": "3MK sells one hybrid glass for the Redmi Note 11 Pro and Redmi Note 11 Pro 5G (Hurtel)."
@@ -18359,5 +18394,620 @@
    }
   ],
   "note": "Spigen sells one glass for the Redmi Note 15 Pro, Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel)."
+ },
+ {
+  "models": [
+   "Galaxy A17",
+   "Galaxy A18"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Tvrzené sklo FIXED 2ks s anti-dust aplikátorem pro Samsung Galaxy A18/A17, čiré",
+    "url": "https://fixed.zone/products/tvrzene-sklo-fixed-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a18-cire"
+   },
+   {
+    "name": "FIXED: Tvrzené sklo FIXED Full-Cover 2ks s anti-dust aplikátorem pro Samsung Galaxy A18/A17, černé",
+    "url": "https://fixed.zone/products/tvrzene-sklo-fixed-full-cover-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a17-5g-cerne"
+   }
+  ],
+  "note": "FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED)."
+ },
+ {
+  "models": [
+   "Redmi 9A",
+   "Redmi 9C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi 9A/9C",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-9a-9c-p-114337"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Xiaomi Redmi 9A/9C",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-9a-9c-p-168352"
+   }
+  ],
+  "note": "Caliber and PanzerGlass sell one glass for the Redmi 9A and Redmi 9C (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi 9A",
+   "Redmi 9C",
+   "Redmi 9C NFC"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi 9A/9A 2022/9C/9C NFC, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-9a-9a-2022-9c-9c-nfc-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Redmi 9A, Redmi 9C and Redmi 9C NFC (FIXED)."
+ },
+ {
+  "models": [
+   "vivo Y04",
+   "vivo Y29s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Vivo Y04 4G/Y29s 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y04-4g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the vivo Y04 and vivo Y29s (FIXED)."
+ },
+ {
+  "models": [
+   "vivo Y19s 4G",
+   "vivo Y29"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Vivo Y19S 4G/Y29 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y19s-4g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the vivo Y19s 4G and vivo Y29 (FIXED)."
+ },
+ {
+  "models": [
+   "Moto E15",
+   "Moto G05"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Motorola Moto G05/E15, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g05-e15-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Moto E15 and Moto G05 (FIXED)."
+ },
+ {
+  "models": [
+   "Poco M7 Pro 5G",
+   "Redmi Note 14 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi Note 14 5G/POCO M7 Pro 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-14-5g-poco-m7-pro-5g-cerne"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Redmi Note 14 5G/POCO M7 Pro 5G, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-note-14-5g-poco-m7-pro-5g-cire"
+   }
+  ],
+  "note": "FIXED sells one glass for the Poco M7 Pro 5G and Redmi Note 14 5G (FIXED)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Samsung Galaxy A16 4G/5G/A26 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-samsung-galaxy-a16-4g-5g-cerne"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Samsung Galaxy A16 4G/5G/A26 5G, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-a16-4g-5g-cire"
+   }
+  ],
+  "note": "FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED)."
+ },
+ {
+  "models": [
+   "Realme 12 Lite",
+   "Realme C67 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Realme C67 4G/12 Lite 4G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c67-4g-12-lite-4g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Realme 12 Lite and Realme C67 4G (FIXED)."
+ },
+ {
+  "models": [
+   "Moto E14",
+   "Moto G04",
+   "Moto G04s",
+   "Moto G24"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Motorola Moto G04/G24/G04s/E14, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g04-g24-g04s-e14-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Moto E14, Moto G04, Moto G04s and Moto G24 (FIXED)."
+ },
+ {
+  "models": [
+   "Poco X6",
+   "Redmi Note 13 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi Note 13 Pro 5G/POCO X6 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED)."
+ },
+ {
+  "models": [
+   "Poco C65",
+   "Poco M6",
+   "Redmi 13C",
+   "Redmi 13C 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi 13C/13C 5G/POCO C65/POCO M6 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-13c-13c-5g-poco-c65-poco-m6-5g-cerne"
+   },
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Redmi 13C/13C 5G/POCO C65/POCO M6 5G, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-13c-13c-5g-poco-c65-poco-m6-5g-cire"
+   }
+  ],
+  "note": "FIXED sells one glass for the Poco C65, Poco M6, Redmi 13C and Redmi 13C 5G (FIXED)."
+ },
+ {
+  "models": [
+   "Moto G54",
+   "Moto G64"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Motorola Moto G54 5G/G54 Power Edition/G64, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g54-5g-g54-power-edition-g64-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Moto G54 and Moto G64 (FIXED)."
+ },
+ {
+  "models": [
+   "Moto G57",
+   "Moto G57 Power",
+   "Moto G67 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass SAFE Motorola G57 Power/G57/G67 Power",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-safe-motorola-g57-power-g57-g67-power-p-289221"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Moto G57, Moto G57 Power and Moto G67 Power (MP.cz)."
+ },
+ {
+  "models": [
+   "Poco F3",
+   "Redmi Note 10 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 10 Pro / POCO F3",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-pro-poco-f3-p-126603"
+   }
+  ],
+  "note": "Caliber sells one glass for the Poco F3 and Redmi Note 10 Pro (MP.cz)."
+ },
+ {
+  "models": [
+   "Galaxy A13",
+   "Galaxy A23 5G",
+   "Galaxy M13",
+   "Galaxy M23"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Samsung Galaxy A13/A23 5G/M13/M23 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-samsung-galaxy-a13-a23-5g-m13-m23-5g-p-168360"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy A13, Galaxy A23 5G, Galaxy M13 and Galaxy M23 (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro",
+   "Redmi Note 11 Pro 5G",
+   "Redmi Note 11 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Xiaomi Redmi Note 11 Pro/11 Pro 5G/11 Pro+ 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-note-11-pro-11-pro-5g-11-pro-5g-p-168351"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 11 Pro, Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A17"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Samsung Galaxy A16 LTE/A16 5G/A17 LTE/A17 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a16-lte-a16-5g-a17-lte-a17-5g-p-253618"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz)."
+ },
+ {
+  "models": [
+   "Honor 70 Lite",
+   "Honor X6",
+   "Honor X8 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Honor X6/X8 5G/70 Lite 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-honor-x6-x8-5g-70-lite-5g-p-183307"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Honor 70 Lite, Honor X6 and Honor X8 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Galaxy A13",
+   "Galaxy A23",
+   "Galaxy M13",
+   "Galaxy M23",
+   "Galaxy M33"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Samsung Galaxy A13/A23/M13/M23 5G/M33 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-a23-m13-m23-5g-m33-5g-p-141133"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy A13, Galaxy A23, Galaxy M13, Galaxy M23 and Galaxy M33 (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro",
+   "Redmi Note 11 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 11 Pro/11 Pro Plus",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-11-pro-11-pro-plus-p-136918"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 11 Pro and Redmi Note 11 Pro+ 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi Note 11",
+   "Redmi Note 11S",
+   "Redmi Note 12S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 12S/11/11S",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12s-11-11s-p-141134"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 11, Redmi Note 11S and Redmi Note 12S (MP.cz)."
+ },
+ {
+  "models": [
+   "Galaxy S22 5G",
+   "Galaxy S23"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Samsung Galaxy S22 5G/S23 s podporou čtečky v displeji, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-samsung-galaxy-s22-5g-s23-s-podporou-ctecky-v-displeji-cerne"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Samsung Galaxy S22/S23",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-samsung-galaxy-s22-s23-p-168355"
+   }
+  ],
+  "note": "FIXED and PanzerGlass sell one glass for the Galaxy S22 5G and Galaxy S23 (FIXED and MP.cz)."
+ },
+ {
+  "models": [
+   "Infinix Hot 50i",
+   "Infinix Smart 9"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Infinix Smart 9/Hot 50i, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-infinix-smart-9-hot-50i-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Infinix Hot 50i and Infinix Smart 9 (FIXED)."
+ },
+ {
+  "models": [
+   "Moto S50",
+   "Motorola Edge 50 Neo",
+   "Motorola Edge 60 Neo"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Motorola Edge 60 Neo 5G/50 Neo/Moto S50 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-edge-50-neo-moto-s50-5g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Moto S50, Motorola Edge 50 Neo and Motorola Edge 60 Neo (FIXED)."
+ },
+ {
+  "models": [
+   "Realme C65 5G",
+   "Realme Narzo 70x",
+   "Realme Narzo N65"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Realme C65 5G/Narzo N65 5G/70X 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c65-5g-narzo-n65-5g-70x-5g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Realme C65 5G, Realme Narzo 70x and Realme Narzo N65 (FIXED)."
+ },
+ {
+  "models": [
+   "Realme 12",
+   "Realme 12x",
+   "Realme 13"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Realme 12x/12 5G/13 5G, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-12x-12-5g-13-5g-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Realme 12, Realme 12x and Realme 13 (FIXED)."
+ },
+ {
+  "models": [
+   "Poco Pad",
+   "Redmi Pad 2 Pro",
+   "Redmi Pad Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo pro Xiaomi Redmi Pad 2 Pro/Pad Pro/POCO Pad, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-pro-xiaomi-redmi-pad-2-pro-pad-pro-poco-pad-cire"
+   }
+  ],
+  "note": "FIXED sells one glass for the Poco Pad, Redmi Pad 2 Pro and Redmi Pad Pro (FIXED)."
+ },
+ {
+  "models": [
+   "Realme C61",
+   "Realme C63",
+   "Realme Note 60"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Realme C61/C63/Note 60, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c61-c63-note-60-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Realme C61, Realme C63 and Realme Note 60 (FIXED)."
+ },
+ {
+  "models": [
+   "Oppo Find X8 Ultra",
+   "Oppo Find X9 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass SAFE OPPO Find X9 Ultra/Find X8 Ultra",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-safe-oppo-find-x9-ultra-find-x8-ultra-p-296160"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Oppo Find X8 Ultra and Oppo Find X9 Ultra (MP.cz)."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 10T 5G",
+   "Xiaomi Mi 10T Lite 5G",
+   "Xiaomi Mi 10T Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Mi 10T/Mi 10T Pro/Mi 10T Lite",
+    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-mi-10t-mi-10t-pro-mi-10t-lite-p-119345"
+   }
+  ],
+  "note": "Caliber sells one glass for the Xiaomi Mi 10T 5G, Xiaomi Mi 10T Lite 5G and Xiaomi Mi 10T Pro 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi 10C",
+   "Redmi 12C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Xiaomi Redmi 10C/12C",
+    "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-10c-12c-p-168353"
+   },
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi 10C/12C",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10c-12c-p-144944"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi 10C and Redmi 12C (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi Note 14 Pro",
+   "Redmi Note 14 Pro 5G",
+   "Redmi Note 14 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 14 Pro/14 Pro 5G/14 Pro+ 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-14-pro-14-pro-5g-14-pro-5g-p-268108"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 14 Pro, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Galaxy A04s",
+   "Galaxy A13 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Samsung Galaxy A13 5G/A04s",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-5g-a04s-p-146134"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Poco X5 Pro",
+   "Redmi Note 12 Pro",
+   "Redmi Note 12 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 12 Pro 5G/12 Pro+ 5G/POCO X5 Pro 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12-pro-5g-12-pro-5g-poco-x5-pro-5g-p-161890"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Poco X5 Pro, Redmi Note 12 Pro and Redmi Note 12 Pro+ (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi Note 13 Pro+",
+   "Redmi Note 14 Pro",
+   "Redmi Note 14 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 13 Pro+ 5G/14 Pro/14 Pro+ 5G",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-13-pro-5g-14-pro-14-pro-5g-p-198850"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi Note 13 Pro+, Redmi Note 14 Pro and Redmi Note 14 Pro+ 5G (MP.cz)."
+ },
+ {
+  "models": [
+   "Redmi 10",
+   "Redmi 10 2022"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi 10/Redmi 10 2022",
+    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10-redmi-10-2022-p-131357"
+   }
+  ],
+  "note": "PanzerGlass sells one glass for the Redmi 10 and Redmi 10 2022 (MP.cz)."
+ },
+ {
+  "models": [
+   "vivo Y21s",
+   "vivo Y33s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Vivo Y33s/ Y21s/ Y21, černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y33s-y21s-y21-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the vivo Y21s and vivo Y33s (FIXED)."
+ },
+ {
+  "models": [
+   "Redmi 12",
+   "Redmi 12 5G",
+   "Redmi 13"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Xiaomi Redmi 12 4G/5G/13 4G/Poco M6/M6 Plus 5,černé",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-12-4g-5g-13-4g-poco-m6-m6-plus-5-cerne"
+   }
+  ],
+  "note": "FIXED sells one glass for the Redmi 12, Redmi 12 5G and Redmi 13 (FIXED)."
+ },
+ {
+  "models": [
+   "Galaxy Tab S9 Ultra",
+   "Galaxy Tab S10 Ultra",
+   "Galaxy Tab S11 Ultra"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Samsung Galaxy Tab S11 Ultra/ S10 Ultra/ S9 Ultra/S8 Ultra, čiré",
+    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-tab-s11-ultra-cire"
+   }
+  ],
+  "note": "FIXED sells one glass for the Galaxy Tab S9 Ultra, Galaxy Tab S10 Ultra and Galaxy Tab S11 Ultra (FIXED)."
  }
 ]

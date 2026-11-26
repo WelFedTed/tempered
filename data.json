@@ -13778,6 +13778,8 @@
 "Galaxy A03s",
 "Galaxy A03 Core",
 "Galaxy A03",
+"Galaxy A13 5G",
+"Galaxy M13 5G",
 "Galaxy A04",
 "Galaxy A04s",
 "Galaxy A04e",
@@ -13791,6 +13793,8 @@
 "2021-08",
 "2021-11",
 "2021-11",
+"2021-12",
+"2022-07",
 "2022-08",
 "2022-08",
 "2022-10",
@@ -13798,7 +13802,7 @@
 "2023-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
+"note": "Sellers confirm Galaxy A13 5G, Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz). Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -13808,6 +13812,10 @@
 [
 "Flipkart GOLKI COVERS / ADI Creations",
 "https://www.flipkart.com/search?q=tempered+glass+samsung+galaxy+a03+a02s+a04e"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A13 5G/A04s",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-5g-a04s-p-146134"
 ],
 [
 "Homescreen.pl: Tempered glass Nillkin Amazing CP+ PRO Samsung Galaxy A04/A04S/A04e",
@@ -13825,6 +13833,8 @@
 "SM-A037F, SM-A037F/DS, SM-A037M, SM-A037G, SM-A037U, SM-S134DL, SM-A037W, SM-A037U1, SM-S135DL",
 "SM-A032F, SM-A032F/DS, SM-A032M",
 "SM-A035F, SM-A035F/DS, SM-A035M, SM-A035G",
+"SM-A136U, SM-A136U1, SM-A136W, SM-A136B, SM-S136DL",
+"SM-M136B, SM-M136B/DS",
 "SM-A045F, SM-A045F/DS, SM-A045M",
 "SM-A047F, SM-A047F/DS, SM-A047F/DSN, SM-A047M",
 "SM-A042F, SM-A042F/DS, SM-A042M, SM-A042M/DS",
@@ -13832,6 +13842,8 @@
 "SM-E045F, SM-E045F/DS"
 ],
 "screens": [
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -13851,6 +13863,8 @@
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
+"164.5 x 76.5 x 8.8 mm",
+"164.5 x 76.5 x 8.8 mm",
 "164.4 x 76.3 x 9.1 mm",
 "164.7 x 76.7 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
@@ -14538,36 +14552,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy A13 5G",
-"Galaxy M13 5G"
-],
-"released": [
-"2021-12",
-"2022-07"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"SM-A136U, SM-A136U1, SM-A136W, SM-A136B, SM-S136DL",
-"SM-M136B, SM-M136B/DS"
-],
-"screens": [
-"6.5in",
-"6.5in"
-],
-"dims": [
-"164.5 x 76.5 x 8.8 mm",
-"164.5 x 76.5 x 8.8 mm"
-]
-},
-{
-"id": "SAM-1429",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy S21 FE 5G"
 ],
 "released": [
@@ -14593,41 +14577,50 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
 ],
 "models": [
-"Galaxy S22 5G"
+"Galaxy S22 5G",
+"Galaxy S23"
 ],
 "released": [
-"2022-02"
+"2022-02",
+"2023-02"
 ],
 "check": "Confirmed",
-"note": "Olixar sells S22-only tempered glass at MobileFun",
+"note": "FIXED and PanzerGlass sell one glass for the Galaxy S22 5G and Galaxy S23 (FIXED and MP.cz)",
 "device": "Phone",
 "sources": [
 [
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s22-88112"
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Samsung Galaxy S22 5G/S23 s podporou \u010dte\u010dky v displeji, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-samsung-galaxy-s22-5g-s23-s-podporou-ctecky-v-displeji-cerne"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Samsung Galaxy S22/S23",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-samsung-galaxy-s22-s23-p-168355"
 ]
 ],
 "codes": [
-"SM-S901B, SM-S901B/DS, SM-S901U, SM-S901U1, SM-S901W, SM-S901N, SM-S9010, SM-S901E, SM-S901E/DS"
+"SM-S901B, SM-S901B/DS, SM-S901U, SM-S901U1, SM-S901W, SM-S901N, SM-S9010, SM-S901E, SM-S901E/DS",
+"SM-S911B, SM-S911B/DS, SM-S911U, SM-S911U1, SM-S911W, SM-S911N, SM-S9110, SM-S911E, SM-S911E/DS"
 ],
 "screens": [
+"6.1in",
 "6.1in"
 ],
 "dims": [
-"146 x 70.6 x 7.6 mm"
+"146 x 70.6 x 7.6 mm",
+"146.3 x 70.9 x 7.6 mm"
 ],
 "tags": [
 "fingerprint"
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14666,7 +14659,7 @@
 ]
 },
 {
-"id": "SAM-1432",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14721,7 +14714,7 @@
 ]
 },
 {
-"id": "SAM-1433",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14751,7 +14744,7 @@
 "2022-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy F13, Galaxy M13 (India), Galaxy A23 5G. The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Bizon sells one glass for the Galaxy A23 and Galaxy A23 5G (Homescreen.pl). Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
+"note": "Sellers confirm Galaxy A13, Galaxy A23, Galaxy M23, Galaxy M33, Galaxy F23, Galaxy M13, Galaxy F13, Galaxy M13 (India), Galaxy A23 5G. The rest match on specs: test before swapping. Several Flipkart sellers (Colorcase, Celzo, FAD-E, Mesquinho, MD care) sell one 6.6in glass for A23 (4G/5G), A13 4G, M23, F23 and M33; marketplace-only: test fit. EITANSHA, OVOG and CORRVIIXA on Flipkart sell one glass for Galaxy A13, F13 and M13 4G (India). PanzerGlass sells one glass for the Galaxy A13, Galaxy A23 5G, Galaxy M13 and Galaxy M23 (MP.cz). PanzerGlass sells one glass for the Galaxy A13, Galaxy A23, Galaxy M13, Galaxy M23 and Galaxy M33 (MP.cz). PanzerGlass sells one glass for A23, M23 5G and M33 5G, and Displex at Digitec lists A23, F13, M23 and M33 together. Bizon sells one glass for the Galaxy A23 and Galaxy A23 5G (Homescreen.pl). Many Flipkart sellers (MD care, JONVIX, Colorcase, Celzo, Mesquinho, FAD-E) sell one glass for M23 5G and F23 5G",
 "device": "Phone",
 "sources": [
 [
@@ -14781,6 +14774,14 @@
 [
 "Flipkart CORRVIIXA",
 "https://www.flipkart.com/corrviixa-edge-tempered-glass-samsung-galaxy-a13-f13-m13/p/itmb11df9bc5d756"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Samsung Galaxy A13/A23 5G/M13/M23 5G",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-samsung-galaxy-a13-a23-5g-m13-m23-5g-p-168360"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A13/A23/M13/M23 5G/M33 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-a23-m13-m23-5g-m33-5g-p-141133"
 ],
 [
 "PanzerGlass SAFE (A13/A23/M13/M23 5G/M33 5G/A23 5G)",
@@ -14853,7 +14854,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14888,7 +14889,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14913,7 +14914,7 @@
 ]
 },
 {
-"id": "SAM-1436",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14938,7 +14939,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14979,7 +14980,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15007,7 +15008,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15050,7 +15051,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15104,41 +15105,7 @@
 ]
 },
 {
-"id": "SAM-1441",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy S23"
-],
-"released": [
-"2023-02"
-],
-"check": "Confirmed",
-"note": "Olixar sells S23-only tempered glass at MobileFun",
-"device": "Phone",
-"sources": [
-[
-"MobileFun (Olixar)",
-"https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-samsung-galaxy-s23-92037"
-]
-],
-"codes": [
-"SM-S911B, SM-S911B/DS, SM-S911U, SM-S911U1, SM-S911W, SM-S911N, SM-S9110, SM-S911E, SM-S911E/DS"
-],
-"screens": [
-"6.1in"
-],
-"dims": [
-"146.3 x 70.9 x 7.6 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "SAM-1442",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15182,7 +15149,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15221,7 +15188,7 @@
 ]
 },
 {
-"id": "SAM-1444",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15269,7 +15236,7 @@
 ]
 },
 {
-"id": "SAM-1445",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15313,7 +15280,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15338,7 +15305,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15390,7 +15357,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15446,7 +15413,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15500,6 +15467,10 @@
 [
 "aio.lv (nemo A05/A05s)",
 "https://aio.lv/en/product--nemo-34391--11712330.md"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A05s/A05",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a05s-a05-p-194772"
 ],
 [
 "Hurtel: 3mk HardGlass tempered glass for Samsung Galaxy A05 / A06",
@@ -15597,7 +15568,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15643,7 +15614,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15682,7 +15653,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15738,7 +15709,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15785,7 +15756,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15810,7 +15781,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15855,7 +15826,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15905,7 +15876,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15933,7 +15904,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16003,7 +15974,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16037,7 +16008,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. ZAGG, PanzerGlass list",
+"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED). PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED). ZAGG, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -16089,6 +16060,18 @@
 "https://hurtel.com/en/products/tech-protect-glass-spy-2-pack-privacy-glass-for-samsung-galaxy-a16-4g-5g-a26-5g-a17-4g-5g-199706"
 ],
 [
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Samsung Galaxy A16 4G/5G/A26 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-samsung-galaxy-a16-4g-5g-cerne"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Samsung Galaxy A16 4G/5G/A26 5G, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-a16-4g-5g-cire"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A16 LTE/A16 5G/A17 LTE/A17 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a16-lte-a16-5g-a17-lte-a17-5g-p-253618"
+],
+[
 "Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
 "https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
 ],
@@ -16115,6 +16098,14 @@
 [
 "Coolblue: BlueBuilt glass, suitable for Galaxy A17 4G, A17 5G and A18",
 "https://www.coolblue.nl/en/product/966911/bluebuilt-samsung-galaxy-a18-and-a17-glass-screen-protector.html"
+],
+[
+"FIXED: Tvrzen\u00e9 sklo FIXED 2ks s anti-dust aplik\u00e1torem pro Samsung Galaxy A18/A17, \u010dir\u00e9",
+"https://fixed.zone/products/tvrzene-sklo-fixed-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a18-cire"
+],
+[
+"FIXED: Tvrzen\u00e9 sklo FIXED Full-Cover 2ks s anti-dust aplik\u00e1torem pro Samsung Galaxy A18/A17, \u010dern\u00e9",
+"https://fixed.zone/products/tvrzene-sklo-fixed-full-cover-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a17-5g-cerne"
 ]
 ],
 "codes": [
@@ -16161,7 +16152,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16189,7 +16180,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16231,7 +16222,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16298,7 +16289,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16336,7 +16327,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16395,7 +16386,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16446,7 +16437,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16474,7 +16465,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16508,7 +16499,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16547,7 +16538,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16581,7 +16572,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16616,7 +16607,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16641,7 +16632,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16672,7 +16663,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1471",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16694,7 +16685,7 @@
 ]
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1472",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16716,7 +16707,7 @@
 ]
 },
 {
-"id": "SAM-1475",
+"id": "SAM-1473",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16738,7 +16729,7 @@
 ]
 },
 {
-"id": "SAM-1476",
+"id": "SAM-1474",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16754,7 +16745,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1477",
+"id": "SAM-1475",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -18615,14 +18606,18 @@
 ],
 "models": [
 "Galaxy Tab S9 Ultra",
-"Galaxy Tab S10 Ultra"
+"Galaxy Tab S10 Ultra",
+"Galaxy Tab S11 Ultra",
+"Galaxy Tab S12 Ultra"
 ],
 "released": [
 "2023-07",
-"2024-09"
+"2024-09",
+"2025-09",
+"2026-10"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit. ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own",
+"note": "PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit. ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own. FIXED sells one glass for the Galaxy Tab S9 Ultra, Galaxy Tab S10 Ultra and Galaxy Tab S11 Ultra (FIXED). Spigen glass sold at JB Hi-Fi lists S11 Ultra and S12 Ultra; S10 Ultra glass is a different SKU. Some listings group it with S9/S10 Ultra",
 "device": "Tablet",
 "sources": [
 [
@@ -18640,19 +18635,37 @@
 [
 "Spigen",
 "https://www.spigen.com/products/galaxy-tab-s-series-screen-protector-ez-fit-glas-tr"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Samsung Galaxy Tab S11 Ultra/ S10 Ultra/ S9 Ultra/S8 Ultra, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-tab-s11-ultra-cire"
+],
+[
+"JB Hi-Fi (Spigen)",
+"https://www.jbhifi.com.au/products/spigen-samsung-galaxy-tab-s11-ultra-s12-ultra-14-6-glas-tr-ez-fit-pro-1pc-glass-screen-protector-clear"
+],
+[
+"Spigen",
+"https://www.spigen.com/products/galaxy-tab-s-11-series-ez-fit-glas-tr"
 ]
 ],
 "codes": [
 "SM-X910, SM-X916B, SM-X918U",
-"SM-X920, SM-X926B, SM-X926N, SM-X920N"
+"SM-X920, SM-X926B, SM-X926N, SM-X920N",
+"SM-X930, SM-X936B, SM-X936N, SM-X930N",
+""
 ],
 "screens": [
 "14.6in",
-"14.6in"
+"14.6in",
+"14.6in",
+""
 ],
 "dims": [
 "326.4 x 208.6 x 5.5 mm",
-"326.4 x 208.6 x 5.4 mm"
+"326.4 x 208.6 x 5.4 mm",
+"326.3 x 208.5 x 5.1 mm",
+""
 ]
 },
 {
@@ -18783,46 +18796,6 @@
 },
 {
 "id": "SAM-2065",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy Tab S11 Ultra",
-"Galaxy Tab S12 Ultra"
-],
-"released": [
-"2025-09",
-"2026-10"
-],
-"check": "Confirmed",
-"note": "Spigen glass sold at JB Hi-Fi lists S11 Ultra and S12 Ultra; S10 Ultra glass is a different SKU. Some listings group it with S9/S10 Ultra",
-"device": "Tablet",
-"sources": [
-[
-"JB Hi-Fi (Spigen)",
-"https://www.jbhifi.com.au/products/spigen-samsung-galaxy-tab-s11-ultra-s12-ultra-14-6-glas-tr-ez-fit-pro-1pc-glass-screen-protector-clear"
-],
-[
-"Spigen",
-"https://www.spigen.com/products/galaxy-tab-s-11-series-ez-fit-glas-tr"
-]
-],
-"codes": [
-"SM-X930, SM-X936B, SM-X936N, SM-X930N",
-""
-],
-"screens": [
-"14.6in",
-""
-],
-"dims": [
-"326.3 x 208.5 x 5.1 mm",
-""
-]
-},
-{
-"id": "SAM-2066",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -25006,6 +24979,10 @@
 [
 "TMIC at eBay.de (Realme 8, 8 Pro)",
 "https://www.ebay.de/itm/175021136452"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Realme 8 / 8 Pro",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-realme-8-8-pro-p-126590"
 ]
 ],
 "codes": [
@@ -27655,22 +27632,33 @@
 "OPP"
 ],
 "models": [
-"Oppo Find X8 Ultra"
+"Oppo Find X8 Ultra",
+"Oppo Find X9 Ultra"
 ],
 "released": [
-"2025-04"
+"2025-04",
+"2026-03"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "PanzerGlass sells one glass for the Oppo Find X8 Ultra and Oppo Find X9 Ultra (MP.cz)",
 "device": "Phone",
+"sources": [
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass SAFE OPPO Find X9 Ultra/Find X8 Ultra",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-safe-oppo-find-x9-ultra-find-x8-ultra-p-296160"
+]
+],
 "codes": [
-"PKJ110, PKU110"
+"PKJ110, PKU110",
+"CPH2841, PMA110"
 ],
 "screens": [
+"6.82in",
 "6.82in"
 ],
 "dims": [
-"163.1 x 76.8 x 8.8 mm"
+"163.1 x 76.8 x 8.8 mm",
+"163.2 x 77.0 x 8.7 mm"
 ],
 "tags": [
 "fingerprint"
@@ -28312,34 +28300,6 @@
 "OPP"
 ],
 "models": [
-"Oppo Find X9 Ultra"
-],
-"released": [
-"2026-03"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"CPH2841, PMA110"
-],
-"screens": [
-"6.82in"
-],
-"dims": [
-"163.2 x 77.0 x 8.7 mm"
-],
-"tags": [
-"fingerprint"
-]
-},
-{
-"id": "OPP-1214",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
 "Oppo Reno15 A"
 ],
 "released": [
@@ -28350,7 +28310,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1215",
+"id": "OPP-1214",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28375,7 +28335,7 @@
 ]
 },
 {
-"id": "OPP-1216",
+"id": "OPP-1215",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28405,7 +28365,7 @@
 ]
 },
 {
-"id": "OPP-1217",
+"id": "OPP-1216",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28433,7 +28393,7 @@
 ]
 },
 {
-"id": "OPP-1218",
+"id": "OPP-1217",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28461,7 +28421,7 @@
 ]
 },
 {
-"id": "OPP-1219",
+"id": "OPP-1218",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28491,7 +28451,7 @@
 ]
 },
 {
-"id": "OPP-1220",
+"id": "OPP-1219",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28544,7 +28504,7 @@
 ]
 },
 {
-"id": "OPP-1221",
+"id": "OPP-1220",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28569,7 +28529,7 @@
 ]
 },
 {
-"id": "OPP-1222",
+"id": "OPP-1221",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28614,7 +28574,7 @@
 ]
 },
 {
-"id": "OPP-1223",
+"id": "OPP-1222",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28630,7 +28590,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1224",
+"id": "OPP-1223",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28652,7 +28612,7 @@
 ]
 },
 {
-"id": "OPP-1225",
+"id": "OPP-1224",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28674,7 +28634,7 @@
 ]
 },
 {
-"id": "OPP-1226",
+"id": "OPP-1225",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28690,7 +28650,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1227",
+"id": "OPP-1226",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28712,7 +28672,7 @@
 ]
 },
 {
-"id": "OPP-1228",
+"id": "OPP-1227",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28728,7 +28688,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1229",
+"id": "OPP-1228",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28750,7 +28710,7 @@
 ]
 },
 {
-"id": "OPP-1230",
+"id": "OPP-1229",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28769,7 +28729,7 @@
 ]
 },
 {
-"id": "OPP-1231",
+"id": "OPP-1230",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28791,7 +28751,7 @@
 ]
 },
 {
-"id": "OPP-1232",
+"id": "OPP-1231",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28813,7 +28773,7 @@
 ]
 },
 {
-"id": "OPP-1233",
+"id": "OPP-1232",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -54978,6 +54938,10 @@
 "https://hurtel.com/en/products/motorola-moto-g30-g10-3mk-flexibleglass-tm-85020"
 ],
 [
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Motorola Moto G10/G30",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-motorola-moto-g10-g30-p-126586"
+],
+[
 "Supershieldz: [2-Pack] Supershieldz for Motorola Moto G30 / Moto G50 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint,",
 "https://www.supershieldz.com/tg-2p-m-moto-g30"
 ]
@@ -55397,7 +55361,7 @@
 "2025-11"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G67 Power, Moto G57, Moto G57 Power. The rest match on specs: test before swapping. Bizon sells several glass SKUs each listed for G57 Power and G67 Power. MyScreen sells one glass for the Moto G57 and Moto G57 Power (Homescreen.pl)",
+"note": "Sellers confirm Moto G67 Power, Moto G57, Moto G57 Power. The rest match on specs: test before swapping. Bizon sells several glass SKUs each listed for G57 Power and G67 Power. PanzerGlass sells one glass for the Moto G57, Moto G57 Power and Moto G67 Power (MP.cz). MyScreen sells one glass for the Moto G57 and Moto G57 Power (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -55411,6 +55375,10 @@
 [
 "Homescreen.pl: Bizon Glass Edge Duo Motorola Moto G57 Power / G67 Power, black frame [2 PACK]",
 "https://homescreen.pl/en/moto-g57/130525-bizon-glass-edge-duo-motorola-moto-g57-power-g67-power-black-frame-2-pack-5900415735724.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass SAFE Motorola G57 Power/G57/G67 Power",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-safe-motorola-g57-power-g57-g67-power-p-289221"
 ],
 [
 "MyScreen Diamond Glass (Home Screen)",
@@ -56992,8 +56960,8 @@
 "2024-04",
 "2024-08"
 ],
-"check": "Check",
-"note": "Sellers confirm Moto G14, Moto G54 Power, Moto G54, Moto G55. The rest match on specs: test before swapping. PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54. Bizon sells one glass for the Moto G14, Moto G54, Moto G54 Power and Moto G55 (Homescreen.pl). Bizon sells one glass for the Moto G14, Moto G54 and Moto G55 (Homescreen.pl). 3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power",
+"check": "Confirmed",
+"note": "PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54. Bizon sells one glass for the Moto G14, Moto G54, Moto G54 Power and Moto G55 (Homescreen.pl). Bizon sells one glass for the Moto G14, Moto G54 and Moto G55 (Homescreen.pl). 3MK (homescreen.pl) and Alza each sell one glass for the Moto G54 and G54 Power. FIXED sells one glass for the Moto G54 and Moto G64 (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -57011,6 +56979,10 @@
 [
 "Digitec (Techsuit ESD Glass G14 / G54 / G54 Power / G64)",
 "https://www.digitec.ch/en/s1/product/techsuit-esd-glass-motorola-moto-g14-moto-g54-moto-g54-power-edition-moto-g64-black-motorola-moto-g1-60230396"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Motorola Moto G14/G54 5G/G54 Power Edition",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-motorola-moto-g14-g54-5g-g54-power-edition-p-212058"
 ],
 [
 "Bizon Glass Clear Duo (Home Screen)",
@@ -57031,6 +57003,10 @@
 [
 "Alza glass for Moto G54 / G54 Power",
 "https://www.alza.at/EN/reviews/tempered-glass-protector-for-motorola-moto-g54-g54-power-compatible-with-the-case-camera-glass-12347053.htm"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Motorola Moto G54 5G/G54 Power Edition/G64, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g54-5g-g54-power-edition-g64-cerne"
 ]
 ],
 "codes": [
@@ -57133,7 +57109,7 @@
 "2024-08"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G34, Moto G04, Moto G24, Moto G24 Power, Moto E14. The rest match on specs: test before swapping. 3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34. Bizon sells one glass for G04, G24, G24 Power and E14; G04s not named. MyScreen sells one glass for the Moto G04 and Moto G24 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G24 and Moto G24 Power (Homescreen.pl)",
+"note": "Sellers confirm Moto G34, Moto G04, Moto G24, Moto G24 Power, Moto G04s, Moto E14. The rest match on specs: test before swapping. 3MK HardGlass is listed for G04, G24 and G34 5G; G45 not confirmed with the G34. Bizon sells one glass for G04, G24, G24 Power and E14; G04s not named. MyScreen sells one glass for the Moto G04 and Moto G24 Power (Homescreen.pl). FIXED sells one glass for the Moto E14, Moto G04, Moto G04s and Moto G24 (FIXED). 3MK sells one hybrid glass for the Moto G24 and Moto G24 Power (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -57151,6 +57127,14 @@
 [
 "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Motorola Moto G04 / G24 Power black",
 "https://homescreen.pl/en/moto-g04/72363-myscreen-diamond-glass-edge-lite-full-glue-motorola-moto-g04-g24-power-black-5904433231343.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Motorola Moto G04/G24 Power",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-motorola-moto-g04-g24-power-p-215501"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Motorola Moto G04/G24/G04s/E14, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g04-g24-g04s-e14-cerne"
 ],
 [
 "Homescreen.pl: Hybrid glass 3MK FlexibleGlass for Motorola Moto G24/G24 Power",
@@ -57618,16 +57602,18 @@
 ],
 "models": [
 "Motorola Edge 50 Neo",
+"Moto S50",
 "Motorola ThinkPhone 25",
 "Motorola Edge 60 Neo"
 ],
 "released": [
 "2024-08",
+"2024-09",
 "2024-10",
 "2025-09"
 ],
 "check": "Confirmed",
-"note": "PanzerGlass and Spigen each sell one glass for the Edge 50 Neo and Edge 60 Neo. Mobilis sells one screen protector for the Edge 50 Neo and ThinkPhone 25, and the AL5hafii chart groups both at 154.1 x 71.2 mm. 3MK and MyScreen sell glass for the Edge 50 Neo alone. 3MK and MyScreen sell glass for the Edge 60 Neo alone",
+"note": "PanzerGlass and Spigen each sell one glass for the Edge 50 Neo and Edge 60 Neo. Mobilis sells one screen protector for the Edge 50 Neo and ThinkPhone 25, and the AL5hafii chart groups both at 154.1 x 71.2 mm. FIXED sells one glass for the Moto S50, Motorola Edge 50 Neo and Motorola Edge 60 Neo (FIXED). 3MK and MyScreen sell glass for the Edge 60 Neo alone",
 "device": "Phone",
 "sources": [
 [
@@ -57651,8 +57637,8 @@
 "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/5_154x71.txt"
 ],
 [
-"3MK / MyScreen (Home Screen)",
-"https://homescreen.pl/en/1686-moto-edge-50-series"
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Motorola Edge 60 Neo 5G/50 Neo/Moto S50 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-edge-50-neo-moto-s50-5g-cerne"
 ],
 [
 "3MK / MyScreen (Home Screen)",
@@ -57661,15 +57647,18 @@
 ],
 "codes": [
 "XT2409-1",
+"XT2309-5",
 "XT2409-6",
 "XT2509-1"
 ],
 "screens": [
 "6.4in",
 "6.36in",
+"6.36in",
 "6.36in"
 ],
 "dims": [
+"154.1 x 71.2 x 8.1 mm",
 "154.1 x 71.2 x 8.1 mm",
 "154.1 x 71.2 x 8.1 mm",
 "154.1 x 71.2 x 8.1 mm"
@@ -57677,31 +57666,6 @@
 },
 {
 "id": "MOT-1262",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Moto S50"
-],
-"released": [
-"2024-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"XT2309-5"
-],
-"screens": [
-"6.36in"
-],
-"dims": [
-"154.1 x 71.2 x 8.1 mm"
-]
-},
-{
-"id": "MOT-1263",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57732,7 +57696,7 @@
 ]
 },
 {
-"id": "MOT-1264",
+"id": "MOT-1263",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57756,7 +57720,7 @@
 "2026-02"
 ],
 "check": "Check",
-"note": "Sellers confirm Moto G15, Moto G15 Power, Moto G05, Moto E15, Moto G56; Moto G17 Power, Moto G17. The rest match on specs: test before swapping. 3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl). Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G15 and Moto G15 Power (Hurtel). Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
+"note": "Sellers confirm Moto G15, Moto G15 Power, Moto G05, Moto E15, Moto G56; Moto G17 Power, Moto G17. The rest match on specs: test before swapping. 3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl). Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G15 and Moto G15 Power (Hurtel). FIXED sells one glass for the Moto E15 and Moto G05 (FIXED). Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
 "device": "Phone",
 "sources": [
 [
@@ -57798,6 +57762,10 @@
 [
 "Hurtel: Hybrid Glass 3mk FlexibleGlass\u2122 for Motorola Moto G15 / G15 Power",
 "https://hurtel.com/en/products/hybrid-glass-3mk-flexibleglass-tm-for-motorola-moto-g15-g15-power-187904"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Motorola Moto G05/E15, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-motorola-moto-g05-e15-cerne"
 ],
 [
 "Just in Case (Coolblue)",
@@ -57845,7 +57813,7 @@
 ]
 },
 {
-"id": "MOT-1265",
+"id": "MOT-1264",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57890,7 +57858,7 @@
 ]
 },
 {
-"id": "MOT-1266",
+"id": "MOT-1265",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57930,7 +57898,7 @@
 ]
 },
 {
-"id": "MOT-1267",
+"id": "MOT-1266",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -57982,7 +57950,7 @@
 ]
 },
 {
-"id": "MOT-1268",
+"id": "MOT-1267",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58010,7 +57978,7 @@
 ]
 },
 {
-"id": "MOT-1269",
+"id": "MOT-1268",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58051,7 +58019,7 @@
 ]
 },
 {
-"id": "MOT-1270",
+"id": "MOT-1269",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58084,7 +58052,7 @@
 ]
 },
 {
-"id": "MOT-1271",
+"id": "MOT-1270",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58109,7 +58077,7 @@
 ]
 },
 {
-"id": "MOT-1272",
+"id": "MOT-1271",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58157,7 +58125,7 @@
 ]
 },
 {
-"id": "MOT-1273",
+"id": "MOT-1272",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58179,7 +58147,7 @@
 ]
 },
 {
-"id": "MOT-1274",
+"id": "MOT-1273",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58215,7 +58183,7 @@
 ]
 },
 {
-"id": "MOT-1275",
+"id": "MOT-1274",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58246,7 +58214,7 @@
 ]
 },
 {
-"id": "MOT-1276",
+"id": "MOT-1275",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58274,7 +58242,7 @@
 ]
 },
 {
-"id": "MOT-1277",
+"id": "MOT-1276",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58319,7 +58287,7 @@
 ]
 },
 {
-"id": "MOT-1278",
+"id": "MOT-1277",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58355,7 +58323,7 @@
 ]
 },
 {
-"id": "MOT-1279",
+"id": "MOT-1278",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58377,7 +58345,7 @@
 ]
 },
 {
-"id": "MOT-1280",
+"id": "MOT-1279",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58402,7 +58370,7 @@
 ]
 },
 {
-"id": "MOT-1281",
+"id": "MOT-1280",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58424,7 +58392,7 @@
 ]
 },
 {
-"id": "MOT-1282",
+"id": "MOT-1281",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58457,7 +58425,7 @@
 ]
 },
 {
-"id": "MOT-1283",
+"id": "MOT-1282",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58485,7 +58453,7 @@
 ]
 },
 {
-"id": "MOT-1284",
+"id": "MOT-1283",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58511,7 +58479,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58533,7 +58501,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58561,7 +58529,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58583,7 +58551,7 @@
 ]
 },
 {
-"id": "MOT-1288",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58605,7 +58573,7 @@
 ]
 },
 {
-"id": "MOT-1289",
+"id": "MOT-1288",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58627,7 +58595,7 @@
 ]
 },
 {
-"id": "MOT-1290",
+"id": "MOT-1289",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -61331,6 +61299,10 @@
 [
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1011-redmi-note-9-series"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi Note 9 Pro/9 Pro Max/Note 9S, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-9-pro-9-pro-max-note-9s-cerne"
 ]
 ],
 "codes": [
@@ -61553,7 +61525,7 @@
 "2022-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 9, Redmi 9C, Redmi 9A, Redmi 9AT. The rest match on specs: test before swapping. 3MK HardGlass is sold for Redmi 9 / 9A / 9C as one product; PanzerGlass has separate 9 and 9A SKUs, so test before swapping. MyScreen Diamond Glass is sold for Redmi 9A / 9C / 9AT; 3MK HardGlass also lists 9A and 9C together",
+"note": "Sellers confirm Redmi 9, Redmi 9C, Redmi 9A, Redmi 9C NFC, Redmi 9AT. The rest match on specs: test before swapping. 3MK HardGlass is sold for Redmi 9 / 9A / 9C as one product; PanzerGlass has separate 9 and 9A SKUs, so test before swapping. MyScreen Diamond Glass is sold for Redmi 9A / 9C / 9AT; 3MK HardGlass also lists 9A and 9C together. Caliber and PanzerGlass sell one glass for the Redmi 9A and Redmi 9C (MP.cz). FIXED sells one glass for the Redmi 9A, Redmi 9C and Redmi 9C NFC (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -61571,6 +61543,18 @@
 [
 "Homescreen.pl: MyScreen Diamond Glass Edge FG Xiaomi Redmi 9A/9C/9AT black Full Glue",
 "https://homescreen.pl/en/redmi-9a/56610-myscreen-diamond-glass-edge-fg-xiaomi-redmi-9a-9c-9at-black-full-glue-5901924981855.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi 9A/9C",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-9a-9c-p-114337"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Xiaomi Redmi 9A/9C",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-9a-9c-p-168352"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi 9A/9A 2022/9C/9C NFC, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-9a-9a-2022-9c-9c-nfc-cerne"
 ]
 ],
 "codes": [
@@ -61724,76 +61708,60 @@
 ],
 "models": [
 "Xiaomi Mi 10T Lite 5G",
+"Xiaomi Mi 10T 5G",
+"Xiaomi Mi 10T Pro 5G",
+"Redmi K30S",
 "Redmi Note 9 Pro 5G",
 "Xiaomi Mi 10i 5G"
 ],
 "released": [
 "2020-09",
+"2020-09",
+"2020-09",
+"2020-10",
 "2020-11",
 "2021-01"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"M2007J17G",
-"M2007J17C",
-"M2007J17I"
-],
-"screens": [
-"6.67in",
-"6.67in",
-"6.67in"
-],
-"dims": [
-"165.4 x 76.8 x 9 mm",
-"165.4 x 76.8 x 9 mm",
-"165.4 x 76.8 x 9 mm"
-]
-},
-{
-"id": "XIA-1089",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Xiaomi Mi 10T 5G",
-"Xiaomi Mi 10T Pro 5G",
-"Redmi K30S"
-],
-"released": [
-"2020-09",
-"2020-09",
-"2020-10"
-],
-"check": "Check",
-"note": "Sellers confirm Xiaomi Mi 10T 5G, Xiaomi Mi 10T Pro 5G. The rest match on specs: test before swapping. Spigen GLAS.tR Slim and Bizon Clear glass are each sold for Mi 10T / 10T Pro; Redmi K30S not confirmed",
+"note": "Sellers confirm Xiaomi Mi 10T Lite 5G, Xiaomi Mi 10T 5G, Xiaomi Mi 10T Pro 5G. The rest match on specs: test before swapping. Caliber sells one glass for the Xiaomi Mi 10T 5G, Xiaomi Mi 10T Lite 5G and Xiaomi Mi 10T Pro 5G (MP.cz). Spigen GLAS.tR Slim and Bizon Clear glass are each sold for Mi 10T / 10T Pro; Redmi K30S not confirmed",
 "device": "Phone",
 "sources": [
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Mi 10T/Mi 10T Pro/Mi 10T Lite",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-mi-10t-mi-10t-pro-mi-10t-lite-p-119345"
+],
 [
 "Spigen via Homescreen.pl",
 "https://homescreen.pl/en/2328-mi-10-series"
 ]
 ],
 "codes": [
+"M2007J17G",
 "M2007J3SY",
 "M2007J3SG, M2007J3SP, M2007J3SI, M2007J17C",
-"M2007J3SC"
+"M2007J3SC",
+"M2007J17C",
+"M2007J17I"
 ],
 "screens": [
+"6.67in",
+"6.67in",
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in"
 ],
 "dims": [
+"165.4 x 76.8 x 9 mm",
 "165.1 x 76.4 x 9.3 mm",
 "165.1 x 76.4 x 9.3 mm",
-"165.1 x 76.4 x 9.3 mm"
+"165.1 x 76.4 x 9.3 mm",
+"165.4 x 76.8 x 9 mm",
+"165.4 x 76.8 x 9 mm"
 ]
 },
 {
-"id": "XIA-1090",
+"id": "XIA-1089",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61818,7 +61786,7 @@
 ]
 },
 {
-"id": "XIA-1091",
+"id": "XIA-1090",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61858,7 +61826,7 @@
 ]
 },
 {
-"id": "XIA-1092",
+"id": "XIA-1091",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61883,7 +61851,7 @@
 ]
 },
 {
-"id": "XIA-1093",
+"id": "XIA-1092",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61917,7 +61885,7 @@
 ]
 },
 {
-"id": "XIA-1094",
+"id": "XIA-1093",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61948,7 +61916,7 @@
 ]
 },
 {
-"id": "XIA-1095",
+"id": "XIA-1094",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -61982,7 +61950,7 @@
 "2021-04"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi K40, Redmi K40 Pro, Redmi K40 Pro+, Redmi Note 10 Pro Max, Redmi Note 10 Pro, Poco F3, Black Shark 4, Black Shark 4 Pro, Xiaomi Mi 11i, Xiaomi Mi 11X. The rest match on specs: test before swapping. Ringke ID Glass Full Cover is sold for Mi 11i, Mi 11X, Poco F3, Redmi K40, K40 Pro and K40 Pro+ as one product; Mi 11X Pro not named. Supershieldz sells one tempered glass for the Black Shark 4, Black Shark 4 Pro, Poco F3, Redmi K40, Redmi K40 Pro and Redmi K40 Pro+. PanzerGlass E2E Regular (case friendly) is sold for Redmi Note 10 Pro / 10 Pro Max / Mi 11i / Poco F3 as one product",
+"note": "Sellers confirm Redmi K40, Redmi K40 Pro, Redmi K40 Pro+, Redmi Note 10 Pro Max, Redmi Note 10 Pro, Poco F3, Black Shark 4, Black Shark 4 Pro, Xiaomi Mi 11i, Xiaomi Mi 11X. The rest match on specs: test before swapping. Ringke ID Glass Full Cover is sold for Mi 11i, Mi 11X, Poco F3, Redmi K40, K40 Pro and K40 Pro+ as one product; Mi 11X Pro not named. Supershieldz sells one tempered glass for the Black Shark 4, Black Shark 4 Pro, Poco F3, Redmi K40, Redmi K40 Pro and Redmi K40 Pro+. PanzerGlass E2E Regular (case friendly) is sold for Redmi Note 10 Pro / 10 Pro Max / Mi 11i / Poco F3 as one product. Caliber sells one glass for the Poco F3 and Redmi Note 10 Pro (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -61996,6 +61964,10 @@
 [
 "PanzerGlass via Homescreen.pl",
 "https://homescreen.pl/en/643-poco-f3-5g"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 10 Pro / POCO F3",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-pro-poco-f3-p-126603"
 ]
 ],
 "codes": [
@@ -62045,7 +62017,7 @@
 ]
 },
 {
-"id": "XIA-1096",
+"id": "XIA-1095",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62085,6 +62057,14 @@
 [
 "Hurtel: Reinforced Full Screen Tempered Glass 3mk HardGlass Max Black for Xiaomi Redmi Note 10/10s 4G",
 "https://hurtel.com/en/products/reinforced-full-screen-tempered-glass-3mk-hardglass-max-black-for-xiaomi-redmi-note-10-10s-4g-209659"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi Note 10/Note 10S, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-10-note-10s-cerne"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 10 / Note 10S",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-note-10s-p-126601"
 ]
 ],
 "codes": [
@@ -62107,7 +62087,7 @@
 ]
 },
 {
-"id": "XIA-1097",
+"id": "XIA-1096",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62135,6 +62115,10 @@
 [
 "Homescreen.pl: Hofi Glass Pro+ POCO M3 Pro 5G/Redmi Note 10 5G Black",
 "https://homescreen.pl/en/poco-m3-pro/27038-hofi-glass-pro-poco-m3-pro-5gredmi-note-10-5g-black-6216990212222.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 10 5G / POCO M3 Pro 5G",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-p-126602"
 ]
 ],
 "codes": [
@@ -62157,7 +62141,7 @@
 ]
 },
 {
-"id": "XIA-1098",
+"id": "XIA-1097",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62182,7 +62166,7 @@
 ]
 },
 {
-"id": "XIA-1099",
+"id": "XIA-1098",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62223,7 +62207,7 @@
 ]
 },
 {
-"id": "XIA-1100",
+"id": "XIA-1099",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62248,7 +62232,7 @@
 ]
 },
 {
-"id": "XIA-1101",
+"id": "XIA-1100",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62273,7 +62257,7 @@
 ]
 },
 {
-"id": "XIA-1102",
+"id": "XIA-1101",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62301,7 +62285,7 @@
 ]
 },
 {
-"id": "XIA-1103",
+"id": "XIA-1102",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62331,7 +62315,7 @@
 ]
 },
 {
-"id": "XIA-1104",
+"id": "XIA-1103",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62361,7 +62345,7 @@
 ]
 },
 {
-"id": "XIA-1105",
+"id": "XIA-1104",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62386,7 +62370,7 @@
 ]
 },
 {
-"id": "XIA-1106",
+"id": "XIA-1105",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62411,21 +62395,23 @@
 ]
 },
 {
-"id": "XIA-1107",
+"id": "XIA-1106",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
 "Redmi 10",
-"Redmi Note 11 4G"
+"Redmi Note 11 4G",
+"Redmi 10 2022"
 ],
 "released": [
 "2021-08",
-"2021-11"
+"2021-11",
+"2022-02"
 ],
 "check": "Confirmed",
-"note": "Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11",
+"note": "Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11. PanzerGlass sells one glass for the Redmi 10 and Redmi 10 2022 (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -62439,23 +62425,30 @@
 [
 "AL5hafii mobiles-compatibility-charts 134_162x75",
 "https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 10/Redmi 10 2022",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10-redmi-10-2022-p-131357"
 ]
 ],
 "codes": [
 "21061119AG, 21061119DG, 21061119AL",
-"21121119SC"
+"21121119SC",
+"21121119SG, 22011119UY, 21121119VL"
 ],
 "screens": [
+"6.5in",
 "6.5in",
 "6.5in"
 ],
 "dims": [
 "162 x 75.5 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
 "162 x 75.5 x 8.9 mm"
 ]
 },
 {
-"id": "XIA-1108",
+"id": "XIA-1107",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62480,7 +62473,7 @@
 ]
 },
 {
-"id": "XIA-1109",
+"id": "XIA-1108",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62516,7 +62509,7 @@
 ]
 },
 {
-"id": "XIA-1110",
+"id": "XIA-1109",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62546,7 +62539,7 @@
 ]
 },
 {
-"id": "XIA-1111",
+"id": "XIA-1110",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62576,7 +62569,7 @@
 ]
 },
 {
-"id": "XIA-1112",
+"id": "XIA-1111",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62634,7 +62627,7 @@
 ]
 },
 {
-"id": "XIA-1113",
+"id": "XIA-1112",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62664,7 +62657,7 @@
 "2023-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 11 Pro+ 5G, Redmi Note 11 Pro, Redmi Note 11 Pro 5G, Redmi Note 12 Pro 4G. The rest match on specs: test before swapping. 3MK sells one glass for the Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (Homescreen.pl). Bizon Clear 2 and Edge 2 glass are sold for Redmi Note 12 Pro 4G / 11 Pro 4G / 11 Pro 5G; 3MK HardGlass lists Note 11 Pro 4G/5G. 3MK sells one hybrid glass for the Redmi Note 11 Pro and Redmi Note 11 Pro 5G (Hurtel)",
+"note": "Sellers confirm Redmi Note 11 Pro+ 5G, Redmi Note 11 Pro, Redmi Note 11 Pro 5G, Redmi Note 12 Pro 4G. The rest match on specs: test before swapping. 3MK sells one glass for the Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (Homescreen.pl). PanzerGlass sells one glass for the Redmi Note 11 Pro, Redmi Note 11 Pro 5G and Redmi Note 11 Pro+ 5G (MP.cz). PanzerGlass sells one glass for the Redmi Note 11 Pro and Redmi Note 11 Pro+ 5G (MP.cz). Bizon Clear 2 and Edge 2 glass are sold for Redmi Note 12 Pro 4G / 11 Pro 4G / 11 Pro 5G; 3MK HardGlass lists Note 11 Pro 4G/5G. 3MK sells one hybrid glass for the Redmi Note 11 Pro and Redmi Note 11 Pro 5G (Hurtel)",
 "device": "Phone",
 "sources": [
 [
@@ -62676,12 +62669,28 @@
 "https://homescreen.pl/en/redmi-note-11-pro-5g/30700-3mk-neoglass-redmi-note-11-pro-5gpro-5g-black-5903108449021.html"
 ],
 [
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Xiaomi Redmi Note 11 Pro/11 Pro 5G/11 Pro+ 5G",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-note-11-pro-11-pro-5g-11-pro-5g-p-168351"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 11 Pro/11 Pro Plus",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-11-pro-11-pro-plus-p-136918"
+],
+[
 "Bizon/3MK via Homescreen.pl",
 "https://homescreen.pl/en/806-redmi-note-11-pro-lte5g"
 ],
 [
 "Hurtel: 3mk FlexibleGlass\u2122 Hybrid Glass for Xiaomi Redmi Note 11 Pro 4G / 5G",
 "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-for-xiaomi-redmi-note-11-pro-4g-5g-89448"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Redmi Note 11 Pro/Note 11 Pro 5G, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-note-11-pro-note-11-pro-5g-cire"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 11 Pro/Note 11 Pro 5G",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-11-pro-note-11-pro-5g-p-140994"
 ]
 ],
 "codes": [
@@ -62722,7 +62731,7 @@
 ]
 },
 {
-"id": "XIA-1114",
+"id": "XIA-1113",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62770,7 +62779,7 @@
 ]
 },
 {
-"id": "XIA-1115",
+"id": "XIA-1114",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62806,6 +62815,10 @@
 [
 "Hurtel: 3mk HardGlass Max Black Tempered Glass for Xiaomi 12 Pro / 13 Pro",
 "https://hurtel.com/en/products/3mk-hardglass-max-black-tempered-glass-for-xiaomi-12-pro-13-pro-169862"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi 12 Pro/13 Pro",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-12-pro-13-pro-p-137537"
 ]
 ],
 "codes": [
@@ -62828,7 +62841,7 @@
 ]
 },
 {
-"id": "XIA-1116",
+"id": "XIA-1115",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62846,7 +62859,7 @@
 "2023-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 11, Redmi Note 11S. The rest match on specs: test before swapping. Bizon Glass Edge is sold for Redmi Note 11 / 11S as one product; Poco M4 Pro and Note 12S not confirmed",
+"note": "Sellers confirm Redmi Note 11, Redmi Note 11S, Redmi Note 12S. The rest match on specs: test before swapping. Bizon Glass Edge is sold for Redmi Note 11 / 11S as one product; Poco M4 Pro and Note 12S not confirmed. PanzerGlass sells one glass for the Redmi Note 11, Redmi Note 11S and Redmi Note 12S (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -62860,6 +62873,18 @@
 [
 "Homescreen.pl: Bizon Glass Edge Redmi Note 11 / 11s black",
 "https://homescreen.pl/en/redmi-note-1111s/95059-bizon-glass-edge-redmi-note-11-11s-black-5904665399538.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 11/Note 11S",
+"https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-11-note-11s-p-140993"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Xiaomi Redmi Note 11/11S",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-note-11-11s-p-168350"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 12S/11/11S",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12s-11-11s-p-141134"
 ]
 ],
 "codes": [
@@ -62882,38 +62907,7 @@
 ]
 },
 {
-"id": "XIA-1117",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi 10 2022"
-],
-"released": [
-"2022-02"
-],
-"check": "Confirmed",
-"note": "3MK HardGlass Max Lite is sold for Redmi 10 2022 alone",
-"device": "Phone",
-"sources": [
-[
-"3MK via Homescreen.pl",
-"https://homescreen.pl/en/1044-redmi-10-series"
-]
-],
-"codes": [
-"21121119SG, 22011119UY, 21121119VL"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"162 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "XIA-1118",
+"id": "XIA-1116",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62949,7 +62943,7 @@
 ]
 },
 {
-"id": "XIA-1119",
+"id": "XIA-1117",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63010,7 +63004,7 @@
 ]
 },
 {
-"id": "XIA-1120",
+"id": "XIA-1118",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63019,16 +63013,20 @@
 "Redmi 10C",
 "Redmi 10 (India)",
 "Redmi 10 Power",
-"Poco C40"
+"Poco C40",
+"Redmi 12C",
+"Poco C55"
 ],
 "released": [
 "2022-03",
 "2022-03",
 "2022-04",
-"2022-06"
+"2022-06",
+"2022-12",
+"2023-02"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 10C, Redmi 10 Power, Poco C40. The rest match on specs: test before swapping. 3MK, Evelatus, connect and nemo each sell one glass for the Redmi 10C and Poco C40. MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product",
+"note": "Sellers confirm Redmi 10C, Redmi 10 Power, Poco C40, Redmi 12C, Poco C55. The rest match on specs: test before swapping. 3MK, Evelatus, connect and nemo each sell one glass for the Redmi 10C and Poco C40. MyScreen Diamond Glass is sold for Redmi 10C / 10 Power as one product. PanzerGlass sells one glass for the Redmi 10C and Redmi 12C (MP.cz). Hurtel and Elkj\u00f8p each sell one glass for the Redmi 12C and Poco C55 (also the Redmi 11A)",
 "device": "Phone",
 "sources": [
 [
@@ -63050,29 +63048,51 @@
 [
 "Homescreen.pl: Tempered glass MyScreen Diamond Glass Edge Full Glue Xiaomi Redmi 10C / 10 Power black",
 "https://homescreen.pl/en/redmi-10/80198-tempered-glass-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-10c-10-power-black-5904433209892.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo SAFE. by PanzerGlass, Xiaomi Redmi 10C/12C",
+"https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-10c-12c-p-168353"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 10C/12C",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10c-12c-p-144944"
+],
+[
+"Proshop: Hurtel tempered glass for Xiaomi Redmi 11A / Poco C55 / Redmi 12C",
+"https://www.proshop.dk/Mobil-Beskyttelsesglas/Hurtel-Standard-Tempered-Glass-Envelope-Tempered-Glass-for-Xiaomi-Redmi-11A-Poco-C55-Redmi-12C-9H/3466369"
+],
+[
+"Elkj\u00f8p: Xiaomi Redmi 11A / Redmi 12C / Poco C55 screen protector",
+"https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/xiaomi-redmi-11a-redmi-12c-poco-c55-skjermbeskytter/718802"
 ]
 ],
 "codes": [
 "220333QAG, 220333QBI, 220333QNY, 220333QL",
 "220333QAG",
 "",
-"220333QPG"
+"220333QPG",
+"22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
+"22127PC95I"
 ],
 "screens": [
 "6.71in",
 "6.7in",
 "6.7in",
+"6.71in",
+"6.71in",
 "6.71in"
 ],
 "dims": [
 "169.6 x 76.6 x 8.3 mm",
 "169.6 x 76.6 x 9.1 mm",
 "169.6 x 76.6 x 9.1 mm",
-"169.6 x 76.6 x 9.2 mm"
+"169.6 x 76.6 x 9.2 mm",
+"168.8 x 76.4 x 8.8 mm",
+"168.8 x 76.4 x 8.8 mm"
 ]
 },
 {
-"id": "XIA-1121",
+"id": "XIA-1119",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63102,7 +63122,7 @@
 ]
 },
 {
-"id": "XIA-1122",
+"id": "XIA-1120",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63147,7 +63167,7 @@
 ]
 },
 {
-"id": "XIA-1123",
+"id": "XIA-1121",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63172,7 +63192,7 @@
 ]
 },
 {
-"id": "XIA-1124",
+"id": "XIA-1122",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63197,7 +63217,7 @@
 ]
 },
 {
-"id": "XIA-1125",
+"id": "XIA-1123",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63227,7 +63247,7 @@
 ]
 },
 {
-"id": "XIA-1126",
+"id": "XIA-1124",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63252,7 +63272,7 @@
 ]
 },
 {
-"id": "XIA-1127",
+"id": "XIA-1125",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63297,7 +63317,7 @@
 ]
 },
 {
-"id": "XIA-1128",
+"id": "XIA-1126",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63322,7 +63342,7 @@
 ]
 },
 {
-"id": "XIA-1129",
+"id": "XIA-1127",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63353,7 +63373,7 @@
 ]
 },
 {
-"id": "XIA-1130",
+"id": "XIA-1128",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63381,7 +63401,7 @@
 ]
 },
 {
-"id": "XIA-1131",
+"id": "XIA-1129",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63434,7 +63454,7 @@
 ]
 },
 {
-"id": "XIA-1132",
+"id": "XIA-1130",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63498,7 +63518,7 @@
 ]
 },
 {
-"id": "XIA-1133",
+"id": "XIA-1131",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63528,7 +63548,7 @@
 ]
 },
 {
-"id": "XIA-1134",
+"id": "XIA-1132",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63587,43 +63607,61 @@
 ]
 },
 {
-"id": "XIA-1135",
+"id": "XIA-1133",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
 ],
 "models": [
 "Redmi Note 12 Pro",
-"Redmi Note 12 Pro+"
+"Redmi Note 12 Pro+",
+"Redmi Note 12 Pro Speed",
+"Poco X5 Pro"
 ],
 "released": [
 "2022-10",
-"2022-10"
+"2022-10",
+"2022-12",
+"2023-02"
 ],
-"check": "Confirmed",
-"note": "Bizon Clear 2 and Clear Duo glass are each sold for Redmi Note 12 Pro 5G / 12 Pro+ 5G",
+"check": "Check",
+"note": "Sellers confirm Redmi Note 12 Pro, Redmi Note 12 Pro+, Poco X5 Pro. The rest match on specs: test before swapping. Bizon Clear 2 and Clear Duo glass are each sold for Redmi Note 12 Pro 5G / 12 Pro+ 5G. PanzerGlass sells one glass for the Poco X5 Pro, Redmi Note 12 Pro and Redmi Note 12 Pro+ (MP.cz). MyScreen Diamond Glass Edge Lite is sold for Poco X5 Pro 5G / X5 5G as one product; only one brand seen and cases differ, so test first",
 "device": "Phone",
 "sources": [
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/860-redmi-note-12-series"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 12 Pro 5G/12 Pro+ 5G/POCO X5 Pro 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12-pro-5g-12-pro-5g-poco-x5-pro-5g-p-161890"
+],
+[
+"MyScreen via Homescreen.pl",
+"https://homescreen.pl/en/880-poco-x5-pro-5g"
 ]
 ],
 "codes": [
 "22101316C, 22101316I, 23013RK75C, 22101316G",
-"22101316UCP, 22101316UG"
+"22101316UCP, 22101316UG",
+"22101320C",
+"22101320G, 22101320I"
 ],
 "screens": [
+"6.67in",
+"6.67in",
 "6.67in",
 "6.67in"
 ],
 "dims": [
 "163 x 76 x 8 mm",
-"162.9 x 76 x 8.9 mm"
+"162.9 x 76 x 8.9 mm",
+"162.9 x 76 x 7.9 mm",
+"162.9 x 76 x 7.9 mm"
 ]
 },
 {
-"id": "XIA-1136",
+"id": "XIA-1134",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63648,47 +63686,7 @@
 ]
 },
 {
-"id": "XIA-1137",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi 12C",
-"Poco C55"
-],
-"released": [
-"2022-12",
-"2023-02"
-],
-"check": "Confirmed",
-"note": "Hurtel and Elkj\u00f8p each sell one glass for the Redmi 12C and Poco C55 (also the Redmi 11A)",
-"device": "Phone",
-"sources": [
-[
-"Proshop: Hurtel tempered glass for Xiaomi Redmi 11A / Poco C55 / Redmi 12C",
-"https://www.proshop.dk/Mobil-Beskyttelsesglas/Hurtel-Standard-Tempered-Glass-Envelope-Tempered-Glass-for-Xiaomi-Redmi-11A-Poco-C55-Redmi-12C-9H/3466369"
-],
-[
-"Elkj\u00f8p: Xiaomi Redmi 11A / Redmi 12C / Poco C55 screen protector",
-"https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/xiaomi-redmi-11a-redmi-12c-poco-c55-skjermbeskytter/718802"
-]
-],
-"codes": [
-"22120RN86G, 22120RN86I, 22126RN91Y, 2212ARNC4L",
-"22127PC95I"
-],
-"screens": [
-"6.71in",
-"6.71in"
-],
-"dims": [
-"168.8 x 76.4 x 8.8 mm",
-"168.8 x 76.4 x 8.8 mm"
-]
-},
-{
-"id": "XIA-1138",
+"id": "XIA-1135",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63751,43 +63749,7 @@
 ]
 },
 {
-"id": "XIA-1139",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi Note 12 Pro Speed",
-"Poco X5 Pro"
-],
-"released": [
-"2022-12",
-"2023-02"
-],
-"check": "Check",
-"note": "MyScreen Diamond Glass Edge Lite is sold for Poco X5 Pro 5G / X5 5G as one product; only one brand seen and cases differ, so test first. Same body size and screen specs: test before swapping",
-"device": "Phone",
-"sources": [
-[
-"MyScreen via Homescreen.pl",
-"https://homescreen.pl/en/880-poco-x5-pro-5g"
-]
-],
-"codes": [
-"22101320C",
-"22101320G, 22101320I"
-],
-"screens": [
-"6.67in",
-"6.67in"
-],
-"dims": [
-"162.9 x 76 x 7.9 mm",
-"162.9 x 76 x 7.9 mm"
-]
-},
-{
-"id": "XIA-1140",
+"id": "XIA-1136",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63839,7 +63801,7 @@
 ]
 },
 {
-"id": "XIA-1141",
+"id": "XIA-1137",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63864,7 +63826,7 @@
 ]
 },
 {
-"id": "XIA-1142",
+"id": "XIA-1138",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63889,7 +63851,7 @@
 ]
 },
 {
-"id": "XIA-1143",
+"id": "XIA-1139",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63919,7 +63881,7 @@
 "2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi 12, Redmi 12 5G, Redmi 13, Redmi 13 5G, Poco M6 Plus. The rest match on specs: test before swapping. The AL5hafii chart groups all four at 168.6 x 76.3 mm, CEDO lists all four on one glass, and Displex and Eitansha glasses cover the Redmi 12 / 12 5G / 13 5G subset. MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product. 3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product",
+"note": "Sellers confirm Redmi 12, Redmi 12 5G, Redmi 13, Redmi 13 5G, Poco M6 Plus. The rest match on specs: test before swapping. The AL5hafii chart groups all four at 168.6 x 76.3 mm, CEDO lists all four on one glass, and Displex and Eitansha glasses cover the Redmi 12 / 12 5G / 13 5G subset. MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product. FIXED sells one glass for the Redmi 12, Redmi 12 5G and Redmi 13 (FIXED). 3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product",
 "device": "Phone",
 "sources": [
 [
@@ -63949,6 +63911,14 @@
 [
 "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi 12 5G / 4G / 12R black",
 "https://homescreen.pl/en/redmi-12-series/67280-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-12-5g-4g-12r-black-5904433225311.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 12/12 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-12-12-5g-p-179485"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi 12 4G/5G/13 4G/Poco M6/M6 Plus 5,\u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-12-4g-5g-13-4g-poco-m6-m6-plus-5-cerne"
 ],
 [
 "3MK via Homescreen.pl",
@@ -63997,7 +63967,7 @@
 ]
 },
 {
-"id": "XIA-1144",
+"id": "XIA-1140",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64019,7 +63989,7 @@
 ]
 },
 {
-"id": "XIA-1145",
+"id": "XIA-1141",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64047,7 +64017,7 @@
 ]
 },
 {
-"id": "XIA-1146",
+"id": "XIA-1142",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64081,6 +64051,14 @@
 [
 "Hurtel: Xiaomi 13T/13T Pro - 3mk FlexibleGlass\u2122",
 "https://hurtel.com/en/products/xiaomi-13t-13t-pro-3mk-flexibleglass-tm-155674"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi 13T/13T Pro, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-13t-13t-pro-cerne"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi 13T/13T Pro",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-13t-13t-pro-p-183325"
 ]
 ],
 "codes": [
@@ -64100,7 +64078,7 @@
 ]
 },
 {
-"id": "XIA-1147",
+"id": "XIA-1143",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64130,7 +64108,7 @@
 "2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
+"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
 "device": "Phone",
 "sources": [
 [
@@ -64150,12 +64128,20 @@
 "https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit"
 ],
 [
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 13 Pro 5G/POCO X6 5G/X6 Pro 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-x6-pro-5g-p-198832"
+],
+[
 "Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi POCO X6 / Redmi Note 13 5G / 13 Pro 4G/5G / POCO M6 Pro 4G",
 "https://homescreen.pl/en/poco-x6-5g/132603-bizon-smart-25d-glass-xiaomi-poco-x6-redmi-note-13-5g-13-pro-4g5g-poco-m6-pro-4g-5900415734246.html"
 ],
 [
 "Homescreen.pl: Bizon Glass Edge Duo Xiaomi POCO X6 / M6 Pro 4G / Redmi Note 13 5G / 13 Pro 4G / 5G black frame [2 PACK]",
 "https://homescreen.pl/en/poco-x6-5g/120236-bizon-glass-edge-duo-xiaomi-poco-x6-m6-pro-4g-redmi-note-13-5g-13-pro-4g-5g-black-frame-2-pack-5900415720003.html"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi Note 13 Pro 5G/POCO X6 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-cerne"
 ],
 [
 "Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
@@ -64216,7 +64202,7 @@
 ]
 },
 {
-"id": "XIA-1148",
+"id": "XIA-1144",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64226,6 +64212,7 @@
 "Redmi Note 14 Pro 5G",
 "Redmi Note 14 Pro+ 5G",
 "Redmi Note 14 Pro+ 5G (India)",
+"Redmi Note 14 Pro",
 "Poco X7",
 "Redmi Note 14 Pro 4G"
 ],
@@ -64235,10 +64222,11 @@
 "2024-09",
 "2024-09",
 "2025-01",
+"2025-01",
 "2025-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+. 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass",
+"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+. PanzerGlass sells one glass for the Redmi Note 13 Pro+, Redmi Note 14 Pro and Redmi Note 14 Pro+ 5G (MP.cz). 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass. PanzerGlass sells one glass for the Redmi Note 14 Pro, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -64258,12 +64246,20 @@
 "https://multitronic.fi/en/products/4605325/panzerglass-safe-ultra-wide-fit-alignerkit-xiaomi-redmi-note-14-pro---note-14-pro----note-13-pro----skarmskydd"
 ],
 [
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 13 Pro+ 5G/14 Pro/14 Pro+ 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-13-pro-5g-14-pro-14-pro-5g-p-198850"
+],
+[
 "3MK via Homescreen.pl",
 "https://homescreen.pl/en/1342-redmi-note-14-series"
 ],
 [
 "Homescreen.pl: 3MK HardGlass Max Redmi Note 14 Pro 4G / 5G / Pro+ Plus black",
 "https://homescreen.pl/en/redmi-note-14-pro/148542-3mk-hardglass-max-redmi-note-14-pro-4g-5g-pro-plus-black-5903108756044.html"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 14 Pro/14 Pro 5G/14 Pro+ 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-14-pro-14-pro-5g-14-pro-5g-p-268108"
 ]
 ],
 "codes": [
@@ -64271,10 +64267,12 @@
 "24090RA29G",
 "24115RA8EG",
 "24115RA8EC, 24115RA8EI",
+"",
 "24095PCADG",
 "24116RACCG"
 ],
 "screens": [
+"6.67in",
 "6.67in",
 "6.67in",
 "6.67in",
@@ -64287,6 +64285,7 @@
 "162.3 x 74.4 x 8.4 mm",
 "162.5 x 74.7 x 8.8 mm",
 "162.5 x 74.7 x 8.8 mm",
+"162.16 x 74.92 x 8.24 mm",
 "162.3 x 74.4 x 8.4 mm",
 "162.2 x 74.9 x 8.2 mm"
 ],
@@ -64296,7 +64295,7 @@
 ]
 },
 {
-"id": "XIA-1149",
+"id": "XIA-1145",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64340,7 +64339,7 @@
 ]
 },
 {
-"id": "XIA-1150",
+"id": "XIA-1146",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64360,7 +64359,7 @@
 "2023-12"
 ],
 "check": "Check",
-"note": "Sellers confirm Poco C65, Redmi 13C, Redmi 13C 5G. The rest match on specs: test before swapping. 3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed. 3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl)",
+"note": "Sellers confirm Poco C65, Redmi 13C, Redmi 13C 5G, Poco M6. The rest match on specs: test before swapping. 3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed. 3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl). FIXED sells one glass for the Poco C65, Poco M6, Redmi 13C and Redmi 13C 5G (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -64394,6 +64393,18 @@
 [
 "Hurtel: 9H 3mk HardGlass\u2122 Glass for Redmi 13C / Poco C65",
 "https://hurtel.com/en/products/9h-3mk-hardglass-tm-glass-for-redmi-13c-poco-c65-158100"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 13C/POCO C65",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-13c-poco-c65-p-196818"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi 13C/13C 5G/POCO C65/POCO M6 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-13c-13c-5g-poco-c65-poco-m6-5g-cerne"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Redmi 13C/13C 5G/POCO C65/POCO M6 5G, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-13c-13c-5g-poco-c65-poco-m6-5g-cire"
 ]
 ],
 "codes": [
@@ -64419,7 +64430,7 @@
 ]
 },
 {
-"id": "XIA-1151",
+"id": "XIA-1147",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64449,7 +64460,7 @@
 ]
 },
 {
-"id": "XIA-1152",
+"id": "XIA-1148",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64484,7 +64495,7 @@
 ]
 },
 {
-"id": "XIA-1153",
+"id": "XIA-1149",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64515,7 +64526,7 @@
 ]
 },
 {
-"id": "XIA-1154",
+"id": "XIA-1150",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64564,7 +64575,7 @@
 ]
 },
 {
-"id": "XIA-1155",
+"id": "XIA-1151",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64594,7 +64605,7 @@
 ]
 },
 {
-"id": "XIA-1156",
+"id": "XIA-1152",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64638,7 +64649,7 @@
 ]
 },
 {
-"id": "XIA-1157",
+"id": "XIA-1153",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64663,7 +64674,7 @@
 ]
 },
 {
-"id": "XIA-1158",
+"id": "XIA-1154",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64701,6 +64712,14 @@
 [
 "Hurtel: Tempered glass 9H 3mk HardGlass\u2122 for Xiaomi 14T / 14T Pro",
 "https://hurtel.com/en/products/tempered-glass-9h-3mk-hardglass-tm-for-xiaomi-14t-14t-pro-182789"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi 14T/14T Pro, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-14t-14t-pro-cerne"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi 14T/14T Pro",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-14t-14t-pro-p-246278"
 ]
 ],
 "codes": [
@@ -64720,7 +64739,7 @@
 ]
 },
 {
-"id": "XIA-1159",
+"id": "XIA-1155",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64748,7 +64767,7 @@
 ]
 },
 {
-"id": "XIA-1160",
+"id": "XIA-1156",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64800,6 +64819,14 @@
 "https://aio.lv/en/product--3mk-5903108750653--12473411.md"
 ],
 [
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi 14C/A4 5G/A3 Pro/POCO C75 4G/5G/M7 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-14c-a4-5g-a3-pro-poco-c75-4g-5g-cerne"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Redmi 14C/A4 5G/A3 Pro/POCO C75 4G/5G/M7 5G, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-14c-a4-5g-a3-pro-poco-c75-4g-5g-cire"
+],
+[
 "MyScreen via Homescreen.pl",
 "https://homescreen.pl/en/redmi-14c/139709-myscreen-diamond-glass-edge-full-glue-xiaomi-redmi-14c-14r-5g-a4-5g-black-5904433241199.html"
 ],
@@ -64822,6 +64849,10 @@
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/1353-poco-c75"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 14C/POCO C75",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-14c-poco-c75-p-248008"
 ],
 [
 "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Redmi 14C / 14R 5G black",
@@ -64913,7 +64944,7 @@
 ]
 },
 {
-"id": "XIA-1161",
+"id": "XIA-1157",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64935,7 +64966,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 14 5G, Poco M7 Pro 5G, Redmi Note 14, Redmi Note 14 4G. The rest match on specs: test before swapping. Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G. MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl). Bizon sells one glass for the Poco M7 Pro 5G and Redmi Note 14 (Homescreen.pl)",
+"note": "Sellers confirm Redmi Note 14 5G, Poco M7 Pro 5G, Redmi Note 14, Redmi Note 14 4G. The rest match on specs: test before swapping. Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G. MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl). FIXED sells one glass for the Poco M7 Pro 5G and Redmi Note 14 5G (FIXED). Bizon sells one glass for the Poco M7 Pro 5G and Redmi Note 14 (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -64961,6 +64992,14 @@
 [
 "Hurtel: Tech-Protect Glass Fit +2-Pack Tempered Glass for Xiaomi Redmi Note 14 4G / 5G - Black",
 "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-xiaomi-redmi-note-14-4g-5g-black-189076"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Xiaomi Redmi Note 14 5G/POCO M7 Pro 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-14-5g-poco-m7-pro-5g-cerne"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Redmi Note 14 5G/POCO M7 Pro 5G, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-redmi-note-14-5g-poco-m7-pro-5g-cire"
 ],
 [
 "Homescreen.pl: Bizon Smart Glass 2.5D Xiaomi Redmi Note 14 / POCO M7 Pro 5G",
@@ -64993,7 +65032,7 @@
 ]
 },
 {
-"id": "XIA-1162",
+"id": "XIA-1158",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65021,7 +65060,7 @@
 ]
 },
 {
-"id": "XIA-1163",
+"id": "XIA-1159",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65055,7 +65094,7 @@
 ]
 },
 {
-"id": "XIA-1164",
+"id": "XIA-1160",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65103,7 +65142,7 @@
 ]
 },
 {
-"id": "XIA-1165",
+"id": "XIA-1161",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65172,29 +65211,7 @@
 ]
 },
 {
-"id": "XIA-1166",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
-"Redmi Note 14 Pro"
-],
-"released": [
-"2025-01"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.67in"
-],
-"dims": [
-"162.16 x 74.92 x 8.24 mm"
-]
-},
-{
-"id": "XIA-1167",
+"id": "XIA-1162",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65219,7 +65236,7 @@
 ]
 },
 {
-"id": "XIA-1168",
+"id": "XIA-1163",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65267,7 +65284,7 @@
 ]
 },
 {
-"id": "XIA-1169",
+"id": "XIA-1164",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65289,7 +65306,7 @@
 ]
 },
 {
-"id": "XIA-1170",
+"id": "XIA-1165",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65317,7 +65334,7 @@
 ]
 },
 {
-"id": "XIA-1171",
+"id": "XIA-1166",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65342,7 +65359,7 @@
 ]
 },
 {
-"id": "XIA-1172",
+"id": "XIA-1167",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65378,7 +65395,7 @@
 ]
 },
 {
-"id": "XIA-1173",
+"id": "XIA-1168",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65400,7 +65417,7 @@
 ]
 },
 {
-"id": "XIA-1174",
+"id": "XIA-1169",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65440,7 +65457,7 @@
 ]
 },
 {
-"id": "XIA-1175",
+"id": "XIA-1170",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65485,7 +65502,7 @@
 ]
 },
 {
-"id": "XIA-1176",
+"id": "XIA-1171",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65534,7 +65551,7 @@
 ]
 },
 {
-"id": "XIA-1177",
+"id": "XIA-1172",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65559,7 +65576,7 @@
 ]
 },
 {
-"id": "XIA-1178",
+"id": "XIA-1173",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65607,7 +65624,7 @@
 ]
 },
 {
-"id": "XIA-1179",
+"id": "XIA-1174",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65629,7 +65646,7 @@
 ]
 },
 {
-"id": "XIA-1180",
+"id": "XIA-1175",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65651,7 +65668,7 @@
 ]
 },
 {
-"id": "XIA-1181",
+"id": "XIA-1176",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65673,7 +65690,7 @@
 ]
 },
 {
-"id": "XIA-1182",
+"id": "XIA-1177",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65713,7 +65730,7 @@
 ]
 },
 {
-"id": "XIA-1183",
+"id": "XIA-1178",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65749,7 +65766,7 @@
 ]
 },
 {
-"id": "XIA-1184",
+"id": "XIA-1179",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65800,7 +65817,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1180",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65856,7 +65873,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1181",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65889,7 +65906,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65922,7 +65939,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65967,7 +65984,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65989,7 +66006,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66014,7 +66031,7 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66042,7 +66059,7 @@
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66091,7 +66108,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66161,7 +66178,7 @@
 ]
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66192,7 +66209,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66214,7 +66231,7 @@
 ]
 },
 {
-"id": "XIA-1196",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66239,7 +66256,7 @@
 ]
 },
 {
-"id": "XIA-1197",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66261,7 +66278,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66289,7 +66306,7 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66320,7 +66337,7 @@
 ]
 },
 {
-"id": "XIA-1200",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66351,7 +66368,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66367,7 +66384,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66392,7 +66409,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66420,7 +66437,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66448,7 +66465,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66476,7 +66493,7 @@
 ]
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66498,7 +66515,7 @@
 ]
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66520,7 +66537,7 @@
 ]
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66542,7 +66559,7 @@
 ]
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66564,7 +66581,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66586,7 +66603,7 @@
 ]
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66614,7 +66631,7 @@
 ]
 },
 {
-"id": "XIA-1212",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66642,7 +66659,7 @@
 ]
 },
 {
-"id": "XIA-1213",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66661,7 +66678,7 @@
 ]
 },
 {
-"id": "XIA-1214",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66683,7 +66700,7 @@
 ]
 },
 {
-"id": "XIA-1215",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66699,7 +66716,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1216",
+"id": "XIA-1211",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66721,7 +66738,7 @@
 ]
 },
 {
-"id": "XIA-1217",
+"id": "XIA-1212",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66743,7 +66760,7 @@
 ]
 },
 {
-"id": "XIA-1218",
+"id": "XIA-1213",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66765,7 +66782,7 @@
 ]
 },
 {
-"id": "XIA-1219",
+"id": "XIA-1214",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67083,24 +67100,38 @@
 "Redmi Pad Pro",
 "Poco Pad",
 "Redmi Pad Pro 5G",
-"Poco Pad 5G"
+"Poco Pad 5G",
+"Poco Pad M1",
+"Redmi Pad 2 Pro"
 ],
 "released": [
 "2024-04",
 "2024-05",
 "2024-05",
-"2024-08"
+"2024-08",
+"2025-06",
+"2025-07"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Redmi Pad Pro, Poco Pad, Redmi Pad 2 Pro. The rest match on specs: test before swapping. FIXED sells one glass for the Poco Pad, Redmi Pad 2 Pro and Redmi Pad Pro (FIXED)",
 "device": "Tablet",
+"sources": [
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo pro Xiaomi Redmi Pad 2 Pro/Pad Pro/POCO Pad, \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-pro-xiaomi-redmi-pad-2-pro-pad-pro-poco-pad-cire"
+]
+],
 "codes": [
 "",
 "2405CPCFBG",
 "24074RPD2G, 24074RPD2I, 24074RPD2C",
-""
+"",
+"2509ARPBDG",
+"25099RP13G, 2509BRP2DG"
 ],
 "screens": [
+"12.1in",
+"12.1in",
 "12.1in",
 "12.1in",
 "12.1in",
@@ -67110,7 +67141,9 @@
 "280 x 181.9 x 7.5 mm",
 "280 x 181.9 x 7.5 mm",
 "280 x 181.9 x 7.5 mm",
-"280 x 181.9 x 7.5 mm"
+"280 x 181.9 x 7.5 mm",
+"279.8 x 181.7 x 7.5 mm",
+"279.8 x 181.7 x 7.5 mm"
 ]
 },
 {
@@ -67173,6 +67206,10 @@
 [
 "JETech 2-pack at Desertcart (Pad 8 / Pad 7)",
 "https://www.desertcart.ae/products/686823189-2-pack-screen-protector-for-xiaomi-pad-8-pad-7"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Pad 8/8Pro/7/7Pro , \u010dir\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-pad-7-7pro-cire"
 ],
 [
 "Homescreen.pl: Tech-Protect Glass Fit+ Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro 11.2 Clear [2 PACK]",
@@ -67319,36 +67356,6 @@
 "XIA"
 ],
 "models": [
-"Poco Pad M1",
-"Redmi Pad 2 Pro"
-],
-"released": [
-"2025-06",
-"2025-07"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Tablet",
-"codes": [
-"2509ARPBDG",
-"25099RP13G, 2509BRP2DG"
-],
-"screens": [
-"12.1in",
-"12.1in"
-],
-"dims": [
-"279.8 x 181.7 x 7.5 mm",
-"279.8 x 181.7 x 7.5 mm"
-]
-},
-{
-"id": "XIA-2020",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Xiaomi Pad 7S Pro 12.5"
 ],
 "released": [
@@ -67365,7 +67372,7 @@
 ]
 },
 {
-"id": "XIA-2021",
+"id": "XIA-2020",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67384,7 +67391,7 @@
 ]
 },
 {
-"id": "XIA-2022",
+"id": "XIA-2021",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67403,7 +67410,7 @@
 ]
 },
 {
-"id": "XIA-2023",
+"id": "XIA-2022",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67422,7 +67429,7 @@
 ]
 },
 {
-"id": "XIA-2024",
+"id": "XIA-2023",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67444,7 +67451,7 @@
 ]
 },
 {
-"id": "XIA-2025",
+"id": "XIA-2024",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67466,7 +67473,7 @@
 ]
 },
 {
-"id": "XIA-2026",
+"id": "XIA-2025",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67492,7 +67499,7 @@
 ]
 },
 {
-"id": "XIA-2027",
+"id": "XIA-2026",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67508,7 +67515,7 @@
 "device": "Tablet"
 },
 {
-"id": "XIA-2028",
+"id": "XIA-2027",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67530,7 +67537,7 @@
 ]
 },
 {
-"id": "XIA-2029",
+"id": "XIA-2028",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -78494,7 +78501,7 @@
 "2022-07"
 ],
 "check": "Check",
-"note": "Sellers confirm vivo Y21 (2021), vivo Y33s, vivo Y21s, vivo Y21a, vivo Y21e, vivo Y21t (India), vivo Y33t, vivo Y21G, vivo T1x (India). The rest match on specs: test before swapping. Two Flipkart sellers (Gorilla Glass, Dream) list Y21 and Y21G on one glass. Flipkart's own SmartBuy brand, XYNITY and SPRITZEN list Y21, Y21s, Y21a, Y21e, Y21t, Y33s and Y33t on one glass; Ten To 11 and Vatsin add Y21G and T1x. Merges the Y21 and Y33s groups",
+"note": "Sellers confirm vivo Y21 (2021), vivo Y33s, vivo Y21s, vivo Y21a, vivo Y21e, vivo Y21t (India), vivo Y33t, vivo Y21G, vivo T1x (India). The rest match on specs: test before swapping. Two Flipkart sellers (Gorilla Glass, Dream) list Y21 and Y21G on one glass. Flipkart's own SmartBuy brand, XYNITY and SPRITZEN list Y21, Y21s, Y21a, Y21e, Y21t, Y33s and Y33t on one glass; Ten To 11 and Vatsin add Y21G and T1x. Merges the Y21 and Y33s groups. FIXED sells one glass for the vivo Y21s and vivo Y33s (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -78524,6 +78531,10 @@
 [
 "Flipkart (Vatsin)",
 "https://www.flipkart.com/vatsin-edge-tempered-glass-vivo-y33s-y33t-y21-y21e-y21t-y21g-y21a-t1x/p/itm90f5463249197?pid=ACCGHP73BKY3HJCK"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Vivo Y33s/ Y21s/ Y21, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y33s-y21s-y21-cerne"
 ]
 ],
 "codes": [
@@ -81323,7 +81334,7 @@
 "2025-10"
 ],
 "check": "Check",
-"note": "Sellers confirm vivo iQOO Z9x, vivo T3x, vivo Y58, vivo Y29, vivo T4x, vivo Y39, vivo iQOO Z10x, vivo Y31, vivo Y31 Pro. The rest match on specs: test before swapping. Flipkart sellers XEDO TECH, KXEDOX, MD SHILD and mobinix sell one glass across Y58, T3x, T4x and Y39 (MD SHILD and mobinix add Y29 5G). Many pair T3x with iQOO Z9x and T4x with iQOO Z10x. Flipkart sellers TUFZ and MOBINIX pair Y31 5G with Y31 Pro 5G; Movafo and Vatsin list both with T4x, Y39, T3x and Y58; CEDO XPRO pairs Y31 Pro with T4x. Indian 2025 Y31",
+"note": "Sellers confirm vivo iQOO Z9x, vivo T3x, vivo Y58, vivo Y19s 4G, vivo Y29, vivo T4x, vivo Y39, vivo iQOO Z10x, vivo Y31, vivo Y31 Pro. The rest match on specs: test before swapping. Flipkart sellers XEDO TECH, KXEDOX, MD SHILD and mobinix sell one glass across Y58, T3x, T4x and Y39 (MD SHILD and mobinix add Y29 5G). Many pair T3x with iQOO Z9x and T4x with iQOO Z10x. Flipkart sellers TUFZ and MOBINIX pair Y31 5G with Y31 Pro 5G; Movafo and Vatsin list both with T4x, Y39, T3x and Y58; CEDO XPRO pairs Y31 Pro with T4x. Indian 2025 Y31. FIXED sells one glass for the vivo Y19s 4G and vivo Y29 (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -81381,6 +81392,10 @@
 [
 "Flipkart (MOBINIX OG)",
 "https://www.flipkart.com/mobinix-og-edge-tempered-glass-vivo-y31-5g-pro-5g/p/itm4246132a5cb8f?pid=ACCHT4DVHBCTZRVR"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Vivo Y19S 4G/Y29 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y19s-4g-cerne"
 ]
 ],
 "codes": [
@@ -82305,7 +82320,7 @@
 "2025-11"
 ],
 "check": "Check",
-"note": "Sellers confirm vivo Y04, vivo Y29s, vivo Y19, vivo iQOO Z10 Lite, vivo T4 Lite. The rest match on specs: test before swapping. Flipkart sellers ADITI Designs and AIBEX list T4 Lite, Y04 and Y29s together; DEVWORLD adds Y19 and iQOO Z10 Lite; many pair T4 Lite with iQOO Z10 Lite",
+"note": "Sellers confirm vivo Y04, vivo Y29s, vivo Y19, vivo iQOO Z10 Lite, vivo T4 Lite. The rest match on specs: test before swapping. Flipkart sellers ADITI Designs and AIBEX list T4 Lite, Y04 and Y29s together; DEVWORLD adds Y19 and iQOO Z10 Lite; many pair T4 Lite with iQOO Z10 Lite. FIXED sells one glass for the vivo Y04 and vivo Y29s (FIXED)",
 "device": "Phone",
 "sources": [
 [
@@ -82331,6 +82346,10 @@
 [
 "Flipkart (FIRST MART)",
 "https://www.flipkart.com/first-mart-edge-tempered-glass-vivo-t4-lite-5g-lite-iqoo-z10-5g/p/itm52cea6982db8c?pid=ACCHDHPSYSHTKZYT"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Vivo Y04 4G/Y29s 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y04-4g-cerne"
 ]
 ],
 "codes": [
@@ -86921,9 +86940,15 @@
 "2023-12",
 "2024-04"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "FIXED sells one glass for the Realme 12 Lite and Realme C67 4G (FIXED)",
 "device": "Phone",
+"sources": [
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Realme C67 4G/12 Lite 4G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c67-4g-12-lite-4g-cerne"
+]
+],
 "codes": [
 "RMX3890",
 ""
@@ -87035,80 +87060,75 @@
 ],
 "models": [
 "Realme 12",
-"Realme 12x (India)",
-"Realme Narzo 70x"
-],
-"released": [
-"2024-03",
-"2024-04",
-"2024-04"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"RMX3999",
-"RMX3998",
-""
-],
-"screens": [
-"6.72in",
-"6.72in",
-"6.72in"
-],
-"dims": [
-"165.6 x 76.1 x 7.7 mm",
-"165.6 x 76.1 x 7.7 mm",
-"165.6 x 76.1 x 7.7 mm"
-]
-},
-{
-"id": "REA-1083",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
 "Realme 12x",
+"Realme 12x (India)",
 "Realme C65 5G",
+"Realme Narzo 70x",
 "Realme Narzo N65",
 "Realme V60",
+"Realme 13",
 "Realme C63 5G"
 ],
 "released": [
 "2024-03",
+"2024-03",
+"2024-04",
+"2024-04",
 "2024-04",
 "2024-05",
 "2024-06",
+"2024-08",
 "2024-08"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme 12, Realme 12x, Realme 13; Realme C65 5G, Realme Narzo 70x, Realme Narzo N65. The rest match on specs: test before swapping. FIXED sells one glass for the Realme 12, Realme 12x and Realme 13 (FIXED). FIXED sells one glass for the Realme C65 5G, Realme Narzo 70x and Realme Narzo N65 (FIXED)",
 "device": "Phone",
+"sources": [
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Realme 12x/12 5G/13 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-12x-12-5g-13-5g-cerne"
+],
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Realme C65 5G/Narzo N65 5G/70X 5G, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c65-5g-narzo-n65-5g-70x-5g-cerne"
+]
+],
 "codes": [
+"RMX3999",
 "RMX3997",
+"RMX3998",
 "",
 "",
 "",
+"",
+"RMX3951",
 "RMX3950"
 ],
 "screens": [
+"6.72in",
+"6.67in",
+"6.72in",
+"6.67in",
+"6.72in",
 "6.67in",
 "6.67in",
-"6.67in",
-"6.67in",
+"6.72in",
 "6.67in"
 ],
 "dims": [
+"165.6 x 76.1 x 7.7 mm",
+"165.6 x 76.1 x 7.9 mm",
+"165.6 x 76.1 x 7.7 mm",
+"165.6 x 76.1 x 7.9 mm",
+"165.6 x 76.1 x 7.7 mm",
 "165.6 x 76.1 x 7.9 mm",
 "165.6 x 76.1 x 7.9 mm",
-"165.6 x 76.1 x 7.9 mm",
-"165.6 x 76.1 x 7.9 mm",
+"165.6 x 76.1 x 7.8 mm",
 "165.6 x 76.1 x 7.9 mm"
 ]
 },
 {
-"id": "REA-1084",
+"id": "REA-1083",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87133,7 +87153,7 @@
 ]
 },
 {
-"id": "REA-1085",
+"id": "REA-1084",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87168,7 +87188,7 @@
 ]
 },
 {
-"id": "REA-1086",
+"id": "REA-1085",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87193,7 +87213,7 @@
 ]
 },
 {
-"id": "REA-1087",
+"id": "REA-1086",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87228,7 +87248,7 @@
 ]
 },
 {
-"id": "REA-1088",
+"id": "REA-1087",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87253,33 +87273,63 @@
 ]
 },
 {
-"id": "REA-1089",
+"id": "REA-1088",
 "brand": "Realme",
 "brands": [
 "REA"
 ],
 "models": [
 "Realme C63",
-"Realme Narzo N63"
+"Realme Narzo N63",
+"Realme C61",
+"Realme Narzo N61",
+"Realme Note 60",
+"Realme Note 60x"
 ],
 "released": [
 "2024-05",
-"2024-06"
+"2024-06",
+"2024-07",
+"2024-07",
+"2024-08",
+"2024-12"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Realme C63, Realme C61, Realme Note 60. The rest match on specs: test before swapping. FIXED sells one glass for the Realme C61, Realme C63 and Realme Note 60 (FIXED)",
 "device": "Phone",
+"sources": [
+[
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Realme C61/C63/Note 60, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-realme-c61-c63-note-60-cerne"
+]
+],
+"codes": [
+"",
+"",
+"RMX3939, RMX3930",
+"",
+"RMX3933",
+"RMX3938"
+],
 "screens": [
 "6.75in",
-"6.75in"
+"6.75in",
+"6.74in",
+"6.74in",
+"6.74in",
+"6.74in"
 ],
 "dims": [
 "167.3 x 76.7 x 7.7 mm",
-"167.3 x 76.7 x 7.7 mm"
+"167.3 x 76.7 x 7.7 mm",
+"167.3 x 76.7 x 7.8 mm",
+"167.3 x 76.7 x 7.8 mm",
+"167.3 x 76.7 x 7.8 mm",
+"167.3 x 76.7 x 7.8 mm"
 ]
 },
 {
-"id": "REA-1090",
+"id": "REA-1089",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87304,7 +87354,7 @@
 ]
 },
 {
-"id": "REA-1091",
+"id": "REA-1090",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87329,7 +87379,7 @@
 ]
 },
 {
-"id": "REA-1092",
+"id": "REA-1091",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87365,47 +87415,7 @@
 ]
 },
 {
-"id": "REA-1093",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme C61",
-"Realme Narzo N61",
-"Realme Note 60",
-"Realme Note 60x"
-],
-"released": [
-"2024-07",
-"2024-07",
-"2024-08",
-"2024-12"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"RMX3939, RMX3930",
-"",
-"RMX3933",
-"RMX3938"
-],
-"screens": [
-"6.74in",
-"6.74in",
-"6.74in",
-"6.74in"
-],
-"dims": [
-"167.3 x 76.7 x 7.8 mm",
-"167.3 x 76.7 x 7.8 mm",
-"167.3 x 76.7 x 7.8 mm",
-"167.3 x 76.7 x 7.8 mm"
-]
-},
-{
-"id": "REA-1094",
+"id": "REA-1092",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87427,7 +87437,7 @@
 ]
 },
 {
-"id": "REA-1095",
+"id": "REA-1093",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87467,32 +87477,7 @@
 ]
 },
 {
-"id": "REA-1096",
-"brand": "Realme",
-"brands": [
-"REA"
-],
-"models": [
-"Realme 13"
-],
-"released": [
-"2024-08"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"RMX3951"
-],
-"screens": [
-"6.72in"
-],
-"dims": [
-"165.6 x 76.1 x 7.8 mm"
-]
-},
-{
-"id": "REA-1097",
+"id": "REA-1094",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87518,7 +87503,7 @@
 ]
 },
 {
-"id": "REA-1098",
+"id": "REA-1095",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87543,7 +87528,7 @@
 ]
 },
 {
-"id": "REA-1099",
+"id": "REA-1096",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87576,7 +87561,7 @@
 ]
 },
 {
-"id": "REA-1100",
+"id": "REA-1097",
 "brand": "Realme + Oppo",
 "brands": [
 "REA",
@@ -87638,7 +87623,7 @@
 ]
 },
 {
-"id": "REA-1101",
+"id": "REA-1098",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87663,7 +87648,7 @@
 ]
 },
 {
-"id": "REA-1102",
+"id": "REA-1099",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87693,7 +87678,7 @@
 ]
 },
 {
-"id": "REA-1103",
+"id": "REA-1100",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87718,7 +87703,7 @@
 ]
 },
 {
-"id": "REA-1104",
+"id": "REA-1101",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87746,7 +87731,7 @@
 ]
 },
 {
-"id": "REA-1105",
+"id": "REA-1102",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87768,7 +87753,7 @@
 ]
 },
 {
-"id": "REA-1106",
+"id": "REA-1103",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87826,7 +87811,7 @@
 ]
 },
 {
-"id": "REA-1107",
+"id": "REA-1104",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87856,7 +87841,7 @@
 ]
 },
 {
-"id": "REA-1108",
+"id": "REA-1105",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87881,7 +87866,7 @@
 ]
 },
 {
-"id": "REA-1109",
+"id": "REA-1106",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87925,7 +87910,7 @@
 ]
 },
 {
-"id": "REA-1110",
+"id": "REA-1107",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87947,7 +87932,7 @@
 ]
 },
 {
-"id": "REA-1111",
+"id": "REA-1108",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87969,7 +87954,7 @@
 ]
 },
 {
-"id": "REA-1112",
+"id": "REA-1109",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -87999,7 +87984,7 @@
 ]
 },
 {
-"id": "REA-1113",
+"id": "REA-1110",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88024,7 +88009,7 @@
 ]
 },
 {
-"id": "REA-1114",
+"id": "REA-1111",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88054,7 +88039,7 @@
 ]
 },
 {
-"id": "REA-1115",
+"id": "REA-1112",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88099,7 +88084,7 @@
 ]
 },
 {
-"id": "REA-1116",
+"id": "REA-1113",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88121,7 +88106,7 @@
 ]
 },
 {
-"id": "REA-1117",
+"id": "REA-1114",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88143,7 +88128,7 @@
 ]
 },
 {
-"id": "REA-1118",
+"id": "REA-1115",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88173,7 +88158,7 @@
 ]
 },
 {
-"id": "REA-1119",
+"id": "REA-1116",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88198,7 +88183,7 @@
 ]
 },
 {
-"id": "REA-1120",
+"id": "REA-1117",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88231,7 +88216,7 @@
 ]
 },
 {
-"id": "REA-1121",
+"id": "REA-1118",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88256,7 +88241,7 @@
 ]
 },
 {
-"id": "REA-1122",
+"id": "REA-1119",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88281,7 +88266,7 @@
 ]
 },
 {
-"id": "REA-1123",
+"id": "REA-1120",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88303,7 +88288,7 @@
 ]
 },
 {
-"id": "REA-1124",
+"id": "REA-1121",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88325,7 +88310,7 @@
 ]
 },
 {
-"id": "REA-1125",
+"id": "REA-1122",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88350,7 +88335,7 @@
 ]
 },
 {
-"id": "REA-1126",
+"id": "REA-1123",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88375,7 +88360,7 @@
 ]
 },
 {
-"id": "REA-1127",
+"id": "REA-1124",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88400,7 +88385,7 @@
 ]
 },
 {
-"id": "REA-1128",
+"id": "REA-1125",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88428,7 +88413,7 @@
 ]
 },
 {
-"id": "REA-1129",
+"id": "REA-1126",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88458,7 +88443,7 @@
 ]
 },
 {
-"id": "REA-1130",
+"id": "REA-1127",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88488,7 +88473,7 @@
 ]
 },
 {
-"id": "REA-1131",
+"id": "REA-1128",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88518,7 +88503,7 @@
 ]
 },
 {
-"id": "REA-1132",
+"id": "REA-1129",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88540,7 +88525,7 @@
 ]
 },
 {
-"id": "REA-1133",
+"id": "REA-1130",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88565,7 +88550,7 @@
 ]
 },
 {
-"id": "REA-1134",
+"id": "REA-1131",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88600,7 +88585,7 @@
 ]
 },
 {
-"id": "REA-1135",
+"id": "REA-1132",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88622,7 +88607,7 @@
 ]
 },
 {
-"id": "REA-1136",
+"id": "REA-1133",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88644,7 +88629,7 @@
 ]
 },
 {
-"id": "REA-1137",
+"id": "REA-1134",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -88660,7 +88645,7 @@
 "device": "Phone"
 },
 {
-"id": "REA-1138",
+"id": "REA-1135",
 "brand": "Realme",
 "brands": [
 "REA"
@@ -101675,7 +101660,7 @@
 "2024-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Honor X8 5G, Honor X6, Honor 70 Lite, Honor X6a, Honor X6b 4G. The rest match on specs: test before swapping. SAFE by PanzerGlass sells one glass for X6a, X6, X6b 4G, X8 5G and 70 Lite",
+"note": "Sellers confirm Honor X8 5G, Honor X6, Honor 70 Lite, Honor X6a, Honor X6b 4G. The rest match on specs: test before swapping. SAFE by PanzerGlass sells one glass for X6a, X6, X6b 4G, X8 5G and 70 Lite. PanzerGlass sells one glass for the Honor 70 Lite, Honor X6 and Honor X8 5G (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -101685,6 +101670,10 @@
 [
 "SAFE Ultra-Wide Fit (Digitec)",
 "https://www.digitec.ch/en/s1/product/safe-ultra-wide-fit-1-piece-honor-x8-honor-x6-honor-x6a-honor-70-lite-mobile-phone-screen-protectors-47218847"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Honor X6/X8 5G/70 Lite 5G",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-honor-x6-x8-5g-70-lite-5g-p-183307"
 ]
 ],
 "codes": [
@@ -158456,28 +158445,38 @@
 "INF"
 ],
 "models": [
-"Infinix Hot 50i"
+"Infinix Hot 50i",
+"Infinix Smart 9",
+"Infinix Smart 9 HD"
 ],
 "released": [
-"2024-09"
+"2024-09",
+"2024-09",
+"2024-11"
 ],
-"check": "Confirmed",
-"note": "3MK sells FlexibleGlass Pro hybrid glass for the Infinix Hot 50i alone; hybrid glass, not tempered",
+"check": "Check",
+"note": "Sellers confirm Infinix Hot 50i, Infinix Smart 9. The rest match on specs: test before swapping. FIXED sells one glass for the Infinix Hot 50i and Infinix Smart 9 (FIXED)",
 "device": "Phone",
 "sources": [
 [
-"3MK",
-"https://3mk.pl/p/nietlukace-sie-szklo-na-infinix-hot-50i-3mk-flexibleglass-pro"
+"FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Infinix Smart 9/Hot 50i, \u010dern\u00e9",
+"https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-infinix-smart-9-hot-50i-cerne"
 ]
 ],
 "codes": [
-"X6531, X6531B"
+"X6531, X6531B",
+"X6532",
+"X6532C"
 ],
 "screens": [
+"6.7in",
+"6.7in",
 "6.7in"
 ],
 "dims": [
-"165.7 x 77.1 x 8.1 mm"
+"165.7 x 77.1 x 8.1 mm",
+"165.7 x 77.1 x 8.4 mm",
+"165.7 x 77.1 x 8.4 mm"
 ]
 },
 {
@@ -158512,36 +158511,6 @@
 "INF"
 ],
 "models": [
-"Infinix Smart 9",
-"Infinix Smart 9 HD"
-],
-"released": [
-"2024-09",
-"2024-11"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"X6532",
-"X6532C"
-],
-"screens": [
-"6.7in",
-"6.7in"
-],
-"dims": [
-"165.7 x 77.1 x 8.4 mm",
-"165.7 x 77.1 x 8.4 mm"
-]
-},
-{
-"id": "INF-1107",
-"brand": "Infinix",
-"brands": [
-"INF"
-],
-"models": [
 "Infinix Zero Flip"
 ],
 "released": [
@@ -158564,7 +158533,7 @@
 ]
 },
 {
-"id": "INF-1108",
+"id": "INF-1107",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158589,7 +158558,7 @@
 ]
 },
 {
-"id": "INF-1109",
+"id": "INF-1108",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158614,7 +158583,7 @@
 ]
 },
 {
-"id": "INF-1110",
+"id": "INF-1109",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158654,7 +158623,7 @@
 ]
 },
 {
-"id": "INF-1111",
+"id": "INF-1110",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158679,7 +158648,7 @@
 ]
 },
 {
-"id": "INF-1112",
+"id": "INF-1111",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158704,7 +158673,7 @@
 ]
 },
 {
-"id": "INF-1113",
+"id": "INF-1112",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158729,7 +158698,7 @@
 ]
 },
 {
-"id": "INF-1114",
+"id": "INF-1113",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158769,7 +158738,7 @@
 ]
 },
 {
-"id": "INF-1115",
+"id": "INF-1114",
 "brand": "Infinix + Tecno",
 "brands": [
 "INF",
@@ -158800,7 +158769,7 @@
 ]
 },
 {
-"id": "INF-1116",
+"id": "INF-1115",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158825,7 +158794,7 @@
 ]
 },
 {
-"id": "INF-1117",
+"id": "INF-1116",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158850,7 +158819,7 @@
 ]
 },
 {
-"id": "INF-1118",
+"id": "INF-1117",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158875,7 +158844,7 @@
 ]
 },
 {
-"id": "INF-1119",
+"id": "INF-1118",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158900,7 +158869,7 @@
 ]
 },
 {
-"id": "INF-1120",
+"id": "INF-1119",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158925,7 +158894,7 @@
 ]
 },
 {
-"id": "INF-1121",
+"id": "INF-1120",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158950,7 +158919,7 @@
 ]
 },
 {
-"id": "INF-1122",
+"id": "INF-1121",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -158975,7 +158944,7 @@
 ]
 },
 {
-"id": "INF-1123",
+"id": "INF-1122",
 "brand": "Infinix + Tecno",
 "brands": [
 "INF",
@@ -159006,7 +158975,7 @@
 ]
 },
 {
-"id": "INF-1124",
+"id": "INF-1123",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159037,7 +159006,7 @@
 ]
 },
 {
-"id": "INF-1125",
+"id": "INF-1124",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159062,7 +159031,7 @@
 ]
 },
 {
-"id": "INF-1126",
+"id": "INF-1125",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159087,7 +159056,7 @@
 ]
 },
 {
-"id": "INF-1127",
+"id": "INF-1126",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159112,7 +159081,7 @@
 ]
 },
 {
-"id": "INF-1128",
+"id": "INF-1127",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159137,7 +159106,7 @@
 ]
 },
 {
-"id": "INF-1129",
+"id": "INF-1128",
 "brand": "Infinix",
 "brands": [
 "INF"
@@ -159162,7 +159131,7 @@
 ]
 },
 {
-"id": "INF-1130",
+"id": "INF-1129",
 "brand": "Infinix",
 "brands": [
 "INF"
