@@ -24261,5 +24261,127 @@
    }
   ],
   "note": "Elecom sells glass for the AQUOS R11 alone (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Redmi K60 Ultra",
+   "Xiaomi 13T",
+   "Xiaomi 13T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Home Screen (Nillkin): Nillkin CP+Pro Xiaomi 13T / 13T Pro / Redmi K60 Ultra",
+    "url": "https://homescreen.pl/en/xiaomi-13t-13t-pro/70916-nillkin-cppro-xiaomi-13t-13t-pro-redmi-k60-ultra-black-6902048270480.html"
+   },
+   {
+    "name": "Home Screen (Nillkin): Nillkin Amazing H+ Pro Xiaomi Redmi K60 Ultra / Xiaomi 13T / 13T Pro",
+    "url": "https://homescreen.pl/en/xiaomi-13t-13t-pro/73713-nillkin-amazing-h-pro-xiaomi-redmi-k60-ultra-xiaomi-13t-13t-pro-6902048270473.html"
+   }
+  ],
+  "note": "Nillkin sells one tempered glass for the Redmi K60 Ultra, Xiaomi 13T and 13T Pro (two Nillkin lines at Home Screen)."
+ },
+ {
+  "models": [
+   "Redmi K50 Ultra",
+   "Xiaomi 12T",
+   "Xiaomi 12T Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Home Screen (Nillkin): Nillkin Amazing CP+ Pro Xiaomi 12T / 12T Pro / Redmi K50 Ultra",
+    "url": "https://homescreen.pl/en/xiaomi-12tpro/52746-tempered-glass-nillkin-amazing-cp-pro-xiaomi-12t-12t-pro-redmi-k50-ultra-6902048257924.html"
+   },
+   {
+    "name": "Arvutitark (Nillkin): Nillkin CP+PRO Tempered Glass for Xiaomi 12T/12T Pro/Redmi K50 Ultra",
+    "url": "https://arvutitark.ee/ru/smart-devices/telefoni-umbrised/nillkin-cppro-tempered-glass-for-xiaomi-12t12t-proredmi-k-1337611"
+   }
+  ],
+  "note": "Nillkin sells one tempered glass for the Redmi K50 Ultra, Xiaomi 12T and 12T Pro."
+ },
+ {
+  "models": [
+   "Xiaomi 12",
+   "Xiaomi 12X",
+   "Xiaomi 12S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Home Screen (Nillkin): Nillkin 3D CP+ Max Xiaomi 12/12X/12S",
+    "url": "https://homescreen.pl/en/xiaomi-1212x/53852-nillkin-3d-cp-max-xiaomi-12-12x-12s-6902048240407.html"
+   }
+  ],
+  "note": "Nillkin sells one tempered glass for the Xiaomi 12, 12X and 12S (Home Screen)."
+ },
+ {
+  "models": [
+   "Huawei P30 lite",
+   "Huawei P30 lite New Edition"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Digitec (Hama): Hama 3D Full Screen Protective Glass Huawei P30 lite / P30 lite New Edition",
+    "url": "https://www.digitec.ch/en/s1/product/hama-3d-full-screen-protective-glass-1-pcs-huawei-p30-lite-huawei-p30-lite-new-edition-mobile-phone--10982868"
+   }
+  ],
+  "note": "Hama sells one tempered glass for the P30 lite and P30 lite New Edition (Digitec)."
+ },
+ {
+  "models": [
+   "Oppo A57s",
+   "Oppo A17",
+   "Oppo A17k"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "VB (PanzerGlass PZG7091): Screen Protector Oppo A57s/A17/17k Ultra-Wide Fit",
+    "url": "https://shop.vb.net/en/PZG7091/mobile-phone-screen-protectors/panzerglass-screen-protector-oppo-a57s-a17-17k-ultra-wide-fit"
+   },
+   {
+    "name": "Proshop (SAFE by PanzerGlass): Screen Protector Oppo A57s/A17/A17k",
+    "url": "https://www.proshop.no/Mobil-Beskyttelsesglass/SAFE-by-PanzerGlass-Screen-Protector-Oppo-A57s-A17-A17k/3155465"
+   }
+  ],
+  "note": "PanzerGlass and SAFE by PanzerGlass each sell one glass for the Oppo A57s, A17 and A17k."
+ },
+ {
+  "models": [
+   "vivo X80 Lite",
+   "vivo V25"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Digitec (Wozinsky): Wozinsky Full Glue Tempered Glass Vivo X80 Lite / V25",
+    "url": "https://www.digitec.ch/en/s1/product/wozinsky-full-glue-tempered-glass-vivo-x80-lite-v25-full-screen-with-frame-black-case-friendly-vivo--25181104"
+   },
+   {
+    "name": "Home Screen (Dux Ducis): Dux Ducis 9D Tempered Glass Vivo X80 Lite/V25",
+    "url": "https://homescreen.pl/en/vivo-x80-lite/46665-dux-ducis-9d-tempered-glass-vivo-x80-lite-v25-black-case-friendly-6934913032831.html"
+   }
+  ],
+  "note": "Wozinsky and Dux Ducis each sell one tempered glass for the vivo X80 Lite and V25."
+ },
+ {
+  "models": [
+   "Oppo Reno5 Pro+ 5G",
+   "Oppo Find X3 Neo"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Galaxus (PanzerGlass): PanzerGlass Case Friendly Oppo Find X3 Neo / Reno 5 Pro+ 5G",
+    "url": "https://www.galaxus.nl/en/s1/product/panzerglass-case-friendly-1-piece-oppo-find-x3-neo-oppo-reno-5-pro-5g-mobile-phone-screen-protectors-15287134"
+   },
+   {
+    "name": "Digitec (Mobilize): Mobilize Edge-to-edge glass Oppo Find X3 Neo / Reno 5 Pro+ 5G",
+    "url": "https://www.digitec.ch/en/s1/product/mobilize-edge-to-edge-glass-1-piece-oppo-find-x3-neo-oppo-reno-5-pro-5g-mobile-phone-screen-protecto-36049067"
+   }
+  ],
+  "note": "PanzerGlass and Mobilize each sell one glass for the Find X3 Neo and Reno5 Pro+ 5G."
  }
 ]

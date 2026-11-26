@@ -25326,13 +25326,21 @@
 "2020-12",
 "2021-03"
 ],
-"check": "Check",
-"note": "Sellers confirm Oppo Reno4 Pro, Oppo Find X3 Neo. The rest match on specs: test before swapping. Displex sells one glass for the Oppo Find X3 Neo and Oppo Reno4 Pro (displex.com)",
+"check": "Confirmed",
+"note": "Displex sells one glass for the Oppo Find X3 Neo and Oppo Reno4 Pro (displex.com). PanzerGlass and Mobilize each sell one glass for the Find X3 Neo and Reno5 Pro+ 5G",
 "device": "Phone",
 "sources": [
 [
 "Displex: Find X3 Neo 5G/Reno4 Pro",
 "https://www.displex.com/en/panzerglas/full-cover-schutzglaeser/find-x3-neo-5g-reno4-pro"
+],
+[
+"Galaxus (PanzerGlass): PanzerGlass Case Friendly Oppo Find X3 Neo / Reno 5 Pro+ 5G",
+"https://www.galaxus.nl/en/s1/product/panzerglass-case-friendly-1-piece-oppo-find-x3-neo-oppo-reno-5-pro-5g-mobile-phone-screen-protectors-15287134"
+],
+[
+"Digitec (Mobilize): Mobilize Edge-to-edge glass Oppo Find X3 Neo / Reno 5 Pro+ 5G",
+"https://www.digitec.ch/en/s1/product/mobilize-edge-to-edge-glass-1-piece-oppo-find-x3-neo-oppo-reno-5-pro-5g-mobile-phone-screen-protecto-36049067"
 ]
 ],
 "codes": [
@@ -26358,13 +26366,17 @@
 "Oppo A77 4G",
 "Oppo A57s",
 "Oppo A57e",
+"Oppo A17",
 "OnePlus Nord N300",
 "Oppo A77s",
+"Oppo A17k",
 "Oppo A58 (China)",
 "Oppo A58x",
 "Oppo A56s",
 "Oppo A78",
-"Oppo A1x"
+"Oppo A1x",
+"Oppo A38",
+"Oppo A18"
 ],
 "released": [
 "2022-04",
@@ -26375,16 +26387,20 @@
 "2022-08",
 "2022-08",
 "2022-08",
+"2022-09",
+"2022-10",
 "2022-10",
 "2022-10",
 "2022-11",
 "2022-12",
 "2023-01",
 "2023-01",
-"2023-03"
+"2023-03",
+"2023-09",
+"2023-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Oppo A57, Oppo A57 4G, Oppo A77, Oppo A57s, Oppo A57e, Oppo A78. The rest match on specs: test before swapping. 3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s. MyScreen sells one glass for the Oppo A57 and Oppo A57 4G (Homescreen.pl). 3MK sells one hybrid glass for the Oppo A57, Oppo A57 4G, Oppo A57e and Oppo A57s (3mk.pl). Selencia sells one glass for the Oppo A57, Oppo A57s, Oppo A77 and Oppo A78 (Smartphonehoesjes.nl). Press reports: Nord N300 is a rebranded Oppo A77 5G / K10 5G",
+"note": "Sellers confirm Oppo A57, Oppo A57 4G, Oppo A77, Oppo A57s, Oppo A57e, Oppo A17, Oppo A17k, Oppo A78, Oppo A38, Oppo A18. The rest match on specs: test before swapping. 3MK FlexibleGlass Pro (hybrid glass) at digitec lists Oppo A57 5G, A57e and A57s. MyScreen sells one glass for the Oppo A57 and Oppo A57 4G (Homescreen.pl). 3MK sells one hybrid glass for the Oppo A57, Oppo A57 4G, Oppo A57e and Oppo A57s (3mk.pl). Selencia sells one glass for the Oppo A57, Oppo A57s, Oppo A77 and Oppo A78 (Smartphonehoesjes.nl). PanzerGlass and SAFE by PanzerGlass each sell one glass for the Oppo A57s, A17 and A17k. Selencia sells one glass for the Oppo A17, Oppo A18 and Oppo A38 (Smartphonehoesjes.nl). Just In Case sells one tempered glass for the Oppo A38 and A18. Press reports: Nord N300 is a rebranded Oppo A77 5G / K10 5G",
 "device": "Phone",
 "sources": [
 [
@@ -26414,6 +26430,22 @@
 [
 "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A57(s) / A77 / A78 (5G)",
 "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a57-s-a77-a78-5g.html"
+],
+[
+"VB (PanzerGlass PZG7091): Screen Protector Oppo A57s/A17/17k Ultra-Wide Fit",
+"https://shop.vb.net/en/PZG7091/mobile-phone-screen-protectors/panzerglass-screen-protector-oppo-a57s-a17-17k-ultra-wide-fit"
+],
+[
+"Proshop (SAFE by PanzerGlass): Screen Protector Oppo A57s/A17/A17k",
+"https://www.proshop.no/Mobil-Beskyttelsesglass/SAFE-by-PanzerGlass-Screen-Protector-Oppo-A57s-A17-A17k/3155465"
+],
+[
+"Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A17 / A18 / A38",
+"https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a17-a18-a38.html"
+],
+[
+"Coolblue: Just In Case tempered glass for OPPO A38 4G / A18 4G",
+"https://www.coolblue.de/en/product/960886/just-in-case-tempered-glass-oppo-a38-4g-a18-4g-screen-protector.html"
 ]
 ],
 "codes": [
@@ -26425,15 +26457,23 @@
 "CPH2385",
 "CPH2385",
 "CPH2387",
+"CPH2477",
 "CPH2389",
 "CPH2473",
+"CPH2471",
 "",
 "",
 "PFTM20",
 "CPH2483, CPH2495",
-"PHJ110"
+"PHJ110",
+"CPH2579",
+"CPH2591"
 ],
 "screens": [
+"6.56in",
+"6.56in",
+"6.56in",
+"6.56in",
 "6.56in",
 "6.56in",
 "6.56in",
@@ -26459,13 +26499,17 @@
 "163.8 x 75 x 8 mm",
 "163.8 x 75 x 8 mm",
 "163.7 x 75 x 8 mm",
+"164.2 x 75.6 x 8.3 mm",
 "163.8 x 75.1 x 8 mm",
 "163.8 x 75 x 8 mm",
+"164.2 x 75.6 x 8.3 mm",
 "163.8 x 75 x 8 mm",
 "163.8 x 75.1 x 8 mm",
 "163.8 x 75.1 x 8 mm",
 "163.8 x 75.1 x 8 mm",
-"163.8 x 75.1 x 8 mm"
+"163.8 x 75.1 x 8 mm",
+"163.7 x 75 x 8.2 mm",
+"163.7 x 75 x 8.2 mm"
 ]
 },
 {
@@ -26697,56 +26741,6 @@
 "OPP"
 ],
 "models": [
-"Oppo A17",
-"Oppo A17k",
-"Oppo A38",
-"Oppo A18"
-],
-"released": [
-"2022-09",
-"2022-10",
-"2023-09",
-"2023-09"
-],
-"check": "Check",
-"note": "Sellers confirm Oppo A17, Oppo A38, Oppo A18. The rest match on specs: test before swapping. Selencia sells one glass for the Oppo A17, Oppo A18 and Oppo A38 (Smartphonehoesjes.nl). Just In Case sells one tempered glass for the Oppo A38 and A18",
-"device": "Phone",
-"sources": [
-[
-"Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A17 / A18 / A38",
-"https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a17-a18-a38.html"
-],
-[
-"Coolblue: Just In Case tempered glass for OPPO A38 4G / A18 4G",
-"https://www.coolblue.de/en/product/960886/just-in-case-tempered-glass-oppo-a38-4g-a18-4g-screen-protector.html"
-]
-],
-"codes": [
-"CPH2477",
-"CPH2471",
-"CPH2579",
-"CPH2591"
-],
-"screens": [
-"6.56in",
-"6.56in",
-"6.56in",
-"6.56in"
-],
-"dims": [
-"164.2 x 75.6 x 8.3 mm",
-"164.2 x 75.6 x 8.3 mm",
-"163.7 x 75 x 8.2 mm",
-"163.7 x 75 x 8.2 mm"
-]
-},
-{
-"id": "OPP-1141",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
 "Oppo A1 Pro",
 "Oppo Reno8 T 5G"
 ],
@@ -26771,7 +26765,7 @@
 ]
 },
 {
-"id": "OPP-1142",
+"id": "OPP-1141",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26801,7 +26795,7 @@
 ]
 },
 {
-"id": "OPP-1143",
+"id": "OPP-1142",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26826,7 +26820,7 @@
 ]
 },
 {
-"id": "OPP-1144",
+"id": "OPP-1143",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26854,7 +26848,7 @@
 ]
 },
 {
-"id": "OPP-1145",
+"id": "OPP-1144",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26882,7 +26876,7 @@
 ]
 },
 {
-"id": "OPP-1146",
+"id": "OPP-1145",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26907,7 +26901,7 @@
 ]
 },
 {
-"id": "OPP-1147",
+"id": "OPP-1146",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26938,7 +26932,7 @@
 ]
 },
 {
-"id": "OPP-1148",
+"id": "OPP-1147",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26977,7 +26971,7 @@
 ]
 },
 {
-"id": "OPP-1149",
+"id": "OPP-1148",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -27039,7 +27033,7 @@
 ]
 },
 {
-"id": "OPP-1150",
+"id": "OPP-1149",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27064,7 +27058,7 @@
 ]
 },
 {
-"id": "OPP-1151",
+"id": "OPP-1150",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27089,7 +27083,7 @@
 ]
 },
 {
-"id": "OPP-1152",
+"id": "OPP-1151",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27114,7 +27108,7 @@
 ]
 },
 {
-"id": "OPP-1153",
+"id": "OPP-1152",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27139,7 +27133,7 @@
 ]
 },
 {
-"id": "OPP-1154",
+"id": "OPP-1153",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27183,7 +27177,7 @@
 ]
 },
 {
-"id": "OPP-1155",
+"id": "OPP-1154",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27208,7 +27202,7 @@
 ]
 },
 {
-"id": "OPP-1156",
+"id": "OPP-1155",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27236,7 +27230,7 @@
 ]
 },
 {
-"id": "OPP-1157",
+"id": "OPP-1156",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27261,7 +27255,7 @@
 ]
 },
 {
-"id": "OPP-1158",
+"id": "OPP-1157",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27305,7 +27299,7 @@
 ]
 },
 {
-"id": "OPP-1159",
+"id": "OPP-1158",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27330,7 +27324,7 @@
 ]
 },
 {
-"id": "OPP-1160",
+"id": "OPP-1159",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27352,7 +27346,7 @@
 ]
 },
 {
-"id": "OPP-1161",
+"id": "OPP-1160",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27377,7 +27371,7 @@
 ]
 },
 {
-"id": "OPP-1162",
+"id": "OPP-1161",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27402,7 +27396,7 @@
 ]
 },
 {
-"id": "OPP-1163",
+"id": "OPP-1162",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27432,7 +27426,7 @@
 ]
 },
 {
-"id": "OPP-1164",
+"id": "OPP-1163",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -27468,7 +27462,7 @@
 ]
 },
 {
-"id": "OPP-1165",
+"id": "OPP-1164",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27493,7 +27487,7 @@
 ]
 },
 {
-"id": "OPP-1166",
+"id": "OPP-1165",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27518,7 +27512,7 @@
 ]
 },
 {
-"id": "OPP-1167",
+"id": "OPP-1166",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27543,7 +27537,7 @@
 ]
 },
 {
-"id": "OPP-1168",
+"id": "OPP-1167",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27568,7 +27562,7 @@
 ]
 },
 {
-"id": "OPP-1169",
+"id": "OPP-1168",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27593,7 +27587,7 @@
 ]
 },
 {
-"id": "OPP-1170",
+"id": "OPP-1169",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27618,7 +27612,7 @@
 ]
 },
 {
-"id": "OPP-1171",
+"id": "OPP-1170",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27658,7 +27652,7 @@
 ]
 },
 {
-"id": "OPP-1172",
+"id": "OPP-1171",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27683,7 +27677,7 @@
 ]
 },
 {
-"id": "OPP-1173",
+"id": "OPP-1172",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27708,7 +27702,7 @@
 ]
 },
 {
-"id": "OPP-1174",
+"id": "OPP-1173",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27733,7 +27727,7 @@
 ]
 },
 {
-"id": "OPP-1175",
+"id": "OPP-1174",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27755,7 +27749,7 @@
 ]
 },
 {
-"id": "OPP-1176",
+"id": "OPP-1175",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27790,7 +27784,7 @@
 ]
 },
 {
-"id": "OPP-1177",
+"id": "OPP-1176",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27815,7 +27809,7 @@
 ]
 },
 {
-"id": "OPP-1178",
+"id": "OPP-1177",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27860,7 +27854,7 @@
 ]
 },
 {
-"id": "OPP-1179",
+"id": "OPP-1178",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27891,7 +27885,7 @@
 ]
 },
 {
-"id": "OPP-1180",
+"id": "OPP-1179",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27921,7 +27915,7 @@
 ]
 },
 {
-"id": "OPP-1181",
+"id": "OPP-1180",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27951,7 +27945,7 @@
 ]
 },
 {
-"id": "OPP-1182",
+"id": "OPP-1181",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27992,7 +27986,7 @@
 ]
 },
 {
-"id": "OPP-1183",
+"id": "OPP-1182",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28020,7 +28014,7 @@
 ]
 },
 {
-"id": "OPP-1184",
+"id": "OPP-1183",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28050,7 +28044,7 @@
 ]
 },
 {
-"id": "OPP-1185",
+"id": "OPP-1184",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28075,7 +28069,7 @@
 ]
 },
 {
-"id": "OPP-1186",
+"id": "OPP-1185",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28114,7 +28108,7 @@
 ]
 },
 {
-"id": "OPP-1187",
+"id": "OPP-1186",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28139,7 +28133,7 @@
 ]
 },
 {
-"id": "OPP-1188",
+"id": "OPP-1187",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28164,7 +28158,7 @@
 ]
 },
 {
-"id": "OPP-1189",
+"id": "OPP-1188",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28189,7 +28183,7 @@
 ]
 },
 {
-"id": "OPP-1190",
+"id": "OPP-1189",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28214,7 +28208,7 @@
 ]
 },
 {
-"id": "OPP-1191",
+"id": "OPP-1190",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28244,7 +28238,7 @@
 ]
 },
 {
-"id": "OPP-1192",
+"id": "OPP-1191",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28346,7 +28340,7 @@
 ]
 },
 {
-"id": "OPP-1193",
+"id": "OPP-1192",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28376,7 +28370,7 @@
 ]
 },
 {
-"id": "OPP-1194",
+"id": "OPP-1193",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28395,7 +28389,7 @@
 ]
 },
 {
-"id": "OPP-1195",
+"id": "OPP-1194",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28428,7 +28422,7 @@
 ]
 },
 {
-"id": "OPP-1196",
+"id": "OPP-1195",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28456,7 +28450,7 @@
 ]
 },
 {
-"id": "OPP-1197",
+"id": "OPP-1196",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28491,7 +28485,7 @@
 ]
 },
 {
-"id": "OPP-1198",
+"id": "OPP-1197",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28516,7 +28510,7 @@
 ]
 },
 {
-"id": "OPP-1199",
+"id": "OPP-1198",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28639,7 +28633,7 @@
 ]
 },
 {
-"id": "OPP-1200",
+"id": "OPP-1199",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28669,7 +28663,7 @@
 ]
 },
 {
-"id": "OPP-1201",
+"id": "OPP-1200",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28697,7 +28691,7 @@
 ]
 },
 {
-"id": "OPP-1202",
+"id": "OPP-1201",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28719,7 +28713,7 @@
 ]
 },
 {
-"id": "OPP-1203",
+"id": "OPP-1202",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28744,7 +28738,7 @@
 ]
 },
 {
-"id": "OPP-1204",
+"id": "OPP-1203",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28774,7 +28768,7 @@
 ]
 },
 {
-"id": "OPP-1205",
+"id": "OPP-1204",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28802,7 +28796,7 @@
 ]
 },
 {
-"id": "OPP-1206",
+"id": "OPP-1205",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28830,7 +28824,7 @@
 ]
 },
 {
-"id": "OPP-1207",
+"id": "OPP-1206",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28860,7 +28854,7 @@
 ]
 },
 {
-"id": "OPP-1208",
+"id": "OPP-1207",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28913,7 +28907,7 @@
 ]
 },
 {
-"id": "OPP-1209",
+"id": "OPP-1208",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28938,7 +28932,7 @@
 ]
 },
 {
-"id": "OPP-1210",
+"id": "OPP-1209",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28983,7 +28977,7 @@
 ]
 },
 {
-"id": "OPP-1211",
+"id": "OPP-1210",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28999,7 +28993,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1212",
+"id": "OPP-1211",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29031,7 +29025,7 @@
 ]
 },
 {
-"id": "OPP-1213",
+"id": "OPP-1212",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29063,7 +29057,7 @@
 ]
 },
 {
-"id": "OPP-1214",
+"id": "OPP-1213",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29079,7 +29073,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1215",
+"id": "OPP-1214",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29101,7 +29095,7 @@
 ]
 },
 {
-"id": "OPP-1216",
+"id": "OPP-1215",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29117,7 +29111,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1217",
+"id": "OPP-1216",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29139,7 +29133,7 @@
 ]
 },
 {
-"id": "OPP-1218",
+"id": "OPP-1217",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29158,7 +29152,7 @@
 ]
 },
 {
-"id": "OPP-1219",
+"id": "OPP-1218",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29180,7 +29174,7 @@
 ]
 },
 {
-"id": "OPP-1220",
+"id": "OPP-1219",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -29202,7 +29196,7 @@
 ]
 },
 {
-"id": "OPP-1221",
+"id": "OPP-1220",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -63499,8 +63493,8 @@
 "2021-12",
 "2022-07"
 ],
-"check": "Check",
-"note": "Sellers confirm Xiaomi 12X, Xiaomi 12. The rest match on specs: test before swapping. Bizon Glass Edge 3D is sold for Xiaomi 12 / 12X as one product; 12S not confirmed. Curved-edge style glass",
+"check": "Confirmed",
+"note": "Bizon Glass Edge 3D is sold for Xiaomi 12 / 12X as one product; 12S not confirmed. Curved-edge style glass. Nillkin sells one tempered glass for the Xiaomi 12, 12X and 12S (Home Screen)",
 "device": "Phone",
 "sources": [
 [
@@ -63522,6 +63516,10 @@
 [
 "Smartphonehoesjes.nl: Selencia Gehard Glas Premium Screenprotector voor de Xiaomi 12 / 12X",
 "https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-xiaomi-12-12x.html"
+],
+[
+"Home Screen (Nillkin): Nillkin 3D CP+ Max Xiaomi 12/12X/12S",
+"https://homescreen.pl/en/xiaomi-1212x/53852-nillkin-3d-cp-max-xiaomi-12-12x-12s-6902048240407.html"
 ]
 ],
 "codes": [
@@ -64205,10 +64203,18 @@
 "2022-10",
 "2022-10"
 ],
-"check": "Check",
-"note": "Sellers confirm Xiaomi 12T, Xiaomi 12T Pro. The rest match on specs: test before swapping. Bizon Glass Edge and 3MK FlexibleGlass are sold for Xiaomi 12T / 12T Pro; Redmi K50 Ultra not confirmed",
+"check": "Confirmed",
+"note": "Nillkin sells one tempered glass for the Redmi K50 Ultra, Xiaomi 12T and 12T Pro. Bizon Glass Edge and 3MK FlexibleGlass are sold for Xiaomi 12T / 12T Pro; Redmi K50 Ultra not confirmed",
 "device": "Phone",
 "sources": [
+[
+"Home Screen (Nillkin): Nillkin Amazing CP+ Pro Xiaomi 12T / 12T Pro / Redmi K50 Ultra",
+"https://homescreen.pl/en/xiaomi-12tpro/52746-tempered-glass-nillkin-amazing-cp-pro-xiaomi-12t-12t-pro-redmi-k50-ultra-6902048257924.html"
+],
+[
+"Arvutitark (Nillkin): Nillkin CP+PRO Tempered Glass for Xiaomi 12T/12T Pro/Redmi K50 Ultra",
+"https://arvutitark.ee/ru/smart-devices/telefoni-umbrised/nillkin-cppro-tempered-glass-for-xiaomi-12t12t-proredmi-k-1337611"
+],
 [
 "Bizon via Homescreen.pl",
 "https://homescreen.pl/en/2326-xiaomi-12-series"
@@ -64863,10 +64869,18 @@
 "2023-09",
 "2023-09"
 ],
-"check": "Check",
-"note": "Sellers confirm Xiaomi 13T, Xiaomi 13T Pro. The rest match on specs: test before swapping. PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed",
+"check": "Confirmed",
+"note": "Nillkin sells one tempered glass for the Redmi K60 Ultra, Xiaomi 13T and 13T Pro (two Nillkin lines at Home Screen). PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed",
 "device": "Phone",
 "sources": [
+[
+"Home Screen (Nillkin): Nillkin CP+Pro Xiaomi 13T / 13T Pro / Redmi K60 Ultra",
+"https://homescreen.pl/en/xiaomi-13t-13t-pro/70916-nillkin-cppro-xiaomi-13t-13t-pro-redmi-k60-ultra-black-6902048270480.html"
+],
+[
+"Home Screen (Nillkin): Nillkin Amazing H+ Pro Xiaomi Redmi K60 Ultra / Xiaomi 13T / 13T Pro",
+"https://homescreen.pl/en/xiaomi-13t-13t-pro/73713-nillkin-amazing-h-pro-xiaomi-redmi-k60-ultra-xiaomi-13t-13t-pro-6902048270473.html"
+],
 [
 "PanzerGlass via Homescreen.pl",
 "https://homescreen.pl/en/2325-xiaomi-13-series"
@@ -80501,8 +80515,8 @@
 "2022-08",
 "2022-09"
 ],
-"check": "Check",
-"note": "Sellers confirm vivo V25, vivo V25e. The rest match on specs: test before swapping. Two Flipkart sellers (YOGIJEET, ASMANTIC) sell one glass for V25 and V25e. X80 Lite not seen",
+"check": "Confirmed",
+"note": "Two Flipkart sellers (YOGIJEET, ASMANTIC) sell one glass for V25 and V25e. X80 Lite not seen. Wozinsky and Dux Ducis each sell one tempered glass for the vivo X80 Lite and V25",
 "device": "Phone",
 "sources": [
 [
@@ -80512,6 +80526,14 @@
 [
 "Flipkart (ASMANTIC)",
 "https://www.flipkart.com/asmantic-tempered-glass-guard-vivo-v25-vivo-v25e-5g/p/itm412d6a9717075?pid=ACCH6G8KXEAXDJYM"
+],
+[
+"Digitec (Wozinsky): Wozinsky Full Glue Tempered Glass Vivo X80 Lite / V25",
+"https://www.digitec.ch/en/s1/product/wozinsky-full-glue-tempered-glass-vivo-x80-lite-v25-full-screen-with-frame-black-case-friendly-vivo--25181104"
+],
+[
+"Home Screen (Dux Ducis): Dux Ducis 9D Tempered Glass Vivo X80 Lite/V25",
+"https://homescreen.pl/en/vivo-x80-lite/46665-dux-ducis-9d-tempered-glass-vivo-x80-lite-v25-black-case-friendly-6934913032831.html"
 ]
 ],
 "codes": [
@@ -93769,8 +93791,8 @@
 "2019-03",
 "2020-01"
 ],
-"check": "Check",
-"note": "Sellers confirm Huawei nova 4e, Huawei P30 lite. The rest match on specs: test before swapping. Two marketplace glass listings (Digitec OEM, PWY on Giztop) name P30 lite and nova 4e together",
+"check": "Confirmed",
+"note": "Two marketplace glass listings (Digitec OEM, PWY on Giztop) name P30 lite and nova 4e together. Hama sells one tempered glass for the P30 lite and P30 lite New Edition (Digitec)",
 "device": "Phone",
 "sources": [
 [
@@ -93784,6 +93806,10 @@
 [
 "POPIO: Tempered Glass for Huawei P30 lite / Huawei nova 4e (Black) Edge to Edge , Pack of 1",
 "https://www.popio.in/products/tempered-glass-for-huawei-p30-lite-huawei-nova-4e-black-edge-to-edge-pack-of-1"
+],
+[
+"Digitec (Hama): Hama 3D Full Screen Protective Glass Huawei P30 lite / P30 lite New Edition",
+"https://www.digitec.ch/en/s1/product/hama-3d-full-screen-protective-glass-1-pcs-huawei-p30-lite-huawei-p30-lite-new-edition-mobile-phone--10982868"
 ]
 ],
 "codes": [

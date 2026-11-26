@@ -1345,13 +1345,17 @@ OnePlus Nord N20 SE,OPP-1131,Oppo + OnePlus,Phone,2022-08,CPH2469,6.56in,163.8 x
 Oppo A77 4G,OPP-1131,Oppo + OnePlus,Phone,2022-08,CPH2385,6.56in,163.8 x 75 x 8
 Oppo A57s,OPP-1131,Oppo + OnePlus,Phone,2022-08,CPH2385,6.56in,163.8 x 75 x 8
 Oppo A57e,OPP-1131,Oppo + OnePlus,Phone,2022-08,CPH2387,6.56in,163.7 x 75 x 8
+Oppo A17,OPP-1131,Oppo + OnePlus,Phone,2022-09,CPH2477,6.56in,164.2 x 75.6 x 8.3
 OnePlus Nord N300,OPP-1131,Oppo + OnePlus,Phone,2022-10,CPH2389,6.56in,163.8 x 75.1 x 8
 Oppo A77s,OPP-1131,Oppo + OnePlus,Phone,2022-10,CPH2473,6.56in,163.8 x 75 x 8
+Oppo A17k,OPP-1131,Oppo + OnePlus,Phone,2022-10,CPH2471,6.56in,164.2 x 75.6 x 8.3
 Oppo A58 (China),OPP-1131,Oppo + OnePlus,Phone,2022-11,,6.56in,163.8 x 75 x 8
 Oppo A58x,OPP-1131,Oppo + OnePlus,Phone,2022-12,,6.56in,163.8 x 75.1 x 8
 Oppo A56s,OPP-1131,Oppo + OnePlus,Phone,2023-01,PFTM20,6.56in,163.8 x 75.1 x 8
 Oppo A78,OPP-1131,Oppo + OnePlus,Phone,2023-01,"CPH2483, CPH2495",6.56in,163.8 x 75.1 x 8
 Oppo A1x,OPP-1131,Oppo + OnePlus,Phone,2023-03,PHJ110,6.56in,163.8 x 75.1 x 8
+Oppo A38,OPP-1131,Oppo + OnePlus,Phone,2023-09,CPH2579,6.56in,163.7 x 75 x 8.2
+Oppo A18,OPP-1131,Oppo + OnePlus,Phone,2023-09,CPH2591,6.56in,163.7 x 75 x 8.2
 Oppo K10 5G (China),OPP-1132,Oppo + OnePlus,Phone,2022-04,PGJM10,6.59in,164.3 x 75.8 x 8.7
 OnePlus Ace Racing,OPP-1132,Oppo + OnePlus,Phone,2022-05,PGZ110,6.59in,164.3 x 75.8 x 8.7
 Oppo K10 Pro,OPP-1133,Oppo,Phone,2022-04,PGIM10,6.62in,162.7 x 75.7 x 8.6
@@ -1363,155 +1367,151 @@ Oppo A97,OPP-1137,Oppo,Phone,2022-07,PFTM10,6.6in,163.8 x 75.1 x 8
 Oppo Reno8,OPP-1138,Oppo,Phone,2022-07,CPH2359,6.4in,160.6 x 73.4 x 7.7
 Oppo Reno8 Z,OPP-1139,Oppo,Phone,2022-08,,6.43in,159.9 x 73.2 x 7.7
 Oppo Reno8 4G,OPP-1139,Oppo,Phone,2022-08,CPH2457,6.43in,159.9 x 73.2 x 7.7
-Oppo A17,OPP-1140,Oppo,Phone,2022-09,CPH2477,6.56in,164.2 x 75.6 x 8.3
-Oppo A17k,OPP-1140,Oppo,Phone,2022-10,CPH2471,6.56in,164.2 x 75.6 x 8.3
-Oppo A38,OPP-1140,Oppo,Phone,2023-09,CPH2579,6.56in,163.7 x 75 x 8.2
-Oppo A18,OPP-1140,Oppo,Phone,2023-09,CPH2591,6.56in,163.7 x 75 x 8.2
-Oppo A1 Pro,OPP-1141,Oppo,Phone,2022-11,PHQ110,6.7in,162.3 x 74.3 x 7.7
-Oppo Reno8 T 5G,OPP-1141,Oppo,Phone,2023-02,CPH2505,6.7in,162.3 x 74.3 x 7.7
-Oppo Reno9,OPP-1142,Oppo,Phone,2022-11,PHM110,6.7in,162.3 x 74.2 x 7.2
-Oppo Reno9 Pro,OPP-1142,Oppo,Phone,2022-11,PGX110,6.7in,162.3 x 74.2 x 7.2
-Oppo Reno9 Pro+,OPP-1143,Oppo,Phone,2022-11,PGW110,6.7in,161.5 x 73.6 x 8
-Oppo Find N2,OPP-1144,Oppo,Phone,2022-12,PGU110,5.54in,132.2 x 72.6 x 14.6
-Oppo Find N2 Flip,OPP-1145,Oppo,Phone,2022-12,"CPH2437, PGT110",3.26in,85.5 x 75.2 x 16
-Oppo Reno8 T,OPP-1146,Oppo,Phone,2023-02,CPH2481,6.43in,160.8 x 73.8 x 7.8
-Oppo Find X6,OPP-1147,Oppo,Phone,2023-03,PGFM10,6.74in,162.9 x 74.1 x 9
-Oppo Find X6 Pro,OPP-1148,Oppo,Phone,2023-03,"PGEM110, PGEM10",6.82in,164.8 x 76.2 x 9.1
-Oppo A1,OPP-1149,Oppo + OnePlus,Phone,2023-04,PHS110,6.72in,165.6 x 76.1 x 8.2
-Oppo A98,OPP-1149,Oppo + OnePlus,Phone,2023-05,CPH2529,6.72in,165.6 x 76.1 x 8.2
-Oppo F23,OPP-1149,Oppo + OnePlus,Phone,2023-05,CPH2527,6.72in,165.6 x 76.1 x 8.2
-Oppo A58 4G,OPP-1149,Oppo + OnePlus,Phone,2023-07,CPH2577,6.72in,165.7 x 76 x 8
-Oppo A79,OPP-1149,Oppo + OnePlus,Phone,2023-10,"CPH2553, CPH2557",6.72in,165.6 x 76 x 8
-Oppo A2,OPP-1149,Oppo + OnePlus,Phone,2023-11,PJB110,6.72in,165.6 x 76 x 8
-OnePlus Nord N30 SE,OPP-1149,Oppo + OnePlus,Phone,2024-01,CPH2605,6.72in,165.6 x 76 x 8
-Oppo Reno10 (China),OPP-1150,Oppo,Phone,2023-05,PHW110,6.7in,162.4 x 74.2 x 7.6
-Oppo Reno10 Pro (China),OPP-1151,Oppo,Phone,2023-05,PHV110,6.74in,163 x 74 x 7.7
-Oppo Reno10 Pro+,OPP-1152,Oppo,Phone,2023-05,"PHU110, CPH2521",6.74in,162.9 x 74 x 8.3
-Oppo A78 4G,OPP-1153,Oppo,Phone,2023-07,CPH2565,6.43in,160 x 73.2 x 7.9
-Oppo Reno10,OPP-1154,Oppo,Phone,2023-07,CPH2531,6.7in,162.4 x 74.2 x 8
-Oppo Reno10 Pro,OPP-1154,Oppo,Phone,2023-07,CPH2525,6.7in,162.3 x 74.2 x 7.9
-Oppo K11,OPP-1155,Oppo,Phone,2023-07,PJC110,6.7in,162.7 x 75.5 x 8.2
-Oppo Find N3 Flip,OPP-1156,Oppo,Phone,2023-08,"PHT110, CPH2519",3.26in,85.5 x 75.8 x 16.5
-Oppo A2 Pro,OPP-1157,Oppo,Phone,2023-09,PJG110,6.7in,162.7 x 74.3 x 8
-Oppo Reno11 (China),OPP-1158,Oppo,Phone,2023-11,PJH110,6.7in,162.4 x 74.1 x 7.6
-Oppo Reno11,OPP-1158,Oppo,Phone,2024-01,CPH2599,6.7in,162.4 x 74.3 x 7.9
-Oppo Reno11 Pro,OPP-1158,Oppo,Phone,2024-01,CPH2607,6.7in,162.4 x 74.1 x 7.6
-Oppo Reno11 Pro (China),OPP-1159,Oppo,Phone,2023-11,PJJ110,6.74in,163 x 74.2 x 8.2
-Oppo A59,OPP-1160,Oppo,Phone,2023-12,CPH2617,6.56in,
-Oppo Find X7,OPP-1161,Oppo,Phone,2024-01,PHZ110,6.78in,162.7 x 75.4 x 8.7
-Oppo Find X7 Ultra,OPP-1162,Oppo,Phone,2024-01,"PHY110, PHY120",6.82in,164.3 x 76.2 x 9.5
-Oppo Reno11 F,OPP-1163,Oppo,Phone,2024-02,CPH2603,6.7in,161.1 x 74.7 x 7.5
-Oppo F25 Pro,OPP-1163,Oppo,Phone,2024-02,,6.7in,161.1 x 74.7 x 7.5
-Oppo K12x (China),OPP-1164,Oppo + OnePlus,Phone,2024-03,PJT110,6.67in,162.9 x 75.6 x 8.1
-OnePlus Nord CE4 Lite (India),OPP-1164,Oppo + OnePlus,Phone,2024-06,CPH2621,6.67in,162.9 x 75.6 x 8.1
-OnePlus Nord CE4 Lite,OPP-1164,Oppo + OnePlus,Phone,2024-06,"CPH2619, CPH262",6.67in,162.9 x 75.6 x 8.1
-Oppo A3 Pro (China),OPP-1165,Oppo,Phone,2024-04,PJY110,6.7in,162.7 x 74.3 x 7.5
-Oppo Reno12 (China),OPP-1166,Oppo,Phone,2024-05,PJV110,6.7in,161.4 x 74.8 x 7.3
-Oppo Reno12 Pro (China),OPP-1167,Oppo,Phone,2024-05,PJW110,6.7in,161.4 x 74.8 x 7.6
-Oppo F27 Pro+,OPP-1168,Oppo,Phone,2024-06,CPH2643,6.7in,162.7 x 74.3 x 7.9
-Oppo Reno12,OPP-1169,Oppo,Phone,2024-06,CPH2625,6.7in,161.4 x 74.1 x 7.6
-Oppo Reno12 Pro,OPP-1170,Oppo,Phone,2024-06,CPH2629,6.7in,161.5 x 74.8 x 7.4
-Oppo A3 Pro,OPP-1171,Oppo,Phone,2024-06,"CPH2639, CPH2665",6.67in,165.8 x 76.1 x 7.7
-Oppo A3x 4G,OPP-1171,Oppo,Phone,2024-08,CPH2641,6.67in,165.8 x 76.1 x 7.7
-Oppo A3 4G,OPP-1171,Oppo,Phone,2024-08,"CPH2669, CPH3669",6.67in,165.8 x 76.1 x 7.7
-Oppo A80,OPP-1171,Oppo,Phone,2024-08,CPH2639,6.67in,165.8 x 76.1 x 7.7
-Oppo Reno12 F,OPP-1172,Oppo,Phone,2024-06,CPH2637,6.67in,163.1 x 75.8 x 7.8
-Oppo A3 (China),OPP-1173,Oppo,Phone,2024-07,PKA110,6.7in,162.5 x 75.4 x 7.2
-Oppo Reno12 F 4G,OPP-1174,Oppo,Phone,2024-07,CPH2687,6.67in,163.1 x 75.8 x 7.7
-Oppo F27,OPP-1175,Oppo,Phone,2024-08,,6.67in,163 x 75.8 x 7.7
-Oppo Find X8,OPP-1176,Oppo,Phone,2024-10,"CPH2651, PKB110",6.59in,157.4 x 74.3 x 7.9
-Oppo Find X8 Pro,OPP-1177,Oppo,Phone,2024-10,"CPH2659, PKC110, PKC130",6.78in,162.3 x 76.7 x 8.2
-Oppo Reno13,OPP-1178,Oppo,Phone,2024-11,"CPH2689, PKM110",6.59in,157.9 x 74.7 x 7.2
-Oppo Reno14,OPP-1178,Oppo,Phone,2025-05,"PLA110, CPH2737",6.59in,157.9 x 74.7 x 7.3
-Oppo Reno14 F,OPP-1178,Oppo,Phone,2025-07,CPH2743,6.57in,158.1 x 75 x 7.7
-Oppo Reno13 Pro,OPP-1179,Oppo,Phone,2024-11,"CPH2697, PKK110",6.83in,162.8 x 76.6 x 7.6
-Oppo A5 Pro,OPP-1180,Oppo,Phone,2024-12,CPH2695,6.67in,164.8 x 75.5 x 7.8
-Oppo A5 Pro 4G,OPP-1180,Oppo,Phone,2025-03,CPH2711,6.67in,164.8 x 75.5 x 7.8
-Oppo A5 Pro (China),OPP-1181,Oppo,Phone,2024-12,PKP110,6.7in,161.5 x 74.9 x 7.6
-Oppo F29 Pro,OPP-1181,Oppo,Phone,2025-03,CPH2705,6.7in,161.5 x 74.9 x 7.6
-Oppo Reno13 F,OPP-1182,Oppo,Phone,2025-01,CPH2699,6.67in,162.2 x 75.1 x 7.8
-Oppo Reno13 F 5G,OPP-1182,Oppo,Phone,2025-01,,6.67in,162.2 x 75.05 x 7.76
-Oppo Reno13 F 4G,OPP-1182,Oppo,Phone,2025-01,CPH2701,6.67in,162.2 x 75.1 x 7.8
-Oppo Find N5,OPP-1183,Oppo,Phone,2025-02,"CPH2671, PKH110, PKH120",6.62in,160.9 x 74.4 x 8.9
-Oppo F29,OPP-1184,Oppo,Phone,2025-03,,6.7in,161.6 x 74.5 x 7.7
-Oppo A5 (China),OPP-1184,Oppo,Phone,2025-03,PKQ110,6.7in,161.6 x 74.5 x 7.7
-Oppo A5 Energy,OPP-1185,Oppo,Phone,2025-03,PKV110,6.67in,164.8 x 75.5 x 7.9
-Oppo Find X8 Ultra,OPP-1186,Oppo,Phone,2025-04,"PKJ110, PKU110",6.82in,163.1 x 76.8 x 8.8
-Oppo Find X9 Ultra,OPP-1186,Oppo,Phone,2026-03,"CPH2841, PMA110",6.82in,163.2 x 77.0 x 8.7
-Oppo Find X8s,OPP-1187,Oppo,Phone,2025-04,PKT110,6.32in,150.6 x 71.8 x 7.7
-Oppo Find X8s+,OPP-1188,Oppo,Phone,2025-04,PLB110,6.59in,157.5 x 74.5 x 8
-Oppo K13,OPP-1189,Oppo,Phone,2025-04,"CPH2729, PLD110",6.67in,163.2 x 76.1 x 8.5
-Oppo Reno14 Pro,OPP-1190,Oppo,Phone,2025-05,"PKZ110, CPH2739",6.83in,163.4 x 77 x 7.5
-Oppo K13 Turbo,OPP-1191,Oppo,Phone,2025-07,PLM110,6.8in,162.8 x 77.2 x 7.3
-Oppo K13 Turbo Pro,OPP-1191,Oppo,Phone,2025-07,PLE110,6.8in,162.8 x 77.2 x 7.3
-Oppo A6 Pro,OPP-1192,Oppo,Phone,2025-07,CPH2781,6.57in,158.2 x 75 x 8
-Oppo F31,OPP-1192,Oppo,Phone,2025-09,CPH2781,6.57in,158.2 x 75 x 8
-Oppo F31 Pro,OPP-1192,Oppo,Phone,2025-09,CPH2763,6.57in,158.2 x 75 x 8
-Oppo A6 Pro 4G,OPP-1192,Oppo,Phone,2025-09,CPH2799,6.57in,158.2 x 75 x 8
-Oppo A6 Pro (China),OPP-1192,Oppo,Phone,2025-09,PLN110,6.57in,158.2 x 75 x 8
-Oppo Reno15,OPP-1192,Oppo,Phone,2025-11,CPH2825,6.59in,158 x 74.8 x 7.8
-Oppo Reno 15c,OPP-1192,Oppo,Phone,2025-12,PMD110,6.59in,158 x 74.8 x 7.8
-Oppo Reno15 F,OPP-1192,Oppo,Phone,2026-01,CPH2801,6.57in,158.2 x 74.9 x 8.1
-Oppo Reno15 FS,OPP-1192,Oppo,Phone,2026-01,CPH2801,6.57in,158.2 x 74.9 x 8.2
-Oppo A6s Pro,OPP-1192,Oppo,Phone,2026-02,,6.57in,158.2 x 75 x 8
-Oppo Reno15c (India),OPP-1192,Oppo,Phone,2026-02,CPH2801,6.57in,158.2 x 74.9 x 8.1
-Oppo F33,OPP-1192,Oppo,Phone,2026-04,CPH2777,6.57in,158.2 x 75 x 8
-Oppo F31 Pro+,OPP-1193,Oppo,Phone,2025-09,CPH2757,6.8in,163.1 x 77.6 x 7.7
-Oppo A6 GT,OPP-1193,Oppo,Phone,2025-09,PLL110,6.8in,163.1 x 77.6 x 7.7
-Oppo A6 Max,OPP-1194,Oppo,Phone,2025-09,,6.8in,
-Oppo Find X9,OPP-1195,Oppo,Phone,2025-10,"CPH2797, PLJ110",6.59in,157 x 73.9 x 8
-Oppo Find X9s,OPP-1195,Oppo,Phone,2026-04,CPH2873,6.59in,157 x 73.9 x 8
-Oppo Find X9 Pro,OPP-1196,Oppo,Phone,2025-10,"CPH2791, PLG110",6.78in,161.3 x 76.5 x 8.3
-Oppo Reno15 Pro,OPP-1197,Oppo,Phone,2025-11,CPH2813,6.32in,151.2 x 72.4 x 8
-Oppo Reno15 (China),OPP-1197,Oppo,Phone,2025-11,PLW110,6.32in,151.2 x 72.4 x 8
-Oppo Reno15 Pro Mini,OPP-1197,Oppo,Phone,2026-01,CPH2813,6.32in,151.2 x 72.4 x 8
-Oppo Reno15 Pro (China),OPP-1198,Oppo,Phone,2025-11,PLV110,6.78in,161.2 x 76.5 x 7.7
-Oppo A6x (India),OPP-1199,Oppo,Phone,2025-12,CPH2823,6.75in,166.6 x 78.5 x 8.6
-Oppo A6x 4G,OPP-1199,Oppo,Phone,2026-01,CPH2819,6.75in,166.6 x 78.5 x 8.6
-Oppo A6x 5G,OPP-1199,Oppo,Phone,2026-01,,6.75in,166.6 x 78.5 x 8.6
-Oppo A6s,OPP-1199,Oppo,Phone,2026-01,CPH2789,6.75in,166.6 x 78.5 x 8.6
-Oppo A6 4G,OPP-1199,Oppo,Phone,2026-01,CPH2817,6.75in,166.6 x 78.5 x 8.6
-Oppo A6,OPP-1199,Oppo,Phone,2026-01,"CPH2831, PLT120",6.75in,166.6 x 78.5 x 8.6
-Oppo A6 Pro (India),OPP-1199,Oppo,Phone,2026-01,CPH2827,6.75in,166.6 x 78.5 x 8.6
-Oppo A6c (China),OPP-1199,Oppo,Phone,2026-01,PMC110,6.75in,166.6 x 78.5 x 8.6
-Oppo A6s 4G,OPP-1199,Oppo,Phone,2026-01,CPH2815,6.75in,166.6 x 78.5 x 8.6
-Oppo A6t 4G,OPP-1199,Oppo,Phone,2026-01,CPH2847,6.75in,166.6 x 78.5 x 8.6
-Oppo A6t,OPP-1199,Oppo,Phone,2026-01,"CPH2853, PLT130",6.75in,166.6 x 78.5 x 8.6
-Oppo A6t Pro 4G,OPP-1199,Oppo,Phone,2026-01,CPH2849,6.75in,166.6 x 78.5 x 8.6
-Oppo A6x,OPP-1199,Oppo,Phone,2026-01,CPH2783,6.75in,166.6 x 78.5 x 8.6
-Oppo K14x,OPP-1199,Oppo,Phone,2026-02,CPH2871,6.75in,166.6 x 78.5 x 8.6
-Oppo A6s (India),OPP-1199,Oppo,Phone,2026-03,CPH2889,6.75in,166.6 x 78.5 x 8.6
-Oppo K14,OPP-1199,Oppo,Phone,2026-03,CPH2869,6.75in,166.6 x 78.5 x 8.6
-Oppo A6k,OPP-1199,Oppo,Phone,2026-04,,6.75in,166.6 x 78.5 x 8.6
-Oppo Reno15 Pro Max,OPP-1200,Oppo,Phone,2026-01,CPH2811,6.78in,161.3 x 76.5 x 7.7
-Oppo Reno15 Pro (India),OPP-1200,Oppo,Phone,2026-01,CPH2811,6.78in,161.3 x 76.5 x 7.7
-Oppo Find N6,OPP-1201,Oppo,Phone,2026-02,"PLP110, PLP120",6.62in,159.9 x 74.1 x 8.9
-Oppo Reno15 A,OPP-1202,Oppo,Phone,2026-03,,,
-Oppo A6c,OPP-1203,Oppo,Phone,2026-04,CPH2895,6.75in,166.5 x 78.5 x 8.9
-Oppo A6s Pro (China),OPP-1204,Oppo,Phone,2026-04,PMT110,6.57in,158.4 x 75.2 x 8.3
-Oppo F33 Pro,OPP-1204,Oppo,Phone,2026-04,CPH2835,6.57in,158.4 x 75.2 x 8.3
-Oppo Find X9s Pro,OPP-1205,Oppo,Phone,2026-04,PME110,6.32in,150.5 x 71.7 x 8.4
-Oppo K15 Pro+,OPP-1206,Oppo,Phone,2026-04,PMG110,6.78in,162.4 x 77.5 x 8.3
-Oppo K15 Pro,OPP-1207,Oppo,Phone,2026-04,PMH110,6.59in,158.3 x 75.1 x 8.3
-Oppo K15,OPP-1207,Oppo,Phone,2026-07,PYD110,6.59in,158.3 x 75.1 x 8.3
-Oppo Reno16 (China),OPP-1208,Oppo,Phone,2026-05,PMM110,6.32in,151.2 x 72.4 x 8.2
-Oppo Reno16,OPP-1208,Oppo,Phone,2026-06,CPH2865,6.32in,151.2 x 72.4 x 8.2
-Oppo Reno16 Pro,OPP-1208,Oppo,Phone,2026-06,CPH2863,6.32in,151.2 x 72.4 x 8.2
-Oppo Reno16 Pro (China),OPP-1209,Oppo,Phone,2026-05,PMK110,6.78in,161.3 x 76.4 x 7.7
-Oppo Reno16 F,OPP-1210,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.5 x 8.4
-Oppo Reno16 FS,OPP-1210,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.9 x 8.4
-Oppo Reno16c,OPP-1210,Oppo,Phone,2026-07,CPH2859,6.57in,158.2 x 74.9 x 8.4
-Oppo A7 Pro Max,OPP-1211,Oppo,Phone,2026-08,,,
-Oppo Find X10,OPP-1212,Oppo,Phone,2026-09,,6.59in,156.51 x 74.29 x 8.35
-Oppo Find X10 Pro Max,OPP-1213,Oppo,Phone,2026-09,,6.78in,161.32 x 76.57 x 8.4
-Oppo Find X10E,OPP-1214,Oppo,Phone,2026-09,,,
-Oppo A7 Pro,OPP-1215,Oppo,Phone,2026-09,,6.57in,159.08 x 75.81 x 8.8
-Oppo K14 Lite,OPP-1216,Oppo,Phone,2026-09,,,
-Oppo K14 Plus,OPP-1217,Oppo,Phone,2026-09,,6.78in,162.56 x 77.6 x 8.4
-Oppo F35,OPP-1218,Oppo,Phone,2026-10,,6.57in,
-Oppo F35 Pro,OPP-1219,Oppo,Phone,2026-10,,6.78in,162.6 x 77.6 x 8.4
-Oppo Reno17,OPP-1220,Oppo,Phone,2026-11,,6.56in,157.64 x 75.27 x 8.28
-Oppo Reno17 Pro,OPP-1221,Oppo,Phone,2026-11,,6.32in,151.21 x 72.42 x 8.32
+Oppo A1 Pro,OPP-1140,Oppo,Phone,2022-11,PHQ110,6.7in,162.3 x 74.3 x 7.7
+Oppo Reno8 T 5G,OPP-1140,Oppo,Phone,2023-02,CPH2505,6.7in,162.3 x 74.3 x 7.7
+Oppo Reno9,OPP-1141,Oppo,Phone,2022-11,PHM110,6.7in,162.3 x 74.2 x 7.2
+Oppo Reno9 Pro,OPP-1141,Oppo,Phone,2022-11,PGX110,6.7in,162.3 x 74.2 x 7.2
+Oppo Reno9 Pro+,OPP-1142,Oppo,Phone,2022-11,PGW110,6.7in,161.5 x 73.6 x 8
+Oppo Find N2,OPP-1143,Oppo,Phone,2022-12,PGU110,5.54in,132.2 x 72.6 x 14.6
+Oppo Find N2 Flip,OPP-1144,Oppo,Phone,2022-12,"CPH2437, PGT110",3.26in,85.5 x 75.2 x 16
+Oppo Reno8 T,OPP-1145,Oppo,Phone,2023-02,CPH2481,6.43in,160.8 x 73.8 x 7.8
+Oppo Find X6,OPP-1146,Oppo,Phone,2023-03,PGFM10,6.74in,162.9 x 74.1 x 9
+Oppo Find X6 Pro,OPP-1147,Oppo,Phone,2023-03,"PGEM110, PGEM10",6.82in,164.8 x 76.2 x 9.1
+Oppo A1,OPP-1148,Oppo + OnePlus,Phone,2023-04,PHS110,6.72in,165.6 x 76.1 x 8.2
+Oppo A98,OPP-1148,Oppo + OnePlus,Phone,2023-05,CPH2529,6.72in,165.6 x 76.1 x 8.2
+Oppo F23,OPP-1148,Oppo + OnePlus,Phone,2023-05,CPH2527,6.72in,165.6 x 76.1 x 8.2
+Oppo A58 4G,OPP-1148,Oppo + OnePlus,Phone,2023-07,CPH2577,6.72in,165.7 x 76 x 8
+Oppo A79,OPP-1148,Oppo + OnePlus,Phone,2023-10,"CPH2553, CPH2557",6.72in,165.6 x 76 x 8
+Oppo A2,OPP-1148,Oppo + OnePlus,Phone,2023-11,PJB110,6.72in,165.6 x 76 x 8
+OnePlus Nord N30 SE,OPP-1148,Oppo + OnePlus,Phone,2024-01,CPH2605,6.72in,165.6 x 76 x 8
+Oppo Reno10 (China),OPP-1149,Oppo,Phone,2023-05,PHW110,6.7in,162.4 x 74.2 x 7.6
+Oppo Reno10 Pro (China),OPP-1150,Oppo,Phone,2023-05,PHV110,6.74in,163 x 74 x 7.7
+Oppo Reno10 Pro+,OPP-1151,Oppo,Phone,2023-05,"PHU110, CPH2521",6.74in,162.9 x 74 x 8.3
+Oppo A78 4G,OPP-1152,Oppo,Phone,2023-07,CPH2565,6.43in,160 x 73.2 x 7.9
+Oppo Reno10,OPP-1153,Oppo,Phone,2023-07,CPH2531,6.7in,162.4 x 74.2 x 8
+Oppo Reno10 Pro,OPP-1153,Oppo,Phone,2023-07,CPH2525,6.7in,162.3 x 74.2 x 7.9
+Oppo K11,OPP-1154,Oppo,Phone,2023-07,PJC110,6.7in,162.7 x 75.5 x 8.2
+Oppo Find N3 Flip,OPP-1155,Oppo,Phone,2023-08,"PHT110, CPH2519",3.26in,85.5 x 75.8 x 16.5
+Oppo A2 Pro,OPP-1156,Oppo,Phone,2023-09,PJG110,6.7in,162.7 x 74.3 x 8
+Oppo Reno11 (China),OPP-1157,Oppo,Phone,2023-11,PJH110,6.7in,162.4 x 74.1 x 7.6
+Oppo Reno11,OPP-1157,Oppo,Phone,2024-01,CPH2599,6.7in,162.4 x 74.3 x 7.9
+Oppo Reno11 Pro,OPP-1157,Oppo,Phone,2024-01,CPH2607,6.7in,162.4 x 74.1 x 7.6
+Oppo Reno11 Pro (China),OPP-1158,Oppo,Phone,2023-11,PJJ110,6.74in,163 x 74.2 x 8.2
+Oppo A59,OPP-1159,Oppo,Phone,2023-12,CPH2617,6.56in,
+Oppo Find X7,OPP-1160,Oppo,Phone,2024-01,PHZ110,6.78in,162.7 x 75.4 x 8.7
+Oppo Find X7 Ultra,OPP-1161,Oppo,Phone,2024-01,"PHY110, PHY120",6.82in,164.3 x 76.2 x 9.5
+Oppo Reno11 F,OPP-1162,Oppo,Phone,2024-02,CPH2603,6.7in,161.1 x 74.7 x 7.5
+Oppo F25 Pro,OPP-1162,Oppo,Phone,2024-02,,6.7in,161.1 x 74.7 x 7.5
+Oppo K12x (China),OPP-1163,Oppo + OnePlus,Phone,2024-03,PJT110,6.67in,162.9 x 75.6 x 8.1
+OnePlus Nord CE4 Lite (India),OPP-1163,Oppo + OnePlus,Phone,2024-06,CPH2621,6.67in,162.9 x 75.6 x 8.1
+OnePlus Nord CE4 Lite,OPP-1163,Oppo + OnePlus,Phone,2024-06,"CPH2619, CPH262",6.67in,162.9 x 75.6 x 8.1
+Oppo A3 Pro (China),OPP-1164,Oppo,Phone,2024-04,PJY110,6.7in,162.7 x 74.3 x 7.5
+Oppo Reno12 (China),OPP-1165,Oppo,Phone,2024-05,PJV110,6.7in,161.4 x 74.8 x 7.3
+Oppo Reno12 Pro (China),OPP-1166,Oppo,Phone,2024-05,PJW110,6.7in,161.4 x 74.8 x 7.6
+Oppo F27 Pro+,OPP-1167,Oppo,Phone,2024-06,CPH2643,6.7in,162.7 x 74.3 x 7.9
+Oppo Reno12,OPP-1168,Oppo,Phone,2024-06,CPH2625,6.7in,161.4 x 74.1 x 7.6
+Oppo Reno12 Pro,OPP-1169,Oppo,Phone,2024-06,CPH2629,6.7in,161.5 x 74.8 x 7.4
+Oppo A3 Pro,OPP-1170,Oppo,Phone,2024-06,"CPH2639, CPH2665",6.67in,165.8 x 76.1 x 7.7
+Oppo A3x 4G,OPP-1170,Oppo,Phone,2024-08,CPH2641,6.67in,165.8 x 76.1 x 7.7
+Oppo A3 4G,OPP-1170,Oppo,Phone,2024-08,"CPH2669, CPH3669",6.67in,165.8 x 76.1 x 7.7
+Oppo A80,OPP-1170,Oppo,Phone,2024-08,CPH2639,6.67in,165.8 x 76.1 x 7.7
+Oppo Reno12 F,OPP-1171,Oppo,Phone,2024-06,CPH2637,6.67in,163.1 x 75.8 x 7.8
+Oppo A3 (China),OPP-1172,Oppo,Phone,2024-07,PKA110,6.7in,162.5 x 75.4 x 7.2
+Oppo Reno12 F 4G,OPP-1173,Oppo,Phone,2024-07,CPH2687,6.67in,163.1 x 75.8 x 7.7
+Oppo F27,OPP-1174,Oppo,Phone,2024-08,,6.67in,163 x 75.8 x 7.7
+Oppo Find X8,OPP-1175,Oppo,Phone,2024-10,"CPH2651, PKB110",6.59in,157.4 x 74.3 x 7.9
+Oppo Find X8 Pro,OPP-1176,Oppo,Phone,2024-10,"CPH2659, PKC110, PKC130",6.78in,162.3 x 76.7 x 8.2
+Oppo Reno13,OPP-1177,Oppo,Phone,2024-11,"CPH2689, PKM110",6.59in,157.9 x 74.7 x 7.2
+Oppo Reno14,OPP-1177,Oppo,Phone,2025-05,"PLA110, CPH2737",6.59in,157.9 x 74.7 x 7.3
+Oppo Reno14 F,OPP-1177,Oppo,Phone,2025-07,CPH2743,6.57in,158.1 x 75 x 7.7
+Oppo Reno13 Pro,OPP-1178,Oppo,Phone,2024-11,"CPH2697, PKK110",6.83in,162.8 x 76.6 x 7.6
+Oppo A5 Pro,OPP-1179,Oppo,Phone,2024-12,CPH2695,6.67in,164.8 x 75.5 x 7.8
+Oppo A5 Pro 4G,OPP-1179,Oppo,Phone,2025-03,CPH2711,6.67in,164.8 x 75.5 x 7.8
+Oppo A5 Pro (China),OPP-1180,Oppo,Phone,2024-12,PKP110,6.7in,161.5 x 74.9 x 7.6
+Oppo F29 Pro,OPP-1180,Oppo,Phone,2025-03,CPH2705,6.7in,161.5 x 74.9 x 7.6
+Oppo Reno13 F,OPP-1181,Oppo,Phone,2025-01,CPH2699,6.67in,162.2 x 75.1 x 7.8
+Oppo Reno13 F 5G,OPP-1181,Oppo,Phone,2025-01,,6.67in,162.2 x 75.05 x 7.76
+Oppo Reno13 F 4G,OPP-1181,Oppo,Phone,2025-01,CPH2701,6.67in,162.2 x 75.1 x 7.8
+Oppo Find N5,OPP-1182,Oppo,Phone,2025-02,"CPH2671, PKH110, PKH120",6.62in,160.9 x 74.4 x 8.9
+Oppo F29,OPP-1183,Oppo,Phone,2025-03,,6.7in,161.6 x 74.5 x 7.7
+Oppo A5 (China),OPP-1183,Oppo,Phone,2025-03,PKQ110,6.7in,161.6 x 74.5 x 7.7
+Oppo A5 Energy,OPP-1184,Oppo,Phone,2025-03,PKV110,6.67in,164.8 x 75.5 x 7.9
+Oppo Find X8 Ultra,OPP-1185,Oppo,Phone,2025-04,"PKJ110, PKU110",6.82in,163.1 x 76.8 x 8.8
+Oppo Find X9 Ultra,OPP-1185,Oppo,Phone,2026-03,"CPH2841, PMA110",6.82in,163.2 x 77.0 x 8.7
+Oppo Find X8s,OPP-1186,Oppo,Phone,2025-04,PKT110,6.32in,150.6 x 71.8 x 7.7
+Oppo Find X8s+,OPP-1187,Oppo,Phone,2025-04,PLB110,6.59in,157.5 x 74.5 x 8
+Oppo K13,OPP-1188,Oppo,Phone,2025-04,"CPH2729, PLD110",6.67in,163.2 x 76.1 x 8.5
+Oppo Reno14 Pro,OPP-1189,Oppo,Phone,2025-05,"PKZ110, CPH2739",6.83in,163.4 x 77 x 7.5
+Oppo K13 Turbo,OPP-1190,Oppo,Phone,2025-07,PLM110,6.8in,162.8 x 77.2 x 7.3
+Oppo K13 Turbo Pro,OPP-1190,Oppo,Phone,2025-07,PLE110,6.8in,162.8 x 77.2 x 7.3
+Oppo A6 Pro,OPP-1191,Oppo,Phone,2025-07,CPH2781,6.57in,158.2 x 75 x 8
+Oppo F31,OPP-1191,Oppo,Phone,2025-09,CPH2781,6.57in,158.2 x 75 x 8
+Oppo F31 Pro,OPP-1191,Oppo,Phone,2025-09,CPH2763,6.57in,158.2 x 75 x 8
+Oppo A6 Pro 4G,OPP-1191,Oppo,Phone,2025-09,CPH2799,6.57in,158.2 x 75 x 8
+Oppo A6 Pro (China),OPP-1191,Oppo,Phone,2025-09,PLN110,6.57in,158.2 x 75 x 8
+Oppo Reno15,OPP-1191,Oppo,Phone,2025-11,CPH2825,6.59in,158 x 74.8 x 7.8
+Oppo Reno 15c,OPP-1191,Oppo,Phone,2025-12,PMD110,6.59in,158 x 74.8 x 7.8
+Oppo Reno15 F,OPP-1191,Oppo,Phone,2026-01,CPH2801,6.57in,158.2 x 74.9 x 8.1
+Oppo Reno15 FS,OPP-1191,Oppo,Phone,2026-01,CPH2801,6.57in,158.2 x 74.9 x 8.2
+Oppo A6s Pro,OPP-1191,Oppo,Phone,2026-02,,6.57in,158.2 x 75 x 8
+Oppo Reno15c (India),OPP-1191,Oppo,Phone,2026-02,CPH2801,6.57in,158.2 x 74.9 x 8.1
+Oppo F33,OPP-1191,Oppo,Phone,2026-04,CPH2777,6.57in,158.2 x 75 x 8
+Oppo F31 Pro+,OPP-1192,Oppo,Phone,2025-09,CPH2757,6.8in,163.1 x 77.6 x 7.7
+Oppo A6 GT,OPP-1192,Oppo,Phone,2025-09,PLL110,6.8in,163.1 x 77.6 x 7.7
+Oppo A6 Max,OPP-1193,Oppo,Phone,2025-09,,6.8in,
+Oppo Find X9,OPP-1194,Oppo,Phone,2025-10,"CPH2797, PLJ110",6.59in,157 x 73.9 x 8
+Oppo Find X9s,OPP-1194,Oppo,Phone,2026-04,CPH2873,6.59in,157 x 73.9 x 8
+Oppo Find X9 Pro,OPP-1195,Oppo,Phone,2025-10,"CPH2791, PLG110",6.78in,161.3 x 76.5 x 8.3
+Oppo Reno15 Pro,OPP-1196,Oppo,Phone,2025-11,CPH2813,6.32in,151.2 x 72.4 x 8
+Oppo Reno15 (China),OPP-1196,Oppo,Phone,2025-11,PLW110,6.32in,151.2 x 72.4 x 8
+Oppo Reno15 Pro Mini,OPP-1196,Oppo,Phone,2026-01,CPH2813,6.32in,151.2 x 72.4 x 8
+Oppo Reno15 Pro (China),OPP-1197,Oppo,Phone,2025-11,PLV110,6.78in,161.2 x 76.5 x 7.7
+Oppo A6x (India),OPP-1198,Oppo,Phone,2025-12,CPH2823,6.75in,166.6 x 78.5 x 8.6
+Oppo A6x 4G,OPP-1198,Oppo,Phone,2026-01,CPH2819,6.75in,166.6 x 78.5 x 8.6
+Oppo A6x 5G,OPP-1198,Oppo,Phone,2026-01,,6.75in,166.6 x 78.5 x 8.6
+Oppo A6s,OPP-1198,Oppo,Phone,2026-01,CPH2789,6.75in,166.6 x 78.5 x 8.6
+Oppo A6 4G,OPP-1198,Oppo,Phone,2026-01,CPH2817,6.75in,166.6 x 78.5 x 8.6
+Oppo A6,OPP-1198,Oppo,Phone,2026-01,"CPH2831, PLT120",6.75in,166.6 x 78.5 x 8.6
+Oppo A6 Pro (India),OPP-1198,Oppo,Phone,2026-01,CPH2827,6.75in,166.6 x 78.5 x 8.6
+Oppo A6c (China),OPP-1198,Oppo,Phone,2026-01,PMC110,6.75in,166.6 x 78.5 x 8.6
+Oppo A6s 4G,OPP-1198,Oppo,Phone,2026-01,CPH2815,6.75in,166.6 x 78.5 x 8.6
+Oppo A6t 4G,OPP-1198,Oppo,Phone,2026-01,CPH2847,6.75in,166.6 x 78.5 x 8.6
+Oppo A6t,OPP-1198,Oppo,Phone,2026-01,"CPH2853, PLT130",6.75in,166.6 x 78.5 x 8.6
+Oppo A6t Pro 4G,OPP-1198,Oppo,Phone,2026-01,CPH2849,6.75in,166.6 x 78.5 x 8.6
+Oppo A6x,OPP-1198,Oppo,Phone,2026-01,CPH2783,6.75in,166.6 x 78.5 x 8.6
+Oppo K14x,OPP-1198,Oppo,Phone,2026-02,CPH2871,6.75in,166.6 x 78.5 x 8.6
+Oppo A6s (India),OPP-1198,Oppo,Phone,2026-03,CPH2889,6.75in,166.6 x 78.5 x 8.6
+Oppo K14,OPP-1198,Oppo,Phone,2026-03,CPH2869,6.75in,166.6 x 78.5 x 8.6
+Oppo A6k,OPP-1198,Oppo,Phone,2026-04,,6.75in,166.6 x 78.5 x 8.6
+Oppo Reno15 Pro Max,OPP-1199,Oppo,Phone,2026-01,CPH2811,6.78in,161.3 x 76.5 x 7.7
+Oppo Reno15 Pro (India),OPP-1199,Oppo,Phone,2026-01,CPH2811,6.78in,161.3 x 76.5 x 7.7
+Oppo Find N6,OPP-1200,Oppo,Phone,2026-02,"PLP110, PLP120",6.62in,159.9 x 74.1 x 8.9
+Oppo Reno15 A,OPP-1201,Oppo,Phone,2026-03,,,
+Oppo A6c,OPP-1202,Oppo,Phone,2026-04,CPH2895,6.75in,166.5 x 78.5 x 8.9
+Oppo A6s Pro (China),OPP-1203,Oppo,Phone,2026-04,PMT110,6.57in,158.4 x 75.2 x 8.3
+Oppo F33 Pro,OPP-1203,Oppo,Phone,2026-04,CPH2835,6.57in,158.4 x 75.2 x 8.3
+Oppo Find X9s Pro,OPP-1204,Oppo,Phone,2026-04,PME110,6.32in,150.5 x 71.7 x 8.4
+Oppo K15 Pro+,OPP-1205,Oppo,Phone,2026-04,PMG110,6.78in,162.4 x 77.5 x 8.3
+Oppo K15 Pro,OPP-1206,Oppo,Phone,2026-04,PMH110,6.59in,158.3 x 75.1 x 8.3
+Oppo K15,OPP-1206,Oppo,Phone,2026-07,PYD110,6.59in,158.3 x 75.1 x 8.3
+Oppo Reno16 (China),OPP-1207,Oppo,Phone,2026-05,PMM110,6.32in,151.2 x 72.4 x 8.2
+Oppo Reno16,OPP-1207,Oppo,Phone,2026-06,CPH2865,6.32in,151.2 x 72.4 x 8.2
+Oppo Reno16 Pro,OPP-1207,Oppo,Phone,2026-06,CPH2863,6.32in,151.2 x 72.4 x 8.2
+Oppo Reno16 Pro (China),OPP-1208,Oppo,Phone,2026-05,PMK110,6.78in,161.3 x 76.4 x 7.7
+Oppo Reno16 F,OPP-1209,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.5 x 8.4
+Oppo Reno16 FS,OPP-1209,Oppo,Phone,2026-06,CPH2859,6.57in,158.2 x 74.9 x 8.4
+Oppo Reno16c,OPP-1209,Oppo,Phone,2026-07,CPH2859,6.57in,158.2 x 74.9 x 8.4
+Oppo A7 Pro Max,OPP-1210,Oppo,Phone,2026-08,,,
+Oppo Find X10,OPP-1211,Oppo,Phone,2026-09,,6.59in,156.51 x 74.29 x 8.35
+Oppo Find X10 Pro Max,OPP-1212,Oppo,Phone,2026-09,,6.78in,161.32 x 76.57 x 8.4
+Oppo Find X10E,OPP-1213,Oppo,Phone,2026-09,,,
+Oppo A7 Pro,OPP-1214,Oppo,Phone,2026-09,,6.57in,159.08 x 75.81 x 8.8
+Oppo K14 Lite,OPP-1215,Oppo,Phone,2026-09,,,
+Oppo K14 Plus,OPP-1216,Oppo,Phone,2026-09,,6.78in,162.56 x 77.6 x 8.4
+Oppo F35,OPP-1217,Oppo,Phone,2026-10,,6.57in,
+Oppo F35 Pro,OPP-1218,Oppo,Phone,2026-10,,6.78in,162.6 x 77.6 x 8.4
+Oppo Reno17,OPP-1219,Oppo,Phone,2026-11,,6.56in,157.64 x 75.27 x 8.28
+Oppo Reno17 Pro,OPP-1220,Oppo,Phone,2026-11,,6.32in,151.21 x 72.42 x 8.32
 Oppo Pad,OPP-2001,Oppo,Tablet,2022-02,OPD2101,11.0in,252.2 x 163.8 x 7.1
 Oppo Pad Air,OPP-2002,Oppo,Tablet,2022-05,"OPD2102, X21N2",10.36in,245.1 x 154.8 x 6.9
 Oppo Pad Air2,OPP-2003,Oppo,Tablet,2023-11,,11.4in,255.1 x 188 x 6.9
