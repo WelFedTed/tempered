@@ -4053,10 +4053,13 @@
    {
     "name": "3MK",
     "url": "https://3mk.pl/p/2x-szklo-hybrydowe-na-infinix-note-50-note-50-pro-3mk-hardy-fusion"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Hybrid Glass for Infinix Note 50 / Note 50 Pro",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-hybrid-glass-for-infinix-note-50-note-50-pro-191297"
    }
   ],
-  "note": "3MK sells one 3MK Hardy Fusion hybrid glass (2-pack) for Infinix Note 50 / Note 50 Pro. 3MK does not say 4G: test fit.",
-  "weak": true
+  "note": "3MK sells one hybrid glass for the Infinix Note 50 4G and Infinix Note 50 Pro 4G (Hurtel)."
  },
  {
   "models": [
@@ -10392,6 +10395,14 @@
    {
     "name": "Hofi Glass Fit+ (aio.lv)",
     "url": "https://aio.lv/en/product--hofi-5906302361236--11712503"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass™ Tempered Glass for Motorola Moto G15 / G15 Power / G05 / E15",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tm-tempered-glass-for-motorola-moto-g15-g15-power-g05-e15-187913"
+   },
+   {
+    "name": "Hurtel: Tech-Protect Glass Fit+ 2-Pack Tempered Glass for Motorola Moto G15 / G15 Power / G05 / E15 - Black",
+    "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-motorola-moto-g15-g15-power-g05-e15-black-189073"
    }
   ],
   "note": "3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15."
@@ -10435,6 +10446,14 @@
    {
     "name": "MobyDefend (MediaMarkt)",
     "url": "https://www.mediamarkt.nl/en/product/_mobydefend-case-friendly-screen-protector-tempered-glass-suitable-for-motorola-moto-g17-and-motorola-moto-g17-power-screen-protector-for-motorola-transparent-172902171.html"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Hybrid Glass for Motorola Moto G17 / G17 Power",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-hybrid-glass-for-motorola-moto-g17-g17-power-209007"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass tempered glass for Motorola Moto G17 / G17 Power",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-motorola-moto-g17-g17-power-209202"
    }
   ],
   "note": "Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power."
@@ -11929,6 +11948,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Edge Duo Realme 14 5G / 14T 5G black frame [2 PACK]",
     "url": "https://homescreen.pl/en/realme-14/126312-bizon-glass-edge-duo-realme-14-5g-14t-5g-black-frame-2-pack-5900415719755.html"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Hybrid Glass for Realme 14 5G / 14T 5G",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-hybrid-glass-for-realme-14-5g-14t-5g-192553"
    }
   ],
   "note": "Bizon Glass Clear 2 is sold for Realme 14 5G / 14T 5G."
@@ -12051,6 +12074,14 @@
    {
     "name": "Alza (PanzerGlass A17 glass compatible with A16)",
     "url": "https://m.alza.at/bewertungen/panzerglass-samsung-galaxy-a17a17-5g-mit-einbaurahmen-glas-kompatibel-mit-a16a16-5g-13070653.htm"
+   },
+   {
+    "name": "Hurtel: 3mk Hardglass Max Tempered Glass for Samsung Galaxy A16 4G / 5G / A17 4G / 5G",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-tempered-glass-for-samsung-galaxy-a16-4g-5g-a17-4g-5g-200420"
+   },
+   {
+    "name": "Hurtel: 3mk Hardglass Max Privacy Screen Protector for Samsung Galaxy A16 4G / 5G / A17 4G / 5G",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-privacy-screen-protector-for-samsung-galaxy-a16-4g-5g-a17-4g-5g-200452"
    }
   ],
   "note": "Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17."
@@ -12118,6 +12149,10 @@
    {
     "name": "Samsung support",
     "url": "https://www.samsung.com/us/support/answer/ANS10006878/"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Tempered Glass for Samsung Galaxy Z Flip 6 / 7 FE",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tempered-glass-for-samsung-galaxy-z-flip-6-7-fe-179513"
    }
   ],
   "note": "ZAGG cover-screen glass is sold for Flip7 FE and Flip6 together, and Samsung says Flip6 film fits Flip7 FE; Flip5 not confirmed."
@@ -14806,6 +14841,10 @@
    {
     "name": "Homescreen.pl: 3MK HardGlass Xiaomi Redmi 13C 4G / 13C 5G / POCO C65",
     "url": "https://homescreen.pl/en/redmi-13c/75474-3mk-hardglass-xiaomi-redmi-13c-4g-13c-5g-poco-c65-5903108565905.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Tempered Glass for Xiaomi Redmi 13C / 13C 5G / Poco C65",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-xiaomi-redmi-13c-13c-5g-poco-c65-169834"
    }
   ],
   "note": "3MK HardGlass and Bizon Clear 2/Edge 2 are sold for Redmi 13C 4G / 13C 5G / Poco C65 as one product; Poco M6 and Redmi 13R not confirmed."
@@ -14937,6 +14976,14 @@
    {
     "name": "Homescreen.pl: Bizon Smart 2.5D Glass Xiaomi 14T / 14T Pro",
     "url": "https://homescreen.pl/en/xiaomi-14t-14t-pro/132820-bizon-smart-25d-glass-xiaomi-14t-14t-pro-5900415734161.html"
+   },
+   {
+    "name": "Hurtel: Hybrid glass 3mk FlexibleGlass for Xiaomi 14T / 14T Pro",
+    "url": "https://hurtel.com/en/products/hybrid-glass-3mk-flexibleglass-for-xiaomi-14t-14t-pro-182175"
+   },
+   {
+    "name": "Hurtel: Tempered glass 9H 3mk HardGlass™ for Xiaomi 14T / 14T Pro",
+    "url": "https://hurtel.com/en/products/tempered-glass-9h-3mk-hardglass-tm-for-xiaomi-14t-14t-pro-182789"
    }
   ],
   "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
@@ -14959,6 +15006,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Clear 2 Xiaomi 13T / 13T Pro",
     "url": "https://homescreen.pl/en/xiaomi-13t-13t-pro/96215-bizon-glass-clear-2-xiaomi-13t-13t-pro-5904665348628.html"
+   },
+   {
+    "name": "Hurtel: Xiaomi 13T/13T Pro - 3mk FlexibleGlass™",
+    "url": "https://hurtel.com/en/products/xiaomi-13t-13t-pro-3mk-flexibleglass-tm-155674"
    }
   ],
   "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
@@ -14981,6 +15032,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Edge 2 Xiaomi 12T / 12T Pro black",
     "url": "https://homescreen.pl/en/xiaomi-12tpro/94098-bizon-glass-edge-2-xiaomi-12t-12t-pro-black-5904665387061.html"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass™ hybrid glass for Xiaomi 12T/12T Pro",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-for-xiaomi-12t-12t-pro-143661"
    }
   ],
   "note": "Bizon Glass Edge and 3MK FlexibleGlass are sold for Xiaomi 12T / 12T Pro; Redmi K50 Ultra not confirmed."
@@ -14995,6 +15050,10 @@
    {
     "name": "Bizon via Homescreen.pl",
     "url": "https://homescreen.pl/en/2326-xiaomi-12-series"
+   },
+   {
+    "name": "Hurtel: 9H 3mk HardGlass Max™ glass for Xiaomi 12 / 12X",
+    "url": "https://hurtel.com/en/products/9h-3mk-hardglass-max-tm-glass-for-xiaomi-12-12x-169863"
    }
   ],
   "note": "Bizon Glass Edge 3D is sold for Xiaomi 12 / 12X as one product; 12S not confirmed. Curved-edge style glass."
@@ -15013,6 +15072,14 @@
    {
     "name": "Homescreen.pl: 3MK HardGlass Max Xiaomi 13 Pro/12 Pro black",
     "url": "https://homescreen.pl/en/xiaomi-13-pro/60050-3mk-hardglass-max-xiaomi-13-pro-12-pro-black-5903108529044.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Max Black Tempered Glass for Xiaomi 12 Pro / 13 Pro",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-black-tempered-glass-for-xiaomi-12-pro-13-pro-169850"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Max Black Tempered Glass for Xiaomi 12 Pro / 13 Pro",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-black-tempered-glass-for-xiaomi-12-pro-13-pro-169862"
    }
   ],
   "note": "3MK sells one glass for the Xiaomi 12 Pro and Xiaomi 13 Pro (Homescreen.pl)."
@@ -15053,6 +15120,14 @@
    {
     "name": "Homescreen.pl: Bizon Glass Aplikator Edge Xiaomi POCO F7 Pro / F7 Ultra",
     "url": "https://homescreen.pl/en/poco-f7-pro/137692-bizon-glass-aplikator-edge-xiaomi-poco-f7-pro-f7-ultra-5900415747468.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Tempered Glass for Xiaomi Poco F7 Pro / Xiaomi Poco F7 Ultra",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-xiaomi-poco-f7-pro-xiaomi-poco-f7-ultra-191741"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Hybrid Glass for Xiaomi Poco F7 Pro / Xiaomi Poco F7 Ultra",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-hybrid-glass-for-xiaomi-poco-f7-pro-xiaomi-poco-f7-ultra-192302"
    }
   ],
   "note": "3MK HardGlass and Bizon Clear/Edge/Smart glass are each sold for Poco F7 Pro / F7 Ultra as one product (catalogue has them in separate groups)."
@@ -16955,6 +17030,14 @@
    {
     "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Samsung Galaxy A16 4G / 5G black",
     "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/139726-myscreen-diamond-glass-edge-lite-full-glue-samsung-galaxy-a16-4g-5g-black-5904433241168.html"
+   },
+   {
+    "name": "Hurtel: Wozinsky Privacy Glass tempered glass for Samsung Galaxy A16 / A16 5G with Anti Spy privacy filter",
+    "url": "https://hurtel.com/en/products/wozinsky-privacy-glass-tempered-glass-for-samsung-galaxy-a16-a16-5g-with-anti-spy-privacy-filter-183627"
+   },
+   {
+    "name": "Hurtel: Wozinsky Tempered Glass tempered glass for Samsung Galaxy A16 / A16 5G",
+    "url": "https://hurtel.com/en/products/wozinsky-tempered-glass-tempered-glass-for-samsung-galaxy-a16-a16-5g-183628"
    }
   ],
   "note": "MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl)."
@@ -16973,6 +17056,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Aplicator Edge Samsung Galaxy A16 / A17",
     "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/135640-bizon-glass-aplicator-edge-samsung-galaxy-a16-a17-5900415743576.html"
+   },
+   {
+    "name": "Hurtel: 3mk Expert Glass Protection™ Tempered Glass with Applicator for Samsung Galaxy A16 / A17",
+    "url": "https://hurtel.com/en/products/3mk-expert-glass-protection-tm-tempered-glass-with-applicator-for-samsung-galaxy-a16-a17-210559"
    }
   ],
   "note": "Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl)."
@@ -17029,6 +17116,10 @@
    {
     "name": "Homescreen.pl: 3MK HardGlass Xiaomi Redmi 14C / A5",
     "url": "https://homescreen.pl/en/redmi-14c/112649-3mk-hardglass-xiaomi-redmi-14c-a5-5903108654920.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass tempered glass for Xiaomi Redmi 14C / A5",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-xiaomi-redmi-14c-a5-191772"
    }
   ],
   "note": "3MK sells one glass for the Redmi 14C and Redmi A5 (Homescreen.pl)."
@@ -17047,6 +17138,14 @@
    {
     "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Redmi 13C / POCO C65",
     "url": "https://homescreen.pl/en/poco-c65/73005-3mk-flexibleglass-xiaomi-redmi-13c-poco-c65-5903108547031.html"
+   },
+   {
+    "name": "Hurtel: 9H 3mk HardGlass Max Lite™ Glass for Redmi 13C / Poco C65",
+    "url": "https://hurtel.com/en/products/9h-3mk-hardglass-max-lite-tm-glass-for-redmi-13c-poco-c65-157987"
+   },
+   {
+    "name": "Hurtel: 9H 3mk HardGlass™ Glass for Redmi 13C / Poco C65",
+    "url": "https://hurtel.com/en/products/9h-3mk-hardglass-tm-glass-for-redmi-13c-poco-c65-158100"
    }
   ],
   "note": "3MK sells one glass for the Poco C65 and Redmi 13C (Homescreen.pl)."
@@ -17094,6 +17193,10 @@
    {
     "name": "Homescreen.pl: 3MK FlexibleGlass Lite Xiaomi Redmi 14C / POCO C75 / Redmi A4 5G",
     "url": "https://homescreen.pl/en/redmi-14c/112187-3mk-flexibleglass-lite-xiaomi-redmi-14c-poco-c75-redmi-a4-5g-5903108610247.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Max Lite Black Tempered Glass for Xiaomi Redmi 14C / Xiaomi Poco C75 / Xiaomi Redmi A4 5G",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-lite-black-tempered-glass-for-xiaomi-redmi-14c-xiaomi-poco-c75-xiaomi-redmi-a4-5g-191658"
    }
   ],
   "note": "3MK sells one hybrid glass for the Poco C75, Redmi 14C and Redmi A4 5G (Homescreen.pl)."
@@ -17122,6 +17225,10 @@
    {
     "name": "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi Note 14 4G / 5G black",
     "url": "https://homescreen.pl/en/redmi-note-14/139820-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-note-14-4g-5g-black-5904433245715.html"
+   },
+   {
+    "name": "Hurtel: Tech-Protect Glass Fit +2-Pack Tempered Glass for Xiaomi Redmi Note 14 4G / 5G - Black",
+    "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-xiaomi-redmi-note-14-4g-5g-black-189076"
    }
   ],
   "note": "MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl)."
@@ -17171,6 +17278,10 @@
    {
     "name": "Homescreen.pl: 3MK FlexibleGlass Xiaomi Pad 8 / Pad 8 Pro",
     "url": "https://homescreen.pl/en/xiaomi-pad-8-8-pro-7-7-pro/149684-3mk-flexibleglass-xiaomi-pad-8-pad-8-pro-5903108758307.html"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass™ hybrid glass for Xiaomi Pad 8 / Pad 8 Pro",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-for-xiaomi-pad-8-pad-8-pro-210240"
    }
   ],
   "note": "3MK sells one hybrid glass for the Xiaomi Pad 8 and Xiaomi Pad 8 Pro (Homescreen.pl)."
@@ -17322,6 +17433,10 @@
    {
     "name": "Homescreen.pl: 3MK HardGlass Honor 400 Smart 4G / 5G",
     "url": "https://homescreen.pl/en/honor-400-smart/149669-3mk-hardglass-honor-400-smart-4g-5g-5903108674652.html"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass tempered glass for Honor 400 Smart 4G / 5G",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-honor-400-smart-4g-5g-196954"
    }
   ],
   "note": "3MK sells one glass for the Honor 400 Smart and Honor 400 Smart 4G (Homescreen.pl)."
@@ -17379,6 +17494,10 @@
    {
     "name": "Homescreen.pl: 3MK FlexibleGlass Oppo Reno 15 F 5G / Reno 15 FS 5G",
     "url": "https://homescreen.pl/en/oppo-reno15-f-fs/147798-3mk-flexibleglass-oppo-reno-15-f-5g-reno-15-fs-5g-5903108746489.html"
+   },
+   {
+    "name": "Hurtel: 3mk FlexibleGlass Hybrid Glass for Oppo Reno 15 F 5G / Oppo Reno 15 FS 5G",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-hybrid-glass-for-oppo-reno-15-f-5g-oppo-reno-15-fs-5g-208256"
    }
   ],
   "note": "3MK sells one hybrid glass for the Oppo Reno15 F and Oppo Reno15 FS (Homescreen.pl)."
@@ -17829,6 +17948,14 @@
    {
     "name": "Supershieldz: [3-Pack] Supershieldz for Xiaomi Redmi Note 10 / Redmi Note 10s Tempered Glass Screen Protector, Anti-Scratch, Anti-Fing",
     "url": "https://www.supershieldz.com/tg-3p-xm-redmi-note-10-redmi-note-10s"
+   },
+   {
+    "name": "Hurtel: 3mk HardGlass Max Lite tempered glass for Xiaomi Redmi Note 10 / 10S",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-lite-tempered-glass-for-xiaomi-redmi-note-10-10s-169951"
+   },
+   {
+    "name": "Hurtel: Reinforced Full Screen Tempered Glass 3mk HardGlass Max Black for Xiaomi Redmi Note 10/10s 4G",
+    "url": "https://hurtel.com/en/products/reinforced-full-screen-tempered-glass-3mk-hardglass-max-black-for-xiaomi-redmi-note-10-10s-4g-209659"
    }
   ],
   "note": "Supershieldz sells one tempered glass for the Redmi Note 10 and Redmi Note 10S."
@@ -17934,5 +18061,303 @@
    }
   ],
   "note": "Supershieldz sells one tempered glass for the Galaxy A71 5G and Galaxy A71 5G UW."
+ },
+ {
+  "models": [
+   "Galaxy M31",
+   "Galaxy M31 Prime"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk HardGlass Max Lite Black Tempered Glass for Samsung Galaxy M31 / M31 Prime",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-lite-black-tempered-glass-for-samsung-galaxy-m31-m31-prime-170010"
+   }
+  ],
+  "note": "3MK sells one glass for the Galaxy M31 and Galaxy M31 Prime (Hurtel)."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 7",
+   "Xiaomi Pad 7 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Hybrid glass 3mk FlexibleGlass for Xiaomi Pad 7/7 Pro - up to 13\"",
+    "url": "https://hurtel.com/en/products/hybrid-glass-3mk-flexibleglass-for-xiaomi-pad-7-7-pro-up-to-13-quot-185250"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Xiaomi Pad 7 and Xiaomi Pad 7 Pro (Hurtel)."
+ },
+ {
+  "models": [
+   "Moto G15",
+   "Moto G15 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Hybrid Glass 3mk FlexibleGlass™ for Motorola Moto G15 / G15 Power",
+    "url": "https://hurtel.com/en/products/hybrid-glass-3mk-flexibleglass-tm-for-motorola-moto-g15-g15-power-187904"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Moto G15 and Moto G15 Power (Hurtel)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A17",
+   "Galaxy A17 4G",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Tech-Protect Glass Fit+ 2-pack tempered glass for Samsung Galaxy A16 4G / 5G / A26 5G / A17 4G / 5G - black",
+    "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-samsung-galaxy-a16-4g-5g-a26-5g-a17-4g-5g-black-199081"
+   },
+   {
+    "name": "Hurtel: Tech-Protect Glass Spy+ 2-pack Privacy Glass for Samsung Galaxy A16 4G / 5G / A26 5G / A17 4G / 5G",
+    "url": "https://hurtel.com/en/products/tech-protect-glass-spy-2-pack-privacy-glass-for-samsung-galaxy-a16-4g-5g-a26-5g-a17-4g-5g-199706"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel)."
+ },
+ {
+  "models": [
+   "Galaxy A07",
+   "Galaxy M07"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk HardGlass Tempered Glass for Samsung Galaxy A07 5G / M07 5G",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-samsung-galaxy-a07-5g-m07-5g-208272"
+   }
+  ],
+  "note": "3MK sells one glass for the Galaxy A07 and Galaxy M07 (Hurtel)."
+ },
+ {
+  "models": [
+   "Moto G10",
+   "Moto G30"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Motorola Moto G30 / G10 - 3mk FlexibleGlass ™",
+    "url": "https://hurtel.com/en/products/motorola-moto-g30-g10-3mk-flexibleglass-tm-85020"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Moto G10 and Moto G30 (Hurtel)."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro",
+   "Redmi Note 11 Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk FlexibleGlass™ Hybrid Glass for Xiaomi Redmi Note 11 Pro 4G / 5G",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-for-xiaomi-redmi-note-11-pro-4g-5g-89448"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Redmi Note 11 Pro and Redmi Note 11 Pro 5G (Hurtel)."
+ },
+ {
+  "models": [
+   "Xiaomi 11 Lite 5G NE",
+   "Xiaomi Mi 11 Lite",
+   "Xiaomi Mi 11 Lite 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk FlexibleGlass™ hybrid glass on Xiaomi Mi 11 Lite 4G / 5G / 11 Lite 5G NE",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-on-xiaomi-mi-11-lite-4g-5g-11-lite-5g-ne-94073"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Xiaomi 11 Lite 5G NE, Xiaomi Mi 11 Lite and Xiaomi Mi 11 Lite 5G (Hurtel)."
+ },
+ {
+  "models": [
+   "Redmi 10 5G",
+   "Redmi Note 11E"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk FlexibleGlass™ hybrid glass on Xiaomi Redmi Note 11E 5G / Redmi 10 5G",
+    "url": "https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-on-xiaomi-redmi-note-11e-5g-redmi-10-5g-143470"
+   }
+  ],
+  "note": "3MK sells one hybrid glass for the Redmi 10 5G and Redmi Note 11E (Hurtel)."
+ },
+ {
+  "models": [
+   "Realme GT Neo 5",
+   "Realme GT3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Wozinsky Full Glue Tempered Glass for Realme GT Neo 5 / Realme GT3, 2-pack",
+    "url": "https://hurtel.com/en/products/wozinsky-full-glue-tempered-glass-for-realme-gt-neo-5-realme-gt3-2-pack-145906"
+   }
+  ],
+  "note": "Wozinsky sells one glass for the Realme GT Neo 5 and Realme GT3 (Hurtel)."
+ },
+ {
+  "models": [
+   "Redmi A1",
+   "Redmi A2"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Wozinsky Full Glue Tempered Glass for Xiaomi Redmi A2 / Redmi A1",
+    "url": "https://hurtel.com/en/products/wozinsky-full-glue-tempered-glass-for-xiaomi-redmi-a2-redmi-a1-145910"
+   }
+  ],
+  "note": "Wozinsky sells one glass for the Redmi A1 and Redmi A2 (Hurtel)."
+ },
+ {
+  "models": [
+   "Galaxy A05",
+   "Galaxy A06"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk HardGlass tempered glass for Samsung Galaxy A05 / A06",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-tempered-glass-for-samsung-galaxy-a05-a06-180224"
+   }
+  ],
+  "note": "3MK sells one glass for the Galaxy A05 and Galaxy A06 (Hurtel)."
+ },
+ {
+  "models": [
+   "Galaxy A05",
+   "Galaxy A06 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Wozinsky Full Glue Tempered Glass for Samsung Galaxy A06 5G / A05, 2-pack",
+    "url": "https://hurtel.com/en/products/wozinsky-full-glue-tempered-glass-for-samsung-galaxy-a06-5g-a05-2-pack-191623"
+   }
+  ],
+  "note": "Wozinsky sells one glass for the Galaxy A05 and Galaxy A06 5G (Hurtel)."
+ },
+ {
+  "models": [
+   "Pixel 10",
+   "Pixel 10 Pro",
+   "Pixel 11",
+   "Pixel 11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: 3mk Hardglass Max Tempered Glass for Google Pixel 10 / 10 Pro / 11 / 11 Pro",
+    "url": "https://hurtel.com/en/products/3mk-hardglass-max-tempered-glass-for-google-pixel-10-10-pro-11-11-pro-200417"
+   }
+  ],
+  "note": "3MK sells one glass for the Pixel 10, Pixel 10 Pro, Pixel 11 and Pixel 11 Pro (Hurtel)."
+ },
+ {
+  "models": [
+   "Pixel 10",
+   "Pixel 11"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Spigen Glas.tR EZ Fit Pro HD 2-Pack Privacy Tempered Glass for Google Pixel 10/11",
+    "url": "https://hurtel.com/en/products/spigen-glas-tr-ez-fit-pro-hd-2-pack-privacy-tempered-glass-for-google-pixel-10-11-213805"
+   }
+  ],
+  "note": "Spigen sells one glass for the Pixel 10 and Pixel 11 (Hurtel)."
+ },
+ {
+  "models": [
+   "Pixel 10",
+   "Pixel 10 Pro",
+   "Pixel 11",
+   "Pixel 11 Pro",
+   "Pixel 9 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Spigen Glas.tR EZ Fit Pro HD Privacy 2-Pack Tempered Glass Screen Protector for Google Pixel Pro 9 / 9 Pro / 10 / 10 Pro / 11 / 11 Pro",
+    "url": "https://hurtel.com/en/products/spigen-glas-tr-ez-fit-pro-hd-privacy-2-pack-tempered-glass-screen-protector-for-google-pixel-pro-9-9-pro-10-10-pro-11-11-pro-213917"
+   }
+  ],
+  "note": "Spigen sells one glass for the Pixel 10, Pixel 10 Pro, Pixel 11, Pixel 11 Pro and Pixel 9 Pro (Hurtel)."
+ },
+ {
+  "models": [
+   "Pixel 10 Pro",
+   "Pixel 11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Ringke Easy Slide Privacy 2-Pack Tempered Glass Screen Protector for Google Pixel Pro 9 Pro / 10 Pro / 11 Pro",
+    "url": "https://hurtel.com/en/products/ringke-easy-slide-privacy-2-pack-tempered-glass-screen-protector-for-google-pixel-pro-9-pro-10-pro-11-pro-213962"
+   }
+  ],
+  "note": "Ringke sells one glass for the Pixel 10 Pro and Pixel 11 Pro (Hurtel)."
+ },
+ {
+  "models": [
+   "Pixel 10",
+   "Pixel 10 Pro",
+   "Pixel 11",
+   "Pixel 11 Pro",
+   "Pixel 9",
+   "Pixel 9 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Tech-Protect Quick Set+ 2-Pack Tempered Glass for Google Pixel 9 / 9 Pro / 10 / 10 Pro / 11 / 11 Pro",
+    "url": "https://hurtel.com/en/products/tech-protect-quick-set-2-pack-tempered-glass-for-google-pixel-9-9-pro-10-10-pro-11-11-pro-215499"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Pixel 10, Pixel 10 Pro, Pixel 11, Pixel 11 Pro, Pixel 9 and Pixel 9 Pro (Hurtel)."
+ },
+ {
+  "models": [
+   "Redmi Note 17 Pro",
+   "Redmi Note 17 Pro Max"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Tech-Protect Glass Fit+ 2-Pack Tempered Glass for Xiaomi Redmi Note 17 Pro 5G / Pro Max 5G",
+    "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-xiaomi-redmi-note-17-pro-5g-pro-max-5g-216873"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel)."
+ },
+ {
+  "models": [
+   "Redmi Note 15 Pro",
+   "Redmi Note 17 Pro",
+   "Redmi Note 17 Pro Max"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hurtel: Spigen Glas.tR Slim 2-Pack Tempered Glass for Xiaomi Redmi Note 15 Pro / 17 Pro / 17 Pro Max 5G",
+    "url": "https://hurtel.com/en/products/spigen-glas-tr-slim-2-pack-tempered-glass-for-xiaomi-redmi-note-15-pro-17-pro-17-pro-max-5g-216911"
+   }
+  ],
+  "note": "Spigen sells one glass for the Redmi Note 15 Pro, Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel)."
  }
 ]
