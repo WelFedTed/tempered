@@ -28708,9 +28708,15 @@
 "released": [
 "2026-03"
 ],
-"check": "Check",
-"note": "",
-"device": "Phone"
+"check": "Confirmed",
+"note": "Elecom sells glass for the OPPO Reno15 A alone (elecom.co.jp)",
+"device": "Phone",
+"sources": [
+[
+"Elecom PM-O261FLGG: OPPO Reno15 A glass film",
+"https://www.elecom.co.jp/products/PM-O261FLGG.html"
+]
+]
 },
 {
 "id": "OPP-1203",
@@ -187997,9 +188003,15 @@
 "released": [
 "2024-07"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Elecom sells glass for the AQUOS wish4 alone (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-S241FLGG: AQUOS wish4 glass film",
+"https://www.elecom.co.jp/products/PM-S241FLGG.html"
+]
+],
 "codes": [
 "SH-M27SG"
 ],
@@ -188022,9 +188034,15 @@
 "released": [
 "2024-10"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Elecom sells glass for the AQUOS R9 pro alone (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-S245FLGG: AQUOS R9 pro glass film",
+"https://www.elecom.co.jp/products/PM-S245FLGG.html"
+]
+],
 "codes": [
 "SH-54E, SH-M30"
 ],
@@ -188052,9 +188070,19 @@
 "2024-10",
 "2025-10"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Elecom sells one tempered glass for the AQUOS sense10 and sense9 (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-S244FLGG: AQUOS sense10/9 glass film",
+"https://www.elecom.co.jp/products/PM-S244FLGG.html"
+],
+[
+"Elecom PM-S253FLGG: AQUOS sense10/9 glass film",
+"https://www.elecom.co.jp/products/PM-S253FLGG.html"
+]
+],
 "codes": [
 "SH-M29SG, SH-53E, SH-M29",
 ""
@@ -188080,9 +188108,15 @@
 "released": [
 "2025-05"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Elecom sells glass for the AQUOS wish5 alone (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-S251FLGG: AQUOS wish5 glass film",
+"https://www.elecom.co.jp/products/PM-S251FLGG.html"
+]
+],
 "codes": [
 "SH-AC05, SH-M32"
 ],
@@ -188105,9 +188139,15 @@
 "released": [
 "2026-06"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Elecom sells glass for the AQUOS R11 alone (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-S262FLGG: AQUOS R11 glass film",
+"https://www.elecom.co.jp/products/PM-S262FLGG.html"
+]
+],
 "codes": [
 "SH-51G, SH-M35"
 ],
@@ -211783,9 +211823,15 @@
 "2021-04",
 "2021-08"
 ],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Elecom sells one tempered glass for the Xperia 10 III and 10 III Lite (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-X213FLGG: Xperia 10 III/10 III Lite glass film 0.33mm",
+"https://www.elecom.co.jp/products/PM-X213FLGG.html"
+]
+],
 "codes": [
 "SO-52B, SOG04, XQ-BT52, A102SO",
 "XQ-BT44"
@@ -211838,26 +211884,41 @@
 ],
 "models": [
 "Xperia 1 III",
-"Xperia 1 IV"
+"Xperia 1 IV",
+"Xperia 1 V"
 ],
 "released": [
 "2021-04",
-"2022-05"
+"2022-05",
+"2023-05"
 ],
 "check": "Check",
-"note": "Same body size and screen specs: test before swapping",
+"note": "Sellers confirm Xperia 1 IV, Xperia 1 V. The rest match on specs: test before swapping. Elecom sells one tempered glass for the Xperia 1 V and 1 IV (elecom.co.jp)",
 "device": "Phone",
+"sources": [
+[
+"Elecom PM-X231FLGG: Xperia 1 V/Xperia 1 IV glass film",
+"https://www.elecom.co.jp/products/PM-X231FLGG.html"
+],
+[
+"Elecom PM-X231FLGO: Xperia 1 V/Xperia 1 IV Gorilla glass film",
+"https://www.elecom.co.jp/products/PM-X231FLGO.html"
+]
+],
 "codes": [
 "XQBC62/V, XQBC52V.UKCX, SO-51B, SOG03, A101SO, XQ-BC62, XQ-BC72, XQ-BC52, XQ-BC01, XQ-BC11, XQ-BC21",
-"XQCT62-B, XQCT54, XQCT54C0V.YD, XQCT54C0B.YD, XQCT54C0W.YD, XQCT54C0V.EEAC, XQCT54C0B.EEAC, XQ-CT72, XQ-CT54, XQ-CT62, SO-51C"
+"XQCT62-B, XQCT54, XQCT54C0V.YD, XQCT54C0B.YD, XQCT54C0W.YD, XQCT54C0V.EEAC, XQCT54C0B.EEAC, XQ-CT72, XQ-CT54, XQ-CT62, SO-51C",
+"XQDQ62/B, XQ-DQ72, XQ-DQ54"
 ],
 "screens": [
+"6.5in",
 "6.5in",
 "6.5in"
 ],
 "dims": [
 "165 x 71 x 8.2 mm",
-"165 x 71 x 8.2 mm"
+"165 x 71 x 8.2 mm",
+"165 x 71 x 8.3 mm"
 ]
 },
 {
@@ -212000,37 +212061,6 @@
 "SON"
 ],
 "models": [
-"Xperia 1 V"
-],
-"released": [
-"2023-05"
-],
-"check": "Confirmed",
-"note": "Supershieldz sells Xperia 1 V glass separate from its 1 VI/1 VII glass",
-"device": "Phone",
-"sources": [
-[
-"Supershieldz",
-"https://www.supershieldz.com/bc-tg-se-xperia-1-v-2p"
-]
-],
-"codes": [
-"XQDQ62/B, XQ-DQ72, XQ-DQ54"
-],
-"screens": [
-"6.5in"
-],
-"dims": [
-"165 x 71 x 8.3 mm"
-]
-},
-{
-"id": "SON-1126",
-"brand": "Sony",
-"brands": [
-"SON"
-],
-"models": [
 "Xperia 5 V"
 ],
 "released": [
@@ -212056,7 +212086,7 @@
 ]
 },
 {
-"id": "SON-1127",
+"id": "SON-1126",
 "brand": "Sony",
 "brands": [
 "SON"
@@ -212109,7 +212139,7 @@
 ]
 },
 {
-"id": "SON-1128",
+"id": "SON-1127",
 "brand": "Sony",
 "brands": [
 "SON"

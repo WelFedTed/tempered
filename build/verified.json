@@ -2463,19 +2463,6 @@
  },
  {
   "models": [
-   "Xperia 1 V"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz",
-    "url": "https://www.supershieldz.com/bc-tg-se-xperia-1-v-2p"
-   }
-  ],
-  "note": "Supershieldz sells Xperia 1 V glass separate from its 1 VI/1 VII glass."
- },
- {
-  "models": [
    "Xperia 5 IV"
   ],
   "fit": "own",
@@ -24159,5 +24146,120 @@
    }
   ],
   "note": "Glass is sold for the Xiaomi 18 Fold alone (Nillkin)."
+ },
+ {
+  "models": [
+   "Xperia 10 III",
+   "Xperia 10 III Lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elecom PM-X213FLGG: Xperia 10 III/10 III Lite glass film 0.33mm",
+    "url": "https://www.elecom.co.jp/products/PM-X213FLGG.html"
+   }
+  ],
+  "note": "Elecom sells one tempered glass for the Xperia 10 III and 10 III Lite (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Sharp Aquos sense9",
+   "Sharp Aquos sense10"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elecom PM-S244FLGG: AQUOS sense10/9 glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S244FLGG.html"
+   },
+   {
+    "name": "Elecom PM-S253FLGG: AQUOS sense10/9 glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S253FLGG.html"
+   }
+  ],
+  "note": "Elecom sells one tempered glass for the AQUOS sense10 and sense9 (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Xperia 1 IV",
+   "Xperia 1 V"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Elecom PM-X231FLGG: Xperia 1 V/Xperia 1 IV glass film",
+    "url": "https://www.elecom.co.jp/products/PM-X231FLGG.html"
+   },
+   {
+    "name": "Elecom PM-X231FLGO: Xperia 1 V/Xperia 1 IV Gorilla glass film",
+    "url": "https://www.elecom.co.jp/products/PM-X231FLGO.html"
+   }
+  ],
+  "note": "Elecom sells one tempered glass for the Xperia 1 V and 1 IV (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Sharp Aquos R9 pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Elecom PM-S245FLGG: AQUOS R9 pro glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S245FLGG.html"
+   }
+  ],
+  "note": "Elecom sells glass for the AQUOS R9 pro alone (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Sharp Aquos wish4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Elecom PM-S241FLGG: AQUOS wish4 glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S241FLGG.html"
+   }
+  ],
+  "note": "Elecom sells glass for the AQUOS wish4 alone (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Sharp Aquos wish5"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Elecom PM-S251FLGG: AQUOS wish5 glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S251FLGG.html"
+   }
+  ],
+  "note": "Elecom sells glass for the AQUOS wish5 alone (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Oppo Reno15 A"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Elecom PM-O261FLGG: OPPO Reno15 A glass film",
+    "url": "https://www.elecom.co.jp/products/PM-O261FLGG.html"
+   }
+  ],
+  "note": "Elecom sells glass for the OPPO Reno15 A alone (elecom.co.jp)."
+ },
+ {
+  "models": [
+   "Sharp Aquos R11"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Elecom PM-S262FLGG: AQUOS R11 glass film",
+    "url": "https://www.elecom.co.jp/products/PM-S262FLGG.html"
+   }
+  ],
+  "note": "Elecom sells glass for the AQUOS R11 alone (elecom.co.jp)."
  }
 ]
