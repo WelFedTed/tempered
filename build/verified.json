@@ -7087,19 +7087,6 @@
  },
  {
   "models": [
-   "Galaxy A51"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MobileFun (Olixar)",
-    "url": "https://www.mobilefun.co.uk/olixar-samsung-galaxy-a51-tempered-glass-screen-protector-78750"
-   }
-  ],
-  "note": "Olixar sells A51-only tempered glass at MobileFun."
- },
- {
-  "models": [
    "Galaxy A71"
   ],
   "fit": "own",
@@ -14666,6 +14653,10 @@
    {
     "name": "Displex via AIO.lv",
     "url": "https://aio.lv/en/product--displex-02095--11464058.md"
+   },
+   {
+    "name": "SBS: Vetro 4D Full Glass per Xiaomi Redmi Note 14/13 Pro+",
+    "url": "https://www.sbsmobile.com/products/glass-screen-protector-4d-full-glass-per-xiaomi-redmi-note-14-pro-13-pro-plus-note-14-pro-plus-5g"
    }
   ],
   "note": "PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens."
@@ -15538,19 +15529,6 @@
  },
  {
   "models": [
-   "Xiaomi Mi 11"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK/Crong via Homescreen.pl",
-    "url": "https://homescreen.pl/en/809-mi-11-series"
-   }
-  ],
-  "note": "3MK HardGlass Max and Crong 3D Armour Glass are sold for Mi 11 alone. Curved screen: full-cover glass."
- },
- {
-  "models": [
    "Xiaomi Mi 10 Lite 5G"
   ],
   "fit": "own",
@@ -16138,6 +16116,10 @@
    {
     "name": "Displex: Galaxy A12/A32 5G",
     "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a32-5g-galaxy-a12"
+   },
+   {
+    "name": "Cellularline: Impact/Second Glass for Galaxy A12/Galaxy A32 5G",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Galaxy-A12-Galaxy-A32-5G/p/TEMPGCABGALA12K"
    }
   ],
   "note": "Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only)."
@@ -17582,6 +17564,10 @@
    {
     "name": "3MK: Nietłukące się szkło na Oppo A54 5G/A74 5G - 3mk FlexibleGlass Pro",
     "url": "https://3mk.pl/p/nietlukace-sie-szklo-na-oppo-a54-5g-a74-5g-3mk-flexibleglass-pro"
+   },
+   {
+    "name": "Cellularline: Impact/Second Glass for Oppo A74 5G/Oppo A54 5G",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-A74-5G-A54-5G/p/TEMPGCABOPPOA54K"
    }
   ],
   "note": "3MK sells one hybrid glass for the Oppo A54 5G and Oppo A74 5G (Homescreen.pl)."
@@ -19398,5 +19384,182 @@
    }
   ],
   "note": "Displex sells one glass for the Redmi 10 2022 and Redmi Note 10 5G (displex.com)."
+ },
+ {
+  "models": [
+   "Oppo Reno11",
+   "Oppo Reno11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SBS: Glass screen protector 4D Full Glass per Oppo Reno 11/Reno 11 Pro",
+    "url": "https://www.sbsmobile.com/products/glass-screen-protector-4d-full-glass-per-oppo-reno-11-reno-11-pro"
+   }
+  ],
+  "note": "SBS sells one full-cover glass for the Oppo Reno11 and Oppo Reno11 Pro (sbsmobile.com). Curved screens."
+ },
+ {
+  "models": [
+   "Honor 10 Lite",
+   "Honor 20 lite",
+   "Huawei P smart 2019"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Huawei P Smart 2019/Honor 10 Lite/Honor 20 Lite",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Second-Glass-Shape---P-Smart-%282019%29-Honor-10-Lite-Honor-20-Lite/p/TEMPGCABPSMART19T"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Honor 10 Lite, Honor 20 lite and Huawei P smart 2019 (cellularline.com)."
+ },
+ {
+  "models": [
+   "Xiaomi Mi Note 10",
+   "Xiaomi Mi Note 10 Lite",
+   "Xiaomi Mi Note 10 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Xiaomi Mi Note 10/Mi Note 10 Pro/Mi Note 10 Lite",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Curved---Mi-Note-10-Mi-Note-10-Pro-Mi-Note-10-Lite/p/TEMPGCUXIAOMINO10K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Xiaomi Mi Note 10, Xiaomi Mi Note 10 Lite and Xiaomi Mi Note 10 Pro (cellularline.com)."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 10 5G",
+   "Xiaomi Mi 10 Pro 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Xiaomi Mi 10/Mi 10 Pro",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Curved---Mi-10-Mi-10-Pro/p/TEMPGCUXIAOMI10K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Xiaomi Mi 10 5G and Xiaomi Mi 10 Pro 5G (cellularline.com)."
+ },
+ {
+  "models": [
+   "Redmi 10A",
+   "Redmi 9",
+   "Redmi 9A",
+   "Redmi 9AT",
+   "Redmi 9C"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Redmi 9/9A/9C/9AT/10A",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Xiamo-Redmi-9-9A-9C-9AT-10A/p/TEMPGCABXIAORE9K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Redmi 10A, Redmi 9, Redmi 9A, Redmi 9AT and Redmi 9C (cellularline.com)."
+ },
+ {
+  "models": [
+   "Oppo A92s",
+   "Oppo Reno4 Z 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Oppo Reno4 Z 5G/Oppo A92s",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-Reno4-Z-5G-A92s/p/TEMPGCABOPPOREN4ZK"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Oppo A92s and Oppo Reno4 Z 5G (cellularline.com)."
+ },
+ {
+  "models": [
+   "Huawei P20 lite (2019)",
+   "Huawei P40 lite"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Huawei P20 Lite 2019/Huawei P40 Lite",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---P20-Lite-%282019%29-P40-Lite/p/TEMPGCABP20L19K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Huawei P20 lite (2019) and Huawei P40 lite (cellularline.com)."
+ },
+ {
+  "models": [
+   "Galaxy A51",
+   "Galaxy A51 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Galaxy A51/A51 5G",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Galaxy-A51-A51-5G/p/TEMPGCABGALA51K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Galaxy A51 and Galaxy A51 5G (cellularline.com)."
+ },
+ {
+  "models": [
+   "Oppo A52",
+   "Oppo A72",
+   "Oppo A73 5G",
+   "Oppo A92"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Oppo A52/Oppo A72/Oppo A73 5G/Oppo A92",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-A52-A72-A73-5G-A92/p/TEMPGCABOPPOA72K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Oppo A52, Oppo A72, Oppo A73 5G and Oppo A92 (cellularline.com)."
+ },
+ {
+  "models": [
+   "Moto E7 Plus",
+   "Moto G8 Power Lite",
+   "Moto G9 Play"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Moto G9 Play/Moto E7 Plus/Moto G8 Power Lite",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Moto-G9-Play-Moto-E7-Plus-Moto-G8-Power-Lite/p/TEMPGCABMOTOG9PLK"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Moto E7 Plus, Moto G8 Power Lite and Moto G9 Play (cellularline.com)."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 11",
+   "Xiaomi Mi 11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Xiaomi Mi 11/Mi 11 Pro",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Curved---Mi-11-Mi-11-Pro/p/TEMPGCUXIAOMI11K"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Xiaomi Mi 11 and Xiaomi Mi 11 Pro (cellularline.com)."
+ },
+ {
+  "models": [
+   "Redmi 10",
+   "Redmi Note 10 5G",
+   "Redmi Note 10T 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Cellularline: Impact/Second Glass for Redmi 10/Redmi Note 10 5G/Redmi Note 10T 5G",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Xiaomi-Redmi-10-Redmi-Note-10-5G-Redmi-Note-10T-5G/p/TEMPGCABXIREN105GK"
+   }
+  ],
+  "note": "Cellularline sells one glass for the Redmi 10, Redmi Note 10 5G and Redmi Note 10T 5G (cellularline.com)."
  }
 ]
