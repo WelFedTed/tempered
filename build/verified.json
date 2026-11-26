@@ -1506,10 +1506,13 @@
    {
     "name": "AliExpress seller",
     "url": "https://www.aliexpress.com/item/1005006357036326.html"
+   },
+   {
+    "name": "Home Screen (Hofi): Hofi Glass Pro+ Sony Playstation Portal Clear [2 PACK]",
+    "url": "https://homescreen.pl/en/console-screen-protectors/71947-hofi-glass-pro-sony-playstation-portal-clear-2-pack-5906203691777.html"
    }
   ],
-  "note": "AliExpress tempered glass sold for the PlayStation Portal alone.",
-  "weak": true
+  "note": "Glass is sold for the PlayStation Portal alone (Home Screen (Hofi))."
  },
  {
   "models": [
@@ -25058,5 +25061,399 @@
    }
   ],
   "note": "Bizon sells one glass for the Oppo Reno12 F, Oppo Reno12 F 4G (Home Screen)."
+ },
+ {
+  "models": [
+   "Galaxy Z Fold6"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Home Screen (Bizon): Bizon Glass Edge 2 Samsung Galaxy Z Fold6 black",
+    "url": "https://homescreen.pl/en/galaxy-z-fold-6/98763-bizon-glass-edge-2-samsung-galaxy-z-fold6-black-5904665326992.html"
+   },
+   {
+    "name": "Home Screen (Bizon): Bizon Glass Clear 2 Samsung Galaxy Z Fold6",
+    "url": "https://homescreen.pl/en/galaxy-z-fold-6/99208-bizon-glass-clear-2-samsung-galaxy-z-fold6-5904665383865.html"
+   },
+   {
+    "name": "Mobiel.nl (Amorus): Amorus Glass Amorus Samsung Galaxy Z Fold6",
+    "url": "https://www.mobiel.nl/accessoires/amorus/samsung-galaxy-z-fold6-screenprotector-gehard-glas"
+   }
+  ],
+  "note": "Glass is sold for the Galaxy Z Fold6 alone (Home Screen (Bizon), Mobiel.nl (Amorus))."
+ },
+ {
+  "models": [
+   "Huawei Mate 80",
+   "Huawei Mate 80 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak H Glass for HUAWEI Mate 80 / Mate 80 Pro",
+    "url": "https://www.giztop.com/imak-h-glass-screen-protector-for-huawei-mate-80.html"
+   }
+  ],
+  "note": "Imak sells one tempered glass for the Huawei Mate 80 and Huawei Mate 80 Pro (Giztop)."
+ },
+ {
+  "models": [
+   "Huawei Mate 80 Pro Max",
+   "Huawei Mate 80 RS Ultimate"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak H Glass for HUAWEI Mate 80 Pro Max / Mate 80 RS Ultimate Design",
+    "url": "https://www.giztop.com/imak-h-glass-screen-protector-for-huawei-mate-80-pro-max.html"
+   }
+  ],
+  "note": "Imak sells one tempered glass for the Huawei Mate 80 Pro Max and Huawei Mate 80 RS Ultimate (Giztop)."
+ },
+ {
+  "models": [
+   "OnePlus Ace 6",
+   "OnePlus Ace 6T"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak dust-free glass for OnePlus Ace 6 / Ace 6T",
+    "url": "https://www.giztop.com/imak-dust-free-glass-screen-protector-for-oneplus-ace-6.html"
+   }
+  ],
+  "note": "Imak sells one tempered glass for the OnePlus Ace 6 and OnePlus Ace 6T (Giztop)."
+ },
+ {
+  "models": [
+   "nubia Red Magic 11 Pro",
+   "nubia RedMagic 11 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak H Glass for Red Magic 11 Pro / 11 Pro Plus",
+    "url": "https://www.giztop.com/imak-h-glass-screen-protector-for-red-magic-11-pro.html"
+   },
+   {
+    "name": "Giztop (Imak): Imak dust-free glass for Red Magic 11 Pro / 11 Pro Plus",
+    "url": "https://www.giztop.com/imak-dust-free-glass-screen-protector-for-red-magic-11-pro.html"
+   }
+  ],
+  "note": "Imak sells one tempered glass for the nubia Red Magic 11 Pro and nubia RedMagic 11 Pro+ (Giztop)."
+ },
+ {
+  "models": [
+   "Honor Note 10"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): Nillkin Glass Screen Protector for Huawei Honor Note 10",
+    "url": "https://www.giztop.com/nillkin-h-anti-explosion-tempered-glass-screen-protector-for-huawei-honor-note-10.html"
+   },
+   {
+    "name": "Giztop (Nillkin): NILLKIN CP+ 9H Anti-Explosion Glass Screen Protector for Huawei Honor Note 10 Screen Protector",
+    "url": "https://www.giztop.com/nillkin-cp-anti-explosion-glass-screen-protector-for-huawei-honor-note-10.html"
+   }
+  ],
+  "note": "Glass is sold for the Honor Note 10 alone (Nillkin (Giztop))."
+ },
+ {
+  "models": [
+   "Huawei P50 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for Huawei P50 Pro 5G",
+    "url": "https://www.giztop.com/imak-3d-tempered-glass-full-screen-protector-for-huawei-p50-pro-5g.html"
+   },
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Full Screen Protector for Huawei P50 Pro",
+    "url": "https://www.giztop.com/nillkin-curved-glass-screen-protector-for-huawei-p50-pro-2pcs.html"
+   }
+  ],
+  "note": "Glass is sold for the Huawei P50 Pro alone (Imak (Giztop), Nillkin (Giztop))."
+ },
+ {
+  "models": [
+   "Meizu 20 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Full Screen Protector for Meizu 20 Pro Screen Protector",
+    "url": "https://www.giztop.com/nillkin-cp-pro-glass-screen-protector-for-meizu-20-pro.html"
+   },
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Meizu 20 Pro",
+    "url": "https://www.giztop.com/imak-glass-screen-protector-for-meizu-20-pro.html"
+   }
+  ],
+  "note": "Glass is sold for the Meizu 20 Pro alone (Nillkin (Giztop), Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Meizu Note 8"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Meizu Note 8 Screen Protector",
+    "url": "https://www.giztop.com/nillkin-2-5d-h-pro-anti-explosion-glass-screen-protector-for-meizu-note-8.html"
+   },
+   {
+    "name": "Giztop (Mofi): Mofi Glass Screen Protector for Meizu Note 8",
+    "url": "https://www.giztop.com/mofi-2-5d-anti-explosion-glass-screen-protector-for-meizu-note-8.html"
+   }
+  ],
+  "note": "Glass is sold for the Meizu Note 8 alone (Nillkin (Giztop), Mofi (Giztop))."
+ },
+ {
+  "models": [
+   "Blackview BV9800 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for Blackview BV9800 Pro",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-blackview-bv9800-pro.html"
+   }
+  ],
+  "note": "Glass is sold for the Blackview BV9800 Pro alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Honor Play"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Mofi): MOFI Tempered Glass Screen Protector for Huawei Honor Play",
+    "url": "https://www.giztop.com/mofi-9h-anti-explosion-glass-screen-protector-for-huawei-honor-play.html"
+   }
+  ],
+  "note": "Glass is sold for the Honor Play alone (Mofi (Giztop))."
+ },
+ {
+  "models": [
+   "Lenovo Legion Y90"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Lenovo Legion Y90",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-lenovo-legion-y90.html"
+   }
+  ],
+  "note": "Glass is sold for the Lenovo Legion Y90 alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Meizu 16 Plus"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Mofi): MOFI Glass Screen Protector for Meizu 16 Plus",
+    "url": "https://www.giztop.com/mofi-2-5d-9h-anti-explosion-glass-screen-protector-for-meizu-16-plus.html"
+   }
+  ],
+  "note": "Glass is sold for the Meizu 16 Plus alone (Mofi (Giztop))."
+ },
+ {
+  "models": [
+   "Meizu 20 Infinity"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Meizu 20 Infinity",
+    "url": "https://www.giztop.com/imak-glass-screen-protector-for-meizu-20-infinity.html"
+   }
+  ],
+  "note": "Glass is sold for the Meizu 20 Infinity alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Oppo K9x"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for OPPO K9x",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-oppo-k9x.html"
+   },
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for OPPO K9x",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-oppo-k9x.html"
+   }
+  ],
+  "note": "Glass is sold for the Oppo K9x alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Oppo Pad Air"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for OPPO Pad Air",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-oppo-pad-air.html"
+   }
+  ],
+  "note": "Glass is sold for the Oppo Pad Air alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Realme Q5i"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Realme Q5i 5G",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-realme-q5i-5g.html"
+   },
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for Realme Q5i 5G",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-realme-q5i-5g.html"
+   }
+  ],
+  "note": "Glass is sold for the Realme Q5i alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Realme V23"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Realme V23 5G",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-realme-v23-5g.html"
+   },
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for Realme V23 5G",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-realme-v23-5g.html"
+   }
+  ],
+  "note": "Glass is sold for the Realme V23 alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Realme X7 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Pro+ Glass Screen Protector for Realme X7 Pro",
+    "url": "https://www.giztop.com/imak-pro-tempered-glass-full-screen-protector-for-realme-x7-pro.html"
+   }
+  ],
+  "note": "Glass is sold for the Realme X7 Pro alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "TCL 20 Pro 5G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for TCL 20 Pro 5G",
+    "url": "https://www.giztop.com/imak-3d-glass-full-screen-protector-for-tcl-20-pro-5g.html"
+   }
+  ],
+  "note": "Glass is sold for the TCL 20 Pro 5G alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 8 Lite"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Xiaomi Mi 8 Lite Screen Protector",
+    "url": "https://www.giztop.com/nillkin-2-5d-h-pro-anti-explosion-glass-screen-protector-for-xiaomi-mi-8-lite.html"
+   },
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Xiaomi Mi 8 Lite",
+    "url": "https://www.giztop.com/nillkin-cp-anti-explosion-glass-screen-protector-for-xiaomi-mi-8-lite.html"
+   }
+  ],
+  "note": "Glass is sold for the Xiaomi Mi 8 Lite alone (Nillkin (Giztop))."
+ },
+ {
+  "models": [
+   "Xiaomi Mi Play"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Xiaomi Mi Play",
+    "url": "https://www.giztop.com/nillkin-cp-anti-explosion-glass-screen-protector-for-xiaomi-mi-play.html"
+   },
+   {
+    "name": "Giztop (Nillkin): Nillkin Amazing H Anti-Explosion Glass Screen Protector for Xiaomi Mi Play",
+    "url": "https://www.giztop.com/nillkin-9h-anti-explosion-glass-screen-protector-for-xiaomi-mi-play.html"
+   },
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Xiaomi Mi Play",
+    "url": "https://www.giztop.com/nillkin-2-5d-h-pro-anti-explosion-glass-screen-protector-for-xiaomi-mi-play.html"
+   }
+  ],
+  "note": "Glass is sold for the Xiaomi Mi Play alone (Nillkin (Giztop))."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 5 Pro 12.4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Glass Screen Protector for Xiaomi Pad 5 Pro 12.4",
+    "url": "https://www.giztop.com/imak-clear-glass-screen-protector-for-xiaomi-pad-5-pro-12-4.html"
+   }
+  ],
+  "note": "Glass is sold for the Xiaomi Pad 5 Pro 12.4 alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "nubia Z40S Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Nubia Z40S Pro",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-nubia-z40s-pro.html"
+   }
+  ],
+  "note": "Glass is sold for the nubia Z40S Pro alone (Imak (Giztop))."
+ },
+ {
+  "models": [
+   "vivo Pad"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Nillkin): NILLKIN Glass Screen Protector for Vivo Pad",
+    "url": "https://www.giztop.com/nillkin-h-glass-screen-protector-for-vivo-pad.html"
+   }
+  ],
+  "note": "Glass is sold for the vivo Pad alone (Nillkin (Giztop))."
+ },
+ {
+  "models": [
+   "vivo S15"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Giztop (Imak): Imak Tempered Glass Full Screen for Vivo S15 5G",
+    "url": "https://www.giztop.com/imak-glass-full-screen-protector-for-vivo-s15-5g.html"
+   }
+  ],
+  "note": "Glass is sold for the vivo S15 alone (Imak (Giztop))."
  }
 ]
