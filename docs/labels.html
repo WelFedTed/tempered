@@ -366,14 +366,15 @@ function canvasPainter(ctx) {
   };
 }
 // Draws a W x H label turned a quarter turn clockwise onto an H x W page, for printers that feed the other way
-function pdfPainterRot(doc, H) {
+// Draws a W x H label a quarter turn counter-clockwise on an H-wide, W-tall page: label (x, y) lands at page (y, W - x)
+function pdfPainterRot(doc, W) {
   const font = (pt, b) => { doc.setFont('helvetica', b ? 'bold' : 'normal'); doc.setFontSize(pt); };
   return {
     w(s, pt, b) { font(pt, b); return doc.getTextWidth(s); },
-    text(s, x, y, pt, b, c) { font(pt, b); doc.setTextColor(c); doc.text(s, H - y, x, {angle: -90}); },
+    text(s, x, y, pt, b, c) { font(pt, b); doc.setTextColor(c); doc.text(s, y, W - x, {angle: 90}); },
     rect(x, y, w, h, fill, lw) {
-      if (fill) { doc.setFillColor(fill); doc.rect(H - y - h, x, h, w, 'F'); }
-      if (lw) { doc.setDrawColor('#000000'); doc.setLineWidth(lw); doc.rect(H - y - h, x, h, w, 'S'); }
+      if (fill) { doc.setFillColor(fill); doc.rect(y, W - x - w, h, w, 'F'); }
+      if (lw) { doc.setDrawColor('#000000'); doc.setLineWidth(lw); doc.rect(y, W - x - w, h, w, 'S'); }
     }
   };
 }
@@ -451,7 +452,7 @@ function buildPdf() {
     // Page is H wide and W tall, with each label turned a quarter turn
     const o = H > W ? 'landscape' : 'portrait';
     const doc = new jsPDF({unit: 'mm', format: [H, W], orientation: o});
-    L.forEach((l, i) => { if (i) doc.addPage([H, W], o); drawLabel(pdfPainterRot(doc, H), l, W, H); });
+    L.forEach((l, i) => { if (i) doc.addPage([H, W], o); drawLabel(pdfPainterRot(doc, W), l, W, H); });
     return doc;
   }
   const o = W > H ? 'landscape' : 'portrait';
