@@ -3446,19 +3446,6 @@
  },
  {
   "models": [
-   "Nokia G22"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-g22-3mk-flexibleglass"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass hybrid glass for the Nokia G22 alone; hybrid glass, not tempered."
- },
- {
-  "models": [
    "Nokia T20"
   ],
   "fit": "own",
@@ -10756,6 +10743,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Clear Motorola Moto E40 / E30",
     "url": "https://homescreen.pl/en/moto-e40/91560-bizon-glass-clear-motorola-moto-e40-e30-5904665303887.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Motorola Moto E30 / E40",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e30-e40.html"
    }
   ],
   "note": "Bizon sells one glass for E40 and E30; Lenovo K14 Plus not named."
@@ -10821,6 +10812,10 @@
    {
     "name": "Dux Ducis 9D (Home Screen)",
     "url": "https://homescreen.pl/en/774-moto-e7-plus"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Motorola Moto E7 Plus / G9 Play",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e7-plus.html"
    }
   ],
   "note": "Dux Ducis 9D glass is listed for G9 Play and E7 Plus; other models in the group not checked."
@@ -14997,6 +14992,10 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi 14T/14T Pro",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-14t-14t-pro-p-246278"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Xiaomi 14T / 14T Pro",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-14t-14t-pro.html"
    }
   ],
   "note": "Bizon Smart 2.5D, 3MK HardGlass and MyScreen each sell one glass for Xiaomi 14T / 14T Pro; Redmi K70 Ultra not confirmed."
@@ -15051,6 +15050,10 @@
    {
     "name": "PanzerGlass: SAFE. by PanzerGlass® Screen Protector Xiaomi 13T | 13T Pro | Ultra-Wide Fit",
     "url": "https://panzerglass.com/products/safe-by-panzerglass%C2%AE-screen-protector-xiaomi-13t-13t-pro-ultra-wide-fit"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Xiaomi 13T / 13T Pro",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-13t-13t-pro.html"
    }
   ],
   "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
@@ -15115,6 +15118,10 @@
    {
     "name": "GSMpunt: Rosso Xiaomi 12 / 12X 9H Tempered Glass Screen Protector Zwart",
     "url": "https://www.gsmpunt.nl/screen-protectors/rosso-xiaomi-12-12x-9h-tempered-glass-screen-protector-zwart"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Premium Screenprotector voor de Xiaomi 12 / 12X",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-xiaomi-12-12x.html"
    }
   ],
   "note": "Bizon Glass Edge 3D is sold for Xiaomi 12 / 12X as one product; 12S not confirmed. Curved-edge style glass."
@@ -16186,6 +16193,10 @@
    {
     "name": "Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
     "url": "https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Samsung Galaxy S26 FE / S25 FE / A57",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-s26-fe-s25-fe-a57.html"
    }
   ],
   "note": "Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE."
@@ -17058,6 +17069,10 @@
    {
     "name": "GSMpunt: OtterBox Glass Samsung Galaxy S26 FE / S25 FE Screen Protector Tempered Glass",
     "url": "https://www.gsmpunt.nl/screen-protectors/otterbox-glass-samsung-galaxy-s26-fe-s25-fe-screen-protector-tempered-glass"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector 2-pack voor de Samsung Galaxy S26 FE / S25 FE",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-2-pack-samsung-galaxy-s26-fe-s25-fe.html"
    }
   ],
   "note": "3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl)."
@@ -17360,6 +17375,10 @@
    {
     "name": "Hurtel: Tech-Protect Glass Fit +2-Pack Tempered Glass for Xiaomi Redmi Note 14 4G / 5G - Black",
     "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-xiaomi-redmi-note-14-4g-5g-black-189076"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Xiaomi Redmi Note 14 5G / 4G",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-14-5g-4g.html"
    }
   ],
   "note": "MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl)."
@@ -17542,6 +17561,10 @@
    {
     "name": "3MK: Nietłukące szkło hybrydowe na Motorola Moto E32/E32s - 3mk FlexibleGlass",
     "url": "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-motorola-moto-e32-e32s-3mk-flexibleglass"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Motorola Moto E32 / E32s",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e32-e32s.html"
    }
   ],
   "note": "Bizon sells one glass for the Moto E32 and Moto E32s (Homescreen.pl)."
@@ -17679,6 +17702,10 @@
    {
     "name": "GSMpunt: Rosso Oppo A74 5G / A54 5G 9H Tempered Glass Screen Protector",
     "url": "https://www.gsmpunt.nl/screen-protectors/rosso-oppo-a74-a54-5g-9h-tempered-glass-screen-protector"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A74 (5G) / A54 (5G)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a74-5g-a54-5g.html"
    }
   ],
   "note": "3MK sells one hybrid glass for the Oppo A54 5G and Oppo A74 5G (Homescreen.pl)."
@@ -18431,6 +18458,10 @@
    {
     "name": "Hurtel: Wozinsky Full Glue Tempered Glass for Xiaomi Redmi A2 / Redmi A1",
     "url": "https://hurtel.com/en/products/wozinsky-full-glue-tempered-glass-for-xiaomi-redmi-a2-redmi-a1-145910"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Xiaomi Redmi A1 / A2",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-a1-a2.html"
    }
   ],
   "note": "Wozinsky sells one glass for the Redmi A1 and Redmi A2 (Hurtel)."
@@ -18619,6 +18650,10 @@
    {
     "name": "MP.cz: Tvrzené sklo SAFE. by PanzerGlass, Xiaomi Redmi 9A/9C",
     "url": "https://www.mp.cz/tvrzene-sklo-safe-by-panzerglass-xiaomi-redmi-9a-9c-p-168352"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Xiaomi Redmi 9A / 9C",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-9a.html"
    }
   ],
   "note": "Caliber and PanzerGlass sell one glass for the Redmi 9A and Redmi 9C (MP.cz)."
@@ -18765,6 +18800,10 @@
    {
     "name": "Spacecase: Spacecase Glass Poco X6 / Redmi Note 13 Pro 5G",
     "url": "https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-poco-x6-rm-note-13-pro-5g-34401"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Xiaomi Redmi Note 13 Pro (5G) / Poco X6",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-13-pro-5g-poco-x6.html"
    }
   ],
   "note": "FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED)."
@@ -19124,6 +19163,10 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 14 Pro/14 Pro 5G/14 Pro+ 5G",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-14-pro-14-pro-5g-14-pro-5g-p-268108"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Xiaomi Redmi Note 14 Pro (4G/5G) / 14 Pro Plus (5G)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-14-pro-4g-5g-14-pro-plus-5g.html"
    }
   ],
   "note": "PanzerGlass sells one glass for the Redmi Note 14 Pro, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (MP.cz)."
@@ -20713,6 +20756,10 @@
    {
     "name": "GSMpunt: Rosso Oppo A16 / A16S / Oppo A54S 9H Tempered Glass Screen Protector",
     "url": "https://www.gsmpunt.nl/screen-protectors/rosso-oppo-a16-oppo-a54s-9h-tempered-glass-screen-protector"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A16(s) / A54s",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a16-s-a54s.html"
    }
   ],
   "note": "Rosso sells one glass for the Oppo A16, Oppo A16s and Oppo A54s (GSMpunt)."
@@ -20727,6 +20774,10 @@
    {
     "name": "GSMpunt: Rosso Xiaomi Redmi Note 12 Pro / Poco X5 Pro 9H Tempered Glass",
     "url": "https://www.gsmpunt.nl/screen-protectors/rosso-xiaomi-redmi-note-12-pro-poco-x5-pro-9h-tempered-glass"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Xiaomi Redmi Note 12 Pro / Xiaomi Poco X5 Pro 5G",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-12-pro-xiaomi-poco-x5-pro-5g.html"
    }
   ],
   "note": "Rosso sells one glass for the Poco X5 Pro and Redmi Note 12 Pro (GSMpunt)."
@@ -20787,5 +20838,254 @@
    }
   ],
   "note": "Rosso sells one glass for the Galaxy A50, Galaxy M21 and Galaxy M31 (GSMpunt)."
+ },
+ {
+  "models": [
+   "Galaxy A30s",
+   "Galaxy A50",
+   "Galaxy M31"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Premium Screenprotector voor de Samsung Galaxy A50 / A30s / M31",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-samsung-galaxy.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Samsung Galaxy A50 / A30s / M31",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-a50.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Full Cover Screenprotector voor de Samsung Galaxy A50 / A30s / M31",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-full-cover-screenprotector-samsung-galaxy-a50-a30s-m31.html"
+   }
+  ],
+  "note": "Accezz and Selencia sell one glass for the Galaxy A30s, Galaxy A50 and Galaxy M31 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Galaxy M21",
+   "Galaxy M30s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Samsung Galaxy M30s / M21",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-m21.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Galaxy M21 and Galaxy M30s (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Galaxy A02s",
+   "Galaxy A03",
+   "Galaxy A03s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Samsung Galaxy A02s / A03(s)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-a02s.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Galaxy A02s, Galaxy A03 and Galaxy A03s (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A53",
+   "Oppo A53s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A53 / Oppo A53s",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a53-oppo-a53s.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Oppo A53 and Oppo A53s (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Poco X4 Pro 5G",
+   "Redmi Note 11 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Xiaomi Redmi Note 11 Pro / Poco X4 Pro 5G",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-11-pro-poco-x4-pro-5g.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Poco X4 Pro 5G and Redmi Note 11 Pro (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A57",
+   "Oppo A57s",
+   "Oppo A77",
+   "Oppo A78"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A57(s) / A77 / A78 (5G)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a57-s-a77-a78-5g.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Oppo A57, Oppo A57s, Oppo A77 and Oppo A78 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Galaxy A36",
+   "Galaxy A37",
+   "Galaxy A56",
+   "Galaxy S24 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Samsung Galaxy S24 FE / A36 / A37 / A56",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-s24-fe-a36-a37-a56.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector 2-pack voor de Samsung Galaxy S24 FE / A36 / A37 / A56",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-2-pack-samsung-galaxy-s24-fe-a36-a37-a56.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector 2-pack voor de Samsung Galaxy S24 FE / A36 / A37 / A56",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-2-pack-samsung-galaxy-s24-fe-a36-a37-a56-sh00081706.html"
+   }
+  ],
+  "note": "Accezz sells one glass for the Galaxy A36, Galaxy A37, Galaxy A56 and Galaxy S24 FE (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A17",
+   "Galaxy A18",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Samsung Galaxy A18 / A17 / A16 / A26",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-samsung-galaxy-a18-a17-a16-a26.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Full Cover Screenprotector voor de Samsung Galaxy A18 / A17 / A16 / A26",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-full-cover-screenprotector-samsung-galaxy-a18-a17-a16-a26.html"
+   },
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector 2-pack voor de Samsung Galaxy A18 / A17 / A16 / A26",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-2-pack-samsung-galaxy-a18-a17-a16-a26.html"
+   }
+  ],
+  "note": "Accezz sells one glass for the Galaxy A16, Galaxy A17, Galaxy A18 and Galaxy A26 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A17",
+   "Galaxy A18"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector + Applicator voor de Samsung Galaxy A18 / A17 / A16",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-plus-applicator-samsung-galaxy-a18-a17-a16.html"
+   }
+  ],
+  "note": "Accezz sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A18 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A6x",
+   "Oppo A6x 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Accezz Gehard Glas Screenprotector voor de Oppo A6x (4G/5G)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a6x-4g-5g.html"
+   }
+  ],
+  "note": "Accezz sells one glass for the Oppo A6x and Oppo A6x 5G (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Nokia G10",
+   "Nokia G11",
+   "Nokia G20",
+   "Nokia G21",
+   "Nokia G22"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Nokia G10 / G11 / G20 / G21 / G22",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-nokia-g10-g20.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Nokia G10, Nokia G11, Nokia G20, Nokia G21 and Nokia G22 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A74",
+   "Oppo A94 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A94 (5G) / Oppo A74 (4G)",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a94-5g-oppo-a74-4g.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Oppo A74 and Oppo A94 5G (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Moto G31",
+   "Moto G41",
+   "Moto G71 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Motorola Moto G31 / G41 / G71",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-g31-g41-g71.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Moto G31, Moto G41 and Moto G71 5G (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A17",
+   "Oppo A18",
+   "Oppo A38"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A17 / A18 / A38",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a17-a18-a38.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Oppo A17, Oppo A18 and Oppo A38 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Oppo A58 4G",
+   "Oppo A79",
+   "Oppo A98"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Oppo A98 / A79 / A58",
+    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a98-a79-a58.html"
+   }
+  ],
+  "note": "Selencia sells one glass for the Oppo A58 4G, Oppo A79 and Oppo A98 (Smartphonehoesjes.nl)."
  }
 ]
