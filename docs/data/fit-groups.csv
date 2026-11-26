@@ -592,7 +592,7 @@ SAM-2059,Samsung,Tablet,Check,Galaxy Tab S8 Ultra,2022-02,"PanzerGlass sells one
 SAM-2060,Samsung,Tablet,Confirmed,Galaxy Tab S9 Ultra; Galaxy Tab S10 Ultra; Galaxy Tab S11 Ultra; Galaxy Tab S12 Ultra,2023-07,"PanzerGlass sells one glass for Tab S8, S9 and S10 Ultra, but Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra, so test fit. ZAGG (Best Buy) and Spigen sell one glass for S9 Ultra and S10 Ultra. Spigen says its S9/S10 Ultra glass does not fit the S8 Ultra; S9 and S10 Ultra share glass, S8 Ultra needs its own. FIXED sells one glass for the Galaxy Tab S9 Ultra, Galaxy Tab S10 Ultra and Galaxy Tab S11 Ultra (FIXED). Spigen glass sold at JB Hi-Fi lists S11 Ultra and S12 Ultra; S10 Ultra glass is a different SKU. Some listings group it with S9/S10 Ultra",,https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-ultra-wide-fit-galaxy-tab-s8-ultra-s9-ultra-s10-ultra/p/847265 https://shop.post.ch/en/electronics/smartphones-tablets/protective-films-glass/panzerglass-tablet-screen-protector-case-friendly-ab-galaxy-tab-s8-s9-ultra/p/846315 https://www.bestbuy.com/product/zagg-glass-elite-samsung-galaxy-tab-s9-ultra-galaxy-tab-s10-ultra-clear/J39T3V3239 https://www.spigen.com/products/galaxy-tab-s-series-screen-protector-ez-fit-glas-tr https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-tab-s11-ultra-cire https://www.jbhifi.com.au/products/spigen-samsung-galaxy-tab-s11-ultra-s12-ultra-14-6-glas-tr-ez-fit-pro-1pc-glass-screen-protector-clear https://www.spigen.com/products/galaxy-tab-s-11-series-ez-fit-glas-tr
 SAM-2061,Samsung,Tablet,Confirmed,Galaxy Tab A9; Galaxy Tab A11,2023-10,8.7in. Blueshift list,,
 SAM-2062,Samsung,Tablet,Confirmed,Galaxy Tab A9+; Galaxy Tab A11+,2023-10,"Cygnett, ZAGG, Speck list",,
-SAM-2063,Samsung,Tablet,Confirmed,Galaxy Tab Active5,2024-01,"Nuglas and InfoCase each sell one tempered glass for the Tab Active3 and Active5. Only retailer listings, not a brand compatibility page, so test fit. Glass is sold for the Galaxy Tab Active5 alone (FIXED)",,https://reebelo.ca/collections/nuglas-tempered-crystal-clear-glass-screen-protector-for-galaxy-tab-active5%2F-active3 https://www.zoro.com/infocase-tempered-glass-screen-protector-for-samsung-tab-active-5-and-tab-active-3-inf-sg-sam-taba5/i/G322446965/ https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-tab-active5-cire
+SAM-2063,Samsung,Tablet,Check,Galaxy Tab Active5,2024-01,"Nuglas and InfoCase each sell one tempered glass for the Tab Active3 and Active5. Only retailer listings, not a brand compatibility page, so test fit",,https://reebelo.ca/collections/nuglas-tempered-crystal-clear-glass-screen-protector-for-galaxy-tab-active5%2F-active3 https://www.zoro.com/infocase-tempered-glass-screen-protector-for-samsung-tab-active-5-and-tab-active-3-inf-sg-sam-taba5/i/G322446965/
 SAM-2064,Samsung,Tablet,Confirmed,Galaxy Tab S10 FE+,2025-04,Samsung makes a screen protector for the Tab S10 FE+ alone,,https://www.samsung.com/ie/mobile-accessories/galaxy-tab-s10-fe-plus-anti-reflecting-screen-protector-transparent-ef-ux620ctegww
 SAM-2065,Samsung,Tablet,Confirmed,Galaxy Tab S12+,2026-10,Tech-Protect and ZAGG sell S12+-specific glass,,https://homescreen.pl/en/galaxy-tab-s12-series/143302-tech-protect-glass-fit-samsung-galaxy-tab-s12-plus-124-x840-x846b-clear-2-pack-5906302342846.html https://www.verizon.com/products/zagg-crystal-palace-lite-folio-and-glass-xtr6-screen-protector-bundle-for-galazy-tab-s12-plus-5g/
 SAM-3001,Samsung,Wearable,Check,Samsung S9110,2009-07,,,
@@ -660,7 +660,7 @@ GOO-1020,Google,Phone,Check,Pixel 4a 5G,2020-09,,,
 GOO-1021,Google,Phone,Confirmed,Pixel 5,2020-09,Glass is sold for the Pixel 5 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-g-pixel-5 https://www.supershieldz.com/tg-3p-g-pixel-5
 GOO-1022,Google,Phone,Confirmed,Pixel 5a,2021-08,Glass is sold for the Pixel 5a alone (Supershieldz),,https://www.supershieldz.com/tg-3p-g-pixel-5a https://www.supershieldz.com/tg-2p-g-pixel-5a
 GOO-1023,Google,Phone,Confirmed,Pixel 6,2021-10,ZAGG glass is sold for Pixel 6; Best Buy Q&A says it only fits the regular Pixel 6,,https://store.google.com/product/zagg_screen_protector_pixel_6?hl=en-US https://www.bestbuy.com/product/zagg-glass-elite-maximum-impact-scratch-screen-protector-for-google-pixel-6-clear/J39Q4WW5QY
-GOO-1024,Google,Phone,Check,Pixel 6 Pro,2021-10,Curved screen,curved,
+GOO-1024,Google,Phone,Confirmed,Pixel 6 Pro,2021-10,Glass is sold for the Pixel 6 Pro alone (MobileFun). Curved screen,curved,https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-google-pixel-6-pro-85630
 GOO-1025,Google,Phone,Confirmed,Pixel 6a,2022-05,ZAGG Glass Elite is sold for Pixel 6a only,,https://store.google.com/product/invisible_shield_glass_elite_pixel?hl=en-US
 GOO-1026,Google,Phone,Confirmed,Pixel 7,2022-10,ZAGG and Spigen sell Pixel 7-only glass,,https://store.google.com/product/glass_elite_case https://www.spigen.com/products/pixel-7-screen-protector-alignmaster-glas-tr
 GOO-1027,Google,Phone,Confirmed,Pixel 7 Pro,2022-10,ZAGG's curved Fusion Curve protector on the Google Store is listed for the Pixel 7 Pro only; curved screen,curved,https://store.google.com/us/product/fusion_curve_pixel_7_pro?hl=en-US
@@ -797,7 +797,7 @@ OPP-1077,Oppo,Phone,Check,Oppo K3,2019-05,,,
 OPP-1078,Oppo,Phone,Check,Oppo Reno Z,2019-05,,,
 OPP-1079,Oppo,Phone,Check,Oppo Reno2 Z,2019-08,,,
 OPP-1080,Oppo,Phone,Check,Oppo Reno2 F,2019-08,,,
-OPP-1081,Oppo,Phone,Check,Oppo Reno2,2019-08,,,
+OPP-1081,Oppo,Phone,Confirmed,Oppo Reno2,2019-08,Glass is sold for the Oppo Reno2 alone (Cellularline),,https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-Reno2/p/TEMPGCABOPPORENO2K
 OPP-1082,Oppo,Phone,Check,Oppo A9 (2020); Oppo A11; Oppo A15; Oppo A15s; Oppo A35; Oppo A53s 5G; Oppo A16; Oppo A16s; Oppo A54s; Oppo A16K; Oppo A16e,2019-09,"Sellers confirm Oppo A11, Oppo A15, Oppo A15s, Oppo A53s 5G, Oppo A16, Oppo A16s, Oppo A54s, Oppo A16K. The rest match on specs: test before swapping. POPIO sells one edge-to-edge glass for the Oppo A11, Oppo A15, Oppo A15s, Oppo A16 and Oppo A16K (popio.in). MyScreen sells one glass for the Oppo A53s 5G and Oppo A54s (Homescreen.pl). 3MK sells one glass for the Oppo A16 and Oppo A16s (Homescreen.pl). Rosso sells one glass for the Oppo A16, Oppo A16s and Oppo A54s (GSMpunt)",,https://www.popio.in/products/tempered-glass-for-oppo-a11-oppo-a15-oppo-a15s-oppo-a16-oppo-a16k-black-edge-to-edge-pack-of-1 https://homescreen.pl/en/oppo-a54/57423-myscreen-diamond-glass-edge-lite-fg-oppo-a54s-a53s-5g-black-full-glue-5904433210515.html https://homescreen.pl/en/oppo-a54/57151-myscreen-diamond-glass-edge-fg-oppo-a54s-a53s-5g-black-full-glue-5904433213608.html https://homescreen.pl/en/oppo-a16/47890-3mk-hardglass-max-lite-oppo-a16-a16s-black-black-5903108497640.html https://homescreen.pl/en/oppo-a16/27829-3mk-flexibleglass-max-oppo-a16a16s-black-5903108444644.html https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-oppo-a16-a16s-3mk-flexibleglass https://3mk.pl/p/nietlukace-sie-szklo-na-oppo-a16-a16s-3mk-flexibleglass-pro https://www.gsmpunt.nl/screen-protectors/rosso-oppo-a16-oppo-a54s-9h-tempered-glass-screen-protector https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a16-s-a54s.html
 OPP-1083,Oppo,Phone,Check,Oppo A5 (2020),2019-09,,,
 OPP-1084,Oppo,Phone,Check,Oppo Reno A,2019-09,,,
@@ -813,7 +813,7 @@ OPP-1093,Oppo,Phone,Check,Oppo Ace2,2020-04,,,
 OPP-1094,Oppo,Phone,Confirmed,Oppo A12; Oppo A11k,2020-04,POPIO sells one edge-to-edge glass for the Oppo A11k and Oppo A12 (popio.in),,https://www.popio.in/products/tempered-glass-for-oppo-a12-oppo-a11k-black-edge-to-edge-pack-of-1
 OPP-1095,Oppo,Phone,Check,Oppo A52; Oppo A72; Oppo A92; Oppo A72 5G; Oppo A73 5G; Oppo A53 5G; Oppo A93 5G; Oppo A74 5G; Oppo A54 5G; Oppo A93s 5G,2020-04,"Sellers confirm Oppo A52, Oppo A72, Oppo A92, Oppo A73 5G, Oppo A93 5G, Oppo A74 5G, Oppo A54 5G. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo A52, Oppo A54 5G, Oppo A72, Oppo A74 5G and Oppo A93 5G (Homescreen.pl). Cellularline sells one glass for the Oppo A52, Oppo A72, Oppo A73 5G and Oppo A92 (cellularline.com). Rosso sells one glass for the Oppo A52 and Oppo A72 (GSMpunt). 3MK sells one glass for the Oppo A72 and Oppo A92 (Homescreen.pl). 3MK sells one hybrid glass for the Oppo A54 5G and Oppo A74 5G (Homescreen.pl)",,https://homescreen.pl/en/oppo-a52/91877-bizon-glass-clear-oppo-a52-a72-a54-5g-a74-5g-a93-5g-5904665306581.html https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-A52-A72-A73-5G-A92/p/TEMPGCABOPPOA72K https://www.gsmpunt.nl/screen-protectors/rosso-oppo-a52-a72-a92-9h-tempered-glass-screen-protector https://homescreen.pl/en/oppo-a72/15734-3mk-hardglass-max-lite-oppo-a72a92-black-5903108282611.html https://homescreen.pl/en/oppo-a74/75452-3mk-flexibleglass-oppo-a74-5g-a54-5g-5903108376785.html https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-oppo-a54-5g-a74-5g-3mk-flexibleglass https://3mk.pl/p/nietlukace-sie-szklo-na-oppo-a54-5g-a74-5g-3mk-flexibleglass-pro https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-A74-5G-A54-5G/p/TEMPGCABOPPOA54K https://www.gsmpunt.nl/screen-protectors/rosso-oppo-a74-a54-5g-9h-tempered-glass-screen-protector https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-a74-5g-a54-5g.html
 OPP-1096,Oppo,Phone,Confirmed,Oppo A92s; Oppo Reno4 Z 5G,2020-04,Cellularline sells one glass for the Oppo A92s and Oppo Reno4 Z 5G (cellularline.com),,https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-Reno4-Z-5G-A92s/p/TEMPGCABOPPOREN4ZK
-OPP-1097,Oppo,Phone,Confirmed,Oppo Reno4 5G,2020-06,Glass is sold for the Oppo Reno4 5G alone (Selencia via Smartphonehoesjes),,https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-reno4-5g.html
+OPP-1097,Oppo,Phone,Check,Oppo Reno4 5G,2020-06,,,
 OPP-1098,Oppo,Phone,Check,Oppo Reno4 Pro 5G,2020-06,,,
 OPP-1099,Oppo,Phone,Check,Oppo A12s,2020-07,,,
 OPP-1100,Oppo,Phone,Check,Oppo Reno4,2020-07,,,
@@ -869,7 +869,7 @@ OPP-1149,Oppo + OnePlus,Phone,Check,Oppo A1; Oppo A98; Oppo F23; Oppo A58 4G; Op
 OPP-1150,Oppo,Phone,Check,Oppo Reno10 (China),2023-05,,,
 OPP-1151,Oppo,Phone,Check,Oppo Reno10 Pro (China),2023-05,,,
 OPP-1152,Oppo,Phone,Check,Oppo Reno10 Pro+,2023-05,,,
-OPP-1153,Oppo,Phone,Confirmed,Oppo A78 4G,2023-07,"Glass is sold for the Oppo A78 4G alone (MyScreen via Home Screen, GSMpunt)",,https://homescreen.pl/en/oppo-a78/139791-myscreen-diamond-glass-edge-lite-full-glue-oppo-a78-4g-black-5904433251150.html https://www.gsmpunt.nl/screen-protectors/oppo-a78-4g-screen-protector-03mm-arc-edge-tempered-glass
+OPP-1153,Oppo,Phone,Check,Oppo A78 4G,2023-07,,,
 OPP-1154,Oppo,Phone,Confirmed,Oppo Reno10; Oppo Reno10 Pro,2023-07,Imak and 3MK HardGlass Max Lite (both via Digitec) each sell one glass for the Reno10 and Reno10 Pro; the AL5hafii chart puts them 0.1 mm apart,,https://www.digitec.ch/en/s1/product/imak-oppo-reno10-reno10-pro-armoured-glass-protective-film-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobil-39771463 https://www.mediamarkt.es/es/product/_protector-pantalla-movil-oppo-reno-10-5g-10-pro-5g-tumundosmartphone-oppo-oppo-reno-10-5g-10-pro-5g-cristal-templado-uv-132851919.html https://www.digitec.ch/en/s1/product/3mk-hardglass-max-lite-1-pcs-oppo-reno-10-oppo-reno-10-pro-mobile-phone-screen-protectors-42403044
 OPP-1155,Oppo,Phone,Check,Oppo K11,2023-07,,,
 OPP-1156,Oppo,Phone,Check,Oppo Find N3 Flip,2023-08,Foldable: glass is for the outer (cover) screen,cover,
@@ -967,7 +967,7 @@ ONE-1002,OnePlus,Phone,Check,OnePlus 2,2015-07,,,
 ONE-1003,OnePlus,Phone,Check,OnePlus X,2015-10,,,
 ONE-1004,OnePlus,Phone,Confirmed,OnePlus 3; OnePlus 3T,2016-06,POPIO sells one edge-to-edge glass for the OnePlus 3 and OnePlus 3T (popio.in),,https://www.popio.in/products/tempered-glass-for-oneplus-3-oneplus-3t-black-edge-to-edge-pack-of-1
 ONE-1005,OnePlus,Phone,Check,OnePlus 5,2017-06,,,
-ONE-1006,OnePlus,Phone,Check,OnePlus 5T,2017-11,,,
+ONE-1006,OnePlus,Phone,Confirmed,OnePlus 5T,2017-11,Glass is sold for the OnePlus 5T alone (POPIO),,https://www.popio.in/products/tempered-glass-for-oneplus-5t-black-edge-to-edge-pack-of-1
 ONE-1007,OnePlus,Phone,Confirmed,OnePlus 6,2018-05,Glass is sold for the OnePlus 6 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-oneplus-6 https://www.supershieldz.com/tg-oneplus-6-2p-bk
 ONE-1008,OnePlus,Phone,Check,OnePlus 6T; OnePlus 6T McLaren,2018-10,Same body size and screen specs: test before swapping,,
 ONE-1009,OnePlus,Phone,Check,OnePlus 7,2019-05,,,
@@ -983,15 +983,15 @@ ONE-1018,OnePlus,Phone,Check,OnePlus 9R,2021-03,,,
 ONE-1019,OnePlus,Phone,Check,OnePlus 9,2021-03,,,
 ONE-1020,OnePlus,Phone,Confirmed,OnePlus 9 Pro; OnePlus 10 Pro; OnePlus 11,2021-03,"PanzerGlass sells one glass for the OnePlus 9 Pro, 10 Pro and 11",,https://panzerglass.com/products/panzerglass-oneplus-9-pro
 ONE-1021,OnePlus,Phone,Confirmed,OnePlus Nord CE 5G; OnePlus Nord 2 5G,2021-06,"Supershieldz sells one tempered glass for the OnePlus Nord 2 5G and OnePlus Nord CE 5G. Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit",,https://www.supershieldz.com/tg-2p-oneplus-nord-ce-2 https://www.ebay.de/itm/285619360060 https://www.ebay.de/itm/176370257965
-ONE-1022,OnePlus,Phone,Check,OnePlus 9RT 5G,2021-10,,,
+ONE-1022,OnePlus,Phone,Confirmed,OnePlus 9RT 5G,2021-10,Glass is sold for the OnePlus 9RT 5G alone (POPIO),,https://www.popio.in/products/tempered-glass-for-oneplus-9rt-5g-black-edge-to-edge-pack-of-1
 ONE-1023,OnePlus + Oppo,Phone,Check,OnePlus Nord CE 2 5G; Oppo Reno7 5G; Oppo Find X5 Lite,2022-02,"Same body size and screen specs, sold under several brands: test before swapping",,
 ONE-1024,OnePlus,Phone,Check,OnePlus Ace; OnePlus 10R; OnePlus 10R 150W; OnePlus 10T; OnePlus Ace Pro,2022-04,"Sellers confirm OnePlus 10R, OnePlus 10R 150W, OnePlus 10T, OnePlus Ace Pro. The rest match on specs: test before swapping. PanzerGlass sells one glass for the OnePlus 10R, 10R 150W and 10T. PanzerGlass sells one glass for the OnePlus 10R and OnePlus 10T (panzerglass.com). Cadorabo sells one glass for the OnePlus 10T and Ace Pro (the same phone sold under two names)",,https://panzerglass.com/products/panzerglass-oneplus-10t-10r-10r-150w-uwf-black-ab https://panzerglass.com/products/panzerglass-oneplus-10t-10r-10r-150w-uwf-black-ab https://spigen.in/products/oneplus-10r-10t-glas-tr-screen-protector https://www.mediamarkt.es/es/product/_protector-pantalla-pelicula-protectora-de-pantalla-cadorabo-oneplus-10t-ace-pro-vidrio-templado-136088967.html
 ONE-1025,OnePlus + Oppo,Phone,Check,OnePlus Nord CE 2 Lite 5G; Oppo K10x,2022-04,"Same body size and screen specs, sold under several brands: test before swapping",,
-ONE-1026,OnePlus,Phone,Confirmed,OnePlus Nord 2T,2022-05,"Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit. Glass is sold for the OnePlus Nord 2T alone (Selencia via Smartphonehoesjes)",,https://www.ebay.de/itm/285619360060 https://www.ebay.de/itm/176370257965 https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oneplus-nord-2t.html
+ONE-1026,OnePlus,Phone,Check,OnePlus Nord 2T,2022-05,"Two eBay.de listings sell one glass for the Nord 2 5G and Nord 2T, but OnePlus sells separate official glass for each, so test fit",,https://www.ebay.de/itm/285619360060 https://www.ebay.de/itm/176370257965
 ONE-1027,OnePlus,Phone,Check,OnePlus Ace 2; OnePlus 11R,2023-02,Same body size and screen specs: test before swapping,,
 ONE-1028,OnePlus,Phone,Check,OnePlus Ace 2V,2023-03,,,
 ONE-1029,OnePlus,Phone,Confirmed,OnePlus Nord 3; OnePlus Nord 4,2023-07,PanzerGlass sells one glass for the OnePlus Nord 3 and Nord 4,,https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-oneplus-nord-4-3-ultra-wide-fit
-ONE-1030,OnePlus,Phone,Check,OnePlus Nord CE3,2023-07,,,
+ONE-1030,OnePlus,Phone,Confirmed,OnePlus Nord CE3,2023-07,Glass is sold for the OnePlus Nord CE3 alone (POPIO),,https://www.popio.in/products/tempered-glass-for-oneplus-nord-ce3-black-edge-to-edge-pack-of-1
 ONE-1031,OnePlus,Phone,Check,OnePlus Ace 2 Pro,2023-08,,,
 ONE-1032,OnePlus + Oppo,Phone,Check,OnePlus Open; Oppo Find N3,2023-10,OnePlus Open and Oppo Find N3 are the same foldable. Foldable: glass is for the outer (cover) screen,cover,
 ONE-1033,OnePlus,Phone,Confirmed,OnePlus 12,2023-12,"Glass is sold for the OnePlus 12 alone (MyScreen via Home Screen, Insmat, PanzerGlass via MP.cz)",,https://homescreen.pl/en/oneplus-12/80114-myscreen-diamond-glass-edge-3d-tempered-glass-for-oneplus-12-5g-black-5904433229784.html https://www.insmat.fi/fi/tuote/insmat-matkapuhelintarvikkeet/naytonsuojat/861-1530/3d-full-screen-glass-oneplus-12-black https://www.mp.cz/tvrzene-sklo-panzerglass-oneplus-12-p-215504
@@ -1164,7 +1164,7 @@ ZTE-1135,ZTE,Phone,Check,ZTE Blade A910,2016-04,,,
 ZTE-1136,ZTE,Phone,Check,ZTE Blade L5 Plus,2016-04,,,
 ZTE-1137,ZTE,Phone,Check,nubia Z11 mini,2016-04,,,
 ZTE-1138,ZTE,Phone,Check,ZTE Blade V7 Max,2016-04,,,
-ZTE-1139,ZTE,Phone,Confirmed,ZTE Grand X Max 2,2016-05,Glass is sold for the ZTE Grand X Max 2 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-grand-x-max-2-bk
+ZTE-1139,ZTE,Phone,Check,ZTE Grand X Max 2,2016-05,,,
 ZTE-1140,ZTE,Phone,Check,ZTE Axon 7; ZTE Axon 7s,2016-05,Same body size and screen specs: test before swapping,,
 ZTE-1141,ZTE,Phone,Check,nubia Z11,2016-06,,,
 ZTE-1142,ZTE,Phone,Check,nubia Z11 Max,2016-06,,,
@@ -1172,7 +1172,7 @@ ZTE-1143,ZTE,Phone,Check,ZTE Blade A601,2016-06,,,
 ZTE-1144,ZTE,Phone,Check,ZTE Blade A512,2016-07,,,
 ZTE-1145,ZTE,Phone,Check,ZTE Blade L110 (A110),2016-07,,,
 ZTE-1146,ZTE,Phone,Check,nubia N1,2016-07,,,
-ZTE-1147,ZTE,Phone,Confirmed,ZTE Zmax Pro,2016-07,Glass is sold for the ZTE Zmax Pro alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-zmax-pro-bk
+ZTE-1147,ZTE,Phone,Check,ZTE Zmax Pro,2016-07,,,
 ZTE-1148,ZTE,Phone,Check,ZTE Blade A610,2016-08,,,
 ZTE-1149,ZTE,Phone,Check,ZTE Warp 7,2016-08,,,
 ZTE-1150,ZTE,Phone,Confirmed,ZTE Axon 7 mini,2016-09,Glass is sold for the ZTE Axon 7 mini alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-axon-7-mini-bk
@@ -1191,7 +1191,7 @@ ZTE-1162,ZTE,Phone,Check,nubia M2 lite,2017-03,,,
 ZTE-1163,ZTE,Phone,Confirmed,nubia M2,2017-03,"3MK sells FlexibleGlass hybrid glass for the nubia M2 alone; hybrid glass, not tempered",,https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nubia-m2-3mk-flexibleglass
 ZTE-1164,ZTE,Phone,Check,nubia N2,2017-03,,,
 ZTE-1165,ZTE,Phone,Check,nubia Z17 mini,2017-04,,,
-ZTE-1166,ZTE,Phone,Confirmed,ZTE Max XL,2017-04,Glass is sold for the ZTE Max XL alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-max-xl-bk
+ZTE-1166,ZTE,Phone,Check,ZTE Max XL,2017-04,,,
 ZTE-1167,ZTE,Phone,Check,nubia Z17,2017-06,,,
 ZTE-1168,ZTE,Phone,Check,nubia M2 Play,2017-06,,,
 ZTE-1169,ZTE,Phone,Check,ZTE Blade V7 Plus,2017-07,,,
@@ -1239,11 +1239,11 @@ ZTE-1210,ZTE,Phone,Check,ZTE Blade A3 Prime,2020-06,,,
 ZTE-1211,ZTE,Phone,Check,ZTE Blade A3 Joy,2020-06,,,
 ZTE-1212,ZTE,Phone,Check,ZTE Axon 11 SE 5G; ZTE Blade V2020 5G,2020-06,Same body size and screen specs: test before swapping,,
 ZTE-1213,ZTE,Phone,Check,nubia Red Magic 5G Lite,2020-06,,,
-ZTE-1214,ZTE,Phone,Confirmed,ZTE Avid 579,2020-06,Glass is sold for the ZTE Avid 579 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-avid-579 https://www.supershieldz.com/tg-3p-zte-avid-579
+ZTE-1214,ZTE,Phone,Check,ZTE Avid 579,2020-06,,,
 ZTE-1215,ZTE,Phone,Check,nubia Red Magic 5S,2020-07,EBay.de listings sell glass for Red Magic 6 / 6 Pro and for 6/6S Pro/5G/5S; marketplace only: test fit,,https://www.ebay.de/itm/133700372624 https://www.ebay.de/itm/285637389356
 ZTE-1216,ZTE,Phone,Confirmed,ZTE Blade A5 2020,2020-07,"3MK sells FlexibleGlass hybrid glass for the ZTE Blade A5 2020 alone; hybrid glass, not tempered",,https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-zte-blade-a5-2020-3mk-flexibleglass
 ZTE-1217,ZTE,Phone,Check,ZTE Gabb Z2,2020-08,,,
-ZTE-1218,ZTE,Phone,Confirmed,ZTE Quest 5,2020-08,Glass is sold for the ZTE Quest 5 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-zte-quest-5 https://www.supershieldz.com/tg-3p-zte-quest-5
+ZTE-1218,ZTE,Phone,Check,ZTE Quest 5,2020-08,,,
 ZTE-1219,ZTE,Phone,Check,ZTE Axon 20 5G; ZTE Axon 20 4G; ZTE Axon 20 5G Extreme,2020-09,Same body size and screen specs: test before swapping,,
 ZTE-1220,ZTE,Phone,Check,ZTE Blade A3Y,2020-10,,,
 ZTE-1221,ZTE,Phone,Check,ZTE Blade 20 5G,2020-11,,,
@@ -1525,7 +1525,7 @@ LEN-1110,Lenovo,Phone,Check,Lenovo K5 play,2018-03,,,
 LEN-1111,Lenovo,Phone,Check,Lenovo A5,2018-06,,,
 LEN-1112,Lenovo,Phone,Check,Lenovo K5 Note (2018),2018-06,,,
 LEN-1113,Lenovo,Phone,Check,Lenovo Z5,2018-06,,,
-LEN-1114,Lenovo,Phone,Confirmed,Lenovo K9,2018-10,Glass is sold for the Lenovo K9 alone (Caliber via MP.cz),,https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-lenovo-k9-p-103435
+LEN-1114,Lenovo,Phone,Check,Lenovo K9,2018-10,,,
 LEN-1115,Lenovo,Phone,Check,Lenovo K5 Pro,2018-10,,,
 LEN-1116,Lenovo,Phone,Check,Lenovo S5 Pro; Lenovo S5 Pro GT,2018-10,Same body size and screen specs: test before swapping,,
 LEN-1117,Lenovo,Phone,Check,Lenovo Z5 Pro; Lenovo Z5 Pro GT,2018-11,Same body size and screen specs: test before swapping,,
@@ -1595,7 +1595,7 @@ LEN-2046,Lenovo,Tablet,Check,Lenovo Yoga Smart Tab,2019-10,,,
 LEN-2047,Lenovo,Tablet,Check,Lenovo M10 FHD REL,2020-01,,,
 LEN-2048,Lenovo,Tablet,Check,Lenovo M10 Plus,2020-03,,,
 LEN-2049,Lenovo,Tablet,Check,Lenovo Tab M10 HD Gen 2,2020-08,,,
-LEN-2050,Lenovo,Tablet,Confirmed,Lenovo Tab P11 Pro,2020-08,Glass is sold for the Lenovo Tab P11 Pro alone (Supershieldz),,https://www.supershieldz.com/tg-lnv-tab-p11-pro-tablet-11-5-inch-2p-l https://www.supershieldz.com/tg-lnv-tab-p11-pro-tablet-11-5-inch-1p-l
+LEN-2050,Lenovo,Tablet,Check,Lenovo Tab P11 Pro,2020-08,,,
 LEN-2051,Lenovo + Motorola,Tablet,Check,Lenovo Tab P11; Lenovo Pad; Lenovo Tab P11 Plus; Moto Tab G70,2021-01,"Press reports: Moto Tab G70 is a rebranded Lenovo Tab P11 Plus. Seller-confirmed for Lenovo Tab P11, Lenovo Tab P11 Plus; the rest match on specs. Retailer lists both",,
 LEN-2052,Lenovo,Tablet,Check,Lenovo Pad Plus,2021-05,,,
 LEN-2053,Lenovo,Tablet,Check,Lenovo Pad Pro,2021-05,,,
@@ -1913,7 +1913,7 @@ MOT-1120,Motorola,Phone,Variant,Moto E (2nd gen); Moto E Dual SIM (2nd gen),2015
 MOT-1121,Motorola,Phone,Check,Moto G (3rd gen); Moto G Dual SIM (3rd gen); Moto G Turbo,2015-07,Same body size and screen specs: test before swapping,,
 MOT-1122,Motorola,Phone,Check,Moto X Play; Moto X Play Dual SIM; Motorola Droid Maxx 2,2015-07,Same body size and screen specs: test before swapping,,
 MOT-1123,Motorola,Phone,Check,Moto X Style,2015-07,,,
-MOT-1124,Motorola,Phone,Confirmed,Motorola Droid Turbo 2,2015-10,Glass is sold for the Motorola Droid Turbo 2 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-m-droid-turbo-2-bk
+MOT-1124,Motorola,Phone,Check,Motorola Droid Turbo 2,2015-10,,,
 MOT-1125,Motorola,Phone,Check,Moto X Force,2015-11,,,
 MOT-1126,Motorola,Phone,Check,Moto G4 Play,2016-05,,,
 MOT-1127,Motorola,Phone,Check,Moto G4; Moto G4 Plus,2016-05,Same body size and screen specs: test before swapping,,
@@ -1924,7 +1924,7 @@ MOT-1131,Motorola,Phone,Confirmed,Moto Z Play,2016-08,Supershieldz sells glass f
 MOT-1132,Motorola,Phone,Check,Moto E3 Power,2016-09,,,
 MOT-1133,Motorola,Phone,Check,Moto M,2016-11,,,
 MOT-1134,Motorola,Phone,Check,Moto G5,2017-02,,,
-MOT-1135,Motorola,Phone,Confirmed,Moto G5 Plus,2017-02,Glass is sold for the Moto G5 Plus alone (Smartphonehoesjes),,https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-g5-plus.html
+MOT-1135,Motorola,Phone,Check,Moto G5 Plus,2017-02,,,
 MOT-1136,Motorola,Phone,Check,Moto C,2017-05,,,
 MOT-1137,Motorola,Phone,Check,Moto C Plus,2017-05,,,
 MOT-1138,Motorola,Phone,Confirmed,Moto Z2 Play,2017-06,Supershieldz sells glass for the Moto Z2 Play alone,,https://www.supershieldz.com/172704382078
@@ -1948,13 +1948,13 @@ MOT-1155,Motorola,Phone,Check,Motorola One (P30 Play),2018-08,,,
 MOT-1156,Motorola,Phone,Confirmed,Moto G7 Play,2019-02,Supershieldz sells glass for the Moto G7 Play alone,,https://www.supershieldz.com/tg-m-moto-g7-play-3p
 MOT-1157,Motorola,Phone,Confirmed,Moto G7 Power,2019-02,Supershieldz sells glass for the Moto G7 Power alone,,https://www.supershieldz.com/tg-m-moto-g7-power-2p
 MOT-1158,Motorola,Phone,Confirmed,Moto G7,2019-02,Supershieldz sells glass for the Moto G7 alone,,https://www.supershieldz.com/tg-m-moto-g7-2p
-MOT-1159,Motorola,Phone,Confirmed,Moto G7 Plus,2019-02,Glass is sold for the Moto G7 Plus alone (Supershieldz),,https://www.supershieldz.com/tg-m-moto-g7-plus-2p https://www.supershieldz.com/tg-2p-m-moto-g7-plus-bk https://www.supershieldz.com/tg-m-moto-g7-plus-3p
-MOT-1160,Motorola,Phone,Confirmed,Motorola One Vision,2019-05,Glass is sold for the Motorola One Vision alone (Supershieldz),,https://www.supershieldz.com/tg-m-one-vision-2p https://www.supershieldz.com/tg-m-one-vision-3p
+MOT-1159,Motorola,Phone,Check,Moto G7 Plus,2019-02,,,
+MOT-1160,Motorola,Phone,Check,Motorola One Vision,2019-05,,,
 MOT-1161,Motorola,Phone,Confirmed,Moto Z4,2019-05,Supershieldz sells glass for the Moto Z4 alone,,https://www.supershieldz.com/tg-m-moto-z4-2p
 MOT-1162,Motorola,Phone,Check,Moto E6,2019-07,,,
 MOT-1163,Motorola,Phone,Confirmed,Motorola One Action,2019-08,Supershieldz sells glass for the One Action alone,,https://www.supershieldz.com/tg-m-one-action-2p
 MOT-1164,Motorola,Phone,Check,Motorola One Zoom,2019-09,,,
-MOT-1165,Motorola,Phone,Confirmed,Moto E6 Plus,2019-09,Glass is sold for the Moto E6 Plus alone (Supershieldz),,https://www.supershieldz.com/tg-m-moto-e6-plus-2p https://www.supershieldz.com/tg-m-moto-e6-plus-3p
+MOT-1165,Motorola,Phone,Check,Moto E6 Plus,2019-09,,,
 MOT-1166,Motorola,Phone,Check,Motorola One Macro; Moto G8 Play,2019-10,Same body size and screen specs: test before swapping,,
 MOT-1167,Motorola,Phone,Check,Moto G8 Plus; Motorola One Vision Plus,2019-10,Same body size and screen specs: test before swapping,,
 MOT-1168,Motorola,Phone,Confirmed,Moto E6 Play,2019-10,"Glass is sold for the Moto E6 Play alone (Supershieldz, Selencia via Smartphonehoesjes)",,https://www.supershieldz.com/tg-m-moto-e6-play-3p https://www.supershieldz.com/tg-m-moto-e6-play-2p https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e6-play.html
@@ -1968,16 +1968,16 @@ MOT-1175,Motorola + Lenovo,Phone,Check,Moto G8 Power Lite; Moto G9 (India); Moto
 MOT-1176,Motorola,Phone,Check,Motorola Edge,2020-04,,,
 MOT-1177,Motorola,Phone,Check,Motorola Edge+ (2020),2020-04,,,
 MOT-1178,Motorola,Phone,Confirmed,Moto E (2020),2020-06,Supershieldz sells glass for the Moto E 2020 alone,,https://www.supershieldz.com/moto-e/
-MOT-1179,Motorola,Phone,Confirmed,Moto G Fast,2020-06,Glass is sold for the Moto G Fast alone (Supershieldz),,https://www.supershieldz.com/tg-2p-m-moto-g-fast https://www.supershieldz.com/tg-3p-m-moto-g-fast
+MOT-1179,Motorola,Phone,Check,Moto G Fast,2020-06,,,
 MOT-1180,Motorola,Phone,Confirmed,Motorola One Fusion+,2020-06,Glass is sold for the Motorola One Fusion+ alone (Supershieldz),,https://www.supershieldz.com/tg-3p-m-one-fusion-plus https://www.supershieldz.com/tg-2p-m-one-fusion-plus
 MOT-1181,Motorola,Phone,Check,Motorola One Fusion,2020-07,,,
-MOT-1182,Motorola,Phone,Confirmed,Moto G 5G Plus,2020-07,Glass is sold for the Moto G 5G Plus alone (Supershieldz),,https://www.supershieldz.com/tg-2p-m-moto-g-5g-plus https://www.supershieldz.com/tg-3p-m-moto-g-5g-plus
+MOT-1182,Motorola,Phone,Check,Moto G 5G Plus,2020-07,,,
 MOT-1183,Motorola,Phone,Confirmed,Motorola One 5G; Motorola One 5G UW,2020-09,Supershieldz sells one glass for One 5G and One 5G UW,,https://www.supershieldz.com/tg-3p-m-one-5g
 MOT-1184,Motorola,Phone,Confirmed,Moto G9 Plus,2020-09,Glass is sold for the Moto G9 Plus alone (Selencia via Smartphonehoesjes),,https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-g9-plus.html
 MOT-1185,Motorola,Phone,Check,Motorola Razr 5G,2020-09,Foldable: glass is for the outer (cover) screen,cover,
 MOT-1186,Motorola + Lenovo,Phone,Check,Moto G9 Power; Lenovo K12 Pro,2020-11,"Same body size and screen specs, sold under several brands: test before swapping",,
 MOT-1187,Motorola,Phone,Confirmed,Moto G 5G; Motorola One 5G Ace; Motorola one 5G UW ace,2020-11,"Supershieldz sells one glass for One 5G Ace, One 5G UW Ace and Moto G 5G (2020)",,https://www.supershieldz.com/tg-3p-m-moto-g-5g
-MOT-1188,Motorola,Phone,Confirmed,Moto E7,2020-11,Glass is sold for the Moto E7 alone (Caliber via MP.cz),,https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-motorola-moto-e7-p-126561
+MOT-1188,Motorola,Phone,Check,Moto E7,2020-11,,,
 MOT-1189,Motorola,Phone,Confirmed,Moto G Play (2021),2021-01,Supershieldz sells glass for the G Play 2021 alone,,https://www.supershieldz.com/moto-g-play/
 MOT-1190,Motorola,Phone,Confirmed,Moto G Power (2021),2021-01,Supershieldz sells glass for the G Power 2021 alone,,https://www.supershieldz.com/moto-g-power/
 MOT-1191,Motorola,Phone,Confirmed,Moto G Stylus (2021),2021-01,Supershieldz sells glass for the G Stylus 2021 alone,,https://www.supershieldz.com/moto-g-stylus/
@@ -1993,13 +1993,13 @@ MOT-1200,Motorola,Phone,Confirmed,Motorola Edge 20,2021-07,"MyBat sells one glas
 MOT-1201,Motorola,Phone,Confirmed,Motorola Edge 20 Pro,2021-07,"MyBat sells one glass for the Edge 20, 20 Pro and 20 Lite, but Dux Ducis and 3MK sell each separately, so test fit. Dux Ducis and 3MK sell glass for the Edge 20 Pro alone",,https://www.mybat.com/products/motorola-edge-pro-lite-tempered-glass-screen-protector-mybat https://www.mybat.com/products/motorola-moto-edge-20-20-lite-20-pro-full-coverage-tempered-glass-screen-protector-mybat-pro https://homescreen.pl/en/1693-moto-edge-20-series
 MOT-1202,Motorola,Phone,Check,Motorola Edge 20 Fusion,2021-08,,,
 MOT-1203,Motorola,Phone,Confirmed,Motorola Edge (2021); Motorola Edge 5G UW (2021),2021-08,Supershieldz sells one glass for Edge 2021 and Edge 5G UW,,https://www.supershieldz.com/tg-3p-m-edge-2021
-MOT-1204,Motorola,Phone,Confirmed,Moto G50 5G,2021-08,Glass is sold for the Moto G50 5G alone (3MK via Home Screen),,https://homescreen.pl/en/moto-g50/22548-3mk-hardglass-motorola-moto-g50-5g-5903108398534.html
+MOT-1204,Motorola,Phone,Check,Moto G50 5G,2021-08,,,
 MOT-1205,Motorola,Phone,Confirmed,Moto E20,2021-09,"Bizon, Dux Ducis and 3MK sell glass for the E20 alone",,https://homescreen.pl/en/773-moto-e20
 MOT-1206,Motorola + Lenovo,Phone,Check,Moto E40; Moto E30; Lenovo K14 Plus,2021-10,"Sellers confirm Moto E40, Moto E30. The rest match on specs: test before swapping. Bizon sells one glass for E40 and E30; Lenovo K14 Plus not named",,https://homescreen.pl/en/771-moto-e40 https://homescreen.pl/en/moto-e40/91560-bizon-glass-clear-motorola-moto-e40-e30-5904665303887.html https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e30-e40.html
 MOT-1207,Motorola,Phone,Check,Motorola G Pure,2021-10,,,
 MOT-1208,Motorola,Phone,Check,Moto G Power (2022); Moto G Play (2023),2021-11,Same body size and screen specs: test before swapping,,
 MOT-1209,Motorola,Phone,Confirmed,Moto G31; Moto G41; Moto G71 5G,2021-11,"Bizon sells one glass for G31 and G41. Selencia sells one glass for the Moto G31, Moto G41 and Moto G71 5G (Smartphonehoesjes.nl)",,https://homescreen.pl/en/742-moto-g40-series https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-g31-g41-g71.html
-MOT-1210,Motorola,Phone,Confirmed,Moto G51 5G,2021-11,Glass is sold for the Moto G51 5G alone (Bizon via Home Screen),,https://homescreen.pl/en/moto-g51/91654-bizon-glass-edge-moto-g51-5g-black-5904665398661.html
+MOT-1210,Motorola,Phone,Check,Moto G51 5G,2021-11,,,
 MOT-1211,Motorola,Phone,Confirmed,Moto G200 5G; Motorola Edge S30,2021-11,Dux Ducis 9D tempered glass is listed for G200 5G and Edge S30,,https://homescreen.pl/en/835-moto-g200-series
 MOT-1212,Motorola,Phone,Check,Motorola Edge X30; Motorola Edge 30 Pro; Motorola Edge+ 5G UW (2022),2021-12,"Sellers confirm Motorola Edge X30, Motorola Edge 30 Pro. The rest match on specs: test before swapping. MyScreen sells one full-glue glass for Edge 30 Pro and Edge X30",,https://homescreen.pl/en/1692-moto-edge-30-series https://homescreen.pl/en/moto-edge-30-pro/57362-myscreen-diamond-glass-edge-lite-fg-motorola-edge-30-pro-edge-x30-black-full-glue-5904433206686.html
 MOT-1213,Motorola,Phone,Check,Moto G Stylus (2022),2022-02,,,
@@ -2190,7 +2190,7 @@ XIA-1093,Xiaomi / Redmi / Poco,Phone,Check,Redmi Note 10; Redmi Note 10S; Redmi 
 XIA-1094,Xiaomi / Redmi / Poco,Phone,Check,Redmi Note 10 5G; Poco M3 Pro; Poco M3 Pro 5G; Redmi Note 10T 5G; Redmi 10; Redmi Note 11 4G; Redmi 10 2022; Redmi Note 11SE,2021-03,"Sellers confirm Redmi Note 10 5G, Poco M3 Pro, Poco M3 Pro 5G, Redmi Note 10T 5G, Redmi 10, Redmi Note 11 4G, Redmi 10 2022. The rest match on specs: test before swapping. Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product. Displex sells one glass for the Redmi 10 2022 and Redmi Note 10 5G (displex.com). Cellularline sells one glass for the Redmi 10, Redmi Note 10 5G and Redmi Note 10T 5G (cellularline.com). POPIO sells one edge-to-edge glass for the Poco M3 Pro, Poco M3 Pro 5G and Redmi Note 10T 5G (popio.in). Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11. PanzerGlass sells one glass for the Redmi 10 and Redmi 10 2022 (MP.cz)",,https://homescreen.pl/en/683-poco-m3-pro https://homescreen.pl/en/poco-m3-pro/27038-hofi-glass-pro-poco-m3-pro-5gredmi-note-10-5g-black-6216990212222.html https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-p-126602 https://alogy.pl/pl/products/szklo-alogy-full-glue-cf-do-poco-m3-pro-5g-redmi-note-10-5g-czarne-45288.html https://www.displex.com/en/panzerglas/xiaomi-redmi-10 https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Xiaomi-Redmi-10-Redmi-Note-10-5G-Redmi-Note-10T-5G/p/TEMPGCABXIREN105GK https://www.popio.in/products/tempered-glass-for-xiaomi-poco-m3-pro-xiaomi-poco-m3-pro-5g-xiaomi-redmi-note-10t-5g-black-edge-to-edge-pack-of-1 https://aio.lv/en/product--telforceone-oem100920--11709298.md https://www.giztop.com/nillkin-cp-pro-glass-full-screen-protector-for-redmi-10.html https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10-redmi-10-2022-p-131357
 XIA-1095,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi Mi 10S,2021-03,,,
 XIA-1096,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi Mi 11 Lite; Xiaomi Mi 11 Lite 5G; Xiaomi 11 Lite 5G NE,2021-03,"3MK sells one hybrid glass for the Xiaomi 11 Lite 5G NE, Xiaomi Mi 11 Lite and Xiaomi Mi 11 Lite 5G (Hurtel)",,https://hurtel.com/en/products/3mk-flexibleglass-tm-hybrid-glass-on-xiaomi-mi-11-lite-4g-5g-11-lite-5g-ne-94073
-XIA-1097,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi Mi 11 Ultra,2021-03,"Glass is sold for the Xiaomi Mi 11 Ultra alone (PanzerShell via Home Screen, Selencia via Smartphonehoesjes)",,https://homescreen.pl/en/xiaomi-mi-11-ultra/34348-panzershell-3d-edge-glue-glass-xiaomi-mi-11-ultra-5904204922500.html https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-xiaomi-mi-11-ultra.html
+XIA-1097,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi Mi 11 Ultra,2021-03,,,
 XIA-1098,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi Mi Mix Fold,2021-03,Foldable: glass is for the outer (cover) screen,cover,
 XIA-1099,Xiaomi / Redmi / Poco,Phone,Check,Redmi K40 Gaming; Poco F3 GT,2021-04,Same body size and screen specs: test before swapping,,
 XIA-1100,Xiaomi / Redmi / Poco,Phone,Check,Redmi Note 10 Pro (China); Poco X3 GT,2021-05,Same body size and screen specs: test before swapping,,
@@ -2228,7 +2228,7 @@ XIA-1131,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi 13; Xiaomi 14,2022-12,"Pan
 XIA-1132,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi 13 Ultra,2023-04,Glass is sold for the Xiaomi 13 Ultra alone (Selencia via Smartphonehoesjes),,https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-xiaomi-13-ultra.html
 XIA-1133,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi Civi 3,2023-05,,,
 XIA-1134,Xiaomi / Redmi / Poco,Phone,Check,Redmi 12; Redmi Note 12R; Redmi 12 5G; Poco M6 Pro; Redmi Note 13R; Redmi 13; Poco M6 4G; Redmi 13 5G; Poco M6 Plus; Redmi 13x,2023-06,"Sellers confirm Redmi 12, Redmi 12 5G, Redmi 13, Redmi 13 5G, Poco M6 Plus. The rest match on specs: test before swapping. The AL5hafii chart groups all four at 168.6 x 76.3 mm, CEDO lists all four on one glass, and Displex and Eitansha glasses cover the Redmi 12 / 12 5G / 13 5G subset. MyScreen Diamond Glass is sold for Redmi 12 5G / 4G / 12R as one product. FIXED sells one glass for the Redmi 12, Redmi 12 5G and Redmi 13 (FIXED). Spacecase sells one glass for the Redmi 12 and Redmi 13 (spacecase.pl). 3MK FlexibleGlass (hybrid glass) is sold for Redmi 13 4G / 5G as one product",,https://www.flipkart.com/cedo-xpro-tempered-glass-guard-poco-m6-plus-5g/p/itmf87543168ef3f https://m.alza.hu/tempered-glass-protector-pro-xiaomi-redmi-12-kompatibilni-s-pouzdrem-levne-d8595184.htm https://galaxus.de/en/s1/product/displex-smart-glass-1-piece-xiaomi-redmi-12-xiaomi-poco-m6-xiaomi-redmi-13-xiaomi-redmi-12-5g-mobile-36911587 https://www.desertcart.sg/products/659376933-for-redmi-13-5g-poco-m6-pro-5g-redmi-12 https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/58_168x76.txt https://homescreen.pl/en/1046-redmi-12-series https://homescreen.pl/en/redmi-12-series/67280-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-12-5g-4g-12r-black-5904433225311.html https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-12-12-5g-p-179485 https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-12-4g-5g-13-4g-poco-m6-m6-plus-5-cerne https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-redmi-12-13-4g-34207 https://homescreen.pl/en/1079-redmi-13-series https://homescreen.pl/en/redmi-13/101058-3mk-flexibleglass-xiaomi-redmi-13-4g-5g-5903108576642.html
-XIA-1135,Xiaomi / Redmi / Poco,Phone,Confirmed,Poco M6 Pro 5G,2023-08,Glass is sold for the Poco M6 Pro 5G alone (3MK via Hurtel),,https://hurtel.com/en/products/poco-m6-pro-5g-3mk-hardglass-max-lite-tm-155318
+XIA-1135,Xiaomi / Redmi / Poco,Phone,Check,Poco M6 Pro 5G,2023-08,,,
 XIA-1136,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi Mix Fold 3,2023-08,Foldable: glass is for the outer (cover) screen,cover,
 XIA-1137,Xiaomi / Redmi / Poco,Phone,Check,Redmi K60 Ultra; Xiaomi 13T; Xiaomi 13T Pro,2023-08,"Sellers confirm Xiaomi 13T, Xiaomi 13T Pro. The rest match on specs: test before swapping. PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed",,https://homescreen.pl/en/2325-xiaomi-13-series https://homescreen.pl/en/xiaomi-13t-13t-pro/119952-bizon-glass-clear-duo-xiaomi-13t-pro-13t-2-pack-5900415718758.html https://homescreen.pl/en/xiaomi-13t-13t-pro/96215-bizon-glass-clear-2-xiaomi-13t-13t-pro-5904665348628.html https://hurtel.com/en/products/xiaomi-13t-13t-pro-3mk-flexibleglass-tm-155674 https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-13t-13t-pro-cerne https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-13t-13t-pro-p-183325 https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-xiaomi-13t-13t-pro-3mk-flexibleglass https://3mk.pl/p/nietlukace-sie-szklo-na-xiaomi-13t-13t-pro-3mk-flexibleglass-pro https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-xiaomi-13t-13t-pro-34267 https://www.displex.com/en/panzerglas/xiaomi-13t-pro/ https://panzerglass.com/products/safe-by-panzerglass%C2%AE-screen-protector-xiaomi-13t-13t-pro-ultra-wide-fit https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-13t-13t-pro.html
 XIA-1138,Xiaomi / Redmi / Poco,Phone,Check,Redmi Note 13 (China); Redmi Note 13 Pro; Redmi K70E; Poco X6; Poco X6 Pro; Redmi Note 13; Redmi Note 13 Pro 4G; Poco M6 Pro 4G; Poco X7 Pro; Redmi Note 14S,2023-09,"Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED). Displex sells one glass for the Redmi Note 13 and Redmi Note 13 Pro (displex.com). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ). PanzerGlass sells one glass for the Redmi Note 13 and Redmi Note 13 Pro 4G (panzerglass.com)",,https://homescreen.pl/en/redmi-note-13-5g/97210-bizon-glass-clear-2-poco-x6-poco-m6-pro-4g-redmi-note-13-5g-redmi-note-13-pro-4g-lte-14s-5g-5904665342114.html https://homescreen.pl/en/redmi-note-13-pro-5g/97289-bizon-glass-edge-2-xiaomi-poco-x6-poco-m6-pro-4g-redmi-note-13-5g-redmi-note-13-pro-4g-lte-14s-5g-5904665342121.html https://www.digitec.ch/en/s1/product/displex-real-glass-2d-panzerglas-1-piece-xiaomi-poco-m6-pro-xiaomi-redmi-note-13-pro-4g-xiaomi-redmi-42926810 https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note-13-pro-5g-poco-x6-poco-x6-pro-ultra-wide-fit https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-x6-pro-5g-p-198832 https://homescreen.pl/en/poco-x6-5g/132603-bizon-smart-25d-glass-xiaomi-poco-x6-redmi-note-13-5g-13-pro-4g5g-poco-m6-pro-4g-5900415734246.html https://homescreen.pl/en/poco-x6-5g/120236-bizon-glass-edge-duo-xiaomi-poco-x6-m6-pro-4g-redmi-note-13-5g-13-pro-4g-5g-black-frame-2-pack-5900415720003.html https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-cerne https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-2-5d-do-poco-x6-rm-note-13-pro-5g-34397 https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-poco-x6-rm-note-13-pro-5g-34401 https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-note-13-pro-5g-poco-x6.html https://www.displex.com/en/panzerglas/xiaomi-redmi-note-13-5g-13-pro-5g/ https://www.popio.in/products/tempered-glass-for-redmi-note-13-redmi-note-13-pro-black-edge-to-edge-pack-of-1 https://homescreen.pl/en/76983-nillkin-cppro-xiaomi-redmi-k70e-poco-x6-pro-5g.html https://homescreen.pl/en/1527-poco-x7-pro https://homescreen.pl/en/1084-poco-x6-pro-5g https://homescreen.pl/en/poco-x6-pro-5g/130248-bizon-smart-glass-25d-xiaomi-poco-x6-pro-x7-pro-5900415734314.html https://homescreen.pl/en/poco-x6-pro-5g/120237-bizon-glass-edge-duo-xiaomi-poco-x6-pro-x7-pro-black-frame-2-pack-5900415720010.html https://panzerglass.com/products/panzerglass%C2%AE-screen-protector-xiaomi-redmi-note13-5g-13-pro-4g-ultra-wide-fit
@@ -2295,12 +2295,12 @@ XIA-1198,Xiaomi / Redmi / Poco,Phone,Check,Redmi K100 Pro Max,2026-08,,,
 XIA-1199,Xiaomi / Redmi / Poco,Phone,Check,Redmi Note 17,2026-08,,,
 XIA-1200,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi 18 Pro,2026-09,3MK HardGlass and Bizon Glass Clear are sold for Xiaomi 18 Pro alone,,https://homescreen.pl/en/814-xiaomi-series
 XIA-1201,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi 18 Pro Max,2026-09,3MK HardGlass and Bizon Glass Clear are sold for Xiaomi 18 Pro Max alone,,https://homescreen.pl/en/814-xiaomi-series
-XIA-1202,Xiaomi / Redmi / Poco,Phone,Check,Xiaomi 18 Fold,2026-09,Foldable: glass is for the outer (cover) screen,cover,
+XIA-1202,Xiaomi / Redmi / Poco,Phone,Confirmed,Xiaomi 18 Fold,2026-09,Glass is sold for the Xiaomi 18 Fold alone (Nillkin). Foldable: glass is for the outer (cover) screen,cover,https://www.nillkin.com/products/2-5d-clear-glass-screen-protector-for-xiaomi-18-fold
 XIA-1203,Xiaomi / Redmi / Poco,Phone,Check,Poco X8,2026-09,,,
 XIA-1204,Xiaomi / Redmi / Poco,Phone,Check,Poco X8 Power,2026-09,,,
 XIA-1205,Xiaomi / Redmi / Poco,Phone,Check,Redmi 17 5G,2026-09,,,
 XIA-1206,Xiaomi / Redmi / Poco,Phone,Check,Poco X8s,2026-10,,,
-XIA-1207,Xiaomi / Redmi / Poco,Phone,Confirmed,Redmi 17C 5G,2026-10,Glass is sold for the Redmi 17C 5G alone (Hama),,https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-xiaomi-redmi-17c-5g-montagehilfe-00233348
+XIA-1207,Xiaomi / Redmi / Poco,Phone,Check,Redmi 17C 5G,2026-10,,,
 XIA-1208,Xiaomi / Redmi / Poco,Phone,Check,Redmi K100,2026-10,,,
 XIA-2001,Xiaomi / Redmi / Poco,Tablet,Check,Xiaomi Mi Pad 7.9,2014-03,,,
 XIA-2002,Xiaomi / Redmi / Poco,Tablet,Check,Xiaomi Mi Pad 2; Xiaomi Mi Pad 3,2015-11,Same body size and screen specs: test before swapping,,
@@ -2582,7 +2582,7 @@ NOK-1191,Nokia / HMD,Phone,Confirmed,Nokia G400,2022-01,Supershieldz sells glass
 NOK-1192,Nokia / HMD,Phone,Confirmed,Nokia C21 Plus,2022-02,"3MK sells FlexibleGlass hybrid glass for the Nokia C21 Plus alone; hybrid glass, not tempered",,https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-c21-plus-3mk-flexibleglass
 NOK-1193,Nokia / HMD,Phone,Confirmed,Nokia C2 2nd Edition,2022-02,"3MK sells FlexibleGlass hybrid glass for the Nokia C2 2nd Edition alone; hybrid glass, not tempered",,https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-c2-2nd-edition-3mk-flexibleglass
 NOK-1194,Nokia / HMD,Phone,Check,Nokia 2760 Flip,2022-03,,,
-NOK-1195,Nokia / HMD,Phone,Confirmed,Nokia G11 Plus,2022-06,"Glass is sold for the Nokia G11 Plus alone (Dux Ducis via Hurtel, Selencia via Smartphonehoesjes)",,https://hurtel.com/en/products/dux-ducis-10d-tempered-glass-tempered-glass-for-nokia-g11-plus-9h-with-black-frame-108333 https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-nokia-g11-plus.html
+NOK-1195,Nokia / HMD,Phone,Check,Nokia G11 Plus,2022-06,,,
 NOK-1196,Nokia / HMD,Phone,Check,Nokia C31,2022-09,,,
 NOK-1197,Nokia / HMD,Phone,Check,Nokia G100,2022-09,,,
 NOK-1198,Nokia / HMD,Phone,Confirmed,Nokia G60,2022-09,"3MK sells FlexibleGlass hybrid glass for the Nokia G60 alone; hybrid glass, not tempered",,https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-g60-5g-3mk-flexibleglass
@@ -3169,13 +3169,13 @@ HUA-1132,Huawei,Phone,Check,Huawei nova 3i,2018-07,,,
 HUA-1133,Huawei + Honor,Phone,Check,Huawei P Smart+ 2019; Honor 10 Lite; Huawei P smart 2019; Huawei Enjoy 9s; Honor 20 lite; Honor 20i; Honor 20e; Huawei P smart 2020,2018-07,"Sellers confirm Huawei P Smart+ 2019, Honor 10 Lite, Huawei P smart 2019, Honor 20 lite, Huawei P smart 2020. The rest match on specs: test before swapping. Two marketplace glass listings name P smart 2019 and P Smart+ 2019 together. Avizar and an eBay seller list one glass for P smart 2019, P smart 2020 and Honor 10 Lite. Cellularline sells one glass for the Honor 10 Lite, Honor 20 lite and Huawei P smart 2019 (cellularline.com)",,https://www.galaxus.it/en/s1/product/oem-protective-glass-tempered-glass-for-huawei-p-smart-2019-p-smart-plus-2019-1-piece-huawei-p-smart-53360520 https://www.skroutz.gr/s/50269841/Matt-Vollflaechig-gehaertetes-Glas-Huawei-P-Smart-2019-P-Smart-2019-MPSG3045.html https://www.digitec.ch/en/s1/product/avizar-edge-to-edge-screen-protector-display-foil-1-piece-huawei-p-smart-2020-mobile-phone-screen-pr-21210868 https://www.ebay.de/itm/313328694448 https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Second-Glass-Shape---P-Smart-%282019%29-Honor-10-Lite-Honor-20-Lite/p/TEMPGCABPSMART19T
 HUA-1134,Huawei,Phone,Confirmed,Huawei Mate 20 lite,2018-08,"Glass is sold for the Huawei Mate 20 lite alone (Supershieldz, Selencia via Smartphonehoesjes, Alogy)",,https://www.supershieldz.com/tg-3p-hw-mate-20-lite https://www.supershieldz.com/tg-2p-hw-mate-20-lite https://www.smartphonehoesjes.nl/premium-gehard-glas-screenprotector-huawei-mate-20.html
 HUA-1135,Huawei,Phone,Confirmed,Huawei Mate 20,2018-10,Glass is sold for the Huawei Mate 20 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-hw-mate-20-black
-HUA-1136,Huawei,Phone,Confirmed,Huawei Mate 20 Pro,2018-10,Glass is sold for the Huawei Mate 20 Pro alone (Selencia via Smartphonehoesjes),,https://www.smartphonehoesjes.nl/premium-gehard-glas-screenprotector-huawei-mate-20-88903325.html
+HUA-1136,Huawei,Phone,Check,Huawei Mate 20 Pro,2018-10,,,
 HUA-1137,Huawei,Phone,Check,Huawei Mate 20 RS Porsche Design,2018-10,,,
 HUA-1138,Huawei,Phone,Check,Huawei Mate 20 X,2018-10,,,
 HUA-1139,Huawei,Phone,Check,Huawei Y9 (2019); Huawei Y8s,2018-10,Same body size and screen specs: test before swapping,,
 HUA-1140,Huawei,Phone,Check,Huawei Y Max,2018-11,,,
 HUA-1141,Huawei,Phone,Check,Huawei Enjoy 9; Huawei Y7 Prime (2019); Huawei Y7 Pro (2019); Huawei Y7 (2019),2018-12,"Sellers confirm Huawei Y7 Prime (2019), Huawei Y7 Pro (2019), Huawei Y7 (2019). The rest match on specs: test before swapping. SBS and Beukei each sell one glass for Y7 2019, Y7 Prime 2019 and Y7 Pro 2019; Enjoy 9 not confirmed",,https://sbsmobile.com/gbr/en/smartphone/489-full-cover-glass-screen-protector-for-huawei-y7-2019prime-2019y7-pro-2019-8018417266799.html https://www.pricecheck.co.za/offers/178725737/2+Pack+Beukei+For+Huawei+Y7+2019+And+Y7+Pro+2019+And+Huawei+Y7+Prime+2019+Screen+Protector+Tempered+Glass+Full+Screen+Coverage+A
-HUA-1142,Huawei,Phone,Confirmed,Huawei nova 4,2018-12,Glass is sold for the Huawei nova 4 alone (Supershieldz),,https://www.supershieldz.com/tg-hw-nova-4-3p https://www.supershieldz.com/tg-hw-nova-4-2p
+HUA-1142,Huawei,Phone,Check,Huawei nova 4,2018-12,,,
 HUA-1143,Huawei,Phone,Check,Huawei Mate X; Huawei Mate Xs,2019-02,Same body size and screen specs: test before swapping. Foldable: glass is for the outer (cover) screen,cover,
 HUA-1144,Huawei,Phone,Check,Huawei nova 4e; Huawei P30 lite; Huawei P30 lite New Edition,2019-03,"Sellers confirm Huawei nova 4e, Huawei P30 lite. The rest match on specs: test before swapping. Two marketplace glass listings (Digitec OEM, PWY on Giztop) name P30 lite and nova 4e together",,https://www.digitec.ch/en/s1/product/oem-tempered-glass-10d-for-huawei-p30-lite-nova-4e-black-frame-1-piece-huawei-p30-lite-huawei-nova-4-33465517 https://www.giztop.com/pwy-glass-screen-protector-for-huawei-nova-4e.html https://www.popio.in/products/tempered-glass-for-huawei-p30-lite-huawei-nova-4e-black-edge-to-edge-pack-of-1
 HUA-1145,Huawei,Phone,Confirmed,Huawei P30,2019-03,"Glass is sold for the Huawei P30 alone (Supershieldz, Spacecase)",,https://www.supershieldz.com/tg-2p-hw-p30-black https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-huawei-p30-34484
@@ -3457,7 +3457,7 @@ HON-1038,Honor,Phone,Confirmed,Honor 8X; Honor 9X Lite,2018-09,Wave and an Alza 
 HON-1039,Honor,Phone,Check,Honor 8X Max,2018-09,,,
 HON-1040,Honor,Phone,Check,Honor 8C,2018-10,,,
 HON-1041,Honor,Phone,Check,Honor Magic 2; Honor Magic 2 3D,2018-10,Same body size and screen specs: test before swapping,,
-HON-1042,Honor,Phone,Confirmed,Honor View 20,2018-12,Glass is sold for the Honor View 20 alone (Supershieldz),,https://www.supershieldz.com/tg-hw-honor-view-20-2p https://www.supershieldz.com/tg-hw-honor-view-20-3p
+HON-1042,Honor,Phone,Check,Honor View 20,2018-12,,,
 HON-1043,Honor + Huawei,Phone,Check,Honor Play 8A; Huawei Y6 Pro (2019); Huawei Enjoy 9e; Huawei Y6 (2019); Honor 8A Pro; Huawei Y6s (2019),2019-01,"Sellers confirm Honor Play 8A, Huawei Y6 (2019), Huawei Y6s (2019). The rest match on specs: test before swapping. AlzaGuard and The Kase list Y6 2019 with Honor 8A (sold in China as Play 8A); Varle and Amorus add Y6s 2019. Fingerprint and non-fingerprint Y6 2019 versions exist",,https://m.alza.at/EN/reviews/alzaguard-25d-case-friendly-glass-protector-for-huawei-y6-2019-honor-8a-7070854.htm https://www.pixmania.com/fr/fr/protection-decran-premium-en-verre-trempe-pour-huawei-honor-8a-y6-2019-transparent-22227.html https://www.varle.lt/telefonu-apsaugines-pleveles/tempered-glass-grudintas-stiklas-9d-visiskai-padengtas--20885226.html https://www.ipartsexpert.com/details/amorus-full-glue-silk-printing-tempered-glass-full-screen-protector-for-huawei-y6-2019-with-fingerprint-sensor-y6-prime-2019-sku103510111a.html
 HON-1044,Honor + Huawei,Phone,Check,Honor 8S; Huawei Y5 (2019); Honor Play 3e; Honor 8S 2020,2019-04,"Sellers confirm Honor 8S, Huawei Y5 (2019). The rest match on specs: test before swapping. Elkjop and glass pro each sell one protector for Huawei Y5 2019 / Honor 8S",,https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/huawei-y5-2019-enjoy-play-8-honor-8s/657349 https://aio.lv/en/product--glass-pro-gphy52019tg--2011917
 HON-1045,Honor + Huawei,Phone,Confirmed,Honor 20; Honor 20 Pro; Huawei nova 5T; Honor 20S,2019-05,"Elkjop sells one protector for Honor 20 / 20S / Huawei nova 5T. AlzaGuard and Wave sell one glass for nova 5T, Honor 20 and Honor 20 Pro. Honor 20 and Huawei nova 5T are the same phone",,https://www.elkjop.no/product/mobil-nettbrett-og-smartklokker/mobiltilbehor/skjermbeskytter-til-mobil/honor-20-20s-huawei-nova-5t-skjermbeskytter/657297 https://www.alza.at/EN/alzaguard-glass-protector-for-huawei-nova-5thonor-20honor-20-pro-d6230805.htm https://www.digitec.ch/en/s1/product/wave-full-cover-panssarilasi-honor-20-honor-20-pro-huawei-nova-5t-musta-1-pcs-huawei-nova-5t-k20-mob-35483291
@@ -3485,14 +3485,14 @@ HON-1066,Honor,Phone,Check,Honor Magic3 Pro,2021-08,,,
 HON-1067,Honor,Phone,Check,Honor Play 5T Pro,2021-08,,,
 HON-1068,Honor,Phone,Check,Honor X20; Honor 50 Lite; Honor Play5 Youth,2021-08,Same body size and screen specs: test before swapping,,
 HON-1069,Honor,Phone,Check,Honor X30i; Honor X8; Honor Play6T Pro,2021-10,Same body size and screen specs: test before swapping,,
-HON-1070,Honor,Phone,Confirmed,Honor 60,2021-12,Glass is sold for the Honor 60 alone (Dux Ducis via Home Screen),,https://homescreen.pl/en/honor-60-series/43650-dux-ducis-curved-glass-honor-60-black-6934913043127.html
+HON-1070,Honor,Phone,Check,Honor 60,2021-12,,,
 HON-1071,Honor,Phone,Confirmed,Honor 60 Pro,2021-12,"Glass is sold for the Honor 60 Pro alone (Dux Ducis via Home Screen, Dux Ducis via Hurtel)",,https://homescreen.pl/en/honor-60-series/43651-dux-ducis-curved-glass-honor-60-pro-black-6934913043134.html https://hurtel.com/en/products/dux-ducis-curved-glass-tempered-glass-for-honor-60-pro-with-a-black-frame-89083
 HON-1072,Honor,Phone,Check,Honor Play 30 Plus; Honor X7; Honor Play6T,2021-12,Same body size and screen specs: test before swapping,,
 HON-1073,Honor,Phone,Check,Honor X30; Honor X9; Honor X9 5G,2021-12,Same body size and screen specs: test before swapping,,
 HON-1074,Honor,Phone,Check,Honor Magic V,2022-01,Foldable: glass is for the outer (cover) screen,cover,
 HON-1075,Honor,Phone,Check,Honor 60 SE; Honor 80 SE,2022-02,Same body size and screen specs: test before swapping,,
 HON-1076,Honor,Phone,Check,Honor Magic4,2022-02,,,
-HON-1077,Honor,Phone,Confirmed,Honor Magic4 Pro,2022-02,Glass is sold for the Honor Magic4 Pro alone (Dux Ducis via Home Screen),fingerprint,https://homescreen.pl/en/honor-magic4-pro/43848-dux-ducis-curved-glass-honor-magic4-pro-black-6934913039694.html
+HON-1077,Honor,Phone,Check,Honor Magic4 Pro,2022-02,,fingerprint,
 HON-1078,Honor,Phone,Check,Honor Magic4 Lite,2022-03,,,
 HON-1079,Honor,Phone,Check,Honor Magic4 Ultimate,2022-03,,fingerprint,
 HON-1080,Honor,Phone,Confirmed,Honor 70,2022-05,"Glass is sold for the Honor 70 alone (MyScreen via Home Screen, 3MK via Home Screen, 3MK via Hurtel)",,https://homescreen.pl/en/honor-70/56398-myscreen-diamond-glass-edge-3d-honor-70-black-5904433213066.html https://homescreen.pl/en/honor-70/47202-3mk-hardglass-max-lite-honor-70-black-5903108496520.html https://hurtel.com/en/products/reinforced-full-screen-tempered-glass-3mk-hardglass-max-black-for-honor-70-209589
@@ -3530,7 +3530,7 @@ HON-1111,Honor,Phone,Check,Honor Play 60 Plus,2024-06,,fingerprint,
 HON-1112,Honor,Phone,Check,Honor Magic V3,2024-07,Foldable: glass is for the outer (cover) screen,cover,
 HON-1113,Honor,Phone,Check,Honor Magic Vs3,2024-07,Foldable: glass is for the outer (cover) screen,cover,
 HON-1114,Honor,Phone,Check,Honor X60i,2024-07,,fingerprint,
-HON-1115,Honor,Phone,Confirmed,Honor 200 Smart,2024-09,Glass is sold for the Honor 200 Smart alone (Insmat),,https://www.insmat.fi/fi/tuote/insmat-matkapuhelintarvikkeet/naytonsuojat/861-1583/full-screen-glass-honor-200-smart-black
+HON-1115,Honor,Phone,Check,Honor 200 Smart,2024-09,,,
 HON-1116,Honor,Phone,Check,Honor Play9T; Honor X7c 4G; Honor X6b,2024-09,Same body size and screen specs: test before swapping,,
 HON-1117,Honor,Phone,Check,Honor Magic7,2024-10,,fingerprint,
 HON-1118,Honor,Phone,Check,Honor Magic7 Pro; Honor Magic7 RSR Porsche Design,2024-10,Same body size and screen specs: test before swapping,fingerprint,
@@ -3557,7 +3557,7 @@ HON-1138,Honor,Phone,Check,Honor Play10 4G,2025-09,,,
 HON-1139,Honor,Phone,Check,Honor X5c Plus; Honor Play10A; Honor X5c; Honor X5d; Honor X5d Plus,2025-09,Same body size and screen specs: test before swapping,,
 HON-1140,Honor,Phone,Check,Honor X9d; Honor Magic8 Lite; Honor X70 Pro Max,2025-09,"Sellers confirm Honor X9d, Honor Magic8 Lite. The rest match on specs: test before swapping. Hello Case (aio.lv) and a Galaxus OEM glass both list X9d and Magic8 Lite together",,https://aio.lv/en/product--hello-case-oem103417--12218891 https://www.galaxus.it/en/s1/product/oem-protective-glass-tempered-glass-for-honor-x9d-magic-8-lite-1-pcs-honor-x9-mobile-phone-screen-pr-67577400
 HON-1141,Honor,Phone,Check,Honor Magic8,2025-10,,fingerprint,
-HON-1142,Honor,Phone,Confirmed,Honor Magic8 Pro,2025-10,"Glass is sold for the Honor Magic8 Pro alone (Insmat, PanzerGlass via MP.cz)",fingerprint,https://www.insmat.fi/fi/tuote/insmat-matkapuhelintarvikkeet/naytonsuojat/861-1702/3d-full-screen-glass-honor-magic8-pro-blk https://www.mp.cz/tvrzene-sklo-panzerglass-honor-magic8-pro-p-290044
+HON-1142,Honor,Phone,Check,Honor Magic8 Pro,2025-10,,fingerprint,
 HON-1143,Honor,Phone,Check,Honor 500; Honor 500 Pro (China),2025-11,Same body size and screen specs: test before swapping,,
 HON-1144,Honor,Phone,Check,Honor Play 60A; Honor X6d; Honor 500 Smart; Honor Play 80; Honor Play 70C,2025-12,Same body size and screen specs: test before swapping,,
 HON-1145,Honor,Phone,Check,Honor Win; Honor Win RT,2025-12,Same body size and screen specs: test before swapping,fingerprint,
@@ -3602,15 +3602,15 @@ HON-2014,Honor,Tablet,Check,Honor V Purse,2023-09,,,
 HON-2015,Honor,Tablet,Confirmed,Honor Pad 9,2023-12,Glass is sold for the Honor Pad 9 alone (FIXED),,https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-9-cire
 HON-2016,Honor,Tablet,Check,Honor MagicPad 2 12.3; Honor Pad GT Pro,2024-07,Same body size and screen specs: test before swapping,,
 HON-2017,Honor,Tablet,Check,Honor Pad 9 Pro,2024-07,,,
-HON-2018,Honor,Tablet,Confirmed,Honor Pad X8a,2024-08,Glass is sold for the Honor Pad X8a alone (FIXED),,https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-x8a-cire
+HON-2018,Honor,Tablet,Check,Honor Pad X8a,2024-08,,,
 HON-2019,Honor,Tablet,Check,Honor Pad V9; Honor Pad GT,2024-12,Same body size and screen specs: test before swapping,,
-HON-2020,Honor,Tablet,Confirmed,Honor Pad X9a,2025-03,Glass is sold for the Honor Pad X9a alone (FIXED),,https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-x9a-cire
-HON-2021,Honor,Tablet,Confirmed,Honor Pad 10,2025-05,Glass is sold for the Honor Pad 10 alone (FIXED),,https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-10-cire
+HON-2020,Honor,Tablet,Check,Honor Pad X9a,2025-03,,,
+HON-2021,Honor,Tablet,Check,Honor Pad 10,2025-05,,,
 HON-2022,Honor,Tablet,Check,Honor MagicPad 3; Honor MagicPad3 Pro 13.3,2025-07,Same body size and screen specs: test before swapping,,
 HON-2023,Honor,Tablet,Check,Honor Pad GT2 Pro,2025-07,,,
 HON-2024,Honor,Tablet,Check,Honor Pad X7,2025-07,,,
 HON-2025,Honor,Tablet,Check,Honor MagicPad4; Honor MagicPad 3 Pro 12.3,2026-02,Same body size and screen specs: test before swapping,,
-HON-2026,Honor,Tablet,Confirmed,Honor Pad X8b,2026-02,Glass is sold for the Honor Pad X8b alone (FIXED),,https://fixed.zone/products/ochranne-tvrzene-sklo-pro-honor-pad-x8b-cire
+HON-2026,Honor,Tablet,Check,Honor Pad X8b,2026-02,,,
 HON-2027,Honor,Tablet,Check,Honor Pad 10 Pro,2026-04,,,
 HON-2028,Honor,Tablet,Check,Honor Pad 20,2026-05,,,
 HON-2029,Honor,Tablet,Check,Honor Tablet X10 Mini,2026-10,,,
@@ -3776,13 +3776,13 @@ TCL-1135,TCL / Alcatel,Phone,Confirmed,Alcatel 1B (2020); Alcatel 1B (2022),2020
 TCL-1136,TCL / Alcatel,Phone,Check,Alcatel 1S (2020); Alcatel 3L (2020),2020-01,Same body size and screen specs: test before swapping,,
 TCL-1137,TCL / Alcatel,Phone,Confirmed,Alcatel 1V (2020),2020-01,"3MK sells FlexibleGlass hybrid glass for the Alcatel 1V (2020) alone; hybrid glass, not tempered",,https://3mk.pl/p/2x-szklo-hybrydowe-na-alcatel-1v-2020-3mk-hardy-fusion
 TCL-1138,TCL / Alcatel,Phone,Check,TCL 10 5G,2020-04,,,
-TCL-1139,TCL / Alcatel,Phone,Confirmed,TCL 10 Pro,2020-04,Glass is sold for the TCL 10 Pro alone (Supershieldz),,https://www.supershieldz.com/tg-2p-tcl-10-pro-bk-3d
+TCL-1139,TCL / Alcatel,Phone,Check,TCL 10 Pro,2020-04,,,
 TCL-1140,TCL / Alcatel,Phone,Confirmed,TCL 10L,2020-04,Glass is sold for the TCL 10L alone (Supershieldz),,https://www.supershieldz.com/tg-2p-tcl-10l https://www.supershieldz.com/tg-3p-tcl-10l
 TCL-1141,TCL / Alcatel,Phone,Confirmed,Alcatel 3X (2020),2020-06,"3MK sells FlexibleGlass hybrid glass for the Alcatel 3X (2020) alone; hybrid glass, not tempered",,https://3mk.pl/p/2x-szklo-hybrydowe-na-alcatel-3x-2020-3mk-hardy-fusion
 TCL-1142,TCL / Alcatel,Phone,Check,TCL 10 Plus,2020-07,,,
 TCL-1143,TCL / Alcatel,Phone,Check,TCL 10 SE,2020-07,,,
 TCL-1144,TCL / Alcatel,Phone,Check,Alcatel 1SE (2020); TCL L10 Pro; TCL 205,2020-10,Same body size and screen specs: test before swapping,,
-TCL-1145,TCL / Alcatel,Phone,Confirmed,TCL 10 5G UW,2020-10,Glass is sold for the TCL 10 5G UW alone (Supershieldz),,https://www.supershieldz.com/tg-2p-tcl-10-5g-uw https://www.supershieldz.com/tg-3p-tcl-10-5g-uw
+TCL-1145,TCL / Alcatel,Phone,Check,TCL 10 5G UW,2020-10,,,
 TCL-1146,TCL / Alcatel,Phone,Confirmed,TCL 20 5G,2020-11,Glass is sold for the TCL 20 5G alone (Hurtel),,https://hurtel.com/en/products/tempered-glass-9h-tcl-20-5g-tempered-glass-packaging-envelope-107683
 TCL-1147,TCL / Alcatel,Phone,Check,Alcatel 1L (2021),2021-01,,,
 TCL-1148,TCL / Alcatel,Phone,Check,Alcatel 1S (2021); TCL 20Y; TCL 20E,2021-01,Same body size and screen specs: test before swapping,,
@@ -4047,11 +4047,11 @@ LGE-1142,LG,Phone,Check,LG Leon; LG Tribute 2,2015-02,Same body size and screen 
 LGE-1143,LG,Phone,Check,LG Magna,2015-02,,,
 LGE-1144,LG,Phone,Check,LG Spirit,2015-02,,,
 LGE-1145,LG,Phone,Check,LG AKA,2015-03,,,
-LGE-1146,LG,Phone,Confirmed,LG G4,2015-04,"Glass is sold for the LG G4 alone (Supershieldz, Alogy)",,https://www.supershieldz.com/tg-l-g4-1p https://alogy.pl/pl/products/szklo-hartowane-hardglass-3mk-do-lg-g4-17654.html
+LGE-1146,LG,Phone,Check,LG G4,2015-04,,,
 LGE-1147,LG,Phone,Check,LG G4 Stylus,2015-04,,,
 LGE-1148,LG,Phone,Check,LG G4 Dual,2015-05,,,
 LGE-1149,LG,Phone,Check,LG G4c,2015-05,,,
-LGE-1150,LG,Phone,Confirmed,LG G Stylo,2015-05,Glass is sold for the LG G Stylo alone (Supershieldz),,https://www.supershieldz.com/tg-l-g-stylo-1p
+LGE-1150,LG,Phone,Check,LG G Stylo,2015-05,,,
 LGE-1151,LG,Phone,Check,LG Bello II,2015-07,,,
 LGE-1152,LG,Phone,Check,LG G4 Beat,2015-07,,,
 LGE-1153,LG,Phone,Check,LG Wine Smart,2015-08,,,
@@ -4069,7 +4069,7 @@ LGE-1164,LG,Phone,Check,LG X cam,2016-02,,,
 LGE-1165,LG,Phone,Confirmed,LG X screen,2016-02,Glass is sold for the LG X screen alone (Alogy),,https://alogy.pl/pl/products/szklo-hartowane-9h-do-lg-x-screen-18040.html
 LGE-1166,LG,Phone,Check,LG K5,2016-03,,,
 LGE-1167,LG,Phone,Check,LG G5 SE,2016-04,,,
-LGE-1168,LG,Phone,Confirmed,LG Stylo 2,2016-04,Glass is sold for the LG Stylo 2 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-l-stylo-2 https://www.supershieldz.com/tg-2p-l-stylo-2-bk-e-1
+LGE-1168,LG,Phone,Check,LG Stylo 2,2016-04,,,
 LGE-1169,LG,Phone,Check,LG Stylus 2 Plus,2016-05,,,
 LGE-1170,LG,Phone,Check,LG X power,2016-05,,,
 LGE-1171,LG,Phone,Check,LG X style,2016-05,,,
@@ -4105,7 +4105,7 @@ LGE-1200,LG,Phone,Confirmed,LG Q7,2018-05,Glass is sold for the LG Q7 alone (Sup
 LGE-1201,LG,Phone,Check,LG Q Stylo 4,2018-06,,,
 LGE-1202,LG,Phone,Check,LG Q Stylus,2018-06,,,
 LGE-1203,LG,Phone,Check,LG X power 3,2018-07,,,
-LGE-1204,LG,Phone,Confirmed,LG G7 Fit,2018-08,Glass is sold for the LG G7 Fit alone (Supershieldz),,https://www.supershieldz.com/tg-lg-g7-fit-2p-e-1
+LGE-1204,LG,Phone,Check,LG G7 Fit,2018-08,,,
 LGE-1205,LG,Phone,Check,LG Q8 (2018),2018-08,,,
 LGE-1206,LG,Phone,Check,LG V40 ThinQ,2018-10,,,
 LGE-1207,LG,Phone,Check,LG Tribute Empire,2019-01,,,
@@ -4336,7 +4336,7 @@ HTC-1165,HTC,Phone,Check,HTC Desire 10 Lifestyle,2016-09,,,
 HTC-1166,HTC,Phone,Check,HTC Desire 10 Pro,2016-09,,,
 HTC-1167,HTC,Phone,Check,HTC One A9s,2016-09,,,
 HTC-1168,HTC,Phone,Check,HTC 10 evo,2016-11,,,
-HTC-1169,HTC,Phone,Confirmed,HTC Desire 650,2016-11,Glass is sold for the HTC Desire 650 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-htc-desire-650
+HTC-1169,HTC,Phone,Check,HTC Desire 650,2016-11,,,
 HTC-1170,HTC,Phone,Check,HTC U Play,2017-01,,,
 HTC-1171,HTC,Phone,Check,HTC U Ultra,2017-01,,,
 HTC-1172,HTC,Phone,Check,HTC Desire 10 Compact,2017-02,,,
@@ -7174,7 +7174,7 @@ TMO-1028,T-Mobile,Phone,Confirmed,T-Mobile Revvlry,2019-07,Glass is sold for the
 TMO-1029,T-Mobile,Phone,Confirmed,T-Mobile REVVL 4+,2020-08,Glass is sold for the T-Mobile REVVL 4+ alone (Supershieldz),,https://www.supershieldz.com/tg-3p-t-mobile-revvl-4-plus https://www.supershieldz.com/tg-2p-t-mobile-revvl-4-plus
 TMO-1030,T-Mobile,Phone,Confirmed,T-Mobile REVVL 4,2020-08,Glass is sold for the T-Mobile REVVL 4 alone (Supershieldz),,https://www.supershieldz.com/tg-3p-t-mobile-revvl-4 https://www.supershieldz.com/tg-2p-t-mobile-revvl-4
 TMO-1031,T-Mobile,Phone,Confirmed,T-Mobile REVVL 5G,2020-08,Glass is sold for the T-Mobile REVVL 5G alone (Supershieldz),,https://www.supershieldz.com/tg-3p-t-mobile-revvl-5g https://www.supershieldz.com/tg-2p-t-mobile-revvl-5g
-TMO-1032,T-Mobile,Phone,Confirmed,T-Mobile REVVL V+ 5G,2021-07,Glass is sold for the T-Mobile REVVL V+ 5G alone (Supershieldz),,https://www.supershieldz.com/tg-2p-t-mobile-revvl-v-plus-5g https://www.supershieldz.com/tg-3p-t-mobile-revvl-v-plus-5g
+TMO-1032,T-Mobile,Phone,Check,T-Mobile REVVL V+ 5G,2021-07,,,
 TMO-1033,T-Mobile,Phone,Check,T-Mobile REVVL 6; T-Mobile REVVL 6x,2022-07,Same body size and screen specs: test before swapping,,
 TMO-1034,T-Mobile,Phone,Check,T-Mobile REVVL 6 Pro; T-Mobile REVVL 6x Pro,2022-07,Same body size and screen specs: test before swapping,,
 TMO-1035,T-Mobile,Phone,Check,T-Mobile REVVL 7,2024-05,,,
@@ -8498,8 +8498,8 @@ GAR-3051,Garmin,Wearable,Check,Garmin fenix 5X; Garmin tactix Charlie; Garmin D2
 GAR-3052,Garmin,Wearable,Confirmed,Garmin Approach S60,2017-01,Supershieldz sells tempered glass for the Approach S60 alone. Universal round glass: try UNI-0009 (31mm); measure first,measure,https://www.supershieldz.com/tg-garmin-approach-s60-3p
 GAR-3053,Garmin,Wearable,Check,Garmin Forerunner 935,2017-03,"Supershieldz sells one tempered glass for fenix 8 / 8 Pro (Solar/AMOLED) 47mm, fenix E 47mm and Forerunner 935; conflicts with an Alza note that the fenix 8 AMOLED 47mm differs, so test fit. Universal round glass: try UNI-0009 (31mm); measure first",measure,https://www.supershieldz.com/tg-2p-garmin-forerunner-935
 GAR-3054,Garmin,Wearable,Check,Garmin vivosmart 3,2017-04,,,
-GAR-3055,Garmin,Wearable,Confirmed,Garmin vivoactive 3,2017-08,"Two Best Buy Canada tempered glass listings for the vivoactive 3 say not fit for vivoactive 3 Music, and Supershieldz sells separate glass for each; split the group. Glass is sold for the Garmin vivoactive 3 alone (Hofi via Home Screen, Supershieldz). Universal round glass: try UNI-0009 (31mm); measure first",measure,https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-glass-not-fit-for-vivoactive-3-music-hd-tempered/19291650 https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-gl-not-fit-for-vivoactive-3-music-hd-tempered/20001752 https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music https://homescreen.pl/en/vivoactive-3-3-music/26929-hofi-glass-pro-garmin-vivoactive-3-5906735415186.html https://www.supershieldz.com/tg-2p-garmin-vivoactive-3 https://www.supershieldz.com/tg-garmin-vivoactive-3-1p
-GAR-3056,Garmin,Wearable,Confirmed,Garmin vivoactive 3 Music,2017-08,"Two Best Buy Canada tempered glass listings for the vivoactive 3 say not fit for vivoactive 3 Music, and Supershieldz sells separate glass for each; split the group. Glass is sold for the Garmin vivoactive 3 Music alone (Supershieldz). Universal round glass: try UNI-0009 (31mm); measure first",measure,https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-glass-not-fit-for-vivoactive-3-music-hd-tempered/19291650 https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-gl-not-fit-for-vivoactive-3-music-hd-tempered/20001752 https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music https://www.supershieldz.com/tg-3p-garmin-vivoactive-3-music https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music
+GAR-3055,Garmin,Wearable,Check,Garmin vivoactive 3,2017-08,"Two Best Buy Canada tempered glass listings for the vivoactive 3 say not fit for vivoactive 3 Music, and Supershieldz sells separate glass for each; split the group. Universal round glass: try UNI-0009 (31mm); measure first",measure,https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-glass-not-fit-for-vivoactive-3-music-hd-tempered/19291650 https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-gl-not-fit-for-vivoactive-3-music-hd-tempered/20001752 https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music
+GAR-3056,Garmin,Wearable,Check,Garmin vivoactive 3 Music,2017-08,"Two Best Buy Canada tempered glass listings for the vivoactive 3 say not fit for vivoactive 3 Music, and Supershieldz sells separate glass for each; split the group. Universal round glass: try UNI-0009 (31mm); measure first",measure,https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-glass-not-fit-for-vivoactive-3-music-hd-tempered/19291650 https://www.bestbuy.ca/en-ca/product/4-pack-for-garmin-vivoactive-3-screen-protector-tempered-gl-not-fit-for-vivoactive-3-music-hd-tempered/20001752 https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music
 GAR-3057,Garmin,Wearable,Confirmed,Garmin vivomove HR,2017-09,Supershieldz sells tempered glass for the vivomove HR alone,,https://www.supershieldz.com/tg-3p-garmin-vivomove-hr
 GAR-3058,Garmin,Wearable,Check,Garmin vivosport,2017-09,,,
 GAR-3059,Garmin,Wearable,Check,Garmin Forerunner 30,2017-09,,,
@@ -8533,7 +8533,7 @@ GAR-3086,Garmin,Wearable,Check,Garmin vivomove Luxe,2019-09,"Different case size
 GAR-3087,Garmin,Wearable,Check,Garmin Venu,2019-09,Universal round glass: try UNI-0009 (31mm); measure first,measure,
 GAR-3088,Garmin,Wearable,Confirmed,Garmin vivoactive 4; Garmin Venu 2; Garmin Venu 2 Plus,2019-09,"PanzerGlass SmartWatch glass 3652 is sold for the Venu 2, Venu 2 Plus and vivoactive 4; suggests. Flipkart seller DB lists tempered glass for the Venu 2 Plus. Universal round glass: try UNI-0011 (33mm); measure first",measure,https://homescreen.pl/en/garmin-venu/55724-panzerglass-smartwatch-garmin-venu-2-venu-2-plus-vivoactive-4-black-3652-5711724036521.html https://www.flipkart.com/search?q=garmin+tempered+glass
 GAR-3089,Garmin,Wearable,Confirmed,Garmin vivoactive 4S; Garmin Venu 2S,2019-09,PanzerGlass SmartWatch glass 3653 is sold for the Venu 2S and vivoactive 4S; suggests. Universal round glass: try UNI-0006 (28mm); measure first,measure,https://homescreen.pl/en/garmin-venu/55725-panzerglass-smartwatch-garmin-venu-2s-vivoactive-4s-black-3653-5711724036538.html
-GAR-3090,Garmin,Wearable,Confirmed,Garmin Swim 2,2019-10,Glass is sold for the Garmin Swim 2 alone (Supershieldz),,https://www.flipkart.com/search?q=garmin+tempered+glass https://www.supershieldz.com/tg-3p-garmin-swim-2 https://www.supershieldz.com/tg-2p-garmin-swim-2
+GAR-3090,Garmin,Wearable,Check,Garmin Swim 2,2019-10,,,
 GAR-3091,Garmin,Wearable,Confirmed,Garmin Approach S62,2020-01,Supershieldz sells tempered glass for the Approach S62 alone. Universal round glass: try UNI-0011 (33mm); measure first,measure,https://www.supershieldz.com/tg-2p-garmin-approach-s62
 GAR-3092,Garmin,Wearable,Confirmed,Garmin Forerunner 745,2020-09,GrizzGlass HybridGlass (hybrid) is sold for the Forerunner 745 alone. Universal round glass: try UNI-0009 (31mm); measure first,measure,https://homescreen.pl/en/garmin-forerunner/37827-grizzglass-hybridglass-garmin-forerunner-745-5904063512331.html
 GAR-3093,Garmin,Wearable,Check,Garmin Venu Sq; Garmin Venu Sq Music,2020-09,"Coolblue sells the PanzerGlass Venu Sq glass bundled with the Venu Sq Music; search snippet only, test fit. Same case and screen size: test before swapping",,https://coolblue.nl/en/product/884016/garmin-venu-sq-music-beige-rose-gold-panzerglass-garmin-venu-sq-screen-protector-glass.html
@@ -8682,7 +8682,7 @@ AMF-3047,Amazfit,Wearable,Check,Amazfit Bip 6,2025-03,"Flipkart seller SAIFIANDS
 AMF-3048,Amazfit,Wearable,Confirmed,Amazfit Balance 2; Amazfit Balance 2 XT,2025-06,"Supershieldz sells one glass for the Balance 2 and Balance 2 XT, which share a 1.5in screen and 47.4 mm case. Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-active-3-premium-2p https://us.amazfit.com/products/balance-2 https://us.amazfit.com/products/active-3-premium
 AMF-3049,Amazfit,Wearable,Check,Amazfit Active 2 Square,2025-06,,,
 AMF-3050,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 44mm,2025-09,Universal round glass: try UNI-0012 (34mm); measure first,measure,
-AMF-3051,Amazfit,Wearable,Confirmed,Amazfit T-Rex 3 Pro 48mm,2025-09,"Supershieldz sells one tempered glass for the T-Rex 3 and T-Rex 3 Pro without naming a Pro size; 48mm assumed, test fit. Glass is sold for the Amazfit T-Rex 3 Pro 48mm alone (Tech-Protect via Hurtel). Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-amazfit-t-rex-3-pro-48mm-transparent-203375
+AMF-3051,Amazfit,Wearable,Check,Amazfit T-Rex 3 Pro 48mm,2025-09,"Supershieldz sells one tempered glass for the T-Rex 3 and T-Rex 3 Pro without naming a Pro size; 48mm assumed, test fit. Universal round glass: try UNI-0016 (38mm); measure first",measure,https://www.supershieldz.com/bc-tg-amazfit-t-rex-3-t-rex-3-pro-2p
 AMF-3052,Amazfit,Wearable,Check,Amazfit Active Max,2025-12,Universal round glass: try UNI-0016 (38mm); measure first,measure,
 AMF-3053,Amazfit,Wearable,Check,Amazfit Active 3 Premium,2026-02,"Supershieldz lists the Active 3 Premium with the Balance 2, but Amazfit gives the Active 3 Premium a smaller 1.32in screen and 45 mm case (Balance 2: 1.5in, 47.4 mm), so that glass won't fit it",,https://us.amazfit.com/products/active-3-premium https://us.amazfit.com/products/balance-2
 AMF-3054,Amazfit,Wearable,Confirmed,Amazfit T-Rex Ultra 2,2026-02,Glass is sold for the Amazfit T-Rex Ultra 2 alone (Tech-Protect via Hurtel). Universal round glass: try UNI-0016 (38mm); measure first,measure,https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-for-amazfit-t-rex-ultra-2-210607
@@ -8720,7 +8720,7 @@ FOS-3025,Fossil Group,Wearable,Check,Fossil Gen 6 44mm; Fossil Gen 6 Wellness Ed
 FOS-3026,Fossil Group,Wearable,Check,Michael Kors Access Gen 6 Bradshaw,2021-10,Flipkart seller DB lists tempered glass for the Michael Kors Gen 6 Bradshaw,,https://www.flipkart.com/search?q=fossil+gen+6+tempered+glass
 FOS-3027,Fossil Group,Wearable,Check,Diesel Griffed,2021-10,,,
 FOS-3028,Fossil Group,Wearable,Check,Skagen Falster Gen 6,2021-11,Universal round glass: try UNI-0011 (33mm); measure first,measure,
-TIC-3001,TicWatch (Mobvoi),Wearable,Confirmed,TicWatch 2,2016-05,Glass is sold for the TicWatch 2 alone (Supershieldz),,https://www.supershieldz.com/tg-2p-ticwatch-2 https://www.supershieldz.com/tg-3p-ticwatch-2
+TIC-3001,TicWatch (Mobvoi),Wearable,Check,TicWatch 2,2016-05,,,
 TIC-3002,TicWatch (Mobvoi),Wearable,Check,TicWatch E,2017-06,,,
 TIC-3003,TicWatch (Mobvoi),Wearable,Check,TicWatch S,2017-06,,,
 TIC-3004,TicWatch (Mobvoi),Wearable,Confirmed,TicWatch Pro; TicWatch Pro 2020; TicWatch Pro 4G,2018-07,"Supershieldz sells one tempered glass for the TicWatch Pro, Pro S, Pro 4G LTE and Pro 2020; adds the Pro 4G to the Pro group. Universal round glass: try UNI-0014 (36mm); measure first",measure,https://www.supershieldz.com/tg-2p-ticwatch-pro

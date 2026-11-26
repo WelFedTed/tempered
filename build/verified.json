@@ -8024,27 +8024,6 @@
  },
  {
   "models": [
-   "Garmin Swim 2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Flipkart (MUTAALI)",
-    "url": "https://www.flipkart.com/search?q=garmin+tempered+glass"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Garmin Swim 2 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-3p-garmin-swim-2"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Garmin Swim 2 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-garmin-swim-2"
-   }
-  ],
-  "note": "Glass is sold for the Garmin Swim 2 alone (Supershieldz)."
- },
- {
-  "models": [
    "Garmin Venu 2 Plus"
   ],
   "fit": "own",
@@ -21704,27 +21683,6 @@
  },
  {
   "models": [
-   "Garmin vivoactive 3"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (Hofi): Hofi Glass Pro+ Garmin Vivoactive 3",
-    "url": "https://homescreen.pl/en/vivoactive-3-3-music/26929-hofi-glass-pro-garmin-vivoactive-3-5906735415186.html"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Garmin Vivoactive 3 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Fr",
-    "url": "https://www.supershieldz.com/tg-2p-garmin-vivoactive-3"
-   },
-   {
-    "name": "Supershieldz: [1-Pack] Supershieldz for Garmin vivoactive 3 Tempered Glass Screen Protector",
-    "url": "https://www.supershieldz.com/tg-garmin-vivoactive-3-1p"
-   }
-  ],
-  "note": "Glass is sold for the Garmin vivoactive 3 alone (Hofi via Home Screen, Supershieldz)."
- },
- {
-  "models": [
    "Honor 200"
   ],
   "fit": "own",
@@ -21776,23 +21734,6 @@
  },
  {
   "models": [
-   "Honor Magic8 Pro"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Insmat: 3D FULL SCREEN GLASS HONOR MAGIC8 PRO BLK",
-    "url": "https://www.insmat.fi/fi/tuote/insmat-matkapuhelintarvikkeet/naytonsuojat/861-1702/3d-full-screen-glass-honor-magic8-pro-blk"
-   },
-   {
-    "name": "MP.cz (PanzerGlass): Tvrzené sklo PanzerGlass Honor Magic8 Pro",
-    "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-honor-magic8-pro-p-290044"
-   }
-  ],
-  "note": "Glass is sold for the Honor Magic8 Pro alone (Insmat, PanzerGlass via MP.cz)."
- },
- {
-  "models": [
    "Huawei P30"
   ],
   "fit": "own",
@@ -21807,23 +21748,6 @@
    }
   ],
   "note": "Glass is sold for the Huawei P30 alone (Supershieldz, Spacecase)."
- },
- {
-  "models": [
-   "LG G4"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [1-Pack] Supershieldz for LG G4 Tempered Glass Screen Protector, Anti-Scratch, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-l-g4-1p"
-   },
-   {
-    "name": "Alogy: Szkło hartowane HardGlass 3mk do LG G4",
-    "url": "https://alogy.pl/pl/products/szklo-hartowane-hardglass-3mk-do-lg-g4-17654.html"
-   }
-  ],
-  "note": "Glass is sold for the LG G4 alone (Supershieldz, Alogy)."
  },
  {
   "models": [
@@ -21899,23 +21823,6 @@
  },
  {
   "models": [
-   "Nokia G11 Plus"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Hurtel (Dux Ducis): Dux Ducis 10D Tempered Glass Tempered Glass For Nokia G11 Plus 9H With Black Frame",
-    "url": "https://hurtel.com/en/products/dux-ducis-10d-tempered-glass-tempered-glass-for-nokia-g11-plus-9h-with-black-frame-108333"
-   },
-   {
-    "name": "Smartphonehoesjes (Selencia): Selencia Gehard Glas Screenprotector voor de Nokia G11 Plus",
-    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-nokia-g11-plus.html"
-   }
-  ],
-  "note": "Glass is sold for the Nokia G11 Plus alone (Dux Ducis via Hurtel, Selencia via Smartphonehoesjes)."
- },
- {
-  "models": [
    "OnePlus 13"
   ],
   "fit": "own",
@@ -21930,23 +21837,6 @@
    }
   ],
   "note": "Glass is sold for the OnePlus 13 alone (Insmat, PanzerGlass via MP.cz)."
- },
- {
-  "models": [
-   "Oppo A78 4G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (MyScreen): MyScreen Diamond Glass Edge Lite Full Glue Oppo A78 4G black",
-    "url": "https://homescreen.pl/en/oppo-a78/139791-myscreen-diamond-glass-edge-lite-full-glue-oppo-a78-4g-black-5904433251150.html"
-   },
-   {
-    "name": "GSMpunt: Oppo A78 4G Screen Protector 0.3mm Arc Edge Tempered Glass",
-    "url": "https://www.gsmpunt.nl/screen-protectors/oppo-a78-4g-screen-protector-03mm-arc-edge-tempered-glass"
-   }
-  ],
-  "note": "Glass is sold for the Oppo A78 4G alone (MyScreen via Home Screen, GSMpunt)."
  },
  {
   "models": [
@@ -22107,23 +21997,6 @@
  },
  {
   "models": [
-   "Xiaomi Mi 11 Ultra"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (PanzerShell): PanzerShell 3D Edge Glue Glass Xiaomi Mi 11 Ultra",
-    "url": "https://homescreen.pl/en/xiaomi-mi-11-ultra/34348-panzershell-3d-edge-glue-glass-xiaomi-mi-11-ultra-5904204922500.html"
-   },
-   {
-    "name": "Smartphonehoesjes (Selencia): Selencia Gehard Glas Premium Screenprotector voor de Xiaomi Mi 11 Ultra",
-    "url": "https://www.smartphonehoesjes.nl/gehard-glas-premium-screenprotector-xiaomi-mi-11-ultra.html"
-   }
-  ],
-  "note": "Glass is sold for the Xiaomi Mi 11 Ultra alone (PanzerShell via Home Screen, Selencia via Smartphonehoesjes)."
- },
- {
-  "models": [
    "Alcatel 7"
   ],
   "fit": "own",
@@ -22155,19 +22028,6 @@
    }
   ],
   "note": "Glass is sold for the Alcatel Tetra alone (Supershieldz)."
- },
- {
-  "models": [
-   "Amazfit T-Rex 3 Pro 48mm"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Hurtel (Tech-Protect): Tech-Protect Glass Fit+ 2-pack Tempered Glass Amazfit T-Rex 3 Pro 48mm - Transparent",
-    "url": "https://hurtel.com/en/products/tech-protect-glass-fit-2-pack-tempered-glass-amazfit-t-rex-3-pro-48mm-transparent-203375"
-   }
-  ],
-  "note": "Glass is sold for the Amazfit T-Rex 3 Pro 48mm alone (Tech-Protect via Hurtel)."
  },
  {
   "models": [
@@ -22541,19 +22401,6 @@
  },
  {
   "models": [
-   "Galaxy Tab Active5"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Samsung Galaxy Tab Active5, čiré",
-    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-samsung-galaxy-tab-active5-cire"
-   }
-  ],
-  "note": "Glass is sold for the Galaxy Tab Active5 alone (FIXED)."
- },
- {
-  "models": [
    "Galaxy Tab E 8.0"
   ],
   "fit": "own",
@@ -22662,23 +22509,6 @@
  },
  {
   "models": [
-   "Garmin vivoactive 3 Music"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Garmin Vivoactive 3 Music Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bub",
-    "url": "https://www.supershieldz.com/tg-3p-garmin-vivoactive-3-music"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Garmin Vivoactive 3 Music Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bub",
-    "url": "https://www.supershieldz.com/tg-2p-garmin-vivoactive-3-music"
-   }
-  ],
-  "note": "Glass is sold for the Garmin vivoactive 3 Music alone (Supershieldz)."
- },
- {
-  "models": [
    "Garmin vivomove 3"
   ],
   "fit": "own",
@@ -22734,19 +22564,6 @@
  },
  {
   "models": [
-   "HTC Desire 650"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for HTC Desire 650 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-htc-desire-650"
-   }
-  ],
-  "note": "Glass is sold for the HTC Desire 650 alone (Supershieldz)."
- },
- {
-  "models": [
    "Honor 10"
   ],
   "fit": "own",
@@ -22764,19 +22581,6 @@
  },
  {
   "models": [
-   "Honor 200 Smart"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Insmat: FULL SCREEN GLASS HONOR 200 SMART BLACK",
-    "url": "https://www.insmat.fi/fi/tuote/insmat-matkapuhelintarvikkeet/naytonsuojat/861-1583/full-screen-glass-honor-200-smart-black"
-   }
-  ],
-  "note": "Glass is sold for the Honor 200 Smart alone (Insmat)."
- },
- {
-  "models": [
    "Honor 5X"
   ],
   "fit": "own",
@@ -22787,19 +22591,6 @@
    }
   ],
   "note": "Glass is sold for the Honor 5X alone (Supershieldz)."
- },
- {
-  "models": [
-   "Honor 60"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (Dux Ducis): Dux Ducis Curved Glass Honor 60 black",
-    "url": "https://homescreen.pl/en/honor-60-series/43650-dux-ducis-curved-glass-honor-60-black-6934913043127.html"
-   }
-  ],
-  "note": "Glass is sold for the Honor 60 alone (Dux Ducis via Home Screen)."
  },
  {
   "models": [
@@ -22850,19 +22641,6 @@
  },
  {
   "models": [
-   "Honor Magic4 Pro"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (Dux Ducis): Dux Ducis Curved Glass Honor Magic4 Pro black",
-    "url": "https://homescreen.pl/en/honor-magic4-pro/43848-dux-ducis-curved-glass-honor-magic4-pro-black-6934913039694.html"
-   }
-  ],
-  "note": "Glass is sold for the Honor Magic4 Pro alone (Dux Ducis via Home Screen)."
- },
- {
-  "models": [
    "Honor Magic5"
   ],
   "fit": "own",
@@ -22873,19 +22651,6 @@
    }
   ],
   "note": "Glass is sold for the Honor Magic5 alone (Dux Ducis via Home Screen)."
- },
- {
-  "models": [
-   "Honor Pad 10"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Honor Pad 10, čiré",
-    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-10-cire"
-   }
-  ],
-  "note": "Glass is sold for the Honor Pad 10 alone (FIXED)."
  },
  {
   "models": [
@@ -22912,62 +22677,6 @@
    }
   ],
   "note": "Glass is sold for the Honor Pad 9 alone (FIXED)."
- },
- {
-  "models": [
-   "Honor Pad X8a"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Honor Pad X8a, čiré",
-    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-x8a-cire"
-   }
-  ],
-  "note": "Glass is sold for the Honor Pad X8a alone (FIXED)."
- },
- {
-  "models": [
-   "Honor Pad X8b"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "FIXED: Ochranné tvrzené sklo pro Honor Pad X8b, čiré",
-    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-pro-honor-pad-x8b-cire"
-   }
-  ],
-  "note": "Glass is sold for the Honor Pad X8b alone (FIXED)."
- },
- {
-  "models": [
-   "Honor Pad X9a"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "FIXED: Ochranné tvrzené sklo FIXED pro Honor Pad X9a, čiré",
-    "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-honor-pad-x9a-cire"
-   }
-  ],
-  "note": "Glass is sold for the Honor Pad X9a alone (FIXED)."
- },
- {
-  "models": [
-   "Honor View 20"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Huawei Honor View 20 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble F",
-    "url": "https://www.supershieldz.com/tg-hw-honor-view-20-2p"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Huawei Honor View 20 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble F",
-    "url": "https://www.supershieldz.com/tg-hw-honor-view-20-3p"
-   }
-  ],
-  "note": "Glass is sold for the Honor View 20 alone (Supershieldz)."
  },
  {
   "models": [
@@ -23007,19 +22716,6 @@
    }
   ],
   "note": "Glass is sold for the Huawei Mate 20 alone (Supershieldz)."
- },
- {
-  "models": [
-   "Huawei Mate 20 Pro"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Smartphonehoesjes (Selencia): Selencia Gehard Glas Premium Screenprotector voor de Huawei Mate 20 Pro",
-    "url": "https://www.smartphonehoesjes.nl/premium-gehard-glas-screenprotector-huawei-mate-20-88903325.html"
-   }
-  ],
-  "note": "Glass is sold for the Huawei Mate 20 Pro alone (Selencia via Smartphonehoesjes)."
  },
  {
   "models": [
@@ -23106,23 +22802,6 @@
    }
   ],
   "note": "Glass is sold for the Huawei nova alone (Alogy)."
- },
- {
-  "models": [
-   "Huawei nova 4"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Huawei Nova 4 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-hw-nova-4-3p"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Huawei Nova 4 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-hw-nova-4-2p"
-   }
-  ],
-  "note": "Glass is sold for the Huawei nova 4 alone (Supershieldz)."
  },
  {
   "models": [
@@ -23213,32 +22892,6 @@
    }
   ],
   "note": "Glass is sold for the LG G Pad 5 10.1 alone (Supershieldz)."
- },
- {
-  "models": [
-   "LG G Stylo"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [1-Pack] Supershieldz for LG G Stylo Tempered Glass Screen Protector, Anti-Scratch, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-l-g-stylo-1p"
-   }
-  ],
-  "note": "Glass is sold for the LG G Stylo alone (Supershieldz)."
- },
- {
-  "models": [
-   "LG G7 Fit"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for LG G7 Fit Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-lg-g7-fit-2p-e-1"
-   }
-  ],
-  "note": "Glass is sold for the LG G7 Fit alone (Supershieldz)."
  },
  {
   "models": [
@@ -23395,23 +23048,6 @@
  },
  {
   "models": [
-   "LG Stylo 2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for LG Stylo 2 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-l-stylo-2"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for LG Stylo 2 [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, Bubble Free (",
-    "url": "https://www.supershieldz.com/tg-2p-l-stylo-2-bk-e-1"
-   }
-  ],
-  "note": "Glass is sold for the LG Stylo 2 alone (Supershieldz)."
- },
- {
-  "models": [
    "LG Stylo 6"
   ],
   "fit": "own",
@@ -23455,19 +23091,6 @@
  },
  {
   "models": [
-   "Lenovo K9"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MP.cz (Caliber): Tvrzené sklo Caliber 2.5D, Lenovo K9",
-    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-lenovo-k9-p-103435"
-   }
-  ],
-  "note": "Glass is sold for the Lenovo K9 alone (Caliber via MP.cz)."
- },
- {
-  "models": [
    "Lenovo Tab K11 Plus"
   ],
   "fit": "own",
@@ -23491,23 +23114,6 @@
    }
   ],
   "note": "Glass is sold for the Lenovo Tab P11 Gen 2 alone (3MK via Hurtel)."
- },
- {
-  "models": [
-   "Lenovo Tab P11 Pro"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Lenovo Tab P11 Pro Tablet (11.5 inch) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fing",
-    "url": "https://www.supershieldz.com/tg-lnv-tab-p11-pro-tablet-11-5-inch-2p-l"
-   },
-   {
-    "name": "Supershieldz: [1-Pack] Supershieldz for Lenovo Tab P11 Pro Tablet (11.5 inch) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fing",
-    "url": "https://www.supershieldz.com/tg-lnv-tab-p11-pro-tablet-11-5-inch-1p-l"
-   }
-  ],
-  "note": "Glass is sold for the Lenovo Tab P11 Pro alone (Supershieldz)."
  },
  {
   "models": [
@@ -23584,109 +23190,6 @@
  },
  {
   "models": [
-   "Moto E6 Plus"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Moto E6 Plus Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-m-moto-e6-plus-2p"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Motorola Moto E6 Plus Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-m-moto-e6-plus-3p"
-   }
-  ],
-  "note": "Glass is sold for the Moto E6 Plus alone (Supershieldz)."
- },
- {
-  "models": [
-   "Moto E7"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "MP.cz (Caliber): Tvrzené sklo Caliber 2.5D, Motorola Moto E7",
-    "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-motorola-moto-e7-p-126561"
-   }
-  ],
-  "note": "Glass is sold for the Moto E7 alone (Caliber via MP.cz)."
- },
- {
-  "models": [
-   "Moto G 5G Plus"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola (Moto G 5G Plus) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bub",
-    "url": "https://www.supershieldz.com/tg-2p-m-moto-g-5g-plus"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Motorola (Moto G 5G Plus) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bub",
-    "url": "https://www.supershieldz.com/tg-3p-m-moto-g-5g-plus"
-   }
-  ],
-  "note": "Glass is sold for the Moto G 5G Plus alone (Supershieldz)."
- },
- {
-  "models": [
-   "Moto G Fast"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola (Moto G Fast) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-2p-m-moto-g-fast"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Motorola (Moto G Fast) Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-3p-m-moto-g-fast"
-   }
-  ],
-  "note": "Glass is sold for the Moto G Fast alone (Supershieldz)."
- },
- {
-  "models": [
-   "Moto G5 Plus"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Smartphonehoesjes: Gehard Glas Pro Screenprotector Motorola Moto G5 Plus",
-    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-g5-plus.html"
-   }
-  ],
-  "note": "Glass is sold for the Moto G5 Plus alone (Smartphonehoesjes)."
- },
- {
-  "models": [
-   "Moto G50 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (3MK): 3MK HardGlass Motorola Moto G50 5G",
-    "url": "https://homescreen.pl/en/moto-g50/22548-3mk-hardglass-motorola-moto-g50-5g-5903108398534.html"
-   }
-  ],
-  "note": "Glass is sold for the Moto G50 5G alone (3MK via Home Screen)."
- },
- {
-  "models": [
-   "Moto G51 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Home Screen (Bizon): Bizon Glass Edge Moto G51 5G black",
-    "url": "https://homescreen.pl/en/moto-g51/91654-bizon-glass-edge-moto-g51-5g-black-5904665398661.html"
-   }
-  ],
-  "note": "Glass is sold for the Moto G51 5G alone (Bizon via Home Screen)."
- },
- {
-  "models": [
    "Moto G5S Plus"
   ],
   "fit": "own",
@@ -23717,27 +23220,6 @@
  },
  {
   "models": [
-   "Moto G7 Plus"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Moto G7 Plus Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-m-moto-g7-plus-2p"
-   },
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Moto G7 Plus [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, Bu",
-    "url": "https://www.supershieldz.com/tg-2p-m-moto-g7-plus-bk"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Motorola Moto G7 Plus Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble",
-    "url": "https://www.supershieldz.com/tg-m-moto-g7-plus-3p"
-   }
-  ],
-  "note": "Glass is sold for the Moto G7 Plus alone (Supershieldz)."
- },
- {
-  "models": [
    "Moto G9 Plus"
   ],
   "fit": "own",
@@ -23748,19 +23230,6 @@
    }
   ],
   "note": "Glass is sold for the Moto G9 Plus alone (Selencia via Smartphonehoesjes)."
- },
- {
-  "models": [
-   "Motorola Droid Turbo 2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola Droid Turbo 2 [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, B",
-    "url": "https://www.supershieldz.com/tg-2p-m-droid-turbo-2-bk"
-   }
-  ],
-  "note": "Glass is sold for the Motorola Droid Turbo 2 alone (Supershieldz)."
  },
  {
   "models": [
@@ -23791,23 +23260,6 @@
    }
   ],
   "note": "Glass is sold for the Motorola One Fusion+ alone (Supershieldz)."
- },
- {
-  "models": [
-   "Motorola One Vision"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Motorola One Vision Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Fr",
-    "url": "https://www.supershieldz.com/tg-m-one-vision-2p"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Motorola One Vision Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Fr",
-    "url": "https://www.supershieldz.com/tg-m-one-vision-3p"
-   }
-  ],
-  "note": "Glass is sold for the Motorola One Vision alone (Supershieldz)."
  },
  {
   "models": [
@@ -23906,19 +23358,6 @@
  },
  {
   "models": [
-   "OnePlus Nord 2T"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Smartphonehoesjes (Selencia): Selencia Gehard Glas Screenprotector voor de OnePlus Nord 2T",
-    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oneplus-nord-2t.html"
-   }
-  ],
-  "note": "Glass is sold for the OnePlus Nord 2T alone (Selencia via Smartphonehoesjes)."
- },
- {
-  "models": [
    "OnePlus Nord N100"
   ],
   "fit": "own",
@@ -23959,19 +23398,6 @@
    }
   ],
   "note": "Glass is sold for the Oppo Reno13 Pro alone (PanzerGlass via Home Screen)."
- },
- {
-  "models": [
-   "Oppo Reno4 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Smartphonehoesjes (Selencia): Selencia Gehard Glas Screenprotector voor de Oppo Reno4 5G",
-    "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-oppo-reno4-5g.html"
-   }
-  ],
-  "note": "Glass is sold for the Oppo Reno4 5G alone (Selencia via Smartphonehoesjes)."
  },
  {
   "models": [
@@ -24170,19 +23596,6 @@
  },
  {
   "models": [
-   "Poco M6 Pro 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Hurtel (3MK): Poco M6 Pro 5G - 3mk HardGlass Max Lite",
-    "url": "https://hurtel.com/en/products/poco-m6-pro-5g-3mk-hardglass-max-lite-tm-155318"
-   }
-  ],
-  "note": "Glass is sold for the Poco M6 Pro 5G alone (3MK via Hurtel)."
- },
- {
-  "models": [
    "Razer Phone"
   ],
   "fit": "own",
@@ -24283,19 +23696,6 @@
    }
   ],
   "note": "Glass is sold for the Realme Pad 3 alone (FIXED)."
- },
- {
-  "models": [
-   "Redmi 17C 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Hama: Handy-Schutzglas Clear Protect für Xiaomi Redmi 17C 5G",
-    "url": "https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-xiaomi-redmi-17c-5g-montagehilfe-00233348"
-   }
-  ],
-  "note": "Glass is sold for the Redmi 17C 5G alone (Hama)."
  },
  {
   "models": [
@@ -24410,23 +23810,6 @@
  },
  {
   "models": [
-   "T-Mobile REVVL V+ 5G"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for T-Mobile Revvl V Plus 5G Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubb",
-    "url": "https://www.supershieldz.com/tg-2p-t-mobile-revvl-v-plus-5g"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for T-Mobile Revvl V Plus 5G Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubb",
-    "url": "https://www.supershieldz.com/tg-3p-t-mobile-revvl-v-plus-5g"
-   }
-  ],
-  "note": "Glass is sold for the T-Mobile REVVL V+ 5G alone (Supershieldz)."
- },
- {
-  "models": [
    "T-Mobile Revvl"
   ],
   "fit": "own",
@@ -24486,36 +23869,6 @@
  },
  {
   "models": [
-   "TCL 10 5G UW"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for TCL 10 5G UW Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-tcl-10-5g-uw"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for TCL 10 5G UW Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-3p-tcl-10-5g-uw"
-   }
-  ],
-  "note": "Glass is sold for the TCL 10 5G UW alone (Supershieldz)."
- },
- {
-  "models": [
-   "TCL 10 Pro"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for TCL 10 Pro [Full Screen Coverage] [3D Curved Glass] Tempered Glass Screen Protector, Anti-Scra",
-    "url": "https://www.supershieldz.com/tg-2p-tcl-10-pro-bk-3d"
-   }
-  ],
-  "note": "Glass is sold for the TCL 10 Pro alone (Supershieldz)."
- },
- {
-  "models": [
    "TCL 10L"
   ],
   "fit": "own",
@@ -24543,23 +23896,6 @@
    }
   ],
   "note": "Glass is sold for the TCL 20 5G alone (Hurtel)."
- },
- {
-  "models": [
-   "TicWatch 2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for Ticwatch 2 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-ticwatch-2"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for Ticwatch 2 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-3p-ticwatch-2"
-   }
-  ],
-  "note": "Glass is sold for the TicWatch 2 alone (Supershieldz)."
  },
  {
   "models": [
@@ -24705,23 +24041,6 @@
  },
  {
   "models": [
-   "ZTE Avid 579"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for ZTE Avid 579 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-zte-avid-579"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for ZTE Avid 579 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-3p-zte-avid-579"
-   }
-  ],
-  "note": "Glass is sold for the ZTE Avid 579 alone (Supershieldz)."
- },
- {
-  "models": [
    "ZTE Axon 7 mini"
   ],
   "fit": "own",
@@ -24752,49 +24071,6 @@
  },
  {
   "models": [
-   "ZTE Grand X Max 2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for ZTE Grand X Max 2 [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, Bubble",
-    "url": "https://www.supershieldz.com/tg-2p-zte-grand-x-max-2-bk"
-   }
-  ],
-  "note": "Glass is sold for the ZTE Grand X Max 2 alone (Supershieldz)."
- },
- {
-  "models": [
-   "ZTE Max XL"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for ZTE Max XL [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, Bubble Free (",
-    "url": "https://www.supershieldz.com/tg-2p-zte-max-xl-bk"
-   }
-  ],
-  "note": "Glass is sold for the ZTE Max XL alone (Supershieldz)."
- },
- {
-  "models": [
-   "ZTE Quest 5"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Supershieldz: [2-Pack] Supershieldz for ZTE Quest 5 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-zte-quest-5"
-   },
-   {
-    "name": "Supershieldz: [3-Pack] Supershieldz for ZTE Quest 5 Tempered Glass Screen Protector, Anti-Scratch, Anti-Fingerprint, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-3p-zte-quest-5"
-   }
-  ],
-  "note": "Glass is sold for the ZTE Quest 5 alone (Supershieldz)."
- },
- {
-  "models": [
    "ZTE Zmax 2"
   ],
   "fit": "own",
@@ -24808,15 +24084,80 @@
  },
  {
   "models": [
-   "ZTE Zmax Pro"
+   "OnePlus 5T"
   ],
   "fit": "own",
   "sources": [
    {
-    "name": "Supershieldz: [2-Pack] Supershieldz for ZTE Zmax Pro [Full Screen Coverage] Tempered Glass Screen Protector, Anti-Scratch, Bubble Free",
-    "url": "https://www.supershieldz.com/tg-2p-zte-zmax-pro-bk"
+    "name": "POPIO: POPIO Tempered Glass for OnePlus 5T (Black) Edge to Edge , Pack of 1",
+    "url": "https://www.popio.in/products/tempered-glass-for-oneplus-5t-black-edge-to-edge-pack-of-1"
    }
   ],
-  "note": "Glass is sold for the ZTE Zmax Pro alone (Supershieldz)."
+  "note": "Glass is sold for the OnePlus 5T alone (POPIO)."
+ },
+ {
+  "models": [
+   "OnePlus 9RT 5G"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "POPIO: POPIO Tempered Glass for OnePlus 9RT 5G (Black) , Edge to Edge , Pack of 1",
+    "url": "https://www.popio.in/products/tempered-glass-for-oneplus-9rt-5g-black-edge-to-edge-pack-of-1"
+   }
+  ],
+  "note": "Glass is sold for the OnePlus 9RT 5G alone (POPIO)."
+ },
+ {
+  "models": [
+   "OnePlus Nord CE3"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "POPIO: POPIO Tempered Glass for OnePlus Nord CE3 (Black) Edge to Edge , Pack of 1",
+    "url": "https://www.popio.in/products/tempered-glass-for-oneplus-nord-ce3-black-edge-to-edge-pack-of-1"
+   }
+  ],
+  "note": "Glass is sold for the OnePlus Nord CE3 alone (POPIO)."
+ },
+ {
+  "models": [
+   "Oppo Reno2"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Cellularline: Cellularline Impact Glass Capsule Oppo Reno2",
+    "url": "https://www.cellularline.com/en/Protection-and-Style/Smartphone-display-protection/Impact-Glass-Capsule---Oppo-Reno2/p/TEMPGCABOPPORENO2K"
+   }
+  ],
+  "note": "Glass is sold for the Oppo Reno2 alone (Cellularline)."
+ },
+ {
+  "models": [
+   "Pixel 6 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "MobileFun: olixar tempered glass screen protector for google pixel 6 pro",
+    "url": "https://www.mobilefun.co.uk/olixar-tempered-glass-screen-protector-for-google-pixel-6-pro-85630"
+   }
+  ],
+  "note": "Glass is sold for the Pixel 6 Pro alone (MobileFun)."
+ },
+ {
+  "models": [
+   "Xiaomi 18 Fold"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Nillkin: Nillkin 2.5D Clear Glass Screen Protector for Xiaomi 18 Fold",
+    "url": "https://www.nillkin.com/products/2-5d-clear-glass-screen-protector-for-xiaomi-18-fold"
+   }
+  ],
+  "note": "Glass is sold for the Xiaomi 18 Fold alone (Nillkin)."
  }
 ]
