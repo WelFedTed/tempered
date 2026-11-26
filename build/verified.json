@@ -3355,32 +3355,6 @@
  },
  {
   "models": [
-   "Nokia 6.2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-6-2-3mk-flexibleglass"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass hybrid glass for the Nokia 6.2 alone; hybrid glass, not tempered."
- },
- {
-  "models": [
-   "Nokia 7.2"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "3MK",
-    "url": "https://3mk.pl/p/nietlukace-szklo-hybrydowe-na-nokia-7-2-3mk-flexibleglass"
-   }
-  ],
-  "note": "3MK sells FlexibleGlass hybrid glass for the Nokia 7.2 alone; hybrid glass, not tempered."
- },
- {
-  "models": [
    "Nokia 800 Tough"
   ],
   "fit": "own",
@@ -15393,6 +15367,10 @@
    {
     "name": "MP.cz: Tvrzené sklo Caliber 2.5D, Xiaomi Redmi Note 10 5G / POCO M3 Pro 5G",
     "url": "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-p-126602"
+   },
+   {
+    "name": "Alogy: Szkło Alogy Full Glue CF do Poco M3 Pro 5G/ Redmi Note 10 5G Czarne",
+    "url": "https://alogy.pl/pl/products/szklo-alogy-full-glue-cf-do-poco-m3-pro-5g-redmi-note-10-5g-czarne-45288.html"
    }
   ],
   "note": "Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product."
@@ -17208,6 +17186,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Clear Samsung Galaxy A12 / M12",
     "url": "https://homescreen.pl/en/galaxy-a12/92451-bizon-glass-clear-samsung-galaxy-a12-m12-5904665303832.html"
+   },
+   {
+    "name": "Alogy: Szkło hartowane ochronne Alogy na ekran do Samsung Galaxy M12 / A12 2020/2021",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-ochronne-alogy-na-ekran-do-samsung-galaxy-m12-a12-2020-2021-43471.html"
    }
   ],
   "note": "Bizon sells one glass for the Galaxy A12 and Galaxy M12 (Homescreen.pl)."
@@ -18174,6 +18156,10 @@
    {
     "name": "POPIO: Tempered Glass for Xiaomi Redmi Note 10 / Redmi Note 10s (Black) Edge to Edge , Pack of 1",
     "url": "https://www.popio.in/products/tempered-glass-for-xiaomi-redmi-note-10-redmi-note-10s-black-edge-to-edge-pack-of-1"
+   },
+   {
+    "name": "Alogy: Szkło hartowane Alogy na ekran do Xiaomi Redmi Note 10/10s",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-alogy-na-ekran-do-xiaomi-redmi-note-10-10s-44140.html"
    }
   ],
   "note": "Supershieldz sells one tempered glass for the Redmi Note 10 and Redmi Note 10S."
@@ -19255,6 +19241,10 @@
    {
     "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Vivo Y33s/ Y21s/ Y21, černé",
     "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-vivo-y33s-y21s-y21-cerne"
+   },
+   {
+    "name": "Alogy: Szkło hartowane 9h Alogy szybka ochronna na ekran do Vivo Y21s / Y33s / Y21",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-9h-alogy-szybka-ochronna-na-ekran-do-vivo-y21s-y33s-y21-47108.html"
    }
   ],
   "note": "FIXED sells one glass for the vivo Y21s and vivo Y33s (FIXED)."
@@ -19917,6 +19907,10 @@
    {
     "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS SET+ 3-PACK GALAXY A36 / A56 5G CLEAR",
     "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-set-3-pack-galaxy-a36-a56-5g-clear-170308.html"
+   },
+   {
+    "name": "Alogy: Szkło hartowane do Samsung Galaxy A56/A36 5G 2025 ochronne szkiełko na ekran 9H Alogy Heavy Pro+™️",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-do-samsung-galaxy-a56-a36-5g-2025-ochronne-szkielko-na-ekran-9h-alogy-heavy-pro-tm-77760.html"
    }
   ],
   "note": "Tech-Protect sells one glass for the Galaxy A36 and Galaxy A56 (tech-protect.eu)."
@@ -21087,5 +21081,111 @@
    }
   ],
   "note": "Selencia sells one glass for the Oppo A58 4G, Oppo A79 and Oppo A98 (Smartphonehoesjes.nl)."
+ },
+ {
+  "models": [
+   "Realme 12 Pro",
+   "Realme 12 Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło \"NIETŁUKĄCE\" do Realme 12 PRO / Realme 12 PRO+ PLUS 5G na ekran hybrydowe Alogy Flexi Glass 9H Case Friendly płaskie na ekran",
+    "url": "https://alogy.pl/pl/products/szklo-nietlukace-do-realme-12-pro-realme-12-pro-plus-5g-na-ekran-hybrydowe-alogy-flexi-glass-9h-case-friendly-plaskie-na-ekran-75169.html"
+   }
+  ],
+  "note": "Alogy sells one hybrid glass for the Realme 12 Pro and Realme 12 Pro+ (alogy.pl)."
+ },
+ {
+  "models": [
+   "Redmi Note 4",
+   "Redmi Note 4X"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło hartowane Alogy na ekran do Xiaomi Redmi Note 4/ Note 4 Pro/ Note 4x",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-alogy-na-ekran-do-xiaomi-redmi-note-4-note-4-pro-note-4x-21503.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the Redmi Note 4 and Redmi Note 4X (alogy.pl)."
+ },
+ {
+  "models": [
+   "Xiaomi Mi 4c",
+   "Xiaomi Mi 4i"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło hartowane Alogy na ekran do Xiaomi Mi4i / Mi4c",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-alogy-na-ekran-do-xiaomi-mi4i-mi4c-23771.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the Xiaomi Mi 4c and Xiaomi Mi 4i (alogy.pl)."
+ },
+ {
+  "models": [
+   "Redmi 10X 4G",
+   "Redmi Note 9"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło Alogy Full Glue case friendly do Xiaomi Redmi 10X/ 10X Pro/ Note 9",
+    "url": "https://alogy.pl/en/products/szklo-alogy-full-glue-case-friendly-do-xiaomi-redmi-10x-10x-pro-note-9-42103.html"
+   },
+   {
+    "name": "Alogy: Szkło Alogy Full Glue Hüllenfreundlich für Xiaomi Redmi 10X/ 10X Pro/ Note 9",
+    "url": "https://alogy.pl/de/products/szklo-alogy-full-glue-hullenfreundlich-fur-xiaomi-redmi-10x-10x-pro-note-9-42103.html"
+   },
+   {
+    "name": "Alogy: Szkło Alogy Full Glue case friendly do Xiaomi Redmi 10X/ 10X Pro/ Note 9",
+    "url": "https://alogy.pl/pl/products/szklo-alogy-full-glue-case-friendly-do-xiaomi-redmi-10x-10x-pro-note-9-42103.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the Redmi 10X 4G and Redmi Note 9 (alogy.pl)."
+ },
+ {
+  "models": [
+   "Galaxy A02s",
+   "Galaxy A03s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło Alogy Full Glue case friendly do Samsung Galaxy A02s/ A03s 164mm Czarne",
+    "url": "https://alogy.pl/pl/products/szklo-alogy-full-glue-case-friendly-do-samsung-galaxy-a02s-a03s-164mm-czarne-43483.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the Galaxy A02s and Galaxy A03s (alogy.pl)."
+ },
+ {
+  "models": [
+   "vivo Y11s",
+   "vivo Y20s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło hartowane 9H ochronne Alogy na ekran do Vivo Y20s / Y11s",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-9h-ochronne-alogy-na-ekran-do-vivo-y20s-y11s-47057.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the vivo Y11s and vivo Y20s (alogy.pl)."
+ },
+ {
+  "models": [
+   "Nokia 6.2",
+   "Nokia 7.2"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Alogy: Szkło hartowane Alogy na ekran do Nokia 6.2/7.2",
+    "url": "https://alogy.pl/pl/products/szklo-hartowane-alogy-na-ekran-do-nokia-6-2-7-2-42053.html"
+   }
+  ],
+  "note": "Alogy sells one glass for the Nokia 6.2 and Nokia 7.2 (alogy.pl)."
  }
 ]
