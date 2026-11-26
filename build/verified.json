@@ -7157,23 +7157,6 @@
  },
  {
   "models": [
-   "Galaxy S24 FE"
-  ],
-  "fit": "own",
-  "sources": [
-   {
-    "name": "Flipkart TechWings",
-    "url": "https://www.flipkart.com/techwings-edge-tempered-glass-samsung-galaxy-s24-fe-5g-perfect-fit/p/itm5ae4de94bbe25"
-   },
-   {
-    "name": "Flipkart Difoxy",
-    "url": "https://www.flipkart.com/difoxy-edge-tempered-glass-samsung-galaxy-s24-fe-5g/p/itm7ea7764aaa16a"
-   }
-  ],
-  "note": "Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass."
- },
- {
-  "models": [
    "Galaxy S25 Edge"
   ],
   "fit": "own",
@@ -15034,6 +15017,10 @@
    {
     "name": "Spacecase: Spacecase Glass Xiaomi 13T/13T Pro",
     "url": "https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-xiaomi-13t-13t-pro-34267"
+   },
+   {
+    "name": "Displex: Xiaomi 13T/13T Pro",
+    "url": "https://www.displex.com/en/panzerglas/xiaomi-13t-pro/"
    }
   ],
   "note": "PanzerGlass Ultra-Wide Fit, Bizon and 3MK each sell one glass for Xiaomi 13T / 13T Pro; Redmi K60 Ultra not confirmed."
@@ -16147,6 +16134,10 @@
    {
     "name": "Quill, cellhelmet tempered glass TEMP-A12 titled for A12/A32 5G",
     "url": "https://quill.com/cellhelmet-tempered-glass-screen-protector-samsung-galaxy-a12-32-5g-temp-a12/cbs/55438490.html"
+   },
+   {
+    "name": "Displex: Galaxy A12/A32 5G",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a32-5g-galaxy-a12"
    }
   ],
   "note": "Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only)."
@@ -18489,6 +18480,18 @@
    {
     "name": "FIXED: Tvrzené sklo FIXED Full-Cover 2ks s anti-dust aplikátorem pro Samsung Galaxy A18/A17, černé",
     "url": "https://fixed.zone/products/tvrzene-sklo-fixed-full-cover-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a17-5g-cerne"
+   },
+   {
+    "name": "Hama: Handy-Schutzglas \"Clear Protect\" für Galaxy A17/A17 5G/A18, Montagehilfe",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-galaxy-a17-a17-5g-a18-montagehilfe-00233338"
+   },
+   {
+    "name": "Hama: Handy-Schutzglas \"Extreme Protect\" für Galaxy A17/A17 5G/A18, Montagehilfe",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-extreme-protect-fuer-galaxy-a17-a17-5g-a18-montagehilfe-00233339"
+   },
+   {
+    "name": "Hama: Handy-Schutzglas \"Reflect Protect\" für Samsung Galaxy A17/A17 5G/A18",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-reflect-protect-fuer-samsung-galaxy-a17-a17-5g-a18-00233340"
    }
   ],
   "note": "FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED)."
@@ -18762,6 +18765,14 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass Samsung Galaxy A16 LTE/A16 5G/A17 LTE/A17 5G",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a16-lte-a16-5g-a17-lte-a17-5g-p-253618"
+   },
+   {
+    "name": "Hama: Handy-Schutzglas \"Extreme Protect\" für A16/A16 5G/A17/A17 5G, Montagehilfe",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-extreme-protect-fuer-a16-a16-5g-a17-a17-5g-montagehilfe-00228508"
+   },
+   {
+    "name": "Hama: Handy-Schutzglas \"Clear Protect\" für A16/A16 5G/A17/A17 5G, Montagehilfe",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-a16-a16-5g-a17-a17-5g-montagehilfe-00228507"
    }
   ],
   "note": "PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz)."
@@ -18823,6 +18834,10 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass Xiaomi Redmi Note 12S/11/11S",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12s-11-11s-p-141134"
+   },
+   {
+    "name": "Displex: Redmi Note 11/11S/12S",
+    "url": "https://www.displex.com/en/panzerglas/xiaomi-redmi-note-11/11s/12s"
    }
   ],
   "note": "PanzerGlass sells one glass for the Redmi Note 11, Redmi Note 11S and Redmi Note 12S (MP.cz)."
@@ -19238,5 +19253,150 @@
    }
   ],
   "note": "Spacecase sells one glass for the Realme 7 Pro, Realme 8 and Realme 8 Pro (spacecase.pl)."
+ },
+ {
+  "models": [
+   "Motorola Edge 70 Plus",
+   "Motorola Edge 70 Pro",
+   "Motorola Edge 70 Fusion"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Hama: Handy-Schutzglas \"Clear Protect\" f. Motorola Edge 70 Plus/Pro/Fusion, Mont.",
+    "url": "https://www.hama.com/de/de/handy-schutzglas-clear-protect-f-motorola-edge-70-plus-pro-fusion-mont-00233366"
+   }
+  ],
+  "note": "Hama sells one glass for the Motorola Edge 70 Plus, Motorola Edge 70 Pro and Motorola Edge 70 Fusion (hama.com)."
+ },
+ {
+  "models": [
+   "Galaxy A06",
+   "Galaxy A07"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Samsung Galaxy A06/A07 Screen Protector (2D)",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a06/a07"
+   }
+  ],
+  "note": "Displex sells one glass for the Galaxy A06 and Galaxy A07 (displex.com)."
+ },
+ {
+  "models": [
+   "Galaxy A16 5G",
+   "Galaxy A17",
+   "Galaxy A18"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Samsung Galaxy A16 (5G) / A17 (4G/5G) / A18",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a16-5g/a17-4g/5g/a18"
+   }
+  ],
+  "note": "Displex sells one glass for the Galaxy A16 5G, Galaxy A17 and Galaxy A18 (displex.com)."
+ },
+ {
+  "models": [
+   "Redmi Note 13",
+   "Redmi Note 13 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Xiaomi Redmi Note 13 5G/13 Pro 5G",
+    "url": "https://www.displex.com/en/panzerglas/xiaomi-redmi-note-13-5g-13-pro-5g/"
+   }
+  ],
+  "note": "Displex sells one glass for the Redmi Note 13 and Redmi Note 13 Pro (displex.com)."
+ },
+ {
+  "models": [
+   "Oppo Find X3 Neo",
+   "Oppo Reno4 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Find X3 Neo 5G/Reno4 Pro",
+    "url": "https://www.displex.com/en/panzerglas/full-cover-schutzglaeser/find-x3-neo-5g-reno4-pro"
+   }
+  ],
+  "note": "Displex sells one glass for the Oppo Find X3 Neo and Oppo Reno4 Pro (displex.com)."
+ },
+ {
+  "models": [
+   "Oppo Find X3 Lite",
+   "Oppo Reno5 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Find X3 Lite 5G/Reno5/6 5G",
+    "url": "https://www.displex.com/en/panzerglas/oppo-find-x3-lite"
+   }
+  ],
+  "note": "Displex sells one glass for the Oppo Find X3 Lite and Oppo Reno5 5G (displex.com)."
+ },
+ {
+  "models": [
+   "Galaxy A02",
+   "Galaxy A02s",
+   "Galaxy A03",
+   "Galaxy A03s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Galaxy A02/A02s A03/A03s",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a03-a03s-a02-a02s"
+   }
+  ],
+  "note": "Displex sells one glass for the Galaxy A02, Galaxy A02s, Galaxy A03 and Galaxy A03s (displex.com)."
+ },
+ {
+  "models": [
+   "Galaxy A22",
+   "Galaxy A31",
+   "Galaxy A32"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Galaxy A22/A31/A32 4G",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-a22-a31"
+   }
+  ],
+  "note": "Displex sells one glass for the Galaxy A22, Galaxy A31 and Galaxy A32 (displex.com)."
+ },
+ {
+  "models": [
+   "Galaxy S24 FE",
+   "Galaxy S25 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Samsung Galaxy S24FE/S25 FE",
+    "url": "https://www.displex.com/en/panzerglas/samsung-galaxy-s24fe/s25-fe"
+   }
+  ],
+  "note": "Displex sells one glass for the Galaxy S24 FE and Galaxy S25 FE (displex.com)."
+ },
+ {
+  "models": [
+   "Redmi 10 2022",
+   "Redmi Note 10 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Displex: Redmi 10 (2022)/Note 10 5G",
+    "url": "https://www.displex.com/en/panzerglas/xiaomi-redmi-10"
+   }
+  ],
+  "note": "Displex sells one glass for the Redmi 10 2022 and Redmi Note 10 5G (displex.com)."
  }
 ]

@@ -13309,22 +13309,51 @@
 "SAM"
 ],
 "models": [
-"Galaxy A31"
+"Galaxy A31",
+"Galaxy A32",
+"Galaxy A22",
+"Galaxy M22"
 ],
 "released": [
-"2020-03"
+"2020-03",
+"2021-02",
+"2021-06",
+"2021-09"
 ],
-"check": "Check",
-"note": "",
+"check": "Confirmed",
+"note": "Displex sells one glass for the Galaxy A22, Galaxy A31 and Galaxy A32 (displex.com). Bizon sells one glass for the Galaxy A22 and Galaxy M22 (Homescreen.pl)",
 "device": "Phone",
+"sources": [
+[
+"Displex: Galaxy A22/A31/A32 4G",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-a22-a31"
+],
+[
+"Homescreen.pl: Bizon Glass Clear Samsung Galaxy A22 4G / M22",
+"https://homescreen.pl/en/galaxy-a22-lte/93014-bizon-glass-clear-samsung-galaxy-a22-4g-m22-5904665303849.html"
+],
+[
+"Homescreen.pl: Bizon Glass Edge Samsung Galaxy A22 4G / M22 black",
+"https://homescreen.pl/en/galaxy-a22-lte/93015-bizon-glass-edge-samsung-galaxy-a22-4g-m22-black-5904665303948.html"
+]
+],
 "codes": [
-"SM-A315F, SM-A315F/DS, SM-A315G/DS, SM-A315G, SM-A315N"
+"SM-A315F, SM-A315F/DS, SM-A315G/DS, SM-A315G, SM-A315N",
+"SM-A325F, SM-A325F/DS, SM-A325M, SM-A325N",
+"SM-A225F, SM-A225F/DS, SM-A225M, SM-A225M/DS",
+"SM-M225FV, SM-M225FV/DS"
 ],
 "screens": [
+"6.4in",
+"6.4in",
+"6.4in",
 "6.4in"
 ],
 "dims": [
-"159.3 x 73.1 x 8.6 mm"
+"159.3 x 73.1 x 8.6 mm",
+"158.9 x 73.6 x 8.4 mm",
+"159.3 x 73.6 x 8.4 mm",
+"159.9 x 74 x 8.4 mm"
 ]
 },
 {
@@ -13757,7 +13786,9 @@
 ],
 "models": [
 "Galaxy A02s",
+"Galaxy A02",
 "Galaxy M02s",
+"Galaxy M02",
 "Galaxy F02s",
 "Galaxy A03s",
 "Galaxy A03 Core",
@@ -13773,6 +13804,8 @@
 "released": [
 "2020-11",
 "2021-01",
+"2021-01",
+"2021-02",
 "2021-04",
 "2021-08",
 "2021-11",
@@ -13786,7 +13819,7 @@
 "2023-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A13 5G, Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz). Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
+"note": "Sellers confirm Galaxy A02s, Galaxy A02, Galaxy A03s, Galaxy A03; Galaxy A13 5G, Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Displex sells one glass for the Galaxy A02, Galaxy A02s, Galaxy A03 and Galaxy A03s (displex.com). PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz). Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -13796,6 +13829,10 @@
 [
 "Flipkart GOLKI COVERS / ADI Creations",
 "https://www.flipkart.com/search?q=tempered+glass+samsung+galaxy+a03+a02s+a04e"
+],
+[
+"Displex: Galaxy A02/A02s A03/A03s",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-a03-a03s-a02-a02s"
 ],
 [
 "MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A13 5G/A04s",
@@ -13812,7 +13849,9 @@
 ],
 "codes": [
 "SM-A025F, SM-A025F/DS, SM-A025G, SM-A025G/DS, SM-A025M, SM-A025M/DS, SM-A025U, SM-A025V, SM-A025A, SM-A025U1, SM-A025AZ, SM-S124DL",
+"SM-A022F, SM-A022F/DS, SM-A022M, SM-A022M/DS, SM-A022G, SM-A022G/DS",
 "SM-M025F/DS, SM-M025F",
+"SM-M022F, SM-M022F/DS, SM-M022G, SM-M022G/DS",
 "SM-E025F, SM-E025F/DS",
 "SM-A037F, SM-A037F/DS, SM-A037M, SM-A037G, SM-A037U, SM-S134DL, SM-A037W, SM-A037U1, SM-S135DL",
 "SM-A032F, SM-A032F/DS, SM-A032M",
@@ -13838,11 +13877,15 @@
 "6.5in",
 "6.5in",
 "6.5in",
+"6.5in",
+"6.5in",
 "6.5in"
 ],
 "dims": [
 "164.2 x 75.9 x 9.1 mm",
+"164 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
+"164 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
 "164.2 x 75.9 x 9.1 mm",
@@ -13907,6 +13950,10 @@
 "https://quill.com/cellhelmet-tempered-glass-screen-protector-samsung-galaxy-a12-32-5g-temp-a12/cbs/55438490.html"
 ],
 [
+"Displex: Galaxy A12/A32 5G",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-a32-5g-galaxy-a12"
+],
+[
 "Homescreen.pl: Bizon Glass Clear Samsung Galaxy A12 / M12",
 "https://homescreen.pl/en/galaxy-a12/92451-bizon-glass-clear-samsung-galaxy-a12-m12-5904665303832.html"
 ],
@@ -13964,36 +14011,6 @@
 "SAM"
 ],
 "models": [
-"Galaxy A02",
-"Galaxy M02"
-],
-"released": [
-"2021-01",
-"2021-02"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"SM-A022F, SM-A022F/DS, SM-A022M, SM-A022M/DS, SM-A022G, SM-A022G/DS",
-"SM-M022F, SM-M022F/DS, SM-M022G, SM-M022G/DS"
-],
-"screens": [
-"6.5in",
-"6.5in"
-],
-"dims": [
-"164 x 75.9 x 9.1 mm",
-"164 x 75.9 x 9.1 mm"
-]
-},
-{
-"id": "SAM-1411",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
 "Galaxy S21 5G"
 ],
 "released": [
@@ -14022,7 +14039,7 @@
 ]
 },
 {
-"id": "SAM-1412",
+"id": "SAM-1411",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14056,7 +14073,7 @@
 ]
 },
 {
-"id": "SAM-1413",
+"id": "SAM-1412",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14111,32 +14128,7 @@
 ]
 },
 {
-"id": "SAM-1414",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A32"
-],
-"released": [
-"2021-02"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"codes": [
-"SM-A325F, SM-A325F/DS, SM-A325M, SM-A325N"
-],
-"screens": [
-"6.4in"
-],
-"dims": [
-"158.9 x 73.6 x 8.4 mm"
-]
-},
-{
-"id": "SAM-1415",
+"id": "SAM-1413",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14161,7 +14153,7 @@
 ]
 },
 {
-"id": "SAM-1416",
+"id": "SAM-1414",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14227,7 +14219,7 @@
 ]
 },
 {
-"id": "SAM-1417",
+"id": "SAM-1415",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14258,7 +14250,7 @@
 ]
 },
 {
-"id": "SAM-1418",
+"id": "SAM-1416",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14286,7 +14278,7 @@
 ]
 },
 {
-"id": "SAM-1419",
+"id": "SAM-1417",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14311,47 +14303,7 @@
 ]
 },
 {
-"id": "SAM-1420",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A22",
-"Galaxy M22"
-],
-"released": [
-"2021-06",
-"2021-09"
-],
-"check": "Confirmed",
-"note": "Bizon sells one glass for the Galaxy A22 and Galaxy M22 (Homescreen.pl)",
-"device": "Phone",
-"sources": [
-[
-"Homescreen.pl: Bizon Glass Clear Samsung Galaxy A22 4G / M22",
-"https://homescreen.pl/en/galaxy-a22-lte/93014-bizon-glass-clear-samsung-galaxy-a22-4g-m22-5904665303849.html"
-],
-[
-"Homescreen.pl: Bizon Glass Edge Samsung Galaxy A22 4G / M22 black",
-"https://homescreen.pl/en/galaxy-a22-lte/93015-bizon-glass-edge-samsung-galaxy-a22-4g-m22-black-5904665303948.html"
-]
-],
-"codes": [
-"SM-A225F, SM-A225F/DS, SM-A225M, SM-A225M/DS",
-"SM-M225FV, SM-M225FV/DS"
-],
-"screens": [
-"6.4in",
-"6.4in"
-],
-"dims": [
-"159.3 x 73.6 x 8.4 mm",
-"159.9 x 74 x 8.4 mm"
-]
-},
-{
-"id": "SAM-1421",
+"id": "SAM-1418",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14399,7 +14351,7 @@
 ]
 },
 {
-"id": "SAM-1422",
+"id": "SAM-1419",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14424,7 +14376,7 @@
 ]
 },
 {
-"id": "SAM-1423",
+"id": "SAM-1420",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14449,7 +14401,7 @@
 ]
 },
 {
-"id": "SAM-1424",
+"id": "SAM-1421",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14474,7 +14426,7 @@
 ]
 },
 {
-"id": "SAM-1425",
+"id": "SAM-1422",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14502,7 +14454,7 @@
 ]
 },
 {
-"id": "SAM-1426",
+"id": "SAM-1423",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14530,7 +14482,7 @@
 ]
 },
 {
-"id": "SAM-1427",
+"id": "SAM-1424",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14561,7 +14513,7 @@
 ]
 },
 {
-"id": "SAM-1428",
+"id": "SAM-1425",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14604,7 +14556,7 @@
 ]
 },
 {
-"id": "SAM-1429",
+"id": "SAM-1426",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14643,7 +14595,7 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1427",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14698,7 +14650,7 @@
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1428",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14838,7 +14790,7 @@
 ]
 },
 {
-"id": "SAM-1432",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14873,7 +14825,7 @@
 ]
 },
 {
-"id": "SAM-1433",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14898,7 +14850,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14923,7 +14875,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14964,7 +14916,7 @@
 ]
 },
 {
-"id": "SAM-1436",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14992,7 +14944,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15035,7 +14987,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15089,7 +15041,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15133,7 +15085,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15172,7 +15124,7 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15220,7 +15172,7 @@
 ]
 },
 {
-"id": "SAM-1442",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15264,7 +15216,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15289,7 +15241,7 @@
 ]
 },
 {
-"id": "SAM-1444",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15341,7 +15293,7 @@
 ]
 },
 {
-"id": "SAM-1445",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15401,7 +15353,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15445,7 +15397,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A05, Galaxy A05s, Galaxy A06, Galaxy A06 5G, Galaxy F06 5G, Galaxy M06, Galaxy A07 4G, Galaxy M07, Galaxy A07, Galaxy F70e, Galaxy M17e, Galaxy A08. The rest match on specs: test before swapping. Tactical and nemo glass are each sold for A05 and A05s together; M05, F05, M14 4G and F14 4G not confirmed. 3MK sells one glass for the Galaxy A05 and Galaxy A06 (Hurtel). Wozinsky sells one glass for the Galaxy A05 and Galaxy A06 5G (Hurtel). PanzerGlass 7377 Ultra-Wide Fit is listed for A07 4G/5G, A06 4G/5G, M06 5G, F06 5G, F70e and M17e; some retailers omit the 5G A07, F70e and M17e. JB Hi-Fi sells SAFE by PanzerGlass for A06/A07/A08 and 3SIXT glass for A07/A08 4G. 3MK sells one glass for the Galaxy A07 and Galaxy M07 (Hurtel)",
+"note": "Sellers confirm Galaxy A05, Galaxy A05s, Galaxy A06, Galaxy A06 5G, Galaxy F06 5G, Galaxy M06, Galaxy A07 4G, Galaxy M07, Galaxy A07, Galaxy F70e, Galaxy M17e, Galaxy A08. The rest match on specs: test before swapping. Tactical and nemo glass are each sold for A05 and A05s together; M05, F05, M14 4G and F14 4G not confirmed. 3MK sells one glass for the Galaxy A05 and Galaxy A06 (Hurtel). Wozinsky sells one glass for the Galaxy A05 and Galaxy A06 5G (Hurtel). PanzerGlass 7377 Ultra-Wide Fit is listed for A07 4G/5G, A06 4G/5G, M06 5G, F06 5G, F70e and M17e; some retailers omit the 5G A07, F70e and M17e. JB Hi-Fi sells SAFE by PanzerGlass for A06/A07/A08 and 3SIXT glass for A07/A08 4G. Displex sells one glass for the Galaxy A06 and Galaxy A07 (displex.com). 3MK sells one glass for the Galaxy A07 and Galaxy M07 (Hurtel)",
 "device": "Phone",
 "sources": [
 [
@@ -15491,6 +15443,10 @@
 [
 "JB Hi-Fi NZ (3SIXT A07/A08 4G)",
 "https://www.jbhifi.co.nz/products/3sixt-essential-glass-screen-protector-for-samsung-galaxy-a07-a08-4g"
+],
+[
+"Displex: Samsung Galaxy A06/A07 Screen Protector (2D)",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-a06/a07"
 ],
 [
 "Hurtel: 3mk HardGlass Tempered Glass for Samsung Galaxy A07 5G / M07 5G",
@@ -15556,7 +15512,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15602,7 +15558,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15641,7 +15597,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15697,7 +15653,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15744,7 +15700,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15769,7 +15725,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15814,7 +15770,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15864,7 +15820,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15892,7 +15848,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15901,16 +15857,26 @@
 "Galaxy S24 FE",
 "Galaxy A36",
 "Galaxy A56",
-"Galaxy A37"
+"Galaxy M56",
+"Galaxy F56",
+"Galaxy S25 FE",
+"Galaxy A37",
+"Galaxy A57",
+"Galaxy S26 FE"
 ],
 "released": [
 "2024-09",
 "2025-03",
 "2025-03",
-"2026-03"
+"2025-04",
+"2025-05",
+"2025-09",
+"2026-03",
+"2026-03",
+"2026-09"
 ],
-"check": "Confirmed",
-"note": "PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). Many Flipkart sellers (TechWings, Difoxy, CZARTECH, TWIGLO) sell S24 FE-only glass. OtterBox lists A36/A56; retailer lists A37 too",
+"check": "Check",
+"note": "Sellers confirm Galaxy S24 FE, Galaxy A36, Galaxy A56, Galaxy M56, Galaxy S25 FE, Galaxy A37, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). Displex sells one glass for the Galaxy S24 FE and Galaxy S25 FE (displex.com). PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. 3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl). OtterBox lists A36/A56; retailer lists A37 too. Samsung sells its own A57 glass",
 "device": "Phone",
 "sources": [
 [
@@ -15934,21 +15900,47 @@
 "https://shop.vb.net/en/PZGPGRNUWFG38495/mobile-phone-screen-protectors/panzerglass-screen-protector-samsung-galaxy-s24-fe-a36-5g-a56-5g-ultra-wide-fit"
 ],
 [
-"Flipkart TechWings",
-"https://www.flipkart.com/techwings-edge-tempered-glass-samsung-galaxy-s24-fe-5g-perfect-fit/p/itm5ae4de94bbe25"
+"Displex: Samsung Galaxy S24FE/S25 FE",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-s24fe/s25-fe"
 ],
 [
-"Flipkart Difoxy",
-"https://www.flipkart.com/difoxy-edge-tempered-glass-samsung-galaxy-s24-fe-5g/p/itm7ea7764aaa16a"
+"Digitec (PanzerGlass)",
+"https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-samsung-galaxy-new-s25-fe-m56-5g-ultra-wide-fit-1-pcs-mobile-phone-scre-59935393"
+],
+[
+"VB.net (PanzerGlass PG35953)",
+"https://shop.vb.net/nl/PZGPG35953/screen-protectors/panzerglass-screen-protector-samsung-galaxy-s25-fe-m56-5g-ultra-wide-fit"
+],
+[
+"Proshop (PanzerGlass)",
+"https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Samsung-Galaxy-S25-FE-5G-M56-5G-Ultra-Wide-Fit/3424257"
+],
+[
+"Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
+"https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
+],
+[
+"Homescreen.pl: 3MK HardGlass Max Samsung Galaxy S25 FE / S26 FE black",
+"https://homescreen.pl/en/galaxy-s25-fe/150887-3mk-hardglass-max-samsung-galaxy-s25-fe-s26-fe-black-5903108789318.html"
 ]
 ],
 "codes": [
 "SM-S721B, SM-S721B/DS, SM-S721U1, SM-S721U, SM-S721W, SM-S7210, SM-S721N",
 "SM-A366E, SM-A366E/DS, SM-A366B, SM-A366B/DS, SM-A366U, SM-A366U1, SM-A366W",
 "SM-A566V, SM-A566B, SM-A566B/DS, SM-A566E, SM-A566E/DS, SM-A5660, SM-A566U, SM-A566U1, SM-A566W, SM-A566S",
-"SM-A376E, SM-A376E/DS, SM-A376B, SM-A376B/DS, SM-A376U, SM-A376U1, SM-A376W, SM-A3760"
+"SM-M566B, SM-M566B/DS",
+"SM-E566B, SM-E566B/DS",
+"SM-S731B, SM-S731B/DS",
+"SM-A376E, SM-A376E/DS, SM-A376B, SM-A376B/DS, SM-A376U, SM-A376U1, SM-A376W, SM-A3760",
+"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A576U1, SM-A576W, SM-A576Z, SM-A5760",
+""
 ],
 "screens": [
+"6.7in",
+"6.7in",
+"6.7in",
+"6.74in",
+"6.74in",
 "6.7in",
 "6.7in",
 "6.7in",
@@ -15958,11 +15950,16 @@
 "162 x 77.3 x 8 mm",
 "162.9 x 78.2 x 7.4 mm",
 "162.2 x 77.5 x 7.4 mm",
-"162.9 x 78.2 x 7.4 mm"
+"162 x 77.3 x 7.2 mm",
+"162 x 77.3 x 7.2 mm",
+"161.3 x 76.6 x 7.4 mm",
+"162.9 x 78.2 x 7.4 mm",
+"161.5 x 76.8 x 6.9 mm",
+"161.6 x 76.9 x 7.4 mm"
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15996,7 +15993,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED). PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED). ZAGG, PanzerGlass list",
+"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED). PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz). Displex sells one glass for the Galaxy A16 5G, Galaxy A17 and Galaxy A18 (displex.com). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED). ZAGG, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -16060,6 +16057,18 @@
 "https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a16-lte-a16-5g-a17-lte-a17-5g-p-253618"
 ],
 [
+"Hama: Handy-Schutzglas \"Extreme Protect\" f\u00fcr A16/A16 5G/A17/A17 5G, Montagehilfe",
+"https://www.hama.com/de/de/handy-schutzglas-extreme-protect-fuer-a16-a16-5g-a17-a17-5g-montagehilfe-00228508"
+],
+[
+"Hama: Handy-Schutzglas \"Clear Protect\" f\u00fcr A16/A16 5G/A17/A17 5G, Montagehilfe",
+"https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-a16-a16-5g-a17-a17-5g-montagehilfe-00228507"
+],
+[
+"Displex: Samsung Galaxy A16 (5G) / A17 (4G/5G) / A18",
+"https://www.displex.com/en/panzerglas/samsung-galaxy-a16-5g/a17-4g/5g/a18"
+],
+[
 "Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
 "https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
 ],
@@ -16094,6 +16103,18 @@
 [
 "FIXED: Tvrzen\u00e9 sklo FIXED Full-Cover 2ks s anti-dust aplik\u00e1torem pro Samsung Galaxy A18/A17, \u010dern\u00e9",
 "https://fixed.zone/products/tvrzene-sklo-fixed-full-cover-2ks-s-anti-dust-aplikatorem-pro-samsung-galaxy-a17-5g-cerne"
+],
+[
+"Hama: Handy-Schutzglas \"Clear Protect\" f\u00fcr Galaxy A17/A17 5G/A18, Montagehilfe",
+"https://www.hama.com/de/de/handy-schutzglas-clear-protect-fuer-galaxy-a17-a17-5g-a18-montagehilfe-00233338"
+],
+[
+"Hama: Handy-Schutzglas \"Extreme Protect\" f\u00fcr Galaxy A17/A17 5G/A18, Montagehilfe",
+"https://www.hama.com/de/de/handy-schutzglas-extreme-protect-fuer-galaxy-a17-a17-5g-a18-montagehilfe-00233339"
+],
+[
+"Hama: Handy-Schutzglas \"Reflect Protect\" f\u00fcr Samsung Galaxy A17/A17 5G/A18",
+"https://www.hama.com/de/de/handy-schutzglas-reflect-protect-fuer-samsung-galaxy-a17-a17-5g-a18-00233340"
 ]
 ],
 "codes": [
@@ -16140,7 +16161,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16168,7 +16189,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16210,74 +16231,7 @@
 ]
 },
 {
-"id": "SAM-1459",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy M56",
-"Galaxy F56",
-"Galaxy S25 FE",
-"Galaxy A57",
-"Galaxy S26 FE"
-],
-"released": [
-"2025-04",
-"2025-05",
-"2025-09",
-"2026-03",
-"2026-09"
-],
-"check": "Check",
-"note": "Sellers confirm Galaxy M56, Galaxy S25 FE, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. 3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl). Samsung sells its own A57 glass",
-"device": "Phone",
-"sources": [
-[
-"Digitec (PanzerGlass)",
-"https://www.digitec.ch/en/s1/product/panzerglass-screen-protector-samsung-galaxy-new-s25-fe-m56-5g-ultra-wide-fit-1-pcs-mobile-phone-scre-59935393"
-],
-[
-"VB.net (PanzerGlass PG35953)",
-"https://shop.vb.net/nl/PZGPG35953/screen-protectors/panzerglass-screen-protector-samsung-galaxy-s25-fe-m56-5g-ultra-wide-fit"
-],
-[
-"Proshop (PanzerGlass)",
-"https://www.proshop.dk/Mobil-Beskyttelsesglas/PanzerGlass-Screen-Protector-Samsung-Galaxy-S25-FE-5G-M56-5G-Ultra-Wide-Fit/3424257"
-],
-[
-"Cellularline Impact Glass Capsule for Galaxy A57 / S25 FE / S26 FE",
-"https://www.cellularline.com/en/Cases-and-Accessories/Smartphone-Display-Protection/Impact-Glass-Capsule---Galaxy-A57-S25-FE-S26-FE/p/TEMPGCABGALA57K"
-],
-[
-"Homescreen.pl: 3MK HardGlass Max Samsung Galaxy S25 FE / S26 FE black",
-"https://homescreen.pl/en/galaxy-s25-fe/150887-3mk-hardglass-max-samsung-galaxy-s25-fe-s26-fe-black-5903108789318.html"
-]
-],
-"codes": [
-"SM-M566B, SM-M566B/DS",
-"SM-E566B, SM-E566B/DS",
-"SM-S731B, SM-S731B/DS",
-"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A576U1, SM-A576W, SM-A576Z, SM-A5760",
-""
-],
-"screens": [
-"6.74in",
-"6.74in",
-"6.7in",
-"6.7in",
-"6.7in"
-],
-"dims": [
-"162 x 77.3 x 7.2 mm",
-"162 x 77.3 x 7.2 mm",
-"161.3 x 76.6 x 7.4 mm",
-"161.5 x 76.8 x 6.9 mm",
-"161.6 x 76.9 x 7.4 mm"
-]
-},
-{
-"id": "SAM-1460",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16315,7 +16269,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16374,7 +16328,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16425,7 +16379,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16453,7 +16407,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16487,7 +16441,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16526,7 +16480,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16560,7 +16514,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16595,7 +16549,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16620,7 +16574,7 @@
 ]
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16651,7 +16605,7 @@
 ]
 },
 {
-"id": "SAM-1470",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16673,7 +16627,7 @@
 ]
 },
 {
-"id": "SAM-1471",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16695,7 +16649,7 @@
 ]
 },
 {
-"id": "SAM-1472",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16717,7 +16671,7 @@
 ]
 },
 {
-"id": "SAM-1473",
+"id": "SAM-1469",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16733,7 +16687,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1474",
+"id": "SAM-1470",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -24783,22 +24737,38 @@
 "OPP"
 ],
 "models": [
-"Oppo Reno4 Pro"
+"Oppo Reno4 Pro",
+"Oppo Reno5 Pro+ 5G",
+"Oppo Find X3 Neo"
 ],
 "released": [
-"2020-07"
+"2020-07",
+"2020-12",
+"2021-03"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Oppo Reno4 Pro, Oppo Find X3 Neo. The rest match on specs: test before swapping. Displex sells one glass for the Oppo Find X3 Neo and Oppo Reno4 Pro (displex.com)",
 "device": "Phone",
+"sources": [
+[
+"Displex: Find X3 Neo 5G/Reno4 Pro",
+"https://www.displex.com/en/panzerglas/full-cover-schutzglaeser/find-x3-neo-5g-reno4-pro"
+]
+],
 "codes": [
-"CPH2109"
+"CPH2109",
+"PDRM00, PDRT00",
+"CPH2207"
 ],
 "screens": [
-"6.5in"
+"6.5in",
+"6.55in",
+"6.55in"
 ],
 "dims": [
-"160.2 x 73.2 x 7.7 mm"
+"160.2 x 73.2 x 7.7 mm",
+"159.9 x 72.5 x 8 mm",
+"159.9 x 72.5 x 8 mm"
 ]
 },
 {
@@ -24959,7 +24929,7 @@
 "2021-05"
 ],
 "check": "Check",
-"note": "Sellers confirm Oppo Reno4 Lite, Realme 7 Pro, Oppo Reno5 5G, Oppo Find X3 Lite, Realme 8, Realme 8 Pro. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo Find X3 Lite, Oppo Reno4 Lite, Oppo Reno5 5G, Realme 8 and Realme 8 Pro (Homescreen.pl). Spacecase sells one glass for the Realme 7 Pro, Realme 8 and Realme 8 Pro (spacecase.pl). Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree",
+"note": "Sellers confirm Oppo Reno4 Lite, Realme 7 Pro, Oppo Reno5 5G, Oppo Find X3 Lite, Realme 8, Realme 8 Pro. The rest match on specs: test before swapping. Bizon sells one glass for the Oppo Find X3 Lite, Oppo Reno4 Lite, Oppo Reno5 5G, Realme 8 and Realme 8 Pro (Homescreen.pl). Spacecase sells one glass for the Realme 7 Pro, Realme 8 and Realme 8 Pro (spacecase.pl). Displex sells one glass for the Oppo Find X3 Lite and Oppo Reno5 5G (displex.com). Alza sells one framed glass for the Realme 8 and 8 Pro, and Flipkart and eBay listings agree",
 "device": "Phone",
 "sources": [
 [
@@ -24969,6 +24939,10 @@
 [
 "Spacecase: Spacecase Glass Realme 7 Pro/8/8 Pro",
 "https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-realme-7-pro-8-8-pro-34597"
+],
+[
+"Displex: Find X3 Lite 5G/Reno5/6 5G",
+"https://www.displex.com/en/panzerglas/oppo-find-x3-lite"
 ],
 [
 "Alza glass with frame for Realme 8/8 Pro",
@@ -25120,36 +25094,6 @@
 "OPP"
 ],
 "models": [
-"Oppo Reno5 Pro+ 5G",
-"Oppo Find X3 Neo"
-],
-"released": [
-"2020-12",
-"2021-03"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"codes": [
-"PDRM00, PDRT00",
-"CPH2207"
-],
-"screens": [
-"6.55in",
-"6.55in"
-],
-"dims": [
-"159.9 x 72.5 x 8 mm",
-"159.9 x 72.5 x 8 mm"
-]
-},
-{
-"id": "OPP-1112",
-"brand": "Oppo",
-"brands": [
-"OPP"
-],
-"models": [
 "Oppo Reno5 4G"
 ],
 "released": [
@@ -25169,7 +25113,7 @@
 ]
 },
 {
-"id": "OPP-1113",
+"id": "OPP-1112",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25199,7 +25143,7 @@
 ]
 },
 {
-"id": "OPP-1114",
+"id": "OPP-1113",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25239,7 +25183,7 @@
 ]
 },
 {
-"id": "OPP-1115",
+"id": "OPP-1114",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25279,7 +25223,7 @@
 ]
 },
 {
-"id": "OPP-1116",
+"id": "OPP-1115",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25309,7 +25253,7 @@
 ]
 },
 {
-"id": "OPP-1117",
+"id": "OPP-1116",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25339,7 +25283,7 @@
 ]
 },
 {
-"id": "OPP-1118",
+"id": "OPP-1117",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25384,7 +25328,7 @@
 ]
 },
 {
-"id": "OPP-1119",
+"id": "OPP-1118",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25450,7 +25394,7 @@
 ]
 },
 {
-"id": "OPP-1120",
+"id": "OPP-1119",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25480,7 +25424,7 @@
 ]
 },
 {
-"id": "OPP-1121",
+"id": "OPP-1120",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25505,7 +25449,7 @@
 ]
 },
 {
-"id": "OPP-1122",
+"id": "OPP-1121",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25535,7 +25479,7 @@
 ]
 },
 {
-"id": "OPP-1123",
+"id": "OPP-1122",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25560,7 +25504,7 @@
 ]
 },
 {
-"id": "OPP-1124",
+"id": "OPP-1123",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25585,7 +25529,7 @@
 ]
 },
 {
-"id": "OPP-1125",
+"id": "OPP-1124",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25610,7 +25554,7 @@
 ]
 },
 {
-"id": "OPP-1126",
+"id": "OPP-1125",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25635,7 +25579,7 @@
 ]
 },
 {
-"id": "OPP-1127",
+"id": "OPP-1126",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25660,7 +25604,7 @@
 ]
 },
 {
-"id": "OPP-1128",
+"id": "OPP-1127",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25685,7 +25629,7 @@
 ]
 },
 {
-"id": "OPP-1129",
+"id": "OPP-1128",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25710,7 +25654,7 @@
 ]
 },
 {
-"id": "OPP-1130",
+"id": "OPP-1129",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25738,7 +25682,7 @@
 ]
 },
 {
-"id": "OPP-1131",
+"id": "OPP-1130",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25763,7 +25707,7 @@
 ]
 },
 {
-"id": "OPP-1132",
+"id": "OPP-1131",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25803,7 +25747,7 @@
 ]
 },
 {
-"id": "OPP-1133",
+"id": "OPP-1132",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -25864,7 +25808,7 @@
 ]
 },
 {
-"id": "OPP-1134",
+"id": "OPP-1133",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25889,7 +25833,7 @@
 ]
 },
 {
-"id": "OPP-1135",
+"id": "OPP-1134",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -25914,7 +25858,7 @@
 ]
 },
 {
-"id": "OPP-1136",
+"id": "OPP-1135",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26036,7 +25980,7 @@
 ]
 },
 {
-"id": "OPP-1137",
+"id": "OPP-1136",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26067,7 +26011,7 @@
 ]
 },
 {
-"id": "OPP-1138",
+"id": "OPP-1137",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26092,7 +26036,7 @@
 ]
 },
 {
-"id": "OPP-1139",
+"id": "OPP-1138",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26117,7 +26061,7 @@
 ]
 },
 {
-"id": "OPP-1140",
+"id": "OPP-1139",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26142,7 +26086,7 @@
 ]
 },
 {
-"id": "OPP-1141",
+"id": "OPP-1140",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26178,7 +26122,7 @@
 ]
 },
 {
-"id": "OPP-1142",
+"id": "OPP-1141",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26203,7 +26147,7 @@
 ]
 },
 {
-"id": "OPP-1143",
+"id": "OPP-1142",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26228,7 +26172,7 @@
 ]
 },
 {
-"id": "OPP-1144",
+"id": "OPP-1143",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26258,7 +26202,7 @@
 ]
 },
 {
-"id": "OPP-1145",
+"id": "OPP-1144",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26288,7 +26232,7 @@
 ]
 },
 {
-"id": "OPP-1146",
+"id": "OPP-1145",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26318,7 +26262,7 @@
 ]
 },
 {
-"id": "OPP-1147",
+"id": "OPP-1146",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26348,7 +26292,7 @@
 ]
 },
 {
-"id": "OPP-1148",
+"id": "OPP-1147",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26373,7 +26317,7 @@
 ]
 },
 {
-"id": "OPP-1149",
+"id": "OPP-1148",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26401,7 +26345,7 @@
 ]
 },
 {
-"id": "OPP-1150",
+"id": "OPP-1149",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26429,7 +26373,7 @@
 ]
 },
 {
-"id": "OPP-1151",
+"id": "OPP-1150",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26454,7 +26398,7 @@
 ]
 },
 {
-"id": "OPP-1152",
+"id": "OPP-1151",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26479,7 +26423,7 @@
 ]
 },
 {
-"id": "OPP-1153",
+"id": "OPP-1152",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26504,7 +26448,7 @@
 ]
 },
 {
-"id": "OPP-1154",
+"id": "OPP-1153",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26539,7 +26483,7 @@
 ]
 },
 {
-"id": "OPP-1155",
+"id": "OPP-1154",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26564,7 +26508,7 @@
 ]
 },
 {
-"id": "OPP-1156",
+"id": "OPP-1155",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26589,7 +26533,7 @@
 ]
 },
 {
-"id": "OPP-1157",
+"id": "OPP-1156",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26614,7 +26558,7 @@
 ]
 },
 {
-"id": "OPP-1158",
+"id": "OPP-1157",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26639,7 +26583,7 @@
 ]
 },
 {
-"id": "OPP-1159",
+"id": "OPP-1158",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26683,7 +26627,7 @@
 ]
 },
 {
-"id": "OPP-1160",
+"id": "OPP-1159",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26708,7 +26652,7 @@
 ]
 },
 {
-"id": "OPP-1161",
+"id": "OPP-1160",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26733,7 +26677,7 @@
 ]
 },
 {
-"id": "OPP-1162",
+"id": "OPP-1161",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26761,7 +26705,7 @@
 ]
 },
 {
-"id": "OPP-1163",
+"id": "OPP-1162",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26797,7 +26741,7 @@
 ]
 },
 {
-"id": "OPP-1164",
+"id": "OPP-1163",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26822,7 +26766,7 @@
 ]
 },
 {
-"id": "OPP-1165",
+"id": "OPP-1164",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -26858,7 +26802,7 @@
 ]
 },
 {
-"id": "OPP-1166",
+"id": "OPP-1165",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26888,7 +26832,7 @@
 ]
 },
 {
-"id": "OPP-1167",
+"id": "OPP-1166",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26913,7 +26857,7 @@
 ]
 },
 {
-"id": "OPP-1168",
+"id": "OPP-1167",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26935,7 +26879,7 @@
 ]
 },
 {
-"id": "OPP-1169",
+"id": "OPP-1168",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26960,7 +26904,7 @@
 ]
 },
 {
-"id": "OPP-1170",
+"id": "OPP-1169",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -26985,7 +26929,7 @@
 ]
 },
 {
-"id": "OPP-1171",
+"id": "OPP-1170",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27010,7 +26954,7 @@
 ]
 },
 {
-"id": "OPP-1172",
+"id": "OPP-1171",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27040,7 +26984,7 @@
 ]
 },
 {
-"id": "OPP-1173",
+"id": "OPP-1172",
 "brand": "Oppo + OnePlus",
 "brands": [
 "OPP",
@@ -27076,7 +27020,7 @@
 ]
 },
 {
-"id": "OPP-1174",
+"id": "OPP-1173",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27101,7 +27045,7 @@
 ]
 },
 {
-"id": "OPP-1175",
+"id": "OPP-1174",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27126,7 +27070,7 @@
 ]
 },
 {
-"id": "OPP-1176",
+"id": "OPP-1175",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27151,7 +27095,7 @@
 ]
 },
 {
-"id": "OPP-1177",
+"id": "OPP-1176",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27176,7 +27120,7 @@
 ]
 },
 {
-"id": "OPP-1178",
+"id": "OPP-1177",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27201,7 +27145,7 @@
 ]
 },
 {
-"id": "OPP-1179",
+"id": "OPP-1178",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27226,7 +27170,7 @@
 ]
 },
 {
-"id": "OPP-1180",
+"id": "OPP-1179",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27266,7 +27210,7 @@
 ]
 },
 {
-"id": "OPP-1181",
+"id": "OPP-1180",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27291,7 +27235,7 @@
 ]
 },
 {
-"id": "OPP-1182",
+"id": "OPP-1181",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27316,7 +27260,7 @@
 ]
 },
 {
-"id": "OPP-1183",
+"id": "OPP-1182",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27341,7 +27285,7 @@
 ]
 },
 {
-"id": "OPP-1184",
+"id": "OPP-1183",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27363,7 +27307,7 @@
 ]
 },
 {
-"id": "OPP-1185",
+"id": "OPP-1184",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27388,7 +27332,7 @@
 ]
 },
 {
-"id": "OPP-1186",
+"id": "OPP-1185",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27413,7 +27357,7 @@
 ]
 },
 {
-"id": "OPP-1187",
+"id": "OPP-1186",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27438,7 +27382,7 @@
 ]
 },
 {
-"id": "OPP-1188",
+"id": "OPP-1187",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27463,7 +27407,7 @@
 ]
 },
 {
-"id": "OPP-1189",
+"id": "OPP-1188",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27493,7 +27437,7 @@
 ]
 },
 {
-"id": "OPP-1190",
+"id": "OPP-1189",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27523,7 +27467,7 @@
 ]
 },
 {
-"id": "OPP-1191",
+"id": "OPP-1190",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27564,7 +27508,7 @@
 ]
 },
 {
-"id": "OPP-1192",
+"id": "OPP-1191",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27592,7 +27536,7 @@
 ]
 },
 {
-"id": "OPP-1193",
+"id": "OPP-1192",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27622,7 +27566,7 @@
 ]
 },
 {
-"id": "OPP-1194",
+"id": "OPP-1193",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27647,7 +27591,7 @@
 ]
 },
 {
-"id": "OPP-1195",
+"id": "OPP-1194",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27686,7 +27630,7 @@
 ]
 },
 {
-"id": "OPP-1196",
+"id": "OPP-1195",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27711,7 +27655,7 @@
 ]
 },
 {
-"id": "OPP-1197",
+"id": "OPP-1196",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27736,7 +27680,7 @@
 ]
 },
 {
-"id": "OPP-1198",
+"id": "OPP-1197",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27761,7 +27705,7 @@
 ]
 },
 {
-"id": "OPP-1199",
+"id": "OPP-1198",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27786,7 +27730,7 @@
 ]
 },
 {
-"id": "OPP-1200",
+"id": "OPP-1199",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27811,7 +27755,7 @@
 ]
 },
 {
-"id": "OPP-1201",
+"id": "OPP-1200",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27836,7 +27780,7 @@
 ]
 },
 {
-"id": "OPP-1202",
+"id": "OPP-1201",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27866,7 +27810,7 @@
 ]
 },
 {
-"id": "OPP-1203",
+"id": "OPP-1202",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27968,7 +27912,7 @@
 ]
 },
 {
-"id": "OPP-1204",
+"id": "OPP-1203",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -27998,7 +27942,7 @@
 ]
 },
 {
-"id": "OPP-1205",
+"id": "OPP-1204",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28017,7 +27961,7 @@
 ]
 },
 {
-"id": "OPP-1206",
+"id": "OPP-1205",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28050,7 +27994,7 @@
 ]
 },
 {
-"id": "OPP-1207",
+"id": "OPP-1206",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28078,7 +28022,7 @@
 ]
 },
 {
-"id": "OPP-1208",
+"id": "OPP-1207",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28113,7 +28057,7 @@
 ]
 },
 {
-"id": "OPP-1209",
+"id": "OPP-1208",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28138,7 +28082,7 @@
 ]
 },
 {
-"id": "OPP-1210",
+"id": "OPP-1209",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28257,7 +28201,7 @@
 ]
 },
 {
-"id": "OPP-1211",
+"id": "OPP-1210",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28287,7 +28231,7 @@
 ]
 },
 {
-"id": "OPP-1212",
+"id": "OPP-1211",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28315,7 +28259,7 @@
 ]
 },
 {
-"id": "OPP-1213",
+"id": "OPP-1212",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28331,7 +28275,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1214",
+"id": "OPP-1213",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28356,7 +28300,7 @@
 ]
 },
 {
-"id": "OPP-1215",
+"id": "OPP-1214",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28386,7 +28330,7 @@
 ]
 },
 {
-"id": "OPP-1216",
+"id": "OPP-1215",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28414,7 +28358,7 @@
 ]
 },
 {
-"id": "OPP-1217",
+"id": "OPP-1216",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28442,7 +28386,7 @@
 ]
 },
 {
-"id": "OPP-1218",
+"id": "OPP-1217",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28472,7 +28416,7 @@
 ]
 },
 {
-"id": "OPP-1219",
+"id": "OPP-1218",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28525,7 +28469,7 @@
 ]
 },
 {
-"id": "OPP-1220",
+"id": "OPP-1219",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28550,7 +28494,7 @@
 ]
 },
 {
-"id": "OPP-1221",
+"id": "OPP-1220",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28595,7 +28539,7 @@
 ]
 },
 {
-"id": "OPP-1222",
+"id": "OPP-1221",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28611,7 +28555,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1223",
+"id": "OPP-1222",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28633,7 +28577,7 @@
 ]
 },
 {
-"id": "OPP-1224",
+"id": "OPP-1223",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28655,7 +28599,7 @@
 ]
 },
 {
-"id": "OPP-1225",
+"id": "OPP-1224",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28671,7 +28615,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1226",
+"id": "OPP-1225",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28693,7 +28637,7 @@
 ]
 },
 {
-"id": "OPP-1227",
+"id": "OPP-1226",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28709,7 +28653,7 @@
 "device": "Phone"
 },
 {
-"id": "OPP-1228",
+"id": "OPP-1227",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28731,7 +28675,7 @@
 ]
 },
 {
-"id": "OPP-1229",
+"id": "OPP-1228",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28750,7 +28694,7 @@
 ]
 },
 {
-"id": "OPP-1230",
+"id": "OPP-1229",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28772,7 +28716,7 @@
 ]
 },
 {
-"id": "OPP-1231",
+"id": "OPP-1230",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -28794,7 +28738,7 @@
 ]
 },
 {
-"id": "OPP-1232",
+"id": "OPP-1231",
 "brand": "Oppo",
 "brands": [
 "OPP"
@@ -58380,22 +58324,43 @@
 "MOT"
 ],
 "models": [
-"Motorola Edge 70 Fusion"
+"Motorola Edge 70 Fusion",
+"Motorola Edge 70 Pro",
+"Motorola Edge 70 Pro+",
+"Motorola Edge 70 Plus"
 ],
 "released": [
-"2026-03"
+"2026-03",
+"2026-04",
+"2026-06",
+"2026-09"
 ],
 "check": "Check",
-"note": "",
+"note": "Sellers confirm Motorola Edge 70 Fusion, Motorola Edge 70 Pro, Motorola Edge 70 Plus. The rest match on specs: test before swapping. Hama sells one glass for the Motorola Edge 70 Plus, Motorola Edge 70 Pro and Motorola Edge 70 Fusion (hama.com)",
 "device": "Phone",
+"sources": [
+[
+"Hama: Handy-Schutzglas \"Clear Protect\" f. Motorola Edge 70 Plus/Pro/Fusion, Mont.",
+"https://www.hama.com/de/de/handy-schutzglas-clear-protect-f-motorola-edge-70-plus-pro-fusion-mont-00233366"
+]
+],
 "codes": [
-"XT2605-1, XT2605-2, XT2605-4"
+"XT2605-1, XT2605-2, XT2605-4",
+"",
+"",
+""
 ],
 "screens": [
+"6.78in",
+"6.78in",
+"6.78in",
 "6.78in"
 ],
 "dims": [
-"162.8 x 75.6 x 7.2 mm"
+"162.8 x 75.6 x 7.2 mm",
+"162.7 x 75.6 x 7.2 mm",
+"162.7 x 75.6 x 7.2 mm",
+"162.7 x 75.7 x 8.5 mm"
 ]
 },
 {
@@ -58488,32 +58453,6 @@
 "MOT"
 ],
 "models": [
-"Motorola Edge 70 Pro",
-"Motorola Edge 70 Pro+"
-],
-"released": [
-"2026-04",
-"2026-06"
-],
-"check": "Check",
-"note": "Same body size and screen specs: test before swapping",
-"device": "Phone",
-"screens": [
-"6.78in",
-"6.78in"
-],
-"dims": [
-"162.7 x 75.6 x 7.2 mm",
-"162.7 x 75.6 x 7.2 mm"
-]
-},
-{
-"id": "MOT-1284",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
 "Motorola Edge (2026)"
 ],
 "released": [
@@ -58530,7 +58469,7 @@
 ]
 },
 {
-"id": "MOT-1285",
+"id": "MOT-1284",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58558,7 +58497,7 @@
 ]
 },
 {
-"id": "MOT-1286",
+"id": "MOT-1285",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58580,7 +58519,7 @@
 ]
 },
 {
-"id": "MOT-1287",
+"id": "MOT-1286",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -58602,29 +58541,7 @@
 ]
 },
 {
-"id": "MOT-1288",
-"brand": "Motorola",
-"brands": [
-"MOT"
-],
-"models": [
-"Motorola Edge 70 Plus"
-],
-"released": [
-"2026-09"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.78in"
-],
-"dims": [
-"162.7 x 75.7 x 8.5 mm"
-]
-},
-{
-"id": "MOT-1289",
+"id": "MOT-1287",
 "brand": "Motorola",
 "brands": [
 "MOT"
@@ -62135,16 +62052,22 @@
 "Redmi Note 10 5G",
 "Poco M3 Pro",
 "Poco M3 Pro 5G",
+"Redmi 10",
+"Redmi Note 11 4G",
+"Redmi 10 2022",
 "Redmi Note 11SE"
 ],
 "released": [
 "2021-03",
 "2021-05",
 "2021-05",
+"2021-08",
+"2021-11",
+"2022-02",
 "2022-05"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 10 5G, Poco M3 Pro 5G. The rest match on specs: test before swapping. Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product",
+"note": "Sellers confirm Redmi Note 10 5G, Poco M3 Pro 5G, Redmi 10, Redmi Note 11 4G, Redmi 10 2022. The rest match on specs: test before swapping. Hofi Glass Pro+ is sold for Poco M3 Pro 5G / Redmi Note 10 5G as one product. Displex sells one glass for the Redmi 10 2022 and Redmi Note 10 5G (displex.com). Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11. PanzerGlass sells one glass for the Redmi 10 and Redmi 10 2022 (MP.cz)",
 "device": "Phone",
 "sources": [
 [
@@ -62158,15 +62081,41 @@
 [
 "MP.cz: Tvrzen\u00e9 sklo Caliber 2.5D, Xiaomi Redmi Note 10 5G / POCO M3 Pro 5G",
 "https://www.mp.cz/tvrzene-sklo-caliber-2-5d-cerne-xiaomi-redmi-note-10-5g-poco-m3-pro-5g-p-126602"
+],
+[
+"Displex: Redmi 10 (2022)/Note 10 5G",
+"https://www.displex.com/en/panzerglas/xiaomi-redmi-10"
+],
+[
+"TelForceOne 6D glass Redmi 10 / Note 11 / Note 11 4G / Note 11s 4G (aio.lv)",
+"https://aio.lv/en/product--telforceone-oem100920--11709298.md"
+],
+[
+"Giztop (Nillkin CP+ Pro for Redmi 10, Redmi 10 Prime, Redmi Note 11 4G)",
+"https://www.giztop.com/nillkin-cp-pro-glass-full-screen-protector-for-redmi-10.html"
+],
+[
+"AL5hafii mobiles-compatibility-charts 134_162x75",
+"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 10/Redmi 10 2022",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10-redmi-10-2022-p-131357"
 ]
 ],
 "codes": [
 "M2103K19G, M2103K19C",
 "",
 "M2103K19PG, M2103K19PI, M2103K19PY",
+"21061119AG, 21061119DG, 21061119AL",
+"21121119SC",
+"21121119SG, 22011119UY, 21121119VL",
 ""
 ],
 "screens": [
+"6.5in",
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -62176,6 +62125,9 @@
 "161.8 x 75.3 x 8.9 mm",
 "161.8 x 75.3 x 8.9 mm",
 "161.8 x 75.3 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
+"162 x 75.5 x 8.9 mm",
 "161.8 x 75.3 x 8.9 mm"
 ]
 },
@@ -62440,59 +62392,6 @@
 "XIA"
 ],
 "models": [
-"Redmi 10",
-"Redmi Note 11 4G",
-"Redmi 10 2022"
-],
-"released": [
-"2021-08",
-"2021-11",
-"2022-02"
-],
-"check": "Confirmed",
-"note": "Nillkin CP+ Pro (Giztop) lists the Redmi 10 and Redmi Note 11 4G together, and the AL5hafii chart groups both at 162.0 x 75.5 mm; this is the China Note 11 4G, not the global Note 11. PanzerGlass sells one glass for the Redmi 10 and Redmi 10 2022 (MP.cz)",
-"device": "Phone",
-"sources": [
-[
-"TelForceOne 6D glass Redmi 10 / Note 11 / Note 11 4G / Note 11s 4G (aio.lv)",
-"https://aio.lv/en/product--telforceone-oem100920--11709298.md"
-],
-[
-"Giztop (Nillkin CP+ Pro for Redmi 10, Redmi 10 Prime, Redmi Note 11 4G)",
-"https://www.giztop.com/nillkin-cp-pro-glass-full-screen-protector-for-redmi-10.html"
-],
-[
-"AL5hafii mobiles-compatibility-charts 134_162x75",
-"https://raw.githubusercontent.com/AL5hafii/mobiles-compatibility-charts/HEAD/charts/134_162x75.txt"
-],
-[
-"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi 10/Redmi 10 2022",
-"https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-10-redmi-10-2022-p-131357"
-]
-],
-"codes": [
-"21061119AG, 21061119DG, 21061119AL",
-"21121119SC",
-"21121119SG, 22011119UY, 21121119VL"
-],
-"screens": [
-"6.5in",
-"6.5in",
-"6.5in"
-],
-"dims": [
-"162 x 75.5 x 8.9 mm",
-"162 x 75.5 x 8.9 mm",
-"162 x 75.5 x 8.9 mm"
-]
-},
-{
-"id": "XIA-1107",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Redmi 10 Prime"
 ],
 "released": [
@@ -62512,7 +62411,7 @@
 ]
 },
 {
-"id": "XIA-1108",
+"id": "XIA-1107",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62548,7 +62447,7 @@
 ]
 },
 {
-"id": "XIA-1109",
+"id": "XIA-1108",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62578,7 +62477,7 @@
 ]
 },
 {
-"id": "XIA-1110",
+"id": "XIA-1109",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62608,7 +62507,7 @@
 ]
 },
 {
-"id": "XIA-1111",
+"id": "XIA-1110",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62674,7 +62573,7 @@
 ]
 },
 {
-"id": "XIA-1112",
+"id": "XIA-1111",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62778,7 +62677,7 @@
 ]
 },
 {
-"id": "XIA-1113",
+"id": "XIA-1112",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62830,7 +62729,7 @@
 ]
 },
 {
-"id": "XIA-1114",
+"id": "XIA-1113",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62896,7 +62795,7 @@
 ]
 },
 {
-"id": "XIA-1115",
+"id": "XIA-1114",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62940,6 +62839,10 @@
 [
 "MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 12S/11/11S",
 "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-12s-11-11s-p-141134"
+],
+[
+"Displex: Redmi Note 11/11S/12S",
+"https://www.displex.com/en/panzerglas/xiaomi-redmi-note-11/11s/12s"
 ]
 ],
 "codes": [
@@ -62962,7 +62865,7 @@
 ]
 },
 {
-"id": "XIA-1116",
+"id": "XIA-1115",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -62998,7 +62901,7 @@
 ]
 },
 {
-"id": "XIA-1117",
+"id": "XIA-1116",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63067,7 +62970,7 @@
 ]
 },
 {
-"id": "XIA-1118",
+"id": "XIA-1117",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63155,7 +63058,7 @@
 ]
 },
 {
-"id": "XIA-1119",
+"id": "XIA-1118",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63185,7 +63088,7 @@
 ]
 },
 {
-"id": "XIA-1120",
+"id": "XIA-1119",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63230,7 +63133,7 @@
 ]
 },
 {
-"id": "XIA-1121",
+"id": "XIA-1120",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63255,7 +63158,7 @@
 ]
 },
 {
-"id": "XIA-1122",
+"id": "XIA-1121",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63280,7 +63183,7 @@
 ]
 },
 {
-"id": "XIA-1123",
+"id": "XIA-1122",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63310,7 +63213,7 @@
 ]
 },
 {
-"id": "XIA-1124",
+"id": "XIA-1123",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63335,7 +63238,7 @@
 ]
 },
 {
-"id": "XIA-1125",
+"id": "XIA-1124",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63380,7 +63283,7 @@
 ]
 },
 {
-"id": "XIA-1126",
+"id": "XIA-1125",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63405,7 +63308,7 @@
 ]
 },
 {
-"id": "XIA-1127",
+"id": "XIA-1126",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63436,7 +63339,7 @@
 ]
 },
 {
-"id": "XIA-1128",
+"id": "XIA-1127",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63464,7 +63367,7 @@
 ]
 },
 {
-"id": "XIA-1129",
+"id": "XIA-1128",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63525,7 +63428,7 @@
 ]
 },
 {
-"id": "XIA-1130",
+"id": "XIA-1129",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63589,7 +63492,7 @@
 ]
 },
 {
-"id": "XIA-1131",
+"id": "XIA-1130",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63619,7 +63522,7 @@
 ]
 },
 {
-"id": "XIA-1132",
+"id": "XIA-1131",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63678,7 +63581,7 @@
 ]
 },
 {
-"id": "XIA-1133",
+"id": "XIA-1132",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63732,7 +63635,7 @@
 ]
 },
 {
-"id": "XIA-1134",
+"id": "XIA-1133",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63757,7 +63660,7 @@
 ]
 },
 {
-"id": "XIA-1135",
+"id": "XIA-1134",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63820,7 +63723,7 @@
 ]
 },
 {
-"id": "XIA-1136",
+"id": "XIA-1135",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63872,7 +63775,7 @@
 ]
 },
 {
-"id": "XIA-1137",
+"id": "XIA-1136",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63897,7 +63800,7 @@
 ]
 },
 {
-"id": "XIA-1138",
+"id": "XIA-1137",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -63922,7 +63825,7 @@
 ]
 },
 {
-"id": "XIA-1139",
+"id": "XIA-1138",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64042,7 +63945,7 @@
 ]
 },
 {
-"id": "XIA-1140",
+"id": "XIA-1139",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64064,7 +63967,7 @@
 ]
 },
 {
-"id": "XIA-1141",
+"id": "XIA-1140",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64092,7 +63995,7 @@
 ]
 },
 {
-"id": "XIA-1142",
+"id": "XIA-1141",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64146,6 +64049,10 @@
 [
 "Spacecase: Spacecase Glass Xiaomi 13T/13T Pro",
 "https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-xiaomi-13t-13t-pro-34267"
+],
+[
+"Displex: Xiaomi 13T/13T Pro",
+"https://www.displex.com/en/panzerglas/xiaomi-13t-pro/"
 ]
 ],
 "codes": [
@@ -64165,7 +64072,7 @@
 ]
 },
 {
-"id": "XIA-1143",
+"id": "XIA-1142",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64195,7 +64102,7 @@
 "2025-03"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
+"note": "Sellers confirm Redmi Note 13 Pro, Redmi K70E, Poco X6, Poco X6 Pro, Redmi Note 13, Redmi Note 13 Pro 4G, Poco M6 Pro 4G, Poco X7 Pro, Redmi Note 14S. The rest match on specs: test before swapping. Bizon Clear 2 and Edge 2 glass list Poco X6, Poco M6 Pro 4G, Redmi Note 13 5G, Note 13 Pro 4G/5G and Note 14S as one product; Displex pairs M6 Pro and Note 13 Pro 4G. PanzerGlass sells one glass for the Redmi Note 13 Pro 5G, Poco X6 and Poco X6 Pro. Bizon sells one glass for the Poco M6 Pro 4G, Poco X6, Redmi Note 13, Redmi Note 13 Pro and Redmi Note 13 Pro 4G (Homescreen.pl). FIXED sells one glass for the Poco X6 and Redmi Note 13 Pro (FIXED). Displex sells one glass for the Redmi Note 13 and Redmi Note 13 Pro (displex.com). Homescreen.pl sells one Nillkin CP+Pro glass for the Redmi K70E and Poco X6 Pro. Bizon Smart 2.5D, Clear Duo and Edge Duo glass are each sold for Poco X6 Pro / X7 Pro (cases differ)",
 "device": "Phone",
 "sources": [
 [
@@ -64237,6 +64144,10 @@
 [
 "Spacecase: Spacecase Glass Poco X6 / Redmi Note 13 Pro 5G",
 "https://spacecase.pl/pl/products/szklo-hartowane-spacecase-glass-5d-do-poco-x6-rm-note-13-pro-5g-34401"
+],
+[
+"Displex: Xiaomi Redmi Note 13 5G/13 Pro 5G",
+"https://www.displex.com/en/panzerglas/xiaomi-redmi-note-13-5g-13-pro-5g/"
 ],
 [
 "Nillkin CP+Pro Redmi K70e / Poco X6 Pro 5G at homescreen.pl",
@@ -64297,7 +64208,7 @@
 ]
 },
 {
-"id": "XIA-1144",
+"id": "XIA-1143",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64390,7 +64301,7 @@
 ]
 },
 {
-"id": "XIA-1145",
+"id": "XIA-1144",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64434,7 +64345,7 @@
 ]
 },
 {
-"id": "XIA-1146",
+"id": "XIA-1145",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64529,7 +64440,7 @@
 ]
 },
 {
-"id": "XIA-1147",
+"id": "XIA-1146",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64559,7 +64470,7 @@
 ]
 },
 {
-"id": "XIA-1148",
+"id": "XIA-1147",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64594,7 +64505,7 @@
 ]
 },
 {
-"id": "XIA-1149",
+"id": "XIA-1148",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64625,7 +64536,7 @@
 ]
 },
 {
-"id": "XIA-1150",
+"id": "XIA-1149",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64674,7 +64585,7 @@
 ]
 },
 {
-"id": "XIA-1151",
+"id": "XIA-1150",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64704,7 +64615,7 @@
 ]
 },
 {
-"id": "XIA-1152",
+"id": "XIA-1151",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64748,7 +64659,7 @@
 ]
 },
 {
-"id": "XIA-1153",
+"id": "XIA-1152",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64773,7 +64684,7 @@
 ]
 },
 {
-"id": "XIA-1154",
+"id": "XIA-1153",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64838,7 +64749,7 @@
 ]
 },
 {
-"id": "XIA-1155",
+"id": "XIA-1154",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -64866,7 +64777,7 @@
 ]
 },
 {
-"id": "XIA-1156",
+"id": "XIA-1155",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65043,7 +64954,7 @@
 ]
 },
 {
-"id": "XIA-1157",
+"id": "XIA-1156",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65131,7 +65042,7 @@
 ]
 },
 {
-"id": "XIA-1158",
+"id": "XIA-1157",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65159,7 +65070,7 @@
 ]
 },
 {
-"id": "XIA-1159",
+"id": "XIA-1158",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65193,7 +65104,7 @@
 ]
 },
 {
-"id": "XIA-1160",
+"id": "XIA-1159",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65241,7 +65152,7 @@
 ]
 },
 {
-"id": "XIA-1161",
+"id": "XIA-1160",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65310,7 +65221,7 @@
 ]
 },
 {
-"id": "XIA-1162",
+"id": "XIA-1161",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65335,7 +65246,7 @@
 ]
 },
 {
-"id": "XIA-1163",
+"id": "XIA-1162",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65383,7 +65294,7 @@
 ]
 },
 {
-"id": "XIA-1164",
+"id": "XIA-1163",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65405,7 +65316,7 @@
 ]
 },
 {
-"id": "XIA-1165",
+"id": "XIA-1164",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65433,7 +65344,7 @@
 ]
 },
 {
-"id": "XIA-1166",
+"id": "XIA-1165",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65458,7 +65369,7 @@
 ]
 },
 {
-"id": "XIA-1167",
+"id": "XIA-1166",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65494,7 +65405,7 @@
 ]
 },
 {
-"id": "XIA-1168",
+"id": "XIA-1167",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65516,7 +65427,7 @@
 ]
 },
 {
-"id": "XIA-1169",
+"id": "XIA-1168",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65556,7 +65467,7 @@
 ]
 },
 {
-"id": "XIA-1170",
+"id": "XIA-1169",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65601,7 +65512,7 @@
 ]
 },
 {
-"id": "XIA-1171",
+"id": "XIA-1170",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65650,7 +65561,7 @@
 ]
 },
 {
-"id": "XIA-1172",
+"id": "XIA-1171",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65675,7 +65586,7 @@
 ]
 },
 {
-"id": "XIA-1173",
+"id": "XIA-1172",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65723,7 +65634,7 @@
 ]
 },
 {
-"id": "XIA-1174",
+"id": "XIA-1173",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65745,7 +65656,7 @@
 ]
 },
 {
-"id": "XIA-1175",
+"id": "XIA-1174",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65767,7 +65678,7 @@
 ]
 },
 {
-"id": "XIA-1176",
+"id": "XIA-1175",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65789,7 +65700,7 @@
 ]
 },
 {
-"id": "XIA-1177",
+"id": "XIA-1176",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65829,7 +65740,7 @@
 ]
 },
 {
-"id": "XIA-1178",
+"id": "XIA-1177",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65865,7 +65776,7 @@
 ]
 },
 {
-"id": "XIA-1179",
+"id": "XIA-1178",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65916,7 +65827,7 @@
 ]
 },
 {
-"id": "XIA-1180",
+"id": "XIA-1179",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -65972,7 +65883,7 @@
 ]
 },
 {
-"id": "XIA-1181",
+"id": "XIA-1180",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66005,7 +65916,7 @@
 ]
 },
 {
-"id": "XIA-1182",
+"id": "XIA-1181",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66038,7 +65949,7 @@
 ]
 },
 {
-"id": "XIA-1183",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66083,7 +65994,7 @@
 ]
 },
 {
-"id": "XIA-1184",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66105,7 +66016,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66130,7 +66041,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66158,7 +66069,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66207,7 +66118,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66277,7 +66188,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66308,7 +66219,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66330,7 +66241,7 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66355,7 +66266,7 @@
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66377,7 +66288,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66405,7 +66316,7 @@
 ]
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66436,7 +66347,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66467,7 +66378,7 @@
 ]
 },
 {
-"id": "XIA-1196",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66483,7 +66394,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1197",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66508,7 +66419,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66536,7 +66447,7 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66564,7 +66475,7 @@
 ]
 },
 {
-"id": "XIA-1200",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66592,7 +66503,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66614,7 +66525,7 @@
 ]
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66636,7 +66547,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66658,7 +66569,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66680,7 +66591,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66702,7 +66613,7 @@
 ]
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66730,7 +66641,7 @@
 ]
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66758,7 +66669,7 @@
 ]
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66777,7 +66688,7 @@
 ]
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66799,7 +66710,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66815,7 +66726,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66837,7 +66748,7 @@
 ]
 },
 {
-"id": "XIA-1212",
+"id": "XIA-1211",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66859,7 +66770,7 @@
 ]
 },
 {
-"id": "XIA-1213",
+"id": "XIA-1212",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66881,7 +66792,7 @@
 ]
 },
 {
-"id": "XIA-1214",
+"id": "XIA-1213",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
