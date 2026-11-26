@@ -6522,10 +6522,13 @@
    {
     "name": "Flipkart EITANSHA CREATION",
     "url": "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-a42-5g-a42-m42/p/itm5cd5060ebc5ea"
+   },
+   {
+    "name": "Croma (Spigen): Spigen GLAS.tR Slim Tempered Glass for Samsung Galaxy M42 5G / A42 5G",
+    "url": "https://www.croma.com/spigen-glastr-slim-tempered-glass-for-samsung-galaxy-m42-5g-a42-5g-9h-tempered-glass-/p/239365"
    }
   ],
-  "note": "Only EITANSHA CREATION on Flipkart sells one glass for A42 5G and M42 5G: test fit.",
-  "weak": true
+  "note": "Spigen sells one GLAS.tR Slim glass for the Galaxy A42 5G and M42 5G (Croma)."
  },
  {
   "models": [
@@ -24413,5 +24416,19 @@
    }
   ],
   "note": "Cellularline sells one glass for the Huawei Y6 (2018), Y6 Prime (2018) and Honor 7A (Digitec)."
+ },
+ {
+  "models": [
+   "Nokia C22",
+   "Nokia C32"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Home Screen (MyScreen): MyScreen Diamond Glass Edge Lite FG Nokia C22/C32 black Full Glue",
+    "url": "https://homescreen.pl/en/nokia/58510-myscreen-diamond-glass-edge-lite-fg-nokia-c22-c32-black-full-glue-5904433221689.html"
+   }
+  ],
+  "note": "MyScreen sells one tempered glass for the Nokia C22 and C32 (Home Screen)."
  }
 ]

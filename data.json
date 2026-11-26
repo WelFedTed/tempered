@@ -13877,13 +13877,17 @@
 "2020-09",
 "2021-04"
 ],
-"check": "Check",
-"note": "Only EITANSHA CREATION on Flipkart sells one glass for A42 5G and M42 5G: test fit. Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "Spigen sells one GLAS.tR Slim glass for the Galaxy A42 5G and M42 5G (Croma)",
 "device": "Phone",
 "sources": [
 [
 "Flipkart EITANSHA CREATION",
 "https://www.flipkart.com/eitansha-creation-edge-tempered-glass-samsung-galaxy-a42-5g-a42-m42/p/itm5cd5060ebc5ea"
+],
+[
+"Croma (Spigen): Spigen GLAS.tR Slim Tempered Glass for Samsung Galaxy M42 5G / A42 5G",
+"https://www.croma.com/spigen-glastr-slim-tempered-glass-for-samsung-galaxy-m42-5g-a42-5g-9h-tempered-glass-/p/239365"
 ]
 ],
 "codes": [
@@ -75048,8 +75052,8 @@
 "2023-02",
 "2023-02"
 ],
-"check": "Check",
-"note": "A desertcart listing sells one screen protector for Nokia C32 / C22 / G22 and an eBay listing names the same three; marketplace only, and 3MK sells them separately: test fit. Same body size and screen specs: test before swapping",
+"check": "Confirmed",
+"note": "A desertcart listing sells one screen protector for Nokia C32 / C22 / G22 and an eBay listing names the same three; marketplace only, and 3MK sells them separately: test fit. MyScreen sells one tempered glass for the Nokia C22 and C32 (Home Screen)",
 "device": "Phone",
 "sources": [
 [
@@ -75059,6 +75063,10 @@
 [
 "eBay seller",
 "https://www.ebay.com/itm/275746352391"
+],
+[
+"Home Screen (MyScreen): MyScreen Diamond Glass Edge Lite FG Nokia C22/C32 black Full Glue",
+"https://homescreen.pl/en/nokia/58510-myscreen-diamond-glass-edge-lite-fg-nokia-c22-c32-black-full-glue-5904433221689.html"
 ]
 ],
 "screens": [
