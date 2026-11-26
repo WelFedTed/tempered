@@ -13766,11 +13766,19 @@
 ],
 "models": [
 "Galaxy A02s",
+"Galaxy A12",
 "Galaxy A02",
 "Galaxy M02s",
+"Galaxy A32 5G",
 "Galaxy M02",
+"Galaxy M12 (India)",
 "Galaxy F02s",
+"Galaxy F12",
+"Galaxy M12",
+"Galaxy A12 Nacho",
+"Galaxy A12 (India)",
 "Galaxy A03s",
+"Galaxy M32 5G",
 "Galaxy A03 Core",
 "Galaxy A03",
 "Galaxy A13 5G",
@@ -13783,10 +13791,18 @@
 ],
 "released": [
 "2020-11",
+"2020-11",
+"2021-01",
 "2021-01",
 "2021-01",
 "2021-02",
+"2021-02",
 "2021-04",
+"2021-04",
+"2021-04",
+"2021-08",
+"2021-08",
+"2021-08",
 "2021-08",
 "2021-11",
 "2021-11",
@@ -13799,7 +13815,7 @@
 "2023-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A02s, Galaxy A02, Galaxy A03s, Galaxy A03; Galaxy A13 5G, Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Displex sells one glass for the Galaxy A02, Galaxy A02s, Galaxy A03 and Galaxy A03s (displex.com). PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz). Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
+"note": "Sellers confirm Galaxy A02s, Galaxy A02, Galaxy A03s, Galaxy A03; Galaxy A12, Galaxy A32 5G, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India), Galaxy M32 5G, Galaxy A13 5G, Galaxy A04, Galaxy A04s, Galaxy A04e. The rest match on specs: test before swapping. Coyo, GOLKI COVERS and ADI Creations on Flipkart list all nine models on one glass, but these are generic grab-bag listings that also name A12/A13/A23, so likely not full-cover: test fit. Displex sells one glass for the Galaxy A02, Galaxy A02s, Galaxy A03 and Galaxy A03s (displex.com). Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only). Bizon sells one glass for the Galaxy A12 and Galaxy M12 (Homescreen.pl). Deltaco sells one glass for the Galaxy A04s, Galaxy A12, Galaxy A13 5G and Galaxy A32 5G (deltaco.eu). MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass sells one glass for the Galaxy A32 5G and Galaxy M12 (panzerglass.com). PanzerGlass sells one glass for the Galaxy A04s and Galaxy A13 5G (MP.cz). Nillkin sells one glass for the Galaxy A04, Galaxy A04e and Galaxy A04s (Homescreen.pl)",
 "device": "Phone",
 "sources": [
 [
@@ -13814,101 +13830,6 @@
 "Displex: Galaxy A02/A02s A03/A03s",
 "https://www.displex.com/en/panzerglas/samsung-galaxy-a03-a03s-a02-a02s"
 ],
-[
-"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A13 5G/A04s",
-"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-5g-a04s-p-146134"
-],
-[
-"Homescreen.pl: Tempered glass Nillkin Amazing CP+ PRO Samsung Galaxy A04/A04S/A04e",
-"https://homescreen.pl/en/galaxy-a04s/52747-tempered-glass-nillkin-amazing-cp-pro-samsung-galaxy-a04-a04s-a04e-6902048255548.html"
-],
-[
-"Homescreen.pl: Tempered glass Nillkin Amazing H Samsung Galaxy A04/A04S/A04e",
-"https://homescreen.pl/en/galaxy-a04s/52744-tempered-glass-nillkin-amazing-h-samsung-galaxy-a04-a04s-a04e-6902048257696.html"
-]
-],
-"codes": [
-"SM-A025F, SM-A025F/DS, SM-A025G, SM-A025G/DS, SM-A025M, SM-A025M/DS, SM-A025U, SM-A025V, SM-A025A, SM-A025U1, SM-A025AZ, SM-S124DL",
-"SM-A022F, SM-A022F/DS, SM-A022M, SM-A022M/DS, SM-A022G, SM-A022G/DS",
-"SM-M025F/DS, SM-M025F",
-"SM-M022F, SM-M022F/DS, SM-M022G, SM-M022G/DS",
-"SM-E025F, SM-E025F/DS",
-"SM-A037F, SM-A037F/DS, SM-A037M, SM-A037G, SM-A037U, SM-S134DL, SM-A037W, SM-A037U1, SM-S135DL",
-"SM-A032F, SM-A032F/DS, SM-A032M",
-"SM-A035F, SM-A035F/DS, SM-A035M, SM-A035G",
-"SM-A136U, SM-A136U1, SM-A136W, SM-A136B, SM-S136DL",
-"SM-M136B, SM-M136B/DS",
-"SM-A045F, SM-A045F/DS, SM-A045M",
-"SM-A047F, SM-A047F/DS, SM-A047F/DSN, SM-A047M",
-"SM-A042F, SM-A042F/DS, SM-A042M, SM-A042M/DS",
-"SM-M045F, SM-M045F/DS",
-"SM-E045F, SM-E045F/DS"
-],
-"screens": [
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in",
-"6.5in"
-],
-"dims": [
-"164.2 x 75.9 x 9.1 mm",
-"164 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.5 x 76.5 x 8.8 mm",
-"164.5 x 76.5 x 8.8 mm",
-"164.4 x 76.3 x 9.1 mm",
-"164.7 x 76.7 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm",
-"164.2 x 75.9 x 9.1 mm"
-]
-},
-{
-"id": "SAM-1408",
-"brand": "Samsung",
-"brands": [
-"SAM"
-],
-"models": [
-"Galaxy A12",
-"Galaxy A32 5G",
-"Galaxy M12 (India)",
-"Galaxy F12",
-"Galaxy M12",
-"Galaxy A12 Nacho",
-"Galaxy A12 (India)",
-"Galaxy M32 5G"
-],
-"released": [
-"2020-11",
-"2021-01",
-"2021-02",
-"2021-04",
-"2021-04",
-"2021-08",
-"2021-08",
-"2021-08"
-],
-"check": "Check",
-"note": "Sellers confirm Galaxy A12, Galaxy A32 5G, Galaxy M12 (India), Galaxy F12, Galaxy M12, Galaxy A12 (India), Galaxy M32 5G. The rest match on specs: test before swapping. Many Flipkart sellers (VAlight, OVOG, Dashmesh, Amoha, Finaux, Matte Guard) sell one glass for A12, M12 and F12; Flipkart does not say which A12/M12 regional variant, and A12 Nacho is not named. Articona and Cellhelmet each sell one glass for the Galaxy A12 and A32 5G (OtterBox also sells an A12/A32 5G glass, seen in search only). Bizon sells one glass for the Galaxy A12 and Galaxy M12 (Homescreen.pl). MyScreen sells its Diamond Glass privacy tempered glass for A32 5G/M32 5G as one product (seen in search title; page blocked). PanzerGlass sells one glass for the Galaxy A32 5G and Galaxy M12 (panzerglass.com)",
-"device": "Phone",
-"sources": [
 [
 "Flipkart VAlight (F12/M12/A12)",
 "https://www.flipkart.com/valight-edge-tempered-glass-samsung-galaxy-f12-m12-a12/p/itm461ee444cfada"
@@ -13942,6 +13863,10 @@
 "https://homescreen.pl/en/galaxy-a12/92451-bizon-glass-clear-samsung-galaxy-a12-m12-5904665303832.html"
 ],
 [
+"Deltaco: Screen protector  Samsung Galaxy A04s/A12 4G/ A13 5G/A32 5G",
+"https://deltaco.eu/scrn-a12a32"
+],
+[
 "MediaMarkt PL (MyScreen Diamond Glass AntiSpy A32 5G/M32 5G)",
 "https://mediamarkt.pl/pl/product/_szklo-hartowane-myscreen-prywatyzujace-do-samsung-galaxy-a32-5g-m32-5g-diamond-glass-antispy-przezroczysty-181733617.html"
 ],
@@ -13956,19 +13881,61 @@
 [
 "PanzerGlass: PanzerGlass\u00ae Screen Protector Samsung Galaxy A32 5G | M12",
 "https://panzerglass.com/products/panzerglass-samsung-galaxy-a32-5g-cf-black"
+],
+[
+"MP.cz: Tvrzen\u00e9 sklo PanzerGlass Samsung Galaxy A13 5G/A04s",
+"https://www.mp.cz/tvrzene-sklo-panzerglass-samsung-galaxy-a13-5g-a04s-p-146134"
+],
+[
+"Homescreen.pl: Tempered glass Nillkin Amazing CP+ PRO Samsung Galaxy A04/A04S/A04e",
+"https://homescreen.pl/en/galaxy-a04s/52747-tempered-glass-nillkin-amazing-cp-pro-samsung-galaxy-a04-a04s-a04e-6902048255548.html"
+],
+[
+"Homescreen.pl: Tempered glass Nillkin Amazing H Samsung Galaxy A04/A04S/A04e",
+"https://homescreen.pl/en/galaxy-a04s/52744-tempered-glass-nillkin-amazing-h-samsung-galaxy-a04-a04s-a04e-6902048257696.html"
 ]
 ],
 "codes": [
+"SM-A025F, SM-A025F/DS, SM-A025G, SM-A025G/DS, SM-A025M, SM-A025M/DS, SM-A025U, SM-A025V, SM-A025A, SM-A025U1, SM-A025AZ, SM-S124DL",
 "SM-A125F/DSN, SM-A125F/DS, SM-A125F, SM-A125M, SM-A125U, SM-A125U1, SM-A125N, SM-A125W",
+"SM-A022F, SM-A022F/DS, SM-A022M, SM-A022M/DS, SM-A022G, SM-A022G/DS",
+"SM-M025F/DS, SM-M025F",
 "SM-A326B, SM-A326B/DS, SM-A326BR/DS, SM-A326BR, SM-A326U, SM-A326W, SM-A326U1, SM-A326K, SCG08, SM-S326DL",
+"SM-M022F, SM-M022F/DS, SM-M022G, SM-M022G/DS",
 "SM-M127F, SM-M127F/DS, SM-F127G, SM-F127G/DS, SM-M127G, SM-M127G/DS",
+"SM-E025F, SM-E025F/DS",
 "SM-F127G, SM-F127G/DS, SM-F127F, SM-F127F/DS",
 "SM-M127F, SM-M127F/DSN, SM-M127N",
 "SM-A127F/DSN, SM-A127F/DS, SM-A127F, SM-A127M, SM-A127U",
 "SM-A127F, SM-A127F/DS",
-"SM-M326B, SM-M326B/DS"
+"SM-A037F, SM-A037F/DS, SM-A037M, SM-A037G, SM-A037U, SM-S134DL, SM-A037W, SM-A037U1, SM-S135DL",
+"SM-M326B, SM-M326B/DS",
+"SM-A032F, SM-A032F/DS, SM-A032M",
+"SM-A035F, SM-A035F/DS, SM-A035M, SM-A035G",
+"SM-A136U, SM-A136U1, SM-A136W, SM-A136B, SM-S136DL",
+"SM-M136B, SM-M136B/DS",
+"SM-A045F, SM-A045F/DS, SM-A045M",
+"SM-A047F, SM-A047F/DS, SM-A047F/DSN, SM-A047M",
+"SM-A042F, SM-A042F/DS, SM-A042M, SM-A042M/DS",
+"SM-M045F, SM-M045F/DS",
+"SM-E045F, SM-E045F/DS"
 ],
 "screens": [
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
+"6.5in",
 "6.5in",
 "6.5in",
 "6.5in",
@@ -13979,18 +13946,33 @@
 "6.5in"
 ],
 "dims": [
+"164.2 x 75.9 x 9.1 mm",
 "164 x 75.8 x 8.9 mm",
+"164 x 75.9 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm",
 "164.2 x 76.1 x 9.1 mm",
+"164 x 75.9 x 9.1 mm",
 "164 x 75.9 x 9.7 mm",
+"164.2 x 75.9 x 9.1 mm",
 "164 x 75.9 x 9.7 mm",
 "164 x 75.9 x 9.7 mm",
 "164 x 75.8 x 8.9 mm",
 "164 x 75.8 x 8.9 mm",
-"164.2 x 76.1 x 9.1 mm"
+"164.2 x 75.9 x 9.1 mm",
+"164.2 x 76.1 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm",
+"164.5 x 76.5 x 8.8 mm",
+"164.5 x 76.5 x 8.8 mm",
+"164.4 x 76.3 x 9.1 mm",
+"164.7 x 76.7 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm",
+"164.2 x 75.9 x 9.1 mm"
 ]
 },
 {
-"id": "SAM-1409",
+"id": "SAM-1408",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14024,7 +14006,7 @@
 ]
 },
 {
-"id": "SAM-1410",
+"id": "SAM-1409",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14058,7 +14040,7 @@
 ]
 },
 {
-"id": "SAM-1411",
+"id": "SAM-1410",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14113,7 +14095,7 @@
 ]
 },
 {
-"id": "SAM-1412",
+"id": "SAM-1411",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14138,7 +14120,7 @@
 ]
 },
 {
-"id": "SAM-1413",
+"id": "SAM-1412",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14204,7 +14186,7 @@
 ]
 },
 {
-"id": "SAM-1414",
+"id": "SAM-1413",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14235,7 +14217,7 @@
 ]
 },
 {
-"id": "SAM-1415",
+"id": "SAM-1414",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14263,7 +14245,7 @@
 ]
 },
 {
-"id": "SAM-1416",
+"id": "SAM-1415",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14288,7 +14270,7 @@
 ]
 },
 {
-"id": "SAM-1417",
+"id": "SAM-1416",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14336,7 +14318,7 @@
 ]
 },
 {
-"id": "SAM-1418",
+"id": "SAM-1417",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14361,7 +14343,7 @@
 ]
 },
 {
-"id": "SAM-1419",
+"id": "SAM-1418",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14386,7 +14368,7 @@
 ]
 },
 {
-"id": "SAM-1420",
+"id": "SAM-1419",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14411,7 +14393,7 @@
 ]
 },
 {
-"id": "SAM-1421",
+"id": "SAM-1420",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14439,7 +14421,7 @@
 ]
 },
 {
-"id": "SAM-1422",
+"id": "SAM-1421",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14467,7 +14449,7 @@
 ]
 },
 {
-"id": "SAM-1423",
+"id": "SAM-1422",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14498,7 +14480,7 @@
 ]
 },
 {
-"id": "SAM-1424",
+"id": "SAM-1423",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14541,7 +14523,7 @@
 ]
 },
 {
-"id": "SAM-1425",
+"id": "SAM-1424",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14580,7 +14562,7 @@
 ]
 },
 {
-"id": "SAM-1426",
+"id": "SAM-1425",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14635,7 +14617,7 @@
 ]
 },
 {
-"id": "SAM-1427",
+"id": "SAM-1426",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14725,6 +14707,10 @@
 "https://homescreen.pl/en/galaxy-a23-5g/92647-bizon-glass-clear-2-samsung-galaxy-a23-4g-5g-5904665365922.html"
 ],
 [
+"Deltaco: Screen protector for Samsung Galaxy A23 4G/5G",
+"https://deltaco.eu/scrn-a23"
+],
+[
 "Flipkart MD care (A23/M23/F23/M33/M13 4G)",
 "https://www.flipkart.com/md-care-edge-tempered-glass-samsung-a23-m23-f23-m33-m13-4g-2-5d-curved-premium-ultimate-protection/p/itm80d6e17e4e64f"
 ],
@@ -14775,7 +14761,7 @@
 ]
 },
 {
-"id": "SAM-1428",
+"id": "SAM-1427",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14810,7 +14796,7 @@
 ]
 },
 {
-"id": "SAM-1429",
+"id": "SAM-1428",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14835,7 +14821,7 @@
 ]
 },
 {
-"id": "SAM-1430",
+"id": "SAM-1429",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14860,7 +14846,7 @@
 ]
 },
 {
-"id": "SAM-1431",
+"id": "SAM-1430",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14901,7 +14887,7 @@
 ]
 },
 {
-"id": "SAM-1432",
+"id": "SAM-1431",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14929,7 +14915,7 @@
 ]
 },
 {
-"id": "SAM-1433",
+"id": "SAM-1432",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -14972,7 +14958,7 @@
 ]
 },
 {
-"id": "SAM-1434",
+"id": "SAM-1433",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15026,7 +15012,7 @@
 ]
 },
 {
-"id": "SAM-1435",
+"id": "SAM-1434",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15070,7 +15056,7 @@
 ]
 },
 {
-"id": "SAM-1436",
+"id": "SAM-1435",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15109,7 +15095,7 @@
 ]
 },
 {
-"id": "SAM-1437",
+"id": "SAM-1436",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15157,7 +15143,7 @@
 ]
 },
 {
-"id": "SAM-1438",
+"id": "SAM-1437",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15201,7 +15187,7 @@
 ]
 },
 {
-"id": "SAM-1439",
+"id": "SAM-1438",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15226,7 +15212,7 @@
 ]
 },
 {
-"id": "SAM-1440",
+"id": "SAM-1439",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15278,7 +15264,7 @@
 ]
 },
 {
-"id": "SAM-1441",
+"id": "SAM-1440",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15338,7 +15324,7 @@
 ]
 },
 {
-"id": "SAM-1442",
+"id": "SAM-1441",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15501,7 +15487,7 @@
 ]
 },
 {
-"id": "SAM-1443",
+"id": "SAM-1442",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15547,7 +15533,7 @@
 ]
 },
 {
-"id": "SAM-1444",
+"id": "SAM-1443",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15586,7 +15572,7 @@
 ]
 },
 {
-"id": "SAM-1445",
+"id": "SAM-1444",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15642,7 +15628,7 @@
 ]
 },
 {
-"id": "SAM-1446",
+"id": "SAM-1445",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15689,7 +15675,7 @@
 ]
 },
 {
-"id": "SAM-1447",
+"id": "SAM-1446",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15714,7 +15700,7 @@
 ]
 },
 {
-"id": "SAM-1448",
+"id": "SAM-1447",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15759,7 +15745,7 @@
 ]
 },
 {
-"id": "SAM-1449",
+"id": "SAM-1448",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15809,7 +15795,7 @@
 ]
 },
 {
-"id": "SAM-1450",
+"id": "SAM-1449",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15837,7 +15823,7 @@
 ]
 },
 {
-"id": "SAM-1451",
+"id": "SAM-1450",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15865,7 +15851,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy S24 FE, Galaxy A36, Galaxy A56, Galaxy M56, Galaxy S25 FE, Galaxy A37, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). Displex sells one glass for the Galaxy S24 FE and Galaxy S25 FE (displex.com). PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. 3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl). OtterBox lists A36/A56; retailer lists A37 too. Samsung sells its own A57 glass",
+"note": "Sellers confirm Galaxy S24 FE, Galaxy A36, Galaxy A56, Galaxy M56, Galaxy S25 FE, Galaxy A37, Galaxy A57, Galaxy S26 FE. The rest match on specs: test before swapping. PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product). Displex sells one glass for the Galaxy S24 FE and Galaxy S25 FE (displex.com). Linocell (Kjell & Company) sells one glass for the Galaxy A36, Galaxy A56, Galaxy A57 and Galaxy S24 FE (kjell.com). Tech-Protect sells one glass for the Galaxy A36, Galaxy A37, Galaxy A56, Galaxy S24 FE, Galaxy S25 FE and Galaxy S26 FE (tech-protect.eu). Tech-Protect sells one glass for the Galaxy A36 and Galaxy A56 (tech-protect.eu). PanzerGlass PG35953 Ultra-Wide Fit is sold for S25 FE and M56 5G together. Cellularline sells one Impact Glass for the Galaxy A57, S25 FE and S26 FE. 3MK sells one glass for the Galaxy S25 FE and Galaxy S26 FE (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A37 and Galaxy A57 (tech-protect.eu). OtterBox lists A36/A56; retailer lists A37 too. Samsung sells its own A57 glass",
 "device": "Phone",
 "sources": [
 [
@@ -15897,8 +15883,24 @@
 "https://panzerglass.com/products/safe-by-panzerglass%C2%AE-screen-protector-samsung-galaxy-s24-fe-5g-a36-5g-a56-5g-ultra-wide-fit"
 ],
 [
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK GALAXY A36 / A56 / S24 FE 5G BLACK",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a36-a56-s24-fe-5g-black-170296.html"
+],
+[
 "Displex: Samsung Galaxy S24FE/S25 FE",
 "https://www.displex.com/en/panzerglas/samsung-galaxy-s24fe/s25-fe"
+],
+[
+"Kjell & Company: Linocell Elite Extreme Sk\u00e4rmskydd f\u00f6r Samsung S24 FE, A36, A56 & A57",
+"https://www.kjell.com/se/produkter/mobilt/skarmskydd/skarmskydd-till-samsung/skarmskydd-till-galaxy-s24-fe/linocell-elite-extreme-skarmskydd-for-samsung-s24-fe-a36-a56-a57-p24474"
+],
+[
+"Tech-Protect: Tech-Protect Glass Galaxy A36/Galaxy A37/Galaxy A56/Galaxy S24 FE/Galaxy S25 FE/Galaxy S26 FE",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a36-a37-a56-s24-fe-s25-fe-s26-fe-clear-191850.html"
+],
+[
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS SET+ 3-PACK GALAXY A36 / A56 5G CLEAR",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-set-3-pack-galaxy-a36-a56-5g-clear-170308.html"
 ],
 [
 "Digitec (PanzerGlass)",
@@ -15923,6 +15925,10 @@
 [
 "Homescreen.pl: 3MK HardGlass Max Samsung Galaxy S25 FE / S26 FE black",
 "https://homescreen.pl/en/galaxy-s25-fe/150887-3mk-hardglass-max-samsung-galaxy-s25-fe-s26-fe-black-5903108789318.html"
+],
+[
+"Tech-Protect: Tech-Protect Glass Galaxy A37/Galaxy A57",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a37-a57-5g-clear-185760.html"
 ]
 ],
 "codes": [
@@ -15960,7 +15966,7 @@
 ]
 },
 {
-"id": "SAM-1452",
+"id": "SAM-1451",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -15994,7 +16000,7 @@
 "2026-09"
 ],
 "check": "Check",
-"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED). PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz). Displex sells one glass for the Galaxy A16 5G, Galaxy A17 and Galaxy A18 (displex.com). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED). ZAGG, PanzerGlass list",
+"note": "Sellers confirm Galaxy A16 5G, Galaxy A16, Galaxy M16, Galaxy A26, Galaxy F16, Galaxy M36, Galaxy A17, Galaxy A17 4G, Galaxy M17, Galaxy A18. The rest match on specs: test before swapping. Coolblue lists one glass for A16 4G/5G and A17 4G/5G; ZAGG and PanzerGlass also pair A16 and A17. Bizon sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17 and Galaxy A26 (Homescreen.pl). MyScreen sells one glass for the Galaxy A16 and Galaxy A16 5G (Homescreen.pl). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A17 4G and Galaxy A26 (Hurtel). FIXED sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A26 (FIXED). PanzerGlass sells one glass for the Galaxy A16, Galaxy A16 5G and Galaxy A17 (MP.cz). Displex sells one glass for the Galaxy A16 5G, Galaxy A17 and Galaxy A18 (displex.com). Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A18 and Galaxy A26 (tech-protect.eu). Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl). Bizon sells one glass for the Galaxy A16 and Galaxy A17 (Homescreen.pl). PanzerGlass Ultra-Wide Fit is listed for M17 5G, M36, A17 4G/5G, M16, F16 and A26 5G on one SKU. Coolblue's BlueBuilt glass is listed as suitable for the Galaxy A17 4G, A17 5G and A18. FIXED and PanzerGlass sell one glass for the Galaxy A17 and Galaxy A18 (FIXED). ZAGG, PanzerGlass list",
 "device": "Phone",
 "sources": [
 [
@@ -16078,8 +16084,16 @@
 "https://www.displex.com/en/panzerglas/samsung-galaxy-a16-5g/a17-4g/5g/a18"
 ],
 [
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK GALAXY A16 / A17 / A18 / A26 4G / 5G BLACK",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a16-a17-a18-a26-4g-5g-black-179553.html"
+],
+[
 "Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
 "https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
+],
+[
+"Kjell & Company: Linocell Elite Extreme Sk\u00e4rmskydd f\u00f6r Samsung A16, A17 och A26",
+"https://www.kjell.com/se/produkter/mobilt/skarmskydd/skarmskydd-till-samsung/skarmskydd-till-galaxy-a16/linocell-elite-extreme-skarmskydd-for-samsung-a16-a17-och-a26-p24498"
 ],
 [
 "Homescreen.pl: Bizon Glass Aplikator Shadow Samsung Galaxy A16 / A17",
@@ -16178,7 +16192,7 @@
 ]
 },
 {
-"id": "SAM-1453",
+"id": "SAM-1452",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16206,7 +16220,7 @@
 ]
 },
 {
-"id": "SAM-1454",
+"id": "SAM-1453",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16248,7 +16262,7 @@
 ]
 },
 {
-"id": "SAM-1455",
+"id": "SAM-1454",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16286,7 +16300,7 @@
 ]
 },
 {
-"id": "SAM-1456",
+"id": "SAM-1455",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16345,7 +16359,7 @@
 ]
 },
 {
-"id": "SAM-1457",
+"id": "SAM-1456",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16396,7 +16410,7 @@
 ]
 },
 {
-"id": "SAM-1458",
+"id": "SAM-1457",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16424,7 +16438,7 @@
 ]
 },
 {
-"id": "SAM-1459",
+"id": "SAM-1458",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16458,7 +16472,7 @@
 ]
 },
 {
-"id": "SAM-1460",
+"id": "SAM-1459",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16497,7 +16511,7 @@
 ]
 },
 {
-"id": "SAM-1461",
+"id": "SAM-1460",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16531,7 +16545,7 @@
 ]
 },
 {
-"id": "SAM-1462",
+"id": "SAM-1461",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16566,7 +16580,7 @@
 ]
 },
 {
-"id": "SAM-1463",
+"id": "SAM-1462",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16591,7 +16605,7 @@
 ]
 },
 {
-"id": "SAM-1464",
+"id": "SAM-1463",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16622,7 +16636,7 @@
 ]
 },
 {
-"id": "SAM-1465",
+"id": "SAM-1464",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16644,7 +16658,7 @@
 ]
 },
 {
-"id": "SAM-1466",
+"id": "SAM-1465",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16666,7 +16680,7 @@
 ]
 },
 {
-"id": "SAM-1467",
+"id": "SAM-1466",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16688,7 +16702,7 @@
 ]
 },
 {
-"id": "SAM-1468",
+"id": "SAM-1467",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -16704,7 +16718,7 @@
 "device": "Phone"
 },
 {
-"id": "SAM-1469",
+"id": "SAM-1468",
 "brand": "Samsung",
 "brands": [
 "SAM"
@@ -55304,6 +55318,10 @@
 "https://www.mp.cz/tvrzene-sklo-panzerglass-safe-motorola-g57-power-g57-g67-power-p-289221"
 ],
 [
+"Tech-Protect: Tech-Protect Glass Moto G57/Moto G57 Power/Moto G67 Power",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-motorola-moto-g57-g57-power-g67-power-black-187687.html"
+],
+[
 "MyScreen Diamond Glass (Home Screen)",
 "https://homescreen.pl/en/741-moto-g50-series"
 ],
@@ -57650,8 +57668,8 @@
 "2026-01",
 "2026-02"
 ],
-"check": "Check",
-"note": "Sellers confirm Moto G15, Moto G15 Power, Moto G05, Moto E15, Moto G56; Moto G17 Power, Moto G17. The rest match on specs: test before swapping. 3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl). Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G15 and Moto G15 Power (Hurtel). FIXED sells one glass for the Moto E15 and Moto G05 (FIXED). Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
+"check": "Confirmed",
+"note": "3MK, Tech-Protect and Hofi each sell one glass for G15, G15 Power, G05 and E15. Bizon sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power and Moto G56 (Homescreen.pl). Bizon sells one glass for the Moto E15, Moto G15 and Moto G15 Power (Homescreen.pl). 3MK sells one hybrid glass for the Moto G15 and Moto G15 Power (Hurtel). Tech-Protect sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power, Moto G17 and Moto G17 Power (tech-protect.eu). FIXED sells one glass for the Moto E15 and Moto G05 (FIXED). Just in Case (Coolblue) and MobyDefend (MediaMarkt) sell one glass for G17 and G17 Power",
 "device": "Phone",
 "sources": [
 [
@@ -57693,6 +57711,10 @@
 [
 "Hurtel: Hybrid Glass 3mk FlexibleGlass\u2122 for Motorola Moto G15 / G15 Power",
 "https://hurtel.com/en/products/hybrid-glass-3mk-flexibleglass-tm-for-motorola-moto-g15-g15-power-187904"
+],
+[
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK MOTOROLA MOTO G15 / G15 POWER /  G17 / G17 POWER / G05 / E15 BLACK",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-motorola-moto-g15-g15-power-g17-g17-power-g05-e15-black-168336.html"
 ],
 [
 "FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED Full-Cover pro Motorola Moto G05/E15, \u010dern\u00e9",
@@ -60955,6 +60977,10 @@
 [
 "Homescreen.pl: 3MK HardGlass Max Lite Redmi 8/8A black",
 "https://homescreen.pl/en/redmi-8/15741-3mk-hardglass-max-lite-redmi-88a-black-5903108207218.html"
+],
+[
+"Deltaco: Screen protector for Xiaomi Redmi 8/8 A, 2.5D tempered glass, 9H hardness",
+"https://deltaco.eu/scrn-redmi8"
 ]
 ],
 "codes": [
@@ -64179,7 +64205,7 @@
 "2025-01"
 ],
 "check": "Check",
-"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+. PanzerGlass sells one glass for the Redmi Note 13 Pro+, Redmi Note 14 Pro and Redmi Note 14 Pro+ 5G (MP.cz). 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass. PanzerGlass sells one glass for the Redmi Note 14 Pro, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (MP.cz)",
+"note": "Sellers confirm Redmi Note 13 Pro+, Redmi Note 14 Pro 5G, Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro, Poco X7, Redmi Note 14 Pro 4G. The rest match on specs: test before swapping. PanzerGlass (LMT) lists Redmi Note 14 Pro/Pro+ and 13 Pro+; Displex sells one full-cover glass for Note 13 Pro+ / Note 14 Pro+. Curved screens. PanzerGlass sells one glass for the Redmi Note 14 Pro 5G, 14 Pro+ and 13 Pro+. PanzerGlass sells one glass for the Redmi Note 13 Pro+, Redmi Note 14 Pro and Redmi Note 14 Pro+ 5G (MP.cz). 3MK HardGlass Max is sold for Redmi Note 14 Pro 4G / 5G / Pro+; MyScreen 3D lists 14 Pro / 14 Pro+. Curved screens: full-cover glass. PanzerGlass sells one glass for the Redmi Note 14 Pro, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (MP.cz). Tech-Protect sells one glass for the Poco X7, Redmi Note 14 Pro 4G, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (tech-protect.eu)",
 "device": "Phone",
 "sources": [
 [
@@ -64225,6 +64251,10 @@
 [
 "MP.cz: Tvrzen\u00e9 sklo PanzerGlass Xiaomi Redmi Note 14 Pro/14 Pro 5G/14 Pro+ 5G",
 "https://www.mp.cz/tvrzene-sklo-panzerglass-xiaomi-redmi-note-14-pro-14-pro-5g-14-pro-5g-p-268108"
+],
+[
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS UV+ 2-PACK XIAOMI REDMI NOTE 14 PRO 4G / 5G / 14 PRO+ PLUS 5G / POCO X7 5G CLEAR",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-uv-2-pack-xiaomi-redmi-note-14-pro-4g-5g-14-pro-plus-5g-poco-x7-5g-clear-167133.html"
 ]
 ],
 "codes": [
@@ -64955,6 +64985,10 @@
 "https://homescreen.pl/en/redmi-note-14/119406-bizon-glass-clear-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-2-pack-5900415718208.html"
 ],
 [
+"Tech-Protect: SZK\u0141O HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK XIAOMI REDMI NOTE 14 4G / 5G / POCO M7 PRO 5G BLACK",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-black-168337.html"
+],
+[
 "Homescreen.pl: MyScreen Diamond Glass Edge Lite Full Glue Xiaomi Redmi Note 14 4G / 5G black",
 "https://homescreen.pl/en/redmi-note-14/139820-myscreen-diamond-glass-edge-lite-full-glue-xiaomi-redmi-note-14-4g-5g-black-5904433245715.html"
 ],
@@ -65433,21 +65467,27 @@
 ],
 "models": [
 "Redmi Note 15 Pro",
+"Redmi Note 15 Pro 5G",
 "Redmi Note 17 Pro",
 "Redmi Note 17 Pro Max"
 ],
 "released": [
 "2025-08",
+"2025-12",
 "2026-09",
 "2026-09"
 ],
 "check": "Confirmed",
-"note": "Spigen sells one glass for the Redmi Note 15 Pro, Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel). Tech-Protect sells one glass for the Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel)",
+"note": "Spigen sells one glass for the Redmi Note 15 Pro, Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel). Tech-Protect sells one glass for the Redmi Note 15 Pro 5G, Redmi Note 17 Pro and Redmi Note 17 Pro Max (tech-protect.eu). Tech-Protect sells one glass for the Redmi Note 17 Pro and Redmi Note 17 Pro Max (Hurtel)",
 "device": "Phone",
 "sources": [
 [
 "Hurtel: Spigen Glas.tR Slim 2-Pack Tempered Glass for Xiaomi Redmi Note 15 Pro / 17 Pro / 17 Pro Max 5G",
 "https://hurtel.com/en/products/spigen-glas-tr-slim-2-pack-tempered-glass-for-xiaomi-redmi-note-15-pro-17-pro-17-pro-max-5g-216911"
+],
+[
+"Tech-Protect: Tech-Protect Glass Redmi Note 15 Pro 5G/Redmi Note 17 Pro/Redmi Note 17 Pro Max",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-redmi-note-15-pro-17-pro-17-pro-max-5g-clear-194503.html"
 ],
 [
 "Hurtel: Tech-Protect Glass Fit+ 2-Pack Tempered Glass for Xiaomi Redmi Note 17 Pro 5G / Pro Max 5G",
@@ -65457,14 +65497,17 @@
 "codes": [
 "25060RABDG, 25080RABDG",
 "",
+"",
 ""
 ],
 "screens": [
 "6.83in",
 "6.83in",
+"6.83in",
 "6.83in"
 ],
 "dims": [
+"163.6 x 78.1 x 8 mm",
 "163.6 x 78.1 x 8 mm",
 "163.45 x 78.27 x 8.6 mm",
 "163.44 x 78.27 x 8.65 mm"
@@ -65963,28 +66006,6 @@
 "XIA"
 ],
 "models": [
-"Redmi Note 15 Pro 5G"
-],
-"released": [
-"2025-12"
-],
-"check": "Check",
-"note": "",
-"device": "Phone",
-"screens": [
-"6.83in"
-],
-"dims": [
-"163.6 x 78.1 x 8 mm"
-]
-},
-{
-"id": "XIA-1182",
-"brand": "Xiaomi / Redmi / Poco",
-"brands": [
-"XIA"
-],
-"models": [
 "Redmi Note 15 Pro 4G"
 ],
 "released": [
@@ -66004,7 +66025,7 @@
 ]
 },
 {
-"id": "XIA-1183",
+"id": "XIA-1182",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66032,7 +66053,7 @@
 ]
 },
 {
-"id": "XIA-1184",
+"id": "XIA-1183",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66081,7 +66102,7 @@
 ]
 },
 {
-"id": "XIA-1185",
+"id": "XIA-1184",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66151,7 +66172,7 @@
 ]
 },
 {
-"id": "XIA-1186",
+"id": "XIA-1185",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66182,7 +66203,7 @@
 ]
 },
 {
-"id": "XIA-1187",
+"id": "XIA-1186",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66204,7 +66225,7 @@
 ]
 },
 {
-"id": "XIA-1188",
+"id": "XIA-1187",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66229,7 +66250,7 @@
 ]
 },
 {
-"id": "XIA-1189",
+"id": "XIA-1188",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66251,7 +66272,7 @@
 ]
 },
 {
-"id": "XIA-1190",
+"id": "XIA-1189",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66279,7 +66300,7 @@
 ]
 },
 {
-"id": "XIA-1191",
+"id": "XIA-1190",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66310,7 +66331,7 @@
 ]
 },
 {
-"id": "XIA-1192",
+"id": "XIA-1191",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66341,7 +66362,7 @@
 ]
 },
 {
-"id": "XIA-1193",
+"id": "XIA-1192",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66357,7 +66378,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1194",
+"id": "XIA-1193",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66382,7 +66403,7 @@
 ]
 },
 {
-"id": "XIA-1195",
+"id": "XIA-1194",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66410,7 +66431,7 @@
 ]
 },
 {
-"id": "XIA-1196",
+"id": "XIA-1195",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66438,7 +66459,7 @@
 ]
 },
 {
-"id": "XIA-1197",
+"id": "XIA-1196",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66466,7 +66487,7 @@
 ]
 },
 {
-"id": "XIA-1198",
+"id": "XIA-1197",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66488,7 +66509,7 @@
 ]
 },
 {
-"id": "XIA-1199",
+"id": "XIA-1198",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66510,7 +66531,7 @@
 ]
 },
 {
-"id": "XIA-1200",
+"id": "XIA-1199",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66532,7 +66553,7 @@
 ]
 },
 {
-"id": "XIA-1201",
+"id": "XIA-1200",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66554,7 +66575,7 @@
 ]
 },
 {
-"id": "XIA-1202",
+"id": "XIA-1201",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66576,7 +66597,7 @@
 ]
 },
 {
-"id": "XIA-1203",
+"id": "XIA-1202",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66604,7 +66625,7 @@
 ]
 },
 {
-"id": "XIA-1204",
+"id": "XIA-1203",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66632,7 +66653,7 @@
 ]
 },
 {
-"id": "XIA-1205",
+"id": "XIA-1204",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66651,7 +66672,7 @@
 ]
 },
 {
-"id": "XIA-1206",
+"id": "XIA-1205",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66673,7 +66694,7 @@
 ]
 },
 {
-"id": "XIA-1207",
+"id": "XIA-1206",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66689,7 +66710,7 @@
 "device": "Phone"
 },
 {
-"id": "XIA-1208",
+"id": "XIA-1207",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66711,7 +66732,7 @@
 ]
 },
 {
-"id": "XIA-1209",
+"id": "XIA-1208",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66733,7 +66754,7 @@
 ]
 },
 {
-"id": "XIA-1210",
+"id": "XIA-1209",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -66755,7 +66776,7 @@
 ]
 },
 {
-"id": "XIA-1211",
+"id": "XIA-1210",
 "brand": "Xiaomi / Redmi / Poco",
 "brands": [
 "XIA"
@@ -67183,6 +67204,10 @@
 [
 "FIXED: Ochrann\u00e9 tvrzen\u00e9 sklo FIXED pro Xiaomi Pad 8/8Pro/7/7Pro , \u010dir\u00e9",
 "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-pad-7-7pro-cire"
+],
+[
+"Tech-Protect: Tech-Protect Glass Xiaomi Pad 7/Xiaomi Pad 7 Pro/Xiaomi Pad 8/Xiaomi Pad 8 Pro",
+"https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-pad-7-7-pro-8-8-pro-11-2-clear-186526.html"
 ],
 [
 "Homescreen.pl: Tech-Protect Glass Fit+ Xiaomi Pad 8 / 8 Pro / 7 / 7 Pro 11.2 Clear [2 PACK]",

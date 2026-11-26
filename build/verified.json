@@ -463,6 +463,10 @@
    {
     "name": "FIXED: Ochranné tvrzené sklo FIXED pro Xiaomi Pad 8/8Pro/7/7Pro , čiré",
     "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-pro-xiaomi-pad-7-7pro-cire"
+   },
+   {
+    "name": "Tech-Protect: Tech-Protect Glass Xiaomi Pad 7/Xiaomi Pad 7 Pro/Xiaomi Pad 8/Xiaomi Pad 8 Pro",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-pad-7-7-pro-8-8-pro-11-2-clear-186526.html"
    }
   ],
   "note": "Tech-Protect sells one glass for Pad 7, 7 Pro, 8 and 8 Pro, and homescreen.pl files them in one category; Xiaomi's own Pad 7 glass does not name the Pad 8."
@@ -7149,6 +7153,10 @@
    {
     "name": "PanzerGlass: SAFE. by PanzerGlass® Screen Protector Samsung Galaxy S24 FE | A36 5G | A56 5G | Ultra-Wide Fit",
     "url": "https://panzerglass.com/products/safe-by-panzerglass%C2%AE-screen-protector-samsung-galaxy-s24-fe-5g-a36-5g-a56-5g-ultra-wide-fit"
+   },
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK GALAXY A36 / A56 / S24 FE 5G BLACK",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a36-a56-s24-fe-5g-black-170296.html"
    }
   ],
   "note": "PanzerGlass sells one Ultra-Wide Fit glass for the Galaxy S24 FE, A36 and A56 together (read via a distributor listing of the PanzerGlass product)."
@@ -14631,6 +14639,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Clear Duo Xiaomi Redmi Note 14 4G / 5G / POCO M7 Pro 5G [2 PACK]",
     "url": "https://homescreen.pl/en/redmi-note-14/119406-bizon-glass-clear-duo-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-2-pack-5900415718208.html"
+   },
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK XIAOMI REDMI NOTE 14 4G / 5G / POCO M7 PRO 5G BLACK",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-redmi-note-14-4g-5g-poco-m7-pro-5g-black-168337.html"
    }
   ],
   "note": "Bizon Clear and Edge glass are sold for Redmi Note 14 4G / 5G / Poco M7 Pro 5G; MyScreen also lists Note 14 4G / 5G."
@@ -15398,6 +15410,10 @@
    {
     "name": "Homescreen.pl: 3MK HardGlass Max Lite Redmi 8/8A black",
     "url": "https://homescreen.pl/en/redmi-8/15741-3mk-hardglass-max-lite-redmi-88a-black-5903108207218.html"
+   },
+   {
+    "name": "Deltaco: Screen protector for Xiaomi Redmi 8/8 A, 2.5D tempered glass, 9H hardness",
+    "url": "https://deltaco.eu/scrn-redmi8"
    }
   ],
   "note": "3MK HardGlass Max Lite is sold for Redmi 8 / 8A as one product."
@@ -17037,6 +17053,10 @@
    {
     "name": "Homescreen.pl: Crong 3D Armour Glass Lite Samsung Galaxy A16 / A17 / A26",
     "url": "https://homescreen.pl/en/galaxy-a16-4g-5g/134415-crong-3d-armour-glass-lite-samsung-galaxy-a16-a17-a26-5904310706407.html"
+   },
+   {
+    "name": "Kjell & Company: Linocell Elite Extreme Skärmskydd för Samsung A16, A17 och A26",
+    "url": "https://www.kjell.com/se/produkter/mobilt/skarmskydd/skarmskydd-till-samsung/skarmskydd-till-galaxy-a16/linocell-elite-extreme-skarmskydd-for-samsung-a16-a17-och-a26-p24498"
    }
   ],
   "note": "Crong sells one glass for the Galaxy A16, Galaxy A17 and Galaxy A26 (Homescreen.pl)."
@@ -17075,6 +17095,10 @@
    {
     "name": "Homescreen.pl: Bizon Glass Clear 2 Samsung Galaxy A23 4G / 5G",
     "url": "https://homescreen.pl/en/galaxy-a23-5g/92647-bizon-glass-clear-2-samsung-galaxy-a23-4g-5g-5904665365922.html"
+   },
+   {
+    "name": "Deltaco: Screen protector for Samsung Galaxy A23 4G/5G",
+    "url": "https://deltaco.eu/scrn-a23"
    }
   ],
   "note": "Bizon sells one glass for the Galaxy A23 and Galaxy A23 5G (Homescreen.pl)."
@@ -18734,6 +18758,10 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass SAFE Motorola G57 Power/G57/G67 Power",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-safe-motorola-g57-power-g57-g67-power-p-289221"
+   },
+   {
+    "name": "Tech-Protect: Tech-Protect Glass Moto G57/Moto G57 Power/Moto G67 Power",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-motorola-moto-g57-g57-power-g67-power-black-187687.html"
    }
   ],
   "note": "PanzerGlass sells one glass for the Moto G57, Moto G57 Power and Moto G67 Power (MP.cz)."
@@ -19693,5 +19721,149 @@
    }
   ],
   "note": "PanzerGlass sells one glass for the Oppo Reno13, Oppo Reno14 and Oppo Reno14 F (panzerglass.com)."
+ },
+ {
+  "models": [
+   "Galaxy A04s",
+   "Galaxy A12",
+   "Galaxy A13 5G",
+   "Galaxy A32 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Deltaco: Screen protector  Samsung Galaxy A04s/A12 4G/ A13 5G/A32 5G",
+    "url": "https://deltaco.eu/scrn-a12a32"
+   }
+  ],
+  "note": "Deltaco sells one glass for the Galaxy A04s, Galaxy A12, Galaxy A13 5G and Galaxy A32 5G (deltaco.eu)."
+ },
+ {
+  "models": [
+   "Galaxy A36",
+   "Galaxy A56",
+   "Galaxy A57",
+   "Galaxy S24 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Kjell & Company: Linocell Elite Extreme Skärmskydd för Samsung S24 FE, A36, A56 & A57",
+    "url": "https://www.kjell.com/se/produkter/mobilt/skarmskydd/skarmskydd-till-samsung/skarmskydd-till-galaxy-s24-fe/linocell-elite-extreme-skarmskydd-for-samsung-s24-fe-a36-a56-a57-p24474"
+   }
+  ],
+  "note": "Linocell (Kjell & Company) sells one glass for the Galaxy A36, Galaxy A56, Galaxy A57 and Galaxy S24 FE (kjell.com)."
+ },
+ {
+  "models": [
+   "Poco X7",
+   "Redmi Note 14 Pro 4G",
+   "Redmi Note 14 Pro 5G",
+   "Redmi Note 14 Pro+ 5G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS UV+ 2-PACK XIAOMI REDMI NOTE 14 PRO 4G / 5G / 14 PRO+ PLUS 5G / POCO X7 5G CLEAR",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-uv-2-pack-xiaomi-redmi-note-14-pro-4g-5g-14-pro-plus-5g-poco-x7-5g-clear-167133.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Poco X7, Redmi Note 14 Pro 4G, Redmi Note 14 Pro 5G and Redmi Note 14 Pro+ 5G (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Moto E15",
+   "Moto G05",
+   "Moto G15",
+   "Moto G15 Power",
+   "Moto G17",
+   "Moto G17 Power"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK MOTOROLA MOTO G15 / G15 POWER /  G17 / G17 POWER / G05 / E15 BLACK",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-motorola-moto-g15-g15-power-g17-g17-power-g05-e15-black-168336.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Moto E15, Moto G05, Moto G15, Moto G15 Power, Moto G17 and Moto G17 Power (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Galaxy A36",
+   "Galaxy A56"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS SET+ 3-PACK GALAXY A36 / A56 5G CLEAR",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-set-3-pack-galaxy-a36-a56-5g-clear-170308.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Galaxy A36 and Galaxy A56 (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A17",
+   "Galaxy A18",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: SZKŁO HARTOWANE TECH-PROTECT GLASS FIT+ 2-PACK GALAXY A16 / A17 / A18 / A26 4G / 5G BLACK",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a16-a17-a18-a26-4g-5g-black-179553.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Galaxy A16, Galaxy A16 5G, Galaxy A17, Galaxy A18 and Galaxy A26 (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Galaxy A37",
+   "Galaxy A57"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: Tech-Protect Glass Galaxy A37/Galaxy A57",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a37-a57-5g-clear-185760.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Galaxy A37 and Galaxy A57 (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Galaxy A36",
+   "Galaxy A37",
+   "Galaxy A56",
+   "Galaxy S24 FE",
+   "Galaxy S25 FE",
+   "Galaxy S26 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: Tech-Protect Glass Galaxy A36/Galaxy A37/Galaxy A56/Galaxy S24 FE/Galaxy S25 FE/Galaxy S26 FE",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-galaxy-a36-a37-a56-s24-fe-s25-fe-s26-fe-clear-191850.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Galaxy A36, Galaxy A37, Galaxy A56, Galaxy S24 FE, Galaxy S25 FE and Galaxy S26 FE (tech-protect.eu)."
+ },
+ {
+  "models": [
+   "Redmi Note 15 Pro 5G",
+   "Redmi Note 17 Pro",
+   "Redmi Note 17 Pro Max"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Tech-Protect: Tech-Protect Glass Redmi Note 15 Pro 5G/Redmi Note 17 Pro/Redmi Note 17 Pro Max",
+    "url": "https://tech-protect.eu/pl/products/szklo-hartowane-tech-protect-glass-fit-2-pack-xiaomi-redmi-note-15-pro-17-pro-17-pro-max-5g-clear-194503.html"
+   }
+  ],
+  "note": "Tech-Protect sells one glass for the Redmi Note 15 Pro 5G, Redmi Note 17 Pro and Redmi Note 17 Pro Max (tech-protect.eu)."
  }
 ]
