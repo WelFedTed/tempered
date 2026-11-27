@@ -25545,6 +25545,10 @@
    {
     "name": "Lux-case: AMORUS arch edge Xiaomi Redmi K70 Pro / Xiaomi Redmi K70 tempered glass screen protector",
     "url": "https://lux-case.co.uk/products/amorus-arch-edge-xiaomi-redmi-k70-pro-xiaomi-redmi-k70-tempered-glass-screen-protector-lcs24-274-693"
+   },
+   {
+    "name": "Vopmart: Nillkin CP+ Pro Tempered Glass for Redmi K70 / K70 Pro",
+    "url": "https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-redmi-k70-pro.html"
    }
   ],
   "note": "Amorus, Mocolo sell one tempered glass for the Redmi K70, Redmi K70 Pro (Lux-case)."
@@ -25932,5 +25936,125 @@
    }
   ],
   "note": "Glass is sold for the ZTE Blade V80 Max alone (Imak, Lux-case)."
+ },
+ {
+  "models": [
+   "Poco X4 Pro 5G",
+   "Redmi Note 11 Pro+ 5G",
+   "Redmi Note 12 Pro 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "SBS: Glass screen protector Xiaomi Redmi Note 11 Pro-Plus/Poco X4 Pro/Note 12 Pro 4G",
+    "url": "https://www.sbsmobile.com/products/glass-screen-protector-full-cover-per-xiaomi-redmi-note-11-pro-11-pro-plus-x4-pro-note-12-pro-4g"
+   }
+  ],
+  "note": "SBS sells one 4D full-glass protector for the Redmi Note 11 Pro+, Poco X4 Pro and Redmi Note 12 Pro 4G."
+ },
+ {
+  "models": [
+   "Redmi K80",
+   "Redmi K80 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Vopmart: Nillkin CP+ Pro Tempered Glass for Xiaomi Redmi K80 / K80 Pro",
+    "url": "https://www.vopmart.com/pb1020610.html"
+   }
+  ],
+  "note": "Nillkin CP+ Pro tempered glass is sold for the Redmi K80 and K80 Pro together."
+ },
+ {
+  "models": [
+   "Redmi 12",
+   "Redmi Note 12R"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Vopmart: Nillkin CP+ Pro Tempered Glass for Xiaomi Redmi 12 4G / Note 12R 5G",
+    "url": "https://www.vopmart.com/pa1020828.html"
+   }
+  ],
+  "note": "Nillkin CP+ Pro tempered glass is sold for the Redmi 12 4G and Redmi Note 12R together."
+ },
+ {
+  "models": [
+   "OnePlus Open",
+   "Oppo Find N3"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Vopmart: Nillkin CP+ Pro Tempered Glass for OnePlus Open / OPPO Find N3",
+    "url": "https://www.vopmart.com/nillkin-cp-pro-tempered-glass-for-oneplus-open.html"
+   }
+  ],
+  "note": "Nillkin CP+ Pro tempered glass is sold for the OnePlus Open and Oppo Find N3 together (cover screen)."
+ },
+ {
+  "models": [
+   "Galaxy A30",
+   "Galaxy A50",
+   "Galaxy A50s",
+   "Galaxy M30",
+   "Galaxy M30s",
+   "Galaxy M31"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nevox: Nevox NEVOGLASS Samsung Galaxy A30/A50/A50s/M30/M30s/M31/M21 tempered glass",
+    "url": "https://nevox.de/produkte/displayschutz/samsung/galaxy-a-series/galaxy-a50/303/nevoglass-samsung-a30/a50/a50s/m30/m30s/m31/m21-tempered-glass"
+   }
+  ],
+  "note": "Nevox sells one NEVOGLASS tempered glass for the Galaxy A30, Galaxy A50, Galaxy A50s, Galaxy M30, Galaxy M30s and Galaxy M31."
+ },
+ {
+  "models": [
+   "Galaxy A36",
+   "Galaxy A37",
+   "Galaxy A56"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nevox: Nevox NEVOGLASS Samsung Galaxy A56/A37/A36/S24 FE 5g tempered glass",
+    "url": "https://nevox.de/produkte/displayschutz/samsung/galaxy-s-series/galaxy-s24-fe/1186/nevoglass-samsung-a56/a37/a36/s24-fe-5g-tempered-glass"
+   }
+  ],
+  "note": "Nevox sells one NEVOGLASS tempered glass for the Galaxy A36, Galaxy A37 and Galaxy A56."
+ },
+ {
+  "models": [
+   "Galaxy A16 5G",
+   "Galaxy A17",
+   "Galaxy A18",
+   "Galaxy A26"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nevox: Nevox NEVOGLASS Samsung Galaxy A18 5g/A17 5g/A26 5g/A16 5g/A16 4g tempered glass",
+    "url": "https://nevox.de/produkte/displayschutz/samsung/galaxy-a-series/galaxy-a16-5g-4g/1151/nevoglass-samsung-galaxy-a18-5g/a17-5g/a26-5g/a16-5g/a16-4g-tempered-glass"
+   }
+  ],
+  "note": "Nevox sells one NEVOGLASS tempered glass for the Galaxy A16 5G, Galaxy A17, Galaxy A18 and Galaxy A26."
+ },
+ {
+  "models": [
+   "Galaxy A57",
+   "Galaxy S26 FE"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Nevox: Nevox NEVOGLASS Samsung Galaxy A57 5g/S26 FE/S25 FE tempered glass",
+    "url": "https://nevox.de/produkte/displayschutz/samsung/galaxy-s-series/galaxy-s25-fe/1279/nevoglass-samsung-galaxy-a57-5g/s26-fe/s25-fe-tempered-glass"
+   }
+  ],
+  "note": "Nevox sells one NEVOGLASS tempered glass for the Galaxy A57 and Galaxy S26 FE."
  }
 ]
