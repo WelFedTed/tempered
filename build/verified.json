@@ -242,6 +242,10 @@
    {
     "name": "MP.cz: Tvrzené sklo PanzerGlass Motorola Moto G14/G54 5G/G54 Power Edition",
     "url": "https://www.mp.cz/tvrzene-sklo-panzerglass-motorola-moto-g14-g54-5g-g54-power-edition-p-212058"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Motorola G14/G54",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-motorola-g14-g54-black/"
    }
   ],
   "note": "PanzerGlass SAFE, Just in Case (Coolblue) and Techsuit each sell one glass for the Moto G14 and G54."
@@ -10743,6 +10747,10 @@
    {
     "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Motorola Moto E30 / E40",
     "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-motorola-moto-e30-e40.html"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Motorola E30/E40",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-motorola-e30-e40-black/"
    }
   ],
   "note": "Bizon sells one glass for E40 and E30; Lenovo K14 Plus not named."
@@ -17594,6 +17602,10 @@
    {
     "name": "Home Screen (Bizon): Bizon Glass Edge 2 Xiaomi Redmi Note 14 4G / 5G black frame",
     "url": "https://homescreen.pl/en/redmi-note-14/101783-bizon-glass-edge-2-xiaomi-redmi-note-14-4g-5g-black-frame-5907339015628.html"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi Note 14 4G/5G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-note-14-4g-black/"
    }
   ],
   "note": "MyScreen sells one glass for the Redmi Note 14 4G and Redmi Note 14 5G (Homescreen.pl)."
@@ -18413,6 +18425,10 @@
    {
     "name": "Home Screen (Bizon): Bizon Glass Clear Xiaomi Redmi Note 10 / 10s",
     "url": "https://homescreen.pl/en/redmi-note-1010s/94972-bizon-glass-clear-xiaomi-redmi-note-10-10s-5903896181417.html"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi Note 10/10s",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-note-10-10s/"
    }
   ],
   "note": "Supershieldz sells one tempered glass for the Redmi Note 10 and Redmi Note 10S."
@@ -18893,6 +18909,10 @@
    {
     "name": "Smartphonehoesjes.nl: Selencia Gehard Glas Screenprotector voor de Xiaomi Redmi 9A / 9C",
     "url": "https://www.smartphonehoesjes.nl/gehard-glas-screenprotector-xiaomi-redmi-9a.html"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi 9a/9c",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-9a-9c-black/"
    }
   ],
   "note": "Caliber and PanzerGlass sell one glass for the Redmi 9A and Redmi 9C (MP.cz)."
@@ -19269,6 +19289,10 @@
    {
     "name": "FIXED: Ochranné tvrzené sklo FIXED Full-Cover pro Infinix Smart 9/Hot 50i, černé",
     "url": "https://fixed.zone/products/ochranne-tvrzene-sklo-fixed-full-cover-pro-infinix-smart-9-hot-50i-cerne"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Infinix Hot 50i/Smart 9",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-infinix-hot-50i-smart-9-black/"
    }
   ],
   "note": "FIXED sells one glass for the Infinix Hot 50i and Infinix Smart 9 (FIXED)."
@@ -26056,5 +26080,268 @@
    }
   ],
   "note": "Nevox sells one NEVOGLASS tempered glass for the Galaxy A57 and Galaxy S26 FE."
+ },
+ {
+  "models": [
+   "Oppo A3",
+   "Oppo A3x"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Oppo A3/A3x/A40m",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-oppo-a3-a3x-a40m-black/"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Oppo A3/A3x/A40m",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-oppo-a3x-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Oppo A3 and Oppo A3x."
+ },
+ {
+  "models": [
+   "Oppo A5",
+   "Oppo A5x"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Oppo A5/A5X",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-oppo-a5-black/"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Oppo A5/A5X",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-oppo-a5-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Oppo A5 and Oppo A5x."
+ },
+ {
+  "models": [
+   "Poco M6 4G",
+   "Redmi 13"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi 13 4G/Poco M6 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-13-4g-black/"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Xiaomi Redmi 13 4G/Poco M6 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-xiaomi-redmi-13-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Poco M6 4G and Redmi 13."
+ },
+ {
+  "models": [
+   "Poco C71",
+   "Poco C75",
+   "Poco M7 5G",
+   "Redmi 14C",
+   "Redmi A4"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi 14c 4G/A4/Poco C71/Poco C75/Poco M7 5G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-14c-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Ultra-Thin full-cover glass for the Poco C71, Poco C75, Poco M7 5G, Redmi 14C and Redmi A4."
+ },
+ {
+  "models": [
+   "Redmi 15a",
+   "Redmi A7 Pro"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi 15C GL/Redmi A7 Pro/Redmi 15A 5G/POCO C85 GL",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-15c-gl-redmi-a7-pro-redmi-15a-5g-poco-c85-black/"
+   }
+  ],
+  "note": "Gelius sells one Ultra-Thin full-cover glass for the Redmi 15a and Redmi A7 Pro."
+ },
+ {
+  "models": [
+   "Redmi Note 11T Pro",
+   "Redmi Note 11T Pro+"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi Note 11T Pro 5G / Note 11T Pro Plus 5G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-note-11t-pro-5g-note-11t-pro-plus-5g-black/"
+   }
+  ],
+  "note": "Gelius sells one Ultra-Thin full-cover glass for the Redmi Note 11T Pro and Redmi Note 11T Pro+."
+ },
+ {
+  "models": [
+   "Poco M6 Pro 4G",
+   "Redmi Note 13 Pro 4G",
+   "Redmi Note 14S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Full Cover Ultra-Thin 0.25mm for Xiaomi Redmi Note 13 Pro 4G / Note 14S / Poco M6 Pro 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-full-cover-ultra-thin-0-25mm-for-xiaomi-redmi-note-13-pro/"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi Note 13 Pro 4G / Note 14S / Poco M6 Pro 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-note-13-pro-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Poco M6 Pro 4G, Redmi Note 13 Pro 4G and Redmi Note 14S."
+ },
+ {
+  "models": [
+   "Oppo A15",
+   "Oppo A15s"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Oppo A15/A15s",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-oppo-a15-a15s-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Oppo A15 and Oppo A15s."
+ },
+ {
+  "models": [
+   "Oppo A6",
+   "Oppo A6x 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for OPPO A6/A6X 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-oppo-a6-a6x-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Oppo A6 and Oppo A6x 4G."
+ },
+ {
+  "models": [
+   "Oppo A6k",
+   "Oppo A6s 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for OPPO A6K/A6S 4G",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-oppo-a6k-a6s-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Oppo A6k and Oppo A6s 4G."
+ },
+ {
+  "models": [
+   "Poco C75",
+   "Redmi 14C",
+   "Redmi A4"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 3D for Xiaomi Redmi 14c 4G/A4/Poco C75",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-3d-for-xiaomi-redmi-14c-4g-black/"
+   },
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi 14c 4G/A4/Poco C75",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-14c-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Poco C75, Redmi 14C and Redmi A4."
+ },
+ {
+  "models": [
+   "Realme C61",
+   "Realme C63"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Realme C63/C61",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-realme-c63-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Realme C61 and Realme C63."
+ },
+ {
+  "models": [
+   "Redmi Note 11 Pro",
+   "Redmi Note 11 Pro+ 5G",
+   "Redmi Note 12 Pro 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi Note 11 Pro/Note 11 Pro Plus/Note 12 Pro (4G)",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-note-11-pro-note-11-pro-plus-note-12-pro-4g-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Redmi Note 11 Pro, Redmi Note 11 Pro+ 5G and Redmi Note 12 Pro 4G."
+ },
+ {
+  "models": [
+   "Redmi Note 9 Pro",
+   "Redmi Note 9S"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Gelius: Protective glass Gelius Pro 4D for Xiaomi Redmi Note 9 Pro / Note 9s",
+    "url": "https://gelius.ua/en/p/protective-glass-gelius-pro-4d-for-xiaomi-redmi-note-9-pro-note-9s-black/"
+   }
+  ],
+  "note": "Gelius sells one Pro 3D/4D tempered glass for the Redmi Note 9 Pro and Redmi Note 9S."
+ },
+ {
+  "models": [
+   "Lenovo Tab P12 Pro"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Handyhuellen (Accezz): Accezz Premium Bildschirmschutz aus Glas for Lenovo Tab P12 Pro",
+    "url": "https://www.handyhuellen.de/premium-bildschirmschutz-aus-glas-lenovo-tab-p12-pro.html"
+   }
+  ],
+  "note": "Accezz sells tempered glass for the Lenovo Tab P12 Pro alone."
+ },
+ {
+  "models": [
+   "Xiaomi Pad 6S Pro 12.4"
+  ],
+  "fit": "own",
+  "sources": [
+   {
+    "name": "Handyhuellen (Accezz): Accezz Premium Bildschirmschutz aus Glas for Xiaomi Pad 6S Pro 12.4",
+    "url": "https://www.handyhuellen.de/premium-bildschirmschutz-aus-glas-xiaomi-pad-6s-pro-12-4.html"
+   }
+  ],
+  "note": "Accezz sells tempered glass for the Xiaomi Pad 6S Pro 12.4 alone."
+ },
+ {
+  "models": [
+   "Galaxy A16",
+   "Galaxy A16 5G",
+   "Galaxy A17 4G"
+  ],
+  "fit": "same",
+  "sources": [
+   {
+    "name": "Handyhuellen (Displex): Displex Bildschirmschutzfolie Real Glass for Samsung Galaxy A16 (4G/5G) / A17 (4G/5G)",
+    "url": "https://www.handyhuellen.de/bildschirmschutzfolie-real-glass-samsung-galaxy-a16-4g-5g-a17-4g-5g.html"
+   }
+  ],
+  "note": "Displex sells one Real Glass protector for the Galaxy A16 4G/5G and A17 4G."
  }
 ]
